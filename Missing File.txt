@@ -1,10 +1,12 @@
-Unused file
+Unused file = 6
 Enterprise : Enterprise-alter
 Kashino : KashinoSummerCensoredBanner.png
 San Francisco : San_FranciscoBunnyCensoredBanner.png
 Takao : Takao-AlterBanner.png, TakaoDarkBanner.png, TakaoJPBanner.png
+Sovetsky Soyuz : Sovetsky_SoyuzBanner.png
+Siren 6 file
 
-Missing File
+Missing File = 39 
 Acasta : Fashionable Outing
 Asashio : The Transfer Student Underneath the Dancing Petals
 Atago : School Traumerei
@@ -43,4 +45,3 @@ Vampire : The Breath of Spring
 White Heart : Goddesses' Humility
 Yuugure : Maid-In-Training!
 Zuikaku : Original Art
-last Dunkerque line 1915
