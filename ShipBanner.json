@@ -65,7 +65,7 @@
          },
          {
             "name":"Fashionable Outing",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Acasta/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          },
          {
             "name":"Lights of the Lantern Festival",
@@ -76,7 +76,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Acasta/AcastaBunnyBanner.png"
          }
       ]
-   }, // acasta 1 missing file
+   },
    {
       "id":"105",
       "names":"Achilles",
@@ -593,14 +593,14 @@
          },
          {
             "name":"The Transfer Student Underneath the Dancing Petals",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Asashio/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          },
          {
             "name":"Snow-Dusted Lynx Tips",
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Asashio/AsashioNew_YearBanner.png"
          }
       ]
-   }, // asashio 1 missing file
+   },
    {
       "id":"198",
       "names":"Ashigara",
@@ -659,14 +659,14 @@
          },
          {
             "name":"School Traumerei",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Atago/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          },
          {
             "name":"Stunning Speedster",
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Atago/AtagoRaceQueenBanner.png"
          }
       ]
-   }, // atago 1 missing file
+   },
    {
       "id":"034",
       "names":"Atlanta",
@@ -719,10 +719,10 @@
          },
          {
             "name":"Heritage of Yu City",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Aurora/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          }
       ]
-   }, // aurora 1 missing file
+   },
    {
       "id":"262",
       "names":"Avrora",
@@ -1053,10 +1053,10 @@
          },
          {
             "name":"Goddesses' Smile",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          }
       ]
-   }, // Black Heart 1 missing file
+   },
    {
       "id":"408",
       "names":"Black Prince",
@@ -1451,10 +1451,10 @@
          },
          {
             "name":"Original Art",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Chikuma/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          }
       ]
-   }, // Chikuma 1 missing file 
+   },
    {
       "id":"470",
       "names":"Chitose",
@@ -1763,7 +1763,7 @@
          },
          {
             "name":"Dark Demon Princess",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Deutschland/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          },
          {
             "name":"Service Time?!",
@@ -1778,7 +1778,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Deutschland/DeutschlandSpringBanner.png"
          }
       ]
-   }, // deutschland 1 missing file
+   },
    {
       "id":"004",
       "names":"Dewey",
@@ -2293,10 +2293,10 @@
          },
          {
             "name":"Sleepy Fairy",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Fumizuki/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          }
       ]
-   }, // fumizuki 1 mising file
+   },
    {
       "id":"190",
       "names":"Furutaka",
@@ -2459,14 +2459,14 @@
          },
          {
             "name":"Glorious School Life",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Glorious/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          },
          {
             "name":"Pungent Plum",
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Glorious/GloriousSpringBanner.png"
          }
       ]
-   }, // glorious 1 missing file
+   },
    {
       "id":"113",
       "names":"Gloucester",
@@ -2533,10 +2533,10 @@
          },
          {
             "name":"Goddesses' Moment",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          }
       ]
-   }, // green heart 1 missing file
+   },
    {
       "id":"497",
       "names":"Gremyashchy",
@@ -2727,11 +2727,11 @@
          },
          {
             "name":"Original Art",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Haruna/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          },
          {
             "name":"Free Time Before Class",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Haruna/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          },
          {
             "name":"Scarlet Innocence",
@@ -2742,7 +2742,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Haruna/HarunaNew_YearBanner.png"
          }
       ]
-   }, // haruna 2 missing file
+   },
    {
       "id":"296",
       "names":"Harutsuki",
@@ -2909,7 +2909,7 @@
          },
          {
             "name":"Original Art",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hiei/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          },
          {
             "name":"Moonlit Cruise",
@@ -2924,7 +2924,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hiei/HieiSummerBanner.png"
          }
       ]
-   }, // hiei 1 missing file
+   },
    {
       "id":"383",
       "names":"Hiei-chan",
@@ -3037,7 +3037,7 @@
          },
          {
             "name":"Original Art",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hood/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          },
          {
             "name":"Wedding",
@@ -3056,7 +3056,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hood/HoodPartyBanner.png"
          }
       ]
-   }, // hood 1 missing file
+   },
    {
       "id":"078",
       "names":"Hornet",
@@ -3171,7 +3171,7 @@
          },
          {
             "name":"Departure's Gentle Breeze",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/I-19/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          },
          {
             "name":"Pillowy Paradise",
@@ -3182,7 +3182,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/I-19/I-19BunnyBanner.png"
          }
       ]
-   }, // I-19 1 missing file
+   },
    {
       "id":"396",
       "names":"I-25",
@@ -3211,14 +3211,14 @@
          },
          {
             "name":"Deep-Sea Rabbit",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/I-26/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          },
          {
             "name":"Shortly Before the Fireworks",
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/I-26/I-26FestivalBanner.png"
          }
       ]
-   }, // I-26 1 missing file
+   },
    {
       "id":"397",
       "names":"I-56",
@@ -3403,7 +3403,7 @@
          },
          {
             "name":"Original Art",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Indianapolis/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          },
          {
             "name":"At School With My Sister...",
@@ -3414,7 +3414,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Indianapolis/IndianapolisPartyBanner.png"
          }
       ]
-   }, // Indianapolis 1 missing file
+   },
    {
       "id":"518",
       "names":"Ingraham",
@@ -3621,14 +3621,14 @@
          },
          {
             "name":"Original Art",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Jeanne_d'Arc/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          },
          {
             "name":"Saintess of the Sea",
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Jeanne_d'Arc/Jeanne_d'ArcSummerBanner.png"
          }
       ]
-   }, // Jeanne d'Arc 1 missing file
+   },
    {
       "id":"300",
       "names":"Jenkins",
@@ -3653,10 +3653,10 @@
          },
          {
             "name":"Original Art",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Jersey/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          }
       ]
-   }, // Jersey 1 missing file
+   },
    {
       "id":"309",
       "names":"Jintsuu",
@@ -3915,10 +3915,10 @@
          },
          {
             "name":"Monochromatic Interlude",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kawakaze/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          }
       ]
-   }, // Kawakaze 1 missing file
+   },
    {
       "id":"517",
       "names":"Kazagumo",
@@ -4027,7 +4027,7 @@
          },
          {
             "name":"Original Art",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kirishima/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          },
          {
             "name":"After-School Cannon Time",
@@ -4046,7 +4046,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kirishima/KirishimaSpringBanner.png"
          }
       ]
-   }, // Kirishima 1 missing file
+   },
    {
       "id":"435",
       "names":"Kirov",
@@ -4057,14 +4057,14 @@
          },
          {
             "name":"Original Art",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kirov/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          },
          {
             "name":"Blend R",
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kirov/KirovCasualBanner.png"
          }
       ]
-   }, // Kirov 1 missing file
+   },
    {
       "id":"272",
       "names":"Kisaragi",
@@ -4135,7 +4135,7 @@
          },
          {
             "name":"Original Art",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kongou/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          },
          {
             "name":"The Beauties of Nature",
@@ -4146,7 +4146,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kongou/KongouHospitalBanner.png"
          }
       ]
-   }, // Kongou 1 missing file
+   },
    {
       "id":"469",
       "names":"Kumano",
@@ -4823,10 +4823,10 @@
          },
          {
             "name":"Original Art",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Mikuma/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          }
       ]
-   }, // Mikuma 1 missing file
+   },
    {
       "id":"Collab053",
       "names":"Minato Aqua",
@@ -4915,14 +4915,14 @@
          },
          {
             "name":"Original Art",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Mogami/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          },
          {
             "name":"Retrofit",
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Mogami/MogamiKaiBanner.png"
          }
       ]
-   }, // Mogami 1 missing file
+   },
    {
       "id":"Plan002",
       "names":"Monarch",
@@ -5141,11 +5141,11 @@
          },
          {
             "name":"Original Art",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Nagato/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          },
          {
             "name":"Wedding",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Nagato/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          },
          {
             "name":"Great Fox's Respite",
@@ -5160,7 +5160,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Nagato/NagatoCasualBanner.png"
          }
       ]
-   }, // Nagato 2 missing file
+   },
    {
       "id":"278",
       "names":"Nagatsuki",
@@ -5357,7 +5357,7 @@
          },
          {
             "name":"Nurse Nicholas",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Nicholas/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          },
          {
             "name":"Surprise!?",
@@ -5372,7 +5372,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Nicholas/NicholasSchoolBanner.png"
          }
       ]
-   }, // Nicholas 1 missing file
+   },
    {
       "id":"506",
       "names":"Nicoloso da Recco",
@@ -5805,7 +5805,7 @@
          },
          {
             "name":"Original Art",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Prince_of_Wales/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          },
          {
             "name":"Sun Shining Upon Windsor",
@@ -5820,7 +5820,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Prince_of_Wales/Prince_of_WalesRaceQueenBanner.png"
          }
       ]
-   }, // Prince of Wales 1 missing file
+   },
    {
       "id":"473",
       "names":"Princeton",
@@ -5899,10 +5899,10 @@
          },
          {
             "name":"Goddesses' Promise",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          }
       ]
-   }, // Purple Heart 1 missing file
+   },
    {
       "id":"130",
       "names":"Queen Elizabeth",
@@ -6149,7 +6149,7 @@
          },
          {
             "name":"Original Art",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Ryuujou/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          },
          {
             "name":"Slacking Samurai",
@@ -6160,7 +6160,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Ryuujou/RyuujouSchoolBanner.png"
          }
       ]
-   }, // Ryuujou 1 missing file
+   },
    {
       "id":"Plan006",
       "names":"Saint Louis",
@@ -6491,10 +6491,10 @@
          },
          {
             "name":"Is The Order A Torpedo?",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Shiratsuyu/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          }
       ]
-   }, // Shiratsuyu 1 missing file
+   },
    {
       "id":"152",
       "names":"Shirayuki",
@@ -6537,7 +6537,7 @@
          },
          {
             "name":"Original Art",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Shoukaku/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          },
          {
             "name":"The Crane that Dances With the Wind",
@@ -6548,7 +6548,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Shoukaku/ShoukakuRaceQueenBanner.png"
          }
       ]
-   }, // Shoukaku 1 missing file
+   },
    {
       "id":"120",
       "names":"Shropshire",
@@ -6727,7 +6727,7 @@
          },
          {
             "name":"Blue and White Pottery",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/St._Louis/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          },
          {
             "name":"Spirits in the Snow",
@@ -6738,7 +6738,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/St._Louis/St._LouisPartyBanner.png"
          }
       ]
-   }, // St. Louis 1 missing file
+   },
    {
       "id":"409",
       "names":"Stanly",
@@ -6977,14 +6977,14 @@
          },
          {
             "name":"School Romanza",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Takao/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          },
          {
             "name":"Full Throttle Charmer",
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Takao/TakaoRaceQueenBanner.png"
          }
       ]
-   }, // Takao 1 missing file
+   },
    {
       "id":"496",
       "names":"Tallinn",
@@ -7505,7 +7505,7 @@
          },
          {
             "name":"The Breath of Spring",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Vampire/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          },
          {
             "name":"Little Devil in White",
@@ -7520,7 +7520,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Vampire/VampireIdolBanner.png"
          }
       ]
-   }, // Vampire 1 missing file
+   },
    {
       "id":"457",
       "names":"Vauquelin",
@@ -7725,10 +7725,10 @@
          },
          {
             "name":"Goddesses' Humility",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/White_Heart/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          }
       ]
-   }, // White Heart 1 missing file
+   },
    {
       "id":"049",
       "names":"Wichita",
@@ -7987,7 +7987,7 @@
          },
          {
             "name":"Maid-In-Training!",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Yuugure/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          },
          {
             "name":"Twilight Blossom",
@@ -8002,7 +8002,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Yuugure/YuugureFestivalBanner.png"
          }
       ]
-   }, // Yuugure 1 missing file
+   },
    {
       "id":"233",
       "names":"Z1",
@@ -8269,7 +8269,7 @@
          },
          {
             "name":"Original Art",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Zuikaku/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          },
          {
             "name":"Ceremonial Crane",
@@ -8280,7 +8280,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Zuikaku/ZuikakuRaceQueenBanner.png"
          }
       ]
-   }, // Zuikaku 1 missing file
+   },
    {
       "id":"Plan020",
       "names":"Ägir",
