@@ -943,35 +943,35 @@
       "skins":[
          {
             "name":"Default",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/BelfastBanner.png"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Belfast/BelfastBanner.png"
          },
          {
             "name":"Wedding",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/BelfastWeddingBanner.png"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Belfast/BelfastWeddingBanner.png"
          },
          {
             "name":"Iridescent Rosa",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/BelfastSpringBanner.png"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Belfast/BelfastSpringBanner.png"
          },
          {
             "name":"Serene Steel",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/BelfastBlurayBanner.png"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Belfast/BelfastBlurayBanner.png"
          },
          {
             "name":"The Noble Attendant",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/BelfastPartyBanner.png"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Belfast/BelfastPartyBanner.png"
          },
          {
             "name":"Shopping with the Head Maid",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/BelfastCasualBanner.png"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Belfast/BelfastCasualBanner.png"
          },
          {
             "name":"Piping-Hot Perfection",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/BelfastPizzaBanner.png"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Belfast/BelfastPizzaBanner.png"
          },
          {
             "name":"Folded Fascination",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/BelfastNew_YearBanner.png"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Belfast/BelfastNew_YearBanner.png"
          }
       ]
    },
@@ -1355,15 +1355,15 @@
       "skins":[
          {
             "name":"Default",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/ChapayevBanner.png"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Chapayev/ChapayevBanner.png"
          },
          {
             "name":"The Captive Cavalier",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/ChapayevPrisonBanner.png"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Chapayev/ChapayevPrisonBanner.png"
          },
          {
             "name":"White Cavalier's Respite",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/ChapayevCasualBanner.png"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Chapayev/ChapayevCasualBanner.png"
          }
       ]
    },
@@ -1785,7 +1785,7 @@
       "skins":[
          {
             "name":"Default",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Dewey/Dewey"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Dewey/DeweyBanner.png"
          },
          {
             "name":"Summer Longing",
@@ -6355,7 +6355,7 @@
       "skins":[
          {
             "name":"Default",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Shangri-La/Shangri-La"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Shangri-La/Shangri-LaBanner.png"
          },
          {
             "name":"Utopia's Collector",
@@ -7263,7 +7263,7 @@
          },
          {
             "name":"Rookie Rider",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/U-47/"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png"
          },
          {
             "name":"Eigenen Raum",
