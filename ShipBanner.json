@@ -10,7 +10,7 @@
       ]
    },
    {
-      "id":"Collab022",
+      "id":"Collab022"
       "names":"33",
       "skins":[
          {
@@ -5323,6 +5323,16 @@
             "name":"Exhilarating Steps!",
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/New_Jersey/New_JerseyBunnyBanner.png"
          }
+      ]
+   },
+   {
+      "id":"521",
+      "names":"New Orleans",
+      "skins":[
+         {
+            "name":"Default",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/New_Orleans/New_OrleansBanner.png"
+         },
       ]
    },
    {
