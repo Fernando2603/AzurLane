@@ -1,4 +1,4 @@
-31 October 2021 (+10 File) (+2 Folder) (path:/)
+31 October 2021 (+10 File) (+2 Folder) (path:/images/skins)
 -Noshiro CasualBanner
 -Maillé_BrézéCasualBanner
 -Maillé_BrézéBanner
