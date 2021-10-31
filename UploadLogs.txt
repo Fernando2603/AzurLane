@@ -1,4 +1,11 @@
+===========================================================
 31 October 2021 (+10 File) (+2 Folder) (path:/images/skins)
+
+New Folder
+-Maillé_Brézé
+-Le_Terrible
+
+New File
 -Noshiro CasualBanner
 -Maillé_BrézéCasualBanner
 -Maillé_BrézéBanner
@@ -9,3 +16,4 @@
 -KumanoCasualBanner
 -IbukiCasualBanner
 -BoiseHalloweenBanner
+===========================================================
