@@ -1,15 +1,9 @@
-Updated & Unused File = 10
-[01102021]
-Noshiro CasualBanner.png
+Updated & Unused File = 4
+[03112021]
 Maillé_BrézéCasualBanner.png
 Maillé_BrézéBanner.png
-LittorioCasualBanner.png
 Le_TerribleCasualBanner.png
 Le_TerribleBanner.png
-La_GalissonnièreHalloweenBanner.png
-KumanoCasualBanner.png
-IbukiCasualBanner.png
-BoiseHalloweenBanner.png
 
 Unused file = 6
 Enterprise : Enterprise-alter.png
