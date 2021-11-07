@@ -4372,6 +4372,20 @@
       ]
    },
    {
+		"id":"522",
+		"names":"Le Terrible",
+		"skins":[
+			{
+				"name":"Default",
+				"banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Le_Terrible/Le_TerribleBanner.png"
+			}
+			{
+				"name":"Sunlight, Seaspray, and Sanctity",
+				"banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Le_Terrible/Le_TerribleCasualBanner.png"
+			}
+		]
+	},
+   {
       "id":"347",
       "names":"Le Triomphant",
       "skins":[
@@ -4587,6 +4601,20 @@
          }
       ]
    },
+   {
+		"id":"523",
+		"names":"Maillé Brézé",
+		"skins":[
+			{
+				"name":"Default",
+				"banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Maillé_Brézé/Maillé_BrézéBanner.png"
+			}
+			{
+				"name":"The Noble Knight's Last Stand",
+				"banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Maillé_Brézé/Maillé_BrézéCasualBanner.png"
+			}
+		]
+	},
    {
       "id":"Plan015",
       "names":"Mainz",
