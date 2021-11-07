@@ -1,9 +1,4 @@
-Updated & Unused File = 4
-[03112021]
-Maillé_BrézéCasualBanner.png
-Maillé_BrézéBanner.png
-Le_TerribleCasualBanner.png
-Le_TerribleBanner.png
+Updated & Unused File = 0
 
 Unused file = 6
 Enterprise : Enterprise-alter.png
