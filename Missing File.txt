@@ -1,8 +1,4 @@
-Updated & Unused File = 4
--FochBanner
--FochCasualBanner
--EnterpriseRaceQueenBanner
--Prinz_EugenRaceQueenBanner
+Updated & Unused File = 0
 
 Unused file = 6
 Enterprise : Enterprise-alter.png
