@@ -2030,6 +2030,10 @@
          {
             "name":"Heroic Finery",
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Enterprise/EnterprisePartyBanner.png"
+         },
+         {
+            "name":"Wind Catcher",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Enterprise/EnterpriseRaceQueenBanner.png"
          }
       ]
    },
@@ -2126,6 +2130,20 @@
          {
             "name":"Default",
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Fletcher/FletcherBanner.png"
+         }
+      ]
+   },
+   {
+      "id":"524",
+      "names":"Foch",
+      "skins":[
+         {
+            "name":"Default",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Foch/FochBanner.png"
+         }
+         {
+            "name":"Rainbow Rendezvous",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Foch/FochCasualBanner.png"
          }
       ]
    },
@@ -5924,6 +5942,10 @@
          {
             "name":"Cordial Cornflower",
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Prinz_Eugen/Prinz_EugenPartyBanner.png"
+         },
+         {
+            "name":"Final Lap",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Prinz_Eugen/Prinz_EugenRaceQueenBanner.png"
          }
       ]
    },
