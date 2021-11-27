@@ -1,4 +1,26 @@
 ===========================================================
+27 November 2021 (+19 File) (+7 Folder) (path:/images/skins)
+
+/Akane_Shinjo/Akane_ShinjoBanner.png
+/Akane_Shinjo/Akane_ShinjoCasualBanner.png
+/Bremerton/BremertonCasualBanner.png
+/Chise_Asukagawa/Chise_AsukagawaBanner.png
+/Chise_Asukagawa/Chise_AsukagawaCasualBanner.png
+/Colorado/ColoradoTravelBanner.png
+/Hass/HassBanner.png
+/Hass/HassCasualBanner.png
+/Indepedence/IndependenceCasual2Banner.png
+/Indepedence/IndependenceCasualBanner.png
+/META/Hiyou_METABanner.png
+/Mujina/MujinaBanner.png
+/Mujina/MujinaCasualBanner.png
+/Namiko/NamikoBanner.png
+/Namiko/NamikoCasualBanner.png
+/Rikka_Takarada/Rikka_TakaradaBanner.png
+/Rikka_Takarada/Rikka_TakaradaCasualBanner.png
+/Yume_Minami/Yume_MinamiBanner.png
+/Yume_Minami/Yume_MinamiCasualBanner.png
+===========================================================
 20 November 2021 (+10 File) (+1 Folder) (path:/images/skins)
 
 New Folder
