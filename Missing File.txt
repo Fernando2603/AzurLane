@@ -1,4 +1,23 @@
-Updated & Unused File = 0
+Updated & Unused File = 19
+/Akane_Shinjo/Akane_ShinjoBanner.png
+/Akane_Shinjo/Akane_ShinjoCasualBanner.png
+/Bremerton/BremertonCasualBanner.png
+/Chise_Asukagawa/Chise_AsukagawaBanner.png
+/Chise_Asukagawa/Chise_AsukagawaCasualBanner.png
+/Colorado/ColoradoTravelBanner.png
+/Hass/HassBanner.png
+/Hass/HassCasualBanner.png
+/Indepedence/IndependenceCasual2Banner.png
+/Indepedence/IndependenceCasualBanner.png
+/META/Hiyou_METABanner.png
+/Mujina/MujinaBanner.png
+/Mujina/MujinaCasualBanner.png
+/Namiko/NamikoBanner.png
+/Namiko/NamikoCasualBanner.png
+/Rikka_Takarada/Rikka_TakaradaBanner.png
+/Rikka_Takarada/Rikka_TakaradaCasualBanner.png
+/Yume_Minami/Yume_MinamiBanner.png
+/Yume_Minami/Yume_MinamiCasualBanner.png
 
 Unused file = 6
 Enterprise : Enterprise-alter.png
