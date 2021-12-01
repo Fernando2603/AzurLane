@@ -228,6 +228,20 @@
       ]
    },
    {
+      "id":"10082",
+      "names":"Akane Shinjo",
+      "skins":[
+         {
+            "name":"Default",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Akane_Shinjo/Akane_ShinjoBanner.png"
+         },
+         {
+            "name":"A Vacation Just for Two",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Akane_Shinjo/Akane_ShinjoBanner.png"
+         }
+      ]
+   },
+   {
       "id":"232",
       "names":"Akashi",
       "skins":[
@@ -1154,6 +1168,10 @@
          {
             "name":"Kung Fu Cruiser",
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Bremerton/BremertonSpringBanner.png"
+         },
+         {
+            "name":"Day-Off Date",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Bremerton/BremertonCasualBanner.png"
          }
       ]
    },
@@ -1460,6 +1478,20 @@
       ]
    },
    {
+      "id":"10086",
+      "names":"Chise Asukagawa",
+      "skins":[
+         {
+            "name":"Default",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Chise_Asukagawa/Chise_AsukagawaBanner.png"
+         },
+         {
+            "name":"Together, Swimming through the Sky",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Chise_Asukagawa/Chise_AsukagawaCasualBanner.png"
+         }
+      ]
+   },
+   {
       "id":"470",
       "names":"Chitose",
       "skins":[
@@ -1558,6 +1590,10 @@
          {
             "name":"Original Art",
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Colorado/ColoradoOriginalBanner.png"
+         },
+         {
+            "name":"Traveling Melody",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Colorado/ColoradoTravelBanner.png"
          }
       ]
    },
@@ -2780,6 +2816,20 @@
       ]
    },
    {
+      "id":"10083",
+      "names":"Hass",
+      "skins":[
+         {
+            "name":"Default",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hass/HassBanner.png"
+         },
+         {
+            "name":"Seaside Scoop!",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hass/HassCasualBanner.png"
+         }
+      ]
+   },
+   {
       "id":"369",
       "names":"Hatakaze",
       "skins":[
@@ -2992,6 +3042,16 @@
          {
             "name":"Default",
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hiyou/HiyouBanner.png"
+         }
+      ]
+   },
+   {
+      "id":"30006",
+      "names":"Hiyou META",
+      "skins":[
+         {
+            "name":"Default",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/META/Hiyou_METABanner.png"
          }
       ]
    },
@@ -3416,6 +3476,10 @@
          {
             "name":"Liberty and Leisure",
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Independence/IndependenceCasualBanner.png"
+         },
+         {
+            "name":"The Tailwind of Opportunity",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Indepedence/IndependenceCasual2Banner.png"
          }
       ]
    },
@@ -5054,6 +5118,20 @@
       ]
    },
    {
+      "id":"10087",
+      "names":"Mujina",
+      "skins":[
+         {
+            "name":"Default",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Mujina/MujinaBanner.png"
+         },
+         {
+            "name":"Golden Promenade",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Mujina/MujinaCasualBanner.png"
+         }
+      ]
+   },
+   {
       "id":"375",
       "names":"Mullany",
       "skins":[
@@ -5280,6 +5358,20 @@
          {
             "name":"Summertime Nakiri",
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Nakiri_Ayame/Nakiri_AyameSummerBanner.png"
+         }
+      ]
+   },
+   {
+      "id":"10084",
+      "names":"Namiko",
+      "skins":[
+         {
+            "name":"Default",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Namiko/NamikoBanner.png"
+         },
+         {
+            "name":"Miss Street-Wise",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Namiko/NamikoCasualBanner.png"
          }
       ]
    },
@@ -6132,6 +6224,20 @@
          {
             "name":"Default",
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Richmond/RichmondBanner.png"
+         }
+      ]
+   },
+   {
+      "id":"10081",
+      "names":"Rikka Takarada",
+      "skins":[
+         {
+            "name":"Default",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Rikka_Takarada/Rikka_TakaradaBanner.png"
+         },
+         {
+            "name":"Blue Sky Station",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Rikka_Takarada/Rikka_TakaradaCasualBanner.png"
          }
       ]
    },
@@ -7992,6 +8098,20 @@
          {
             "name":"Winter's Snowy Wind",
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Yukikaze/YukikazeSpringBanner.png"
+         }
+      ]
+   },
+   {
+      "id":"10085",
+      "names":"Yume Minami",
+      "skins":[
+         {
+            "name":"Default",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Yume_Minami/Yume_MinamiBanner.png"
+         },
+         {
+            "name":"A Dream Upon an Open Windowsill",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Yume_Minami/Yume_MinamiCasualBanner.png"
          }
       ]
    },
