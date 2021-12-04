@@ -1,0 +1,42 @@
+[
+  {
+    "wikiUrl":"https://azurlane.koumakan.jp/wiki/The_Flame-Touched_Dagger",
+    "event":"The Flame-Touched Dagger",
+    "map":"SP3",
+    "cost":[22,32,15],
+    "clear":4,
+    "boss":5,
+    "enemy":{
+      "mob":"81-83",
+      "siren":"84",
+      "boss":"85"
+    },
+    "exp":{
+      "mob":[405,451,498],
+      "siren":567,
+      "boss":616
+		},
+		"equip":"Triple 381mm M1932 Main Gun Mount",
+		"ship":null
+	},
+	{
+		"wikiUrl":"https://azurlane.koumakan.jp/wiki/World-Spanning_Arclight",
+		"event":"World-Spanning Arclight",
+		"map":"T4",
+		"cost":[20,30,15],
+		"clear":4,
+		"boss":5,
+		"enemy":{
+			"mob":"76-78",
+			"siren":"79",
+			"boss":"80"
+		},
+		"exp":{
+			"mob":[380,423,468],
+			"siren":533,
+			"boss":580
+		},
+		"equip":"Twin 381mm (BL 15\" Mk II)",
+		"ship":"Chise Asukagawa"
+	}
+]
