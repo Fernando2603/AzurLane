@@ -47,3 +47,24 @@ Vampire : The Breath of Spring
 White Heart : Goddesses' Humility
 Yuugure : Maid-In-Training!
 Zuikaku : Original Art
+
+Missing File [04122021]
+AcastaSchoolIcon.png
+AsashioSchoolIcon.png
+AtagoSchoolIcon.png
+AuroraCollabIcon.png
+AyanamiNicoNicoChibiIcon.png
+FumizukiSleepyIcon.png
+Green_HeartCollabIcon.png
+HarunaSchoolIcon.png
+I-19SchoolIcon.png
+I-26SchoolIcon.png
+SouryuuMETAChibiIcon.png
+SouryuuNew_YearIcon.png
+SouryuuSchoolIcon.png
+St._LouisSpringIcon.png
+TakaoSchoolIcon.png
+U-47BikeIcon.png
+YuudachiNew_YearIcon.png
+YuugureMaidIcon.png
+Z25SummerIcon.png
