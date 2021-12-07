@@ -506,7 +506,7 @@ BismarckShipyardIcon.png
 Black_HeartChibiIcon.png
 Black_HeartCollabChibiIcon.png
 Black_HeartCollabShipyardIcon.png
-Black_HeartCollab_CNIcon.png
+Black_HeartCollabIcon.png
 Black_HeartIcon.png
 Black_HeartShipyardIcon.png
 Black_PrinceBunnyChibiIcon.png
@@ -2668,8 +2668,7 @@ Ookami_MioSummerIcon.png
 Ookami_MioSummerShipyardIcon.png
 OoshioChibiIcon.png
 OoshioChristmasChibiIcon.png
-OoshioChristmasCNIcon.png
-OoshioChristmasCNShipyardIcon.png
+OoshioChristmasIcon.png
 OoshioChristmasShipyardIcon.png
 OoshioIcon.png
 OoshioPartyChibiIcon.png

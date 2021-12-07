@@ -1135,7 +1135,7 @@
             "name":"NicoNico",
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Ayanami/AyanamiNicoNicoBanner.png",
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Ayanami/AyanamiNicoNicoIcon.png",
-            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Ayanami/AyanamiNicoNicoChibiIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Ayanami/AyanamiNicoNicoShipyardIcon.png"
          },
          {
@@ -2339,7 +2339,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Colorado/ColoradoOriginalBanner.png",
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownChibiIcon.png",
-            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknowninalShipyardIcon.png"
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownShipyardIcon.png"
          },
          {
             "name":"Traveling Melody",
@@ -8340,10 +8340,10 @@
          },
          {
             "name":"Cozy Enclave",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Noshiro/Noshiro CasualBanner.png",
-            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Noshiro/Noshiro CasualIcon.png",
-            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Noshiro/Noshiro CasualChibiIcon.png",
-            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Noshiro/Noshiro CasualShipyardIcon.png"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Noshiro/NoshiroCasualBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Noshiro/NoshiroCasualIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Noshiro/NoshiroCasualChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Noshiro/NoshiroCasualShipyardIcon.png"
          }
       ]
    },
@@ -12514,7 +12514,7 @@
          {
             "name":"Retrofit",
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Émile_Bertin/Émile_BertinKaiBanner.png",
-            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Émile_Bertin/Émile_BertinKaiIcon.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Émile_Bertin/Émile_BertinKaiChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Émile_Bertin/Émile_BertinKaiShipyardIcon.png"
          },
