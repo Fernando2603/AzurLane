@@ -11874,9 +11874,9 @@
          {
             "name":"Saintly Wings",
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Yorktown/YorktownCasualBanner.png",
-            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Yorktown/YorktownCasualIcon.png",
-            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Yorktown/YorktownCasualChibiIcon.png",
-            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Yorktown/YorktownCasualShipyardIcon.png"
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownShipyardIcon.png"
          }
       ]
    },
@@ -12514,7 +12514,7 @@
          {
             "name":"Retrofit",
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Émile_Bertin/Émile_BertinKaiBanner.png",
-            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Émile_Bertin/Émile_BertinKaiIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Émile_Bertin/Émile_BertinKaiChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Émile_Bertin/Émile_BertinKaiShipyardIcon.png"
          },

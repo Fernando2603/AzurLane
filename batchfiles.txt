@@ -952,9 +952,6 @@ EldridgeShipyardIcon.png
 Elegant_Kizuna_AIChibiIcon.png
 Elegant_Kizuna_AIIcon.png
 Elegant_Kizuna_AIShipyardIcon.png
-Emile_BertinKaiIcon.png
-Emile_BertinKaiShipyardIcon.png
-Emile_BertinSummerIcon.png
 EnterpriseBlurayChibiIcon.png
 EnterpriseBlurayIcon.png
 EnterpriseBlurayShipyardIcon.png
@@ -3956,6 +3953,8 @@ ZuikakuShipyardIcon.png
 Émile_BertinChibiIcon.png
 Émile_BertinIcon.png
 Émile_BertinKaiChibiIcon.png
+Émile_BertinKaiIcon.png
+Émile_BertinKaiShipyardIcon.png
 Émile_BertinMaidChibiIcon.png
 Émile_BertinMaidIcon.png
 Émile_BertinMaidShipyardIcon.png
@@ -3963,5 +3962,6 @@ ZuikakuShipyardIcon.png
 Émile_BertinPartyIcon.png
 Émile_BertinPartyShipyardIcon.png
 Émile_BertinShipyardIcon.png
+Émile_BertinSummerIcon.png
 Émile_BertinSummerChibiIcon.png
 Émile_BertinSummerShipyardIcon.png
