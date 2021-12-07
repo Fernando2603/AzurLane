@@ -336,7 +336,6 @@ AuroraSpringShipyardIcon.png
 AuroraWeddingChibiIcon.png
 AuroraWeddingIcon.png
 AuroraWeddingShipyardIcon.png
-AvroraAnniIcon.png
 AvroraChibiIcon.png
 AvroraIcon.png
 AvroraPrisonChibiIcon.png
@@ -1183,7 +1182,6 @@ GlasgowSchoolChibiIcon.png
 GlasgowSchoolIcon.png
 GlasgowSchoolShipyardIcon.png
 GlasgowShipyardIcon.png
-GloriousAnniIcon.png
 GloriousChibiIcon.png
 GloriousIcon.png
 GloriousSchoolChibiIcon.png
@@ -3525,7 +3523,6 @@ Universal_BulinEventIcon.png
 Universal_BulinEventShipyardIcon.png
 Universal_BulinIcon.png
 Universal_BulinShipyardIcon.png
-UnknownChibiIcon.png
 UnknownIcon.png
 UnknownShipyardIcon.png
 UrakazeChibiIcon.png
@@ -3717,7 +3714,6 @@ YamashiroSummerShipyardIcon.png
 YamashiroWeddingChibiIcon.png
 YamashiroWeddingIcon.png
 YamashiroWeddingShipyardIcon.png
-Yat_SenAnniIcon.png
 Yat_SenChibiIcon.png
 Yat_SenIcon.png
 Yat_SenShipyardIcon.png
