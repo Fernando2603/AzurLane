@@ -1581,9 +1581,9 @@
          {
             "name":"Goddesses' Smile",
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png",
-            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png",
-            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownChibiIcon.png",
-            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownShipyardIcon.png"
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Black_Heart/Black_HeartCollabIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Black_Heart/Black_HeartCollabChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Black_Heart/Black_HeartCollabShipyardIcon.png"
          }
       ]
    },
