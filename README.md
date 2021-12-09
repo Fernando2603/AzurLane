@@ -19,7 +19,10 @@ Replace Missing Banner with `https://raw.githubusercontent.com/Fernando2603/Azur
       "skins":[
          {
             "name":"Default",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/22/22Banner.png"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/22/22Banner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/22/22Icon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/22/22ChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/22/22ShipyardIcon.png"
          }
       ]
    }
