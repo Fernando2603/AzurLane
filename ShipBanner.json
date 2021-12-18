@@ -3783,6 +3783,19 @@
       ]
    },
    {
+      "id":"30007",
+      "names":"Gneisenau META",
+      "skins":[
+         {
+            "name":"Default",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/META/Gneisenau_METABanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/META/Gneisenau_METAIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/META/Gneisenau_METAChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/META/Gneisenau_METAShipyardIcon.png"
+         }
+      ]
+   },
+   {
       "id":"252",
       "names":"Graf Zeppelin",
       "skins":[
@@ -8067,6 +8080,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/New_Orleans/New_OrleansIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/New_Orleans/New_OrleansChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/New_Orleans/New_OrleansShipyardIcon.png"
+         },
+         {
+            "name":"Evening Agricole",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/New_Orleans/New_OrleansBunnyBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/New_Orleans/New_OrleansBunnyIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/New_Orleans/New_OrleansBunnyChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/New_Orleans/New_OrleansBunnyShipyardIcon.png"
          }
       ]
    },
