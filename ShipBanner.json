@@ -427,6 +427,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Akatsuki/AkatsukiCasualIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Akatsuki/AkatsukiCasualChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Akatsuki/AkatsukiCasualShipyardIcon.png"
+         },
+         {
+            "name":"Santa's Lost Helper!",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Akatsuki/AkatsukiChristmasBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Akatsuki/AkatsukiChristmasIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Akatsuki/AkatsukiChristmasChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Akatsuki/AkatsukiChristmasShipyardIcon.png"
          }
       ]
    },
@@ -460,6 +467,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Albacore/AlbacorePartyIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Albacore/AlbacorePartyChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Albacore/AlbacorePartyShipyardIcon.png"
+         },
+         {
+            "name":"A Catty Surprise!",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Albacore/AlbacoreMaidBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Albacore/AlbacoreMaidIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Albacore/AlbacoreMaidChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Albacore/AlbacoreMaidShipyardIcon.png"
          }
       ]
    },
@@ -1022,6 +1036,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/August_von_Parseval/August_von_ParsevalIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/August_von_Parseval/August_von_ParsevalChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/August_von_Parseval/August_von_ParsevalShipyardIcon.png"
+         },
+         {
+            "name":"The Conquered Unhulde",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/August_von_Parseval/August_von_ParsevalMaidBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/August_von_Parseval/August_von_ParsevalMaidIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/August_von_Parseval/August_von_ParsevalMaidChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/August_von_Parseval/August_von_ParsevalMaidShipyardIcon.png"
          }
       ]
    },
@@ -1564,6 +1585,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Bismarck/BismarckPartyIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Bismarck/BismarckPartyChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Bismarck/BismarckPartyShipyardIcon.png"
+         },
+         {
+            "name":"Iron-Black Elysium",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Bismarck/BismarckMaidBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Bismarck/BismarckMaidIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Bismarck/BismarckMaidChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Bismarck/BismarckMaidShipyardIcon.png"
          }
       ]
    },
@@ -2246,6 +2274,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Choukai/ChoukaiIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Choukai/ChoukaiChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Choukai/ChoukaiShipyardIcon.png"
+         },
+         {
+            "name":"Tidy Store, Tidy Mind",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Choukai/ChoukaiMaidBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Choukai/ChoukaiMaidIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Choukai/ChoukaiMaidChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Choukai/ChoukaiMaidShipyardIcon.png"
          }
       ]
    },
@@ -2931,6 +2966,26 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Edinburgh/EdinburghHalloweenIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Edinburgh/EdinburghHalloweenChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Edinburgh/EdinburghHalloweenShipyardIcon.png"
+         }
+      ]
+   },
+   {
+      "id":"526",
+      "names":"Elbe",
+      "skins":[
+         {
+            "name":"Default",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Elbe/ElbeBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Elbe/ElbeIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Elbe/ElbeChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Elbe/ElbeShipyardIcon.png"
+         },
+         {
+            "name":"Time to Show Off?",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Elbe/ElbeMaidBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Elbe/ElbeMaidIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Elbe/ElbeMaidChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Elbe/ElbeMaidShipyardIcon.png"
          }
       ]
    },
@@ -3945,6 +4000,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hakuryuu/HakuryuuIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hakuryuu/HakuryuuChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hakuryuu/HakuryuuShipyardIcon.png"
+         },
+         {
+            "name":"Slice, Dice, and Serve",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hakuryuu/HakuryuuMaidBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hakuryuu/HakuryuuMaidIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hakuryuu/HakuryuuMaidChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hakuryuu/HakuryuuMaidShipyardIcon.png"
          }
       ]
    },
@@ -4711,6 +4773,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Howe/HoweCasualIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Howe/HoweCasualChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Howe/HoweCasualShipyardIcon.png"
+         },
+         {
+            "name":"Pastry Princess",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Howe/HoweMaidBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Howe/HoweMaidIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Howe/HoweMaidChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Howe/HoweMaidShipyardIcon.png"
          }
       ]
    },
@@ -4966,6 +5035,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Icarus/IcarusSummerIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Icarus/IcarusSummerChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Icarus/IcarusSummerShipyardIcon.png"
+         },
+         {
+            "name":"At Your Service",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Icarus/IcarusMaidBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Icarus/IcarusMaidIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Icarus/IcarusMaidChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Icarus/IcarusMaidShipyardIcon.png"
          }
       ]
    },
@@ -6684,6 +6760,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Leipzig/LeipzigKaiIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Leipzig/LeipzigKaiChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Leipzig/LeipzigKaiShipyardIcon.png"
+         },
+         {
+            "name":"Storefront Training",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Leipzig/LeipzigMaidBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Leipzig/LeipzigMaidIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Leipzig/LeipzigMaidChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Leipzig/LeipzigMaidShipyardIcon.png"
          }
       ]
    },
@@ -6914,6 +6997,26 @@
       ]
    },
    {
+      "id":"525",
+      "names":"Magdeburg",
+      "skins":[
+         {
+            "name":"Default",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Magdeburg/MagdeburgBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Magdeburg/MagdeburgIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Magdeburg/MagdeburgChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Magdeburg/MagdeburgShipyardIcon.png"
+         },
+         {
+            "name":"Cat Café Cleanup",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Magdeburg/MagdeburgMaidBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Magdeburg/MagdeburgMaidIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Magdeburg/MagdeburgMaidChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Magdeburg/MagdeburgMaidShipyardIcon.png"
+         }
+      ]
+   },
+   {
       "id":"523",
       "names":"Maillé Brézé",
       "skins":[
@@ -7030,6 +7133,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Marco_Polo/Marco_PoloIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Marco_Polo/Marco_PoloChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Marco_Polo/Marco_PoloShipyardIcon.png"
+         },
+         {
+            "name":"The Queen of Hearts",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Marco_Polo/Marco_PoloMaidBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Marco_Polo/Marco_PoloMaidIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Marco_Polo/Marco_PoloMaidChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Marco_Polo/Marco_PoloMaidShipyardIcon.png"
          }
       ]
    },
@@ -8364,6 +8474,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Noshiro/NoshiroCasualIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Noshiro/NoshiroCasualChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Noshiro/NoshiroCasualShipyardIcon.png"
+         },
+         {
+            "name":"Hold the Ice",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Noshiro/NoshiroMaidBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Noshiro/NoshiroMaidIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Noshiro/NoshiroMaidChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Noshiro/NoshiroMaidShipyardIcon.png"
          }
       ]
    },
@@ -8591,6 +8708,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Penelope/PenelopeSpringIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Penelope/PenelopeSpringChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Penelope/PenelopeSpringShipyardIcon.png"
+         },
+         {
+            "name":"Salty Maid",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Penelope/PenelopeMaidBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Penelope/PenelopeMaidChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Penelope/PenelopeMaidShipyardIcon.png"
          }
       ]
    },
@@ -8858,6 +8982,26 @@
       ]
    },
    {
+      "id":"527",
+      "names":"Prinz Adalbert",
+      "skins":[
+         {
+            "name":"Default",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Prinz_Adalbert/Prinz_AdalbertBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Prinz_Adalbert/Prinz_AdalbertIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Prinz_Adalbert/Prinz_AdalbertChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Prinz_Adalbert/Prinz_AdalbertShipyardIcon.png"
+         },
+         {
+            "name":"After-Hours Service",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Prinz_Adalbert/Prinz_AdalbertMaidBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Prinz_Adalbert/Prinz_AdalbertMaidIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Prinz_Adalbert/Prinz_AdalbertMaidChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Prinz_Adalbert/Prinz_AdalbertMaidShipyardIcon.png"
+         }
+      ]
+   },
+   {
       "id":"244",
       "names":"Prinz Eugen",
       "skins":[
@@ -8996,6 +9140,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Queen_Elizabeth/Queen_ElizabethSpringIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Queen_Elizabeth/Queen_ElizabethSpringChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Queen_Elizabeth/Queen_ElizabethSpringShipyardIcon.png"
+         },
+         {
+            "name":"Yes, Your Maidness!",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Queen_Elizabeth/Queen_ElizabethMaidBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Queen_Elizabeth/Queen_ElizabethMaidIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Queen_Elizabeth/Queen_ElizabethMaidChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Queen_Elizabeth/Queen_ElizabethMaidShipyardIcon.png"
          }
       ]
    },
@@ -10104,6 +10255,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Southampton/SouthamptonNew_YearIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Southampton/SouthamptonNew_YearChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Southampton/SouthamptonNew_YearShipyardIcon.png"
+         },
+         {
+            "name":"Afternoon Impromptu",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Southampton/SouthamptonMaidBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Southampton/SouthamptonMaidIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Southampton/SouthamptonMaidChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Southampton/SouthamptonMaidShipyardIcon.png"
          }
       ]
    },
@@ -10344,6 +10502,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Suruga/SurugaSchoolIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Suruga/SurugaSchoolChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Suruga/SurugaSchoolShipyardIcon.png"
+         },
+         {
+            "name":"Uneventful Holiday Greetings",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Suruga/SurugaChristmasBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Suruga/SurugaChristmasIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Suruga/SurugaChristmasChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Suruga/SurugaChristmasShipyardIcon.png"
          }
       ]
    },
@@ -10919,6 +11084,26 @@
       ]
    },
    {
+      "id":"528",
+      "names":"U-1206",
+      "skins":[
+         {
+            "name":"Default",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/U-1206/U-1206Banner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/U-1206/U-1206Icon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/U-1206/U-1206ChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/U-1206/U-1206ShipyardIcon.png"
+         },
+         {
+            "name":"Maid Just for You",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/U-1206/U-1206MaidBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/U-1206/U-1206MaidIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/U-1206/U-1206MaidChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/U-1206/U-1206MaidShipyardIcon.png"
+         }
+      ]
+   },
+   {
       "id":"484",
       "names":"U-37",
       "skins":[
@@ -10982,6 +11167,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/U-47/U-47PartyIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/U-47/U-47PartyChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/U-47/U-47PartyShipyardIcon.png"
+         },
+         {
+            "name":"Urban Maid",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/U-47/U-47MaidBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/U-47/U-47MaidIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/U-47/U-47MaidChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/U-47/U-47MaidShipyardIcon.png"
          }
       ]
    },
@@ -11088,6 +11280,26 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/U-96/U-96CasualIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/U-96/U-96CasualChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/U-96/U-96CasualShipyardIcon.png"
+         }
+      ]
+   },
+   {
+      "id":"529",
+      "names":"Ulrich von Hutten",
+      "skins":[
+         {
+            "name":"Default",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Ulrich_von_Hutten/Ulrich_von_HuttenBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Ulrich_von_Hutten/Ulrich_von_HuttenIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Ulrich_von_Hutten/Ulrich_von_HuttenChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Ulrich_von_Hutten/Ulrich_von_HuttenShipyardIcon.png"
+         },
+         {
+            "name":"Mayhem Maid",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Ulrich_von_Hutten/Ulrich_von_HuttenMaidBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Ulrich_von_Hutten/Ulrich_von_HuttenMaidIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Ulrich_von_Hutten/Ulrich_von_HuttenMaidChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Ulrich_von_Hutten/Ulrich_von_HuttenMaidShipyardIcon.png"
          }
       ]
    },
@@ -12437,6 +12649,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Z46/Z46SpringIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Z46/Z46SpringChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Z46/Z46SpringShipyardIcon.png"
+         },
+         {
+            "name":"Chronicles of the Dust Wars",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Z46/Z46MaidBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Z46/Z46MaidIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Z46/Z46MaidChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Z46/Z46MaidShipyardIcon.png"
          }
       ]
    },
