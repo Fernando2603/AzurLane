@@ -1,0 +1,281 @@
+[
+	{
+		"code":1001,
+		"name":"Brewster F2A Buffalo (Thach Squadron)",
+		"icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/17060.png",
+		"faction":"Eagle Union",
+		"rarity":"Super Rare",
+		"reload":9.44,
+		"speed":45
+	},
+	{
+		"code":1002,
+		"name":"de Havilland Sea Hornet",
+		"icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/27320.png",
+		"faction":"Royal Navy",
+		"rarity":"Super Rare",
+		"reload":10.61,
+		"speed":60
+	},
+	{
+		"code":1003,
+		"name":"Grumman F6F Hellcat",
+		"icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/17300.png",
+		"faction":"Eagle Union",
+		"rarity":"Super Rare",
+		"reload":10.9,
+		"speed":50
+	},
+	{
+		"code":1004,
+		"name":"Grumman F7F Tigercat",
+		"icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/17360.png",
+		"faction":"Eagle Union",
+		"rarity":"Super Rare",
+		"reload":10.81,
+		"speed":52
+	},
+	{
+		"code":1005,
+		"name":"Grumman F8F Bearcat",
+		"icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/17380.png",
+		"faction":"Eagle Union",
+		"rarity":"Super Rare",
+		"reload":9.64,
+		"speed":50
+	},
+	{
+		"code":1006,
+		"name":"Hawker Sea Fury",
+		"icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/27300.png",
+		"faction":"Royal Navy",
+		"rarity":"Super Rare",
+		"reload":10.61,
+		"speed":52
+	},
+	{
+		"code":1007,
+		"name":"Kawanishi N1K3-A Shiden Kai 2",
+		"icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/37400.png",
+		"faction":"Sakura Empire",
+		"rarity":"Super Rare",
+		"reload":10.71,
+		"speed":60
+	},
+	{
+		"code":1008,
+		"name":"Messerschmitt Bf 109G (Carrier-based Prototype)",
+		"icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/47160.png",
+		"faction":"Iron Blood",
+		"rarity":"Super Rare",
+		"reload":10.58,
+		"speed":50
+	},
+	{
+		"code":1009,
+		"name":"Messerschmitt Me-155A",
+		"icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/47100.png",
+		"faction":"Iron Blood",
+		"rarity":"Super Rare",
+		"reload":9.24,
+		"speed":50
+	},
+	{
+		"code":1010,
+		"name":"Mitsubishi A6M5 Zero",
+		"icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/37200.png",
+		"faction":"Sakura Empire",
+		"rarity":"Super Rare",
+		"reload":9.52,
+		"speed":55
+	},
+	{
+		"code":1011,
+		"name":"Mitsubishi A7M Reppuu",
+		"icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/37300.png",
+		"faction":"Sakura Empire",
+		"rarity":"Super Rare",
+		"reload":10.44,
+		"speed":60
+	},
+	{
+		"code":1012,
+		"name":"Supermarine Seafang",
+		"icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/27100.png",
+		"faction":"Royal Navy",
+		"rarity":"Super Rare",
+		"reload":10.6,
+		"speed":53
+	},
+	{
+		"code":1013,
+		"name":"Supermarine Seafire FR Mk 47",
+		"icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/27060.png",
+		"faction":"Royal Navy",
+		"rarity":"Super Rare",
+		"reload":10.61,
+		"speed":51
+	},
+	{
+		"code":1014,
+		"name":"Vought F4U Corsair (VF-17 Squadron)",
+		"icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/17260.png",
+		"faction":"Eagle Union",
+		"rarity":"Super Rare",
+		"reload":10.2,
+		"speed":49
+	},
+	{
+		"code":1015,
+		"name":"Brewster XF2A-4 Buffalo (Prototype)",
+		"icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/17080.png",
+		"faction":"Eagle Union",
+		"rarity":"Elite",
+		"reload":11.75,
+		"speed":45
+	},
+	{
+		"code":1016,
+		"name":"Fiat G.50 Freccia",
+		"icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/55720.png",
+		"faction":"Sardegna Empire",
+		"rarity":"Elite",
+		"reload":10.24,
+		"speed":50
+	},
+	{
+		"code":1017,
+		"name":"Focke-Wulf Fw 190 A-5 (Carrier-based Prototype)",
+		"icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/47080.png",
+		"faction":"Iron Blood",
+		"rarity":"Elite",
+		"reload":11.37,
+		"speed":51
+	},
+	{
+		"code":1018,
+		"name":"Grumman F4F Wildcat",
+		"icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/17100.png",
+		"faction":"Eagle Union",
+		"rarity":"Elite",
+		"reload":10.55,
+		"speed":48
+	},
+	{
+		"code":1019,
+		"name":"Grumman XF5F Skyrocket",
+		"icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/17400.png",
+		"faction":"Eagle Union",
+		"rarity":"Elite",
+		"reload":8.98,
+		"speed":47
+	},
+	{
+		"code":1020,
+		"name":"Messerschmitt BF-109T",
+		"icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/47000.png",
+		"faction":"Iron Blood",
+		"rarity":"Elite",
+		"reload":9.78,
+		"speed":50
+	},
+	{
+		"code":1021,
+		"name":"Mitsubishi A6M2 Zero",
+		"icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/37100.png",
+		"faction":"Sakura Empire",
+		"rarity":"Elite",
+		"reload":10.24,
+		"speed":52
+	},
+	{
+		"code":1022,
+		"name":"Mitsubishi A6M3 Type 0 Model 32",
+		"icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/37160.png",
+		"faction":"Sakura Empire",
+		"rarity":"Elite",
+		"reload":10,
+		"speed":53
+	},
+	{
+		"code":1023,
+		"name":"Reggiane Re.2001 Falco II",
+		"icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/55800.png",
+		"faction":"Sardegna Empire",
+		"rarity":"Elite",
+		"reload":10.97,
+		"speed":46
+	},
+	{
+		"code":1024,
+		"name":"Supermarine Seafire",
+		"icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/27000.png",
+		"faction":"Royal Navy",
+		"rarity":"Elite",
+		"reload":10.97,
+		"speed":50
+	},
+	{
+		"code":1025,
+		"name":"Vought F4U Corsair",
+		"icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/17200.png",
+		"faction":"Eagle Union",
+		"rarity":"Elite",
+		"reload":11.03,
+		"speed":48
+	},
+	{
+		"code":1026,
+		"name":"Arado Ar 197",
+		"icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/47060.png",
+		"faction":"Iron Blood",
+		"rarity":"Rare",
+		"reload":12.05,
+		"speed":49
+	},
+	{
+		"code":1027,
+		"name":"Brewster F2A Buffalo",
+		"icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/17000.png",
+		"faction":"Eagle Union",
+		"rarity":"Rare",
+		"reload":11.69,
+		"speed":45
+	},
+	{
+		"code":1028,
+		"name":"Gloster Sea Gladiator",
+		"icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/27200.png",
+		"faction":"Royal Navy",
+		"rarity":"Rare",
+		"reload":10.64,
+		"speed":47
+	},
+	{
+		"code":1029,
+		"name":"Gourdou-Leseurre GL.2",
+		"icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/50820.png",
+		"faction":"Iris Libre",
+		"rarity":"Rare",
+		"reload":11.44,
+		"speed":48
+	},
+	{
+		"code":1030,
+		"name":"Hawker Sea Hurricane",
+		"icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/27260.png",
+		"faction":"Royal Navy",
+		"rarity":"Rare",
+		"reload":10.51,
+		"speed":47
+	},
+	{
+		"code":1031,
+		"name":"Mitsubishi A5M Type 96",
+		"icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/37000.png",
+		"faction":"Sakura Empire",
+		"rarity":"Rare",
+		"reload":10.76,
+		"speed":48
+	}
+]
