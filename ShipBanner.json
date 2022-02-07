@@ -306,6 +306,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Akagi/AkagiPartyIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Akagi/AkagiPartyChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Akagi/AkagiPartyShipyardIcon.png"
+         },
+         {
+            "name":"Dawn-Phoenix's Summons",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Akagi/AkagiSpringBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Akagi/AkagiSpringIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Akagi/AkagiSpringChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Akagi/AkagiSpringShipyardIcon.png"
          }
       ]
    },
@@ -620,6 +627,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/An_Shan/An_ShanIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/An_Shan/An_ShanChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/An_Shan/An_ShanShipyardIcon.png"
+         },
+         {
+            "name":"Retrofit",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/An_Shan/An_ShanKaiBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/An_Shan/An_ShanKaiIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/An_Shan/An_ShanKaiChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/An_Shan/An_ShanKaiShipyardIcon.png"
          },
          {
             "name":"The Cornett of Peace",
@@ -1214,6 +1228,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Ayanami/AyanamiBluray2Icon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Ayanami/AyanamiBluray2ChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Ayanami/AyanamiBluray2ShipyardIcon.png"
+         },
+         {
+            "name":"Dynasty Shipgirl",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Ayanami/AyanamiSpring2Banner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Ayanami/AyanamiSpring2Icon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Ayanami/AyanamiSpring2ChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Ayanami/AyanamiSpring2ShipyardIcon.png"
          }
       ]
    },
@@ -1771,6 +1792,26 @@
       ]
    },
    {
+      "id":"533",
+      "names":"Bristol",
+      "skins":[
+         {
+            "name":"Default",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Bristol/BristolBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Bristol/BristolIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Bristol/BristolChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Bristol/BristolShipyardIcon.png"
+         },
+         {
+            "name":"Tales from the Empery",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Bristol/BristolSpringBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Bristol/BristolSpringIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Bristol/BristolSpringChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Bristol/BristolSpringShipyardIcon.png"
+         }
+      ]
+   },
+   {
       "id":"031",
       "names":"Brooklyn",
       "skins":[
@@ -2022,6 +2063,13 @@
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Chang_Chun/Chang_ChunShipyardIcon.png"
          },
          {
+            "name":"Retrofit",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Chang_Chun/Chang_ChunKaiBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Chang_Chun/Chang_ChunKaiIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Chang_Chun/Chang_ChunKaiChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Chang_Chun/Chang_ChunKaiShipyardIcon.png"
+         },
+         {
             "name":"The Joy of Spring",
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Chang_Chun/Chang_ChunSpringBanner.png",
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Chang_Chun/Chang_ChunSpringIcon.png",
@@ -2091,6 +2139,26 @@
       ]
    },
    {
+      "id":"530",
+      "names":"Charybdis",
+      "skins":[
+         {
+            "name":"Default",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Charybdis/CharybdisBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Charybdis/CharybdisIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Charybdis/CharybdisChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Charybdis/CharybdisShipyardIcon.png"
+         },
+         {
+            "name":"Red Chamber of Healing",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Charybdis/CharybdisSpringBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Charybdis/CharybdisSpringIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Charybdis/CharybdisSpringChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Charybdis/CharybdisSpringShipyardIcon.png"
+         }
+      ]
+   },
+   {
       "id":"376",
       "names":"Chaser",
       "skins":[
@@ -2114,6 +2182,26 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Chaser/ChaserCasualIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Chaser/ChaserCasualChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Chaser/ChaserCasualShipyardIcon.png"
+         }
+      ]
+   },
+   {
+      "id":"534",
+      "names":"Chen Hai",
+      "skins":[
+         {
+            "name":"Default",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Chen_Hai/Chen_HaiBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Chen_Hai/Chen_HaiIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Chen_Hai/Chen_HaiChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Chen_Hai/Chen_HaiShipyardIcon.png"
+         },
+         {
+            "name":"Vestibule of Wonders",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Chen_Hai/Chen_HaiSpringBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Chen_Hai/Chen_HaiSpringIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Chen_Hai/Chen_HaiSpringChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Chen_Hai/Chen_HaiSpringShipyardIcon.png"
          }
       ]
    },
@@ -3991,6 +4079,46 @@
       ]
    },
    {
+      "id":"532",
+      "names":"Hai Chi",
+      "skins":[
+         {
+            "name":"Default",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hai_Chi/Hai_ChiBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hai_Chi/Hai_ChiIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hai_Chi/Hai_ChiChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hai_Chi/Hai_ChiShipyardIcon.png"
+         },
+         {
+            "name":"A Dance Among the Lotuses",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hai_Chi/Hai_ChiSpringBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hai_Chi/Hai_ChiSpringIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hai_Chi/Hai_ChiSpringChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hai_Chi/Hai_ChiSpringShipyardIcon.png"
+         }
+      ]
+   },
+   {
+      "id":"531",
+      "names":"Hai Tien",
+      "skins":[
+         {
+            "name":"Default",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hai_Tien/Hai_TienBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hai_Tien/Hai_TienIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hai_Tien/Hai_TienChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hai_Tien/Hai_TienShipyardIcon.png"
+         },
+         {
+            "name":"Verse-Weaver at the Water's Edge",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hai_Tien/Hai_TienSpringBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hai_Tien/Hai_TienSpringIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hai_Tien/Hai_TienSpringChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hai_Tien/Hai_TienSpringShipyardIcon.png"
+         }
+      ]
+   },
+   {
       "id":"Plan019",
       "names":"Hakuryuu",
       "skins":[
@@ -4424,6 +4552,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hermione/HermionePartyIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hermione/HermionePartyChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hermione/HermionePartyShipyardIcon.png"
+         },
+         {
+            "name":"Pristine Herbalist",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hermione/HermioneSpringBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hermione/HermioneSpringIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hermione/HermioneSpringChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hermione/HermioneSpringShipyardIcon.png"
          }
       ]
    },
@@ -5695,6 +5830,19 @@
       ]
    },
    {
+      "id":"30008",
+      "names":"Junyou META",
+      "skins":[
+         {
+            "name":"Default",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/META/Junyou_METABanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/META/Junyou_METAIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/META/Junyou_METAChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/META/Junyou_METAShipyardIcon.png"
+         }
+      ]
+   },
+   {
       "id":"306",
       "names":"Jupiter",
       "skins":[
@@ -5759,6 +5907,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kaga/KagaNew_Year2Icon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kaga/KagaNew_Year2ChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kaga/KagaNew_Year2ShipyardIcon.png"
+         },
+         {
+            "name":"Dusk-Simurgh's Vigil",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kaga/KagaSpringBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kaga/KagaSpringIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kaga/KagaSpringChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kaga/KagaSpringShipyardIcon.png"
          }
       ]
    },
@@ -9254,6 +9409,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Reno/RenoBunnyIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Reno/RenoBunnyChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Reno/RenoBunnyShipyardIcon.png"
+         },
+         {
+            "name":"Spring's Inspiration",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Reno/RenoSpringBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Reno/RenoSpringIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Reno/RenoSpringChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Reno/RenoSpringShipyardIcon.png"
          }
       ]
    },
