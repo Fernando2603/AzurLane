@@ -8,6 +8,9 @@ Azur Lane Resources
 - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/MeowfficerTalentList.json`
 
 Replace Missing Banner with `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png`
+Replace Missing Icon with `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png`
+Replace Missing Chibi with `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownChibiIcon.png`
+Replace Missing Shipyard with `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownShipyardIcon.png`
 
 ## Json Structure
 **ShipBanner.json**
