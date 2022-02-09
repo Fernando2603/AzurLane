@@ -355,10 +355,10 @@
          },
          {
             "name":"A Vacation Just for Two",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Akane_Shinjo/Akane_ShinjoBanner.png",
-            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Akane_Shinjo/Akane_ShinjoIcon.png",
-            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Akane_Shinjo/Akane_ShinjoChibiIcon.png",
-            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Akane_Shinjo/Akane_ShinjoShipyardIcon.png"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Akane_Shinjo/Akane_ShinjoCasualBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Akane_Shinjo/Akane_ShinjoCasualIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Akane_Shinjo/Akane_ShinjoCasualChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Akane_Shinjo/Akane_ShinjoCasualShipyardIcon.png"
          }
       ]
    },
