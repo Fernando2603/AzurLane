@@ -2,17 +2,22 @@
 Azur Lane Resources
 >Resources from [AzurAPI](https://github.com/AzurAPI/azurapi-js-setup) & [Azur Lane Wiki](https://azurlane.koumakan.jp)
 
+
 ## Fetch
 - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/ShipBanner.json`
 - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/meowfficer.json`
 - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/MeowfficerTalentList.json`
 
-Replace Missing file with
 
-- Banner    => `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png`
-- Icon      => `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png`
-- Chibi     => `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownChibiIcon.png`
-- Shipyard  => `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownShipyardIcon.png`
+## Replace Missing File (Wild Card)
+- Banner
+   - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png`
+- Icon
+   - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png`
+- Chibi
+   - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownChibiIcon.png`
+- Shipyard
+   - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownShipyardIcon.png`
 
 ## Json Structure
 **ShipBanner.json**
