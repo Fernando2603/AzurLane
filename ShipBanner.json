@@ -8041,11 +8041,11 @@
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Naganami/NaganamiPartyShipyardIcon.png"
          },
          {
-            "name":"Blossoming Spring, Resplendent Moon",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hanazuki/HanazukiSpringBanner.png",
-            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hanazuki/HanazukiSpringIcon.png",
-            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hanazuki/HanazukiSpringChibiIcon.png",
-            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hanazuki/HanazukiSpringShipyardIcon.png"
+            "name":"Nestling Up for the Long Nights",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Naganami/NaganamiSpringBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Naganami/NaganamiSpringIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Naganami/NaganamiSpringChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Naganami/NaganamiSpringShipyardIcon.png"
          }
       ]
    },

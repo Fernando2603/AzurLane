@@ -1,44 +1,4 @@
 Updated & Unused File = 0
-\Arizona\ArizonaSpringBanner.png
-\Arizona\ArizonaSpringChibiIcon.png
-\Arizona\ArizonaSpringIcon.png
-\Arizona\ArizonaSpringShipyardIcon.png
-\Asashio\AsashioSpringBanner.png
-\Asashio\AsashioSpringChibiIcon.png
-\Asashio\AsashioSpringIcon.png
-\Asashio\AsashioSpringShipyardIcon.png
-\Columbia\ColumbiaTravelBanner.png
-\Columbia\ColumbiaTravelChibiIcon.png
-\Columbia\ColumbiaTravelIcon.png
-\Columbia\ColumbiaTravelShipyardIcon.png
-\Hanazuki\HanazukiSpringBanner.png
-\Hanazuki\HanazukiSpringChibiIcon.png
-\Hanazuki\HanazukiSpringIcon.png
-\Hanazuki\HanazukiSpringShipyardIcon.png
-\Naganami\NaganamiSpringBanner.png
-\Naganami\NaganamiSpringChibiIcon.png
-\Naganami\NaganamiSpringIcon.png
-\Naganami\NaganamiSpringShipyardIcon.png
-\Oite\OiteSpringBanner.png
-\Oite\OiteSpringChibiIcon.png
-\Oite\OiteSpringIcon.png
-\Oite\OiteSpringShipyardIcon.png
-\Pennsylvania\PennsylvaniaSpringBanner.png
-\Pennsylvania\PennsylvaniaSpringChibiIcon.png
-\Pennsylvania\PennsylvaniaSpringIcon.png
-\Pennsylvania\PennsylvaniaSpringShipyardIcon.png
-\Rodney\RodneySpringBanner.png
-\Rodney\RodneySpringChibiIcon.png
-\Rodney\RodneySpringIcon.png
-\Rodney\RodneySpringShipyardIcon.png
-\U-73\U-73SpringBanner.png
-\U-73\U-73SpringChibiIcon.png
-\U-73\U-73SpringIcon.png
-\U-73\U-73SpringShipyardIcon.png
-\Yoizuki\YoizukiSpringBanner.png
-\Yoizuki\YoizukiSpringChibiIcon.png
-\Yoizuki\YoizukiSpringIcon.png
-\Yoizuki\YoizukiSpringShipyardIcon.png
 
 Unused file = 6
 Enterprise : Enterprise-alter.png
