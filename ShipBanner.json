@@ -641,6 +641,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/An_Shan/An_ShanNavyIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/An_Shan/An_ShanNavyChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/An_Shan/An_ShanNavyShipyardIcon.png"
+         },
+         {
+            "name":"Setting Sun, Hearts as One",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/An_Shan/An_ShanSchoolBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/An_Shan/An_ShanSchoolIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/An_Shan/An_ShanSchoolChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/An_Shan/An_ShanSchoolShipyardIcon.png"
          }
       ]
    },
@@ -2474,9 +2481,9 @@
          {
             "name":"Original Art",
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Colorado/ColoradoOriginalBanner.png",
-            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png",
-            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownChibiIcon.png",
-            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownShipyardIcon.png"
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Colorado/ColoradoOriginalIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Colorado/ColoradoOriginalChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Colorado/ColoradoOriginalShipyardIcon.png"
          },
          {
             "name":"Traveling Melody",
@@ -4330,7 +4337,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png",
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownChibiIcon.png",
-            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownShipyardIcon.png"
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Haruna/HarunaOriginalShipyardIcon.png"
          },
          {
             "name":"Free Time Before Class",
@@ -4626,7 +4633,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png",
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownChibiIcon.png",
-            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownShipyardIcon.png"
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hiei/HieiOriginalShipyardIcon.png"
          },
          {
             "name":"Moonlit Cruise",
@@ -4827,7 +4834,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png",
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownChibiIcon.png",
-            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownShipyardIcon.png"
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Hood/HoodOriginalShipyardIcon.png"
          },
          {
             "name":"Wedding",
@@ -5401,7 +5408,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png",
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownChibiIcon.png",
-            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownShipyardIcon.png"
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Indianapolis/IndianapolisOriginalShipyardIcon.png"
          },
          {
             "name":"At School With My Sister...",
@@ -5733,7 +5740,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png",
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownChibiIcon.png",
-            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownShipyardIcon.png"
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Jeanne_d'Arc/Jeanne_d'ArcOriginalShipyardIcon.png"
          },
          {
             "name":"Saintess of the Sea",
@@ -5780,7 +5787,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png",
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownChibiIcon.png",
-            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownShipyardIcon.png"
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Jersey/JerseyOriginalShipyardIcon.png"
          }
       ]
    },
@@ -6342,7 +6349,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png",
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownChibiIcon.png",
-            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownShipyardIcon.png"
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kirishima/KirishimaOriginalShipyardIcon.png"
          },
          {
             "name":"After-School Cannon Time",
@@ -6390,7 +6397,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png",
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownChibiIcon.png",
-            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownShipyardIcon.png"
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kirov/KirovOriginalShipyardIcon.png"
          },
          {
             "name":"Blend R",
@@ -6504,7 +6511,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png",
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownChibiIcon.png",
-            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownShipyardIcon.png"
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kongou/KongouOriginalShipyardIcon.png"
          },
          {
             "name":"The Beauties of Nature",
@@ -6686,6 +6693,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Laffey/LaffeyKaiIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Laffey/LaffeyKaiChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Laffey/LaffeyKaiShipyardIcon.png"
+         },
+         {
+            "name":"Original Art",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownShipyardIcon.png"
          },
          {
             "name":"Wedding",
@@ -7360,9 +7374,9 @@
          {
             "name":"Original Art",
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Maryland/MarylandOriginalBanner.png",
-            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png",
-            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownChibiIcon.png",
-            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownShipyardIcon.png"
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Maryland/MarylandOriginalIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Maryland/MarylandOriginalChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Maryland/MarylandOriginalShipyardIcon.png"
          }
       ]
    },
@@ -7596,7 +7610,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png",
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownChibiIcon.png",
-            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownShipyardIcon.png"
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Mikuma/MikumaOriginalShipyardIcon.png"
          }
       ]
    },
@@ -7730,7 +7744,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png",
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownChibiIcon.png",
-            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownShipyardIcon.png"
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Mogami/MogamiOriginalShipyardIcon.png"
          },
          {
             "name":"Retrofit",
@@ -8085,7 +8099,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png",
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownChibiIcon.png",
-            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownShipyardIcon.png"
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Nagato/NagatoOriginalShipyardIcon.png"
          },
          {
             "name":"Wedding",
@@ -9133,7 +9147,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png",
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownChibiIcon.png",
-            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownShipyardIcon.png"
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Prince_of_Wales/Prince_of_WalesOriginalShipyardIcon.png"
          },
          {
             "name":"Sun Shining Upon Windsor",
@@ -9704,7 +9718,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png",
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownChibiIcon.png",
-            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownShipyardIcon.png"
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Ryuujou/RyuujouOriginalShipyardIcon.png"
          },
          {
             "name":"Slacking Samurai",
@@ -10111,6 +10125,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Shigure/ShigurePartyIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Shigure/ShigurePartyChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Shigure/ShigurePartyShipyardIcon.png"
+         },
+         {
+            "name":"Lucky Chocolate",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Shigure/ShigureSchoolBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Shigure/ShigureSchoolIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Shigure/ShigureSchoolChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Shigure/ShigureSchoolShipyardIcon.png"
          }
       ]
    },
@@ -10284,7 +10305,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png",
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownChibiIcon.png",
-            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownShipyardIcon.png"
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Shoukaku/ShoukakuOriginalShipyardIcon.png"
          },
          {
             "name":"The Crane that Dances With the Wind",
@@ -12067,9 +12088,9 @@
          {
             "name":"Original Art",
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/West_Virginia/West_VirginiaOriginalBanner.png",
-            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png",
-            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownChibiIcon.png",
-            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownShipyardIcon.png"
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/West_Virginia/West_VirginiaOriginalIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/West_Virginia/West_VirginiaOriginalChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/West_Virginia/West_VirginiaOriginalShipyardIcon.png"
          }
       ]
    },
@@ -12940,7 +12961,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png",
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownChibiIcon.png",
-            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownShipyardIcon.png"
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Zuikaku/ZuikakuOriginalShipyardIcon.png"
          },
          {
             "name":"Ceremonial Crane",
