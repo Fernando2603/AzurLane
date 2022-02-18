@@ -10,14 +10,14 @@ Azur Lane Resources
 
 
 ## Replace Missing File (Wild Card)
-- Banner
-   - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png`
-- Icon
-   - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png`
-- Chibi
-   - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownChibiIcon.png`
-- Shipyard
-   - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownShipyardIcon.png`
+#### Banner
+- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png`
+#### Icon
+- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png`
+#### Chibi
+- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownChibiIcon.png`
+#### Shipyard
+- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownShipyardIcon.png`
 
 ## Json Structure
 **ShipBanner.json**
