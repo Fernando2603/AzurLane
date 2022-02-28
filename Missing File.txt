@@ -1,4 +1,31 @@
-Updated & Unused File = 0
+Updated & Unused File = 27
+\Arkhangelsk\ArkhangelskSpecial_ExerciseChibiIcon.png
+\Arkhangelsk\ArkhangelskSpecial_ExerciseIcon.png
+\Arkhangelsk\ArkhangelskSpecial_ExerciseShipyardIcon.png
+\Avrora\AvroraSpecial_ExerciseBanner.png
+\Avrora\AvroraSpecial_ExerciseChibiIcon.png
+\Avrora\AvroraSpecial_ExerciseIcon.png
+\Avrora\AvroraSpecial_ExerciseShipyardIcon.png
+\Kiev\KievSpecial_ExerciseBanner.png
+\Kiev\KievSpecial_ExerciseChibiIcon.png
+\Kiev\KievSpecial_ExerciseIcon.png
+\Kiev\KievSpecial_ExerciseShipyardIcon.png
+\Kirov\KirovSpecial_ExerciseBanner.png
+\Kirov\KirovSpecial_ExerciseChibiIcon.png
+\Kirov\KirovSpecial_ExerciseIcon.png
+\Kirov\KirovSpecial_ExerciseShipyardIcon.png
+\Kronshtadt\KronshtadtSpecial_ExerciseBanner.png
+\Kronshtadt\KronshtadtSpecial_ExerciseChibiIcon.png
+\Kronshtadt\KronshtadtSpecial_ExerciseIcon.png
+\Kronshtadt\KronshtadtSpecial_ExerciseShipyardIcon.png
+\Soobrazitelny\SoobrazitelnySpecial_ExerciseBanner.png
+\Soobrazitelny\SoobrazitelnySpecial_ExerciseChibiIcon.png
+\Soobrazitelny\SoobrazitelnySpecial_ExerciseIcon.png
+\Soobrazitelny\SoobrazitelnySpecial_ExerciseShipyardIcon.png
+\Volga\VolgaSpecial_ExerciseBanner.png
+\Volga\VolgaSpecial_ExerciseChibiIcon.png
+\Volga\VolgaSpecial_ExerciseIcon.png
+\Volga\VolgaSpecial_ExerciseShipyardIcon.png
 
 Unused file = 6
 Enterprise : Enterprise-alter.png

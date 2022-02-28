@@ -913,6 +913,19 @@
       ]
    },
    {
+      "id":"536",
+      "names":"Arkhangelsk",
+      "skins":[
+         {
+            "name":"Default",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Arkhangelsk/ArkhangelskBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Arkhangelsk/ArkhangelskIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Arkhangelsk/ArkhangelskChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Arkhangelsk/ArkhangelskShipyardIcon.png"
+         }
+      ]
+   },
+   {
       "id":"331",
       "names":"Asashio",
       "skins":[
@@ -6227,6 +6240,19 @@
       ]
    },
    {
+      "id":"535",
+      "names":"Kiev",
+      "skins":[
+         {
+            "name":"Default",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kiev/KievBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kiev/KievIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kiev/KievChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kiev/KievShipyardIcon.png"
+         }
+      ]
+   },
+   {
       "id":"214",
       "names":"Kii",
       "skins":[
@@ -6526,6 +6552,19 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kongou/KongouHospitalIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kongou/KongouHospitalChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kongou/KongouHospitalShipyardIcon.png"
+         }
+      ]
+   },
+   {
+      "id":"539",
+      "names":"Kronshtadt",
+      "skins":[
+         {
+            "name":"Default",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kronshtadt/KronshtadtBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kronshtadt/KronshtadtIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kronshtadt/KronshtadtChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kronshtadt/KronshtadtShipyardIcon.png"
          }
       ]
    },
@@ -10411,6 +10450,19 @@
       ]
    },
    {
+      "id":"537",
+      "names":"Soobrazitelny",
+      "skins":[
+         {
+            "name":"Default",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Soobrazitelny/SoobrazitelnyBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Soobrazitelny/SoobrazitelnyIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Soobrazitelny/SoobrazitelnyChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Soobrazitelny/SoobrazitelnyShipyardIcon.png"
+         }
+      ]
+   },
+   {
       "id":"226",
       "names":"Souryuu",
       "skins":[
@@ -11964,6 +12016,19 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Vittorio_Veneto/Vittorio_VenetoSummerIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Vittorio_Veneto/Vittorio_VenetoSummerChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Vittorio_Veneto/Vittorio_VenetoSummerShipyardIcon.png"
+         }
+      ]
+   },
+   {
+      "id":"538",
+      "names":"Volga",
+      "skins":[
+         {
+            "name":"Default",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Volga/VolgaBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Volga/VolgaIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Volga/VolgaChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Volga/VolgaShipyardIcon.png"
          }
       ]
    },
