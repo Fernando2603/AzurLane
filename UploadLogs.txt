@@ -1,4 +1,18 @@
 ===========================================================
+05 March 2022 (+11 File) (+0 Folder) (path:/images/skins)
+Glorious\GloriousSchoolBanner.png
+Grozny\GroznySpecial_ExerciseBanner.png
+Grozny\GroznySpecial_ExerciseChibiIcon.png
+Grozny\GroznySpecial_ExerciseIcon.png
+Grozny\GroznySpecial_ExerciseShipyardIcon.png
+Laffey\LaffeyOriginalShipyardIcon.png
+Tallinn\TallinnSpecial_ExerciseBanner.png
+Tallinn\TallinnSpecial_ExerciseChibiIcon.png
+Tallinn\TallinnSpecial_ExerciseIcon.png
+Tallinn\TallinnSpecial_ExerciseShipyardIcon.png
+Unknown\UnknownChibiIcon.png
+
+===========================================================
 28 February 2022 (+47 File) (+5 Folder) (path:/images/skins)
 \Arkhangelsk\ArkhangelskBanner.png
 \Arkhangelsk\ArkhangelskChibiIcon.png

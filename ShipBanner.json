@@ -922,6 +922,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Arkhangelsk/ArkhangelskIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Arkhangelsk/ArkhangelskChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Arkhangelsk/ArkhangelskShipyardIcon.png"
+         },
+         {
+            "name":"Grandiose Getaway",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Arkhangelsk/ArkhangelskSpecial_ExerciseIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Arkhangelsk/ArkhangelskSpecial_ExerciseChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Arkhangelsk/ArkhangelskSpecial_ExerciseShipyardIcon.png"
          }
       ]
    },
@@ -1165,6 +1172,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Avrora/AvroraPrisonIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Avrora/AvroraPrisonChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Avrora/AvroraPrisonShipyardIcon.png"
+         },
+         {
+            "name":"Not Cut Out For This?",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Avrora/AvroraSpecial_ExerciseBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Avrora/AvroraSpecial_ExerciseIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Avrora/AvroraSpecial_ExerciseChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Avrora/AvroraSpecial_ExerciseShipyardIcon.png"
          }
       ]
    },
@@ -3892,7 +3906,7 @@
          },
          {
             "name":"Glorious School Life",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Glorious/GloriousSchoolBanner.png",
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Glorious/GloriousSchoolChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Glorious/GloriousSchoolShipyardIcon.png"
@@ -4116,6 +4130,20 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Grozny/GroznyCasualIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Grozny/GroznyCasualChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Grozny/GroznyCasualShipyardIcon.png"
+         },
+         {
+            "name":"Shadowy Syndicate Showdown",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Grozny/GroznyBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Grozny/GroznyIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Grozny/GroznyChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Grozny/GroznyShipyardIcon.png"
+         },
+         {
+            "name":"Shadowy Syndicate Showdown",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Grozny/GroznySpecial_ExerciseBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Grozny/GroznySpecial_ExerciseIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Grozny/GroznySpecial_ExerciseChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Grozny/GroznySpecial_ExerciseShipyardIcon.png"
          }
       ]
    },
@@ -6249,6 +6277,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kiev/KievIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kiev/KievChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kiev/KievShipyardIcon.png"
+         },
+         {
+            "name":"Backstreet Silver Sonata",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kiev/KievSpecial_ExerciseBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kiev/KievSpecial_ExerciseIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kiev/KievSpecial_ExerciseChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kiev/KievSpecial_ExerciseShipyardIcon.png"
          }
       ]
    },
@@ -6431,6 +6466,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kirov/KirovCasualIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kirov/KirovCasualChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kirov/KirovCasualShipyardIcon.png"
+         },
+         {
+            "name":"Drifting Justice",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kirov/KirovSpecial_ExerciseBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kirov/KirovSpecial_ExerciseIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kirov/KirovSpecial_ExerciseChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kirov/KirovSpecial_ExerciseShipyardIcon.png"
          }
       ]
    },
@@ -6565,6 +6607,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kronshtadt/KronshtadtIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kronshtadt/KronshtadtChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kronshtadt/KronshtadtShipyardIcon.png"
+         },
+         {
+            "name":"Begin the Rush!",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kronshtadt/KronshtadtSpecial_ExerciseBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kronshtadt/KronshtadtSpecial_ExerciseIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kronshtadt/KronshtadtSpecial_ExerciseChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kronshtadt/KronshtadtSpecial_ExerciseShipyardIcon.png"
          }
       ]
    },
@@ -6738,7 +6787,7 @@
             "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png",
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownChibiIcon.png",
-            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownShipyardIcon.png"
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Laffey/LaffeyOriginalShipyardIcon.png"
          },
          {
             "name":"Wedding",
@@ -10459,6 +10508,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Soobrazitelny/SoobrazitelnyIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Soobrazitelny/SoobrazitelnyChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Soobrazitelny/SoobrazitelnyShipyardIcon.png"
+         },
+         {
+            "name":"The Machinery of Life",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Soobrazitelny/SoobrazitelnySpecial_ExerciseBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Soobrazitelny/SoobrazitelnySpecial_ExerciseIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Soobrazitelny/SoobrazitelnySpecial_ExerciseChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Soobrazitelny/SoobrazitelnySpecial_ExerciseShipyardIcon.png"
          }
       ]
    },
@@ -11043,6 +11099,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Tallinn/TallinnCasualIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Tallinn/TallinnCasualChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Tallinn/TallinnCasualShipyardIcon.png"
+         },
+         {
+            "name":"As You Say, Ma'am!",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Tallinn/TallinnSpecial_ExerciseBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Tallinn/TallinnSpecial_ExerciseIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Tallinn/TallinnSpecial_ExerciseChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Tallinn/TallinnSpecial_ExerciseShipyardIcon.png"
          }
       ]
    },
@@ -12029,6 +12092,13 @@
             "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Volga/VolgaIcon.png",
             "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Volga/VolgaChibiIcon.png",
             "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Volga/VolgaShipyardIcon.png"
+         },
+         {
+            "name":"An Irresistible AR Adventure",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Volga/VolgaSpecial_ExerciseBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Volga/VolgaSpecial_ExerciseIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Volga/VolgaSpecial_ExerciseChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Volga/VolgaSpecial_ExerciseShipyardIcon.png"
          }
       ]
    },
