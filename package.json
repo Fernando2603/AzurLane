@@ -1,0 +1,23 @@
+{
+  "name": "azurlane",
+  "version": "2.0.0",
+  "description": "Azurlane Resources",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fernando2603/AzurLane.git"
+  },
+  "author": "Fernando2603",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fernando2603/AzurLane/issues"
+  },
+  "homepage": "https://github.com/Fernando2603/AzurLane#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.3"
+  }
+}

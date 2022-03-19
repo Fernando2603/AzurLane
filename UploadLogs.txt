@@ -1,4 +1,9 @@
 ===========================================================
+19 March 2022 (path:/images/skins) || rework 
+move ./images/skins >> ./images/skins.old
+re-create/compile ./images/skins into sort by ship id instead names
+
+===========================================================
 05 March 2022 (+11 File) (+0 Folder) (path:/images/skins)
 Glorious\GloriousSchoolBanner.png
 Grozny\GroznySpecial_ExerciseBanner.png

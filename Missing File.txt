@@ -1,4 +1,32 @@
 Updated & Unused File = 0
+Ayanami\AyanamiCoCoChibiIcon.png
+Nicholas\NicholasNurseChibiIcon.png
+Nicholas\NicholasNurseIcon.png
+Nicholas\NicholasNurseShipyardIcon.png
+Yorktown\YorktownTravelChibiIcon.png
+Yorktown\YorktownTravelIcon.png
+Yorktown\YorktownTravelShipyardIcon.png
+
+San_Francisco\San_FranciscoBunnyCensoredBanner.png
+Siren\EmpressBanner.png
+Siren\ObserverBanner.png
+Siren\Observer_AlphaChibiIcon.png
+Siren\PurifierBanner.png
+Siren\SirenIcon.png
+Siren\Siren_CompilerBanner.png
+Siren\Siren_OmitterBanner.png
+Siren\Siren_PurifierChibiIcon.png
+Siren\TesterBanner.png
+Siren\Tester_BetaChibiIcon.png
+Sovetsky_Soyuz\Sovetsky_SoyuzBanner.png
+Takao\Takao-AlterBanner.png
+Takao\TakaoDarkBanner.png
+Takao\TakaoJPBanner.png
+Ticonderoga\TiconderogaBunnyCensoredChibiIcon.png
+Ticonderoga\TiconderogaBunnyCensoredIcon.png
+Ticonderoga\TiconderogaBunnyCensoredShipyardIcon.png
+Enterprise\Enterprise-AlterBanner.png
+Kashino\KashinoSummerCensoredBanner.png
 
 Unused file = 6
 Enterprise : Enterprise-alter.png
@@ -13,9 +41,9 @@ Acasta			=	Fashionable Outing									[banner, icon]
 Asashio			=	The Transfer Student Underneath the Dancing Petals	[banner, icon]
 Atago			=	School Traumerei									[banner, icon]
 Aurora			=	Heritage of Yu City									[banner, icon]
-Ayanami			=	NicoNico [chibi], Grade A Sailor Uniform			[chibi]
+Ayanami			=	NicoNico 											[chibi]
 Black Heart		=	Goddesses' Smile									[banner]
-Chikuma			=	Original Art										[all]
+Chikuma			=	Original Art										[banner, icon, chibi]
 Deutschland		=	Dark Demon Princess									[banner]
 Fumizuki		=	Sleepy Fairy 										[banner, icon]
 Glorious		=	Glorious School Life								[icon]
@@ -39,7 +67,6 @@ Mogami			=	Original Art										[banner, icon, chibi]
 Nagato			=	Original Art										[banner, icon, chibi],
 					Wedding												[banner]
 Nicholas		=	Nurse Nicholas										[banner]
-Penelope		=	Salty Maid											[icon]
 Prince Of Wales	=	Original Art										[banner, icon, chibi]
 Purple Heart	=	Goddesses' Promise									[banner]
 Ryuujou			=	Original Art										[banner, icon, chibi]
@@ -53,7 +80,6 @@ Takao			=	School Romanza										[banner, icon]
 U-47			=	Rookie Rider										[banner, icon]
 Vampire			=	The Breath of Spring								[banner]
 White Heart		=	Goddesses' Humility									[banner]
-Yorktown		=	Saintly Wings										[icon, chibi, shipyard]
 Yuudachi		=	Shogun of Snowballs									[icon]
 Yuugure			=	Maid-in-Training!									[banner, icon]
 Z25				=	Hot Summer's Cool Breeze							[icon]
