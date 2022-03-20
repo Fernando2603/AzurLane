@@ -1,6 +1,7 @@
 {
   "name": "azurlane",
   "version": "2.0.0",
+  "private": true
   "description": "Azurlane Resources",
   "main": "index.js",
   "type":"module",
