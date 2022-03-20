@@ -27,15 +27,29 @@ Azur Lane Resources
 ```Json
 [
    {
-      "id":"Collab021",
-      "names":"22",
+      "id":"336",
+      "name":"Abercrombie",
       "skins":[
          {
             "name":"Default",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Collab021/Banner.png",
-            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Collab021/Icon.png",
-            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Collab021/ChibiIcon.png",
-            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Collab021/ShipyardIcon.png"
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Banner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Icon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/ChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/ShipyardIcon.png"
+         },
+         {
+            "name":"Pumpkin Blast!",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/HalloweenBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/HalloweenIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/HalloweenChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/HalloweenShipyardIcon.png"
+         },
+         {
+            "name":"Mischief on the Rocks",
+            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/BunnyBanner.png",
+            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/BunnyIcon.png",
+            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/BunnyChibiIcon.png",
+            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/BunnyShipyardIcon.png"
          }
       ]
    }
