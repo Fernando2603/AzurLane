@@ -1,12 +1,6 @@
 Updated & Unused File = 0
-Ayanami\AyanamiCoCoChibiIcon.png
-Nicholas\NicholasNurseChibiIcon.png
-Nicholas\NicholasNurseIcon.png
-Nicholas\NicholasNurseShipyardIcon.png
-Yorktown\YorktownTravelChibiIcon.png
-Yorktown\YorktownTravelIcon.png
-Yorktown\YorktownTravelShipyardIcon.png
 
+Unused File (path:/images/unused) = 20
 San_Francisco\San_FranciscoBunnyCensoredBanner.png
 Siren\EmpressBanner.png
 Siren\ObserverBanner.png
@@ -28,15 +22,7 @@ Ticonderoga\TiconderogaBunnyCensoredShipyardIcon.png
 Enterprise\Enterprise-AlterBanner.png
 Kashino\KashinoSummerCensoredBanner.png
 
-Unused file = 6
-Enterprise : Enterprise-alter.png
-Kashino : KashinoSummerCensoredBanner.png
-San Francisco : San_FranciscoBunnyCensoredBanner.png
-Takao : Takao-AlterBanner.png, TakaoDarkBanner.png, TakaoJPBanner.png
-Sovetsky Soyuz : Sovetsky_SoyuzBanner.png
-Siren 6 file
-
-Missing File [18022022]
+Missing File [21032022] = 94 
 Acasta			=	Fashionable Outing									[banner, icon]
 Asashio			=	The Transfer Student Underneath the Dancing Petals	[banner, icon]
 Atago			=	School Traumerei									[banner, icon]

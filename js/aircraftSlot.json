@@ -1,0 +1,1569 @@
+[
+ {
+   "name": "Akagi",
+   "hullType": "Aircraft Carrier",
+   "reload": 131,
+   "reload125": 132,
+   "reloadOath": 138,
+   "reload125Oath": 139,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 3,
+   "slot2max": 2,
+   "slot3max": 3
+},
+ {
+   "name": "Akagi μ",
+   "hullType": "Aircraft Carrier",
+   "reload": 131,
+   "reload125": 132,
+   "reloadOath": 138,
+   "reload125Oath": 139,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 3,
+   "slot2max": 2,
+   "slot3max": 3
+},
+ {
+   "name": "Akagi-chan",
+   "hullType": "Aircraft Carrier",
+   "reload": 125,
+   "reload125": 126,
+   "reloadOath": 132,
+   "reload125Oath": 133,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 3,
+   "slot2max": 2,
+   "slot3max": 3
+},
+ {
+   "name": "Anniversary Kizuna AI",
+   "hullType": "Aircraft Carrier",
+   "reload": 119,
+   "reload125": 121,
+   "reloadOath": 126,
+   "reload125Oath": 128,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 2,
+   "slot2max": 3,
+   "slot3max": 3
+},
+ {
+   "name": "Aquila",
+   "hullType": "Aircraft Carrier",
+   "reload": 127,
+   "reload125": 129,
+   "reloadOath": 134,
+   "reload125Oath": 136,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      1,
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 2,
+   "slot2max": 2,
+   "slot3max": 4
+},
+ {
+   "name": "Ark Royal",
+   "hullType": "Aircraft Carrier",
+   "reload": 132,
+   "reload125": 134,
+   "reloadOath": 139,
+   "reload125Oath": 142,
+   "slot1": [
+      3
+   ],
+   "slot2": [
+      3
+   ],
+   "slot3": [
+      2
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 2
+},
+ {
+   "name": "August von Parseval",
+   "hullType": "Aircraft Carrier",
+   "reload": 120,
+   "reload125": 121,
+   "reloadOath": 127,
+   "reload125Oath": 128,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 2,
+   "slot2max": 3,
+   "slot3max": 3
+},
+ {
+   "name": "Bataan",
+   "hullType": "Light Carrier",
+   "reload": 200,
+   "reload125": 202,
+   "reloadOath": 211,
+   "reload125Oath": 213,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      3
+   ],
+   "slot3": [
+      0
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 1
+},
+ {
+   "name": "Bogue",
+   "hullType": "Light Carrier",
+   "reload": 184,
+   "reload125": 186,
+   "reloadOath": 194,
+   "reload125Oath": 197,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      0
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 1
+},
+ {
+   "name": "Bunker Hill",
+   "hullType": "Aircraft Carrier",
+   "reload": 131,
+   "reload125": 132,
+   "reloadOath": 138,
+   "reload125Oath": 139,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 2
+},
+ {
+   "name": "Béarn",
+   "hullType": "Aircraft Carrier",
+   "reload": 110,
+   "reload125": 112,
+   "reloadOath": 116,
+   "reload125Oath": 118,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      3
+   ],
+   "slot3": [
+      2
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 2
+},
+ {
+   "name": "Casablanca",
+   "hullType": "Light Carrier",
+   "reload": 194,
+   "reload125": 196,
+   "reloadOath": 205,
+   "reload125Oath": 207,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      3
+   ],
+   "slot3": [
+      0
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 1
+},
+ {
+   "name": "Centaur",
+   "hullType": "Light Carrier",
+   "reload": 160,
+   "reload125": 162,
+   "reloadOath": 169,
+   "reload125Oath": 171,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      1
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 2,
+   "slot2max": 2,
+   "slot3max": 4
+},
+ {
+   "name": "Chaser",
+   "hullType": "Light Carrier",
+   "reload": 186,
+   "reload125": 188,
+   "reloadOath": 197,
+   "reload125Oath": 199,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      3
+   ],
+   "slot3": [
+      0
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 1
+},
+ {
+   "name": "Chihaya Kisaragi",
+   "hullType": "Aircraft Carrier",
+   "reload": 144,
+   "reload125": 146,
+   "reloadOath": 152,
+   "reload125Oath": 154,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 2,
+   "slot2max": 3,
+   "slot3max": 3
+},
+ {
+   "name": "Chise Asukagawa",
+   "hullType": "Aircraft Carrier",
+   "reload": 144,
+   "reload125": 146,
+   "reloadOath": 152,
+   "reload125Oath": 154,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 2,
+   "slot2max": 3,
+   "slot3max": 3
+},
+ {
+   "name": "Chitose",
+   "hullType": "Light Carrier",
+   "reload": 185,
+   "reload125": 188,
+   "reloadOath": 195,
+   "reload125Oath": 199,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      3
+   ],
+   "slot3": [
+      0
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 1
+},
+ {
+   "name": "Chiyoda",
+   "hullType": "Light Carrier",
+   "reload": 179,
+   "reload125": 182,
+   "reloadOath": 189,
+   "reload125Oath": 192,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      3
+   ],
+   "slot3": [
+      0
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 1
+},
+ {
+   "name": "Eagle",
+   "hullType": "Aircraft Carrier",
+   "reload": 112,
+   "reload125": 114,
+   "reloadOath": 118,
+   "reload125Oath": 120,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      3
+   ],
+   "slot3": [
+      2
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 2
+},
+ {
+   "name": "Elbe",
+   "hullType": "Light Carrier",
+   "reload": 186,
+   "reload125": 188,
+   "reloadOath": 197,
+   "reload125Oath": 199,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      0
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 1
+},
+ {
+   "name": "Enterprise",
+   "hullType": "Aircraft Carrier",
+   "reload": 132,
+   "reload125": 134,
+   "reloadOath": 139,
+   "reload125Oath": 142,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 2
+},
+ {
+   "name": "Essex",
+   "hullType": "Aircraft Carrier",
+   "reload": 131,
+   "reload125": 132,
+   "reloadOath": 138,
+   "reload125Oath": 139,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 2
+},
+ {
+   "name": "Formidable",
+   "hullType": "Aircraft Carrier",
+   "reload": 117,
+   "reload125": 119,
+   "reloadOath": 124,
+   "reload125Oath": 126,
+   "slot1": [
+      1,
+      2
+   ],
+   "slot2": [
+      3
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 2,
+   "slot2max": 3,
+   "slot3max": 3
+},
+ {
+   "name": "Fumiruiru",
+   "hullType": "Aircraft Carrier",
+   "reload": 94,
+   "reload125": 95,
+   "reloadOath": 99,
+   "reload125Oath": 100,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      3
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 2,
+   "slot2max": 3,
+   "slot3max": 3
+},
+ {
+   "name": "Glorious",
+   "hullType": "Aircraft Carrier",
+   "reload": 109,
+   "reload125": 110,
+   "reloadOath": 115,
+   "reload125Oath": 116,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      3
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 3,
+   "slot2max": 2,
+   "slot3max": 2
+},
+ {
+   "name": "Graf Zeppelin",
+   "hullType": "Aircraft Carrier",
+   "reload": 127,
+   "reload125": 129,
+   "reloadOath": 134,
+   "reload125Oath": 136,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      2,
+      3
+   ],
+   "slot1max": 2,
+   "slot2max": 3,
+   "slot3max": 3
+},
+ {
+   "name": "Green Heart",
+   "hullType": "Aircraft Carrier",
+   "reload": 114,
+   "reload125": 116,
+   "reloadOath": 120,
+   "reload125Oath": 123,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      2
+   ],
+   "slot1max": 2,
+   "slot2max": 3,
+   "slot3max": 3
+},
+ {
+   "name": "Hakuryuu",
+   "hullType": "Aircraft Carrier",
+   "reload": 126,
+   "reload125": 128,
+   "reloadOath": 133,
+   "reload125Oath": 135,
+   "slot1": [
+      1,
+      3
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3,
+      2
+   ],
+   "slot1max": 3,
+   "slot2max": 4,
+   "slot3max": 2
+},
+ {
+   "name": "Hermes",
+   "hullType": "Light Carrier",
+   "reload": 193,
+   "reload125": 195,
+   "reloadOath": 204,
+   "reload125Oath": 206,
+   "slot1": [
+      3
+   ],
+   "slot2": [
+      3
+   ],
+   "slot3": [
+      0
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 1
+},
+ {
+   "name": "Hiryu.META",
+   "hullType": "Aircraft Carrier",
+   "reload": 138,
+   "reload125": 140,
+   "reloadOath": 146,
+   "reload125Oath": 148,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 3,
+   "slot2max": 2,
+   "slot3max": 3
+},
+ {
+   "name": "Hiryuu",
+   "hullType": "Aircraft Carrier",
+   "reload": 141,
+   "reload125": 143,
+   "reloadOath": 149,
+   "reload125Oath": 151,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 3,
+   "slot2max": 2,
+   "slot3max": 3
+},
+ {
+   "name": "Hiyou",
+   "hullType": "Light Carrier",
+   "reload": 157,
+   "reload125": 160,
+   "reloadOath": 166,
+   "reload125Oath": 169,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 2,
+   "slot2max": 3,
+   "slot3max": 2
+},
+ {
+   "name": "Hiyou META",
+   "hullType": "Light Carrier",
+   "reload": 193,
+   "reload125": 195,
+   "reloadOath": 204,
+   "reload125Oath": 206,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 2,
+   "slot2max": 3,
+   "slot3max": 2
+},
+ {
+   "name": "Hornet",
+   "hullType": "Aircraft Carrier",
+   "reload": 121,
+   "reload125": 123,
+   "reloadOath": 128,
+   "reload125Oath": 130,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 2
+},
+ {
+   "name": "Houshou",
+   "hullType": "Light Carrier",
+   "reload": 176,
+   "reload125": 178,
+   "reloadOath": 186,
+   "reload125Oath": 188,
+   "slot1": [
+      0
+   ],
+   "slot2": [
+      1
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 1,
+   "slot2max": 3,
+   "slot3max": 3
+},
+ {
+   "name": "Illustrious",
+   "hullType": "Aircraft Carrier",
+   "reload": 117,
+   "reload125": 119,
+   "reloadOath": 124,
+   "reload125Oath": 126,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      1
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 2
+},
+ {
+   "name": "Illustrious μ",
+   "hullType": "Aircraft Carrier",
+   "reload": 117,
+   "reload125": 119,
+   "reloadOath": 124,
+   "reload125Oath": 126,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      1
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 2
+},
+ {
+   "name": "Independence",
+   "hullType": "Light Carrier",
+   "reload": 202,
+   "reload125": 205,
+   "reloadOath": 213,
+   "reload125Oath": 217,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      3
+   ],
+   "slot3": [
+      0
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 1
+},
+ {
+   "name": "Intrepid",
+   "hullType": "Aircraft Carrier",
+   "reload": 131,
+   "reload125": 132,
+   "reloadOath": 138,
+   "reload125Oath": 139,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 2
+},
+ {
+   "name": "Junyou",
+   "hullType": "Light Carrier",
+   "reload": 157,
+   "reload125": 160,
+   "reloadOath": 166,
+   "reload125Oath": 169,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 2,
+   "slot2max": 2,
+   "slot3max": 3
+},
+ {
+   "name": "Kaga",
+   "hullType": "Aircraft Carrier",
+   "reload": 131,
+   "reload125": 132,
+   "reloadOath": 138,
+   "reload125Oath": 139,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 3,
+   "slot2max": 2,
+   "slot3max": 3
+},
+ {
+   "name": "Katsuragi",
+   "hullType": "Aircraft Carrier",
+   "reload": 120,
+   "reload125": 121,
+   "reloadOath": 127,
+   "reload125Oath": 128,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 3,
+   "slot2max": 2,
+   "slot3max": 3
+},
+ {
+   "name": "Langley",
+   "hullType": "Light Carrier",
+   "reload": 128,
+   "reload125": 130,
+   "reloadOath": 135,
+   "reload125Oath": 137,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      0
+   ],
+   "slot3": [
+      2
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 2
+},
+ {
+   "name": "Lexington",
+   "hullType": "Aircraft Carrier",
+   "reload": 110,
+   "reload125": 112,
+   "reloadOath": 116,
+   "reload125Oath": 118,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      2
+   ],
+   "slot1max": 2,
+   "slot2max": 3,
+   "slot3max": 3
+},
+ {
+   "name": "Little Enterprise",
+   "hullType": "Aircraft Carrier",
+   "reload": 116,
+   "reload125": 118,
+   "reloadOath": 123,
+   "reload125Oath": 125,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 2
+},
+ {
+   "name": "Little Illustrious",
+   "hullType": "Aircraft Carrier",
+   "reload": 110,
+   "reload125": 112,
+   "reloadOath": 116,
+   "reload125Oath": 118,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      1
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 2
+},
+ {
+   "name": "Long Island",
+   "hullType": "Light Carrier",
+   "reload": 187,
+   "reload125": 190,
+   "reloadOath": 198,
+   "reload125Oath": 201,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      0
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 1
+},
+ {
+   "name": "Murasaki Shion",
+   "hullType": "Light Carrier",
+   "reload": 173,
+   "reload125": 176,
+   "reloadOath": 183,
+   "reload125Oath": 186,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      3
+   ],
+   "slot3": [
+      0
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 1
+},
+ {
+   "name": "Nyotengu",
+   "hullType": "Aircraft Carrier",
+   "reload": 116,
+   "reload125": 118,
+   "reloadOath": 123,
+   "reload125Oath": 125,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 2,
+   "slot2max": 3,
+   "slot3max": 3
+},
+ {
+   "name": "Perseus",
+   "hullType": "Light Carrier",
+   "reload": 168,
+   "reload125": 171,
+   "reloadOath": 178,
+   "reload125Oath": 181,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      3
+   ],
+   "slot3": [
+      0
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 1
+},
+ {
+   "name": "Peter Strasser",
+   "hullType": "Aircraft Carrier",
+   "reload": 139,
+   "reload125": 141,
+   "reloadOath": 147,
+   "reload125Oath": 149,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 2,
+   "slot2max": 3,
+   "slot3max": 3
+},
+ {
+   "name": "Princeton",
+   "hullType": "Light Carrier",
+   "reload": 181,
+   "reload125": 183,
+   "reloadOath": 191,
+   "reload125Oath": 193,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      3
+   ],
+   "slot3": [
+      0
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 1
+},
+ {
+   "name": "Ranger",
+   "hullType": "Light Carrier",
+   "reload": 136,
+   "reload125": 137,
+   "reloadOath": 144,
+   "reload125Oath": 145,
+   "slot1": [
+      3
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      2
+   ],
+   "slot1max": 2,
+   "slot2max": 3,
+   "slot3max": 3
+},
+ {
+   "name": "Royal.META",
+   "hullType": "Aircraft Carrier",
+   "reload": 115,
+   "reload125": 116,
+   "reloadOath": 122,
+   "reload125Oath": 123,
+   "slot1": [
+      3
+   ],
+   "slot2": [
+      3
+   ],
+   "slot3": [
+      2
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 2
+},
+ {
+   "name": "Ryuuhou",
+   "hullType": "Light Carrier",
+   "reload": 189,
+   "reload125": 191,
+   "reloadOath": 200,
+   "reload125Oath": 202,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      3
+   ],
+   "slot3": [
+      0
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 1
+},
+ {
+   "name": "Ryuujou",
+   "hullType": "Light Carrier",
+   "reload": 179,
+   "reload125": 181,
+   "reloadOath": 189,
+   "reload125Oath": 191,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      3
+   ],
+   "slot3": [
+      0
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 1
+},
+ {
+   "name": "Saraana",
+   "hullType": "Light Carrier",
+   "reload": 155,
+   "reload125": 157,
+   "reloadOath": 164,
+   "reload125Oath": 166,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      3
+   ],
+   "slot3": [
+      0
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 1
+},
+ {
+   "name": "Saratoga",
+   "hullType": "Aircraft Carrier",
+   "reload": 130,
+   "reload125": 132,
+   "reloadOath": 137,
+   "reload125Oath": 139,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      2
+   ],
+   "slot1max": 2,
+   "slot2max": 3,
+   "slot3max": 3
+},
+ {
+   "name": "Shangri-La",
+   "hullType": "Aircraft Carrier",
+   "reload": 131,
+   "reload125": 132,
+   "reloadOath": 138,
+   "reload125Oath": 139,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 2
+},
+ {
+   "name": "Shinano",
+   "hullType": "Aircraft Carrier",
+   "reload": 126,
+   "reload125": 128,
+   "reloadOath": 133,
+   "reload125Oath": 135,
+   "slot1": [
+      1,
+      2,
+      3
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 2,
+   "slot2max": 3,
+   "slot3max": 4
+},
+ {
+   "name": "Shouhou",
+   "hullType": "Light Carrier",
+   "reload": 183,
+   "reload125": 185,
+   "reloadOath": 193,
+   "reload125Oath": 195,
+   "slot1": [
+      2
+   ],
+   "slot2": [
+      3
+   ],
+   "slot3": [
+      0
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 1
+},
+ {
+   "name": "Shoukaku",
+   "hullType": "Aircraft Carrier",
+   "reload": 120,
+   "reload125": 121,
+   "reloadOath": 127,
+   "reload125Oath": 128,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 2,
+   "slot2max": 2,
+   "slot3max": 4
+},
+ {
+   "name": "Souryuu",
+   "hullType": "Aircraft Carrier",
+   "reload": 141,
+   "reload125": 143,
+   "reloadOath": 149,
+   "reload125Oath": 151,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 2
+},
+ {
+   "name": "Souryuu META",
+   "hullType": "Aircraft Carrier",
+   "reload": 134,
+   "reload125": 136,
+   "reloadOath": 142,
+   "reload125Oath": 144,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 2
+},
+ {
+   "name": "Taihou",
+   "hullType": "Aircraft Carrier",
+   "reload": 120,
+   "reload125": 121,
+   "reloadOath": 127,
+   "reload125Oath": 128,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 2,
+   "slot2max": 3,
+   "slot3max": 3
+},
+ {
+   "name": "Taihou μ",
+   "hullType": "Aircraft Carrier",
+   "reload": 120,
+   "reload125": 121,
+   "reloadOath": 127,
+   "reload125Oath": 128,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 2,
+   "slot2max": 3,
+   "slot3max": 3
+},
+ {
+   "name": "Ticonderoga",
+   "hullType": "Aircraft Carrier",
+   "reload": 131,
+   "reload125": 132,
+   "reloadOath": 138,
+   "reload125Oath": 139,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 2
+},
+ {
+   "name": "Tokino Sora",
+   "hullType": "Aircraft Carrier",
+   "reload": 122,
+   "reload125": 124,
+   "reloadOath": 129,
+   "reload125Oath": 131,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 2,
+   "slot2max": 3,
+   "slot3max": 3
+},
+ {
+   "name": "Unicorn",
+   "hullType": "Light Carrier",
+   "reload": 181,
+   "reload125": 183,
+   "reloadOath": 191,
+   "reload125Oath": 193,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      3
+   ],
+   "slot3": [
+      0
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 1
+},
+ {
+   "name": "Uruuru",
+   "hullType": "Light Carrier",
+   "reload": 155,
+   "reload125": 157,
+   "reloadOath": 164,
+   "reload125Oath": 166,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      0
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 1
+},
+ {
+   "name": "Vert",
+   "hullType": "Aircraft Carrier",
+   "reload": 111,
+   "reload125": 112,
+   "reloadOath": 117,
+   "reload125Oath": 118,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      2
+   ],
+   "slot1max": 3,
+   "slot2max": 2,
+   "slot3max": 2
+},
+ {
+   "name": "Victorious",
+   "hullType": "Aircraft Carrier",
+   "reload": 104,
+   "reload125": 105,
+   "reloadOath": 110,
+   "reload125Oath": 111,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 2,
+   "slot2max": 3,
+   "slot3max": 3
+},
+ {
+   "name": "Wasp",
+   "hullType": "Aircraft Carrier",
+   "reload": 117,
+   "reload125": 119,
+   "reloadOath": 124,
+   "reload125Oath": 126,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 2
+},
+ {
+   "name": "Weser",
+   "hullType": "Light Carrier",
+   "reload": 179,
+   "reload125": 182,
+   "reloadOath": 189,
+   "reload125Oath": 192,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      0
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 1
+},
+ {
+   "name": "Yorktown",
+   "hullType": "Aircraft Carrier",
+   "reload": 121,
+   "reload125": 123,
+   "reloadOath": 128,
+   "reload125Oath": 130,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 2
+},
+ {
+   "name": "Zeppy",
+   "hullType": "Aircraft Carrier",
+   "reload": 110,
+   "reload125": 112,
+   "reloadOath": 116,
+   "reload125Oath": 118,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      2
+   ],
+   "slot1max": 3,
+   "slot2max": 3,
+   "slot3max": 2
+},
+ {
+   "name": "Zuikaku",
+   "hullType": "Aircraft Carrier",
+   "reload": 120,
+   "reload125": 121,
+   "reloadOath": 127,
+   "reload125Oath": 128,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 2,
+   "slot2max": 3,
+   "slot3max": 3
+},
+ {
+   "name": "Ōkami Mio",
+   "hullType": "Aircraft Carrier",
+   "reload": 116,
+   "reload125": 118,
+   "reloadOath": 123,
+   "reload125Oath": 125,
+   "slot1": [
+      1
+   ],
+   "slot2": [
+      2
+   ],
+   "slot3": [
+      3
+   ],
+   "slot1max": 2,
+   "slot2max": 3,
+   "slot3max": 3
+}
+]

@@ -38,21 +38,36 @@ function data_extract(azurapi, ship_banner) {
 		if ( !banner_id ) { 
 			banner_id = ({
 				name: ship_name,
-				id: "error",
+				id: ship_id,
 				skins: [
 					{
-						name: "error",
-						banner: "error",
-						icon: "error",
-						shipyard: "error"
+						name: "Default",
+						banner: skin_link + "000/Banner.png",
+						icon: skin_link + "000/Icon.png",
+						chibi: skin_link + "000/ChibiIcon.png",
+						shipyard: skin_link + "000/ShipyardIcon.png"
 					}
 				]
-			})
+			});
 		}; 
 		let skin_output	= [];
 		ship_skin.forEach((azurapi_skin) => {
 			const skin_name	= azurapi_skin.name;
 
+			// 19032022
+			// using azurapi check which skin is missing / new skin update
+			// parse missing/unfilled skin into variable
+			// check skin is available in local folder
+
+			// if skin file available change the file name and move using fs.rename
+			// and checking skin folder if valid check which file is unused
+			// use that file to fill into missing/unfilled skin 
+
+			// else if skin file is not available return unknown skin variable
+			// finally using script to fill and parse json
+			// and check it manually with modified script
+
+			// note: current function just for change old skin name into new format
 			banner_id.skins.forEach((skin) => {
 				if ( skin_name === skin.name ) {
 

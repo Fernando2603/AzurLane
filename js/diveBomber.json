@@ -1,0 +1,146 @@
+[
+    {
+        "code":2001,
+        "name":"Nakajima J5N Tenrai (Dive Bomber Prototype)",
+        "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/39340.png",
+        "faction":"Sakura Empire",
+        "rarity":"Ultra Rare",
+        "reload":12,
+        "speed":52
+    },
+    {
+        "code":2002,
+        "name":"Curtiss XSB3C (Experimental)",
+        "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/19160.png",
+        "faction":"Eagle Union",
+        "rarity":"Super Rare",
+        "reload":11.91,
+        "speed":45
+    },
+    {
+        "code":2003,
+        "name":"Douglas BTD-1 Destroyer",
+        "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/19200.png",
+        "faction":"Eagle Union",
+        "rarity":"Super Rare",
+        "reload":11.71,
+        "speed":45
+    },
+    {
+        "code":2004,
+        "name":"Douglas SBD Dauntless (McClusky)",
+        "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/19060.png",
+        "faction":"Eagle Union",
+        "rarity":"Super Rare",
+        "reload":11.71,
+        "speed":46
+    },
+    {
+        "code":2005,
+        "name":"Fairey Barracuda (831 Squadron)",
+        "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/29300.png",
+        "faction":"Royal Navy",
+        "rarity":"Super Rare",
+        "reload":10.38,
+        "speed":52
+    },
+    {
+        "code":2006,
+        "name":"Fairey Firefly",
+        "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/29200.png",
+        "faction":"Royal Navy",
+        "rarity":"Super Rare",
+        "reload":11.11,
+        "speed":47
+    },
+    {
+        "code":2007,
+        "name":"Yokosuka D4Y Suisei",
+        "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/39100.png",
+        "faction":"Sakura Empire",
+        "rarity":"Super Rare",
+        "reload":10.44,
+        "speed":48
+    },
+    {
+        "code":2008,
+        "name":"Yokosuka Suisei Model 12A",
+        "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/39160.png",
+        "faction":"Sakura Empire",
+        "rarity":"Super Rare",
+        "reload":9.98,
+        "speed":48
+    },
+    {
+        "code":2009,
+        "name":"Aichi D3A Type 99",
+        "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/39000.png",
+        "faction":"Sakura Empire",
+        "rarity":"Elite",
+        "reload":10.91,
+        "speed":45
+    },
+    {
+        "code":2010,
+        "name":"Aichi D3A2 Type 99",
+        "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/39060.png",
+        "faction":"Sakura Empire",
+        "rarity":"Elite",
+        "reload":10.51,
+        "speed":45
+    },
+    {
+        "code":2011,
+        "name":"Curtiss SB2C Helldiver",
+        "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/19100.png",
+        "faction":"Eagle Union",
+        "rarity":"Elite",
+        "reload":11.88,
+        "speed":45
+    },
+    {
+        "code":2012,
+        "name":"Fairey Fulmar",
+        "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/29100.png",
+        "faction":"Royal Navy",
+        "rarity":"Elite",
+        "reload":9.18,
+        "speed":48
+    },
+    {
+        "code":2013,
+        "name":"Junkers Ju-87C",
+        "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/49000.png",
+        "faction":"Iron Blood",
+        "rarity":"Elite",
+        "reload":11.57,
+        "speed":46
+    },
+    {
+        "code":2014,
+        "name":"Blackburn Skua",
+        "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/29000.png",
+        "faction":"Royal Navy",
+        "rarity":"Rare",
+        "reload":11.77,
+        "speed":45
+    },
+    {
+        "code":2015,
+        "name":"Douglas SBD Dauntless",
+        "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/19000.png",
+        "faction":"Eagle Union",
+        "rarity":"Rare",
+        "reload":12.64,
+        "speed":45
+    },
+    {
+        "code":2016,
+        "name":"Heinkel He 50b",
+        "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/49060.png",
+        "faction":"Iron Blood",
+        "rarity":"Rare",
+        "reload":11.9,
+        "speed":48
+    }
+]
