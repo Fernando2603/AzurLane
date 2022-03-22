@@ -26,26 +26,6 @@ Promise.all([
 	}
 );
 
-async function moveFile(oldPath, newPath) {
-  // 1. Create the destination directory
-  // Set the `recursive` option to `true` to create all the subdirectories
-  await fs.mkdir(path.dirname(newPath), { recursive: true });
-  try {
-    // 2. Rename the file (move it to the new directory)
-    await fs.rename(oldPath, newPath);
-  } catch (error) {
-    if (error.code === 'EXDEV') {
-      // 3. Copy the file as a fallback
-      await fs.copyFile(oldPath, newPath);
-      // Remove the old file
-      await fs.unlink(oldPath);
-    } else {
-      // Throw any other error
-      throw error;
-    }
-  }
-}
-
 function data_extract(azurapi, ship_banner) {
 	ship_banner.forEach((ship) => {
 		const ship_name	= ship.names;
@@ -69,52 +49,27 @@ function data_extract(azurapi, ship_banner) {
 			const skin_chibi_final 		= link_remove(skin_chibi);
 			const skin_shipyard_final = link_remove(skin_shipyard);
 
-			const list_check_banner 	= skin_list.find(element => element.replace("\\","/") === skin_banner_final);
-			const list_check_icon 		= skin_list.find(element => element.replace("\\","/") === skin_icon_final);
-			const list_check_chibi 		= skin_list.find(element => element.replace("\\","/") === skin_chibi_final);
-			const list_check_shipyard = skin_list.find(element => element.replace("\\","/") === skin_shipyard_final);
-
-			let old_path_banner 	= "/images/skins/"+list_check_banner.replace("\\","/");
-			let old_path_icon			= "/images/skins/"+list_check_icon.replace("\\","/");
-			let old_path_chibi 		= "/images/skins/"+list_check_chibi.replace("\\","/");
-			let old_path_shipyard	= "/images/skins/"+list_check_shipyard.replace("\\","/");
-
-			const new_library 		= ship_id;
-			const ship_replace 		= ship_name.replace(/ /g,"_");
-
-			let image_library 		= ship_replace;
-			if ( ship_replace.includes("_μ") || ship_replace.includes("_µ") ) { image_library	= ship_replace.replace("_μ","_µ") };
-			if ( ship_name === "Ōkami Mio" ) { image_library = "Ookami_Mio" };
-			if ( ship_name === "Kaga(BB)" ) { image_library = "Kaga_(Battleship)" };
-			if ( ship_name === "Kasumi" ) { image_library = "Kasumi_(Venus_Vacation)" };
-			if ( ship_name === "Kasumi Retrofit" ) { image_library = "Kasumi" };
-			if ( ship_id === "Collab001" ) { image_library = "Neptune_(Neptunia)"}
-			if ( ship_name === "Pamiat' Merkuria" ) { image_library = "Pamiat_Merkuria" };
-
-			let new_image_banner 		= list_check_banner.split("\\").pop();
-			let new_image_icon 			= list_check_icon.split("\\").pop();
-			let new_image_chibi			= list_check_chibi.split("\\").pop();
-			let new_image_shipyard	= list_check_shipyard.split("\\").pop();
-
 			let pass_1	= true;
 			let pass_2	= true;
 			let pass_3	= true;
 			let pass_4	= true;
 
-			if ( new_image_banner === "UnknownBanner.png" ) {pass_1 = false};
-			if ( new_image_icon === "UnknownIcon.png" ) {pass_2 = false};
-			if ( new_image_chibi === "UnknownChibiIcon.png" ) {pass_3 = false};
-			if ( new_image_shipyard === "UnknownShipyardIcon.png" ) {pass_4 = false};
+			if ( skin_banner_final.includes("000/Banner.png") ) {pass_1 = false};
+			if ( skin_icon_final.includes("000/Icon.png") ) {pass_2 = false};
+			if ( skin_chibi_final.includes("000/ChibiIcon.png") ) {pass_3 = false};
+			if ( skin_shipyard_final.includes("000/ShipyardIcon.png") ) {pass_4 = false};
 
-			let image_banner_create 	= new_image_banner.replace(image_library, "");
-			let image_icon_create 		= new_image_icon.replace(image_library, "");
-			let image_chibi_create 		= new_image_chibi.replace(image_library, "");
-			let image_shipyard_create = new_image_shipyard.replace(image_library, "");
+			const new_library = ship_id;
+			const new_folder 	= skin_name.replace(/ /g, "_").replace(/\W/g,"").replace(/__/g,"_").replace(/_*$/,"");
 
-			let new_path_banner 	= "/skins/" + new_library + "/" + image_banner_create;
-			let new_path_icon			= "/skins/" + new_library + "/" + image_icon_create;
-			let new_path_chibi 		= "/skins/" + new_library + "/" + image_chibi_create;
-			let new_path_shipyard	= "/skins/" + new_library + "/" + image_shipyard_create;
+			const old_path_banner			= "/images/skins/" + skin_banner_final;
+			const old_path_icon				= "/images/skins/" + skin_icon_final;
+			const old_path_chibi			= "/images/skins/" + skin_chibi_final;
+			const old_path_shipyard		= "/images/skins/" + skin_shipyard_final;
+			const new_path_banner 	= "/skins/" + new_library + "/" + new_folder + "/Banner.png";
+			const new_path_icon			= "/skins/" + new_library + "/" + new_folder + "/Icon.png";
+			const new_path_chibi 		= "/skins/" + new_library + "/" + new_folder + "/ChibiIcon.png";
+			const new_path_shipyard	= "/skins/" + new_library + "/" + new_folder + "/ShipyardIcon.png";
 
 			if ( pass_1 ) { json_data.push({old_path:old_path_banner, new_path:new_path_banner}) };
 			if ( pass_2 ) { json_data.push({old_path:old_path_icon, new_path:new_path_icon}) };
