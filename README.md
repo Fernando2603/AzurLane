@@ -31,29 +31,29 @@ Azur Lane Resources
 ```Json
 [
    {
-      "id":"336",
-      "name":"Abercrombie",
-      "skins":[
+      "id": "336",
+      "name": "Abercrombie",
+      "skins": [
          {
-            "name":"Default",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Banner.png",
-            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Icon.png",
-            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/ChibiIcon.png",
-            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/ShipyardIcon.png"
+            "name": "Default",
+            "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Default/Banner.png",
+            "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Default/Icon.png",
+            "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Default/ChibiIcon.png",
+            "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Default/ShipyardIcon.png"
          },
          {
-            "name":"Pumpkin Blast!",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/HalloweenBanner.png",
-            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/HalloweenIcon.png",
-            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/HalloweenChibiIcon.png",
-            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/HalloweenShipyardIcon.png"
+            "name": "Pumpkin Blast!",
+            "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Pumpkin_Blast/Banner.png",
+            "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Pumpkin_Blast/Icon.png",
+            "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Pumpkin_Blast/ChibiIcon.png",
+            "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Pumpkin_Blast/ShipyardIcon.png"
          },
          {
-            "name":"Mischief on the Rocks",
-            "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/BunnyBanner.png",
-            "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/BunnyIcon.png",
-            "chibi":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/BunnyChibiIcon.png",
-            "shipyard":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/BunnyShipyardIcon.png"
+            "name": "Mischief on the Rocks",
+            "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Mischief_on_the_Rocks/Banner.png",
+            "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Mischief_on_the_Rocks/Icon.png",
+            "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Mischief_on_the_Rocks/ChibiIcon.png",
+            "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Mischief_on_the_Rocks/ShipyardIcon.png"
          }
       ]
    }
