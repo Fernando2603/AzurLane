@@ -16,7 +16,7 @@ Promise.all([
 		console.log("AzurAPI & ShipBanner Loaded!");
 		ShipBanner	= shipBanner;
 		// disabled for security reason
-		// data_extract(azurAPI, shipBanner); 
+		data_extract(azurAPI, shipBanner); 
 	},
 	(error) => {
 		console.log('error: ' + error);
@@ -30,106 +30,104 @@ function data_extract(azurapi, ship_banner) {
 		const skin_link	= "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/";
 		const ship_skin	= ship.skins; // array
 
+		// replace name because azurapi names.en output is hiryu.meta & royal.meta
 		if ( ship_id === "30001" ) { ship_name = "Hiryuu META" };
 		if ( ship_id === "30002" ) { ship_name = "Ark Royal META" };
 
-		let banner_id	= ship_banner.find( banner => banner.id === ship_id );
-
-		if ( !banner_id ) { 
-			banner_id = ({
-				name: ship_name,
-				id: ship_id,
-				skins: [
-					{
-						name: "Default",
-						banner: skin_link + "000/Banner.png",
-						icon: skin_link + "000/Icon.png",
-						chibi: skin_link + "000/ChibiIcon.png",
-						shipyard: skin_link + "000/ShipyardIcon.png"
-					}
-				]
-			});
-		}; 
+		// check banner exist or not
+		let banner_get	= ship_banner.find( banner => banner.id === ship_id );
 		let skin_output	= [];
-		ship_skin.forEach((azurapi_skin) => {
-			const skin_name	= azurapi_skin.name;
 
-			// 19032022
-			// using azurapi check which skin is missing / new skin update
-			// parse missing/unfilled skin into variable
-			// check skin is available in local folder
-
-			// if skin file available change the file name and move using fs.rename
-			// and checking skin folder if valid check which file is unused
-			// use that file to fill into missing/unfilled skin 
-
-			// else if skin file is not available return unknown skin variable
-			// finally using script to fill and parse json
-			// and check it manually with modified script
-
-			// note: current function just for change old skin name into new format
-			banner_id.skins.forEach((skin) => {
-				if ( skin_name === skin.name ) {
-
-					const skin_banner	= skin.banner;
-					const skin_icon		= skin.icon;
-					const skin_chibi	= skin.chibi;
-					const skin_shipyard	= skin.shipyard;
-
-					let ship_replace	= ship_name.replace(/ /g,"_");
-
-					let library_name	= ship_replace;
-					let image_name		= ship_replace;
-
-					if ( ship_replace.includes("_μ") || ship_replace.includes("_µ") ) { 
-						library_name 	= ship_replace.replace("_μ","").replace("_µ","");
-						image_name	= ship_replace.replace("_μ","_µ");
-						console.log(ship_replace)
+		if ( banner_get ) {
+			ship_skin.forEach((skin) => {
+				const skin_name			= skin.name;
+				let skin_availability	= false;
+				let banner_skin_get 	= "";
+				banner_get.skins.forEach((banner_skin_data) => {
+					if ( banner_skin_data.name === skin_name ) {
+						banner_skin_get		= banner_skin_data;
+						skin_availability	= true;
 					};
-					if ( ship_replace.includes("-chan") ) { library_name = ship_replace.replace("-chan",""); console.log(ship_replace) };
+				});
 
-					if ( skin_banner.includes("/Kizuna_AI/") ) { library_name	= "Kizuna_AI"; console.log(ship_replace) };
-					if ( skin_banner.includes("/META/") ) { library_name = "META" };
-
-					if ( ship_name === "Ōkami Mio" ) { image_name = "Ookami_Mio" };
-					if ( ship_name === "Kaga(BB)" ) { library_name = "Kaga"; image_name = "Kaga_(Battleship)" };
-					if ( ship_name === "Kasumi" ) { library_name = "Kasumi_Venus_Vacation"; image_name = "Kasumi_(Venus_Vacation)" };
-					if ( ship_name === "Kasumi Retrofit" ) { library_name = "Kasumi"; image_name = "Kasumi" };
-					if ( ship_id === "Collab001" ) { library_name = "Neptune_Neptunia"; image_name = "Neptune_(Neptunia)"}
-					if ( ship_name === "Pamiat' Merkuria" ) { library_name = "Pamiat_Merkuria"; image_name = "Pamiat_Merkuria" };
-
-					function skin_replace(skin) {
-						const skin_value = skin
-							.replace(`/${library_name}/`, `/${ship_id}/`)
-							.replace(image_name, "")
-							.replace("/Unknown/","/000/")
-							.replace("Unknown",'')
-						return skin_value
-					};
-
-					let skin_banner_final 	= skin_replace(skin_banner);
-					let skin_icon_final 	= skin_replace(skin_icon);
-					let skin_chibi_final 	= skin_replace(skin_chibi);
-					let skin_shipyard_final = skin_replace(skin_shipyard);
-
-					const skin_parse	= ({
+				if ( skin_availability ) {
+					// both azurapi/shipbanner have this skin
+					const skin_banner	= banner_skin_get.banner;
+					const skin_icon		= banner_skin_get.icon;
+					const skin_chibi	= banner_skin_get.chibi;
+					const skin_shipyard	= banner_skin_get.shipyard;
+					skin_output.push({
 						name: skin_name,
-						banner: skin_banner_final,
-						icon: skin_icon_final,
-						chibi: skin_chibi_final,
-						shipyard: skin_shipyard_final
+						banner: skin_banner,
+						icon: skin_icon,
+						chibi: skin_chibi,
+						shipyard: skin_shipyard
+					})
+				} else {
+					// new skin that shipbanner doesnt have
+					// assuming we have the file
+					console.log("New skin " + ship_name + " ==> " + skin_name)
+					const skin_folder		= skin_name.replace(/ /g, "_").replace(/\W/g,"").replace(/__/g,"_").replace(/_*$/,"");
+					const skin_library		= skin_link + ship_id + "/" + skin_folder + "/";
+
+					const new_skin_banner	= skin_library + "Banner.png";
+					const new_skin_icon		= skin_library + "Icon.png";
+					const new_skin_chibi	= skin_library + "ChibiIcon.png";
+					const new_skin_shipyard	= skin_library + "ShipyardIcon.png"; 
+
+					skin_output.push({
+						status: "new skin",
+						name: skin_name,
+						banner: new_skin_banner,
+						icon: new_skin_icon,
+						chibi: new_skin_chibi,
+						shipyard: new_skin_shipyard
 					});
-					skin_output.push(skin_parse);
 				};
 			});
+		};
 
-		});
-
-		const ship_json_builder	= ({
+		let ship_json_builder	= ({
 			id: ship_id,
 			name: ship_name,
 			skins: skin_output
 		});
+
+		if ( !banner_get ) {
+			// new ship
+			// assuming we have the file
+			let unknown_skin_get = []; 
+
+			ship_skin.forEach((skin) => {
+				const skin_name			= skin.name;
+				console.log("New Ship" + ship_name + " =>> " + skin_name);
+
+				const skin_folder		= skin_name.replace(/ /g, "_").replace(/\W/g,"").replace(/__/g,"_").replace(/_*$/,"");
+				const skin_library		= skin_link + ship_id + "/" + skin_folder + "/";
+
+				const new_skin_banner	= skin_library + "Banner.png";
+				const new_skin_icon		= skin_library + "Icon.png";
+				const new_skin_chibi	= skin_library + "ChibiIcon.png";
+				const new_skin_shipyard	= skin_library + "ShipyardIcon.png"; 
+
+				unknown_skin_get.push({
+					status: "new ship",
+					name: skin_name,
+					banner: new_skin_banner,
+					icon: new_skin_icon,
+					chibi: new_skin_chibi,
+					shipyard: new_skin_shipyard
+				});
+			});
+
+			ship_json_builder = ({
+				status: "new ship",
+				name: ship_name,
+				id: ship_id,
+				skins: unknown_skin_get
+			});
+		};
+
 		json_data.push(ship_json_builder);
 	});
 	const json_content = JSON.stringify(json_data, null , "\t");
