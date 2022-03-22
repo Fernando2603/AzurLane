@@ -6126,31 +6126,31 @@
 		"skins": [
 			{
 				"name": "Default",
-				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kasumi/KasumiBanner.png",
-				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kasumi/KasumiIcon.png",
-				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kasumi/KasumiChibiIcon.png",
-				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kasumi/KasumiShipyardIcon.png"
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/424/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/424/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/424/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/424/ShipyardIcon.png"
 			},
 			{
 				"name": "Retrofit",
-				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kasumi/KasumiKaiBanner.png",
-				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kasumi/KasumiKaiIcon.png",
-				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kasumi/KasumiKaiChibiIcon.png",
-				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kasumi/KasumiKaiShipyardIcon.png"
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/424/KaiBanner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/424/KaiIcon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/424/KaiChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/424/KaiShipyardIcon.png"
 			},
 			{
 				"name": "New Year's Comfort",
-				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kasumi/KasumiNew_YearBanner.png",
-				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kasumi/KasumiNew_YearIcon.png",
-				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kasumi/KasumiNew_YearChibiIcon.png",
-				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kasumi/KasumiNew_YearShipyardIcon.png"
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/424/New_YearBanner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/424/New_YearIcon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/424/New_YearChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/424/New_YearShipyardIcon.png"
 			},
 			{
 				"name": "At School with Foo",
-				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kasumi/KasumiSchoolBanner.png",
-				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kasumi/KasumiSchoolIcon.png",
-				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kasumi/KasumiSchoolChibiIcon.png",
-				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Kasumi/KasumiSchoolShipyardIcon.png"
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/424/SchoolBanner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/424/SchoolIcon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/424/SchoolChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/424/SchoolShipyardIcon.png"
 			}
 		]
 	},
