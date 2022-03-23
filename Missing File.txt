@@ -22,10 +22,11 @@ Ticonderoga\TiconderogaBunnyCensoredShipyardIcon.png
 Enterprise\Enterprise-AlterBanner.png
 Kashino\KashinoSummerCensoredBanner.png
 
-Missing File [21032022] = 94 
+Missing File [23032022] = 95 
 Acasta			=	Fashionable Outing									[banner, icon]
 Asashio			=	The Transfer Student Underneath the Dancing Petals	[banner, icon]
 Atago			=	School Traumerei									[banner, icon]
+Arkhangelsk 	= 	Grandiose Getaway 									[bannner]
 Aurora			=	Heritage of Yu City									[banner, icon]
 Ayanami			=	NicoNico 											[chibi]
 Black Heart		=	Goddesses' Smile									[banner]
