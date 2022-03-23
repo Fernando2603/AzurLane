@@ -1,12 +1,13 @@
 {
-  "name": "azurlane",
-  "version": "1.0.0",
+  "name": "fernando2603@azurlane",
+  "version": "2.0.0",
   "private": true,
   "description": "Azurlane Resources",
   "main": "index.js",
   "type":"module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node .",
+    "check": "node js/file_check.js"
   },
   "repository": {
     "type": "git",
