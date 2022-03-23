@@ -5,7 +5,7 @@ Azur Lane Resources
 ## Major change 19 March 2022
 >Change images/skin/ship folder from ship_name into ship_id (this remove problem with latin link (expample: å) which cause problem to load the images)
 
->Remove ship_name from image (example: etcBanner.png, etcCasualBanner.png into Banner.png, CasualBanner.png)
+>Remove ship_name & relocate image (example: /000/Banner.png, 000/CasualBanner.png into 000/Default/Banner.png, 000/skin_name/Banner.png)
 
 ## Fetch
 - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/ShipBanner.json`
