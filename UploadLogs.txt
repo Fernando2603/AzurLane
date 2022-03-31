@@ -1,4 +1,43 @@
 ===========================================================
+31 March 2022 (+36 File) (path:/images/skins)
+ArcherfishSchoolBanner.png
+ArcherfishSchoolIcon.png
+ArcherfishSchoolShipyardIcon.png
+EnterpriseTravelBanner.png
+EnterpriseTravelIcon.png
+EnterpriseTravelShipyardIcon.png
+ImperoBanner.png
+ImperoIcon.png
+ImperoSchoolBanner.png
+ImperoSchoolIcon.png
+ImperoSchoolShipyardIcon.png
+ImperoShipyardIcon.png
+KongouSchoolBanner.png
+KongouSchoolIcon.png
+KongouSchoolShipyardIcon.png
+OoshioSchoolBanner.png
+OoshioSchoolIcon.png
+OoshioSchoolShipyardIcon.png
+Pompeo_MagnoBanner.png
+Pompeo_MagnoIcon.png
+Pompeo_MagnoSchoolBanner.png
+Pompeo_MagnoSchoolIcon.png
+Pompeo_MagnoSchoolShipyardIcon.png
+Pompeo_MagnoShipyardIcon.png
+TriesteBanner.png
+TriesteIcon.png
+TriesteSchoolBanner.png
+TriesteSchoolIcon.png
+TriesteSchoolShipyardIcon.png
+TriesteShipyardIcon.png
+WakabaSchoolBanner.png
+WakabaSchoolIcon.png
+WakabaSchoolShipyardIcon.png
+Yamashiro_METABanner.png
+Yamashiro_METAIcon.png
+Yamashiro_METAShipyardIcon.png
+
+===========================================================
 19 March 2022 (path:/images/skins) || rework 
 move ./images/skins >> ./images/skins.old
 re-create/compile ./images/skins into sort by ship id instead names

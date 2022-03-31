@@ -754,6 +754,13 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/513/Coquettish_Bunny/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/513/Coquettish_Bunny/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/513/Coquettish_Bunny/ShipyardIcon.png"
+			},
+			{
+				"name": "The Devil Next Door",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/513/The_Devil_Next_Door/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/513/The_Devil_Next_Door/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/000/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/513/The_Devil_Next_Door/ShipyardIcon.png"
 			}
 		]
 	},
@@ -3239,6 +3246,13 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/077/Wind_Catcher/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/077/Wind_Catcher/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/077/Wind_Catcher/ShipyardIcon.png"
+			},
+			{
+				"name": "Bon Voyage",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/077/Bon_Voyage/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/077/Bon_Voyage/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/000/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/077/Bon_Voyage/ShipyardIcon.png"
 			}
 		]
 	},
@@ -5332,6 +5346,26 @@
 		]
 	},
 	{
+		"name": "Impero",
+		"id": "540",
+		"skins": [
+			{
+				"name": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/540/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/540/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/000/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/540/Default/ShipyardIcon.png"
+			},
+			{
+				"name": "Languid Librarian",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/540/Languid_Librarian/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/540/Languid_Librarian/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/000/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/540/Languid_Librarian/ShipyardIcon.png"
+			}
+		]
+	},
+	{
 		"id": "162",
 		"name": "Inazuma",
 		"skins": [
@@ -6574,6 +6608,13 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/204/Hospital_Talent/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/204/Hospital_Talent/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/204/Hospital_Talent/ShipyardIcon.png"
+			},
+			{
+				"name": "Breezy Commute",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/204/Breezy_Commute/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/204/Breezy_Commute/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/000/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/204/Breezy_Commute/ShipyardIcon.png"
 			}
 		]
 	},
@@ -8920,6 +8961,13 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/332/Bringer_of_Fortunes/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/332/Bringer_of_Fortunes/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/332/Bringer_of_Fortunes/ShipyardIcon.png"
+			},
+			{
+				"name": "Let's 'ave Lunch",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/332/Lets_ave_Lunch/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/332/Lets_ave_Lunch/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/000/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/332/Lets_ave_Lunch/ShipyardIcon.png"
 			}
 		]
 	},
@@ -9169,6 +9217,26 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/489/Seaside_Coincidence/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/489/Seaside_Coincidence/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/489/Seaside_Coincidence/ShipyardIcon.png"
+			}
+		]
+	},
+	{
+		"name": "Pompeo Magno",
+		"id": "541",
+		"skins": [
+			{
+				"name": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/541/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/541/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/000/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/541/Default/ShipyardIcon.png"
+			},
+			{
+				"name": "Quaver Daydream",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/541/Quaver_Daydream/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/541/Quaver_Daydream/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/000/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/541/Quaver_Daydream/ShipyardIcon.png"
 			}
 		]
 	},
@@ -11383,6 +11451,26 @@
 		]
 	},
 	{
+		"name": "Trieste",
+		"id": "542",
+		"skins": [
+			{
+				"name": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/542/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/542/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/000/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/542/Default/ShipyardIcon.png"
+			},
+			{
+				"name": "Rooftop Lunch Break",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/542/Rooftop_Lunch_Break/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/542/Rooftop_Lunch_Break/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/000/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/542/Rooftop_Lunch_Break/ShipyardIcon.png"
+			}
+		]
+	},
+	{
 		"id": "399",
 		"name": "U-101",
 		"skins": [
@@ -12125,6 +12213,13 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/173/Holiday_Special_Wakaba/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/173/Holiday_Special_Wakaba/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/173/Holiday_Special_Wakaba/ShipyardIcon.png"
+			},
+			{
+				"name": "A Healthy Dose of Sunshine!",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/173/A_Healthy_Dose_of_Sunshine/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/173/A_Healthy_Dose_of_Sunshine/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/000/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/173/A_Healthy_Dose_of_Sunshine/ShipyardIcon.png"
 			}
 		]
 	},
@@ -12368,6 +12463,19 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/209/Street_Corner_Offensive/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/209/Street_Corner_Offensive/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/209/Street_Corner_Offensive/ShipyardIcon.png"
+			}
+		]
+	},
+	{
+		"name": "Yamashiro META",
+		"id": "30010",
+		"skins": [
+			{
+				"name": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/30010/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/30010/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/000/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/30010/Default/ShipyardIcon.png"
 			}
 		]
 	},

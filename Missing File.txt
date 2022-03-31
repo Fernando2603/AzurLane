@@ -22,6 +22,24 @@ Ticonderoga\TiconderogaBunnyCensoredShipyardIcon.png
 Enterprise\Enterprise-AlterBanner.png
 Kashino\KashinoSummerCensoredBanner.png
 
+Missing File [31032022] = 12 file type chibiicon.png
+┌─────────┬────────────┬──────────────────┬─────────┬───────────────────────────────┬──────────────────────────────┐
+│ (index) │   STATUS   │       SHIP       │   ID    │             SKIN              │            FOLDER            │
+├─────────┼────────────┼──────────────────┼─────────┼───────────────────────────────┼──────────────────────────────┤
+│    0    │ 'New Skin' │   'Archerfish'   │  '513'  │     'The Devil Next Door'     │    'The_Devil_Next_Door'     │
+│    1    │ 'New Skin' │   'Enterprise'   │  '077'  │         'Bon Voyage'          │         'Bon_Voyage'         │
+│    2    │ 'New Ship' │     'Impero'     │  '540'  │           'Default'           │          'Default'           │
+│    3    │ 'New Ship' │     'Impero'     │  '540'  │      'Languid Librarian'      │     'Languid_Librarian'      │
+│    4    │ 'New Skin' │     'Kongou'     │  '204'  │       'Breezy Commute'        │       'Breezy_Commute'       │
+│    5    │ 'New Skin' │     'Ooshio'     │  '332'  │      "Let's 'ave Lunch"       │       'Lets_ave_Lunch'       │
+│    6    │ 'New Ship' │  'Pompeo Magno'  │  '541'  │           'Default'           │          'Default'           │
+│    7    │ 'New Ship' │  'Pompeo Magno'  │  '541'  │       'Quaver Daydream'       │      'Quaver_Daydream'       │
+│    8    │ 'New Ship' │    'Trieste'     │  '542'  │           'Default'           │          'Default'           │
+│    9    │ 'New Ship' │    'Trieste'     │  '542'  │     'Rooftop Lunch Break'     │    'Rooftop_Lunch_Break'     │
+│   10    │ 'New Skin' │     'Wakaba'     │  '173'  │ 'A Healthy Dose of Sunshine!' │ 'A_Healthy_Dose_of_Sunshine' │
+│   11    │ 'New Ship' │ 'Yamashiro META' │ '30010' │           'Default'           │          'Default'           │
+└─────────┴────────────┴──────────────────┴─────────┴───────────────────────────────┴──────────────────────────────┘
+
 Missing File [23032022] = 95 
 Acasta			=	Fashionable Outing									[banner, icon]
 Asashio			=	The Transfer Student Underneath the Dancing Petals	[banner, icon]
