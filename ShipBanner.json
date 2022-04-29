@@ -92,12 +92,8 @@
 			},
 			{
 				"name": "Fashionable Outing",
-<<<<<<< Updated upstream
-				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/000/Default/Banner.png",
-=======
 				"type": "School",
 				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/082/Fashionable_Outing/Banner.png",
->>>>>>> Stashed changes
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/000/Default/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/082/Fashionable_Outing/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/082/Fashionable_Outing/ShipyardIcon.png"
