@@ -24,6 +24,7 @@ Azur Lane Resources
 - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownChibiIcon.png`
 - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/000/Default/ChibiIcon.png`
 #### Shipyard
+- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownShipyardIcon.png`
 - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/000/Default/ShipyardIcon.png`
 
 ## Json Structure
@@ -36,6 +37,7 @@ Azur Lane Resources
       "skins": [
          {
             "name": "Default",
+            "type": "Default",
             "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Default/Banner.png",
             "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Default/Icon.png",
             "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Default/ChibiIcon.png",
@@ -43,6 +45,7 @@ Azur Lane Resources
          },
          {
             "name": "Pumpkin Blast!",
+            "type": "Halloween",
             "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Pumpkin_Blast/Banner.png",
             "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Pumpkin_Blast/Icon.png",
             "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Pumpkin_Blast/ChibiIcon.png",
@@ -50,6 +53,7 @@ Azur Lane Resources
          },
          {
             "name": "Mischief on the Rocks",
+            "ty[e": "Bunny",
             "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Mischief_on_the_Rocks/Banner.png",
             "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Mischief_on_the_Rocks/Icon.png",
             "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Mischief_on_the_Rocks/ChibiIcon.png",
