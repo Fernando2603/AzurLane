@@ -1,4 +1,62 @@
-Updated & Unused File = 0
+Updated & Unused File = 58
+Admiral_HipperFestivalBanner.png
+Admiral_HipperFestivalIcon.png
+Admiral_HipperFestivalShipyardIcon.png
+ChapayevFestivalBanner.png
+ChapayevFestivalIcon.png
+ChapayevFestivalShipyardIcon.png
+ElbingBanner.png
+ElbingIcon.png
+ElbingShipyardIcon.png
+ElbingVampireBanner.png
+ElbingVampireIcon.png
+ElbingVampireShipyardIcon.png
+EmdenBanner.png
+EmdenIcon.png
+EmdenShipyardIcon.png
+EmdenVampireBanner.png
+EmdenVampireIcon.png
+EmdenVampireShipyardIcon.png
+ImperoChibiIcon.png
+Little_Prinz_EugenBanner.png
+Little_Prinz_EugenIcon.png
+Little_Prinz_EugenShipyardIcon.png
+LützowBanner.png
+LützowIcon.png
+LützowShipyardIcon.png
+LützowVampireBanner.png
+LützowVampireIcon.png
+LützowVampireShipyardIcon.png
+NelsonFestivalBanner.png
+NelsonFestivalIcon.png
+NelsonFestivalShipyardIcon.png
+Pompeo_MagnoChibiIcon.png
+SeydlitzBanner.png
+SeydlitzIcon.png
+SeydlitzShipyardIcon.png
+SeydlitzVampireBanner.png
+SeydlitzVampireIcon.png
+SeydlitzVampireShipyardIcon.png
+SheffieldVampireBanner.png
+SheffieldVampireIcon.png
+SheffieldVampireShipyardIcon.png
+ThüringenBanner.png
+ThüringenIcon.png
+ThüringenShipyardIcon.png
+ThüringenVampireBanner.png
+ThüringenVampireIcon.png
+ThüringenVampireShipyardIcon.png
+TriesteChibiIcon.png
+U-47VampireBanner.png
+U-47VampireIcon.png
+U-47VampireShipyardIcon.png
+Yamashiro_METAChibiIcon.png
+YorckBanner.png
+YorckIcon.png
+YorckShipyardIcon.png
+YorckVampireBanner.png
+YorckVampireIcon.png
+YorckVampireShipyardIcon.png
 
 Unused File (path:/images/unused) = 20
 San_Francisco\San_FranciscoBunnyCensoredBanner.png
@@ -22,26 +80,9 @@ Ticonderoga\TiconderogaBunnyCensoredShipyardIcon.png
 Enterprise\Enterprise-AlterBanner.png
 Kashino\KashinoSummerCensoredBanner.png
 
-Missing File [31032022] = 12 file type chibiicon.png
-┌─────────┬────────────┬──────────────────┬─────────┬───────────────────────────────┬──────────────────────────────┐
-│ (index) │   STATUS   │       SHIP       │   ID    │             SKIN              │            FOLDER            │
-├─────────┼────────────┼──────────────────┼─────────┼───────────────────────────────┼──────────────────────────────┤
-│    0    │ 'New Skin' │   'Archerfish'   │  '513'  │     'The Devil Next Door'     │    'The_Devil_Next_Door'     │
-│    1    │ 'New Skin' │   'Enterprise'   │  '077'  │         'Bon Voyage'          │         'Bon_Voyage'         │
-│    2    │ 'New Ship' │     'Impero'     │  '540'  │           'Default'           │          'Default'           │
-│    3    │ 'New Ship' │     'Impero'     │  '540'  │      'Languid Librarian'      │     'Languid_Librarian'      │
-│    4    │ 'New Skin' │     'Kongou'     │  '204'  │       'Breezy Commute'        │       'Breezy_Commute'       │
-│    5    │ 'New Skin' │     'Ooshio'     │  '332'  │      "Let's 'ave Lunch"       │       'Lets_ave_Lunch'       │
-│    6    │ 'New Ship' │  'Pompeo Magno'  │  '541'  │           'Default'           │          'Default'           │
-│    7    │ 'New Ship' │  'Pompeo Magno'  │  '541'  │       'Quaver Daydream'       │      'Quaver_Daydream'       │
-│    8    │ 'New Ship' │    'Trieste'     │  '542'  │           'Default'           │          'Default'           │
-│    9    │ 'New Ship' │    'Trieste'     │  '542'  │     'Rooftop Lunch Break'     │    'Rooftop_Lunch_Break'     │
-│   10    │ 'New Skin' │     'Wakaba'     │  '173'  │ 'A Healthy Dose of Sunshine!' │ 'A_Healthy_Dose_of_Sunshine' │
-│   11    │ 'New Ship' │ 'Yamashiro META' │ '30010' │           'Default'           │          'Default'           │
-└─────────┴────────────┴──────────────────┴─────────┴───────────────────────────────┴──────────────────────────────┘
 
-Missing File [23032022] = 95 
-Acasta			=	Fashionable Outing									[banner, icon]
+Missing File [29042022] = 94
+Acasta			=	Fashionable Outing									[icon]
 Asashio			=	The Transfer Student Underneath the Dancing Petals	[banner, icon]
 Atago			=	School Traumerei									[banner, icon]
 Arkhangelsk 	= 	Grandiose Getaway 									[bannner]
