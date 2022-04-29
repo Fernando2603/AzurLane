@@ -5346,8 +5346,8 @@
 		]
 	},
 	{
-		"name": "Impero",
 		"id": "540",
+		"name": "Impero",
 		"skins": [
 			{
 				"name": "Default",
@@ -7421,11 +7421,11 @@
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/448/Charmer_in_the_Snowy_Reflection/ShipyardIcon.png"
 			},
 			{
-				"name": "Moongazing on the 29½th",
-				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/448/Moongazing_on_the_29th/Banner.png",
-				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/448/Moongazing_on_the_29th/Icon.png",
-				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/448/Moongazing_on_the_29th/ChibiIcon.png",
-				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/448/Moongazing_on_the_29th/ShipyardIcon.png"
+				"name": "Moongazing on the 291⁄2th",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/448/Moongazing_on_the_2912th/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/448/Moongazing_on_the_2912th/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/448/Moongazing_on_the_2912th/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/448/Moongazing_on_the_2912th/ShipyardIcon.png"
 			}
 		]
 	},
@@ -9221,8 +9221,8 @@
 		]
 	},
 	{
-		"name": "Pompeo Magno",
 		"id": "541",
+		"name": "Pompeo Magno",
 		"skins": [
 			{
 				"name": "Default",
@@ -11451,8 +11451,8 @@
 		]
 	},
 	{
-		"name": "Trieste",
 		"id": "542",
+		"name": "Trieste",
 		"skins": [
 			{
 				"name": "Default",
@@ -12467,8 +12467,8 @@
 		]
 	},
 	{
-		"name": "Yamashiro META",
 		"id": "30010",
+		"name": "Yamashiro META",
 		"skins": [
 			{
 				"name": "Default",
