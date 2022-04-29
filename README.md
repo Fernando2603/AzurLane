@@ -2,10 +2,10 @@
 Azur Lane Resources
 >Resources from [AzurAPI](https://github.com/AzurAPI/azurapi-js-setup) & [Azur Lane Wiki](https://azurlane.koumakan.jp)
 
-## Major change 19 March 2022
->Change images/skin/ship folder from ship_name into ship_id (this remove problem with latin link (expample: å) which cause problem to load the images)
-
->Remove ship_name & relocate image (example: /000/Banner.png, 000/CasualBanner.png into 000/Default/Banner.png, 000/skin_name/Banner.png)
+| VERSION | DATE | CHANGES |
+| :---: | :---: | :---: |
+| 1.0.0 | 24-09-2021 | created azurlane repository |
+| 2.0.0 | 04-29-2022 | add virtual tower ship |
 
 ## Fetch
 - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/ShipBanner.json`
