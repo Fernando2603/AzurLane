@@ -5,21 +5,20 @@ import { dirname, join } from 'path';
 import { fileURLToPath } from 'url';
 
 let AzurAPI		= [];
-let ShipBanner	= [];
 let json_data	= [];
-let table_array = [];
+let table_array	= [];
+
+const banner_file	= fs.readFileSync("./ShipBanner.json");
+const ShipBanner	= JSON.parse(banner_file);
 
 Promise.all([
 	fetch("https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/ships.json")
-	.then(res => res.json()),
-	fetch("https://raw.githubusercontent.com/Fernando2603/AzurLane/main/ShipBanner.json")
 	.then(res => res.json())
 ]).then(
-	([azurAPI, shipBanner]) => {
+	([azurAPI]) => {
 		AzurAPI		= azurAPI;
 		console.log("AzurAPI & ShipBanner Loaded!");
-		ShipBanner	= shipBanner;
-		data_extract(azurAPI, shipBanner); 
+		data_extract(azurAPI, ShipBanner); 
 	},
 	(error) => {
 		console.log('error: ' + error);
@@ -45,6 +44,7 @@ function data_extract(azurapi, ship_banner) {
 		let banner_get	= ship_banner.find( banner => banner.id === ship_id );
 		let skin_output	= [];
 
+		// ship exist in shipbanner API
 		if ( banner_get ) {
 
 			ship_skin.forEach((skin) => {
@@ -53,6 +53,7 @@ function data_extract(azurapi, ship_banner) {
 				let skin_availability	= false;
 				let banner_skin_get		= "";
 
+				// searching skin is available in shipbanner
 				banner_get.skins.forEach((banner_skin_data) => {
 
 					if ( banner_skin_data.name === skin_name ) {
@@ -64,9 +65,9 @@ function data_extract(azurapi, ship_banner) {
 
 				});
 
+				// skin available on both API
 				if ( skin_availability ) {
 
-					// both azurapi/shipbanner have this skin
 					let skin_banner		= banner_skin_get.banner;
 					let skin_icon		= banner_skin_get.icon;
 					let skin_chibi		= banner_skin_get.chibi;
@@ -84,6 +85,7 @@ function data_extract(azurapi, ship_banner) {
 					if ( skin_chibi.includes(includes_skin) )		{ check_file	= true; file_trigger_3	= true };
 					if ( skin_shipyard.includes(includes_skin) )	{ check_file	= true; file_trigger_4	= true };
 
+					// check if missing file available
 					if ( check_file ) {
 
 						// updated skin and remove unknown skin image
@@ -104,7 +106,7 @@ function data_extract(azurapi, ship_banner) {
 						fs.readdirSync(update_path).forEach((file) => {
 
 							// filter current file with this ship name
-							if ( file.startsWith(replace_name + skin_type) ) {
+							if ( file.startsWith(replace_name + skin_type.replace("Default", "") ) ) {
 
 								let default_skin_file	= false;
 								let image_type			= "";
@@ -117,10 +119,10 @@ function data_extract(azurapi, ship_banner) {
 									file === replace_name + "ShipyardIcon.png"
 								) { default_skin_file	= true };
 
-								if ( file.includes("Banner.png") )			{ image_type = "Banner.png" };
-								if ( file.includes("Icon.png") )			{ image_type = "Icon.png" };
-								if ( file.includes("ChibiIcon.png") )		{ image_type = "ChibiIcon.png" };
-								if ( file.includes("ShipyardIcon.png") )	{ image_type = "ShipyardIcon.png" };
+								if ( file.includes("Banner.png") )			{ image_type	= "Banner.png" };
+								if ( file.includes("Icon.png") )			{ image_type	= "Icon.png" };
+								if ( file.includes("ChibiIcon.png") )		{ image_type	= "ChibiIcon.png" };
+								if ( file.includes("ShipyardIcon.png") )	{ image_type	= "ShipyardIcon.png" };
 
 								const new_skin_path	= join(update_path, ship_id + "/" + skin_folder + "/");
 								const old_skin_path	= join(update_path, file);
@@ -150,10 +152,10 @@ function data_extract(azurapi, ship_banner) {
 
 							fs.readdirSync(absolute_path).forEach((file) => {
 
-								if ( file === "Banner.png" )		{ status_file_1 = true };
-								if ( file === "Icon.png" )			{ status_file_2 = true };
-								if ( file === "ChibiIcon.png" )		{ status_file_3 = true };
-								if ( file === "ShipyardIcon.png" )	{ status_file_4 = true };
+								if ( file === "Banner.png" )		{ status_file_1	= true };
+								if ( file === "Icon.png" )			{ status_file_2	= true };
+								if ( file === "ChibiIcon.png" )		{ status_file_3	= true };
+								if ( file === "ShipyardIcon.png" )	{ status_file_4	= true };
 
 							});
 
@@ -193,7 +195,6 @@ function data_extract(azurapi, ship_banner) {
 
 				};
 
-
 				if ( !skin_availability ) {
 
 					// new skin that shipbanner doesnt have
@@ -201,7 +202,7 @@ function data_extract(azurapi, ship_banner) {
 					const skin_folder	= skin_name.replace(/ /g,"_").replace(/\W/g,"").replace(/__/g,"_").replace(/_*$/,"");
 					const skin_library	= skin_link + ship_id + "/" + skin_folder + "/";
 
-					const file_path		= "/images/skins/" + ship_id + "/" + skin_folder + "/";
+					const file_path		= "/update/" + ship_id + "/" + skin_folder + "/";
 					const absolute_path	= join(__dirname, file_path);
 					const update_path	= join(__dirname, "/update/");
 
@@ -210,26 +211,27 @@ function data_extract(azurapi, ship_banner) {
 					let status_file_3	= false;
 					let status_file_4	= false;
 
-					let skin_type		= "";
+					let ship_skin_type	= "";
 
 					// loop new skin file from wiki & relocate
 					fs.readdirSync(update_path).forEach((file) => {
-
+						let skin_type	= "";
 						// check skin type for first file get and make other same as this type
 						if ( skin_name === "Default" ) { skin_type	= "Default" };
 						if ( skin_type === "" ) {
 							skin_type	= file.replace(replace_name, "")
 								.replace("Banner.png", "")
-								.replace("Icon.png", "")
-								.replace("ChibiIcon", "")
-								.replace("ShipyardIcon.png", "");
+								.replace("ChibiIcon.png", "")
+								.replace("ShipyardIcon.png", "")
+								.replace("Icon.png", "");
 						};
 
 						// filter current file with this ship name
-						if ( file.startsWith(replace_name) && file.includes(skin_type).replace("Default", "") ) {
+						if ( file.startsWith(replace_name) && file.includes(skin_type.replace("Default", "")) ) {
 
 							let default_skin_file	= false;
 							let image_type			= "";
+							ship_skin_type			= skin_type;
 
 							// filter default file
 							if ( 
@@ -239,10 +241,10 @@ function data_extract(azurapi, ship_banner) {
 								file === replace_name + "ShipyardIcon.png"
 							) { default_skin_file	= true };
 
-							if ( file.includes("Banner.png") )			{ image_type = "Banner.png" };
-							if ( file.includes("Icon.png") )			{ image_type = "Icon.png" };
-							if ( file.includes("ChibiIcon.png") )		{ image_type = "ChibiIcon.png" };
-							if ( file.includes("ShipyardIcon.png") )	{ image_type = "ShipyardIcon.png" };
+							if ( file.includes("Banner.png") )			{ image_type	= "Banner.png" };
+							if ( file.includes("Icon.png") )			{ image_type	= "Icon.png" };
+							if ( file.includes("ChibiIcon.png") )		{ image_type	= "ChibiIcon.png" };
+							if ( file.includes("ShipyardIcon.png") )	{ image_type	= "ShipyardIcon.png" };
 
 							const new_skin_path	= join(update_path, ship_id + "/" + skin_folder + "/");
 							const old_skin_path	= join(update_path, file);
@@ -272,10 +274,10 @@ function data_extract(azurapi, ship_banner) {
 
 						fs.readdirSync(absolute_path).forEach((file) => {
 
-							if ( file === "Banner.png" )		{ status_file_1 = true };
-							if ( file === "Icon.png" )			{ status_file_2 = true };
-							if ( file === "ChibiIcon.png" )		{ status_file_3 = true };
-							if ( file === "ShipyardIcon.png" )	{ status_file_4 = true };
+							if ( file === "Banner.png" )		{ status_file_1	= true };
+							if ( file === "Icon.png" )			{ status_file_2	= true };
+							if ( file === "ChibiIcon.png" )		{ status_file_3	= true };
+							if ( file === "ShipyardIcon.png" )	{ status_file_4	= true };
 
 						});
 
@@ -285,7 +287,7 @@ function data_extract(azurapi, ship_banner) {
 						status: "New Skin",
 						name: ship_name,
 						id: ship_id,
-						type: skin_type,
+						type: ship_skin_type,
 						skin: skin_name,
 						folder: skin_folder
 					});
@@ -303,6 +305,7 @@ function data_extract(azurapi, ship_banner) {
 					skin_output.push({
 						status: "new skin",
 						name: skin_name,
+						type: ship_skin_type,
 						banner: new_skin_banner,
 						icon: new_skin_icon,
 						chibi: new_skin_chibi,
@@ -342,26 +345,28 @@ function data_extract(azurapi, ship_banner) {
 				let status_file_3	= false;
 				let status_file_4	= false;
 
-				let skin_type		= "";
+				let ship_skin_type	= "";
 
 				// loop new skin file from wiki & relocate
 				fs.readdirSync(update_path).forEach((file) => {
 
+					let skin_type	= "";
 					// check skin type for first file get and make other same as this type
 					if ( skin_name === "Default" ) { skin_type	= "Default" };
 					if ( skin_type === "" ) {
 						skin_type	= file.replace(replace_name, "")
 							.replace("Banner.png", "")
-							.replace("Icon.png", "")
-							.replace("ChibiIcon", "")
-							.replace("ShipyardIcon.png", "");
+							.replace("ChibiIcon.png", "")
+							.replace("ShipyardIcon.png", "")
+							.replace("Icon.png", "");
 					};
 
 					// filter current file with this ship name
-					if ( file.startsWith(replace_name) && file.includes(skin_type).replace("Default", "") ) {
+					if ( file.startsWith(replace_name) && file.includes(skin_type.replace("Default", "")) ) {
 
 						let default_skin_file	= false;
 						let image_type			= "";
+						ship_skin_type			= skin_type;
 
 						// filter default file
 						if ( 
@@ -417,7 +422,7 @@ function data_extract(azurapi, ship_banner) {
 					status: "New Ship",
 					name: ship_name,
 					id: ship_id,
-					type: skin_type,
+					type: ship_skin_type,
 					skin: skin_name,
 					folder: skin_folder
 				});
@@ -435,7 +440,7 @@ function data_extract(azurapi, ship_banner) {
 				unknown_skin_get.push({
 					status: "new ship",
 					name: skin_name,
-					type: skin_type,
+					type: ship_skin_type,
 					banner: new_skin_banner,
 					icon: new_skin_icon,
 					chibi: new_skin_chibi,

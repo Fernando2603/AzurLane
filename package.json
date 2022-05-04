@@ -7,7 +7,7 @@
   "type":"module",
   "scripts": {
     "start": "node .",
-    "check": "node js/file_check.js"
+    "check": "node file_check.js"
   },
   "repository": {
     "type": "git",

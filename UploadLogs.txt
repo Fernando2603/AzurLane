@@ -1,4 +1,23 @@
 ===========================================================
+30 April 2022 (+16 File) (path:/update/)
+ChapayevFestivalChibiIcon.png
+ElbingChibiIcon.png
+ElbingVampireChibiIcon.png
+EmdenChibiIcon.png
+EmdenVampireChibiIcon.png
+HipperFestivalChibiIcon.png
+Little_Prinz_EugenChibiIcon.png
+LützowChibiIcon.png
+LützowVampireChibiIcon.png
+NelsonFestivalChibiIcon.png
+SeydlitzChibiIcon.png
+SeydlitzVampireChibiIcon.png
+SheffieldVampireChibiIcon.png
+ThüringenChibiIcon.png
+ThüringenVampireChibiIcon.png
+U-47VampireChibiIcon.png
+
+===========================================================
 29 April 2022 (+59 File) (path:/update/)
 Admiral_HipperFestivalBanner.png
 Admiral_HipperFestivalIcon.png
