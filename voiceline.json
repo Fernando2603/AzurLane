@@ -1,0 +1,9427 @@
+[
+	{
+		"id": "Collab021",
+		"gid": 1020001,
+		"name": "22",
+		"skins": []
+	},
+	{
+		"id": "Collab022",
+		"gid": 1020002,
+		"name": "33",
+		"skins": []
+	},
+	{
+		"id": "336",
+		"gid": 21304,
+		"name": "Abercrombie",
+		"skins": [
+			{
+				"id": "213040",
+				"name": "Default"
+			},
+			{
+				"id": "213041",
+				"name": "Pumpkin Blast!"
+			},
+			{
+				"id": "213042",
+				"name": "Mischief on the Rocks"
+			}
+		]
+	},
+	{
+		"id": "187",
+		"gid": 30209,
+		"name": "Abukuma",
+		"skins": [
+			{
+				"id": "302090",
+				"name": "Default"
+			},
+			{
+				"id": "302099",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "082",
+		"gid": 20102,
+		"name": "Acasta",
+		"skins": [
+			{
+				"id": "201020",
+				"name": "Default"
+			},
+			{
+				"id": "201021",
+				"name": "Fashionable Outing"
+			},
+			{
+				"id": "201022",
+				"name": "Lights of the Lantern Festival"
+			},
+			{
+				"id": "201023",
+				"name": "Monochromatic Marvel"
+			},
+			{
+				"id": "201029",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "105",
+		"gid": 20202,
+		"name": "Achilles",
+		"skins": [
+			{
+				"id": "202020",
+				"name": "Default"
+			},
+			{
+				"id": "202029",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "246",
+		"gid": 40305,
+		"name": "Admiral Graf Spee",
+		"skins": [
+			{
+				"id": "403050",
+				"name": "Default"
+			},
+			{
+				"id": "403051",
+				"name": "Girl's Sunday"
+			},
+			{
+				"id": "403052",
+				"name": "Peaceful Daily Life"
+			},
+			{
+				"id": "403053",
+				"name": "A Novel Anniversary"
+			},
+			{
+				"id": "403054",
+				"name": "World's♥Cutest"
+			}
+		]
+	},
+	{
+		"id": "242",
+		"gid": 40301,
+		"name": "Admiral Hipper",
+		"skins": [
+			{
+				"id": "403010",
+				"name": "Default"
+			},
+			{
+				"id": "403012",
+				"name": "Sunshine by the Hot Spring"
+			}
+		]
+	},
+	{
+		"id": "422",
+		"gid": 40307,
+		"name": "Admiral Hipper μ",
+		"skins": [
+			{
+				"id": "403070",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "321",
+		"gid": 30220,
+		"name": "Agano",
+		"skins": [
+			{
+				"id": "302200",
+				"name": "Default"
+			},
+			{
+				"id": "302201",
+				"name": "Christmas Eve Tease"
+			},
+			{
+				"id": "302202",
+				"name": "Dating Game?"
+			},
+			{
+				"id": "302203",
+				"name": "Blue Butterfly's Confession"
+			}
+		]
+	},
+	{
+		"id": "106",
+		"gid": 20203,
+		"name": "Ajax",
+		"skins": [
+			{
+				"id": "202030",
+				"name": "Default"
+			},
+			{
+				"id": "202031",
+				"name": "Party Queen"
+			},
+			{
+				"id": "202032",
+				"name": "Valentine's Reward?"
+			},
+			{
+				"id": "202039",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "224",
+		"gid": 30701,
+		"name": "Akagi",
+		"skins": [
+			{
+				"id": "307010",
+				"name": "Default"
+			},
+			{
+				"id": "307011",
+				"name": "Paradise Amaryllis"
+			},
+			{
+				"id": "307012",
+				"name": "Plum and Snow"
+			},
+			{
+				"id": "307013",
+				"name": "Ruby-Laced Beauty"
+			},
+			{
+				"id": "307014",
+				"name": "Dawn-Phoenix's Summons"
+			},
+			{
+				"id": "307018",
+				"name": "Deep Crimson Poppy"
+			}
+		]
+	},
+	{
+		"id": "419",
+		"gid": 30710,
+		"name": "Akagi μ",
+		"skins": [
+			{
+				"id": "307100",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "384",
+		"gid": 30709,
+		"name": "Akagi-chan",
+		"skins": [
+			{
+				"id": "307090",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "10082",
+		"gid": 1080002,
+		"name": "Akane Shinjo",
+		"skins": [
+			{
+				"id": "10800020",
+				"name": "Default"
+			},
+			{
+				"id": "10800021",
+				"name": "A Vacation Just for Two"
+			}
+		]
+	},
+	{
+		"id": "232",
+		"gid": 31201,
+		"name": "Akashi",
+		"skins": [
+			{
+				"id": "312010",
+				"name": "Default"
+			},
+			{
+				"id": "312011",
+				"name": "Akashi's in the Red, Nya!"
+			},
+			{
+				"id": "312012",
+				"name": "The Black Cat Cometh!"
+			},
+			{
+				"id": "312013",
+				"name": "Welcome to AzurCon!"
+			},
+			{
+				"id": "312014",
+				"name": "Welcome to Sofmap!"
+			},
+			{
+				"id": "312018",
+				"name": "White Cat's Repayment "
+			}
+		]
+	},
+	{
+		"id": "159",
+		"gid": 30109,
+		"name": "Akatsuki",
+		"skins": [
+			{
+				"id": "301090",
+				"name": "Default"
+			},
+			{
+				"id": "301091",
+				"name": "Akatsuki Goes North"
+			},
+			{
+				"id": "301092",
+				"name": "Motoninja Akatsuki"
+			},
+			{
+				"id": "301093",
+				"name": "Santa's Lost Helper!"
+			}
+		]
+	},
+	{
+		"id": "401",
+		"gid": 10520,
+		"name": "Alabama",
+		"skins": [
+			{
+				"id": "105200",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "358",
+		"gid": 10802,
+		"name": "Albacore",
+		"skins": [
+			{
+				"id": "108020",
+				"name": "Default"
+			},
+			{
+				"id": "108021",
+				"name": "Beneath the Black Dress"
+			},
+			{
+				"id": "108022",
+				"name": "A Catty Surprise!"
+			}
+		]
+	},
+	{
+		"id": "477",
+		"gid": 10805,
+		"name": "Albacore μ",
+		"skins": [
+			{
+				"id": "108050",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "455",
+		"gid": 90302,
+		"name": "Algérie",
+		"skins": [
+			{
+				"id": "903020",
+				"name": "Default"
+			},
+			{
+				"id": "903021",
+				"name": "White Sand Paradise"
+			}
+		]
+	},
+	{
+		"id": "508",
+		"gid": 10145,
+		"name": "Allen M. Sumner",
+		"skins": [
+			{
+				"id": "101450",
+				"name": "Default"
+			},
+			{
+				"id": "101451",
+				"name": "Charming Rabbit"
+			}
+		]
+	},
+	{
+		"id": "367",
+		"gid": 30405,
+		"name": "Amagi",
+		"skins": [
+			{
+				"id": "304050",
+				"name": "Default"
+			},
+			{
+				"id": "304051",
+				"name": "Wending Waters, Serene Lotus"
+			}
+		]
+	},
+	{
+		"id": "510",
+		"gid": 30407,
+		"name": "Amagi-chan",
+		"skins": [
+			{
+				"id": "304070",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "081",
+		"gid": 20101,
+		"name": "Amazon",
+		"skins": [
+			{
+				"id": "201010",
+				"name": "Default"
+			},
+			{
+				"id": "201011",
+				"name": "Little Orchestra"
+			},
+			{
+				"id": "201019",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "10076",
+		"gid": 1070006,
+		"name": "Ami Futami",
+		"skins": [
+			{
+				"id": "10700060",
+				"name": "Default"
+			},
+			{
+				"id": "10700061",
+				"name": "Summer Flowers and Sizzling Beats"
+			}
+		]
+	},
+	{
+		"id": "253",
+		"gid": 50101,
+		"name": "An Shan",
+		"skins": [
+			{
+				"id": "501010",
+				"name": "Default"
+			},
+			{
+				"id": "501012",
+				"name": "Setting Sun, Hearts as One"
+			},
+			{
+				"id": "501019",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "Plan018",
+		"gid": 19903,
+		"name": "Anchorage",
+		"skins": [
+			{
+				"id": "199030",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "Collab043",
+		"gid": 1040003,
+		"name": "Anniversary Kizuna AI",
+		"skins": [
+			{
+				"id": "10400030",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "192",
+		"gid": 30303,
+		"name": "Aoba",
+		"skins": [
+			{
+				"id": "303030",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "502",
+		"gid": 60701,
+		"name": "Aquila",
+		"skins": [
+			{
+				"id": "607010",
+				"name": "Default"
+			},
+			{
+				"id": "607011",
+				"name": "Sardegnian Shallows and Sunshine"
+			},
+			{
+				"id": "607012",
+				"name": "A Sip of Sardegnian Elegance"
+			}
+		]
+	},
+	{
+		"id": "334",
+		"gid": 30166,
+		"name": "Arashio",
+		"skins": [
+			{
+				"id": "301660",
+				"name": "Default"
+			},
+			{
+				"id": "301661",
+				"name": "The Gentlest Firework"
+			}
+		]
+	},
+	{
+		"id": "513",
+		"gid": 10806,
+		"name": "Archerfish",
+		"skins": [
+			{
+				"id": "108060",
+				"name": "Default"
+			},
+			{
+				"id": "108061",
+				"name": "Coquettish Bunny"
+			},
+			{
+				"id": "108062",
+				"name": "The Devil Next Door"
+			}
+		]
+	},
+	{
+		"id": "083",
+		"gid": 20103,
+		"name": "Ardent",
+		"skins": [
+			{
+				"id": "201030",
+				"name": "Default"
+			},
+			{
+				"id": "201031",
+				"name": "Ardent Valentine"
+			},
+			{
+				"id": "201032",
+				"name": "Master Ardent?"
+			},
+			{
+				"id": "201039",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "116",
+		"gid": 20213,
+		"name": "Arethusa",
+		"skins": [
+			{
+				"id": "202130",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "175",
+		"gid": 30125,
+		"name": "Ariake",
+		"skins": [
+			{
+				"id": "301250",
+				"name": "Default"
+			},
+			{
+				"id": "301251",
+				"name": "Unending Friendship"
+			},
+			{
+				"id": "301259",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "055",
+		"gid": 10504,
+		"name": "Arizona",
+		"skins": [
+			{
+				"id": "105040",
+				"name": "Default"
+			},
+			{
+				"id": "105041",
+				"name": "Enchantress from Afar"
+			}
+		]
+	},
+	{
+		"id": "144",
+		"gid": 20702,
+		"name": "Ark Royal",
+		"skins": [
+			{
+				"id": "207020",
+				"name": "Default"
+			},
+			{
+				"id": "207021",
+				"name": "Coast Watcher"
+			},
+			{
+				"id": "207022",
+				"name": "Guardian of the Ball"
+			},
+			{
+				"id": "207023",
+				"name": "New Year's Protectress"
+			},
+			{
+				"id": "207028",
+				"name": "Pure-White Protector"
+			},
+			{
+				"id": "207029",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "536",
+		"gid": 70506,
+		"name": "Arkhangelsk",
+		"skins": [
+			{
+				"id": "705060",
+				"name": "Default"
+			},
+			{
+				"id": "705061",
+				"name": "Grandiose Getaway"
+			}
+		]
+	},
+	{
+		"id": "331",
+		"gid": 30163,
+		"name": "Asashio",
+		"skins": [
+			{
+				"id": "301630",
+				"name": "Default"
+			},
+			{
+				"id": "301631",
+				"name": "The Transfer Student Underneath the Dancing Petals"
+			},
+			{
+				"id": "301632",
+				"name": "Snow-Dusted Lynx Tips"
+			},
+			{
+				"id": "301633",
+				"name": "Robes of Dancing Clouds"
+			}
+		]
+	},
+	{
+		"id": "198",
+		"gid": 30309,
+		"name": "Ashigara",
+		"skins": [
+			{
+				"id": "303090",
+				"name": "Default"
+			},
+			{
+				"id": "303091",
+				"name": "Brief Intermission"
+			},
+			{
+				"id": "303092",
+				"name": "Kaleidoscopic Summer"
+			}
+		]
+	},
+	{
+		"id": "046",
+		"gid": 10308,
+		"name": "Astoria",
+		"skins": [
+			{
+				"id": "103080",
+				"name": "Default"
+			},
+			{
+				"id": "103081",
+				"name": "Pure \"Gurl?\""
+			},
+			{
+				"id": "103082",
+				"name": "Black Bunny Carnival"
+			}
+		]
+	},
+	{
+		"id": "201",
+		"gid": 30312,
+		"name": "Atago",
+		"skins": [
+			{
+				"id": "303120",
+				"name": "Default"
+			},
+			{
+				"id": "303121",
+				"name": "Summer March"
+			},
+			{
+				"id": "303122",
+				"name": "Hallmarks of Winter"
+			},
+			{
+				"id": "303123",
+				"name": "School Traumerei"
+			},
+			{
+				"id": "303124",
+				"name": "Stunning Speedster"
+			},
+			{
+				"id": "303128",
+				"name": "Lily-White Vow"
+			}
+		]
+	},
+	{
+		"id": "034",
+		"gid": 10206,
+		"name": "Atlanta",
+		"skins": [
+			{
+				"id": "102060",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "Plan021",
+		"gid": 49906,
+		"name": "August von Parseval",
+		"skins": [
+			{
+				"id": "499060",
+				"name": "Default"
+			},
+			{
+				"id": "499061",
+				"name": "The Conquered Unhulde"
+			}
+		]
+	},
+	{
+		"id": "015",
+		"gid": 10113,
+		"name": "Aulick",
+		"skins": [
+			{
+				"id": "101130",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "118",
+		"gid": 20215,
+		"name": "Aurora",
+		"skins": [
+			{
+				"id": "202150",
+				"name": "Default"
+			},
+			{
+				"id": "202151",
+				"name": "The Tale of Spring"
+			},
+			{
+				"id": "202152",
+				"name": "Dawn's Paean"
+			},
+			{
+				"id": "202153",
+				"name": "Heritage of Yu City"
+			},
+			{
+				"id": "202158",
+				"name": "Garb of Eternal Prosperity"
+			}
+		]
+	},
+	{
+		"id": "262",
+		"gid": 70201,
+		"name": "Avrora",
+		"skins": [
+			{
+				"id": "702010",
+				"name": "Default"
+			},
+			{
+				"id": "702011",
+				"name": "Shackled Saule"
+			},
+			{
+				"id": "702012",
+				"name": "Not Cut Out For This?"
+			}
+		]
+	},
+	{
+		"id": "155",
+		"gid": 30105,
+		"name": "Ayanami",
+		"skins": [
+			{
+				"id": "301050",
+				"name": "Default"
+			},
+			{
+				"id": "301051",
+				"name": "Witch in Ambush"
+			},
+			{
+				"id": "301053",
+				"name": "Rock 'n' Demon"
+			},
+			{
+				"id": "301054",
+				"name": "Lunar Demon"
+			},
+			{
+				"id": "301055",
+				"name": "Grade A Sailor Uniform"
+			},
+			{
+				"id": "301056",
+				"name": "Covert Ops Cloak"
+			},
+			{
+				"id": "301057",
+				"name": "Low-Key Idol @Confused"
+			},
+			{
+				"id": "301058",
+				"name": "Demon's Finest Dress"
+			},
+			{
+				"id": "301059",
+				"name": "Retrofit"
+			},
+			{
+				"id": "331050",
+				"name": "Pulse of the New Year"
+			},
+			{
+				"id": "331051",
+				"name": "Nightfall Raiment"
+			},
+			{
+				"id": "331052",
+				"name": "Off-Duty Battle Station Gear"
+			},
+			{
+				"id": "331053",
+				"name": "Dynasty Shipgirl"
+			}
+		]
+	},
+	{
+		"id": "406",
+		"gid": 10140,
+		"name": "Aylwin",
+		"skins": [
+			{
+				"id": "101400",
+				"name": "Default"
+			},
+			{
+				"id": "101401",
+				"name": "Sunday Aquarium Visit"
+			}
+		]
+	},
+	{
+		"id": "Plan010",
+		"gid": 39904,
+		"name": "Azuma",
+		"skins": [
+			{
+				"id": "399040",
+				"name": "Default"
+			},
+			{
+				"id": "399041",
+				"name": "Soft Voice of Spring"
+			},
+			{
+				"id": "399048",
+				"name": "Lily-White Longing"
+			}
+		]
+	},
+	{
+		"id": "10074",
+		"gid": 1070004,
+		"name": "Azusa Miura",
+		"skins": [
+			{
+				"id": "10700040",
+				"name": "Default"
+			},
+			{
+				"id": "10700041",
+				"name": "Midsummer Relaxation"
+			}
+		]
+	},
+	{
+		"id": "407",
+		"gid": 10135,
+		"name": "Bache",
+		"skins": [
+			{
+				"id": "101350",
+				"name": "Default"
+			},
+			{
+				"id": "101351",
+				"name": "Gorgeous Speed-star"
+			},
+			{
+				"id": "101352",
+				"name": "Showy Sports Star"
+			}
+		]
+	},
+	{
+		"id": "263",
+		"gid": 10127,
+		"name": "Bailey",
+		"skins": [
+			{
+				"id": "101270",
+				"name": "Default"
+			},
+			{
+				"id": "101271",
+				"name": "Trickster Black Rabbit"
+			},
+			{
+				"id": "101279",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "050",
+		"gid": 10316,
+		"name": "Baltimore",
+		"skins": [
+			{
+				"id": "103160",
+				"name": "Default"
+			},
+			{
+				"id": "103161",
+				"name": "After-School Ace"
+			},
+			{
+				"id": "103162",
+				"name": "Black Ace"
+			},
+			{
+				"id": "103163",
+				"name": "Evening Breeze Minuet"
+			},
+			{
+				"id": "103164",
+				"name": "Ace's Travel Journal"
+			}
+		]
+	},
+	{
+		"id": "478",
+		"gid": 10325,
+		"name": "Baltimore μ",
+		"skins": [
+			{
+				"id": "103250",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "403",
+		"gid": 10729,
+		"name": "Bataan",
+		"skins": [
+			{
+				"id": "107290",
+				"name": "Default"
+			},
+			{
+				"id": "107291",
+				"name": "Comfy Cotton Jammies"
+			}
+		]
+	},
+	{
+		"id": "086",
+		"gid": 20106,
+		"name": "Beagle",
+		"skins": [
+			{
+				"id": "201060",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "115",
+		"gid": 20212,
+		"name": "Belfast",
+		"skins": [
+			{
+				"id": "202120",
+				"name": "Default"
+			},
+			{
+				"id": "202121",
+				"name": "Iridescent Rosa"
+			},
+			{
+				"id": "202122",
+				"name": "Serene Steel"
+			},
+			{
+				"id": "202123",
+				"name": "The Noble Attendant"
+			},
+			{
+				"id": "202124",
+				"name": "Shopping with the Head Maid"
+			},
+			{
+				"id": "202125",
+				"name": "Piping-Hot Perfection"
+			},
+			{
+				"id": "202126",
+				"name": "Folded Fascination"
+			},
+			{
+				"id": "202128",
+				"name": "The Pledge of Claddagh"
+			}
+		]
+	},
+	{
+		"id": "018",
+		"gid": 10116,
+		"name": "Benson",
+		"skins": [
+			{
+				"id": "101160",
+				"name": "Default"
+			},
+			{
+				"id": "101161",
+				"name": "Cutie Pumpkin Pie "
+			}
+		]
+	},
+	{
+		"id": "428",
+		"gid": 10225,
+		"name": "Biloxi",
+		"skins": [
+			{
+				"id": "102250",
+				"name": "Default"
+			},
+			{
+				"id": "102251",
+				"name": "Dapper Gangstress"
+			},
+			{
+				"id": "102252",
+				"name": "Empress in the Silk Seat"
+			},
+			{
+				"id": "102253",
+				"name": "Night Sky's Brilliant Blue Blossoms"
+			}
+		]
+	},
+	{
+		"id": "405",
+		"gid": 10223,
+		"name": "Birmingham",
+		"skins": [
+			{
+				"id": "102230",
+				"name": "Default"
+			},
+			{
+				"id": "102231",
+				"name": "Rider of Red"
+			},
+			{
+				"id": "102232",
+				"name": "Fruitful Snow of an Auspicious Year"
+			}
+		]
+	},
+	{
+		"id": "250",
+		"gid": 40501,
+		"name": "Bismarck",
+		"skins": [
+			{
+				"id": "405010",
+				"name": "Default"
+			},
+			{
+				"id": "405011",
+				"name": "Beacon of the Iron Blood"
+			},
+			{
+				"id": "405012",
+				"name": "Iron-Black Elysium"
+			}
+		]
+	},
+	{
+		"id": "Collab006",
+		"gid": 1010006,
+		"name": "Black Heart",
+		"skins": [
+			{
+				"id": "10100060",
+				"name": "Default"
+			},
+			{
+				"id": "10100061",
+				"name": "Goddesses' Smile"
+			}
+		]
+	},
+	{
+		"id": "408",
+		"gid": 20224,
+		"name": "Black Prince",
+		"skins": [
+			{
+				"id": "202240",
+				"name": "Default"
+			},
+			{
+				"id": "202241",
+				"name": "White Princess"
+			},
+			{
+				"id": "202242",
+				"name": "Fair Maid Spring"
+			},
+			{
+				"id": "202243",
+				"name": "Pop the Cork"
+			},
+			{
+				"id": "202244",
+				"name": "Addled Attendant?"
+			}
+		]
+	},
+	{
+		"id": "Collab003",
+		"gid": 1010003,
+		"name": "Blanc",
+		"skins": [
+			{
+				"id": "10100030",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "446",
+		"gid": 10804,
+		"name": "Bluegill",
+		"skins": [
+			{
+				"id": "108040",
+				"name": "Default"
+			},
+			{
+				"id": "108041",
+				"name": "Up-And-Coming Infielder"
+			}
+		]
+	},
+	{
+		"id": "071",
+		"gid": 10602,
+		"name": "Bogue",
+		"skins": [
+			{
+				"id": "106020",
+				"name": "Default"
+			},
+			{
+				"id": "106029",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "514",
+		"gid": 10229,
+		"name": "Boise",
+		"skins": [
+			{
+				"id": "102290",
+				"name": "Default"
+			},
+			{
+				"id": "102291",
+				"name": "Sheepish Sapphire"
+			},
+			{
+				"id": "102292",
+				"name": "Castle Tales"
+			}
+		]
+	},
+	{
+		"id": "443",
+		"gid": 10324,
+		"name": "Bremerton",
+		"skins": [
+			{
+				"id": "103240",
+				"name": "Default"
+			},
+			{
+				"id": "103241",
+				"name": "Scorching-Hot Training"
+			},
+			{
+				"id": "103242",
+				"name": "Kung Fu Cruiser"
+			},
+			{
+				"id": "103243",
+				"name": "Day-Off Date"
+			}
+		]
+	},
+	{
+		"id": "533",
+		"gid": 10149,
+		"name": "Bristol",
+		"skins": [
+			{
+				"id": "101490",
+				"name": "Default"
+			},
+			{
+				"id": "101491",
+				"name": "Tales from the Empery"
+			}
+		]
+	},
+	{
+		"id": "031",
+		"gid": 10203,
+		"name": "Brooklyn",
+		"skins": [
+			{
+				"id": "102030",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "087",
+		"gid": 20107,
+		"name": "Bulldog",
+		"skins": [
+			{
+				"id": "201070",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "380",
+		"gid": 10717,
+		"name": "Bunker Hill",
+		"skins": [
+			{
+				"id": "107170",
+				"name": "Default"
+			},
+			{
+				"id": "107171",
+				"name": "Mission Relaxation"
+			}
+		]
+	},
+	{
+		"id": "355",
+		"gid": 10133,
+		"name": "Bush",
+		"skins": [
+			{
+				"id": "101330",
+				"name": "Default"
+			},
+			{
+				"id": "101331",
+				"name": "Budding Painter"
+			}
+		]
+	},
+	{
+		"id": "458",
+		"gid": 80701,
+		"name": "Béarn",
+		"skins": [
+			{
+				"id": "807010",
+				"name": "Default"
+			},
+			{
+				"id": "807011",
+				"name": "Summer Lifeguard"
+			}
+		]
+	},
+	{
+		"id": "059",
+		"gid": 10508,
+		"name": "California",
+		"skins": [
+			{
+				"id": "105080",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "415",
+		"gid": 60102,
+		"name": "Carabiniere",
+		"skins": [
+			{
+				"id": "601020",
+				"name": "Default"
+			},
+			{
+				"id": "601021",
+				"name": "Refreshing Sundress"
+			}
+		]
+	},
+	{
+		"id": "447",
+		"gid": 10655,
+		"name": "Casablanca",
+		"skins": [
+			{
+				"id": "106550",
+				"name": "Default"
+			},
+			{
+				"id": "106551",
+				"name": "Cheer Squad on Break"
+			}
+		]
+	},
+	{
+		"id": "005",
+		"gid": 10103,
+		"name": "Cassin",
+		"skins": [
+			{
+				"id": "101030",
+				"name": "Default"
+			},
+			{
+				"id": "101031",
+				"name": "Shopping Carte Blanche"
+			},
+			{
+				"id": "101039",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "402",
+		"gid": 10803,
+		"name": "Cavalla",
+		"skins": [
+			{
+				"id": "108030",
+				"name": "Default"
+			},
+			{
+				"id": "108031",
+				"name": "Convenience Store Raid!"
+			},
+			{
+				"id": "108032",
+				"name": "Colorful Ceremony"
+			}
+		]
+	},
+	{
+		"id": "356",
+		"gid": 20604,
+		"name": "Centaur",
+		"skins": [
+			{
+				"id": "206040",
+				"name": "Default"
+			},
+			{
+				"id": "206041",
+				"name": "Beachside Undine"
+			},
+			{
+				"id": "206042",
+				"name": "Sprightly Spring Wind"
+			}
+		]
+	},
+	{
+		"id": "Plan017",
+		"gid": 89902,
+		"name": "Champagne",
+		"skins": [
+			{
+				"id": "899020",
+				"name": "Default"
+			},
+			{
+				"id": "899021",
+				"name": "Lapis Lazuli's First Dream"
+			}
+		]
+	},
+	{
+		"id": "255",
+		"gid": 50103,
+		"name": "Chang Chun",
+		"skins": [
+			{
+				"id": "501030",
+				"name": "Default"
+			},
+			{
+				"id": "501031",
+				"name": "The Joy of Spring"
+			},
+			{
+				"id": "501039",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "494",
+		"gid": 50205,
+		"name": "Chao Ho",
+		"skins": [
+			{
+				"id": "502050",
+				"name": "Default"
+			},
+			{
+				"id": "502051",
+				"name": "Plum Blossom's Illumination"
+			}
+		]
+	},
+	{
+		"id": "436",
+		"gid": 70203,
+		"name": "Chapayev",
+		"skins": [
+			{
+				"id": "702030",
+				"name": "Default"
+			},
+			{
+				"id": "702031",
+				"name": "The Captive Cavalier"
+			},
+			{
+				"id": "702032",
+				"name": "White Cavalier's Respite"
+			},
+			{
+				"id": "702033",
+				"name": "Indigo & Lantern-Lit Summer Night"
+			}
+		]
+	},
+	{
+		"id": "013",
+		"gid": 10111,
+		"name": "Charles Ausburne",
+		"skins": [
+			{
+				"id": "101110",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "530",
+		"gid": 20230,
+		"name": "Charybdis",
+		"skins": [
+			{
+				"id": "202300",
+				"name": "Default"
+			},
+			{
+				"id": "202301",
+				"name": "Red Chamber of Healing"
+			}
+		]
+	},
+	{
+		"id": "376",
+		"gid": 20605,
+		"name": "Chaser",
+		"skins": [
+			{
+				"id": "206050",
+				"name": "Default"
+			},
+			{
+				"id": "206051",
+				"name": "The Way of the Dragon Empery"
+			},
+			{
+				"id": "206052",
+				"name": "Gamer Style"
+			}
+		]
+	},
+	{
+		"id": "534",
+		"gid": 50601,
+		"name": "Chen Hai",
+		"skins": [
+			{
+				"id": "506010",
+				"name": "Default"
+			},
+			{
+				"id": "506011",
+				"name": "Vestibule of Wonders"
+			}
+		]
+	},
+	{
+		"id": "Plan013",
+		"gid": 29903,
+		"name": "Cheshire",
+		"skins": [
+			{
+				"id": "299030",
+				"name": "Default"
+			},
+			{
+				"id": "299031",
+				"name": "Summery Date! "
+			},
+			{
+				"id": "299032",
+				"name": "Cait Sith Crooner"
+			},
+			{
+				"id": "299033",
+				"name": "The Cat and the White Steed"
+			}
+		]
+	},
+	{
+		"id": "042",
+		"gid": 10304,
+		"name": "Chicago",
+		"skins": [
+			{
+				"id": "103040",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "10072",
+		"gid": 1070002,
+		"name": "Chihaya Kisaragi",
+		"skins": [
+			{
+				"id": "10700020",
+				"name": "Default"
+			},
+			{
+				"id": "10700021",
+				"name": "Reflections of Heavenly Flowers"
+			}
+		]
+	},
+	{
+		"id": "195",
+		"gid": 30306,
+		"name": "Chikuma",
+		"skins": [
+			{
+				"id": "303060",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "10086",
+		"gid": 1080006,
+		"name": "Chise Asukagawa",
+		"skins": [
+			{
+				"id": "10800060",
+				"name": "Default"
+			},
+			{
+				"id": "10800061",
+				"name": "Together, Swimming through the Sky"
+			}
+		]
+	},
+	{
+		"id": "470",
+		"gid": 30608,
+		"name": "Chitose",
+		"skins": [
+			{
+				"id": "306080",
+				"name": "Default"
+			},
+			{
+				"id": "306081",
+				"name": "Summer Shine"
+			}
+		]
+	},
+	{
+		"id": "471",
+		"gid": 30609,
+		"name": "Chiyoda",
+		"skins": [
+			{
+				"id": "306090",
+				"name": "Default"
+			},
+			{
+				"id": "306091",
+				"name": "Shimmering Surf"
+			}
+		]
+	},
+	{
+		"id": "203",
+		"gid": 30314,
+		"name": "Choukai",
+		"skins": [
+			{
+				"id": "303140",
+				"name": "Default"
+			},
+			{
+				"id": "303141",
+				"name": "Tidy Store, Tidy Mind"
+			}
+		]
+	},
+	{
+		"id": "391",
+		"gid": 10220,
+		"name": "Clevelad",
+		"skins": [
+			{
+				"id": "102200",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "037",
+		"gid": 10209,
+		"name": "Cleveland",
+		"skins": [
+			{
+				"id": "102090",
+				"name": "Default"
+			},
+			{
+				"id": "102091",
+				"name": "Reaper Fever"
+			},
+			{
+				"id": "102092",
+				"name": "Gentry Knight"
+			},
+			{
+				"id": "102093",
+				"name": "Road Trip!"
+			},
+			{
+				"id": "102094",
+				"name": "New Year's Challenge!"
+			},
+			{
+				"id": "102098",
+				"name": "Heartfelt Moment"
+			}
+		]
+	},
+	{
+		"id": "420",
+		"gid": 10224,
+		"name": "Cleveland μ",
+		"skins": [
+			{
+				"id": "102240",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "060",
+		"gid": 10509,
+		"name": "Colorado",
+		"skins": [
+			{
+				"id": "105090",
+				"name": "Default"
+			},
+			{
+				"id": "105092",
+				"name": "Traveling Melody"
+			}
+		]
+	},
+	{
+		"id": "038",
+		"gid": 10210,
+		"name": "Columbia",
+		"skins": [
+			{
+				"id": "102100",
+				"name": "Default"
+			},
+			{
+				"id": "102101",
+				"name": "After-School Odette"
+			},
+			{
+				"id": "102102",
+				"name": "Across the Vast Prairies"
+			}
+		]
+	},
+	{
+		"id": "088",
+		"gid": 20108,
+		"name": "Comet",
+		"skins": [
+			{
+				"id": "201080",
+				"name": "Default"
+			},
+			{
+				"id": "201089",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "366",
+		"gid": 10218,
+		"name": "Concord",
+		"skins": [
+			{
+				"id": "102180",
+				"name": "Default"
+			},
+			{
+				"id": "102181",
+				"name": "Red Apple Candy"
+			},
+			{
+				"id": "102182",
+				"name": "Sweet☆Christmas"
+			}
+		]
+	},
+	{
+		"id": "411",
+		"gid": 60505,
+		"name": "Conte di Cavour",
+		"skins": [
+			{
+				"id": "605050",
+				"name": "Default"
+			},
+			{
+				"id": "605051",
+				"name": "Fierce Beachside Battle"
+			}
+		]
+	},
+	{
+		"id": "444",
+		"gid": 10144,
+		"name": "Cooper",
+		"skins": [
+			{
+				"id": "101440",
+				"name": "Default"
+			},
+			{
+				"id": "101441",
+				"name": "Blazing Tennis Battle"
+			},
+			{
+				"id": "101442",
+				"name": "Heartwarming Holiday Hearth"
+			}
+		]
+	},
+	{
+		"id": "008",
+		"gid": 10106,
+		"name": "Craven",
+		"skins": [
+			{
+				"id": "101060",
+				"name": "Default"
+			},
+			{
+				"id": "101061",
+				"name": "Cheerleader On The Playground"
+			}
+		]
+	},
+	{
+		"id": "089",
+		"gid": 20109,
+		"name": "Crescent",
+		"skins": [
+			{
+				"id": "201090",
+				"name": "Default"
+			},
+			{
+				"id": "201099",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "372",
+		"gid": 20221,
+		"name": "Curacoa",
+		"skins": [
+			{
+				"id": "202210",
+				"name": "Default"
+			},
+			{
+				"id": "202211",
+				"name": "Eastern Grace"
+			},
+			{
+				"id": "202219",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "373",
+		"gid": 20222,
+		"name": "Curlew",
+		"skins": [
+			{
+				"id": "202220",
+				"name": "Default"
+			},
+			{
+				"id": "202221",
+				"name": "Rhythm of the Dragon Empery"
+			},
+			{
+				"id": "202229",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "090",
+		"gid": 20110,
+		"name": "Cygnet",
+		"skins": [
+			{
+				"id": "201100",
+				"name": "Default"
+			},
+			{
+				"id": "201101",
+				"name": "Sea Star on Shore"
+			},
+			{
+				"id": "201102",
+				"name": "Holy Night's Hymn"
+			},
+			{
+				"id": "201103",
+				"name": "Winter Date"
+			},
+			{
+				"id": "201104",
+				"name": "An Offer To Be Maid"
+			},
+			{
+				"id": "201105",
+				"name": "Royal Fanfare"
+			},
+			{
+				"id": "201109",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "342",
+		"gid": 10801,
+		"name": "Dace",
+		"skins": [
+			{
+				"id": "108010",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "330",
+		"gid": 10215,
+		"name": "Denver",
+		"skins": [
+			{
+				"id": "102150",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "245",
+		"gid": 40304,
+		"name": "Deutschland",
+		"skins": [
+			{
+				"id": "403040",
+				"name": "Default"
+			},
+			{
+				"id": "403041",
+				"name": "Dark Demon Princess"
+			},
+			{
+				"id": "403042",
+				"name": "Service Time?!"
+			},
+			{
+				"id": "403043",
+				"name": "Demon Princess' Dark Hour Banquet"
+			},
+			{
+				"id": "403044",
+				"name": "Lantern-Lit Ruler"
+			}
+		]
+	},
+	{
+		"id": "004",
+		"gid": 10102,
+		"name": "Dewey",
+		"skins": [
+			{
+				"id": "101020",
+				"name": "Default"
+			},
+			{
+				"id": "101021",
+				"name": "Summer Longing"
+			},
+			{
+				"id": "101022",
+				"name": "A Christmas Thank-You"
+			}
+		]
+	},
+	{
+		"id": "107",
+		"gid": 20204,
+		"name": "Dido",
+		"skins": [
+			{
+				"id": "202040",
+				"name": "Default"
+			},
+			{
+				"id": "202041",
+				"name": "Anxious Bisque Doll"
+			}
+		]
+	},
+	{
+		"id": "476",
+		"gid": 20228,
+		"name": "Dido μ",
+		"skins": [
+			{
+				"id": "202280",
+				"name": "Dido µ"
+			}
+		]
+	},
+	{
+		"id": "124",
+		"gid": 20306,
+		"name": "Dorsetshire",
+		"skins": [
+			{
+				"id": "203060",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "006",
+		"gid": 10104,
+		"name": "Downes",
+		"skins": [
+			{
+				"id": "101040",
+				"name": "Default"
+			},
+			{
+				"id": "101041",
+				"name": "Part-Time Bomber"
+			},
+			{
+				"id": "101049",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "Plan014",
+		"gid": 29904,
+		"name": "Drake",
+		"skins": [
+			{
+				"id": "299040",
+				"name": "Default"
+			},
+			{
+				"id": "299041",
+				"name": "The Golden Hind's Respite "
+			}
+		]
+	},
+	{
+		"id": "501",
+		"gid": 60201,
+		"name": "Duca degli Abruzzi",
+		"skins": [
+			{
+				"id": "602010",
+				"name": "Default"
+			},
+			{
+				"id": "602011",
+				"name": "Lustrous Onyx Sirenetta"
+			}
+		]
+	},
+	{
+		"id": "136",
+		"gid": 20507,
+		"name": "Duke of York",
+		"skins": [
+			{
+				"id": "205070",
+				"name": "Default"
+			},
+			{
+				"id": "205072",
+				"name": "Eternal Night's Carola"
+			},
+			{
+				"id": "205073",
+				"name": "Prestige of the Glorious Formula"
+			}
+		]
+	},
+	{
+		"id": "352",
+		"gid": 90401,
+		"name": "Dunkerque",
+		"skins": [
+			{
+				"id": "904010",
+				"name": "Default"
+			},
+			{
+				"id": "904011",
+				"name": "Summer Sucré"
+			},
+			{
+				"id": "904012",
+				"name": "Afternoon Venus"
+			}
+		]
+	},
+	{
+		"id": "143",
+		"gid": 20701,
+		"name": "Eagle",
+		"skins": [
+			{
+				"id": "207010",
+				"name": "Eagle "
+			},
+			{
+				"id": "207011",
+				"name": "Eagle's Clinic"
+			}
+		]
+	},
+	{
+		"id": "389",
+		"gid": 20129,
+		"name": "Echo",
+		"skins": [
+			{
+				"id": "201290",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "114",
+		"gid": 20211,
+		"name": "Edinburgh",
+		"skins": [
+			{
+				"id": "202110",
+				"name": "Default"
+			},
+			{
+				"id": "202111",
+				"name": "The Library Fairy"
+			},
+			{
+				"id": "202112",
+				"name": "Candy Maid"
+			}
+		]
+	},
+	{
+		"id": "526",
+		"gid": 40602,
+		"name": "Elbe",
+		"skins": [
+			{
+				"id": "406020",
+				"name": "Default"
+			},
+			{
+				"id": "406021",
+				"name": "Time to Show Off?"
+			}
+		]
+	},
+	{
+		"id": "028",
+		"gid": 10126,
+		"name": "Eldridge",
+		"skins": [
+			{
+				"id": "101260",
+				"name": "Default"
+			},
+			{
+				"id": "101261",
+				"name": "Holy Night's Embrace"
+			},
+			{
+				"id": "101262",
+				"name": "The Inquisitive Recluse"
+			},
+			{
+				"id": "101263",
+				"name": "New Year's Outing"
+			},
+			{
+				"id": "101264",
+				"name": "Kitty Idol"
+			},
+			{
+				"id": "101265",
+				"name": "Moon Festival Spacewalk"
+			}
+		]
+	},
+	{
+		"id": "Collab042",
+		"gid": 1040002,
+		"name": "Elegant Kizuna AI",
+		"skins": [
+			{
+				"id": "10400020",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "077",
+		"gid": 10706,
+		"name": "Enterprise",
+		"skins": [
+			{
+				"id": "107060",
+				"name": "Default"
+			},
+			{
+				"id": "107061",
+				"name": "Reindeer Master"
+			},
+			{
+				"id": "107062",
+				"name": "Blooming Peony"
+			},
+			{
+				"id": "107063",
+				"name": "Anniversary Ride"
+			},
+			{
+				"id": "107064",
+				"name": "Soaring Wings of Freedom"
+			},
+			{
+				"id": "107065",
+				"name": "Heroic Finery"
+			},
+			{
+				"id": "107066",
+				"name": "Wind Catcher"
+			},
+			{
+				"id": "107067",
+				"name": "Bon Voyage"
+			},
+			{
+				"id": "107068",
+				"name": "Starlight Oath"
+			}
+		]
+	},
+	{
+		"id": "149",
+		"gid": 21301,
+		"name": "Erebus",
+		"skins": [
+			{
+				"id": "213010",
+				"name": "Default"
+			},
+			{
+				"id": "213011",
+				"name": "Illusory Happiness"
+			},
+			{
+				"id": "213012",
+				"name": "Wardrobe Witchery"
+			}
+		]
+	},
+	{
+		"id": "460",
+		"gid": 20132,
+		"name": "Eskimo",
+		"skins": [
+			{
+				"id": "201320",
+				"name": "Eskimo "
+			},
+			{
+				"id": "201321",
+				"name": "Parkaless Prankster"
+			}
+		]
+	},
+	{
+		"id": "357",
+		"gid": 10709,
+		"name": "Essex",
+		"skins": [
+			{
+				"id": "107090",
+				"name": "Default"
+			},
+			{
+				"id": "107091",
+				"name": "A Trip Down Route 66"
+			},
+			{
+				"id": "107092",
+				"name": "Craft Fairytail"
+			},
+			{
+				"id": "107093",
+				"name": "Brush and Ink"
+			}
+		]
+	},
+	{
+		"id": "126",
+		"gid": 20308,
+		"name": "Exeter",
+		"skins": [
+			{
+				"id": "203080",
+				"name": "Default"
+			},
+			{
+				"id": "203081",
+				"name": "A Glorious Toast"
+			},
+			{
+				"id": "203089",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "327",
+		"gid": 20216,
+		"name": "Fiji",
+		"skins": [
+			{
+				"id": "202160",
+				"name": "Default"
+			},
+			{
+				"id": "202161",
+				"name": "Trendy and Vogue?"
+			}
+		]
+	},
+	{
+		"id": "011",
+		"gid": 10109,
+		"name": "Fletcher",
+		"skins": [
+			{
+				"id": "101090",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "524",
+		"gid": 90301,
+		"name": "Foch",
+		"skins": [
+			{
+				"id": "903010",
+				"name": "Default"
+			},
+			{
+				"id": "903011",
+				"name": "Rainbow Rendezvous"
+			}
+		]
+	},
+	{
+		"id": "016",
+		"gid": 10114,
+		"name": "Foote",
+		"skins": [
+			{
+				"id": "101140",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "348",
+		"gid": 80102,
+		"name": "Forbin",
+		"skins": [
+			{
+				"id": "801020",
+				"name": "Default"
+			},
+			{
+				"id": "801021",
+				"name": "Fleur Blanche"
+			},
+			{
+				"id": "801022",
+				"name": "École de Chevalier"
+			},
+			{
+				"id": "801023",
+				"name": "Feast of Champagne"
+			},
+			{
+				"id": "801029",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "147",
+		"gid": 20705,
+		"name": "Formidable",
+		"skins": [
+			{
+				"id": "207050",
+				"name": "Default"
+			},
+			{
+				"id": "207051",
+				"name": "The Lady of the Beach"
+			},
+			{
+				"id": "207052",
+				"name": "Timeless Classics"
+			}
+		]
+	},
+	{
+		"id": "092",
+		"gid": 20112,
+		"name": "Fortune",
+		"skins": [
+			{
+				"id": "201120",
+				"name": "Default"
+			},
+			{
+				"id": "201121",
+				"name": "Seraphic Sunshine"
+			},
+			{
+				"id": "201129",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "091",
+		"gid": 20111,
+		"name": "Foxhound",
+		"skins": [
+			{
+				"id": "201110",
+				"name": "Default"
+			},
+			{
+				"id": "201119",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "Plan011",
+		"gid": 49902,
+		"name": "Friedrich der Große",
+		"skins": [
+			{
+				"id": "499020",
+				"name": "Default"
+			},
+			{
+				"id": "499021",
+				"name": "Dark Raiments of Gagaku"
+			},
+			{
+				"id": "499028",
+				"name": "Zeremonie of the Cradle"
+			}
+		]
+	},
+	{
+		"id": "254",
+		"gid": 50102,
+		"name": "Fu Shun",
+		"skins": [
+			{
+				"id": "501020",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "151",
+		"gid": 30101,
+		"name": "Fubuki",
+		"skins": [
+			{
+				"id": "301010",
+				"name": "Default"
+			},
+			{
+				"id": "301011",
+				"name": "5 Minutes Till I'm Late"
+			},
+			{
+				"id": "301012",
+				"name": "Mascot Bucky"
+			},
+			{
+				"id": "301013",
+				"name": "Music Pixy"
+			},
+			{
+				"id": "301014",
+				"name": "Fubuki Halation!"
+			},
+			{
+				"id": "301015",
+				"name": "Stormy Waitress-in-Training!"
+			}
+		]
+	},
+	{
+		"id": "Collab036",
+		"gid": 1030006,
+		"name": "Fumiruiru",
+		"skins": []
+	},
+	{
+		"id": "277",
+		"gid": 30138,
+		"name": "Fumizuki",
+		"skins": [
+			{
+				"id": "301380",
+				"name": "Default"
+			},
+			{
+				"id": "301381",
+				"name": "Sleepy Fairy"
+			}
+		]
+	},
+	{
+		"id": "190",
+		"gid": 30301,
+		"name": "Furutaka",
+		"skins": [
+			{
+				"id": "303010",
+				"name": "Default"
+			},
+			{
+				"id": "303019",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "208",
+		"gid": 30501,
+		"name": "Fusou",
+		"skins": [
+			{
+				"id": "305010",
+				"name": "Default"
+			},
+			{
+				"id": "305011",
+				"name": "The Celebration of Spring"
+			},
+			{
+				"id": "305012",
+				"name": "Perfect Partner?"
+			},
+			{
+				"id": "305019",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "30005",
+		"gid": 970501,
+		"name": "Fusou META",
+		"skins": [
+			{
+				"id": "9705010",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "117",
+		"gid": 20214,
+		"name": "Galatea",
+		"skins": [
+			{
+				"id": "202140",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "437",
+		"gid": 70501,
+		"name": "Gangut",
+		"skins": [
+			{
+				"id": "705010",
+				"name": "Default"
+			},
+			{
+				"id": "705011",
+				"name": "Imposing Warden"
+			},
+			{
+				"id": "705012",
+				"name": "Keeper of the Firewater"
+			}
+		]
+	},
+	{
+		"id": "Plan012",
+		"gid": 99901,
+		"name": "Gascogne",
+		"skins": [
+			{
+				"id": "999010",
+				"name": "Default"
+			},
+			{
+				"id": "999011",
+				"name": "Tropical Environs Acclimation Service Equipment"
+			}
+		]
+	},
+	{
+		"id": "418",
+		"gid": 90503,
+		"name": "Gascogne μ",
+		"skins": [
+			{
+				"id": "905030",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "Plan008",
+		"gid": 19902,
+		"name": "Georgia",
+		"skins": [
+			{
+				"id": "199020",
+				"name": "Default"
+			},
+			{
+				"id": "199021",
+				"name": "South Town Pearl"
+			},
+			{
+				"id": "199022",
+				"name": "Lanier Swan"
+			},
+			{
+				"id": "199023",
+				"name": "Exalted Vibrance"
+			}
+		]
+	},
+	{
+		"id": "412",
+		"gid": 60506,
+		"name": "Giulio Cesare",
+		"skins": [
+			{
+				"id": "605060",
+				"name": "Default"
+			},
+			{
+				"id": "605061",
+				"name": "Fitness Master"
+			},
+			{
+				"id": "605062",
+				"name": "High Tide Under the Sunlight"
+			}
+		]
+	},
+	{
+		"id": "423",
+		"gid": 20226,
+		"name": "Glasgow",
+		"skins": [
+			{
+				"id": "202260",
+				"name": "Default"
+			},
+			{
+				"id": "202261",
+				"name": "A Maid in Class"
+			}
+		]
+	},
+	{
+		"id": "148",
+		"gid": 20706,
+		"name": "Glorious",
+		"skins": [
+			{
+				"id": "207060",
+				"name": "Default"
+			},
+			{
+				"id": "207061",
+				"name": "Glorious School Life"
+			},
+			{
+				"id": "207062",
+				"name": "Pungent Plum"
+			}
+		]
+	},
+	{
+		"id": "113",
+		"gid": 20210,
+		"name": "Gloucester",
+		"skins": [
+			{
+				"id": "202100",
+				"name": "Default"
+			},
+			{
+				"id": "202101",
+				"name": "Brilliance in Purple"
+			}
+		]
+	},
+	{
+		"id": "094",
+		"gid": 20114,
+		"name": "Glowworm",
+		"skins": [
+			{
+				"id": "201140",
+				"name": "Default"
+			},
+			{
+				"id": "201141",
+				"name": "Jokey Adjudicator"
+			}
+		]
+	},
+	{
+		"id": "249",
+		"gid": 40402,
+		"name": "Gneisenau",
+		"skins": [
+			{
+				"id": "404020",
+				"name": "Default"
+			},
+			{
+				"id": "404021",
+				"name": "Nightmarish Succubus"
+			}
+		]
+	},
+	{
+		"id": "30007",
+		"gid": 970401,
+		"name": "Gneisenau META",
+		"skins": [
+			{
+				"id": "9704010",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "252",
+		"gid": 40701,
+		"name": "Graf Zeppelin",
+		"skins": [
+			{
+				"id": "407010",
+				"name": "Default"
+			},
+			{
+				"id": "407011",
+				"name": "Beachside Urd"
+			}
+		]
+	},
+	{
+		"id": "Collab008",
+		"gid": 1010008,
+		"name": "Green Heart",
+		"skins": [
+			{
+				"id": "10100080",
+				"name": "Default"
+			},
+			{
+				"id": "10100081",
+				"name": "Goddesses' Moment"
+			}
+		]
+	},
+	{
+		"id": "497",
+		"gid": 70107,
+		"name": "Gremyashchy",
+		"skins": [
+			{
+				"id": "701070",
+				"name": "Default"
+			},
+			{
+				"id": "701071",
+				"name": "A Daytime Delight is in a Book"
+			}
+		]
+	},
+	{
+		"id": "093",
+		"gid": 20113,
+		"name": "Grenville",
+		"skins": [
+			{
+				"id": "201130",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "007",
+		"gid": 10105,
+		"name": "Gridley",
+		"skins": [
+			{
+				"id": "101050",
+				"name": "Default"
+			},
+			{
+				"id": "101051",
+				"name": "Christmas Photoshoot"
+			}
+		]
+	},
+	{
+		"id": "499",
+		"gid": 70108,
+		"name": "Gromky",
+		"skins": [
+			{
+				"id": "701080",
+				"name": "Default"
+			},
+			{
+				"id": "701081",
+				"name": "Morning's Beckoning"
+			}
+		]
+	},
+	{
+		"id": "431",
+		"gid": 70102,
+		"name": "Grozny",
+		"skins": [
+			{
+				"id": "701020",
+				"name": "Default"
+			},
+			{
+				"id": "701021",
+				"name": "Bad Bunny Behind Bars"
+			},
+			{
+				"id": "701022",
+				"name": "Bunny Remodeling Plan?"
+			},
+			{
+				"id": "701023",
+				"name": "Shadowy Syndicate Showdown"
+			}
+		]
+	},
+	{
+		"id": "532",
+		"gid": 50208,
+		"name": "Hai Chi",
+		"skins": [
+			{
+				"id": "502080",
+				"name": "Default"
+			},
+			{
+				"id": "502081",
+				"name": "A Dance Among the Lotuses"
+			}
+		]
+	},
+	{
+		"id": "531",
+		"gid": 50207,
+		"name": "Hai Tien",
+		"skins": [
+			{
+				"id": "502070",
+				"name": "Default"
+			},
+			{
+				"id": "502071",
+				"name": "Verse-Weaver at the Water's Edge"
+			}
+		]
+	},
+	{
+		"id": "Plan019",
+		"gid": 39905,
+		"name": "Hakuryuu",
+		"skins": [
+			{
+				"id": "399050",
+				"name": "Default"
+			},
+			{
+				"id": "399051",
+				"name": "Slice, Dice, and Serve"
+			}
+		]
+	},
+	{
+		"id": "427",
+		"gid": 10143,
+		"name": "Halsey Powell",
+		"skins": [
+			{
+				"id": "101430",
+				"name": "Default"
+			},
+			{
+				"id": "101431",
+				"name": "Spring's Lucky Star"
+			}
+		]
+	},
+	{
+		"id": "318",
+		"gid": 30161,
+		"name": "Hamakaze",
+		"skins": [
+			{
+				"id": "301610",
+				"name": "{namecode:128}"
+			},
+			{
+				"id": "301611",
+				"name": "The Honors Student"
+			},
+			{
+				"id": "301619",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "027",
+		"gid": 10125,
+		"name": "Hammann",
+		"skins": [
+			{
+				"id": "101250",
+				"name": "Default"
+			},
+			{
+				"id": "101251",
+				"name": "Rebellious Summer"
+			},
+			{
+				"id": "101252",
+				"name": "Prideful Fairy of the Ballroom"
+			},
+			{
+				"id": "101253",
+				"name": "Hammanyan Pawnch!"
+			},
+			{
+				"id": "101254",
+				"name": "Holy Night Surprise!"
+			},
+			{
+				"id": "101259",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "449",
+		"gid": 30182,
+		"name": "Hanazuki",
+		"skins": [
+			{
+				"id": "301820",
+				"name": "Default"
+			},
+			{
+				"id": "301821",
+				"name": "Morning Moon, Beachside Flower"
+			},
+			{
+				"id": "301822",
+				"name": "Blossoming Spring, Resplendent Moon"
+			}
+		]
+	},
+	{
+		"id": "096",
+		"gid": 20116,
+		"name": "Hardy",
+		"skins": [
+			{
+				"id": "201160",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "10071",
+		"gid": 1070001,
+		"name": "Haruka Amami",
+		"skins": [
+			{
+				"id": "10700010",
+				"name": "Default"
+			},
+			{
+				"id": "10700011",
+				"name": "A Taste of Tranquility"
+			}
+		]
+	},
+	{
+		"id": "206",
+		"gid": 30403,
+		"name": "Haruna",
+		"skins": [
+			{
+				"id": "304030",
+				"name": "Default"
+			},
+			{
+				"id": "304031",
+				"name": "Free Time Before Class"
+			},
+			{
+				"id": "304032",
+				"name": "Scarlet Innocence"
+			},
+			{
+				"id": "304033",
+				"name": "The Elegant Lotus"
+			}
+		]
+	},
+	{
+		"id": "296",
+		"gid": 30157,
+		"name": "Harutsuki",
+		"skins": [
+			{
+				"id": "301570",
+				"name": "Default"
+			},
+			{
+				"id": "301571",
+				"name": "A Dance for the Coming Spring"
+			}
+		]
+	},
+	{
+		"id": "10083",
+		"gid": 1080003,
+		"name": "Hass",
+		"skins": [
+			{
+				"id": "10800030",
+				"name": "Default"
+			},
+			{
+				"id": "10800031",
+				"name": "Seaside Scoop!"
+			}
+		]
+	},
+	{
+		"id": "369",
+		"gid": 30179,
+		"name": "Hatakaze",
+		"skins": [
+			{
+				"id": "301790",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "171",
+		"gid": 30121,
+		"name": "Hatsuharu",
+		"skins": [
+			{
+				"id": "301210",
+				"name": "Default"
+			},
+			{
+				"id": "301211",
+				"name": "Snow Day Hatsuharu"
+			},
+			{
+				"id": "301212",
+				"name": "Hatsuharu in the Limelight"
+			},
+			{
+				"id": "301219",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "174",
+		"gid": 30124,
+		"name": "Hatsushimo",
+		"skins": [
+			{
+				"id": "301240",
+				"name": "Default"
+			},
+			{
+				"id": "301242",
+				"name": "Perennial Joy"
+			},
+			{
+				"id": "301249",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "365",
+		"gid": 10134,
+		"name": "Hazelwood",
+		"skins": [
+			{
+				"id": "101340",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "033",
+		"gid": 10205,
+		"name": "Helena",
+		"skins": [
+			{
+				"id": "102050",
+				"name": "Default"
+			},
+			{
+				"id": "102051",
+				"name": "New Year's Bluebird"
+			},
+			{
+				"id": "102052",
+				"name": "May I Have this Dance?"
+			},
+			{
+				"id": "102059",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "30003",
+		"gid": 970201,
+		"name": "Helena META",
+		"skins": [
+			{
+				"id": "9702010",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "140",
+		"gid": 20601,
+		"name": "Hermes",
+		"skins": [
+			{
+				"id": "206010",
+				"name": "Default"
+			},
+			{
+				"id": "206019",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "463",
+		"gid": 20227,
+		"name": "Hermione",
+		"skins": [
+			{
+				"id": "202270",
+				"name": "Hermione "
+			},
+			{
+				"id": "202271",
+				"name": "Pure White Angel"
+			},
+			{
+				"id": "202272",
+				"name": "Pure White Holiday"
+			},
+			{
+				"id": "202273",
+				"name": "Graceful Afternoon Tea"
+			},
+			{
+				"id": "202274",
+				"name": "Pristine Herbalist"
+			}
+		]
+	},
+	{
+		"id": "160",
+		"gid": 30110,
+		"name": "Hibiki",
+		"skins": [
+			{
+				"id": "301100",
+				"name": "Default"
+			},
+			{
+				"id": "301101",
+				"name": "New Year's Little Imp"
+			}
+		]
+	},
+	{
+		"id": "205",
+		"gid": 30402,
+		"name": "Hiei",
+		"skins": [
+			{
+				"id": "304020",
+				"name": "Default"
+			},
+			{
+				"id": "304021",
+				"name": "Moonlit Cruise"
+			},
+			{
+				"id": "304022",
+				"name": "Fragrant Red Plum"
+			},
+			{
+				"id": "304023",
+				"name": "Beauty of the White Sands"
+			}
+		]
+	},
+	{
+		"id": "383",
+		"gid": 30406,
+		"name": "Hiei-chan",
+		"skins": [
+			{
+				"id": "304060",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "30001",
+		"gid": 970701,
+		"name": "Hiryu.META",
+		"skins": [
+			{
+				"id": "9707010",
+				"name": "Hiryuu META"
+			}
+		]
+	},
+	{
+		"id": "227",
+		"gid": 30704,
+		"name": "Hiryuu",
+		"skins": [
+			{
+				"id": "307040",
+				"name": "Default"
+			},
+			{
+				"id": "307041",
+				"name": "After School Bullies"
+			},
+			{
+				"id": "307049",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "218",
+		"gid": 30601,
+		"name": "Hiyou",
+		"skins": [
+			{
+				"id": "306010",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "30006",
+		"gid": 970601,
+		"name": "Hiyou META",
+		"skins": [
+			{
+				"id": "9706010",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "362",
+		"gid": 10136,
+		"name": "Hobby",
+		"skins": [
+			{
+				"id": "101360",
+				"name": "Default"
+			},
+			{
+				"id": "101361",
+				"name": "Little Idol Schoolgirl"
+			}
+		]
+	},
+	{
+		"id": "10062",
+		"gid": 1060002,
+		"name": "Honoka",
+		"skins": [
+			{
+				"id": "10600020",
+				"name": "Default"
+			},
+			{
+				"id": "10600021",
+				"name": "Summer Angel on the Shore"
+			}
+		]
+	},
+	{
+		"id": "304",
+		"gid": 10212,
+		"name": "Honolulu",
+		"skins": [
+			{
+				"id": "102120",
+				"name": "Default"
+			},
+			{
+				"id": "102121",
+				"name": "Umbrella Girl"
+			},
+			{
+				"id": "102122",
+				"name": "Summer Accident?!"
+			},
+			{
+				"id": "102123",
+				"name": "Manjuu Mischief"
+			},
+			{
+				"id": "102124",
+				"name": "Among the Stalls"
+			}
+		]
+	},
+	{
+		"id": "129",
+		"gid": 20403,
+		"name": "Hood",
+		"skins": [
+			{
+				"id": "204030",
+				"name": "Default"
+			},
+			{
+				"id": "204031",
+				"name": "Lady of the Shining Sun"
+			},
+			{
+				"id": "204032",
+				"name": "Porcelain Grace"
+			},
+			{
+				"id": "204033",
+				"name": "Dawnlight's Dame"
+			},
+			{
+				"id": "204038",
+				"name": "Rosey Love Poem"
+			}
+		]
+	},
+	{
+		"id": "078",
+		"gid": 10707,
+		"name": "Hornet",
+		"skins": [
+			{
+				"id": "107070",
+				"name": "Default"
+			},
+			{
+				"id": "107071",
+				"name": "Bubbly Anniversary!"
+			},
+			{
+				"id": "107072",
+				"name": "Freshly-Baked Bonding!"
+			}
+		]
+	},
+	{
+		"id": "220",
+		"gid": 30603,
+		"name": "Houshou",
+		"skins": [
+			{
+				"id": "306030",
+				"name": "{namecode:89}"
+			},
+			{
+				"id": "306031",
+				"name": "The Dream of the Autumn Pillow"
+			}
+		]
+	},
+	{
+		"id": "043",
+		"gid": 10305,
+		"name": "Houston",
+		"skins": [
+			{
+				"id": "103050",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "461",
+		"gid": 20509,
+		"name": "Howe",
+		"skins": [
+			{
+				"id": "205090",
+				"name": "Howe "
+			},
+			{
+				"id": "205091",
+				"name": "Noble Rouge"
+			},
+			{
+				"id": "205092",
+				"name": "Pastry Princess"
+			}
+		]
+	},
+	{
+		"id": "100",
+		"gid": 20120,
+		"name": "Hunter",
+		"skins": [
+			{
+				"id": "201200",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "211",
+		"gid": 30504,
+		"name": "Hyuuga",
+		"skins": [
+			{
+				"id": "305040",
+				"name": "Default"
+			},
+			{
+				"id": "305049",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "381",
+		"gid": 31701,
+		"name": "I-13",
+		"skins": [
+			{
+				"id": "317010",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "398",
+		"gid": 30806,
+		"name": "I-168",
+		"skins": [
+			{
+				"id": "308060",
+				"name": "Default"
+			},
+			{
+				"id": "308061",
+				"name": "Festive Mood!"
+			}
+		]
+	},
+	{
+		"id": "338",
+		"gid": 30801,
+		"name": "I-19",
+		"skins": [
+			{
+				"id": "308010",
+				"name": "Default"
+			},
+			{
+				"id": "308011",
+				"name": "Departure's Gentle Breeze"
+			},
+			{
+				"id": "308012",
+				"name": "Pillowy Paradise"
+			},
+			{
+				"id": "308013",
+				"name": "Blossoming Bunny"
+			}
+		]
+	},
+	{
+		"id": "396",
+		"gid": 30804,
+		"name": "I-25",
+		"skins": [
+			{
+				"id": "308040",
+				"name": "Default"
+			},
+			{
+				"id": "308041",
+				"name": "Coral Reef Bunny"
+			},
+			{
+				"id": "308042",
+				"name": "Sweet Wine of Celebration"
+			}
+		]
+	},
+	{
+		"id": "339",
+		"gid": 30802,
+		"name": "I-26",
+		"skins": [
+			{
+				"id": "308020",
+				"name": "Default"
+			},
+			{
+				"id": "308021",
+				"name": "Deep-Sea Rabbit"
+			},
+			{
+				"id": "308022",
+				"name": "Shortly Before the Fireworks"
+			}
+		]
+	},
+	{
+		"id": "397",
+		"gid": 30805,
+		"name": "I-56",
+		"skins": [
+			{
+				"id": "308050",
+				"name": "Default"
+			},
+			{
+				"id": "308051",
+				"name": "Wallflower in the Corner"
+			}
+		]
+	},
+	{
+		"id": "340",
+		"gid": 30803,
+		"name": "I-58",
+		"skins": [
+			{
+				"id": "308030",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "Plan003",
+		"gid": 39901,
+		"name": "Ibuki",
+		"skins": [
+			{
+				"id": "399010",
+				"name": "Default"
+			},
+			{
+				"id": "399011",
+				"name": "Winter Sylph's Reverie"
+			},
+			{
+				"id": "399012",
+				"name": "Snow on the Wind"
+			},
+			{
+				"id": "399013",
+				"name": "Arrival of Spring"
+			},
+			{
+				"id": "399014",
+				"name": "Tranquil Sunya"
+			}
+		]
+	},
+	{
+		"id": "465",
+		"gid": 20133,
+		"name": "Icarus",
+		"skins": [
+			{
+				"id": "201330",
+				"name": "Icarus "
+			},
+			{
+				"id": "201331",
+				"name": "One-Week Medical Experience? "
+			},
+			{
+				"id": "201332",
+				"name": "Nereid's Discovery"
+			},
+			{
+				"id": "201333",
+				"name": "At Your Service"
+			}
+		]
+	},
+	{
+		"id": "161",
+		"gid": 30111,
+		"name": "Ikazuchi",
+		"skins": [
+			{
+				"id": "301110",
+				"name": "Default"
+			},
+			{
+				"id": "301111",
+				"name": "Sakura Tea"
+			},
+			{
+				"id": "301112",
+				"name": "Thunderous Festival"
+			},
+			{
+				"id": "301113",
+				"name": "Dawn's Thunder"
+			}
+		]
+	},
+	{
+		"id": "145",
+		"gid": 20703,
+		"name": "Illustrious",
+		"skins": [
+			{
+				"id": "207030",
+				"name": "Default"
+			},
+			{
+				"id": "207031",
+				"name": "Never-Ending Tea Party"
+			},
+			{
+				"id": "207032",
+				"name": "Illustrious Ball"
+			},
+			{
+				"id": "207033",
+				"name": "Resplendent Hibiscus"
+			},
+			{
+				"id": "207035",
+				"name": "Maiden Lily's Radiance"
+			},
+			{
+				"id": "207038",
+				"name": "Morning Star of Love and Hope"
+			}
+		]
+	},
+	{
+		"id": "480",
+		"gid": 20711,
+		"name": "Illustrious μ",
+		"skins": [
+			{
+				"id": "207110",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "540",
+		"gid": 60702,
+		"name": "Impero",
+		"skins": [
+			{
+				"id": "607020",
+				"name": "Default"
+			},
+			{
+				"id": "607021",
+				"name": "Languid Librarian"
+			}
+		]
+	},
+	{
+		"id": "162",
+		"gid": 30112,
+		"name": "Inazuma",
+		"skins": [
+			{
+				"id": "301120",
+				"name": "Default"
+			},
+			{
+				"id": "301121",
+				"name": "Vanilla Pudding"
+			},
+			{
+				"id": "301122",
+				"name": "Flash of Fireworks"
+			},
+			{
+				"id": "301123",
+				"name": "Dusk's Lightning"
+			}
+		]
+	},
+	{
+		"id": "377",
+		"gid": 10722,
+		"name": "Independence",
+		"skins": [
+			{
+				"id": "107220",
+				"name": "Default"
+			},
+			{
+				"id": "107221",
+				"name": "Transfer Student From Afar"
+			},
+			{
+				"id": "107222",
+				"name": "The Independent Line"
+			},
+			{
+				"id": "107223",
+				"name": "Liberty and Leisure"
+			},
+			{
+				"id": "107224",
+				"name": "The Tailwind of Opportunity"
+			},
+			{
+				"id": "107229",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "045",
+		"gid": 10307,
+		"name": "Indianapolis",
+		"skins": [
+			{
+				"id": "103070",
+				"name": "Default"
+			},
+			{
+				"id": "103071",
+				"name": "At School With My Sister..."
+			},
+			{
+				"id": "103072",
+				"name": "The Light of Circle City"
+			}
+		]
+	},
+	{
+		"id": "518",
+		"gid": 10148,
+		"name": "Ingraham",
+		"skins": [
+			{
+				"id": "101480",
+				"name": "Default"
+			},
+			{
+				"id": "101481",
+				"name": "Fixin' for a Mixin'"
+			}
+		]
+	},
+	{
+		"id": "442",
+		"gid": 10711,
+		"name": "Intrepid",
+		"skins": [
+			{
+				"id": "107110",
+				"name": "Default"
+			},
+			{
+				"id": "107111",
+				"name": "One Intrepid Pitch"
+			}
+		]
+	},
+	{
+		"id": "10073",
+		"gid": 1070003,
+		"name": "Iori Minase",
+		"skins": [
+			{
+				"id": "10700030",
+				"name": "Default"
+			},
+			{
+				"id": "10700031",
+				"name": "A Little Evening Secret"
+			}
+		]
+	},
+	{
+		"id": "210",
+		"gid": 30503,
+		"name": "Ise",
+		"skins": [
+			{
+				"id": "305030",
+				"name": "Default"
+			},
+			{
+				"id": "305039",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "317",
+		"gid": 30160,
+		"name": "Isokaze",
+		"skins": [
+			{
+				"id": "301600",
+				"name": "Default"
+			},
+			{
+				"id": "301601",
+				"name": "New Year's Campaign"
+			},
+			{
+				"id": "301602",
+				"name": "Sengoku☆Smasher!"
+			}
+		]
+	},
+	{
+		"id": "183",
+		"gid": 30205,
+		"name": "Isuzu",
+		"skins": [
+			{
+				"id": "302050",
+				"name": "Default"
+			},
+			{
+				"id": "302051",
+				"name": "Night of Fairy Tale"
+			},
+			{
+				"id": "302052",
+				"name": "Cozy Christmas Eve"
+			},
+			{
+				"id": "302053",
+				"name": "Accidental Overheat?"
+			},
+			{
+				"id": "302059",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "Plan004",
+		"gid": 39902,
+		"name": "Izumo",
+		"skins": [
+			{
+				"id": "399020",
+				"name": "Default"
+			},
+			{
+				"id": "399021",
+				"name": "Izumo's Thousand Cherry Trees"
+			}
+		]
+	},
+	{
+		"id": "328",
+		"gid": 20217,
+		"name": "Jamaica",
+		"skins": [
+			{
+				"id": "202170",
+				"name": "Default"
+			},
+			{
+				"id": "202171",
+				"name": "Dark Bolt"
+			},
+			{
+				"id": "202172",
+				"name": "Highway Star"
+			}
+		]
+	},
+	{
+		"id": "101",
+		"gid": 20121,
+		"name": "Javelin",
+		"skins": [
+			{
+				"id": "201210",
+				"name": "Default"
+			},
+			{
+				"id": "201212",
+				"name": "Beach Picnic!"
+			},
+			{
+				"id": "201213",
+				"name": "Let's Become Waitresses!"
+			},
+			{
+				"id": "201214",
+				"name": "Slow Ahead!"
+			},
+			{
+				"id": "201215",
+				"name": "Operation: Pillow Fight!"
+			},
+			{
+				"id": "201216",
+				"name": "Energetic Idol @120% Motivation!"
+			},
+			{
+				"id": "201218",
+				"name": "Blissful Purity"
+			},
+			{
+				"id": "201219",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "353",
+		"gid": 90501,
+		"name": "Jean Bart",
+		"skins": [
+			{
+				"id": "905010",
+				"name": "Default"
+			},
+			{
+				"id": "905011",
+				"name": "Uninhibited Bloodstone"
+			},
+			{
+				"id": "905012",
+				"name": "Private Après Midi"
+			},
+			{
+				"id": "905013",
+				"name": "First Snow Upon the Cutlass's Edge"
+			}
+		]
+	},
+	{
+		"id": "454",
+		"gid": 80202,
+		"name": "Jeanne d'Arc",
+		"skins": [
+			{
+				"id": "802020",
+				"name": "Default"
+			},
+			{
+				"id": "802021",
+				"name": "Saintess of the Sea"
+			}
+		]
+	},
+	{
+		"id": "300",
+		"gid": 10130,
+		"name": "Jenkins",
+		"skins": [
+			{
+				"id": "101300",
+				"name": "Default"
+			},
+			{
+				"id": "101301",
+				"name": "Light of the Holiest Star"
+			}
+		]
+	},
+	{
+		"id": "307",
+		"gid": 20125,
+		"name": "Jersey",
+		"skins": [
+			{
+				"id": "201250",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "309",
+		"gid": 30213,
+		"name": "Jintsuu",
+		"skins": [
+			{
+				"id": "302130",
+				"name": "Default"
+			},
+			{
+				"id": "302131",
+				"name": "The Tactician's Vacation"
+			},
+			{
+				"id": "302139",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "035",
+		"gid": 10207,
+		"name": "Juneau",
+		"skins": [
+			{
+				"id": "102070",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "102",
+		"gid": 20122,
+		"name": "Juno",
+		"skins": [
+			{
+				"id": "201220",
+				"name": "Default"
+			},
+			{
+				"id": "201221",
+				"name": "Fairly Flavourful Festival"
+			}
+		]
+	},
+	{
+		"id": "219",
+		"gid": 30602,
+		"name": "Junyou",
+		"skins": [
+			{
+				"id": "306020",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "30008",
+		"gid": 970602,
+		"name": "Junyou META",
+		"skins": [
+			{
+				"id": "9706020",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "306",
+		"gid": 20124,
+		"name": "Jupiter",
+		"skins": [
+			{
+				"id": "201240",
+				"name": "Default"
+			},
+			{
+				"id": "201241",
+				"name": "Fanclub Sleepover"
+			}
+		]
+	},
+	{
+		"id": "225",
+		"gid": 30702,
+		"name": "Kaga",
+		"skins": [
+			{
+				"id": "307020",
+				"name": "Default"
+			},
+			{
+				"id": "307021",
+				"name": "Everlasting Killing Stone"
+			},
+			{
+				"id": "307022",
+				"name": "White Fox's New Year"
+			},
+			{
+				"id": "307023",
+				"name": "Exalted White Wings"
+			},
+			{
+				"id": "307024",
+				"name": "Gentle Blossom's Sigh"
+			},
+			{
+				"id": "307025",
+				"name": "Dusk-Simurgh's Vigil"
+			},
+			{
+				"id": "307028",
+				"name": "Sacred Blue Lily"
+			}
+		]
+	},
+	{
+		"id": "368",
+		"gid": 30507,
+		"name": "Kaga(BB)",
+		"skins": [
+			{
+				"id": "305070",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "167",
+		"gid": 30117,
+		"name": "Kagerou",
+		"skins": [
+			{
+				"id": "301170",
+				"name": "Default"
+			},
+			{
+				"id": "301171",
+				"name": "Pumpkins and Festivities!"
+			},
+			{
+				"id": "301179",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "191",
+		"gid": 30302,
+		"name": "Kako",
+		"skins": [
+			{
+				"id": "303020",
+				"name": "Default"
+			},
+			{
+				"id": "303029",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "363",
+		"gid": 10137,
+		"name": "Kalk",
+		"skins": [
+			{
+				"id": "101370",
+				"name": "Default"
+			},
+			{
+				"id": "101371",
+				"name": "Snow Fairy Schoolgirl"
+			}
+		]
+	},
+	{
+		"id": "269",
+		"gid": 30130,
+		"name": "Kamikaze",
+		"skins": [
+			{
+				"id": "301300",
+				"name": "Default"
+			},
+			{
+				"id": "301309",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "239",
+		"gid": 40202,
+		"name": "Karlsruhe",
+		"skins": [
+			{
+				"id": "402020",
+				"name": "Default"
+			},
+			{
+				"id": "402029",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "472",
+		"gid": 31901,
+		"name": "Kashino",
+		"skins": [
+			{
+				"id": "319010",
+				"name": "Default"
+			},
+			{
+				"id": "319011",
+				"name": "Hot Springs Relaxation"
+			}
+		]
+	},
+	{
+		"id": "424",
+		"gid": 30181,
+		"name": "Kasumi",
+		"skins": [
+			{
+				"id": "301810",
+				"name": "Default"
+			},
+			{
+				"id": "301811",
+				"name": "New Year's Comfort"
+			},
+			{
+				"id": "301812",
+				"name": "At School with Foo"
+			},
+			{
+				"id": "301819",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "10063",
+		"gid": 1060003,
+		"name": "Kasumi",
+		"skins": [
+			{
+				"id": "10600030",
+				"name": "Default"
+			},
+			{
+				"id": "10600031",
+				"name": "Springside Mist"
+			}
+		]
+	},
+	{
+		"id": "520",
+		"gid": 30712,
+		"name": "Katsuragi",
+		"skins": [
+			{
+				"id": "307120",
+				"name": "Default"
+			},
+			{
+				"id": "307121",
+				"name": "Night-Illuminating Festival"
+			}
+		]
+	},
+	{
+		"id": "288",
+		"gid": 30149,
+		"name": "Kawakaze",
+		"skins": [
+			{
+				"id": "301490",
+				"name": "Default"
+			},
+			{
+				"id": "301491",
+				"name": "Monochromatic Interlude"
+			},
+			{
+				"id": "301498",
+				"name": "Unsullied White Fox"
+			}
+		]
+	},
+	{
+		"id": "517",
+		"gid": 30186,
+		"name": "Kazagumo",
+		"skins": [
+			{
+				"id": "301860",
+				"name": "Default"
+			},
+			{
+				"id": "301861",
+				"name": "After-School Melody"
+			}
+		]
+	},
+	{
+		"id": "121",
+		"gid": 20303,
+		"name": "Kent",
+		"skins": [
+			{
+				"id": "203030",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "535",
+		"gid": 70110,
+		"name": "Kiev",
+		"skins": [
+			{
+				"id": "701100",
+				"name": "Default"
+			},
+			{
+				"id": "701101",
+				"name": "Backstreet Silver Sonata"
+			}
+		]
+	},
+	{
+		"id": "214",
+		"gid": 30512,
+		"name": "Kii",
+		"skins": [
+			{
+				"id": "305120",
+				"name": "Default"
+			},
+			{
+				"id": "305121",
+				"name": "Poolside Persuasion"
+			}
+		]
+	},
+	{
+		"id": "374",
+		"gid": 10138,
+		"name": "Kimberly",
+		"skins": [
+			{
+				"id": "101380",
+				"name": "Default"
+			},
+			{
+				"id": "101382",
+				"name": "Style of the East"
+			}
+		]
+	},
+	{
+		"id": "134",
+		"gid": 20505,
+		"name": "King George V",
+		"skins": [
+			{
+				"id": "205050",
+				"name": "Default"
+			},
+			{
+				"id": "205051",
+				"name": "Rose's Regalia"
+			}
+		]
+	},
+	{
+		"id": "186",
+		"gid": 30208,
+		"name": "Kinu",
+		"skins": [
+			{
+				"id": "302080",
+				"name": "Default"
+			},
+			{
+				"id": "302081",
+				"name": "New Year's Blade Demon"
+			},
+			{
+				"id": "302082",
+				"name": "Token and Ghost"
+			},
+			{
+				"id": "302089",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "193",
+		"gid": 30304,
+		"name": "Kinugasa",
+		"skins": [
+			{
+				"id": "303040",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "207",
+		"gid": 30404,
+		"name": "Kirishima",
+		"skins": [
+			{
+				"id": "304040",
+				"name": "Default"
+			},
+			{
+				"id": "304041",
+				"name": "After-School Cannon Time"
+			},
+			{
+				"id": "304042",
+				"name": "Summery Audacity"
+			},
+			{
+				"id": "304043",
+				"name": "Casual Dazzle"
+			},
+			{
+				"id": "304044",
+				"name": "Graceful Ink Incense"
+			}
+		]
+	},
+	{
+		"id": "435",
+		"gid": 70204,
+		"name": "Kirov",
+		"skins": [
+			{
+				"id": "702040",
+				"name": "Default"
+			},
+			{
+				"id": "702041",
+				"name": "Blend R"
+			},
+			{
+				"id": "702042",
+				"name": "Drifting Justice"
+			}
+		]
+	},
+	{
+		"id": "272",
+		"gid": 30133,
+		"name": "Kisaragi",
+		"skins": [
+			{
+				"id": "301330",
+				"name": "Default"
+			},
+			{
+				"id": "301331",
+				"name": "New Year's Wish"
+			},
+			{
+				"id": "301339",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "Plan009",
+		"gid": 39903,
+		"name": "Kitakaze",
+		"skins": [
+			{
+				"id": "399030",
+				"name": "Default"
+			},
+			{
+				"id": "399031",
+				"name": "Celebration Conquest!"
+			}
+		]
+	},
+	{
+		"id": "293",
+		"gid": 30154,
+		"name": "Kiyonami",
+		"skins": [
+			{
+				"id": "301540",
+				"name": "Default"
+			},
+			{
+				"id": "301541",
+				"name": "Festive Riding Hood?"
+			}
+		]
+	},
+	{
+		"id": "Collab041",
+		"gid": 1040001,
+		"name": "Kizuna AI",
+		"skins": [
+			{
+				"id": "10400010",
+				"name": "Default"
+			},
+			{
+				"id": "10400011",
+				"name": "Festive Kizuna AI"
+			}
+		]
+	},
+	{
+		"id": "204",
+		"gid": 30401,
+		"name": "Kongou",
+		"skins": [
+			{
+				"id": "304010",
+				"name": "Default"
+			},
+			{
+				"id": "304011",
+				"name": "The Beauties of Nature"
+			},
+			{
+				"id": "304012",
+				"name": "Hospital Talent"
+			},
+			{
+				"id": "304013",
+				"name": "Breezy Commute"
+			}
+		]
+	},
+	{
+		"id": "539",
+		"gid": 71801,
+		"name": "Kronshtadt",
+		"skins": [
+			{
+				"id": "718010",
+				"name": "Default"
+			},
+			{
+				"id": "718011",
+				"name": "Begin the Rush!"
+			}
+		]
+	},
+	{
+		"id": "469",
+		"gid": 30318,
+		"name": "Kumano",
+		"skins": [
+			{
+				"id": "303180",
+				"name": "Kumano "
+			},
+			{
+				"id": "303181",
+				"name": "Fancy Waves "
+			},
+			{
+				"id": "303182",
+				"name": "PJ Poker Party"
+			}
+		]
+	},
+	{
+		"id": "Collab031",
+		"gid": 1030001,
+		"name": "Kuon",
+		"skins": []
+	},
+	{
+		"id": "177",
+		"gid": 30127,
+		"name": "Kuroshio",
+		"skins": [
+			{
+				"id": "301270",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "240",
+		"gid": 40203,
+		"name": "Köln",
+		"skins": [
+			{
+				"id": "402030",
+				"name": "Default"
+			},
+			{
+				"id": "402039",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "238",
+		"gid": 40201,
+		"name": "Königsberg",
+		"skins": [
+			{
+				"id": "402010",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "395",
+		"gid": 80104,
+		"name": "L'Opiniâtre",
+		"skins": [
+			{
+				"id": "801040",
+				"name": "Default"
+			},
+			{
+				"id": "801041",
+				"name": "Beachside Magician"
+			}
+		]
+	},
+	{
+		"id": "456",
+		"gid": 90201,
+		"name": "La Galissonnière",
+		"skins": [
+			{
+				"id": "902010",
+				"name": "Default"
+			},
+			{
+				"id": "902011",
+				"name": "Pristine Piscene"
+			},
+			{
+				"id": "902012",
+				"name": "Lush Spring Dreams"
+			},
+			{
+				"id": "902013",
+				"name": "Black Cat of All Hallows' Eve"
+			}
+		]
+	},
+	{
+		"id": "019",
+		"gid": 10117,
+		"name": "Laffey",
+		"skins": [
+			{
+				"id": "101170",
+				"name": "Default"
+			},
+			{
+				"id": "101172",
+				"name": "Snow Rabbit and Candy Apple"
+			},
+			{
+				"id": "101173",
+				"name": "White Rabbit Welcomes the Spring"
+			},
+			{
+				"id": "101174",
+				"name": "Bunny Clerk?"
+			},
+			{
+				"id": "101175",
+				"name": "Picnic Adventure?"
+			},
+			{
+				"id": "101176",
+				"name": "Bunny Idol @Unmotivated"
+			},
+			{
+				"id": "101177",
+				"name": "Sleep to Clean Another Day"
+			},
+			{
+				"id": "101178",
+				"name": "White Rabbit's Oath"
+			},
+			{
+				"id": "101179",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "072",
+		"gid": 10701,
+		"name": "Langley",
+		"skins": [
+			{
+				"id": "107010",
+				"name": "Default"
+			},
+			{
+				"id": "107019",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "394",
+		"gid": 90111,
+		"name": "Le Malin",
+		"skins": [
+			{
+				"id": "901110",
+				"name": "Default"
+			},
+			{
+				"id": "901111",
+				"name": "Sleepy Sunday"
+			},
+			{
+				"id": "901112",
+				"name": "Mercredi at the Secret Base"
+			},
+			{
+				"id": "901113",
+				"name": "Listless Lapin"
+			}
+		]
+	},
+	{
+		"id": "481",
+		"gid": 90112,
+		"name": "Le Malin μ",
+		"skins": [
+			{
+				"id": "901120",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "351",
+		"gid": 90101,
+		"name": "Le Mars",
+		"skins": [
+			{
+				"id": "901010",
+				"name": "Default"
+			},
+			{
+				"id": "901011",
+				"name": "Été Brillant"
+			},
+			{
+				"id": "901012",
+				"name": "Écolière Heureuse"
+			},
+			{
+				"id": "901019",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "522",
+		"gid": 80107,
+		"name": "Le Terrible",
+		"skins": [
+			{
+				"id": "801070",
+				"name": "Default"
+			},
+			{
+				"id": "801071",
+				"name": "Silence, Slumber, and Solace"
+			}
+		]
+	},
+	{
+		"id": "347",
+		"gid": 80101,
+		"name": "Le Triomphant",
+		"skins": [
+			{
+				"id": "801010",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "359",
+		"gid": 80103,
+		"name": "Le Téméraire",
+		"skins": [
+			{
+				"id": "801030",
+				"name": "Default"
+			},
+			{
+				"id": "801031",
+				"name": "Summery Temeraire!"
+			},
+			{
+				"id": "801032",
+				"name": "Dreamy Dolce"
+			}
+		]
+	},
+	{
+		"id": "104",
+		"gid": 20201,
+		"name": "Leander",
+		"skins": [
+			{
+				"id": "202010",
+				"name": "Default"
+			},
+			{
+				"id": "202019",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "241",
+		"gid": 40204,
+		"name": "Leipzig",
+		"skins": [
+			{
+				"id": "402040",
+				"name": "Default"
+			},
+			{
+				"id": "402041",
+				"name": "Storefront Training"
+			},
+			{
+				"id": "402049",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "390",
+		"gid": 10219,
+		"name": "Lena",
+		"skins": [
+			{
+				"id": "102190",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "073",
+		"gid": 10702,
+		"name": "Lexington",
+		"skins": [
+			{
+				"id": "107020",
+				"name": "Default"
+			},
+			{
+				"id": "107021",
+				"name": "The Beauty of Spring"
+			}
+		]
+	},
+	{
+		"id": "392",
+		"gid": 10221,
+		"name": "Li'l Sandy",
+		"skins": [
+			{
+				"id": "102210",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "505",
+		"gid": 60105,
+		"name": "Libeccio",
+		"skins": [
+			{
+				"id": "601050",
+				"name": "Default"
+			},
+			{
+				"id": "601051",
+				"name": "Beachbound Southwestern Wind!"
+			}
+		]
+	},
+	{
+		"id": "335",
+		"gid": 20218,
+		"name": "Little Bel",
+		"skins": [
+			{
+				"id": "202180",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "516",
+		"gid": 10799,
+		"name": "Little Enterprise",
+		"skins": [
+			{
+				"id": "107990",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "459",
+		"gid": 20709,
+		"name": "Little Illustrious",
+		"skins": [
+			{
+				"id": "207090",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "549",
+		"gid": 40312,
+		"name": "Little Prinz Eugen",
+		"skins": [
+			{
+				"id": "403120",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "451",
+		"gid": 20404,
+		"name": "Little Renown",
+		"skins": [
+			{
+				"id": "204040",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "410",
+		"gid": 60502,
+		"name": "Littorio",
+		"skins": [
+			{
+				"id": "605020",
+				"name": "Default"
+			},
+			{
+				"id": "605021",
+				"name": "The Glory of Naples"
+			},
+			{
+				"id": "605022",
+				"name": "Calabria Aurea"
+			},
+			{
+				"id": "605023",
+				"name": "Lounging Emerald"
+			}
+		]
+	},
+	{
+		"id": "119",
+		"gid": 20301,
+		"name": "London",
+		"skins": [
+			{
+				"id": "203010",
+				"name": "Default"
+			},
+			{
+				"id": "203019",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "070",
+		"gid": 10601,
+		"name": "Long Island",
+		"skins": [
+			{
+				"id": "106010",
+				"name": "Default"
+			},
+			{
+				"id": "106011",
+				"name": "Long Island - Indoor Slacker"
+			},
+			{
+				"id": "106013",
+				"name": "Long Island's Spooky Stream"
+			},
+			{
+				"id": "106019",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "504",
+		"gid": 60104,
+		"name": "Maestrale",
+		"skins": [
+			{
+				"id": "601040",
+				"name": "Default"
+			},
+			{
+				"id": "601041",
+				"name": "Lonesome Beachfarer"
+			}
+		]
+	},
+	{
+		"id": "525",
+		"gid": 40206,
+		"name": "Magdeburg",
+		"skins": [
+			{
+				"id": "402060",
+				"name": "Default"
+			},
+			{
+				"id": "402061",
+				"name": "Cat Café Cleanup"
+			}
+		]
+	},
+	{
+		"id": "523",
+		"gid": 80108,
+		"name": "Maillé Brézé",
+		"skins": [
+			{
+				"id": "801080",
+				"name": "Default"
+			},
+			{
+				"id": "801081",
+				"name": "The Noble Knight's Last Stand"
+			}
+		]
+	},
+	{
+		"id": "Plan015",
+		"gid": 49903,
+		"name": "Mainz",
+		"skins": [
+			{
+				"id": "499030",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "370",
+		"gid": 30180,
+		"name": "Makinami",
+		"skins": [
+			{
+				"id": "301800",
+				"name": "Default"
+			},
+			{
+				"id": "301801",
+				"name": "Time for School!"
+			}
+		]
+	},
+	{
+		"id": "10077",
+		"gid": 1070007,
+		"name": "Mami Futami",
+		"skins": [
+			{
+				"id": "10700070",
+				"name": "Default"
+			},
+			{
+				"id": "10700071",
+				"name": "Alluring Festival"
+			}
+		]
+	},
+	{
+		"id": "448",
+		"gid": 10227,
+		"name": "Marblehead",
+		"skins": [
+			{
+				"id": "102270",
+				"name": "Default"
+			},
+			{
+				"id": "102271",
+				"name": "Boxing Girl!"
+			},
+			{
+				"id": "102272",
+				"name": "Charmer in the Snowy Reflection"
+			},
+			{
+				"id": "102273",
+				"name": "Moongazing on the 29½th"
+			}
+		]
+	},
+	{
+		"id": "Plan022",
+		"gid": 69901,
+		"name": "Marco Polo",
+		"skins": [
+			{
+				"id": "699010",
+				"name": "Default"
+			},
+			{
+				"id": "699011",
+				"name": "The Queen of Hearts"
+			}
+		]
+	},
+	{
+		"id": "10061",
+		"gid": 1060001,
+		"name": "Marie Rose",
+		"skins": [
+			{
+				"id": "10600010",
+				"name": "Default"
+			},
+			{
+				"id": "10600011",
+				"name": "Devilish Servant Against the Splashing Waves"
+			}
+		]
+	},
+	{
+		"id": "061",
+		"gid": 10510,
+		"name": "Maryland",
+		"skins": [
+			{
+				"id": "105100",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "354",
+		"gid": 10519,
+		"name": "Massachusetts",
+		"skins": [
+			{
+				"id": "105190",
+				"name": "Default"
+			},
+			{
+				"id": "105191",
+				"name": "Dressed to Impress"
+			}
+		]
+	},
+	{
+		"id": "325",
+		"gid": 20126,
+		"name": "Matchless",
+		"skins": [
+			{
+				"id": "201260",
+				"name": "Default"
+			},
+			{
+				"id": "201261",
+				"name": "Escort Me Please!"
+			}
+		]
+	},
+	{
+		"id": "270",
+		"gid": 30131,
+		"name": "Matsukaze",
+		"skins": [
+			{
+				"id": "301310",
+				"name": "Default"
+			},
+			{
+				"id": "301319",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "010",
+		"gid": 10108,
+		"name": "Maury",
+		"skins": [
+			{
+				"id": "101080",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "202",
+		"gid": 30313,
+		"name": "Maya",
+		"skins": [
+			{
+				"id": "303130",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "009",
+		"gid": 10107,
+		"name": "McCall",
+		"skins": [
+			{
+				"id": "101070",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "360",
+		"gid": 10216,
+		"name": "Memphis",
+		"skins": [
+			{
+				"id": "102160",
+				"name": "Default"
+			},
+			{
+				"id": "102161",
+				"name": "Casual Vacation"
+			},
+			{
+				"id": "102162",
+				"name": "Mystical Night"
+			},
+			{
+				"id": "102163",
+				"name": "A Breath of Fresh Air"
+			}
+		]
+	},
+	{
+		"id": "333",
+		"gid": 30165,
+		"name": "Michishio",
+		"skins": [
+			{
+				"id": "301650",
+				"name": "Default"
+			},
+			{
+				"id": "301651",
+				"name": "Fluttering Fanfare"
+			}
+		]
+	},
+	{
+		"id": "320",
+		"gid": 30511,
+		"name": "Mikasa",
+		"skins": [
+			{
+				"id": "305110",
+				"name": "Default"
+			},
+			{
+				"id": "305111",
+				"name": "Style of the Sakura Capital"
+			},
+			{
+				"id": "305112",
+				"name": "Blossom-Viewing Season"
+			},
+			{
+				"id": "305113",
+				"name": "Reverence for Rest and Relaxation"
+			},
+			{
+				"id": "305118",
+				"name": "Untarnished Splendor "
+			}
+		]
+	},
+	{
+		"id": "280",
+		"gid": 30141,
+		"name": "Mikazuki",
+		"skins": [
+			{
+				"id": "301410",
+				"name": "Default"
+			},
+			{
+				"id": "301411",
+				"name": "Sweet Zombie"
+			}
+		]
+	},
+	{
+		"id": "189",
+		"gid": 30211,
+		"name": "Mikuma",
+		"skins": [
+			{
+				"id": "302110",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "Collab053",
+		"gid": 1050003,
+		"name": "Minato Aqua",
+		"skins": [
+			{
+				"id": "10500030",
+				"name": "Default"
+			},
+			{
+				"id": "10500031",
+				"name": "Marine Maid"
+			}
+		]
+	},
+	{
+		"id": "276",
+		"gid": 30137,
+		"name": "Minazuki",
+		"skins": [
+			{
+				"id": "301370",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "364",
+		"gid": 10313,
+		"name": "Minneapolis",
+		"skins": [
+			{
+				"id": "103130",
+				"name": "Default"
+			},
+			{
+				"id": "103131",
+				"name": "Wild Huntress Schoolgirl"
+			},
+			{
+				"id": "103132",
+				"name": "eXtreme Games"
+			},
+			{
+				"id": "103133",
+				"name": "Holy Night Ride"
+			},
+			{
+				"id": "103138",
+				"name": "Trapper White"
+			}
+		]
+	},
+	{
+		"id": "432",
+		"gid": 70103,
+		"name": "Minsk",
+		"skins": [
+			{
+				"id": "701030",
+				"name": "Default"
+			},
+			{
+				"id": "701031",
+				"name": "Thunderous Jailor"
+			}
+		]
+	},
+	{
+		"id": "10064",
+		"gid": 1060004,
+		"name": "Misaki",
+		"skins": [
+			{
+				"id": "10600040",
+				"name": "Default"
+			},
+			{
+				"id": "10600041",
+				"name": "Golden Photoshoot"
+			}
+		]
+	},
+	{
+		"id": "188",
+		"gid": 30210,
+		"name": "Mogami",
+		"skins": [
+			{
+				"id": "302100",
+				"name": "Default"
+			},
+			{
+				"id": "302109",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "Plan002",
+		"gid": 29902,
+		"name": "Monarch",
+		"skins": [
+			{
+				"id": "299020",
+				"name": "Default"
+			},
+			{
+				"id": "299021",
+				"name": "White Warrick"
+			},
+			{
+				"id": "299022",
+				"name": "Black Gerard"
+			}
+		]
+	},
+	{
+		"id": "10067",
+		"gid": 1060007,
+		"name": "Monica",
+		"skins": [
+			{
+				"id": "10600070",
+				"name": "Default"
+			},
+			{
+				"id": "10600071",
+				"name": "The Ace of Hearts"
+			}
+		]
+	},
+	{
+		"id": "329",
+		"gid": 10214,
+		"name": "Montpelier",
+		"skins": [
+			{
+				"id": "102140",
+				"name": "Default"
+			},
+			{
+				"id": "102141",
+				"name": "Flower of the Snowy Night"
+			},
+			{
+				"id": "102142",
+				"name": "Persephone's Throne"
+			}
+		]
+	},
+	{
+		"id": "515",
+		"gid": 10147,
+		"name": "Morrison",
+		"skins": [
+			{
+				"id": "101470",
+				"name": "Default"
+			},
+			{
+				"id": "101471",
+				"name": "Sleeping Bunny"
+			}
+		]
+	},
+	{
+		"id": "10087",
+		"gid": 1080007,
+		"name": "Mujina",
+		"skins": [
+			{
+				"id": "10800070",
+				"name": "Default"
+			},
+			{
+				"id": "10800071",
+				"name": "Golden Promenade"
+			}
+		]
+	},
+	{
+		"id": "375",
+		"gid": 10139,
+		"name": "Mullany",
+		"skins": [
+			{
+				"id": "101390",
+				"name": "Default"
+			},
+			{
+				"id": "101392",
+				"name": "Eastern Etiquette"
+			}
+		]
+	},
+	{
+		"id": "Collab056",
+		"gid": 1050006,
+		"name": "Murasaki Shion",
+		"skins": [
+			{
+				"id": "10500060",
+				"name": "Default"
+			},
+			{
+				"id": "10500061",
+				"name": "Virtual Magician"
+			}
+		]
+	},
+	{
+		"id": "498",
+		"gid": 70206,
+		"name": "Murmansk",
+		"skins": [
+			{
+				"id": "702060",
+				"name": "Default"
+			},
+			{
+				"id": "702061",
+				"name": "Sceneries of Pure Snow"
+			}
+		]
+	},
+	{
+		"id": "326",
+		"gid": 20127,
+		"name": "Musketeer",
+		"skins": [
+			{
+				"id": "201270",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "213",
+		"gid": 30506,
+		"name": "Mutsu",
+		"skins": [
+			{
+				"id": "305060",
+				"name": "Default"
+			},
+			{
+				"id": "305061",
+				"name": "Warring States Warship"
+			}
+		]
+	},
+	{
+		"id": "271",
+		"gid": 30132,
+		"name": "Mutsuki",
+		"skins": [
+			{
+				"id": "301320",
+				"name": "Default"
+			},
+			{
+				"id": "301321",
+				"name": "Mr. Reindeer, Depart!"
+			},
+			{
+				"id": "301322",
+				"name": "Candy Festival!"
+			},
+			{
+				"id": "301323",
+				"name": "Spring Festival Sweets"
+			},
+			{
+				"id": "301329",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "196",
+		"gid": 30307,
+		"name": "Myoukou",
+		"skins": [
+			{
+				"id": "303070",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "197",
+		"gid": 30308,
+		"name": "Nachi",
+		"skins": [
+			{
+				"id": "303080",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "450",
+		"gid": 30183,
+		"name": "Naganami",
+		"skins": [
+			{
+				"id": "301830",
+				"name": "Default"
+			},
+			{
+				"id": "301831",
+				"name": "Long Waves of Happiness"
+			},
+			{
+				"id": "301832",
+				"name": "Long-Awaited Warmth"
+			},
+			{
+				"id": "301833",
+				"name": "Nestling Up for the Long Nights"
+			}
+		]
+	},
+	{
+		"id": "182",
+		"gid": 30204,
+		"name": "Nagara",
+		"skins": [
+			{
+				"id": "302040",
+				"name": "Default"
+			},
+			{
+				"id": "302041",
+				"name": "Spring Breeze Leisure"
+			}
+		]
+	},
+	{
+		"id": "212",
+		"gid": 30505,
+		"name": "Nagato",
+		"skins": [
+			{
+				"id": "305050",
+				"name": "Default"
+			},
+			{
+				"id": "305051",
+				"name": "Great Fox's Respite"
+			},
+			{
+				"id": "305052",
+				"name": "Guardian Fox's Shining Furisode"
+			},
+			{
+				"id": "305053",
+				"name": "Guardian Fox's Vacation"
+			},
+			{
+				"id": "305058",
+				"name": "Great Fox's White Gown"
+			}
+		]
+	},
+	{
+		"id": "278",
+		"gid": 30139,
+		"name": "Nagatsuki",
+		"skins": [
+			{
+				"id": "301390",
+				"name": "Default"
+			},
+			{
+				"id": "301391",
+				"name": "Dangerous Kitty Maid?"
+			}
+		]
+	},
+	{
+		"id": "10065",
+		"gid": 1060005,
+		"name": "Nagisa",
+		"skins": [
+			{
+				"id": "10600050",
+				"name": "Default"
+			},
+			{
+				"id": "10600051",
+				"name": "Blue Skies, Good Vibes"
+			}
+		]
+	},
+	{
+		"id": "310",
+		"gid": 30214,
+		"name": "Naka",
+		"skins": [
+			{
+				"id": "302140",
+				"name": "Default"
+			},
+			{
+				"id": "302141",
+				"name": "Foxy Summer Surfer"
+			}
+		]
+	},
+	{
+		"id": "Collab055",
+		"gid": 1050005,
+		"name": "Nakiri Ayame",
+		"skins": [
+			{
+				"id": "10500050",
+				"name": "Default"
+			},
+			{
+				"id": "10500051",
+				"name": "Summertime Nakiri"
+			}
+		]
+	},
+	{
+		"id": "10084",
+		"gid": 1080004,
+		"name": "Namiko",
+		"skins": [
+			{
+				"id": "10800040",
+				"name": "Default"
+			},
+			{
+				"id": "10800041",
+				"name": "Miss Street-Wise"
+			}
+		]
+	},
+	{
+		"id": "Collab054",
+		"gid": 1050004,
+		"name": "Natsuiro Matsuri",
+		"skins": [
+			{
+				"id": "10500040",
+				"name": "Default"
+			},
+			{
+				"id": "10500041",
+				"name": "Matsuri's Day Off"
+			}
+		]
+	},
+	{
+		"id": "519",
+		"gid": 10807,
+		"name": "Nautilus",
+		"skins": [
+			{
+				"id": "108070",
+				"name": "Default"
+			},
+			{
+				"id": "108071",
+				"name": "Afternoon Stretches"
+			}
+		]
+	},
+	{
+		"id": "Collab032",
+		"gid": 1030002,
+		"name": "Nekone",
+		"skins": []
+	},
+	{
+		"id": "132",
+		"gid": 20503,
+		"name": "Nelson",
+		"skins": [
+			{
+				"id": "205030",
+				"name": "Default"
+			},
+			{
+				"id": "205031",
+				"name": "Luna Witch"
+			},
+			{
+				"id": "205032",
+				"name": "Azure & Gold Summer Night"
+			}
+		]
+	},
+	{
+		"id": "Plan001",
+		"gid": 29901,
+		"name": "Neptune",
+		"skins": [
+			{
+				"id": "299010",
+				"name": "Default"
+			},
+			{
+				"id": "299011",
+				"name": "Princess of the Reindeers"
+			}
+		]
+	},
+	{
+		"id": "Collab001",
+		"gid": 1010001,
+		"name": "Neptune",
+		"skins": [
+			{
+				"id": "10100010",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "052",
+		"gid": 10501,
+		"name": "Nevada",
+		"skins": [
+			{
+				"id": "105010",
+				"name": "Default"
+			},
+			{
+				"id": "105019",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "068",
+		"gid": 10517,
+		"name": "New Jersey",
+		"skins": [
+			{
+				"id": "105170",
+				"name": "Default"
+			},
+			{
+				"id": "105171",
+				"name": "Exhilarating Steps!"
+			}
+		]
+	},
+	{
+		"id": "521",
+		"gid": 10312,
+		"name": "New Orleans",
+		"skins": [
+			{
+				"id": "103120",
+				"name": "Default"
+			},
+			{
+				"id": "103121",
+				"name": "Evening Agricole"
+			}
+		]
+	},
+	{
+		"id": "361",
+		"gid": 20219,
+		"name": "Newcastle",
+		"skins": [
+			{
+				"id": "202190",
+				"name": "Default"
+			},
+			{
+				"id": "202191",
+				"name": "Hibiscus Garments"
+			},
+			{
+				"id": "202199",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "301",
+		"gid": 10131,
+		"name": "Nicholas",
+		"skins": [
+			{
+				"id": "101310",
+				"name": "Default"
+			},
+			{
+				"id": "101311",
+				"name": "Nurse Nicholas"
+			},
+			{
+				"id": "101312",
+				"name": "Surprise!?"
+			},
+			{
+				"id": "101313",
+				"name": "Summer Cleaning \"Volunteer\""
+			},
+			{
+				"id": "101314",
+				"name": "After-School Promise"
+			},
+			{
+				"id": "101319",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "506",
+		"gid": 60106,
+		"name": "Nicoloso da Recco",
+		"skins": [
+			{
+				"id": "601060",
+				"name": "Default"
+			},
+			{
+				"id": "601061",
+				"name": "To a Smashing Voyage!"
+			}
+		]
+	},
+	{
+		"id": "295",
+		"gid": 30156,
+		"name": "Niizuki",
+		"skins": [
+			{
+				"id": "301560",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "258",
+		"gid": 50202,
+		"name": "Ning Hai",
+		"skins": [
+			{
+				"id": "502020",
+				"name": "Default"
+			},
+			{
+				"id": "502021",
+				"name": "Summer Hunger"
+			},
+			{
+				"id": "502022",
+				"name": "Moon Palace Rabbit"
+			},
+			{
+				"id": "502023",
+				"name": "Dragon Sisters! -N"
+			},
+			{
+				"id": "502024",
+				"name": "Springtime Sojourn"
+			},
+			{
+				"id": "502025",
+				"name": "Gorgeous Violet"
+			},
+			{
+				"id": "502026",
+				"name": "Da Bao's Friend!"
+			},
+			{
+				"id": "502029",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "Collab002",
+		"gid": 1010002,
+		"name": "Noire",
+		"skins": [
+			{
+				"id": "10100020",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "123",
+		"gid": 20305,
+		"name": "Norfolk",
+		"skins": [
+			{
+				"id": "203050",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "063",
+		"gid": 10512,
+		"name": "North Carolina",
+		"skins": [
+			{
+				"id": "105120",
+				"name": "Default"
+			},
+			{
+				"id": "105121",
+				"name": "The Heart's Desire"
+			}
+		]
+	},
+	{
+		"id": "041",
+		"gid": 10303,
+		"name": "Northampton",
+		"skins": [
+			{
+				"id": "103030",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "322",
+		"gid": 30221,
+		"name": "Noshiro",
+		"skins": [
+			{
+				"id": "302210",
+				"name": "Default"
+			},
+			{
+				"id": "302211",
+				"name": "Uncharted Festival Grounds?"
+			},
+			{
+				"id": "302212",
+				"name": "Xanadu's Eventide"
+			},
+			{
+				"id": "302213",
+				"name": "Fragrance of the Eastern Snow"
+			},
+			{
+				"id": "302214",
+				"name": "Cozy Enclave"
+			},
+			{
+				"id": "302215",
+				"name": "Hold the Ice"
+			},
+			{
+				"id": "302218",
+				"name": "A Tale of Two Lovers"
+			}
+		]
+	},
+	{
+		"id": "170",
+		"gid": 30120,
+		"name": "Nowaki",
+		"skins": [
+			{
+				"id": "301200",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "10066",
+		"gid": 1060006,
+		"name": "Nyotengu",
+		"skins": [
+			{
+				"id": "10600060",
+				"name": "Default"
+			},
+			{
+				"id": "10600061",
+				"name": "Scarlet-Tinged Hot Spring Vacation"
+			}
+		]
+	},
+	{
+		"id": "486",
+		"gid": 40205,
+		"name": "Nürnberg",
+		"skins": [
+			{
+				"id": "402050",
+				"name": "Default"
+			},
+			{
+				"id": "402051",
+				"name": "Spring Wanderer"
+			}
+		]
+	},
+	{
+		"id": "Plan016",
+		"gid": 49904,
+		"name": "Odin",
+		"skins": [
+			{
+				"id": "499040",
+				"name": "Default"
+			},
+			{
+				"id": "499041",
+				"name": "Black Strokes upon Blank Snow"
+			}
+		]
+	},
+	{
+		"id": "507",
+		"gid": 30185,
+		"name": "Oite",
+		"skins": [
+			{
+				"id": "301850",
+				"name": "Default"
+			},
+			{
+				"id": "301851",
+				"name": "Summer Dedication"
+			},
+			{
+				"id": "301852",
+				"name": "Jet Ink, Silver Quills"
+			}
+		]
+	},
+	{
+		"id": "053",
+		"gid": 10502,
+		"name": "Oklahoma",
+		"skins": [
+			{
+				"id": "105020",
+				"name": "Default"
+			},
+			{
+				"id": "105029",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "029",
+		"gid": 10201,
+		"name": "Omaha",
+		"skins": [
+			{
+				"id": "102010",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "332",
+		"gid": 30164,
+		"name": "Ooshio",
+		"skins": [
+			{
+				"id": "301640",
+				"name": "Default"
+			},
+			{
+				"id": "301641",
+				"name": "The Reindeer's Present"
+			},
+			{
+				"id": "301642",
+				"name": "Woozy Party"
+			},
+			{
+				"id": "301643",
+				"name": "Bringer of Fortunes"
+			},
+			{
+				"id": "301644",
+				"name": "Let's 'ave Lunch"
+			}
+		]
+	},
+	{
+		"id": "178",
+		"gid": 30128,
+		"name": "Oyashio",
+		"skins": [
+			{
+				"id": "301280",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "434",
+		"gid": 70202,
+		"name": "Pamiat' Merkuria",
+		"skins": [
+			{
+				"id": "702020",
+				"name": "Default"
+			},
+			{
+				"id": "702021",
+				"name": "Caged Minx"
+			},
+			{
+				"id": "702022",
+				"name": "Sweet Cherry Memories"
+			},
+			{
+				"id": "702029",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "495",
+		"gid": 20229,
+		"name": "Penelope",
+		"skins": [
+			{
+				"id": "202290",
+				"name": "Default"
+			},
+			{
+				"id": "202291",
+				"name": "Ruby-Red Boudoir"
+			},
+			{
+				"id": "202292",
+				"name": "Salty Maid"
+			}
+		]
+	},
+	{
+		"id": "054",
+		"gid": 10503,
+		"name": "Pennsylvania",
+		"skins": [
+			{
+				"id": "105030",
+				"name": "Default"
+			},
+			{
+				"id": "105031",
+				"name": "The Keystone General"
+			}
+		]
+	},
+	{
+		"id": "039",
+		"gid": 10301,
+		"name": "Pensacola",
+		"skins": [
+			{
+				"id": "103010",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "462",
+		"gid": 20606,
+		"name": "Perseus",
+		"skins": [
+			{
+				"id": "206060",
+				"name": "Perseus "
+			},
+			{
+				"id": "206061",
+				"name": "Unfamiliar Duties"
+			}
+		]
+	},
+	{
+		"id": "482",
+		"gid": 40703,
+		"name": "Peter Strasser",
+		"skins": [
+			{
+				"id": "407030",
+				"name": "Default"
+			},
+			{
+				"id": "407031",
+				"name": "Chronos's Kalendae"
+			},
+			{
+				"id": "407032",
+				"name": "A Moment Frozen in Pure White"
+			}
+		]
+	},
+	{
+		"id": "032",
+		"gid": 10204,
+		"name": "Phoenix",
+		"skins": [
+			{
+				"id": "102040",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "259",
+		"gid": 50203,
+		"name": "Ping Hai",
+		"skins": [
+			{
+				"id": "502030",
+				"name": "Default"
+			},
+			{
+				"id": "502031",
+				"name": "Summer Vacation"
+			},
+			{
+				"id": "502032",
+				"name": "Osmanthus Moon Rabbit"
+			},
+			{
+				"id": "502033",
+				"name": "Dragon Sisters! -P"
+			},
+			{
+				"id": "502034",
+				"name": "Great Gourmet Expedition"
+			},
+			{
+				"id": "502035",
+				"name": "Delicious Crimson"
+			},
+			{
+				"id": "502036",
+				"name": "Baobao's Buddy!"
+			},
+			{
+				"id": "502039",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "489",
+		"gid": 60303,
+		"name": "Pola",
+		"skins": [
+			{
+				"id": "603030",
+				"name": "Pola "
+			},
+			{
+				"id": "603031",
+				"name": "Seaside Coincidence"
+			}
+		]
+	},
+	{
+		"id": "541",
+		"gid": 60107,
+		"name": "Pompeo Magno",
+		"skins": [
+			{
+				"id": "601070",
+				"name": "Default"
+			},
+			{
+				"id": "601071",
+				"name": "Quaver Daydream"
+			}
+		]
+	},
+	{
+		"id": "044",
+		"gid": 10306,
+		"name": "Portland",
+		"skins": [
+			{
+				"id": "103060",
+				"name": "Default"
+			},
+			{
+				"id": "103061",
+				"name": "At School With Indy!"
+			},
+			{
+				"id": "103069",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "135",
+		"gid": 20506,
+		"name": "Prince of Wales",
+		"skins": [
+			{
+				"id": "205060",
+				"name": "Default"
+			},
+			{
+				"id": "205061",
+				"name": "Sun Shining Upon Windsor"
+			},
+			{
+				"id": "205062",
+				"name": "Sakura Elegance"
+			},
+			{
+				"id": "205064",
+				"name": "The Laureate's Victory Lap"
+			}
+		]
+	},
+	{
+		"id": "473",
+		"gid": 10723,
+		"name": "Princeton",
+		"skins": [
+			{
+				"id": "107230",
+				"name": "Princeton "
+			},
+			{
+				"id": "107231",
+				"name": "Seaside Training "
+			},
+			{
+				"id": "107232",
+				"name": "Lolipop Paradise"
+			}
+		]
+	},
+	{
+		"id": "527",
+		"gid": 40310,
+		"name": "Prinz Adalbert",
+		"skins": [
+			{
+				"id": "403100",
+				"name": "Default"
+			},
+			{
+				"id": "403101",
+				"name": "After-Hours Service"
+			}
+		]
+	},
+	{
+		"id": "244",
+		"gid": 40303,
+		"name": "Prinz Eugen",
+		"skins": [
+			{
+				"id": "403030",
+				"name": "Default"
+			},
+			{
+				"id": "403031",
+				"name": "Unfading Smile"
+			},
+			{
+				"id": "403032",
+				"name": "Profusion of Flowers"
+			},
+			{
+				"id": "403033",
+				"name": "Cordial Cornflower"
+			},
+			{
+				"id": "403034",
+				"name": "Final Lap"
+			},
+			{
+				"id": "403038",
+				"name": "Symphonic Fate"
+			}
+		]
+	},
+	{
+		"id": "483",
+		"gid": 40309,
+		"name": "Prinz Heinrich",
+		"skins": [
+			{
+				"id": "403090",
+				"name": "Default"
+			},
+			{
+				"id": "403091",
+				"name": "Fireworks and Tapestries"
+			}
+		]
+	},
+	{
+		"id": "002",
+		"gid": 10001,
+		"name": "Prototype Bulin MKII",
+		"skins": [
+			{
+				"id": "100010",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "Collab005",
+		"gid": 1010005,
+		"name": "Purple Heart",
+		"skins": [
+			{
+				"id": "10100050",
+				"name": "Default"
+			},
+			{
+				"id": "10100051",
+				"name": "Goddesses' Promise"
+			}
+		]
+	},
+	{
+		"id": "130",
+		"gid": 20501,
+		"name": "Queen Elizabeth",
+		"skins": [
+			{
+				"id": "205010",
+				"name": "Default"
+			},
+			{
+				"id": "205011",
+				"name": "The Queen's Ball"
+			},
+			{
+				"id": "205012",
+				"name": "One Night of the Queen"
+			},
+			{
+				"id": "205013",
+				"name": "Queen of the Campus"
+			},
+			{
+				"id": "205014",
+				"name": "Crown Jewel of the Royal Navy"
+			},
+			{
+				"id": "205015",
+				"name": "Yes, Your Maidness!"
+			}
+		]
+	},
+	{
+		"id": "047",
+		"gid": 10309,
+		"name": "Quincy",
+		"skins": [
+			{
+				"id": "103090",
+				"name": "Default"
+			},
+			{
+				"id": "103091",
+				"name": "Sizzling Summer, Brisk Breeze"
+			}
+		]
+	},
+	{
+		"id": "299",
+		"gid": 10129,
+		"name": "Radford",
+		"skins": [
+			{
+				"id": "101290",
+				"name": "Default"
+			},
+			{
+				"id": "101291",
+				"name": "Sweet Magic!"
+			}
+		]
+	},
+	{
+		"id": "030",
+		"gid": 10202,
+		"name": "Raleigh",
+		"skins": [
+			{
+				"id": "102020",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "075",
+		"gid": 10704,
+		"name": "Ranger",
+		"skins": [
+			{
+				"id": "107040",
+				"name": "Default"
+			},
+			{
+				"id": "107049",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "445",
+		"gid": 10226,
+		"name": "Reno",
+		"skins": [
+			{
+				"id": "102260",
+				"name": "Default"
+			},
+			{
+				"id": "102261",
+				"name": "Biggest Little Cheerleader"
+			},
+			{
+				"id": "102262",
+				"name": "Summer Spin-off"
+			},
+			{
+				"id": "102263",
+				"name": "Reno Bunnino"
+			},
+			{
+				"id": "102264",
+				"name": "Spring's Inspiration"
+			}
+		]
+	},
+	{
+		"id": "127",
+		"gid": 20401,
+		"name": "Renown",
+		"skins": [
+			{
+				"id": "204010",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "128",
+		"gid": 20402,
+		"name": "Repulse",
+		"skins": [
+			{
+				"id": "204020",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "453",
+		"gid": 80501,
+		"name": "Richelieu",
+		"skins": [
+			{
+				"id": "805010",
+				"name": "Default"
+			},
+			{
+				"id": "805011",
+				"name": "Fleuron of the Waves"
+			},
+			{
+				"id": "805012",
+				"name": "Evergreen Prophecy"
+			}
+		]
+	},
+	{
+		"id": "303",
+		"gid": 10211,
+		"name": "Richmond",
+		"skins": [
+			{
+				"id": "102110",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "10081",
+		"gid": 1080001,
+		"name": "Rikka Takarada",
+		"skins": [
+			{
+				"id": "10800010",
+				"name": "Default"
+			},
+			{
+				"id": "10800011",
+				"name": "Blue Sky Station"
+			}
+		]
+	},
+	{
+		"id": "10075",
+		"gid": 1070005,
+		"name": "Ritsuko Akizuki",
+		"skins": [
+			{
+				"id": "10700050",
+				"name": "Default"
+			},
+			{
+				"id": "10700051",
+				"name": "Paddle Showdown - Summer Formation"
+			}
+		]
+	},
+	{
+		"id": "133",
+		"gid": 20504,
+		"name": "Rodney",
+		"skins": [
+			{
+				"id": "205040",
+				"name": "Default"
+			},
+			{
+				"id": "205041",
+				"name": "Future Seaside Admiral"
+			},
+			{
+				"id": "205043",
+				"name": "Immaculate Beauty"
+			},
+			{
+				"id": "205048",
+				"name": "Palace of Blessings"
+			}
+		]
+	},
+	{
+		"id": "Plan005",
+		"gid": 49901,
+		"name": "Roon",
+		"skins": [
+			{
+				"id": "499010",
+				"name": "Default"
+			},
+			{
+				"id": "499011",
+				"name": "Dark Red Grin"
+			}
+		]
+	},
+	{
+		"id": "479",
+		"gid": 40308,
+		"name": "Roon μ",
+		"skins": [
+			{
+				"id": "403080",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "30002",
+		"gid": 970702,
+		"name": "Royal.META",
+		"skins": [
+			{
+				"id": "9707020",
+				"name": "Ark Royal META"
+			}
+		]
+	},
+	{
+		"id": "Collab033",
+		"gid": 1030003,
+		"name": "Rurutie",
+		"skins": []
+	},
+	{
+		"id": "426",
+		"gid": 30607,
+		"name": "Ryuuhou",
+		"skins": [
+			{
+				"id": "306070",
+				"name": "Default"
+			},
+			{
+				"id": "306071",
+				"name": "Firebird's New Year Dance"
+			}
+		]
+	},
+	{
+		"id": "223",
+		"gid": 30606,
+		"name": "Ryuujou",
+		"skins": [
+			{
+				"id": "306060",
+				"name": "Default"
+			},
+			{
+				"id": "306061",
+				"name": "Slacking Samurai"
+			},
+			{
+				"id": "306062",
+				"name": "Dragon Hunter: Ryuujou's Rise"
+			}
+		]
+	},
+	{
+		"id": "Plan006",
+		"gid": 89901,
+		"name": "Saint Louis",
+		"skins": [
+			{
+				"id": "899010",
+				"name": "Default"
+			},
+			{
+				"id": "899011",
+				"name": "Holy Knight's Resplendence"
+			},
+			{
+				"id": "899012",
+				"name": "Alluring Administrator"
+			}
+		]
+	},
+	{
+		"id": "040",
+		"gid": 10302,
+		"name": "Salt Lake City",
+		"skins": [
+			{
+				"id": "103020",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "036",
+		"gid": 10208,
+		"name": "San Diego",
+		"skins": [
+			{
+				"id": "102080",
+				"name": "Default"
+			},
+			{
+				"id": "102081",
+				"name": "Sandy Claus"
+			},
+			{
+				"id": "102088",
+				"name": "No. 1 June Bride!"
+			},
+			{
+				"id": "102089",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "512",
+		"gid": 10314,
+		"name": "San Francisco",
+		"skins": [
+			{
+				"id": "103140",
+				"name": "Default"
+			},
+			{
+				"id": "103141",
+				"name": "Funny Bunny!"
+			}
+		]
+	},
+	{
+		"id": "404",
+		"gid": 10222,
+		"name": "San Juan",
+		"skins": [
+			{
+				"id": "102220",
+				"name": "Default"
+			},
+			{
+				"id": "102221",
+				"name": "The Longing Princess"
+			}
+		]
+	},
+	{
+		"id": "Collab035",
+		"gid": 1030005,
+		"name": "Saraana",
+		"skins": []
+	},
+	{
+		"id": "074",
+		"gid": 10703,
+		"name": "Saratoga",
+		"skins": [
+			{
+				"id": "107030",
+				"name": "Default"
+			},
+			{
+				"id": "107031",
+				"name": "Seven Seas of Rest"
+			},
+			{
+				"id": "107032",
+				"name": "Hibiscus-scented Idol"
+			},
+			{
+				"id": "107033",
+				"name": "Virtual Idol"
+			},
+			{
+				"id": "107034",
+				"name": "Superstar of the Blue Seas"
+			},
+			{
+				"id": "107035",
+				"name": "Silent Night Songstress"
+			},
+			{
+				"id": "107036",
+				"name": "Spring's Opening Act!"
+			},
+			{
+				"id": "107037",
+				"name": "The Sweetest Picnic!"
+			},
+			{
+				"id": "107039",
+				"name": "Retrofit"
+			},
+			{
+				"id": "137030",
+				"name": "Cup Ramen Ambassador?"
+			}
+		]
+	},
+	{
+		"id": "248",
+		"gid": 40401,
+		"name": "Scharnhorst",
+		"skins": [
+			{
+				"id": "404010",
+				"name": "Default"
+			},
+			{
+				"id": "404011",
+				"name": "Panther und Pflaume"
+			}
+		]
+	},
+	{
+		"id": "30009",
+		"gid": 970402,
+		"name": "Scharnhorst META",
+		"skins": [
+			{
+				"id": "9704020",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "Plan007",
+		"gid": 19901,
+		"name": "Seattle",
+		"skins": [
+			{
+				"id": "199010",
+				"name": "Default"
+			},
+			{
+				"id": "199011",
+				"name": "Gorgeous Party"
+			},
+			{
+				"id": "199012",
+				"name": "Christmas Party Prep!"
+			},
+			{
+				"id": "199013",
+				"name": "Sunfish Spell!"
+			}
+		]
+	},
+	{
+		"id": "308",
+		"gid": 30212,
+		"name": "Sendai",
+		"skins": [
+			{
+				"id": "302120",
+				"name": "Default"
+			},
+			{
+				"id": "302129",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "378",
+		"gid": 10738,
+		"name": "Shangri-La",
+		"skins": [
+			{
+				"id": "107380",
+				"name": "Default"
+			},
+			{
+				"id": "107381",
+				"name": "Utopia's Collector"
+			},
+			{
+				"id": "107382",
+				"name": "Explorer of the Lost World"
+			}
+		]
+	},
+	{
+		"id": "111",
+		"gid": 20208,
+		"name": "Sheffield",
+		"skins": [
+			{
+				"id": "202080",
+				"name": "Default"
+			},
+			{
+				"id": "202081",
+				"name": "Cloak and Dagger"
+			},
+			{
+				"id": "202082",
+				"name": "A Moment's Respite"
+			},
+			{
+				"id": "202083",
+				"name": "Black Crow's Finery"
+			},
+			{
+				"id": "202084",
+				"name": "Bulletborne"
+			}
+		]
+	},
+	{
+		"id": "421",
+		"gid": 20225,
+		"name": "Sheffield μ",
+		"skins": [
+			{
+				"id": "202250",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "165",
+		"gid": 30115,
+		"name": "Shigure",
+		"skins": [
+			{
+				"id": "301150",
+				"name": "Default"
+			},
+			{
+				"id": "301151",
+				"name": "Attack, I-490!"
+			},
+			{
+				"id": "301152",
+				"name": "The Ballroom's Lucky Star"
+			},
+			{
+				"id": "301153",
+				"name": "Lucky Chocolate"
+			},
+			{
+				"id": "301159",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "268",
+		"gid": 30129,
+		"name": "Shimakaze",
+		"skins": [
+			{
+				"id": "301290",
+				"name": "Default"
+			},
+			{
+				"id": "301291",
+				"name": "World's Speediest Bunny Waitress"
+			}
+		]
+	},
+	{
+		"id": "231",
+		"gid": 30708,
+		"name": "Shinano",
+		"skins": [
+			{
+				"id": "307080",
+				"name": "Shinano "
+			},
+			{
+				"id": "307081",
+				"name": "Dreams of the Hazy Moon"
+			}
+		]
+	},
+	{
+		"id": "Collab051",
+		"gid": 1050001,
+		"name": "Shirakami Fubuki",
+		"skins": [
+			{
+				"id": "10500010",
+				"name": "Default"
+			},
+			{
+				"id": "10500011",
+				"name": "Beachside Fox"
+			}
+		]
+	},
+	{
+		"id": "168",
+		"gid": 30118,
+		"name": "Shiranui",
+		"skins": [
+			{
+				"id": "301180",
+				"name": "Default"
+			},
+			{
+				"id": "301181",
+				"name": "Mooncake Merchant"
+			},
+			{
+				"id": "301189",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "163",
+		"gid": 30113,
+		"name": "Shiratsuyu",
+		"skins": [
+			{
+				"id": "301130",
+				"name": "Default"
+			},
+			{
+				"id": "301131",
+				"name": "Is The Order A Torpedo?"
+			}
+		]
+	},
+	{
+		"id": "152",
+		"gid": 30102,
+		"name": "Shirayuki",
+		"skins": [
+			{
+				"id": "301020",
+				"name": "Default"
+			},
+			{
+				"id": "301021",
+				"name": "Bunny Breeder"
+			}
+		]
+	},
+	{
+		"id": "222",
+		"gid": 30605,
+		"name": "Shouhou",
+		"skins": [
+			{
+				"id": "306050",
+				"name": "{namecode:87}"
+			},
+			{
+				"id": "306051",
+				"name": "Patrolling Witch"
+			},
+			{
+				"id": "306059",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "228",
+		"gid": 30705,
+		"name": "Shoukaku",
+		"skins": [
+			{
+				"id": "307050",
+				"name": "Default"
+			},
+			{
+				"id": "307051",
+				"name": "The Crane that Dances With the Wind"
+			},
+			{
+				"id": "307052",
+				"name": "Sororal Wings"
+			}
+		]
+	},
+	{
+		"id": "120",
+		"gid": 20302,
+		"name": "Shropshire",
+		"skins": [
+			{
+				"id": "203020",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "026",
+		"gid": 10124,
+		"name": "Sims",
+		"skins": [
+			{
+				"id": "101240",
+				"name": "Default"
+			},
+			{
+				"id": "101249",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "371",
+		"gid": 20220,
+		"name": "Sirius",
+		"skins": [
+			{
+				"id": "202200",
+				"name": "Default"
+			},
+			{
+				"id": "202201",
+				"name": "White Rose"
+			},
+			{
+				"id": "202202",
+				"name": "Scorching-Hot Seirios"
+			},
+			{
+				"id": "202203",
+				"name": "Azure Horizons"
+			}
+		]
+	},
+	{
+		"id": "417",
+		"gid": 10142,
+		"name": "Smalley",
+		"skins": [
+			{
+				"id": "101420",
+				"name": "Default"
+			},
+			{
+				"id": "101421",
+				"name": "Candy Courier"
+			}
+		]
+	},
+	{
+		"id": "537",
+		"gid": 70109,
+		"name": "Soobrazitelny",
+		"skins": [
+			{
+				"id": "701090",
+				"name": "Default"
+			},
+			{
+				"id": "701091",
+				"name": "The Machinery of Life"
+			}
+		]
+	},
+	{
+		"id": "226",
+		"gid": 30703,
+		"name": "Souryuu",
+		"skins": [
+			{
+				"id": "307030",
+				"name": "Default"
+			},
+			{
+				"id": "307031",
+				"name": "The Crane Amidst the Pines"
+			},
+			{
+				"id": "307032",
+				"name": "The Counselor Girl"
+			},
+			{
+				"id": "307039",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "30004",
+		"gid": 970703,
+		"name": "Souryuu META",
+		"skins": [
+			{
+				"id": "9707030",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "065",
+		"gid": 10514,
+		"name": "South Dakota",
+		"skins": [
+			{
+				"id": "105140",
+				"name": "Default"
+			},
+			{
+				"id": "105141",
+				"name": "Solo Concert"
+			}
+		]
+	},
+	{
+		"id": "110",
+		"gid": 20207,
+		"name": "Southampton",
+		"skins": [
+			{
+				"id": "202070",
+				"name": "Default"
+			},
+			{
+				"id": "202071",
+				"name": "New Year's Little Knight"
+			},
+			{
+				"id": "202072",
+				"name": "Afternoon Impromptu"
+			}
+		]
+	},
+	{
+		"id": "440",
+		"gid": 70504,
+		"name": "Sovetskaya Belorussiya",
+		"skins": [
+			{
+				"id": "705040",
+				"name": "Default"
+			},
+			{
+				"id": "705041",
+				"name": "Relaxation Stratagem"
+			}
+		]
+	},
+	{
+		"id": "441",
+		"gid": 70505,
+		"name": "Sovetskaya Rossiya",
+		"skins": [
+			{
+				"id": "705050",
+				"name": "Default"
+			},
+			{
+				"id": "705051",
+				"name": "The Lackadaisical Lookout"
+			}
+		]
+	},
+	{
+		"id": "003",
+		"gid": 10002,
+		"name": "Specialized Bulin Custom MKIII",
+		"skins": [
+			{
+				"id": "100020",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "017",
+		"gid": 10115,
+		"name": "Spence",
+		"skins": [
+			{
+				"id": "101150",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "305",
+		"gid": 10213,
+		"name": "St. Louis",
+		"skins": [
+			{
+				"id": "102130",
+				"name": "Default"
+			},
+			{
+				"id": "102131",
+				"name": "Blue and White Pottery"
+			},
+			{
+				"id": "102132",
+				"name": "Spirits in the Snow"
+			},
+			{
+				"id": "102133",
+				"name": "Luxurious Wheels"
+			}
+		]
+	},
+	{
+		"id": "409",
+		"gid": 10141,
+		"name": "Stanly",
+		"skins": [
+			{
+				"id": "101410",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "509",
+		"gid": 10146,
+		"name": "Stephen Potter",
+		"skins": [
+			{
+				"id": "101460",
+				"name": "Default"
+			},
+			{
+				"id": "101461",
+				"name": "Chillaxation Station"
+			}
+		]
+	},
+	{
+		"id": "491",
+		"gid": 70106,
+		"name": "Stremitelny",
+		"skins": [
+			{
+				"id": "701060",
+				"name": "Stremitelny "
+			},
+			{
+				"id": "701061",
+				"name": "No Snow No Life"
+			}
+		]
+	},
+	{
+		"id": "122",
+		"gid": 20304,
+		"name": "Suffolk",
+		"skins": [
+			{
+				"id": "203040",
+				"name": "Default"
+			},
+			{
+				"id": "203049",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "Collab044",
+		"gid": 1040004,
+		"name": "Super Gamer Kizuna AI",
+		"skins": [
+			{
+				"id": "10400040",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "350",
+		"gid": 80801,
+		"name": "Surcouf",
+		"skins": [
+			{
+				"id": "808010",
+				"name": "Default"
+			},
+			{
+				"id": "808011",
+				"name": "Shopping Time!"
+			},
+			{
+				"id": "808012",
+				"name": "Loisirs Balnéaires"
+			}
+		]
+	},
+	{
+		"id": "425",
+		"gid": 30514,
+		"name": "Suruga",
+		"skins": [
+			{
+				"id": "305140",
+				"name": "Default"
+			},
+			{
+				"id": "305141",
+				"name": "Hundred Flowers' Auspice"
+			},
+			{
+				"id": "305142",
+				"name": "Straightfaced Model Student"
+			},
+			{
+				"id": "305143",
+				"name": "Uneventful Holiday Greetings"
+			}
+		]
+	},
+	{
+		"id": "337",
+		"gid": 20309,
+		"name": "Sussex",
+		"skins": [
+			{
+				"id": "203090",
+				"name": "Default"
+			},
+			{
+				"id": "203091",
+				"name": "Sunlit Tulips"
+			},
+			{
+				"id": "203092",
+				"name": "Wine and Red Roses"
+			}
+		]
+	},
+	{
+		"id": "468",
+		"gid": 30184,
+		"name": "Suzutsuki",
+		"skins": [
+			{
+				"id": "301840",
+				"name": "Suzutsuki "
+			},
+			{
+				"id": "301841",
+				"name": "Suzutsuki, Beachside Attendant! "
+			},
+			{
+				"id": "301842",
+				"name": "Suzutsuki, Hanetsuki Adept!"
+			}
+		]
+	},
+	{
+		"id": "382",
+		"gid": 30317,
+		"name": "Suzuya",
+		"skins": [
+			{
+				"id": "303170",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "393",
+		"gid": 20223,
+		"name": "Swiftsure",
+		"skins": [
+			{
+				"id": "202230",
+				"name": "Default"
+			},
+			{
+				"id": "202231",
+				"name": "Study Hall Cyclamen"
+			},
+			{
+				"id": "202232",
+				"name": "Beauty of White Jade"
+			},
+			{
+				"id": "202233",
+				"name": "Midsummer Special Service"
+			}
+		]
+	},
+	{
+		"id": "256",
+		"gid": 50104,
+		"name": "Tai Yuan",
+		"skins": [
+			{
+				"id": "501040",
+				"name": "Default"
+			},
+			{
+				"id": "501041",
+				"name": "The Golden Dragon's Festivities"
+			}
+		]
+	},
+	{
+		"id": "230",
+		"gid": 30707,
+		"name": "Taihou",
+		"skins": [
+			{
+				"id": "307070",
+				"name": "Default"
+			},
+			{
+				"id": "307071",
+				"name": "Forbidden Fruit"
+			},
+			{
+				"id": "307072",
+				"name": "Phoenix's Spring Song"
+			},
+			{
+				"id": "307073",
+				"name": "Enraptured Companion"
+			},
+			{
+				"id": "307078",
+				"name": "Temptation on the Sea Breeze"
+			}
+		]
+	},
+	{
+		"id": "474",
+		"gid": 30711,
+		"name": "Taihou μ",
+		"skins": [
+			{
+				"id": "307110",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "200",
+		"gid": 30311,
+		"name": "Takao",
+		"skins": [
+			{
+				"id": "303110",
+				"name": "Default"
+			},
+			{
+				"id": "303112",
+				"name": "Beach Rhapsody"
+			},
+			{
+				"id": "303113",
+				"name": "The Lessons of Spring"
+			},
+			{
+				"id": "303114",
+				"name": "School Romanza"
+			},
+			{
+				"id": "303115",
+				"name": "Full Throttle Charmer"
+			},
+			{
+				"id": "303118",
+				"name": "Sakura Hanami"
+			}
+		]
+	},
+	{
+		"id": "496",
+		"gid": 70301,
+		"name": "Tallinn",
+		"skins": [
+			{
+				"id": "703010",
+				"name": "Default"
+			},
+			{
+				"id": "703011",
+				"name": "Nostalgic Pilsner"
+			},
+			{
+				"id": "703012",
+				"name": "As You Say, Ma'am!"
+			}
+		]
+	},
+	{
+		"id": "319",
+		"gid": 30162,
+		"name": "Tanikaze",
+		"skins": [
+			{
+				"id": "301620",
+				"name": "Default"
+			},
+			{
+				"id": "301621",
+				"name": "Lost Girl and Labyrinth Butterfly"
+			},
+			{
+				"id": "301629",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "452",
+		"gid": 90102,
+		"name": "Tartu",
+		"skins": [
+			{
+				"id": "901020",
+				"name": "Default"
+			},
+			{
+				"id": "901021",
+				"name": "Overthinking Summer"
+			}
+		]
+	},
+	{
+		"id": "433",
+		"gid": 70104,
+		"name": "Tashkent",
+		"skins": [
+			{
+				"id": "701040",
+				"name": "Default"
+			},
+			{
+				"id": "701041",
+				"name": "The Bound Cruiser"
+			},
+			{
+				"id": "701042",
+				"name": "The Blue Snoozer"
+			}
+		]
+	},
+	{
+		"id": "475",
+		"gid": 70105,
+		"name": "Tashkent μ",
+		"skins": [
+			{
+				"id": "701050",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "058",
+		"gid": 10507,
+		"name": "Tennessee",
+		"skins": [
+			{
+				"id": "105070",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "150",
+		"gid": 21302,
+		"name": "Terror",
+		"skins": [
+			{
+				"id": "213020",
+				"name": "Default"
+			},
+			{
+				"id": "213021",
+				"name": "Halloween Terror"
+			}
+		]
+	},
+	{
+		"id": "014",
+		"gid": 10112,
+		"name": "Thatcher",
+		"skins": [
+			{
+				"id": "101120",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "511",
+		"gid": 10714,
+		"name": "Ticonderoga",
+		"skins": [
+			{
+				"id": "107140",
+				"name": "Default"
+			},
+			{
+				"id": "107141",
+				"name": "Show Stopper!"
+			}
+		]
+	},
+	{
+		"id": "251",
+		"gid": 40502,
+		"name": "Tirpitz",
+		"skins": [
+			{
+				"id": "405020",
+				"name": "Default"
+			},
+			{
+				"id": "405021",
+				"name": "Snow-Melting Summer"
+			},
+			{
+				"id": "405022",
+				"name": "Iron Blood Snowstorm"
+			},
+			{
+				"id": "405023",
+				"name": "Seasonal Pine and the Frost Flower"
+			}
+		]
+	},
+	{
+		"id": "Collab052",
+		"gid": 1050002,
+		"name": "Tokino Sora",
+		"skins": [
+			{
+				"id": "10500020",
+				"name": "Default"
+			},
+			{
+				"id": "10500021",
+				"name": "Under the Clear Sky"
+			}
+		]
+	},
+	{
+		"id": "503",
+		"gid": 60801,
+		"name": "Torricelli",
+		"skins": [
+			{
+				"id": "608010",
+				"name": "Default"
+			},
+			{
+				"id": "608011",
+				"name": "Shady Seaside"
+			}
+		]
+	},
+	{
+		"id": "215",
+		"gid": 30508,
+		"name": "Tosa",
+		"skins": [
+			{
+				"id": "305080",
+				"name": "Default"
+			},
+			{
+				"id": "305081",
+				"name": "Hometown Zest"
+			}
+		]
+	},
+	{
+		"id": "414",
+		"gid": 60301,
+		"name": "Trento",
+		"skins": [
+			{
+				"id": "603010",
+				"name": "Default"
+			},
+			{
+				"id": "603011",
+				"name": "Summer's Hotness?"
+			}
+		]
+	},
+	{
+		"id": "542",
+		"gid": 60304,
+		"name": "Trieste",
+		"skins": [
+			{
+				"id": "603040",
+				"name": "Default"
+			},
+			{
+				"id": "603041",
+				"name": "Rooftop Lunch Break"
+			}
+		]
+	},
+	{
+		"id": "399",
+		"gid": 40806,
+		"name": "U-101",
+		"skins": [
+			{
+				"id": "408060",
+				"name": "Default"
+			},
+			{
+				"id": "408061",
+				"name": "Ironbrass Trombonist"
+			}
+		]
+	},
+	{
+		"id": "416",
+		"gid": 40808,
+		"name": "U-110",
+		"skins": [
+			{
+				"id": "408080",
+				"name": "Default"
+			},
+			{
+				"id": "408081",
+				"name": "Kleiner Hai"
+			},
+			{
+				"id": "408082",
+				"name": "A Cute, Sharky Reverie"
+			},
+			{
+				"id": "408083",
+				"name": "Garnished Supershark"
+			},
+			{
+				"id": "408084",
+				"name": "New Year, Small Shark"
+			}
+		]
+	},
+	{
+		"id": "528",
+		"gid": 40812,
+		"name": "U-1206",
+		"skins": [
+			{
+				"id": "408120",
+				"name": "Default"
+			},
+			{
+				"id": "408121",
+				"name": "Maid Just for You"
+			}
+		]
+	},
+	{
+		"id": "484",
+		"gid": 40810,
+		"name": "U-37",
+		"skins": [
+			{
+				"id": "408100",
+				"name": "Default"
+			},
+			{
+				"id": "408101",
+				"name": "New Year's Nightingale"
+			}
+		]
+	},
+	{
+		"id": "492",
+		"gid": 40811,
+		"name": "U-410",
+		"skins": [
+			{
+				"id": "408110",
+				"name": "Default"
+			},
+			{
+				"id": "408111",
+				"name": "Spring Festival Scheme"
+			}
+		]
+	},
+	{
+		"id": "343",
+		"gid": 40802,
+		"name": "U-47",
+		"skins": [
+			{
+				"id": "408020",
+				"name": "Default"
+			},
+			{
+				"id": "408021",
+				"name": "Rookie Rider"
+			},
+			{
+				"id": "408022",
+				"name": "Eigenen Raum"
+			},
+			{
+				"id": "408023",
+				"name": "Urban Maid"
+			},
+			{
+				"id": "408024",
+				"name": "Sanguine Moon Sojourn"
+			}
+		]
+	},
+	{
+		"id": "400",
+		"gid": 40807,
+		"name": "U-522",
+		"skins": [
+			{
+				"id": "408070",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "386",
+		"gid": 40804,
+		"name": "U-556",
+		"skins": [
+			{
+				"id": "408040",
+				"name": "Default"
+			},
+			{
+				"id": "408041",
+				"name": "Party Knight!"
+			}
+		]
+	},
+	{
+		"id": "344",
+		"gid": 40803,
+		"name": "U-557",
+		"skins": [
+			{
+				"id": "408030",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "387",
+		"gid": 40805,
+		"name": "U-73",
+		"skins": [
+			{
+				"id": "408050",
+				"name": "Default"
+			},
+			{
+				"id": "408051",
+				"name": "Science Rules!"
+			},
+			{
+				"id": "408052",
+				"name": "New Year's Chemistry"
+			}
+		]
+	},
+	{
+		"id": "341",
+		"gid": 40801,
+		"name": "U-81",
+		"skins": [
+			{
+				"id": "408010",
+				"name": "U81"
+			},
+			{
+				"id": "408011",
+				"name": "Soft Serenade"
+			}
+		]
+	},
+	{
+		"id": "467",
+		"gid": 40809,
+		"name": "U-96",
+		"skins": [
+			{
+				"id": "408090",
+				"name": "Default"
+			},
+			{
+				"id": "408091",
+				"name": "Secret Gaming Session "
+			}
+		]
+	},
+	{
+		"id": "529",
+		"gid": 40503,
+		"name": "Ulrich von Hutten",
+		"skins": [
+			{
+				"id": "405030",
+				"name": "Default"
+			},
+			{
+				"id": "405031",
+				"name": "Mayhem Maid"
+			}
+		]
+	},
+	{
+		"id": "286",
+		"gid": 30147,
+		"name": "Umikaze",
+		"skins": [
+			{
+				"id": "301470",
+				"name": "Default"
+			},
+			{
+				"id": "301471",
+				"name": "Soft and Fluffy Therapy"
+			}
+		]
+	},
+	{
+		"id": "142",
+		"gid": 20603,
+		"name": "Unicorn",
+		"skins": [
+			{
+				"id": "206030",
+				"name": "Default"
+			},
+			{
+				"id": "206031",
+				"name": "Little Star Songstress"
+			},
+			{
+				"id": "206032",
+				"name": "The Gift of Spring"
+			},
+			{
+				"id": "206033",
+				"name": "Long-Awaited Date"
+			},
+			{
+				"id": "206034",
+				"name": "Prayer of Plum and Snow"
+			},
+			{
+				"id": "206035",
+				"name": "Angelic Night"
+			},
+			{
+				"id": "206036",
+				"name": "Icy-Sweet Storytime"
+			},
+			{
+				"id": "206038",
+				"name": "A Dream of Pure Vows"
+			}
+		]
+	},
+	{
+		"id": "001",
+		"gid": 10000,
+		"name": "Universal Bulin",
+		"skins": [
+			{
+				"id": "100000",
+				"name": "Default"
+			},
+			{
+				"id": "100001",
+				"name": "Universal Enhanced Rigging (Experimental) +α"
+			}
+		]
+	},
+	{
+		"id": "316",
+		"gid": 30159,
+		"name": "Urakaze",
+		"skins": [
+			{
+				"id": "301590",
+				"name": "Default"
+			},
+			{
+				"id": "301591",
+				"name": "Seasonal Shogun"
+			},
+			{
+				"id": "301592",
+				"name": "Sengoku☆Shredder!"
+			}
+		]
+	},
+	{
+		"id": "429",
+		"gid": 30172,
+		"name": "Uranami",
+		"skins": [
+			{
+				"id": "301720",
+				"name": "Default"
+			},
+			{
+				"id": "301721",
+				"name": "Snow Vanguard"
+			}
+		]
+	},
+	{
+		"id": "Collab034",
+		"gid": 1030004,
+		"name": "Uruuru",
+		"skins": []
+	},
+	{
+		"id": "274",
+		"gid": 30135,
+		"name": "Uzuki",
+		"skins": [
+			{
+				"id": "301350",
+				"name": "Default"
+			},
+			{
+				"id": "301351",
+				"name": "Sleepy Uzuki"
+			}
+		]
+	},
+	{
+		"id": "464",
+		"gid": 20510,
+		"name": "Valiant",
+		"skins": [
+			{
+				"id": "205100",
+				"name": "Valiant "
+			},
+			{
+				"id": "205101",
+				"name": "Mischievous Little Nurse"
+			},
+			{
+				"id": "205102",
+				"name": "Queen Valiant I"
+			}
+		]
+	},
+	{
+		"id": "103",
+		"gid": 20123,
+		"name": "Vampire",
+		"skins": [
+			{
+				"id": "201230",
+				"name": "Default"
+			},
+			{
+				"id": "201231",
+				"name": "The Breath of Spring"
+			},
+			{
+				"id": "201232",
+				"name": "Little Devil in White"
+			},
+			{
+				"id": "201233",
+				"name": "Night Princess's Regalia"
+			},
+			{
+				"id": "201234",
+				"name": "Night Princess Idol"
+			},
+			{
+				"id": "201238",
+				"name": "Eloi's Blessing"
+			}
+		]
+	},
+	{
+		"id": "457",
+		"gid": 90103,
+		"name": "Vauquelin",
+		"skins": [
+			{
+				"id": "901030",
+				"name": "Default"
+			},
+			{
+				"id": "901031",
+				"name": "Innocent Summer Knight"
+			},
+			{
+				"id": "901032",
+				"name": "One-Girl Orchestra"
+			}
+		]
+	},
+	{
+		"id": "Collab004",
+		"gid": 1010004,
+		"name": "Vert",
+		"skins": [
+			{
+				"id": "10100040",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "080",
+		"gid": 11201,
+		"name": "Vestal",
+		"skins": [
+			{
+				"id": "112010",
+				"name": "Default"
+			},
+			{
+				"id": "112011",
+				"name": "Revigorating Hestia"
+			}
+		]
+	},
+	{
+		"id": "146",
+		"gid": 20704,
+		"name": "Victorious",
+		"skins": [
+			{
+				"id": "207040",
+				"name": "Default"
+			},
+			{
+				"id": "207041",
+				"name": "The Goddess' Day Off"
+			},
+			{
+				"id": "207042",
+				"name": "Guidance of the Spring Goddess"
+			}
+		]
+	},
+	{
+		"id": "048",
+		"gid": 10310,
+		"name": "Vincennes",
+		"skins": [
+			{
+				"id": "103100",
+				"name": "Default"
+			},
+			{
+				"id": "103101",
+				"name": "Sweet Dreams"
+			},
+			{
+				"id": "103102",
+				"name": "Leisurely ABC's"
+			}
+		]
+	},
+	{
+		"id": "490",
+		"gid": 60103,
+		"name": "Vincenzo Gioberti",
+		"skins": [
+			{
+				"id": "601030",
+				"name": "Vincenzo Gioberti "
+			},
+			{
+				"id": "601032",
+				"name": "Fair Lady's Invitation"
+			}
+		]
+	},
+	{
+		"id": "500",
+		"gid": 60501,
+		"name": "Vittorio Veneto",
+		"skins": [
+			{
+				"id": "605010",
+				"name": "Default"
+			},
+			{
+				"id": "605011",
+				"name": "The Flower of La Spezia"
+			}
+		]
+	},
+	{
+		"id": "538",
+		"gid": 70701,
+		"name": "Volga",
+		"skins": [
+			{
+				"id": "707010",
+				"name": "Default"
+			},
+			{
+				"id": "707011",
+				"name": "An Irresistible AR Adventure"
+			}
+		]
+	},
+	{
+		"id": "173",
+		"gid": 30123,
+		"name": "Wakaba",
+		"skins": [
+			{
+				"id": "301230",
+				"name": "Default"
+			},
+			{
+				"id": "301231",
+				"name": "Holiday Special Wakaba!"
+			},
+			{
+				"id": "301232",
+				"name": "A Healthy Dose of Sunshine!"
+			}
+		]
+	},
+	{
+		"id": "131",
+		"gid": 20502,
+		"name": "Warspite",
+		"skins": [
+			{
+				"id": "205020",
+				"name": "Default"
+			},
+			{
+				"id": "205021",
+				"name": "Christmas Warrior"
+			},
+			{
+				"id": "205022",
+				"name": "Under Pleasure"
+			},
+			{
+				"id": "205029",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "064",
+		"gid": 10513,
+		"name": "Washington",
+		"skins": [
+			{
+				"id": "105130",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "079",
+		"gid": 10708,
+		"name": "Wasp",
+		"skins": [
+			{
+				"id": "107080",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "485",
+		"gid": 40601,
+		"name": "Weser",
+		"skins": [
+			{
+				"id": "406010",
+				"name": "Default"
+			},
+			{
+				"id": "406011",
+				"name": "Obsidian Elegance"
+			},
+			{
+				"id": "406012",
+				"name": "Urbane Onyx"
+			}
+		]
+	},
+	{
+		"id": "062",
+		"gid": 10511,
+		"name": "West Virginia",
+		"skins": [
+			{
+				"id": "105110",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "Collab007",
+		"gid": 1010007,
+		"name": "White Heart",
+		"skins": [
+			{
+				"id": "10100070",
+				"name": "Default"
+			},
+			{
+				"id": "10100071",
+				"name": "Goddesses' Humility"
+			}
+		]
+	},
+	{
+		"id": "049",
+		"gid": 10311,
+		"name": "Wichita",
+		"skins": [
+			{
+				"id": "103110",
+				"name": "Default"
+			},
+			{
+				"id": "103111",
+				"name": "The General's Banquet"
+			},
+			{
+				"id": "103112",
+				"name": "Domineering Witchita "
+			}
+		]
+	},
+	{
+		"id": "287",
+		"gid": 30148,
+		"name": "Yamakaze",
+		"skins": [
+			{
+				"id": "301480",
+				"name": "Default"
+			},
+			{
+				"id": "301481",
+				"name": "Now for a Magic Trick!"
+			}
+		]
+	},
+	{
+		"id": "209",
+		"gid": 30502,
+		"name": "Yamashiro",
+		"skins": [
+			{
+				"id": "305020",
+				"name": "Default"
+			},
+			{
+				"id": "305021",
+				"name": "Summer Offensive?"
+			},
+			{
+				"id": "305022",
+				"name": "Holiday Offensive"
+			},
+			{
+				"id": "305023",
+				"name": "Dressy Black Cat"
+			},
+			{
+				"id": "305024",
+				"name": "Sales Clerk Offensive?!"
+			},
+			{
+				"id": "305025",
+				"name": "Vacation Offensive!"
+			},
+			{
+				"id": "305026",
+				"name": "Street Corner Offensive!"
+			},
+			{
+				"id": "305028",
+				"name": "Bridal Attack!"
+			},
+			{
+				"id": "305029",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "30010",
+		"gid": 970502,
+		"name": "Yamashiro META",
+		"skins": [
+			{
+				"id": "9705020",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "257",
+		"gid": 50201,
+		"name": "Yat Sen",
+		"skins": [
+			{
+				"id": "502010",
+				"name": "Default"
+			},
+			{
+				"id": "502018",
+				"name": "Coronal Afterglow"
+			}
+		]
+	},
+	{
+		"id": "493",
+		"gid": 50204,
+		"name": "Ying Swei",
+		"skins": [
+			{
+				"id": "502040",
+				"name": "Default"
+			},
+			{
+				"id": "502041",
+				"name": "Snowy Pine's Warmth"
+			}
+		]
+	},
+	{
+		"id": "297",
+		"gid": 30158,
+		"name": "Yoizuki",
+		"skins": [
+			{
+				"id": "301580",
+				"name": "Default"
+			},
+			{
+				"id": "301581",
+				"name": "Sports Festival Preparations"
+			},
+			{
+				"id": "301582",
+				"name": "Firecrackers and Steamed Buns"
+			}
+		]
+	},
+	{
+		"id": "125",
+		"gid": 20307,
+		"name": "York",
+		"skins": [
+			{
+				"id": "203070",
+				"name": "Default"
+			},
+			{
+				"id": "203071",
+				"name": "Truth Seeker"
+			},
+			{
+				"id": "203072",
+				"name": "Summoner from the Azure Depths "
+			},
+			{
+				"id": "203078",
+				"name": "Oath of Purity"
+			},
+			{
+				"id": "203079",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "076",
+		"gid": 10705,
+		"name": "Yorktown",
+		"skins": [
+			{
+				"id": "107050",
+				"name": "Default"
+			},
+			{
+				"id": "107051",
+				"name": "Evening I Can't Remember"
+			},
+			{
+				"id": "107052",
+				"name": "Saintly Wings"
+			}
+		]
+	},
+	{
+		"id": "166",
+		"gid": 30116,
+		"name": "Yukikaze",
+		"skins": [
+			{
+				"id": "301160",
+				"name": "Default"
+			},
+			{
+				"id": "301161",
+				"name": "Sovereign of the Swing"
+			},
+			{
+				"id": "301162",
+				"name": "Winter's Snowy Wind"
+			},
+			{
+				"id": "301168",
+				"name": "The Warmth of Spring"
+			}
+		]
+	},
+	{
+		"id": "10085",
+		"gid": 1080005,
+		"name": "Yume Minami",
+		"skins": [
+			{
+				"id": "10800050",
+				"name": "Default"
+			},
+			{
+				"id": "10800051",
+				"name": "A Dream Upon an Open Windowsill"
+			}
+		]
+	},
+	{
+		"id": "185",
+		"gid": 30207,
+		"name": "Yura",
+		"skins": [
+			{
+				"id": "302070",
+				"name": "Default"
+			},
+			{
+				"id": "302071",
+				"name": "We are Succubi?"
+			}
+		]
+	},
+	{
+		"id": "179",
+		"gid": 30201,
+		"name": "Yuubari",
+		"skins": [
+			{
+				"id": "302010",
+				"name": "Default"
+			},
+			{
+				"id": "302019",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "164",
+		"gid": 30114,
+		"name": "Yuudachi",
+		"skins": [
+			{
+				"id": "301140",
+				"name": "Default"
+			},
+			{
+				"id": "301141",
+				"name": "Shogun of Snowballs"
+			},
+			{
+				"id": "301143",
+				"name": "Carnivore Carnival!"
+			},
+			{
+				"id": "301144",
+				"name": "Woofy Floofy Christmas Night"
+			},
+			{
+				"id": "301148",
+				"name": "The Bride of Solomon"
+			},
+			{
+				"id": "301149",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "176",
+		"gid": 30126,
+		"name": "Yuugure",
+		"skins": [
+			{
+				"id": "301260",
+				"name": "Default"
+			},
+			{
+				"id": "301261",
+				"name": "Maid-In-Training!"
+			},
+			{
+				"id": "301262",
+				"name": "Twilight Blossom"
+			},
+			{
+				"id": "301263",
+				"name": "Evening Flower"
+			},
+			{
+				"id": "301264",
+				"name": "Summer Festival Shopping"
+			},
+			{
+				"id": "301269",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "233",
+		"gid": 40101,
+		"name": "Z1",
+		"skins": [
+			{
+				"id": "401010",
+				"name": "Leberecht Maass (Z1)"
+			},
+			{
+				"id": "401011",
+				"name": "\"Rebellious\" Top Student"
+			},
+			{
+				"id": "401019",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "346",
+		"gid": 40118,
+		"name": "Z18",
+		"skins": [
+			{
+				"id": "401180",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "264",
+		"gid": 40119,
+		"name": "Z19",
+		"skins": [
+			{
+				"id": "401190",
+				"name": "Hermann Künne (Z19)"
+			}
+		]
+	},
+	{
+		"id": "379",
+		"gid": 40102,
+		"name": "Z2",
+		"skins": [
+			{
+				"id": "401020",
+				"name": "Default"
+			},
+			{
+				"id": "401021",
+				"name": "High-Rise, High-Style"
+			},
+			{
+				"id": "401022",
+				"name": "Of Koi and Evening Hues"
+			}
+		]
+	},
+	{
+		"id": "265",
+		"gid": 40120,
+		"name": "Z20",
+		"skins": [
+			{
+				"id": "401200",
+				"name": "Karl Galster (Z20)"
+			}
+		]
+	},
+	{
+		"id": "266",
+		"gid": 40121,
+		"name": "Z21",
+		"skins": [
+			{
+				"id": "401210",
+				"name": "Wilhelm Heidkamp (Z21)"
+			}
+		]
+	},
+	{
+		"id": "236",
+		"gid": 40123,
+		"name": "Z23",
+		"skins": [
+			{
+				"id": "401230",
+				"name": "Default"
+			},
+			{
+				"id": "401231",
+				"name": "Philosophy Sensei"
+			},
+			{
+				"id": "401232",
+				"name": "Breezy Doubles"
+			},
+			{
+				"id": "401233",
+				"name": "Perfect Smile?"
+			},
+			{
+				"id": "401234",
+				"name": "The Banquet's Honor Student"
+			},
+			{
+				"id": "401235",
+				"name": "Café Trainee @New Base"
+			},
+			{
+				"id": "401236",
+				"name": "Serious Idol @Acting Manager?!"
+			},
+			{
+				"id": "401237",
+				"name": "The Eyecatch in the Rye?"
+			},
+			{
+				"id": "401238",
+				"name": "Schwarze Hochzeit"
+			},
+			{
+				"id": "401239",
+				"name": "Retrofit"
+			},
+			{
+				"id": "431230",
+				"name": "Keeper of the Comf-Fort"
+			}
+		]
+	},
+	{
+		"id": "487",
+		"gid": 40124,
+		"name": "Z24",
+		"skins": [
+			{
+				"id": "401240",
+				"name": "Default"
+			},
+			{
+				"id": "401241",
+				"name": "Festival-going Fiend"
+			}
+		]
+	},
+	{
+		"id": "237",
+		"gid": 40125,
+		"name": "Z25",
+		"skins": [
+			{
+				"id": "401250",
+				"name": "Default"
+			},
+			{
+				"id": "401251",
+				"name": "Hot Summer's Cool Breeze"
+			}
+		]
+	},
+	{
+		"id": "466",
+		"gid": 40126,
+		"name": "Z26",
+		"skins": [
+			{
+				"id": "401260",
+				"name": "Default"
+			},
+			{
+				"id": "401261",
+				"name": "Sharing is Caring "
+			}
+		]
+	},
+	{
+		"id": "488",
+		"gid": 40128,
+		"name": "Z28",
+		"skins": [
+			{
+				"id": "401280",
+				"name": "Default"
+			},
+			{
+				"id": "401281",
+				"name": "New Year Smorgasbord!"
+			}
+		]
+	},
+	{
+		"id": "345",
+		"gid": 40135,
+		"name": "Z35",
+		"skins": [
+			{
+				"id": "401350",
+				"name": "Default"
+			},
+			{
+				"id": "401351",
+				"name": "Projekt Kirschblüte"
+			}
+		]
+	},
+	{
+		"id": "388",
+		"gid": 40136,
+		"name": "Z36",
+		"skins": [
+			{
+				"id": "401360",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "267",
+		"gid": 40146,
+		"name": "Z46",
+		"skins": [
+			{
+				"id": "401460",
+				"name": "Default"
+			},
+			{
+				"id": "401461",
+				"name": "Her First Summer"
+			},
+			{
+				"id": "401462",
+				"name": "Girls' Relay"
+			},
+			{
+				"id": "401463",
+				"name": "Star-Lit★Chocolate"
+			},
+			{
+				"id": "401464",
+				"name": "Jianzhi Fantasia"
+			},
+			{
+				"id": "401465",
+				"name": "Chronicles of the Dust Wars"
+			}
+		]
+	},
+	{
+		"id": "413",
+		"gid": 60302,
+		"name": "Zara",
+		"skins": [
+			{
+				"id": "603020",
+				"name": "Default"
+			},
+			{
+				"id": "603021",
+				"name": "Poolside Coincidence"
+			}
+		]
+	},
+	{
+		"id": "385",
+		"gid": 40702,
+		"name": "Zeppy",
+		"skins": [
+			{
+				"id": "407020",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "229",
+		"gid": 30706,
+		"name": "Zuikaku",
+		"skins": [
+			{
+				"id": "307060",
+				"name": "Default"
+			},
+			{
+				"id": "307061",
+				"name": "Ceremonial Crane"
+			},
+			{
+				"id": "307062",
+				"name": "The Wind's True Name"
+			}
+		]
+	},
+	{
+		"id": "Plan020",
+		"gid": 49905,
+		"name": "Ägir",
+		"skins": [
+			{
+				"id": "499050",
+				"name": "Default"
+			}
+		]
+	},
+	{
+		"id": "349",
+		"gid": 80201,
+		"name": "Émile Bertin",
+		"skins": [
+			{
+				"id": "802010",
+				"name": "Default"
+			},
+			{
+				"id": "802011",
+				"name": "Côte d'Azur"
+			},
+			{
+				"id": "802012",
+				"name": "Maid Fantastique"
+			},
+			{
+				"id": "802013",
+				"name": "Gilded Dance"
+			},
+			{
+				"id": "802019",
+				"name": "Retrofit"
+			}
+		]
+	},
+	{
+		"id": "Collab057",
+		"gid": 1050007,
+		"name": "Ōkami Mio",
+		"skins": [
+			{
+				"id": "10500070",
+				"name": "Ookami Mio"
+			},
+			{
+				"id": "10500071",
+				"name": "Summer Vacation"
+			}
+		]
+	}
+]

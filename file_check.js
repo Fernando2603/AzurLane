@@ -4,20 +4,19 @@ import { dirname, join } from 'path';
 import { fileURLToPath } from 'url';
 
 let AzurAPI		= [];
-let ShipBanner	= [];
 let json_data	= [];
+
+const banner_file	= fs.readFileSync("./ShipBanner.json");
+const ShipBanner	= JSON.parse(banner_file);
 
 Promise.all([
 	fetch("https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/ships.json")
-	.then(res => res.json()),
-	fetch("https://raw.githubusercontent.com/Fernando2603/AzurLane/main/ShipBanner.json")
 	.then(res => res.json())
 ]).then(
-	([azurAPI, shipBanner]) => {
+	([azurAPI]) => {
 		AzurAPI		= azurAPI;
-		ShipBanner	= shipBanner;
 		console.log("AzurAPI & ShipBanner Loaded!");
-		data_extract(azurAPI, shipBanner);
+		data_extract(azurAPI, ShipBanner);
 	},
 	(error) => {
 		console.log('error: ' + error);
