@@ -7,7 +7,8 @@
   "type":"module",
   "scripts": {
     "start": "node .",
-    "check": "node file_check.js"
+    "check": "node file_check.js",
+    "voiceline": "node src/voiceline.js"
   },
   "repository": {
     "type": "git",
