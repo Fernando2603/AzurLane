@@ -6,12 +6,12 @@ import { fileURLToPath } from 'url';
 
 import main from './src/main.js';
 
-const banner_file	= fs.readFileSync("./src/ShipBanner.json");
+const banner_file	= fs.readFileSync("./ShipBanner.json");
 const ShipBanner	= JSON.parse(banner_file);
 
 const __dirname		= dirname(fileURLToPath(import.meta.url));
 
-// NOTES: SCRIPT CAN'T HANDLE 2 NEW SKIN NON-DEFAULT AT THE SAME TIME
+// NOTES: SCRIPT CAN'T HANDLE 2 NEW NON-DEFAULT SKIN AT THE SAME TIME
 
 Promise.all([
 	fetch("https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/ships.json")

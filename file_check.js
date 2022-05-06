@@ -6,7 +6,7 @@ import { fileURLToPath } from 'url';
 let AzurAPI		= [];
 let json_data	= [];
 
-const banner_file	= fs.readFileSync("./ShipBanner.json");
+const banner_file	= fs.readFileSync("./src/ShipBanner.json");
 const ShipBanner	= JSON.parse(banner_file);
 
 Promise.all([

@@ -77,7 +77,6 @@ export default function new_skin_patch(ship, ship_banner, ship_skin, __dirname) 
 			if ( default_skin_file ) {
 				console.log(file);
 				fs.renameSync(old_skin_path, join(new_skin_path + image_type));
-				console.log(new_skin_path)
 			};
 
 			// thus if only using 1 fs.renameSync this make default & non-default skin replaced each other
@@ -86,7 +85,6 @@ export default function new_skin_patch(ship, ship_banner, ship_skin, __dirname) 
 			if ( skin_name !== "Default" ) {
 				console.log(file);
 				fs.renameSync(old_skin_path, join(new_skin_path + image_type));
-				console.log(new_skin_path)
 			};
 		};		
 	});

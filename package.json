@@ -1,13 +1,14 @@
 {
   "name": "fernando2603@azurlane",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "private": true,
   "description": "Azurlane Resources",
   "main": "index.js",
   "type":"module",
   "scripts": {
     "start": "node .",
-    "check": "node file_check.js"
+    "check": "node file_check.js",
+    "voiceline": "node src/voiceline.js"
   },
   "repository": {
     "type": "git",
