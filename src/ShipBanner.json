@@ -3480,6 +3480,28 @@
 		]
 	},
 	{
+		"id": "548",
+		"name": "Elbing",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/548/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/548/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/548/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/548/Default/ShipyardIcon.png"
+			},
+			{
+				"name": "The Throne of Misfortune",
+				"type": "Vampire",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/548/The_Throne_of_Misfortune/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/548/The_Throne_of_Misfortune/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/548/The_Throne_of_Misfortune/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/548/The_Throne_of_Misfortune/ShipyardIcon.png"
+			}
+		]
+	},
+	{
 		"id": "028",
 		"name": "Eldridge",
 		"skins": [
@@ -3544,6 +3566,28 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Collab042/Default/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Collab042/Default/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Collab042/Default/ShipyardIcon.png"
+			}
+		]
+	},
+	{
+		"id": "547",
+		"name": "Emden",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/547/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/547/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/547/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/547/Default/ShipyardIcon.png"
+			},
+			{
+				"name": "White-Black Partita",
+				"type": "Vampire",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/547/WhiteBlack_Partita/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/547/WhiteBlack_Partita/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/547/WhiteBlack_Partita/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/547/WhiteBlack_Partita/ShipyardIcon.png"
 			}
 		]
 	},
@@ -8098,6 +8142,28 @@
 		]
 	},
 	{
+		"id": "544",
+		"name": "Lützow",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/544/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/544/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/544/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/544/Default/ShipyardIcon.png"
+			},
+			{
+				"name": "Everlasting Blood Banquet",
+				"type": "Vampire",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/544/Everlasting_Blood_Banquet/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/544/Everlasting_Blood_Banquet/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/544/Everlasting_Blood_Banquet/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/544/Everlasting_Blood_Banquet/ShipyardIcon.png"
+			}
+		]
+	},
+	{
 		"id": "504",
 		"name": "Maestrale",
 		"skins": [
@@ -11314,6 +11380,28 @@
 		]
 	},
 	{
+		"id": "543",
+		"name": "Seydlitz",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/543/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/543/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/543/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/543/Default/ShipyardIcon.png"
+			},
+			{
+				"name": "Heir of the Vampire Killer",
+				"type": "Vampire",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/543/Heir_of_the_Vampire_Killer/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/543/Heir_of_the_Vampire_Killer/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/543/Heir_of_the_Vampire_Killer/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/543/Heir_of_the_Vampire_Killer/ShipyardIcon.png"
+			}
+		]
+	},
+	{
 		"id": "378",
 		"name": "Shangri-La",
 		"skins": [
@@ -11378,6 +11466,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/111/Black_Crows_Finery/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/111/Black_Crows_Finery/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/111/Black_Crows_Finery/ShipyardIcon.png"
+			},
+			{
+				"name": "Bulletborne",
+				"type": "Vampire",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/111/Bulletborne/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/111/Bulletborne/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/111/Bulletborne/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/111/Bulletborne/ShipyardIcon.png"
 			}
 		]
 	},
@@ -12568,6 +12664,28 @@
 		]
 	},
 	{
+		"id": "545",
+		"name": "Thüringen",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/545/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/545/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/545/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/545/Default/ShipyardIcon.png"
+			},
+			{
+				"name": "Tidying in the Moonlight",
+				"type": "Vampire",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/545/Tidying_in_the_Moonlight/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/545/Tidying_in_the_Moonlight/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/545/Tidying_in_the_Moonlight/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/545/Tidying_in_the_Moonlight/ShipyardIcon.png"
+			}
+		]
+	},
+	{
 		"id": "511",
 		"name": "Ticonderoga",
 		"skins": [
@@ -12906,6 +13024,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/343/Urban_Maid/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/343/Urban_Maid/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/343/Urban_Maid/ShipyardIcon.png"
+			},
+			{
+				"name": "Sanguine Moon Sojourn",
+				"type": "Vampire",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/343/Sanguine_Moon_Sojourn/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/343/Sanguine_Moon_Sojourn/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/343/Sanguine_Moon_Sojourn/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/343/Sanguine_Moon_Sojourn/ShipyardIcon.png"
 			}
 		]
 	},
@@ -13926,6 +14052,28 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/297/Firecrackers_and_Steamed_Buns/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/297/Firecrackers_and_Steamed_Buns/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/297/Firecrackers_and_Steamed_Buns/ShipyardIcon.png"
+			}
+		]
+	},
+	{
+		"id": "546",
+		"name": "Yorck",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/546/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/546/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/546/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/546/Default/ShipyardIcon.png"
+			},
+			{
+				"name": "Breaker under the Blood Moon",
+				"type": "Vampire",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/546/Breaker_under_the_Blood_Moon/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/546/Breaker_under_the_Blood_Moon/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/546/Breaker_under_the_Blood_Moon/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/546/Breaker_under_the_Blood_Moon/ShipyardIcon.png"
 			}
 		]
 	},

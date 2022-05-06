@@ -6,7 +6,7 @@ import { fileURLToPath } from 'url';
 
 import main from './src/main.js';
 
-const banner_file	= fs.readFileSync("./src/ShipBanner.json");
+const banner_file	= fs.readFileSync("./ShipBanner.json");
 const ShipBanner	= JSON.parse(banner_file);
 
 const __dirname		= dirname(fileURLToPath(import.meta.url));

@@ -4,8 +4,9 @@ Azur Lane Resources
 
 | VERSION | DATE | CHANGES |
 | :---: | :---: | :---: |
-| 1.0.0 | 24-09-2021 | created azurlane repository |
-| 2.0.0 | 04-29-2022 | add virtual tower ship |
+| 1.0.0 | 24-09-2021 | Created azurlane repository |
+| 2.0.0 | 04-29-2022 | Add Virtual Tower ship |
+| 2.0.1 | 06-05-2022 | Add Rondo at Rainbow's End ship, add voiceline.json | 
 
 ## Fetch
 - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/ShipBanner.json`
@@ -13,7 +14,7 @@ Azur Lane Resources
 - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/MeowfficerTalentList.json`
 
 
-## Replace Missing File (Wild Card) || rework 19 march 2022 old link still works
+## Replace Missing File (Wild Card)
 #### Banner
 - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png`
 - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/000/Default/Banner.png`
