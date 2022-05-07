@@ -2567,7 +2567,7 @@
 					},
 					{
 						"type": "drop_descrip",
-						"line": "Repair ship Akashi\n<color=#ffde38>Can be built after unlocking</color>"
+						"line": "Repair ship Akashi\nCan be built after unlocking"
 					},
 					{
 						"type": "expedition",
@@ -21259,7 +21259,7 @@
 					},
 					{
 						"type": "drop_descrip",
-						"line": "Norfolk-class heavy cruiser, Dorsetshire, Hull Number 40\n<color=#ffde38>Unlock build after receiving</color>"
+						"line": "Norfolk-class heavy cruiser, Dorsetshire, Hull Number 40\nUnlock build after receiving"
 					},
 					{
 						"type": "expedition",
@@ -51046,7 +51046,7 @@
 					},
 					{
 						"type": "drop_descrip",
-						"line": "Leipzig-class light cruiser, Leipzig.\n<color=#ffde38>Can be built after unlocking</color>"
+						"line": "Leipzig-class light cruiser, Leipzig.\nCan be built after unlocking"
 					},
 					{
 						"type": "expedition",
@@ -55279,7 +55279,7 @@
 					},
 					{
 						"type": "drop_descrip",
-						"line": "Gridley-class destroyer, Maury, Hull Number DD-401\n<color=#ffde38>Unlock build after receiving</color>"
+						"line": "Gridley-class destroyer, Maury, Hull Number DD-401\nUnlock build after receiving"
 					},
 					{
 						"type": "expedition",
@@ -90806,7 +90806,7 @@
 					},
 					{
 						"type": "drop_descrip",
-						"line": "Wichita-class heavy cruiser – Wichita, Hull Number CA-45! \n<color=#ffde38>Unlock build after receiving</color>"
+						"line": "Wichita-class heavy cruiser – Wichita, Hull Number CA-45! \nUnlock build after receiving"
 					},
 					{
 						"type": "expedition",

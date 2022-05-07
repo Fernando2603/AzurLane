@@ -15,5 +15,9 @@ export default function resolve_namecode(line, name_code) {
 	    }
     	while( line_output.includes("namecode") );
 	};
+
+	if ( line.includes("<color") ) {
+		line_output	= line_output.replace("<color=#ffde38>", "").replace("</color>", "");
+	};
 	return line_output
 };
