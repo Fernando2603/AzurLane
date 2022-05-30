@@ -3117,6 +3117,20 @@
 						"line": "Look out! Move, Commander! ...Phew. To explain, I am helping Santa give out Christmas presents! Now excuse me, I cannot tarry here or I'll be late... Wait, have I come to the wrong place? WHAT?!"
 					}
 				]
+			},
+			{
+				"id": "301094",
+				"name": "Cirque de Ninjutsu!",
+				"voiceline": [
+					{
+						"type": "drop_descrip",
+						"line": "Welcome, Commander, to DesDiv 6's tent of entertainment! For our first act, I shall perform for you my most stunning ninjutsu! ...\"Circus\"? I've never heard of this word before!"
+					},
+					{
+						"type": "main",
+						"line": "nil|nil|nil"
+					}
+				]
 			}
 		]
 	},
@@ -6537,6 +6551,44 @@
 					{
 						"type": "unlock",
 						"line": "Commander, Happy New Year. Oh no, I'm not going hunting. I'm patrolling the port during the New Year's celebrations. Naturally, I volunteered for the job."
+					}
+				]
+			},
+			{
+				"id": "207024",
+				"name": "Café Lookout",
+				"voiceline": [
+					{
+						"type": "detail",
+						"line": "I've been here a few times before. They've never seated me near destroyers due to my reputation... But that's fine. I anticipated as much."
+					},
+					{
+						"type": "drop_descrip",
+						"line": "This is the place, Commander. What are you going to order? Me, I think I'll have the same as you... Yeah, so what? I just felt like grabbing a coffee with you for once."
+					},
+					{
+						"type": "home",
+						"line": "I'm relieved to see the destroyers are back safe and sound. Wish I could be with them on dangerous missions... Ah, forget I said that. I'm not going anywhere, you hear?"
+					},
+					{
+						"type": "login",
+						"line": "Oh, you're back. Well, I'm not actually surprised – I saw you coming."
+					},
+					{
+						"type": "main",
+						"line": "Mmm, the smell of coffee beans... Don't give me that \"wasn't expecting to hear that\" look! Even I can appreciate a good cup of coffee!|Wh-where'd you get that camera?! Oh god, don't tell me it's all over for me... What? That's your personal camera? Oh, I see... Phew.|I record everything that goes on in here. Let's just say it's for security reasons. That's the only reason, you hear?! My conscience is clean!"
+					},
+					{
+						"type": "touch",
+						"line": "Sod off! I'm not letting anyone have my destroyer footage!"
+					},
+					{
+						"type": "touch2",
+						"line": "Commander, please, save it for another time. I'm trying to hear what the destroyers are talking about."
+					},
+					{
+						"type": "unlock",
+						"line": "This is the place, Commander. What are you going to order? Me, I think I'll have the same as you... Yeah, so what? I just felt like grabbing a coffee with you for once."
 					}
 				]
 			},
@@ -39206,7 +39258,7 @@
 					},
 					{
 						"type": "propose",
-						"line": "Hm? Is this a ring? You want to marry me? I should probably ask Veneto about this first... I don't have to commit right now, do I? All right, good. I love being free of responsibility because I'm so brilliant. I'll talk to you later then, Commander."
+						"line": "Hm? Is this a ring? You want to marry me? I should probably tell Veneto about this first... Oh, I can do that later? All right, good. I love being free of responsibility because I'm so brilliant. I'll leave the formalities to you, Commander."
 					},
 					{
 						"type": "skill",
@@ -50573,6 +50625,52 @@
 					{
 						"type": "win_mvp",
 						"line": "*Yawn*... I'm still a bit sleepy... I can't even properly savor the aftertaste of victory like this... Zzzzz..."
+					}
+				]
+			},
+			{
+				"id": "801072",
+				"name": "Sunlight, Seaspray, and Sanctity",
+				"voiceline": [
+					{
+						"type": "detail",
+						"line": "For someone not accustomed to strenuous exercise such as myself, I prefer to let the ocean's waves rock me back and forth."
+					},
+					{
+						"type": "drop_descrip",
+						"line": "How goes your day, Commander? Hehe, are you looking for my clever sister, Le Malin? If so, you would do well to search somewhere less... popular~♪"
+					},
+					{
+						"type": "expedition",
+						"line": "Oh, it appears the commission fleet has returned."
+					},
+					{
+						"type": "home",
+						"line": "Splendidly done. Would you like to hold a tea party by the beachside, Commander? Indeed, something with ice would be nice~♪"
+					},
+					{
+						"type": "login",
+						"line": "Is the sun a bit too oppressive for your liking, Commander? If so, you would do well to find some shade, as my clever sister has done."
+					},
+					{
+						"type": "mail",
+						"line": "Commander, if you're talking about the mail, I think Le Malin has it... Hehe~♪"
+					},
+					{
+						"type": "main",
+						"line": "Miss Ark Royal? Hmm, you're asking if she comes across as helpful or troublesome? Perhaps a bit of both, I must say...|The Cardinal plans to go surfing? Commander, I think you should keep an eye on her.|If a big wave comes... Hmm... Uhh... That's probably not going to bode well for me..."
+					},
+					{
+						"type": "touch",
+						"line": "If you find it too hot, why not take off another layer~? Hehe~♪"
+					},
+					{
+						"type": "touch2",
+						"line": "My, oh my~♪"
+					},
+					{
+						"type": "unlock",
+						"line": "How goes your day, Commander? Hehe, are you looking for my clever sister, Le Malin? If so, you would do well to search somewhere less... popular~♪"
 					}
 				]
 			}
@@ -68853,6 +68951,52 @@
 					{
 						"type": "win_mvp",
 						"line": "I'm the MVP? Hehehe, what did you expect?"
+					}
+				]
+			},
+			{
+				"id": "403035",
+				"name": "Kindred Evening Spirits",
+				"voiceline": [
+					{
+						"type": "battle",
+						"line": "Way to ruin the mood...!"
+					},
+					{
+						"type": "detail",
+						"line": "Would you like me to call you something else? Hmm, how about \"mein Schatz♡\"—Well? Hehehe♪"
+					},
+					{
+						"type": "drop_descrip",
+						"line": "Guten Abend~ So, what do you think? Pretty great view, right? Hehe, I was talking about the night scenery outside, you know~?"
+					},
+					{
+						"type": "home",
+						"line": "Let's celebrate the wonderful outing we had together, Commander~ It'd be such a waste to not drink one more glass... hmm? Is something wrong? Cat got your tongue?"
+					},
+					{
+						"type": "login",
+						"line": "\"Welcome back. What'll be your order?\" Is that what you were expecting? Heehee."
+					},
+					{
+						"type": "main",
+						"line": "Hehe. What are you all nervous for? Why don't you sit down at the counter? Here's the wine I recommend.|You know, when we ran into Hipper the other day on our day out, she started sulking and turned beet-red the moment she saw your face. I wonder why? Heehee.|It's customary to pour wine into a wine glass, but I'd like to try a different container. I wonder how I'd make a cocktail out of it."
+					},
+					{
+						"type": "mission_complete",
+						"line": "Though I doubt the rewards can beat this moment, shouldn't you go pick them up anyway?"
+					},
+					{
+						"type": "touch2",
+						"line": "Hehehe, don't be in such a hurry. The night has only just begun♡"
+					},
+					{
+						"type": "unlock",
+						"line": "Guten Abend~ So, what do you think? Pretty great view, right? Hehe, I was talking about the night scenery outside, you know~?"
+					},
+					{
+						"type": "win_mvp",
+						"line": "Everything is sweeter with a bit of beer. Ehehe~"
 					}
 				]
 			},
@@ -87145,6 +87289,72 @@
 						"line": "Unicorn got to help big brother...! Ehehe..."
 					}
 				]
+			},
+			{
+				"id": "206039",
+				"name": "Retrofit",
+				"voiceline": [
+					{
+						"type": "battle",
+						"line": "Unicorn... can now fight alongside everyone else!"
+					},
+					{
+						"type": "detail",
+						"line": "Illustrious said that Unicorn grew a little bigger... Do you think that's true? Ehehe..."
+					},
+					{
+						"type": "drop_descrip",
+						"line": "Unicorn has finished her retrofit... Now she can do more for you and her friends!"
+					},
+					{
+						"type": "expedition",
+						"line": "The friends in the commission fleet have returned... Big brother, can you take me with you?"
+					},
+					{
+						"type": "headtouch",
+						"line": "You're also very nice, big brother... Ehehe~♪"
+					},
+					{
+						"type": "home",
+						"line": "Ehehe, Yuni also wanted to tell you \"Welcome back,\" big brother."
+					},
+					{
+						"type": "login",
+						"line": "Welcome back, big brother... Are you going out today as well? Unicorn and Yuni are ready to come with you..."
+					},
+					{
+						"type": "lose",
+						"line": "Unicorn... will protect everyone!"
+					},
+					{
+						"type": "main",
+						"line": "Yuni has become big and strong, so Unicorn has to do her best too!|Unicorn's new rigging seems... to be giving off light... Do you want to take a closer look?|Unicorn wants to be just like you, not just on the battlefield, but in all kinds of other ways as well! She will do her best!|If you get tired, you can rest in Unicorn's lap... (Ehehe, I really want to see big brother's sleeping face...)"
+					},
+					{
+						"type": "mission",
+						"line": "Can Unicorn help... with your mission?"
+					},
+					{
+						"type": "mission_complete",
+						"line": "Ehehe, there are so many rewards that not even Yuni can carry them all~"
+					},
+					{
+						"type": "touch",
+						"line": "Big brother... You can also rely more on Unicorn, you know?"
+					},
+					{
+						"type": "touch2",
+						"line": "Bad big brother... Ehehe, bad~♪"
+					},
+					{
+						"type": "unlock",
+						"line": "Unicorn has finished her retrofit... Now she can do more for you and her friends!"
+					},
+					{
+						"type": "win_mvp",
+						"line": "Unicorn... was able to be of help!"
+					}
+				]
 			}
 		]
 	},
@@ -97340,6 +97550,52 @@
 					{
 						"type": "win_mvp",
 						"line": "Those fools were but splashes of water beneath my bow. Hahaha... Ahahahahaha!"
+					}
+				]
+			},
+			{
+				"id": "499051",
+				"name": "Iron Blood's Dragon Maid",
+				"voiceline": [
+					{
+						"type": "detail",
+						"line": "Do you expect ME to do your paperwork? Who do you take me for – a desk jockey? ...Besides, you're taking it for granted that I'm cut out for the task!"
+					},
+					{
+						"type": "drop_descrip",
+						"line": "Hmph. They think being a maid is so difficult, do they? I could do this with my eyes clo– What?! H-how long have YOU been here?!"
+					},
+					{
+						"type": "expedition",
+						"line": "A commission is done. I hope you're not considering sending ME out to meet the team..."
+					},
+					{
+						"type": "home",
+						"line": "I estimated you'd be back around this time, so I prepared tea and a snack. My work here is done... right?"
+					},
+					{
+						"type": "login",
+						"line": "You again. Ahem... Good morning, Mast– Never mind, I'm not doing it!"
+					},
+					{
+						"type": "main",
+						"line": "Damned manjuu... You're in my way! Move! What do you think you'll achieve by being stuck under me?|Would one call cleaning a part of the banquet preparations? The hall will be a mess by end of it anyway, so why bother?|Damn you, August... I do NOT take kindly to being treated as a maid! ...Are you even listening?"
+					},
+					{
+						"type": "mission_complete",
+						"line": "Mission complete. Now go claim the rewards."
+					},
+					{
+						"type": "touch",
+						"line": "...Hwuh?!"
+					},
+					{
+						"type": "touch2",
+						"line": "What the–?! I'll have you know I never volunteered for this position!"
+					},
+					{
+						"type": "unlock",
+						"line": "Hmph. They think being a maid is so difficult, do they? I could do this with my eyes clo– What?! H-how long have YOU been here?!"
 					}
 				]
 			}
