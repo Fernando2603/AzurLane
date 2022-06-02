@@ -1008,6 +1008,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/144/New_Years_Protectress/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/144/New_Years_Protectress/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/144/New_Years_Protectress/ShipyardIcon.png"
+			},
+			{
+				"name": "Café Lookout",
+				"type": "Maid",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/144/Caf_Lookout/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/144/Caf_Lookout/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/144/Caf_Lookout/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/144/Caf_Lookout/ShipyardIcon.png"
 			}
 		]
 	},
@@ -1726,6 +1734,28 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/115/Folded_Fascination/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/115/Folded_Fascination/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/115/Folded_Fascination/ShipyardIcon.png"
+			}
+		]
+	},
+	{
+		"id": "551",
+		"name": "Bellona",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/551/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/551/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/551/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/551/Default/ShipyardIcon.png"
+			},
+			{
+				"name": "Armed to Clean",
+				"type": "Maid",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/551/Armed_to_Clean/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/551/Armed_to_Clean/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/551/Armed_to_Clean/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/551/Armed_to_Clean/ShipyardIcon.png"
 			}
 		]
 	},
@@ -5582,6 +5612,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/461/Pastry_Princess/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/461/Pastry_Princess/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/461/Pastry_Princess/ShipyardIcon.png"
+			},
+			{
+				"name": "Evening Marvels",
+				"type": "Spring",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/461/Evening_Marvels/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/461/Evening_Marvels/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/461/Evening_Marvels/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/461/Evening_Marvels/ShipyardIcon.png"
 			}
 		]
 	},
@@ -6134,6 +6172,28 @@
 		]
 	},
 	{
+		"id": "553",
+		"name": "Indomitable",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/553/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/553/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/553/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/553/Default/ShipyardIcon.png"
+			},
+			{
+				"name": "Ms. Motivationless Maid",
+				"type": "Maid",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/553/Ms_Motivationless_Maid/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/553/Ms_Motivationless_Maid/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/553/Ms_Motivationless_Maid/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/553/Ms_Motivationless_Maid/ShipyardIcon.png"
+			}
+		]
+	},
+	{
 		"id": "518",
 		"name": "Ingraham",
 		"skins": [
@@ -6536,6 +6596,28 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/000/Default/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/000/Default/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/307/Original_Art/ShipyardIcon.png"
+			}
+		]
+	},
+	{
+		"id": "550",
+		"name": "Jervis",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/550/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/550/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/550/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/550/Default/ShipyardIcon.png"
+			},
+			{
+				"name": "Fluttering in the Fair Breeze",
+				"type": "Maid",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/550/Fluttering_in_the_Fair_Breeze/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/550/Fluttering_in_the_Fair_Breeze/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/550/Fluttering_in_the_Fair_Breeze/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/550/Fluttering_in_the_Fair_Breeze/ShipyardIcon.png"
 			}
 		]
 	},
@@ -7796,6 +7878,14 @@
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/522/Default/ShipyardIcon.png"
 			},
 			{
+				"name": "Silence, Slumber, and Solace",
+				"type": "Summer",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/522/Silence_Slumber_and_Solace/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/522/Silence_Slumber_and_Solace/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/522/Silence_Slumber_and_Solace/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/522/Silence_Slumber_and_Solace/ShipyardIcon.png"
+			},
+			{
 				"name": "Sunlight, Seaspray, and Sanctity",
 				"type": "Casual",
 				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/522/Sunlight_Seaspray_and_Sanctity/Banner.png",
@@ -7984,6 +8074,20 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/335/Default/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/335/Default/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/335/Default/ShipyardIcon.png"
+			}
+		]
+	},
+	{
+		"id": "552",
+		"name": "Little Cheshire",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/552/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/552/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/552/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/552/Default/ShipyardIcon.png"
 			}
 		]
 	},
@@ -8534,6 +8638,20 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/360/A_Breath_of_Fresh_Air/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/360/A_Breath_of_Fresh_Air/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/360/A_Breath_of_Fresh_Air/ShipyardIcon.png"
+			}
+		]
+	},
+	{
+		"id": "30011",
+		"name": "Memphis META",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/30011/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/30011/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/30011/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/30011/Default/ShipyardIcon.png"
 			}
 		]
 	},
@@ -10514,6 +10632,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/244/Final_Lap/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/244/Final_Lap/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/244/Final_Lap/ShipyardIcon.png"
+			},
+			{
+				"name": "Kindred Evening Spirits",
+				"type": "Maid",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/244/Kindred_Evening_Spirits/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/244/Kindred_Evening_Spirits/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/244/Kindred_Evening_Spirits/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/244/Kindred_Evening_Spirits/ShipyardIcon.png"
 			}
 		]
 	},
@@ -10784,6 +10910,28 @@
 		]
 	},
 	{
+		"id": "554",
+		"name": "Revenge",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/554/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/554/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/554/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/554/Default/ShipyardIcon.png"
+			},
+			{
+				"name": "The Maid-Knight Charges Forth!",
+				"type": "Maid",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/554/The_MaidKnight_Charges_Forth/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/554/The_MaidKnight_Charges_Forth/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/554/The_MaidKnight_Charges_Forth/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/554/The_MaidKnight_Charges_Forth/ShipyardIcon.png"
+			}
+		]
+	},
+	{
 		"id": "453",
 		"name": "Richelieu",
 		"skins": [
@@ -10936,6 +11084,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Plan005/Dark_Red_Grin/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Plan005/Dark_Red_Grin/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Plan005/Dark_Red_Grin/ShipyardIcon.png"
+			},
+			{
+				"name": "Viridescent Lullaby",
+				"type": "Spring",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Plan005/Viridescent_Lullaby/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Plan005/Viridescent_Lullaby/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Plan005/Viridescent_Lullaby/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Plan005/Viridescent_Lullaby/ShipyardIcon.png"
 			}
 		]
 	},
@@ -13216,6 +13372,14 @@
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/142/Default/ShipyardIcon.png"
 			},
 			{
+				"name": "Retrofit",
+				"type": "Kai",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/142/Retrofit/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/142/Retrofit/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/142/Retrofit/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/142/Retrofit/ShipyardIcon.png"
+			},
+			{
 				"name": "Wedding",
 				"type": "Wedding",
 				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/142/Wedding/Banner.png",
@@ -13472,6 +13636,28 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103/Night_Princess_Idol/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103/Night_Princess_Idol/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103/Night_Princess_Idol/ShipyardIcon.png"
+			}
+		]
+	},
+	{
+		"id": "137",
+		"name": "Vanguard",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/137/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/137/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/137/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/137/Default/ShipyardIcon.png"
+			},
+			{
+				"name": "Half-Hearted Masquerade",
+				"type": "Maid",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/137/HalfHearted_Masquerade/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/137/HalfHearted_Masquerade/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/137/HalfHearted_Masquerade/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/137/HalfHearted_Masquerade/ShipyardIcon.png"
 			}
 		]
 	},
@@ -13746,6 +13932,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/064/Default/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/064/Default/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/064/Default/ShipyardIcon.png"
+			},
+			{
+				"name": "Jubilant Smile",
+				"type": "Spring",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/064/Jubilant_Smile/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/064/Jubilant_Smile/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/064/Jubilant_Smile/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/064/Jubilant_Smile/ShipyardIcon.png"
 			}
 		]
 	},
@@ -14846,6 +15040,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Plan020/Default/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Plan020/Default/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Plan020/Default/ShipyardIcon.png"
+			},
+			{
+				"name": "Iron Blood's Dragon Maid",
+				"type": "Maid",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Plan020/Iron_Bloods_Dragon_Maid/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Plan020/Iron_Bloods_Dragon_Maid/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Plan020/Iron_Bloods_Dragon_Maid/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Plan020/Iron_Bloods_Dragon_Maid/ShipyardIcon.png"
 			}
 		]
 	},

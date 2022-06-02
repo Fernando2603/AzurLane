@@ -1,10 +1,11 @@
-last resort : 28 may 2022 (utc-0 8:20) (utc-7 15:20)
--> Little_CheshireBanner.png
--> BellonaMaidShipyardIcon.png
+last resort : 02 June 2022 (utc-0 6:55) (utc-7 13:55)
+-> WashingtonSpringBanner.png
+-> RoonSpringShipyardIcon.png
 
 ===========================================================
-28 May 2022 (+69 File) (path:/update/)
+28 May 2022 - 02 June 2022 (+106 File) (path:/update/)
 
+AkatsukiTravelBanner.png
 AkatsukiTravelChibiIcon.png
 AkatsukiTravelIcon.png
 AkatsukiTravelShipyardIcon.png
@@ -20,6 +21,22 @@ BellonaMaidChibiIcon.png
 BellonaMaidIcon.png
 BellonaMaidShipyardIcon.png
 BellonaShipyardIcon.png
+BoiseSpringBanner.png
+BoiseSpringChibiIcon.png
+BoiseSpringIcon.png
+BoiseSpringShipyardIcon.png
+ChitoseSpringBanner.png
+ChitoseSpringChibiIcon.png
+ChitoseSpringIcon.png
+ChitoseSpringShipyardIcon.png
+GroznySpringBanner.png
+GroznySpringChibiIcon.png
+GroznySpringIcon.png
+GroznySpringShipyardIcon.png
+HoweSpringBanner.png
+HoweSpringChibiIcon.png
+HoweSpringIcon.png
+HoweSpringShipyardIcon.png
 IndomitableBanner.png
 IndomitableChibiIcon.png
 IndomitableIcon.png
@@ -36,6 +53,11 @@ JervisMaidChibiIcon.png
 JervisMaidIcon.png
 JervisMaidShipyardIcon.png
 JervisShipyardIcon.png
+Le_MarsSpringBanner.png
+Le_MarsSpringChibiIcon.png
+Le_MarsSpringIcon.png
+Le_MarsSpringShipyardIcon.png
+Le_TerribleSummerBanner.png
 Le_TerribleSummerChibiIcon.png
 Le_TerribleSummerIcon.png
 Le_TerribleSummerShipyardIcon.png
@@ -59,10 +81,21 @@ RevengeMaidChibiIcon.png
 RevengeMaidIcon.png
 RevengeMaidShipyardIcon.png
 RevengeShipyardIcon.png
+RoonShipyardIcon.png
+RoonSpringBanner.png
+RoonSpringChibiIcon.png
+RoonSpringIcon.png
+RoonSpringShipyardIcon.png
+TirpitzSpringBanner.png
+TirpitzSpringChibiIcon.png
+TirpitzSpringIcon.png
+TirpitzSpringShipyardIcon.png
+UnicornKaiBanner.png
 UnicornKaiChibiIcon.png
 UnicornKaiIcon.png
 UnicornKaiShipyardIcon.png
 ValiantChibiIcon.png
+VanguardBanner.png
 VanguardChibiIcon.png
 VanguardIcon.png
 VanguardMaidBanner.png
@@ -70,6 +103,10 @@ VanguardMaidChibiIcon.png
 VanguardMaidIcon.png
 VanguardMaidShipyardIcon.png
 VanguardShipyardIcon.png
+WashingtonSpringBanner.png
+WashingtonSpringChibiIcon.png
+WashingtonSpringIcon.png
+WashingtonSpringShipyardIcon.png
 ÄgirMaidBanner.png
 ÄgirMaidChibiIcon.png
 ÄgirMaidIcon.png
