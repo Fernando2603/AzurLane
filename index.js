@@ -15,11 +15,20 @@ const __dirname		= dirname(fileURLToPath(import.meta.url));
 
 Promise.all([
 	fetch("https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/ships.json")
-	.then(res => res.json())
+	.then(res => res.json()),
+	fetch("https://raw.githubusercontent.com/Fernando2603/AzurMine/main/stats.json")
+	.then(res => res.json()),
 ]).then(
-	([azurAPI]) => {
+	([azurAPI, stats]) => {
 		console.log("AzurAPI & ShipBanner Loaded!");
-		main(azurAPI, ShipBanner, __dirname); 
+		main(azurAPI, ShipBanner, __dirname);
+		fs.writeFile("./stats.json", JSON.stringify(stats), "utf8", function (err) {
+			if (err) {
+				console.log("An error occured while writing JSON to File");
+				return console.log(err);
+			};
+	        console.log("=> ./stats.json has been updated!");
+		});	
 	},
 	(error) => {
 		console.log('error: ' + error);

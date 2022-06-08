@@ -498,6 +498,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/159/Santas_Lost_Helper/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/159/Santas_Lost_Helper/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/159/Santas_Lost_Helper/ShipyardIcon.png"
+			},
+			{
+				"name": "Cirque de Ninjutsu!",
+				"type": "Travel",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/159/Cirque_de_Ninjutsu/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/159/Cirque_de_Ninjutsu/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/159/Cirque_de_Ninjutsu/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/159/Cirque_de_Ninjutsu/ShipyardIcon.png"
 			}
 		]
 	},
@@ -2032,6 +2040,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/514/Castle_Tales/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/514/Castle_Tales/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/514/Castle_Tales/ShipyardIcon.png"
+			},
+			{
+				"name": "Jade Mermaid",
+				"type": "Spring",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/514/Jade_Mermaid/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/514/Jade_Mermaid/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/514/Jade_Mermaid/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/514/Jade_Mermaid/ShipyardIcon.png"
 			}
 		]
 	},
@@ -2674,6 +2690,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/470/Summer_Shine/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/470/Summer_Shine/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/470/Summer_Shine/ShipyardIcon.png"
+			},
+			{
+				"name": "Mosaic of Blending Colors",
+				"type": "Spring",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/470/Mosaic_of_Blending_Colors/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/470/Mosaic_of_Blending_Colors/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/470/Mosaic_of_Blending_Colors/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/470/Mosaic_of_Blending_Colors/ShipyardIcon.png"
 			}
 		]
 	},
@@ -4674,6 +4698,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/431/Shadowy_Syndicate_Showdown/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/431/Shadowy_Syndicate_Showdown/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/431/Shadowy_Syndicate_Showdown/ShipyardIcon.png"
+			},
+			{
+				"name": "Tea Party with Królik",
+				"type": "Spring",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/431/Tea_Party_with_Krlik/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/431/Tea_Party_with_Krlik/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/431/Tea_Party_with_Krlik/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/431/Tea_Party_with_Krlik/ShipyardIcon.png"
 			}
 		]
 	},
@@ -7862,6 +7894,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/351/colire_Heureuse/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/351/colire_Heureuse/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/351/colire_Heureuse/ShipyardIcon.png"
+			},
+			{
+				"name": "Splendorous Debut",
+				"type": "Spring",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/351/Splendorous_Debut/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/351/Splendorous_Debut/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/351/Splendorous_Debut/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/351/Splendorous_Debut/ShipyardIcon.png"
 			}
 		]
 	},
@@ -12898,6 +12938,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/251/Seasonal_Pine_and_the_Frost_Flower/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/251/Seasonal_Pine_and_the_Frost_Flower/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/251/Seasonal_Pine_and_the_Frost_Flower/ShipyardIcon.png"
+			},
+			{
+				"name": "A Vase for the Frost Flower",
+				"type": "Spring",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/251/A_Vase_for_the_Frost_Flower/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/251/A_Vase_for_the_Frost_Flower/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/251/A_Vase_for_the_Frost_Flower/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/251/A_Vase_for_the_Frost_Flower/ShipyardIcon.png"
 			}
 		]
 	},
