@@ -1,28 +1,4 @@
-Updated & Unused File = 24
-AkatsukiTravelBanner.png
-AkatsukiTravelChibiIcon.png
-AkatsukiTravelIcon.png
-AkatsukiTravelShipyardIcon.png
-BoiseSpringBanner.png
-BoiseSpringChibiIcon.png
-BoiseSpringIcon.png
-BoiseSpringShipyardIcon.png
-ChitoseSpringBanner.png
-ChitoseSpringChibiIcon.png
-ChitoseSpringIcon.png
-ChitoseSpringShipyardIcon.png
-GroznySpringBanner.png
-GroznySpringChibiIcon.png
-GroznySpringIcon.png
-GroznySpringShipyardIcon.png
-Le_MarsSpringBanner.png
-Le_MarsSpringChibiIcon.png
-Le_MarsSpringIcon.png
-Le_MarsSpringShipyardIcon.png
-TirpitzSpringBanner.png
-TirpitzSpringChibiIcon.png
-TirpitzSpringIcon.png
-TirpitzSpringShipyardIcon.png
+Updated & Unused File = 0
 
 Unused File (path:/images/unused) = 20
 San_Francisco\San_FranciscoBunnyCensoredBanner.png
