@@ -18,8 +18,10 @@ Promise.all([
 	.then(res => res.json()),
 	fetch("https://raw.githubusercontent.com/Fernando2603/AzurMine/main/stats.json")
 	.then(res => res.json()),
+	fetch("https://raw.githubusercontent.com/Fernando2603/AzurMine/main/equippable.json")
+	.then(res => res.json())
 ]).then(
-	([azurAPI, stats]) => {
+	([azurAPI, stats, equippable]) => {
 		console.log("AzurAPI & ShipBanner Loaded!");
 		main(azurAPI, ShipBanner, __dirname);
 		fs.writeFile("./stats.json", JSON.stringify(stats), "utf8", function (err) {
@@ -28,7 +30,14 @@ Promise.all([
 				return console.log(err);
 			};
 	        console.log("=> ./stats.json has been updated!");
-		});	
+		});
+		fs.writeFile("./equippable.json", JSON.stringify(equippable), "utf8", function (err) {
+			if (err) {
+				console.log("An error occured while writing JSON to File");
+				return console.log(err);
+			};
+	        console.log("=> ./equippable.json has been updated!");
+		});
 	},
 	(error) => {
 		console.log('error: ' + error);
