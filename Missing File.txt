@@ -1,4 +1,20 @@
-Updated & Unused File = 0
+Updated & Unused File = 16
+ForbinWeddingBanner.png
+ForbinWeddingChibiIcon.png
+ForbinWeddingIcon.png
+ForbinWeddingShipyardIcon.png
+New_JerseyWeddingBanner.png
+New_JerseyWeddingChibiIcon.png
+New_JerseyWeddingIcon.png
+New_JerseyWeddingShipyardIcon.png
+Repulse_METABanner.png
+Repulse_METAChibiIcon.png
+Repulse_METAIcon.png
+Repulse_METAShipyardIcon.png
+SaratogaWeddingBanner.png
+SaratogaWeddingChibiIcon.png
+SaratogaWeddingIcon.png
+SaratogaWeddingShipyardIcon.png
 
 Unused File (path:/images/unused) = 20
 San_Francisco\San_FranciscoBunnyCensoredBanner.png

@@ -190,13 +190,12 @@ function data_extract(azurapi, ship_banner) {
 	console.table( table_array.map(idx => { return { "FILE": idx.file } }) );
 	console.log(count_v2);
 
-	// const json_content = JSON.stringify(json_data, null , "\t");
-	// fs.writeFile("./skin_path.json", json_content, 'utf8', function (err) {
-	// 	if (err) {
-	// 		console.log("An error occured while writing JSON to File");
-	// 		return console.log(err);
-	// 	};
+	fs.writeFile("./src/azurapi.json", JSON.stringify(azurapi, null , "\t"), 'utf8', function (err) {
+		if (err) {
+			console.log("An error occured while writing JSON to File");
+			return console.log(err);
+		};
 
-	// 	console.log("=> ./skin_path.json has been updated!");
-	// });
+		console.log("=> ./azurapi.json has been updated!");
+	});
 };
