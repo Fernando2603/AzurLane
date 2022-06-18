@@ -1,13 +1,15 @@
 {
   "name": "fernando2603@azurlane",
-  "version": "2.0.3",
+  "version": "2.0.5",
   "private": true,
   "description": "Azurlane Resources",
   "main": "index.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
     "start": "node .",
     "check": "node file_check.js",
+    "predeploy": "node src/deploy.js",
+    "deploy": "npm version patch --force --no-git-tag-version",
     "voiceline": "node src/voiceline.js"
   },
   "repository": {
