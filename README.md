@@ -2,14 +2,6 @@
 Azur Lane Resources
 >Resources from [AzurAPI](https://github.com/AzurAPI/azurapi-js-setup) & [Azur Lane Wiki](https://azurlane.koumakan.jp)
 
-| VERSION | DATE | CHANGES |
-| :---: | :---: | :---: |
-| 1.0.0 | 24-09-2021 | Created azurlane repository |
-| 2.0.0 | 29-04-2022 | Add Virtual Tower ship |
-| 2.0.1 | 06-05-2022 | Add Rondo at Rainbow's End ship, add voiceline.json | 
-| 2.0.2 | 02-06-2022 | Add Pledge of the Radiant Court ship | 
-| 2.0.3 | 08-06-2022 | Add skins | 
-
 ## Fetch
 - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/ShipBanner.json`
 - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/meowfficer.json`

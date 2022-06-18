@@ -3936,6 +3936,14 @@
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/348/Retrofit/ShipyardIcon.png"
 			},
 			{
+				"name": "Wedding",
+				"type": "Wedding",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/348/Wedding/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/348/Wedding/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/348/Wedding/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/348/Wedding/ShipyardIcon.png"
+			},
+			{
 				"name": "Fleur Blanche",
 				"type": "Misc",
 				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/348/Fleur_Blanche/Banner.png",
@@ -9656,6 +9664,14 @@
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/068/Default/ShipyardIcon.png"
 			},
 			{
+				"name": "Wedding",
+				"type": "Wedding",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/068/Wedding/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/068/Wedding/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/068/Wedding/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/068/Wedding/ShipyardIcon.png"
+			},
+			{
 				"name": "Exhilarating Steps!",
 				"type": "Bunny",
 				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/068/Exhilarating_Steps/Banner.png",
@@ -10950,6 +10966,11 @@
 		]
 	},
 	{
+		"id": "30012",
+		"name": "Repulse META",
+		"skins": []
+	},
+	{
 		"id": "554",
 		"name": "Revenge",
 		"skins": [
@@ -11412,6 +11433,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/074/Retrofit/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/074/Retrofit/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/074/Retrofit/ShipyardIcon.png"
+			},
+			{
+				"name": "Wedding",
+				"type": "Wedding",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/074/Wedding/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/074/Wedding/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/074/Wedding/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/074/Wedding/ShipyardIcon.png"
 			},
 			{
 				"name": "Seven Seas of Rest",

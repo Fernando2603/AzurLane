@@ -1,5 +1,14 @@
-last resort : 13 June 2022 (utc-0 4:37) (utc-7 11:37)
--> SaratogaWeddingShipyardIcon.png 
+last resort : 18 June 2022 (utc-0 9:15) (utc-7 16:15)
+-> HermioneHospitalChibiIcon.png 
+
+===========================================================
+18 June 2022 (+5 File) (path:/update/)
+
+HermioneHospitalChibiIcon.png
+HermioneHospitalIcon.png
+JervisChibiIcon.png
+JervisShipyardIcon.png
+ValiantHospitalChibiIcon.png
 
 ===========================================================
 13 June 2022 (+16 File) (path:/update/)
