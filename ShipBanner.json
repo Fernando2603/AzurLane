@@ -1824,6 +1824,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/428/Night_Skys_Brilliant_Blue_Blossoms/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/428/Night_Skys_Brilliant_Blue_Blossoms/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/428/Night_Skys_Brilliant_Blue_Blossoms/ShipyardIcon.png"
+			},
+			{
+				"name": "Romeo or Juliet?",
+				"type": "Fairy_Tale",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/428/Romeo_or_Juliet/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/428/Romeo_or_Juliet/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/428/Romeo_or_Juliet/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/428/Romeo_or_Juliet/ShipyardIcon.png"
 			}
 		]
 	},
@@ -3642,6 +3650,20 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/547/WhiteBlack_Partita/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/547/WhiteBlack_Partita/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/547/WhiteBlack_Partita/ShipyardIcon.png"
+			}
+		]
+	},
+	{
+		"id": "557",
+		"name": "Enterprise",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/557/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/557/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/557/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/557/Default/ShipyardIcon.png"
 			}
 		]
 	},
@@ -6688,6 +6710,36 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/309/The_Tacticians_Vacation/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/309/The_Tacticians_Vacation/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/309/The_Tacticians_Vacation/ShipyardIcon.png"
+			},
+			{
+				"name": "The Gray Wolf's Ploy",
+				"type": "Fairy_Tale",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/309/The_Gray_Wolfs_Ploy/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/309/The_Gray_Wolfs_Ploy/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/309/The_Gray_Wolfs_Ploy/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/309/The_Gray_Wolfs_Ploy/ShipyardIcon.png"
+			}
+		]
+	},
+	{
+		"id": "555",
+		"name": "Joffre",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/555/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/555/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/555/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/555/Default/ShipyardIcon.png"
+			},
+			{
+				"name": "Ensorcelled Snow White",
+				"type": "Fairy_Tale",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/555/Ensorcelled_Snow_White/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/555/Ensorcelled_Snow_White/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/555/Ensorcelled_Snow_White/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/555/Ensorcelled_Snow_White/ShipyardIcon.png"
 			}
 		]
 	},
@@ -7636,6 +7688,28 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/238/Default/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/238/Default/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/238/Default/ShipyardIcon.png"
+			}
+		]
+	},
+	{
+		"id": "556",
+		"name": "L'Indomptable",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/556/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/556/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/556/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/556/Default/ShipyardIcon.png"
+			},
+			{
+				"name": "Little Red Riding Hood's Worries",
+				"type": "Fairy_Tale",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/556/Little_Red_Riding_Hoods_Worries/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/556/Little_Red_Riding_Hoods_Worries/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/556/Little_Red_Riding_Hoods_Worries/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/556/Little_Red_Riding_Hoods_Worries/ShipyardIcon.png"
 			}
 		]
 	},
@@ -11790,6 +11864,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/268/Worlds_Speediest_Bunny_Waitress/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/268/Worlds_Speediest_Bunny_Waitress/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/268/Worlds_Speediest_Bunny_Waitress/ShipyardIcon.png"
+			},
+			{
+				"name": "The White Rabbit of Wonderland",
+				"type": "Fairy_Tale",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/268/The_White_Rabbit_of_Wonderland/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/268/The_White_Rabbit_of_Wonderland/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/268/The_White_Rabbit_of_Wonderland/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/268/The_White_Rabbit_of_Wonderland/ShipyardIcon.png"
 			}
 		]
 	},

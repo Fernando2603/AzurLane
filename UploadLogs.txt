@@ -1,5 +1,47 @@
-last resort : 18 June 2022 (utc-0 9:15) (utc-7 16:15)
--> HermioneHospitalChibiIcon.png 
+last resort : 04 July 2022 (utc-0 2:40) (utc-7 09:40)
+-> Z23KfcBanner.png 
+
+===========================================================
+04 July 2022 (+38 File) (path:/update/)
+
+BiloxiFairy_TaleBanner.png
+BiloxiFairy_TaleChibiIcon.png
+BiloxiFairy_TaleIcon.png
+BiloxiFairy_TaleShipyardIcon.png
+Enterprise_(Royal_Navy)Banner.png
+Enterprise_(Royal_Navy)ChibiIcon.png
+Enterprise_(Royal_Navy)Icon.png
+Enterprise_(Royal_Navy)ShipyardIcon.png
+HermioneHospitalShipyardIcon.png
+JintsuuFairy_TaleBanner.png
+JintsuuFairy_TaleChibiIcon.png
+JintsuuFairy_TaleIcon.png
+JintsuuFairy_TaleShipyardIcon.png
+JoffreBanner.png
+JoffreChibiIcon.png
+JoffreFairy_TaleBanner.png
+JoffreFairy_TaleChibiIcon.png
+JoffreFairy_TaleIcon.png
+JoffreFairy_TaleShipyardIcon.png
+JoffreIcon.png
+JoffreShipyardIcon.png
+L'IndomptableBanner.png
+L'IndomptableChibiIcon.png
+L'IndomptableFairy_TaleBanner.png
+L'IndomptableFairy_TaleChibiIcon.png
+L'IndomptableFairy_TaleIcon.png
+L'IndomptableFairy_TaleShipyardIcon.png
+L'IndomptableIcon.png
+L'IndomptableShipyardIcon.png
+ShimakazeFairy_TaleBanner.png
+ShimakazeFairy_TaleChibiIcon.png
+ShimakazeFairy_TaleIcon.png
+ShimakazeFairy_TaleShipyardIcon.png
+ValiantHospitalShipyardIcon.png
+Z23KfcBanner.png
+Z23KfcChibiIcon.png
+Z23KfcIcon.png
+Z23KfcShipyardIcon.png
 
 ===========================================================
 18 June 2022 (+5 File) (path:/update/)
