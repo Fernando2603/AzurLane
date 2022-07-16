@@ -1,9 +1,32 @@
-Updated & Unused File = 4
+Updated & Unused File = 28
 Z23KfcBanner.png
 Z23KfcChibiIcon.png
 Z23KfcIcon.png
 Z23KfcShipyardIcon.png
-
+AlgérieFairy_TaleBanner.png
+AlgérieFairy_TaleChibiIcon.png
+AlgérieFairy_TaleIcon.png
+AlgérieFairy_TaleShipyardIcon.png
+BrestBanner.png
+BrestChibiIcon.png
+BrestIcon.png
+BrestShipyardIcon.png
+ChkalovBanner.png
+ChkalovChibiIcon.png
+ChkalovIcon.png
+ChkalovShipyardIcon.png
+HarbinBanner.png
+HarbinChibiIcon.png
+HarbinIcon.png
+HarbinShipyardIcon.png
+PlymouthBanner.png
+PlymouthChibiIcon.png
+PlymouthIcon.png
+PlymouthShipyardIcon.png
+Prinz_RupprechtBanner.png
+Prinz_RupprechtChibiIcon.png
+Prinz_RupprechtIcon.png
+Prinz_RupprechtShipyardIcon.png
 
 Unused File (path:/images/unused) = 20
 San_Francisco\San_FranciscoBunnyCensoredBanner.png
