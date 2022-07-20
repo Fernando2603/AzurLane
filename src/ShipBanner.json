@@ -2098,6 +2098,20 @@
 		]
 	},
 	{
+		"id": "20027",
+		"name": "Brest",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/20027/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/20027/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/20027/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/20027/Default/ShipyardIcon.png"
+			}
+		]
+	},
+	{
 		"id": "533",
 		"name": "Bristol",
 		"skins": [
@@ -2728,6 +2742,20 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/471/Shimmering_Surf/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/471/Shimmering_Surf/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/471/Shimmering_Surf/ShipyardIcon.png"
+			}
+		]
+	},
+	{
+		"id": "20026",
+		"name": "Chkalov",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/20026/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/20026/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/20026/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/20026/Default/ShipyardIcon.png"
 			}
 		]
 	},
@@ -4938,6 +4966,20 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/449/Blossoming_Spring_Resplendent_Moon/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/449/Blossoming_Spring_Resplendent_Moon/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/449/Blossoming_Spring_Resplendent_Moon/ShipyardIcon.png"
+			}
+		]
+	},
+	{
+		"id": "20025",
+		"name": "Harbin",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/20025/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/20025/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/20025/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/20025/Default/ShipyardIcon.png"
 			}
 		]
 	},
@@ -10548,6 +10590,20 @@
 		]
 	},
 	{
+		"id": "20023",
+		"name": "Plymouth",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/20023/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/20023/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/20023/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/20023/Default/ShipyardIcon.png"
+			}
+		]
+	},
+	{
 		"id": "489",
 		"name": "Pola",
 		"skins": [
@@ -10800,6 +10856,20 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/483/Fireworks_and_Tapestries/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/483/Fireworks_and_Tapestries/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/483/Fireworks_and_Tapestries/ShipyardIcon.png"
+			}
+		]
+	},
+	{
+		"id": "20024",
+		"name": "Prinz Rupprecht",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/20024/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/20024/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/20024/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/20024/Default/ShipyardIcon.png"
 			}
 		]
 	},

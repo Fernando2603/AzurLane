@@ -198,7 +198,7 @@ function main(azurapi, ship_banner)
 		if (!SHIP_BANNER)
 		{
 			new_ship.push(SHIP_NAME);
-			SHIP_SKIN.forEach((idx) => new_skin.push(idx.name));
+			SHIP_SKIN.forEach((idx) => new_skin.push(SHIP_NAME + " - " + idx.name));
 		}
 		else
 		{
