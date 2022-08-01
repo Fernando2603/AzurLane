@@ -48,7 +48,7 @@ Azur Lane Resources
          },
          {
             "name": "Mischief on the Rocks",
-            "ty[e": "Bunny",
+            "type": "Bunny",
             "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Mischief_on_the_Rocks/Banner.png",
             "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Mischief_on_the_Rocks/Icon.png",
             "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Mischief_on_the_Rocks/ChibiIcon.png",
