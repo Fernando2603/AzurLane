@@ -24,5 +24,8 @@
   "homepage": "https://github.com/Fernando2603/AzurLane#readme",
   "dependencies": {
     "node-fetch": "^3.2.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
   }
 }

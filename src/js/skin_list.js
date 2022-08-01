@@ -5588,4 +5588,4 @@ export const skin_list = [
 	"Ōkami_Mio\\Ookami_MioSummerChibiIcon.png",
 	"Ōkami_Mio\\Ookami_MioSummerIcon.png",
 	"Ōkami_Mio\\Ookami_MioSummerShipyardIcon.png"
-]
+];
