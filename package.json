@@ -7,7 +7,7 @@
   "type": "module",
   "scripts": {
     "start": "node .",
-    "check": "node file_check.js",
+    "check": "node check.js",
     "predeploy": "node src/deploy.js",
     "deploy": "npm version patch --force --no-git-tag-version",
     "voiceline": "node src/voiceline.js"
@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/Fernando2603/AzurLane#readme",
   "dependencies": {
+    "crypto-hash": "^2.0.1",
     "node-fetch": "^3.2.3"
   },
   "devDependencies": {

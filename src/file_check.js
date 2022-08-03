@@ -1,48 +1,33 @@
 import fs from "node:fs";
-import fetch from "node-fetch";
-import { dirname, join } from "path";
-import { fileURLToPath } from "url";
+import { join } from "path";
 
-const BANNER_FILE = fs.readFileSync("./src/ShipBanner.json");
-const SHIP_BANNER = JSON.parse(BANNER_FILE);
+const link_remove = (file) =>
+	file.replace("https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/", "");
 
-const __dirname	= dirname(fileURLToPath(import.meta.url));
-
-function link_remove(file)
+export default function main(azurapi, ship_banner, __dirname)
 {
-	const FILE_RETURN	= file.replace("https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/", "");
-	return FILE_RETURN;
-};
+	let local_file_list = [];
+	let table_array     = [];
+	let missing_array   = [];
+	let unknown_array   = [];
 
-function main(azurapi, ship_banner)
-{
-	let local_file_list	= [];
-	let table_array		= [];
-	let missing_array	= [];
-	let unknown_array	= [];
-	const ABSOLUTE_PATH	= join(__dirname, "/images/skins/");
+	const ABSOLUTE_PATH = join(__dirname, "/images/skins/");
 	fs.readdirSync(ABSOLUTE_PATH).forEach((folder) =>
 	{
-		const FOLDER_PATH	= join(ABSOLUTE_PATH, folder);
+		const FOLDER_PATH = join(ABSOLUTE_PATH, folder);
 		fs.readdirSync(FOLDER_PATH).forEach((ship) =>
 		{
-			const SKIN_PATH	= join(FOLDER_PATH, ship);
+			const SKIN_PATH = join(FOLDER_PATH, ship);
 
 			if (fs.existsSync(SKIN_PATH) && fs.lstatSync(SKIN_PATH).isDirectory())
 			{
 				fs.readdirSync(SKIN_PATH).forEach((skin) =>
-				{
-					const FULL_PATH	= folder + "/" + ship + "/" + skin;
-					local_file_list.push(FULL_PATH);
-				});
+					local_file_list.push(folder + "/" + ship + "/" + skin));
 			}
-			else
-			{
-				const FULL_PATH	= folder + "/" + ship;
-				local_file_list.push(FULL_PATH);
-			};
+			else local_file_list.push(folder + "/" + ship);
 		});
 	});
+
 	console.log("Checking local file");
 	ship_banner.forEach((ship) =>
 	{
@@ -156,6 +141,9 @@ function main(azurapi, ship_banner)
 			const SKIN_CHIBI    = link_remove(skin.chibi);
 			const SKIN_SHIPYARD = link_remove(skin.shipyard);
 
+			if (!skin.type)
+				console.log("=> " + ship.name + " skin.type = " + skin.type);
+
 			if (local_file_list.find(idx => idx === SKIN_BANNER))
 				find_list.push(SKIN_BANNER);
 
@@ -233,15 +221,3 @@ function main(azurapi, ship_banner)
 		console.log("=> ./azurapi.json has been updated!");
 	});
 };
-
-Promise.all([
-	fetch("https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/ships.json")
-		.then(res => res.json())
-]).then(
-	([azurAPI]) =>
-	{
-		console.log("AzurAPI & ShipBanner Loaded!");
-		main(azurAPI, SHIP_BANNER);
-	},
-	(error) => { console.log("error: " + error) }
-);

@@ -4,10 +4,11 @@ import fetch from "node-fetch";
 import { dirname } from "path";
 import { fileURLToPath } from "url";
 
-import main from "./src/main.js";
+import main from "./src/file_check.js";
+import hash from "./src/hash.js";
 
-const banner_file = fs.readFileSync("./ShipBanner.json");
-const ShipBanner  = JSON.parse(banner_file);
+const BANER_FILE  = fs.readFileSync("./ShipBanner.json");
+const SHIP_BANNER = JSON.parse(BANER_FILE);
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
@@ -20,7 +21,8 @@ Promise.all([
 	([azurAPI]) =>
 	{
 		console.log("AzurAPI & ShipBanner Loaded!");
-		main(azurAPI, ShipBanner, __dirname);
+		main(azurAPI, SHIP_BANNER, __dirname);
+		hash();
 	},
-	(error) => console.log("error: " + error)
+	(error) => { console.log("error: " + error) }
 );

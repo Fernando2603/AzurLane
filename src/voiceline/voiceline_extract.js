@@ -11,9 +11,9 @@ export default function voiceline_extract(
 )
 {
 	let ship_name  = ship.names.en;
-	const ship_id  = ship.id;
-	if (ship_id === "30001") ship_name = "Hiryuu META";
-	if (ship_id === "30002") ship_name = "Ark Royal META";
+	const SHIP_ID  = ship.id;
+	if (SHIP_ID === "30001") ship_name = "Hiryuu META";
+	if (SHIP_ID === "30002") ship_name = "Ark Royal META";
 
 	let skin_output = [];
 
@@ -22,40 +22,40 @@ export default function voiceline_extract(
 		skin_list.forEach((skin) =>
 		{
 			let skin_name        = skin_template[skin].name;
-			const voiceline_data = skin_voiceline[skin];
-			const normalize_skin = ship_normalize(skin_name);
-			const normalize_name = ship_normalize(ship_name);
+			const VOICELINE_DATA = skin_voiceline[skin];
+			const NORMALIZE_SKIN = ship_normalize(skin_name);
+			const NORMALIZE_NAME = ship_normalize(ship_name);
 
-			if (normalize_skin === normalize_name)	{ skin_name	= "Default" };
+			if (NORMALIZE_SKIN === NORMALIZE_NAME)	{ skin_name	= "Default" };
 			if (skin_name.includes("namecode"))		{ skin_name	= "Default" };
 			if (skin_name.includes("Retrofit"))		{ skin_name	= "Retrofit" };
 
-			const line_battle = resolve_namecode(voiceline_data.battle, name_code);
-			const line_detail = resolve_namecode(voiceline_data.detail, name_code);
-			const line_drop_descrip = resolve_namecode(voiceline_data.drop_descrip, name_code);
-			const line_expedition = resolve_namecode(voiceline_data.expedition, name_code);
-			const line_feeling1 = resolve_namecode(voiceline_data.feeling1, name_code);
-			const line_feeling2 = resolve_namecode(voiceline_data.feeling2, name_code);
-			const line_feeling3 = resolve_namecode(voiceline_data.feeling3, name_code);
-			const line_feeling4 = resolve_namecode(voiceline_data.feeling4, name_code);
-			const line_feeling5 = resolve_namecode(voiceline_data.feeling5, name_code);
-			const line_headtouch = resolve_namecode(voiceline_data.headtouch, name_code);
-			const line_home = resolve_namecode(voiceline_data.home, name_code);
-			const line_hp_warning = resolve_namecode(voiceline_data.hp_warning, name_code);
-			const line_login = resolve_namecode(voiceline_data.login, name_code);
-			const line_lose = resolve_namecode(voiceline_data.lose, name_code);
-			const line_mail = resolve_namecode(voiceline_data.mail, name_code);
-			const line_main = resolve_namecode(voiceline_data.main, name_code);
-			const line_mission = resolve_namecode(voiceline_data.mission, name_code);
-			const line_mission_complete = resolve_namecode(voiceline_data.mission_complete, name_code);
-			const line_profile = resolve_namecode(voiceline_data.profile, name_code);
-			const line_propose = resolve_namecode(voiceline_data.propose, name_code);
-			const line_skill = resolve_namecode(voiceline_data.skill, name_code);
-			const line_touch = resolve_namecode(voiceline_data.touch, name_code);
-			const line_touch2 = resolve_namecode(voiceline_data.touch2, name_code);
-			const line_unlock = resolve_namecode(voiceline_data.unlock, name_code);
-			const line_upgrade = resolve_namecode(voiceline_data.upgrade, name_code);
-			const line_win_mvp = resolve_namecode(voiceline_data.win_mvp, name_code);
+			const line_battle = resolve_namecode(VOICELINE_DATA.battle, name_code);
+			const line_detail = resolve_namecode(VOICELINE_DATA.detail, name_code);
+			const line_drop_descrip = resolve_namecode(VOICELINE_DATA.drop_descrip, name_code);
+			const line_expedition = resolve_namecode(VOICELINE_DATA.expedition, name_code);
+			const line_feeling1 = resolve_namecode(VOICELINE_DATA.feeling1, name_code);
+			const line_feeling2 = resolve_namecode(VOICELINE_DATA.feeling2, name_code);
+			const line_feeling3 = resolve_namecode(VOICELINE_DATA.feeling3, name_code);
+			const line_feeling4 = resolve_namecode(VOICELINE_DATA.feeling4, name_code);
+			const line_feeling5 = resolve_namecode(VOICELINE_DATA.feeling5, name_code);
+			const line_headtouch = resolve_namecode(VOICELINE_DATA.headtouch, name_code);
+			const line_home = resolve_namecode(VOICELINE_DATA.home, name_code);
+			const line_hp_warning = resolve_namecode(VOICELINE_DATA.hp_warning, name_code);
+			const line_login = resolve_namecode(VOICELINE_DATA.login, name_code);
+			const line_lose = resolve_namecode(VOICELINE_DATA.lose, name_code);
+			const line_mail = resolve_namecode(VOICELINE_DATA.mail, name_code);
+			const line_main = resolve_namecode(VOICELINE_DATA.main, name_code);
+			const line_mission = resolve_namecode(VOICELINE_DATA.mission, name_code);
+			const line_mission_complete = resolve_namecode(VOICELINE_DATA.mission_complete, name_code);
+			const line_profile = resolve_namecode(VOICELINE_DATA.profile, name_code);
+			const line_propose = resolve_namecode(VOICELINE_DATA.propose, name_code);
+			const line_skill = resolve_namecode(VOICELINE_DATA.skill, name_code);
+			const line_touch = resolve_namecode(VOICELINE_DATA.touch, name_code);
+			const line_touch2 = resolve_namecode(VOICELINE_DATA.touch2, name_code);
+			const line_unlock = resolve_namecode(VOICELINE_DATA.unlock, name_code);
+			const line_upgrade = resolve_namecode(VOICELINE_DATA.upgrade, name_code);
+			const line_win_mvp = resolve_namecode(VOICELINE_DATA.win_mvp, name_code);
 
 
 			let voiceline_battle = ({ type: "battle", line: line_battle });
@@ -249,12 +249,10 @@ export default function voiceline_extract(
 	}
 	else { console.log(ship.names.en.padEnd(20) + "E404-NULL".padEnd(10) + "VOICE_LINE EN") };
 
-	const ship_output = ({
+	return ({
 		id: ship.id,
 		gid: ship._gid,
 		name: ship.names.en,
 		skins: skin_output
 	});
-
-	return ship_output;
 };
