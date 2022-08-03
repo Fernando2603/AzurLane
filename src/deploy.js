@@ -1,8 +1,8 @@
 import fs from "node:fs";
 
-const ShipBanner = JSON.parse(fs.readFileSync("./src/ShipBanner.json"));
+const SHIP_BANNER = JSON.parse(fs.readFileSync("./src/ShipBanner.json"));
 
-fs.writeFile("./ShipBanner.json", JSON.stringify(ShipBanner, null, "\t"), "utf8", function (err)
+fs.writeFile("./ShipBanner.json", JSON.stringify(SHIP_BANNER, null, "\t"), "utf8", function (err)
 {
 	if (err)
 	{

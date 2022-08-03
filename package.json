@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/Fernando2603/AzurLane#readme",
   "dependencies": {
+    "crypto-hash": "^2.0.1",
     "node-fetch": "^3.2.3"
   },
   "devDependencies": {

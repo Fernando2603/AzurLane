@@ -10,20 +10,20 @@ function main(azurapi, voiceline, voiceline_extra, skin_id, skin_template, name_
 
 	azurapi.forEach((ship) =>
 	{
-		const ship_gid    = ship._gid;
-		const skin_list  = skin_list_extract(skin_id, skin_template, ship_gid);
-		const ship_output = voiceline_extract(ship, skin_list, skin_template, voiceline, voiceline_extra, name_code);
+		const SHIP_GID    = ship._gid;
+		const SKIN_LIST   = skin_list_extract(skin_id, skin_template, SHIP_GID);
+		const SHIP_OUTPUT = voiceline_extract(ship, SKIN_LIST, skin_template, voiceline, voiceline_extra, name_code);
 
-		if (ship_output.skins.length !== 0)
-			ship_skin_list_id.push(ship_output);
+		if (SHIP_OUTPUT.skins.length !== 0)
+			ship_skin_list_id.push(SHIP_OUTPUT);
 	});
 
-	const save_to_json = JSON.stringify(ship_skin_list_id, null, "\t");
-	fs.writeFile("./voiceline.json", save_to_json, "utf8", function (err)
-	{
-		if (err)
-		 return console.log(err);
-	});
+	fs.writeFile(
+		"./voiceline.json",
+		JSON.stringify(ship_skin_list_id, null, "\t"),
+		"utf8",
+		(err) => err ? console.log(err) : console.log("=> ./src/voiceline.json has been updated!")
+	);
 };
 
 Promise.all([
@@ -45,8 +45,5 @@ Promise.all([
 		console.log("AzurAPI & VoiceLine Loaded!");
 		main(azurAPI, voiceline, voiceline_extra, skin_id.all, skin_template, name_code);
 	},
-	(error) =>
-	{
-		console.log("error: " + error);
-	}
+	(error) => console.log("error: " + error)
 );

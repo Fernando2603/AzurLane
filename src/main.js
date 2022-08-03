@@ -12,39 +12,39 @@ export default function main(azurapi, ship_banner, __dirname)
 	azurapi.forEach((ship) =>
 	{
 		let ship_name   = ship.names.en;
-		const ship_id   = ship.id;
-		const ship_skin = ship.skins; // array
+		const SHIP_ID   = ship.id;
+		const SHIP_SKIN = ship.skins; // array
 
 		// replace name because azurapi names.en output is hiryu.meta & royal.meta
-		if (ship_id === "30001") ship_name = "Hiryuu META";
-		if (ship_id === "30002") ship_name = "Ark Royal META";
+		if (SHIP_ID === "30001") ship_name = "Hiryuu META";
+		if (SHIP_ID === "30002") ship_name = "Ark Royal META";
 
 		// check banner exist or not
-		let banner_get  = ship_banner.find(banner => banner.id === ship_id);
+		let banner_get  = ship_banner.find(banner => banner.id === SHIP_ID);
 		let skin_output = [];
 
 		// json builder
 		let ship_output = ({
-			id: ship_id,
+			id: SHIP_ID,
 			name: ship_name,
 			skins: skin_output
 		});
 
 		if (banner_get)
 		{
-			const skin_patch_data   = skin_patch(ship, ship_skin, banner_get, __dirname);
-			const skin_output_patch = skin_patch_data.skin_output;
-			const table_array_patch = skin_patch_data.table_array;
-			skin_output.push(...skin_output_patch);
-			table_array.push(...table_array_patch);
+			const SKIN_PATCH_DATA   = skin_patch(ship, SHIP_SKIN, banner_get, __dirname);
+			const SKIN_OUTPUT_PATCH = SKIN_PATCH_DATA.skin_output;
+			const TABLE_ARRAY_PATCH = SKIN_PATCH_DATA.table_array;
+			skin_output.push(...SKIN_OUTPUT_PATCH);
+			table_array.push(...TABLE_ARRAY_PATCH);
 		}
 		else
 		{
-			const ship_patch_data   = ship_patch(ship, ship_skin, banner_get, __dirname);
-			const ship_output_patch = ship_patch_data.ship_output;
-			const table_array_patch = ship_patch_data.table_array;
-			ship_output = ship_output_patch;
-			table_array.push(...table_array_patch);
+			const SHIP_PATCH_DATA   = ship_patch(ship, SHIP_SKIN, banner_get, __dirname);
+			const SHIP_OUTPUT_PATCH = SHIP_PATCH_DATA.ship_output;
+			const TABLE_ARRAY_PATCH = SHIP_PATCH_DATA.table_array;
+			ship_output = SHIP_OUTPUT_PATCH;
+			table_array.push(...TABLE_ARRAY_PATCH);
 		};
 
 		json_data.push(ship_output);
@@ -65,15 +65,10 @@ export default function main(azurapi, ship_banner, __dirname)
 		})
 	);
 
-	const json_content = JSON.stringify(json_data, null, "\t");
-
-	fs.writeFile("./src/ShipBanner.json", json_content, "utf8", function (err)
-	{
-		if (err)
-		{
-			console.log("An error occured while writing JSON to File");
-			return console.log(err);
-		};
-		console.log("=> ./src/ShipBanner.json has been updated!");
-	});
+	fs.writeFile(
+		"./src/ShipBanner.json",
+		JSON.stringify(json_data, null, "\t"),
+		"utf8",
+		(err) => err ? console.log(err) : console.log("=> ./src/ShipBanner.json has been updated!")
+	);
 };
