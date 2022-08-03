@@ -38,22 +38,25 @@ async function getSkin(skin)
 	});
 };
 
-for (let i = 0; i < SHIP_BANNER.length; i++)
+export default async function hash()
 {
-	let skin_container = [];
-	for (let x = 0; x < SHIP_BANNER[i].skins.length; x++)
-		skin_container.push(await getSkin(SHIP_BANNER[i].skins[x]));
+	for (let i = 0; i < SHIP_BANNER.length; i++)
+	{
+		let skin_container = [];
+		for (let x = 0; x < SHIP_BANNER[i].skins.length; x++)
+			skin_container.push(await getSkin(SHIP_BANNER[i].skins[x]));
 
-	container.push({
-		id: SHIP_BANNER[i].id,
-		name: SHIP_BANNER[i].name,
-		skins: skin_container
-	});
+		container.push({
+			id: SHIP_BANNER[i].id,
+			name: SHIP_BANNER[i].name,
+			skins: skin_container
+		});
+	};
+
+	fs.writeFile(
+		"./src/hash.json",
+		JSON.stringify(container, null, "\t"),
+		"utf8",
+		(err) => err ? console.log(err) : console.log("=> ./src/hash.json has been updated!")
+	);
 };
-
-fs.writeFileSync(
-	"./src/hash.json",
-	JSON.stringify(container, null, "\t"),
-	"utf8",
-	(err) => err ? console.log(err) : null
-);

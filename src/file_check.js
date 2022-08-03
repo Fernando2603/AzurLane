@@ -1,17 +1,10 @@
 import fs from "node:fs";
-import fetch from "node-fetch";
-import { dirname, join } from "path";
-import { fileURLToPath } from "url";
-
-const BANNER_FILE = fs.readFileSync("./src/ShipBanner.json");
-const SHIP_BANNER = JSON.parse(BANNER_FILE);
-
-const __dirname = dirname(fileURLToPath(import.meta.url));
+import { join } from "path";
 
 const link_remove = (file) =>
 	file.replace("https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/", "");
 
-function main(azurapi, ship_banner)
+export default function main(azurapi, ship_banner, __dirname)
 {
 	let local_file_list = [];
 	let table_array     = [];
@@ -228,15 +221,3 @@ function main(azurapi, ship_banner)
 		console.log("=> ./azurapi.json has been updated!");
 	});
 };
-
-Promise.all([
-	fetch("https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/ships.json")
-		.then(res => res.json())
-]).then(
-	([azurAPI]) =>
-	{
-		console.log("AzurAPI & ShipBanner Loaded!");
-		main(azurAPI, SHIP_BANNER);
-	},
-	(error) => { console.log("error: " + error) }
-);
