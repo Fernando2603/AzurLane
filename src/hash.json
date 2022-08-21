@@ -15214,6 +15214,14 @@
 				"icon": "710fc2d06251cca388d8f5bbe65b0c9bc74fba57250cb0010aef245dad0febaa",
 				"chibi": "8001ab4e9fc0805b0d70d1ace920c6a3bb4f7b76e71395c7132dca39f7eb667f",
 				"shipyard": "69f919324c7992d163c1565518b52fe7ba4956744621476537be5fff789754cf"
+			},
+			{
+				"name": "Fries, and smiles!",
+				"type": "Kfc",
+				"banner": "03bed1b63a88b48eeec99a69d27b87684e1c9ba79214269354fc2669f299eec5",
+				"icon": "81a1dd8b09961deb46f3aa6e333b22d005ce40ba20a66a521f202b3f464a22cc",
+				"chibi": "b4191d714e1573339f6a42b0c5457c66c87957881b7b2f99e271278088fcd325",
+				"shipyard": "1f286949614843f7565274fd8d2727cdedf5b2a459c1a579c8156776bc2c1480"
 			}
 		]
 	},
@@ -15226,7 +15234,7 @@
 				"type": "Default",
 				"banner": "c5d5553ae890c7f67e4ce522816f2d83f70ce2215cf5ef5486f70303fd8f658f",
 				"icon": "45188b35a5eca224fcece681e7c8f61cc9f010f408774f0a1e2f9e2f73a73d3a",
-				"chibi": "f9c5465f9cb68cdcb09bebaef1d064797bdfc5edea1f346875e49fb0c0b3c0cf",
+				"chibi": "fdfc9f7a12e4047887b84df8aad41d781997d9e1bf43c836514928e1c3baa694",
 				"shipyard": "3e23836cf97977bb1aa1e19361ad7e039da9f464627b0348c0dd277554d189b0"
 			},
 			{
@@ -15234,7 +15242,7 @@
 				"type": "New_Year",
 				"banner": "8628bee463365f953c5cf905bd73d7ebaab69b993b85c6d1023a7028672d6805",
 				"icon": "5dcc5726314de110c5251bb6e911cd8d367c7ba04c80af1d9d7feb2072a7279b",
-				"chibi": "d7eed7fcc13efeb2e874c854e0b8afa5e34d65904879a6ea488f9f18c9264817",
+				"chibi": "11e6cf5d1fe9177841b2558ee62ebf3ea656a1e87618041403b9dd01f1fbd5c4",
 				"shipyard": "7f2b2b02b1f46fada1f459a0b8357df3520cabe66a88b3cc0439d54f85c531c1"
 			}
 		]

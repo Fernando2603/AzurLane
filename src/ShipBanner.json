@@ -15214,6 +15214,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/236/Keeper_of_the_ComfFort/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/236/Keeper_of_the_ComfFort/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/236/Keeper_of_the_ComfFort/ShipyardIcon.png"
+			},
+			{
+				"name": "Fries, and smiles!",
+				"type": "Kfc",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/236/Fries_and_smiles/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/236/Fries_and_smiles/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/236/Fries_and_smiles/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/236/Fries_and_smiles/ShipyardIcon.png"
 			}
 		]
 	},
