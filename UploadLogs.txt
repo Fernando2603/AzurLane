@@ -1,5 +1,80 @@
-last resort : 01 August 2022 (utc-0 4:45) (utc-7 11:45)
--> AyanamiNicoNicoChibiIcon.png
+last resort : 21 August 2022 (utc-0 4:00) (utc-7 11:00)
+-> Z24New YearChibi.png
+
+
+===========================================================
+21 August 2022 (+70 File) (path:/update/)
+
+BlücherBanner.png
+BlücherChibiIcon.png
+BlücherIcon.png
+BlücherShipyardIcon.png
+BlücherSportBanner.png
+BlücherSportChibiIcon.png
+BlücherSportIcon.png
+BlücherSportShipyardIcon.png
+BrünhildeBanner.png
+BrünhildeChibiIcon.png
+BrünhildeIcon.png
+BrünhildeShipyardIcon.png
+BrünhildeSportBanner.png
+BrünhildeSportChibiIcon.png
+BrünhildeSportIcon.png
+BrünhildeSportShipyardIcon.png
+Charles_AusburneKaiBanner.png
+Charles_AusburneKaiChibiIcon.png
+Charles_AusburneKaiIcon.png
+Charles_AusburneKaiShipyardIcon.png
+EssexDetectiveBanner.png
+EssexDetectiveChibiIcon.png
+EssexDetectiveIcon.png
+EssexDetectiveShipyardIcon.png
+HelenaWeddingBanner.png
+HelenaWeddingChibiIcon.png
+HelenaWeddingIcon.png
+HelenaWeddingShipyardIcon.png
+HornetSportBanner.png
+HornetSportChibiIcon.png
+HornetSportIcon.png
+HornetSportShipyardIcon.png
+IsuzuSportBanner.png
+IsuzuSportChibiIcon.png
+IsuzuSportIcon.png
+IsuzuSportShipyardIcon.png
+KirovSportBanner.png
+KirovSportChibiIcon.png
+KirovSportIcon.png
+KirovSportShipyardIcon.png
+MagdeburgSummerBanner.png
+MagdeburgSummerChibiIcon.png
+MagdeburgSummerIcon.png
+MagdeburgSummerShipyardIcon.png
+U-96SportBanner.png
+U-96SportChibiIcon.png
+U-96SportIcon.png
+U-96SportShipyardIcon.png
+WeserSummerBanner.png
+WeserSummerChibiIcon.png
+WeserSummerIcon.png
+WeserSummerShipyardIcon.png
+Z16Banner.png
+Z16ChibiIcon.png
+Z16Icon.png
+Z16ShipyardIcon.png
+Z16SportBanner.png
+Z16SportChibiIcon.png
+Z16SportIcon.png
+Z16SportShipyardIcon.png
+Z23KfcBanner.png
+Z23KfcChibiIcon.png
+Z23KfcIcon.png
+Z23KfcShipyardIcon.png
+Z24ChibiIcon.png
+Z24New_YearChibiIcon.png
+Z24SportBanner.png
+Z24SportChibiIcon.png
+Z24SportIcon.png
+Z24SportShipyardIcon.png
 
 ===========================================================
 01 August 2022 (+136 File) (path:/update/)

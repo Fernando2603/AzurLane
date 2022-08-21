@@ -5578,4 +5578,4 @@ export const local_file_list = [
 	"Unknown/UnknownChibiIcon.png",
 	"Unknown/UnknownIcon.png",
 	"Unknown/UnknownShipyardIcon.png"
-]
+];
