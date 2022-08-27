@@ -2030,6 +2030,28 @@
 		]
 	},
 	{
+		"id": "243",
+		"name": "Blücher",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "03e4cf2d1273ddfe560ac33fab4eeb55c596a52ba2d3ff208f83a5b53ed284c8",
+				"icon": "10c9f2cbd8140cfcc883e8a79842f2e1aedad1e503b780ca585fbe40b1edbc0f",
+				"chibi": "d6ead28eb38eea440ca207cfc32eb3c9a24ed2cfd98d084db806612e7ac2ef28",
+				"shipyard": "036760dbd4f5acf2508b9cc5f4b45640d6f5489882b77747def0eda578752df2"
+			},
+			{
+				"name": "High-Altitude Head Over Heels",
+				"type": "Sport",
+				"banner": "d6fa535c2696bdd0385e656525a1d261ac87fea2e0856e3215d1dea6041d9fd9",
+				"icon": "2172d275392d8a5324b87e534907a3a2c74639fd3ec67d288edb31abcb035118",
+				"chibi": "7dd548e6bec721efab6a88ac5d8b08fb07379578c18d66e91a9d4cb1973653c1",
+				"shipyard": "73d3bc06ad2cfa4c0e2ae0e398daca92f58c0bfecd985baf5e75141e5b41f134"
+			}
+		]
+	},
+	{
 		"id": "071",
 		"name": "Bogue",
 		"skins": [
@@ -2196,6 +2218,28 @@
 				"icon": "42eed5f6e36ebff8f02a4f766cff29a214629e5cc3733c68b2334faca929b84a",
 				"chibi": "ea82d65653d089ce016c80a126fc3d19306ae90be7e12e81ff38d10e33a016e1",
 				"shipyard": "c1e2ca89dbf9170e71e2c07952eb2baade47276ea610cb1a4f376a73450ca5f2"
+			}
+		]
+	},
+	{
+		"id": "566",
+		"name": "Brünhilde",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "58f17e728af714b324ca847ab3d5916fb4207ba10f8da5f75f5b99e5cdd5cdad",
+				"icon": "6546a459fb308b26c469db10951e7c4153bc1bf488a6cbcea02b4a360c03bc5b",
+				"chibi": "b32736c3df2659ded12290d9cf63c9310a0263c2ae5e16d8843e5461e3ff351b",
+				"shipyard": "88220c62a14eb89ee3a8af6653dde87e0ebfb420a697fb4288e7d74ffa70df89"
+			},
+			{
+				"name": "Grain-Seizing Grani",
+				"type": "Sport",
+				"banner": "bd23171729a29cdd3eaed2e57ac08964d122cf64b8629649bfc98dae4a001893",
+				"icon": "6687bf338b160f38af6b2d6db198d7879f4a49ca10dd7629769e36f5474a01e9",
+				"chibi": "cd2a17535a34c70c6085b29ba1be2aa026f91e4ff424026b8d10c501b1b64f3f",
+				"shipyard": "956252a4e2472f9340d5f2e4caef355a21c3f99bc0c6a1f70fbef1211e49740b"
 			}
 		]
 	},
@@ -2550,6 +2594,14 @@
 				"icon": "7c96b2ae662cc037193cdd8f11370bf2157fb988d4d5c4273cfe1a923fb54fdc",
 				"chibi": "60e35b85ed81c7ead525e8a11ca14a01f81cd0c49d5bd0e722d8e0cc63221685",
 				"shipyard": "62da61d373f6f0dbc510291878d44ca4a09d608a3e47dbda8817556e723c74ee"
+			},
+			{
+				"name": "Retrofit",
+				"type": "Kai",
+				"banner": "756ca8c3710c011f621e2b45d9dc81b91c2082ea8d9a77c47def7992c738b075",
+				"icon": "41dccf2ecfda31fe915476bc85aa0b18134e38c85135a50c3a0a605a5b434ade",
+				"chibi": "026c8d3b72354dbd91c07b9e97ba4414f0e92fcde66f36e15cb519b71d0eeeef",
+				"shipyard": "ffc676f4f5ce850471336ad625e879aeb38ec88975a897a2c62252dd8fae64d3"
 			}
 		]
 	},
@@ -3934,6 +3986,14 @@
 				"icon": "e487df0802a56be5dfaf8e5fdaa1ba699a26f13babdf7c5619acc56d5e4d9ad2",
 				"chibi": "19090a3d939db9763967b8e28d9c24fa71b365d1dca0ac0aa99b60b31a977c7c",
 				"shipyard": "fd8090ea21d0bb287ca24553a1ade7e226667c33c4cd42415a86b8af7fce367e"
+			},
+			{
+				"name": "Detective Essex",
+				"type": "Detective",
+				"banner": "03ced9813d7b43cf6eb5c8d2ad373046a0a6e6ef6ab5a5efd8eabe0f21851f67",
+				"icon": "85dd259f5910c4d1f12aba6734155abe3e9d07728da9d712c849479bcec247eb",
+				"chibi": "d9d96b57bc3c79cb226bfe75ad8cae42f5e720802bfc4fe9c2ca76d8c1321b07",
+				"shipyard": "7ecc048b26cf52a8d8e2fda7f4caf572393599e06d22d31b828be2b5dc56a93b"
 			}
 		]
 	},
@@ -5746,6 +5806,14 @@
 				"icon": "04218e69aeef916ee4bcf210e37797ecd402d63c5a5cb90f6b6d7f2b3917d648",
 				"chibi": "3916aa1429b6479e98538b4deaf67fd07bfa7e35e0580584a51ec43eea431a71",
 				"shipyard": "42a14cbb09c9fb776f7530fa74f624ca23145312a19e3a93356d65c10f51275d"
+			},
+			{
+				"name": "Cheering Justice!",
+				"type": "Sport",
+				"banner": "02d6e15e63b2caa89390df97855d1f292da7eb9a6444d120f7477b439e63a6fb",
+				"icon": "4ab980093eec2c0e682936d63e5910671d325f90999e759d45ac5482c4e2a5f1",
+				"chibi": "c3ff04eb6214e7ee3e0aa276a3834c4d5dd410cc65f2a5c4e0d23000fdce3bd6",
+				"shipyard": "fdc5393526eddd5df8f2066d8d310a25abd2a9264a0a22ca37de454b6b4e5d61"
 			}
 		]
 	},
@@ -6554,6 +6622,14 @@
 				"icon": "913ab289e320ddc0c309b7c3bd1f9de1ec96ca6cd80e45711ddb556417ff7381",
 				"chibi": "77d3ad247c92b02512890644a5233004f37f9cd69a388eb10f87bde85b8a2b4f",
 				"shipyard": "ebcc2631c0588efdd809aed22f4a6ac8689881ea4450ac0b921980f68eb00a5d"
+			},
+			{
+				"name": "Charge, My Trusty Steeds!",
+				"type": "Sport",
+				"banner": "d88aee2f9a0f516882d5ad6874a2fd276e456706ffe6c88c15c9aca588ed4a26",
+				"icon": "491a33997df8a891251e95e62e51b5c07249359b6ef83a4fb3900095a7c7fd33",
+				"chibi": "fdc1754960342cf3050dcc4bc4491de466525c03e50fa3b7c040e71ac57fbe50",
+				"shipyard": "2a0cac46e7c397d7d336599da109a2d4d1f35e61b550f0a51debd710e2479af0"
 			}
 		]
 	},
@@ -7568,6 +7644,14 @@
 				"icon": "7bf29d74140ca813c51e8449ff13b8aa8a5e77c80df38a4b5d254ed5f3f180a1",
 				"chibi": "36c1f7e556dc38dcb8274b322da9a2ffc2d139150ce5e38cae47920e859ae713",
 				"shipyard": "6f4210ace91b07bf8ea49d916f145b0fac02de9422f0825f19adb3b33683ddc4"
+			},
+			{
+				"name": "High Jump Star",
+				"type": "Sport",
+				"banner": "153a6544e073e954baa542b3fa798de516c65eed3a5f74aa63cfef7d935a4629",
+				"icon": "46e755dfd377dd667f1d74f60541581905c9408abe42586be29e7302a5e968be",
+				"chibi": "e8ae975c49a1e092c434460a5b7335b76cd93694f37890a46f19f40912b74d0e",
+				"shipyard": "5b02402d62e9407da7af1a260888665e897b211a0a9d608b5ea6f0c40d3c9642"
 			}
 		]
 	},
@@ -8614,6 +8698,14 @@
 				"icon": "13b935ef824d7533c6ee1e359e37112a31d453873e7b99dc0538e2eecbf308b2",
 				"chibi": "fd12cb7e8c85f47d405cde4319d73c4107a2f8ed6faf6bfe59e0067371c46849",
 				"shipyard": "cf0aa060b1e8c9b32d3194408759c0184791c8554ce5d4f53eb89b55f7b93e8d"
+			},
+			{
+				"name": "Gone Fishing",
+				"type": "Summer",
+				"banner": "06119fad9d3d042ec0fea6280cff9f0de9c32981663a9b3a42ea197cf97a6ed3",
+				"icon": "27bb91832e41538e5c8c4bfafdb3c4909a02e786374101a34d5e661788f35353",
+				"chibi": "55c96efa6853eca1ccecb35f13e1746b94af3dce47ab0f1b0ddcf534de01f39c",
+				"shipyard": "b961c513b60f22f010d223fb53ce4aa2437e2e3a00612f9d5dec902373e2d8d6"
 			}
 		]
 	},
@@ -13752,6 +13844,14 @@
 				"icon": "e6d272ac7a4db02adddff42d1169705d2ccc0e43bee4aa41395f81bd5d9ff0a1",
 				"chibi": "576e1193612f2643d876af2db3f184d6441a0175253ebda830811368267a2067",
 				"shipyard": "223f56ddac3a13c276e396cedbb6d9845fb43fc70e958694013a583232361cbe"
+			},
+			{
+				"name": "How Heavy Are Those Barbells?",
+				"type": "Sport",
+				"banner": "c4ef41128bd3f50ddf599d06dcc4338826fb3fcb627560b4967107c4375882e3",
+				"icon": "01502797fc61e2cc876b54d8b7f65b877e9ddcc2a76c2d920eadd6f0c1b34996",
+				"chibi": "5f710d3832b89c19cd2b24007273dce7fda1ffc18201cfdefc72ca5292c39840",
+				"shipyard": "1b6452c8e549c13060273ee9bad0ba45c17ab31556e5a9f3bc9b280485f74501"
 			}
 		]
 	},
@@ -14424,6 +14524,14 @@
 				"icon": "af905be32090acc2cc5fc7890c764f10ca217ff0960f62114f712f0c3bb4a1fb",
 				"chibi": "b8b95cd8ec18337b7d3c74ce98448638aa17c97c0a7f75d448853fc25d093249",
 				"shipyard": "08a397012f13ed8c7ece365145e00fd324015fcdbe13a47b88255d38795ede6c"
+			},
+			{
+				"name": "Wave-Washed Paradise",
+				"type": "Summer",
+				"banner": "5975dc335dcd7ee34fb1251bd45cde45dcb739fcd85e76c88db7e0c4ea82c99b",
+				"icon": "8eb264921b2217293903143385b32ae5a23d58b0248ee72eeeccb8729d45a00a",
+				"chibi": "30967040f4e97e2c7794b4c6b5dfcb0009859d2e92b39226386db681f9c30049",
+				"shipyard": "6d8ee4776fea5d9bba6981fa1e71e3d6e6a9fef78f7ddce0bf811e8793ec9524"
 			}
 		]
 	},
@@ -15038,6 +15146,28 @@
 		]
 	},
 	{
+		"id": "564",
+		"name": "Z16",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "680a8cdd0d1330b9a3ec4907bff5eec083274c1f10feeb92d13fb633a921a60c",
+				"icon": "1608bff8b8a7216e68ac1b5dde50dc0ed965c675f554b2fd75b93cd71831591a",
+				"chibi": "28a341fcabfaa4dfc87e07f30fc69cabd2de29f02f3867232bbe94379fcdf301",
+				"shipyard": "ad3f03cbbd54409c09e213ae1f05847c0201b1e9cbf39450e5311b89762aee7c"
+			},
+			{
+				"name": "Guaranteed Grand Slam!",
+				"type": "Sport",
+				"banner": "3251a26904f8e1eaee742d790816c674df79f7140fd4699f559e64e992b717c6",
+				"icon": "56315333891f35424e43f981644c332397c500c1d2871e7db2689cc8bc21e0ac",
+				"chibi": "cbfc4b202756f40750d4b88fa3407bba1511f735eaeaf52f1af7b2736815ccfa",
+				"shipyard": "0370551e520ba54a6e5278fe13048d17243b5d122fabb2ae933ffdfae7a75a88"
+			}
+		]
+	},
+	{
 		"id": "346",
 		"name": "Z18",
 		"skins": [
@@ -15244,6 +15374,14 @@
 				"icon": "5dcc5726314de110c5251bb6e911cd8d367c7ba04c80af1d9d7feb2072a7279b",
 				"chibi": "11e6cf5d1fe9177841b2558ee62ebf3ea656a1e87618041403b9dd01f1fbd5c4",
 				"shipyard": "7f2b2b02b1f46fada1f459a0b8357df3520cabe66a88b3cc0439d54f85c531c1"
+			},
+			{
+				"name": "The Devil on the Court",
+				"type": "Sport",
+				"banner": "0bafab4cf6e8bda7b9bf48391106e36dacb4ca09fc9c08b87768339c477e3c55",
+				"icon": "0c88ab7ef2729844e09f747e09a7d80ea8f11b8eb850d73db2a61a80f238357f",
+				"chibi": "f11a4aa8d733f0ac5b9a30bb7b141c8b3afd4b9f169ea3e19567eb4c65d072df",
+				"shipyard": "55c4dbd7432a330ac9e11214334bf387b31fac9dcb0e69552c69754d1274a3c4"
 			}
 		]
 	},

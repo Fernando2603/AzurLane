@@ -6,6 +6,8 @@ const link_remove = (file) =>
 
 export default function main(azurapi, ship_banner, __dirname)
 {
+	// eslint-disable-next-line no-console
+	console.time("=> Check Runtime");
 	let local_file_list = [];
 	let table_array     = [];
 	let missing_array   = [];
@@ -220,4 +222,6 @@ export default function main(azurapi, ship_banner, __dirname)
 
 		console.log("=> ./azurapi.json has been updated!");
 	});
+	// eslint-disable-next-line no-console
+	console.timeEnd("=> Check Runtime");
 };

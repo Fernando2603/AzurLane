@@ -153,5 +153,5 @@ export default function ship_patch(ship, ship_skin, ship_banner, __dirname)
 		skins: skin_output
 	});
 
-	return ({ table_array: table_array, SHIP_OUTPUT: SHIP_OUTPUT });
+	return ({ table_array: table_array, ship_output: SHIP_OUTPUT });
 };

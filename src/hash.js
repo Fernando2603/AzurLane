@@ -40,6 +40,8 @@ async function getSkin(skin)
 
 export default async function hash()
 {
+	// eslint-disable-next-line no-console
+	console.time("=> Hash Runtime");
 	for (let i = 0; i < SHIP_BANNER.length; i++)
 	{
 		let skin_container = [];
@@ -59,4 +61,6 @@ export default async function hash()
 		"utf8",
 		(err) => err ? console.log(err) : console.log("=> ./src/hash.json has been updated!")
 	);
+	// eslint-disable-next-line no-console
+	console.timeEnd("=> Hash Runtime");
 };

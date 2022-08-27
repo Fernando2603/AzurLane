@@ -2030,6 +2030,28 @@
 		]
 	},
 	{
+		"id": "243",
+		"name": "Blücher",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/243/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/243/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/243/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/243/Default/ShipyardIcon.png"
+			},
+			{
+				"name": "High-Altitude Head Over Heels",
+				"type": "Sport",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/243/HighAltitude_Head_Over_Heels/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/243/HighAltitude_Head_Over_Heels/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/243/HighAltitude_Head_Over_Heels/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/243/HighAltitude_Head_Over_Heels/ShipyardIcon.png"
+			}
+		]
+	},
+	{
 		"id": "071",
 		"name": "Bogue",
 		"skins": [
@@ -2196,6 +2218,28 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/031/Default/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/031/Default/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/031/Default/ShipyardIcon.png"
+			}
+		]
+	},
+	{
+		"id": "566",
+		"name": "Brünhilde",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/566/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/566/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/566/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/566/Default/ShipyardIcon.png"
+			},
+			{
+				"name": "Grain-Seizing Grani",
+				"type": "Sport",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/566/GrainSeizing_Grani/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/566/GrainSeizing_Grani/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/566/GrainSeizing_Grani/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/566/GrainSeizing_Grani/ShipyardIcon.png"
 			}
 		]
 	},
@@ -2550,6 +2594,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/013/Default/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/013/Default/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/013/Default/ShipyardIcon.png"
+			},
+			{
+				"name": "Retrofit",
+				"type": "Kai",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/013/Retrofit/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/013/Retrofit/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/013/Retrofit/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/013/Retrofit/ShipyardIcon.png"
 			}
 		]
 	},
@@ -3934,6 +3986,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/357/Brush_and_Ink/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/357/Brush_and_Ink/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/357/Brush_and_Ink/ShipyardIcon.png"
+			},
+			{
+				"name": "Detective Essex",
+				"type": "Detective",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/357/Detective_Essex/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/357/Detective_Essex/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/357/Detective_Essex/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/357/Detective_Essex/ShipyardIcon.png"
 			}
 		]
 	},
@@ -5746,6 +5806,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/078/FreshlyBaked_Bonding/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/078/FreshlyBaked_Bonding/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/078/FreshlyBaked_Bonding/ShipyardIcon.png"
+			},
+			{
+				"name": "Cheering Justice!",
+				"type": "Sport",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/078/Cheering_Justice/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/078/Cheering_Justice/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/078/Cheering_Justice/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/078/Cheering_Justice/ShipyardIcon.png"
 			}
 		]
 	},
@@ -6554,6 +6622,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/183/Accidental_Overheat/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/183/Accidental_Overheat/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/183/Accidental_Overheat/ShipyardIcon.png"
+			},
+			{
+				"name": "Charge, My Trusty Steeds!",
+				"type": "Sport",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/183/Charge_My_Trusty_Steeds/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/183/Charge_My_Trusty_Steeds/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/183/Charge_My_Trusty_Steeds/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/183/Charge_My_Trusty_Steeds/ShipyardIcon.png"
 			}
 		]
 	},
@@ -7568,6 +7644,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/435/Drifting_Justice/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/435/Drifting_Justice/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/435/Drifting_Justice/ShipyardIcon.png"
+			},
+			{
+				"name": "High Jump Star",
+				"type": "Sport",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/435/High_Jump_Star/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/435/High_Jump_Star/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/435/High_Jump_Star/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/435/High_Jump_Star/ShipyardIcon.png"
 			}
 		]
 	},
@@ -8614,6 +8698,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/525/Cat_Caf_Cleanup/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/525/Cat_Caf_Cleanup/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/525/Cat_Caf_Cleanup/ShipyardIcon.png"
+			},
+			{
+				"name": "Gone Fishing",
+				"type": "Summer",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/525/Gone_Fishing/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/525/Gone_Fishing/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/525/Gone_Fishing/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/525/Gone_Fishing/ShipyardIcon.png"
 			}
 		]
 	},
@@ -13752,6 +13844,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/467/Secret_Gaming_Session/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/467/Secret_Gaming_Session/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/467/Secret_Gaming_Session/ShipyardIcon.png"
+			},
+			{
+				"name": "How Heavy Are Those Barbells?",
+				"type": "Sport",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/467/How_Heavy_Are_Those_Barbells/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/467/How_Heavy_Are_Those_Barbells/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/467/How_Heavy_Are_Those_Barbells/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/467/How_Heavy_Are_Those_Barbells/ShipyardIcon.png"
 			}
 		]
 	},
@@ -14424,6 +14524,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/485/Urbane_Onyx/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/485/Urbane_Onyx/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/485/Urbane_Onyx/ShipyardIcon.png"
+			},
+			{
+				"name": "Wave-Washed Paradise",
+				"type": "Summer",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/485/WaveWashed_Paradise/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/485/WaveWashed_Paradise/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/485/WaveWashed_Paradise/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/485/WaveWashed_Paradise/ShipyardIcon.png"
 			}
 		]
 	},
@@ -15038,6 +15146,28 @@
 		]
 	},
 	{
+		"id": "564",
+		"name": "Z16",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/564/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/564/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/564/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/564/Default/ShipyardIcon.png"
+			},
+			{
+				"name": "Guaranteed Grand Slam!",
+				"type": "Sport",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/564/Guaranteed_Grand_Slam/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/564/Guaranteed_Grand_Slam/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/564/Guaranteed_Grand_Slam/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/564/Guaranteed_Grand_Slam/ShipyardIcon.png"
+			}
+		]
+	},
+	{
 		"id": "346",
 		"name": "Z18",
 		"skins": [
@@ -15244,6 +15374,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/487/Festivalgoing_Fiend/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/487/Festivalgoing_Fiend/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/487/Festivalgoing_Fiend/ShipyardIcon.png"
+			},
+			{
+				"name": "The Devil on the Court",
+				"type": "Sport",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/487/The_Devil_on_the_Court/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/487/The_Devil_on_the_Court/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/487/The_Devil_on_the_Court/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/487/The_Devil_on_the_Court/ShipyardIcon.png"
 			}
 		]
 	},
