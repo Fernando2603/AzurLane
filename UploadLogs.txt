@@ -1,6 +1,30 @@
-last resort : 21 August 2022 (utc-0 4:00) (utc-7 11:00)
--> Z24New YearChibi.png
+last resort : 13 September 2022 (utc-0 01:45) (utc-7 08:45)
+-> U-81FestivalShipyardIcon.png
 
+===========================================================
+13 September 2022 (+21 File) (path:/update/)
+
+AyanamiKFCBanner.png
+AyanamiKFCChibiIcon.png
+AyanamiKFCIcon.png
+AyanamiKFCShipyardIcon.png
+EmdenFestivalBanner.png
+EmdenFestivalChibiIcon.png
+EmdenFestivalIcon.png
+EmdenFestivalShipyardIcon.png
+HornetSportShipyardIcon.png
+LaffeyKFCBanner.png
+LaffeyKFCChibiIcon.png
+LaffeyKFCIcon.png
+LaffeyKFCShipyardIcon.png
+Renown_METABanner.png
+Renown_METAChibiIcon.png
+Renown_METAIcon.png
+Renown_METAShipyardIcon.png
+U-81FestivalBanner.png
+U-81FestivalChibiIcon.png
+U-81FestivalIcon.png
+U-81FestivalShipyardIcon.png
 
 ===========================================================
 21 August 2022 (+70 File) (path:/update/)

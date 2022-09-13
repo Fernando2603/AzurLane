@@ -1472,6 +1472,14 @@
 				"icon": "535e0f0e3068f68d63a1997e110926311a4cce532e681f1c337f49677711260a",
 				"chibi": "795422e9b598b2f7146934d2015bdf9ac34fb294d05f1d1a128ddae97121c698",
 				"shipyard": "e2ea60b58f2fd89a21adbdddb4b7d705ba28ac82d3eb2c85baa003923b03ccb9"
+			},
+			{
+				"name": "Cola Fills You With Determination",
+				"type": "KFC",
+				"banner": "4282a7d5f34efb0e9a02cb8532e734d8c3a3bdbf642f8d112203ac1eca30647c",
+				"icon": "39c3afb5f4b03f309de6ba0925ae125cb2b89e4390289ce4121c7f1f2683b1a9",
+				"chibi": "fd503c52de3cf3cf5f9877a6249c66f54822a26bceed4c0b08174350b93647a3",
+				"shipyard": "542ec2d8387e048fc5e0ff001c823b3b653fa3ab8e08dac5bf10b06fdc570624"
 			}
 		]
 	},
@@ -3804,6 +3812,14 @@
 				"icon": "1322409d55393cedcfe2a52fc918ae7166370c61976f95ee363fd438bacded45",
 				"chibi": "33fa85fef9d540f229406cead2eee2de4632d0741cf1ff3a533126fc9efd66d4",
 				"shipyard": "80ae3489d1b108cfb6909a0b57a735c0f0fb1c3d2fe41f3ab1c429c68de0b30d"
+			},
+			{
+				"name": "Moonsilver Union",
+				"type": "Festival",
+				"banner": "99ab892ac956577b28da4b62457ae420493daa6d84b544b3e70fbbe4b5380fb6",
+				"icon": "32d117f971a6b68348915d1fd9068ba8fbc2e00596ad69180fee46a3b18164de",
+				"chibi": "a5e2e29361beb726b46eab4c37b628e87c96ac73759a3c83b2a3f05e2a1939bc",
+				"shipyard": "1853949c38c81cd10ee124b628d3c6778729ce53ab05139c6716b3ebe08ff872"
 			}
 		]
 	},
@@ -5382,6 +5398,14 @@
 				"shipyard": "6538b0e5878dd8f57c04b8711b2e6879dff9ff25062d5da2f7a196ddd591e7a7"
 			},
 			{
+				"name": "Wedding",
+				"type": "Wedding",
+				"banner": "670fdee665fc79d4845562ae55ce3dd00d80708cc4dbe3968136427b9a24d470",
+				"icon": "f6121e59d59c63cdd0348387040617d54fed4f4ed824d4df2bf092a5c27bcd73",
+				"chibi": "3459d947e414ee193ca1c2b3f276cc4140f172d15a2c34e5785eb356835b7385",
+				"shipyard": "a38b0a29e829398708c3a01dd0497a83f815842f9727dd6013d13752e97b4890"
+			},
+			{
 				"name": "New Year's Bluebird",
 				"type": "New_Year",
 				"banner": "2bad41aadc7959ba31c198dd7c38ae206e5560737f77c4ea2fc2d8381900a41f",
@@ -5813,7 +5837,7 @@
 				"banner": "02d6e15e63b2caa89390df97855d1f292da7eb9a6444d120f7477b439e63a6fb",
 				"icon": "4ab980093eec2c0e682936d63e5910671d325f90999e759d45ac5482c4e2a5f1",
 				"chibi": "c3ff04eb6214e7ee3e0aa276a3834c4d5dd410cc65f2a5c4e0d23000fdce3bd6",
-				"shipyard": "fdc5393526eddd5df8f2066d8d310a25abd2a9264a0a22ca37de454b6b4e5d61"
+				"shipyard": "76e609f8adcebc034c68da4097636531fb7ffda5e9a2fa92859a8bc814069302"
 			}
 		]
 	},
@@ -8110,6 +8134,14 @@
 				"icon": "cd3af8ad254663ba5150b38edd78203e96fb99193248ed27ee81b6ec599263e8",
 				"chibi": "583201d1e335a61b527bc8ed73772de7e770188d8f938704decd571d37b69b2c",
 				"shipyard": "1811b72e1bfc738b2b07be5be6cae5d598971bd0665cf8e402755e096c634216"
+			},
+			{
+				"name": "Sleepy Teriyaki Twister",
+				"type": "KFC",
+				"banner": "3dc29f3bad61aeb697b87ed103555b5e7ef41c077c8349354ab6112849a6749b",
+				"icon": "f1b13c5c1a6908d6543c668b86ab6e546b034e2661168e8cc999f22f3300f225",
+				"chibi": "28c97bd5e9349e91925449f00aa1def70ac510a72f3b775f20248260913e8dcf",
+				"shipyard": "e7dbffacd74c4831d1432a46373366244bae7921340bd7fd04d3f019824ec178"
 			}
 		]
 	},
@@ -11338,6 +11370,20 @@
 		]
 	},
 	{
+		"id": "30014",
+		"name": "Renown META",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "b21cec6e8142d08daaa12053e79fe5456ab074efec93c02bd8b2c6bc8e536687",
+				"icon": "302509a62adadfec555f65674df5a672c81aed241404754d8cadc1fb722c09ec",
+				"chibi": "3f03cfc3aa5fc03af1591bc0233a4dc3a66c354d28fa460c1f2ab005f3905e42",
+				"shipyard": "e0dbf8b9f07cefc61ec1a7c4c50090dc7324c03869c4902b000835c4c70b31f3"
+			}
+		]
+	},
+	{
 		"id": "128",
 		"name": "Repulse",
 		"skins": [
@@ -13822,6 +13868,14 @@
 				"icon": "bf540339134c8d619c63127dbece2c9b0fd8fb9e07a0e7bc306c588104bc16ff",
 				"chibi": "b642193c03e52fac7e55df661325bc6b88182a5765ab15020da71a31992b0051",
 				"shipyard": "9b32b9d18cee923cb761ad8cc0d68425bf8b5c90c9a8ddf3a37bb01e93627263"
+			},
+			{
+				"name": "Lantern-Lit Full Moon",
+				"type": "Festival",
+				"banner": "fe0dd86e4a6aa04e9ba7ef12b910cd8f99aef3b5efff416945f228e3e7dd0ec6",
+				"icon": "ddeb06387ff2525cb99e38b0cceb2b9b1c332249311d579e7ef795eedbb7e01a",
+				"chibi": "485d3d78f9e689838fe74a199e52f9375fe1c3787136f165c90307cc61424a27",
+				"shipyard": "bca00e78f45914621f755679b1de20f15aa4e4e340ca9fa91931f49f1c138f7a"
 			}
 		]
 	},
