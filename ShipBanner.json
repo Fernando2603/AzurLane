@@ -1472,6 +1472,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/155/Dynasty_Shipgirl/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/155/Dynasty_Shipgirl/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/155/Dynasty_Shipgirl/ShipyardIcon.png"
+			},
+			{
+				"name": "Cola Fills You With Determination",
+				"type": "KFC",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/155/Cola_Fills_You_With_Determination/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/155/Cola_Fills_You_With_Determination/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/155/Cola_Fills_You_With_Determination/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/155/Cola_Fills_You_With_Determination/ShipyardIcon.png"
 			}
 		]
 	},
@@ -3804,6 +3812,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/547/WhiteBlack_Partita/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/547/WhiteBlack_Partita/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/547/WhiteBlack_Partita/ShipyardIcon.png"
+			},
+			{
+				"name": "Moonsilver Union",
+				"type": "Festival",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/547/Moonsilver_Union/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/547/Moonsilver_Union/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/547/Moonsilver_Union/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/547/Moonsilver_Union/ShipyardIcon.png"
 			}
 		]
 	},
@@ -5380,6 +5396,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/033/Retrofit/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/033/Retrofit/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/033/Retrofit/ShipyardIcon.png"
+			},
+			{
+				"name": "Wedding",
+				"type": "Wedding",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/033/Wedding/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/033/Wedding/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/033/Wedding/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/033/Wedding/ShipyardIcon.png"
 			},
 			{
 				"name": "New Year's Bluebird",
@@ -8110,6 +8134,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/019/Sleep_to_Clean_Another_Day/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/019/Sleep_to_Clean_Another_Day/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/019/Sleep_to_Clean_Another_Day/ShipyardIcon.png"
+			},
+			{
+				"name": "Sleepy Teriyaki Twister",
+				"type": "KFC",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/019/Sleepy_Teriyaki_Twister/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/019/Sleepy_Teriyaki_Twister/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/019/Sleepy_Teriyaki_Twister/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/019/Sleepy_Teriyaki_Twister/ShipyardIcon.png"
 			}
 		]
 	},
@@ -11338,6 +11370,20 @@
 		]
 	},
 	{
+		"id": "30014",
+		"name": "Renown META",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/30014/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/30014/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/30014/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/30014/Default/ShipyardIcon.png"
+			}
+		]
+	},
+	{
 		"id": "128",
 		"name": "Repulse",
 		"skins": [
@@ -13822,6 +13868,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/341/Soft_Serenade/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/341/Soft_Serenade/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/341/Soft_Serenade/ShipyardIcon.png"
+			},
+			{
+				"name": "Lantern-Lit Full Moon",
+				"type": "Festival",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/341/LanternLit_Full_Moon/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/341/LanternLit_Full_Moon/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/341/LanternLit_Full_Moon/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/341/LanternLit_Full_Moon/ShipyardIcon.png"
 			}
 		]
 	},

@@ -1,9 +1,4 @@
-Updated & Unused File = 4
-HelenaWeddingBanner.png
-HelenaWeddingChibiIcon.png
-HelenaWeddingIcon.png
-HelenaWeddingShipyardIcon.png
-
+Updated & Unused File = 0
 
 Unused File (path:/images/unused) = 20
 San_Francisco\San_FranciscoBunnyCensoredBanner.png
