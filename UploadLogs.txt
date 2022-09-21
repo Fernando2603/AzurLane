@@ -1,5 +1,73 @@
-last resort : 13 September 2022 (utc-0 01:45) (utc-7 08:45)
--> U-81FestivalShipyardIcon.png
+last resort : 21 September 2022 (utc-0 01:45) (utc-7 08:45)
+-> WakatsukiShipyardIcon.png
+
+===========================================================
+21 September 2022 (+64 File) (path:/update/)
+
+HaguroBanner.png
+HaguroChibiIcon.png
+HaguroIcon.png
+HaguroMaidBanner.png
+HaguroMaidChibiIcon.png
+HaguroMaidIcon.png
+HaguroMaidShipyardIcon.png
+HaguroShipyardIcon.png
+HamakazeMaidBanner.png
+HamakazeMaidChibiIcon.png
+HamakazeMaidIcon.png
+HamakazeMaidShipyardIcon.png
+JuneauKaiBanner.png
+JuneauKaiChibiIcon.png
+JuneauKaiIcon.png
+JuneauKaiShipyardIcon.png
+MikasaMaidBanner.png
+MikasaMaidChibiIcon.png
+MikasaMaidIcon.png
+MikasaMaidShipyardIcon.png
+MiyukiBanner.png
+MiyukiChibiIcon.png
+MiyukiIcon.png
+MiyukiMaidBanner.png
+MiyukiMaidChibiIcon.png
+MiyukiMaidIcon.png
+MiyukiMaidShipyardIcon.png
+MiyukiShipyardIcon.png
+MusashiBanner.png
+MusashiChibiIcon.png
+MusashiIcon.png
+MusashiMaidBanner.png
+MusashiMaidChibiIcon.png
+MusashiMaidIcon.png
+MusashiMaidShipyardIcon.png
+MusashiShipyardIcon.png
+MutsuMaidBanner.png
+MutsuMaidChibiIcon.png
+MutsuMaidIcon.png
+MutsuMaidShipyardIcon.png
+SakawaBanner.png
+SakawaChibiIcon.png
+SakawaIcon.png
+SakawaMaidBanner.png
+SakawaMaidChibiIcon.png
+SakawaMaidIcon.png
+SakawaMaidShipyardIcon.png
+SakawaShipyardIcon.png
+ShropshireKaiBanner.png
+ShropshireKaiChibiIcon.png
+ShropshireKaiIcon.png
+ShropshireKaiShipyardIcon.png
+TanikazeMaidBanner.png
+TanikazeMaidChibiIcon.png
+TanikazeMaidIcon.png
+TanikazeMaidShipyardIcon.png
+WakatsukiBanner.png
+WakatsukiChibiIcon.png
+WakatsukiIcon.png
+WakatsukiMaidBanner.png
+WakatsukiMaidChibiIcon.png
+WakatsukiMaidIcon.png
+WakatsukiMaidShipyardIcon.png
+WakatsukiShipyardIcon.png
 
 ===========================================================
 13 September 2022 (+21 File) (path:/update/)
