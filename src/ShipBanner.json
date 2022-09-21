@@ -4940,6 +4940,28 @@
 		]
 	},
 	{
+		"id": "199",
+		"name": "Haguro",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199/Default/ShipyardIcon.png"
+			},
+			{
+				"name": "A Blessing in Disguise?",
+				"type": "Maid",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199/A_Blessing_in_Disguise/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199/A_Blessing_in_Disguise/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199/A_Blessing_in_Disguise/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199/A_Blessing_in_Disguise/ShipyardIcon.png"
+			}
+		]
+	},
+	{
 		"id": "532",
 		"name": "Hai Chi",
 		"skins": [
@@ -5054,6 +5076,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/318/The_Honors_Student/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/318/The_Honors_Student/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/318/The_Honors_Student/ShipyardIcon.png"
+			},
+			{
+				"name": "The Secret Ingredient is Love?!",
+				"type": "Maid",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/318/The_Secret_Ingredient_is_Love/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/318/The_Secret_Ingredient_is_Love/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/318/The_Secret_Ingredient_is_Love/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/318/The_Secret_Ingredient_is_Love/ShipyardIcon.png"
 			}
 		]
 	},
@@ -7000,6 +7030,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/035/Default/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/035/Default/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/035/Default/ShipyardIcon.png"
+			},
+			{
+				"name": "Retrofit",
+				"type": "Kai",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/035/Retrofit/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/035/Retrofit/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/035/Retrofit/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/035/Retrofit/ShipyardIcon.png"
 			}
 		]
 	},
@@ -9150,6 +9188,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/320/Reverence_for_Rest_and_Relaxation/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/320/Reverence_for_Rest_and_Relaxation/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/320/Reverence_for_Rest_and_Relaxation/ShipyardIcon.png"
+			},
+			{
+				"name": "A Romantic Respite",
+				"type": "Maid",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/320/A_Romantic_Respite/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/320/A_Romantic_Respite/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/320/A_Romantic_Respite/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/320/A_Romantic_Respite/ShipyardIcon.png"
 			}
 		]
 	},
@@ -9328,6 +9374,28 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10064/Golden_Photoshoot/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10064/Golden_Photoshoot/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10064/Golden_Photoshoot/ShipyardIcon.png"
+			}
+		]
+	},
+	{
+		"id": "154",
+		"name": "Miyuki",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/154/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/154/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/154/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/154/Default/ShipyardIcon.png"
+			},
+			{
+				"name": "Shopping Rendezvous",
+				"type": "Maid",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/154/Shopping_Rendezvous/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/154/Shopping_Rendezvous/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/154/Shopping_Rendezvous/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/154/Shopping_Rendezvous/ShipyardIcon.png"
 			}
 		]
 	},
@@ -9554,6 +9622,28 @@
 		]
 	},
 	{
+		"id": "217",
+		"name": "Musashi",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/217/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/217/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/217/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/217/Default/ShipyardIcon.png"
+			},
+			{
+				"name": "Violet Moonglow",
+				"type": "Maid",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/217/Violet_Moonglow/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/217/Violet_Moonglow/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/217/Violet_Moonglow/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/217/Violet_Moonglow/ShipyardIcon.png"
+			}
+		]
+	},
+	{
 		"id": "326",
 		"name": "Musketeer",
 		"skins": [
@@ -9586,6 +9676,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/213/Warring_States_Warship/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/213/Warring_States_Warship/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/213/Warring_States_Warship/ShipyardIcon.png"
+			},
+			{
+				"name": "A Maid's Mis-service?",
+				"type": "Maid",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/213/A_Maids_Misservice/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/213/A_Maids_Misservice/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/213/A_Maids_Misservice/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/213/A_Maids_Misservice/ShipyardIcon.png"
 			}
 		]
 	},
@@ -11760,6 +11858,28 @@
 		]
 	},
 	{
+		"id": "324",
+		"name": "Sakawa",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/324/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/324/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/324/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/324/Default/ShipyardIcon.png"
+			},
+			{
+				"name": "The Colors of Love",
+				"type": "Maid",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/324/The_Colors_of_Love/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/324/The_Colors_of_Love/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/324/The_Colors_of_Love/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/324/The_Colors_of_Love/ShipyardIcon.png"
+			}
+		]
+	},
+	{
 		"id": "040",
 		"name": "Salt Lake City",
 		"skins": [
@@ -12460,6 +12580,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/120/Default/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/120/Default/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/120/Default/ShipyardIcon.png"
+			},
+			{
+				"name": "Retrofit",
+				"type": "Kai",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/120/Retrofit/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/120/Retrofit/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/120/Retrofit/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/120/Retrofit/ShipyardIcon.png"
 			}
 		]
 	},
@@ -13256,6 +13384,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/319/Lost_Girl_and_Labyrinth_Butterfly/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/319/Lost_Girl_and_Labyrinth_Butterfly/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/319/Lost_Girl_and_Labyrinth_Butterfly/ShipyardIcon.png"
+			},
+			{
+				"name": "Sparkly-Clean",
+				"type": "Maid",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/319/SparklyClean/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/319/SparklyClean/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/319/SparklyClean/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/319/SparklyClean/ShipyardIcon.png"
 			}
 		]
 	},
@@ -14474,6 +14610,28 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/173/A_Healthy_Dose_of_Sunshine/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/173/A_Healthy_Dose_of_Sunshine/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/173/A_Healthy_Dose_of_Sunshine/ShipyardIcon.png"
+			}
+		]
+	},
+	{
+		"id": "567",
+		"name": "Wakatsuki",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/567/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/567/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/567/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/567/Default/ShipyardIcon.png"
+			},
+			{
+				"name": "Slapdash Blue Sparrow",
+				"type": "Maid",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/567/Slapdash_Blue_Sparrow/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/567/Slapdash_Blue_Sparrow/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/567/Slapdash_Blue_Sparrow/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/567/Slapdash_Blue_Sparrow/ShipyardIcon.png"
 			}
 		]
 	},

@@ -4940,6 +4940,28 @@
 		]
 	},
 	{
+		"id": "199",
+		"name": "Haguro",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "988bdf1135ff2334a2e2443c4935a180c7b0f6935c3cb32eb33376ef0b44931c",
+				"icon": "3c05bcdec5eb0efd853b88b57e7c848b248c64c265870e9cd8b795f3c3603a4f",
+				"chibi": "09b95e20cea24eed970a51a0c91e15ee976e451c8831a7f0e6af5b3e0a715114",
+				"shipyard": "83ca9e8108c19bc1e25c12ec89f580b83d0ffcf0b02176a7d2869c635440c17a"
+			},
+			{
+				"name": "A Blessing in Disguise?",
+				"type": "Maid",
+				"banner": "9bce0f413b2fe9d0098aa4a055d9dc0f25b20efe191094775cd3d4e4b10c039a",
+				"icon": "228967ceb1eaf0046268f4517e8dd0e92304f03bd3bc1d30aa2df2f1ea2f6c33",
+				"chibi": "e4f4be11d574c42b9f52c5654ea482aea737af8d3a914fa3e5240250e9277ac8",
+				"shipyard": "50ea9e4fb3e7c30dae555ff138eb8b63a2e18bf596ad58667db06b6754c9308e"
+			}
+		]
+	},
+	{
 		"id": "532",
 		"name": "Hai Chi",
 		"skins": [
@@ -5054,6 +5076,14 @@
 				"icon": "f50bd3598903aea1af7cead84563bb4c6261ccc2f31e0c9901cff55b1c8f4771",
 				"chibi": "867564224c51c7f53e6689161ff67350c5f13bfbc80392eea66b9955a5200e42",
 				"shipyard": "62c60f8f8a0d382f02ad4b4cad81aaca361e9a0fdb8d21df2f14b47b9c6b2a58"
+			},
+			{
+				"name": "The Secret Ingredient is Love?!",
+				"type": "Maid",
+				"banner": "dcdbc0aff02415122f22dc40b9ebdb7b93ab5c40c865145759f93664f07fb347",
+				"icon": "418b364f339481012cf4d0e1a15d04b936a73a5dcd89ae2562eae808dff2c249",
+				"chibi": "61a44c494d2f66cb59c9fa9c0e199e86e7ee1de9e466c9be9b3c5dae94b5b056",
+				"shipyard": "444553ca53059806b3c9e158525eabbcf14d5942c43ac5c7c50153bce7c5f1eb"
 			}
 		]
 	},
@@ -7000,6 +7030,14 @@
 				"icon": "f0cd4ff6717650983b814c15f27c37e1078dd4fe1d2907ba3d2546af62966f8b",
 				"chibi": "b265e350fc723e4544831ab2e1f23b6648f385fd84f827ba6a1e9205e35f7c6c",
 				"shipyard": "777afd9fce4778b6955f743661bf4ac81c14f22f832f6bbc79be9b08749d47c7"
+			},
+			{
+				"name": "Retrofit",
+				"type": "Kai",
+				"banner": "aabd7b3b2894a3d12bf79f7e43bafa9d368fceb825cca8bafb4cabea50dd4e50",
+				"icon": "1df139d7d783b3fa2b40a57d56198e8e3650713576ed48ccb37371c6f7802827",
+				"chibi": "59cfdcdf23ea1c52101c2d7669450bbe69bbe57accfc68e777793d9bc3d8b183",
+				"shipyard": "10ca86a5c898b9873d1618e25d327868a19f984223c20e258f8e2448655f16d0"
 			}
 		]
 	},
@@ -9150,6 +9188,14 @@
 				"icon": "3a19ae8d542740381b432c00a0f13bd3ec53f3c5f297e52e26ab4d50097d21c3",
 				"chibi": "21cca88ceeea5f549154903858ed7fb30a028bb3de15cc2c43355ed1d792b947",
 				"shipyard": "284a26244c69f7b0a09d0140f403cb967de38662615264476963ed856745f1c1"
+			},
+			{
+				"name": "A Romantic Respite",
+				"type": "Maid",
+				"banner": "952dc564cbe69d21f9b196fd4ca795f01a0315082de67ac806d69c7b200b083a",
+				"icon": "015bcfb77ae09dc22149c012ea95778de932a1419d96665ad2bf00bd0340305c",
+				"chibi": "5c4b9e236a2ca773858ef5700179a93316940d1adf934e838a110d2f50396dfd",
+				"shipyard": "4281e1dbffc9c148b168f31904ece90bcf698b699bc93ba403018433f749179a"
 			}
 		]
 	},
@@ -9328,6 +9374,28 @@
 				"icon": "7df7d1660d901f14b51ab0aa7f2661e8ad60ebd74bac4653ce9683152436ca37",
 				"chibi": "fb0c139ca86c0dd1c5f94dbd62c5a80dd7eb94afc9b9a4c5c761ad305969b885",
 				"shipyard": "f677d56b99c01b9b63024aaaaeb8aa07e54642635e12bbd9c2beb4e3aab8249f"
+			}
+		]
+	},
+	{
+		"id": "154",
+		"name": "Miyuki",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "bec5f259cbbfbc2ffda10f3b8c1d29891c5f95481744651f031935093bc753a7",
+				"icon": "77b82ec561c4932346393a2ac93a0c76498b78da2d2176ee050e741c95d14112",
+				"chibi": "b88904891a13209e5d83d8e864b7528c3e011dcdbf130bc10ed7f77b633695f6",
+				"shipyard": "916e0ba8db967241f8921637cc395d848f1f654e45345cb9c0313e5932678b25"
+			},
+			{
+				"name": "Shopping Rendezvous",
+				"type": "Maid",
+				"banner": "04a92431455d0141242190ba10a0f81015cb244e8dc8068cf54e3035127e512f",
+				"icon": "a6f7ecf2e0be30b72c13520e3645bfcab001af17e6748e3becd61860094021c8",
+				"chibi": "e01ffac4d3297e33a1845afda66fc643326a4a118ad904d8b26e1c162f359025",
+				"shipyard": "81c9b6fa5fb8b4f3347d63ce1ceda97a59cd5c1c5fc0ba3279b9696022fd7b8e"
 			}
 		]
 	},
@@ -9554,6 +9622,28 @@
 		]
 	},
 	{
+		"id": "217",
+		"name": "Musashi",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "190980342087309f6d210d04912957bd125a1bf718ecfe8d420fe3942534ca34",
+				"icon": "019e7dd38247b8eb09a505879267b3e31d8a37d420109ff45e42e4d2f1f41dcb",
+				"chibi": "2b840f3cbc82f35f26c60ced8dbe15e040c01cd4be130ff3a1e07d405f3dc3a4",
+				"shipyard": "ac9518107fccbb22ca4c694979e2cf67a0496c543471068384f485078657f758"
+			},
+			{
+				"name": "Violet Moonglow",
+				"type": "Maid",
+				"banner": "311e3fbd692019e7dfb57c1f4e9ae4e0ca00e7396bf8f9a6024ee34002427332",
+				"icon": "3367f11e27bc11dc8dd772e025b924f5d4148c572ca888befcfea817589e0138",
+				"chibi": "58b0cc5910cca40b2b25cbf973dec486d1e00eb3b00dc4fb135a45b19475a8de",
+				"shipyard": "b2a2396259aefdfe8793e2b846b890427682586ec6aaa3df74b9ac3f3eaa75c9"
+			}
+		]
+	},
+	{
 		"id": "326",
 		"name": "Musketeer",
 		"skins": [
@@ -9586,6 +9676,14 @@
 				"icon": "b1b0c55773d21b54904901e289c2dac745833a4efdbac3fe65dae0a4bc460103",
 				"chibi": "e5f601ad051b63c1fed419a8401d26a7c9cf2875b22e4a8f9556fdefdf3e61c8",
 				"shipyard": "a978840c077fc1358a5ef5c6300811ec39bb58a4b8f11f3ad7e28b6cf32c190f"
+			},
+			{
+				"name": "A Maid's Mis-service?",
+				"type": "Maid",
+				"banner": "5e77ee9ac3d22479d158c50a97e42c8c4c6fb93caaf04332ab5c6332e9b72f0a",
+				"icon": "24cb47afaee49c551f48513499d543516441cdc80ab7f7f1bea3e8a2e6d3f95e",
+				"chibi": "a9dc32813a57554d73d819fd82cfe7deb0fed659b9fb4e70a54d7041e3395237",
+				"shipyard": "843cd3fba187134aa24b29176cd2123082a64bed5309661c65514070ef8ae222"
 			}
 		]
 	},
@@ -11760,6 +11858,28 @@
 		]
 	},
 	{
+		"id": "324",
+		"name": "Sakawa",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "7a52df7e42721e2b716ce84d44795d242893af873845431b12129414250b7a07",
+				"icon": "e0ba416ed28b59c3bbb9f6f5726870e96218f7fa7bc91d316b46b14a6fe2f85e",
+				"chibi": "e26a93cde36877a25ae04debe05ac524d1aee59e382496bd22c3f61ec44bd5f1",
+				"shipyard": "d96eced07d5f5419a957490e7f20f6cfd8facab7796ac45e6932a15a7ef71afb"
+			},
+			{
+				"name": "The Colors of Love",
+				"type": "Maid",
+				"banner": "94e11680c0d52911f661671e3d8e19bc9e66876a468f1f161353d44318218f2f",
+				"icon": "1944fdeec2b7befc84048fd664d3ea146a3aa791da5448abab8c3bd48adf18ce",
+				"chibi": "1036f368da25b7b297aedb8982707c5e5d377c812105042d65bf0213c48a2a23",
+				"shipyard": "78e7e882056c9ff5ffc3d6e14876865959ae976dede14a262e3ad26c2a6fcedc"
+			}
+		]
+	},
+	{
 		"id": "040",
 		"name": "Salt Lake City",
 		"skins": [
@@ -12460,6 +12580,14 @@
 				"icon": "02212791c5203f26c3995f2e94255d61955f46b21eed29d172a8e759d61872fb",
 				"chibi": "dd00bf95697b20adeaa654656be51f4adcb7a0636dcdc35b93015d7aa9703cef",
 				"shipyard": "ab6d91c538dc524800e16a50ed695e04a003456e2c98b1bf6a096868c83eccfc"
+			},
+			{
+				"name": "Retrofit",
+				"type": "Kai",
+				"banner": "08cfc7079c009b5715ddbb0108d709717b127781c2071291e7f34e04b42d80e4",
+				"icon": "bdda0f1508bff68078e2e3d61fd0e514a7b7d384728509ecd32f5c08211bf935",
+				"chibi": "f73a7f1a243061cdf0ffafdb3e9b0599005a3c7195c957f5457f291a16b41352",
+				"shipyard": "d7b319c9c907f3a12437afca88d4019fd8cb79d3c712708235191291910b60dc"
 			}
 		]
 	},
@@ -13256,6 +13384,14 @@
 				"icon": "5622fd3960207feefcb188f17249e889b67afa9ddce82412337fc24f3ee18206",
 				"chibi": "b87cbc674950803f685b6aff26dd6243d19249463351bfd13bef995972125b4c",
 				"shipyard": "ae577d96f30f8657af94eda8a3dd9d7ca175b3afc614c5647068e5cc7c757a07"
+			},
+			{
+				"name": "Sparkly-Clean",
+				"type": "Maid",
+				"banner": "a9522b02e3e62555a62bdb83d73a09cb1ff87cd0240ba520b57381b1517a42f3",
+				"icon": "1fcacb1e5c58fefe8f5f815917aae1eddcabced4f00483acde7c31634126cb35",
+				"chibi": "6679e696f09e8b1865b2de5d98a1e4c90f0b02014b46466bfd5572fd1174d11f",
+				"shipyard": "9796e5d4a275078db95faf6917a2d023448b597a2b54bae1b3fb03a9cc16f838"
 			}
 		]
 	},
@@ -14474,6 +14610,28 @@
 				"icon": "179342da9cf5e4acd887cc08e45480aae5eb326a091d59615ffb6f099fb944fa",
 				"chibi": "20240f215f5b351d48200caac910225984e234177255bf35c02c6a096c5c267e",
 				"shipyard": "c82f60195ca04a90eb70a8027ff542e0951c912eb86c62f1e3fbd27ee17bdc86"
+			}
+		]
+	},
+	{
+		"id": "567",
+		"name": "Wakatsuki",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "6f00c66ea663d7b892d015fdbbb3a1176779a6c4e285de1850f3643197590459",
+				"icon": "90428db1424bfffa2703fd9712ff38f67ab113a94188e286f5ea13f4de110472",
+				"chibi": "628acd180bdb47be54289166cf697894389175dc5a1a62d4bff893c2802ab455",
+				"shipyard": "c10eb759ec5c14edcdb840706c6d462dceb8546c775c1a74a06d5059cad23f23"
+			},
+			{
+				"name": "Slapdash Blue Sparrow",
+				"type": "Maid",
+				"banner": "95d5ddc77c5820b992d3db93f614d03fc1d695d867a48a4f51dc6d5408e0c6b8",
+				"icon": "b40090a3839c22eeda7130b18035ad4c23f62d510d67fba3c6ab9d45f59df3e0",
+				"chibi": "d9565ef86fcef2d0e58038f839d7c9cdc24a3257e8e62dd23736d5bc431f44c2",
+				"shipyard": "7f9a013364764531ddb4714f5a55bc0c396db5b6611f987e20937b7d02b803b3"
 			}
 		]
 	},
