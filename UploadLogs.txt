@@ -1,5 +1,78 @@
-last resort : 21 September 2022 (utc-0 01:45) (utc-7 08:45)
--> WakatsukiShipyardIcon.png
+last resort : 05 October 2022 (utc-0 11:55) (utc-7 18:55)
+-> SouthamptonWeddingShipyardIcon.png
+
+===========================================================
+05 October 2022 (+69 File) (path:/update/)
+
+BaltimoreRaceQueenChibiIcon.png
+BaltimoreRaceQueenIcon.png
+BaltimoreRaceQueenShipyardIcon.png
+BaltimoreRacwQueenBanner.png
+CharybdisPartyBanner.png
+CharybdisPartyChibiIcon.png
+CharybdisPartyIcon.png
+CharybdisPartyShipyardIcon.png
+Chen_HaiPartyBanner.png
+Chen_HaiPartyChibiIcon.png
+Chen_HaiPartyIcon.png
+Chen_HaiPartyShipyardIcon.png
+Hunter_METABanner.png
+Hunter_METAChibiIcon.png
+Hunter_METAIcon.png
+Hunter_METAShipyardIcon.png
+JuneauPartyBanner.png
+JuneauPartyChibiIcon.png
+JuneauPartyIcon.png
+JuneauPartyShipyardIcon.png
+KashinoMaidBanner.png
+KashinoMaidChibiIcon.png
+KashinoMaidIcon.png
+KashinoMaidShipyardIcon.png
+LondonWeddingBanner.png
+LondonWeddingChibiIcon.png
+LondonWeddingIcon.png
+LondonWeddingShipyardIcon.png
+Maillé_BrézéPartyBanner.png
+Maillé_BrézéPartyChibiIcon.png
+Maillé_BrézéPartyIcon.png
+Maillé_BrézéPartyShipyardIcon.png
+NaganamiWeddingBanner.png
+NaganamiWeddingChibiIcon.png
+NaganamiWeddingIcon.png
+NaganamiWeddingShipyardIcon.png
+NagatoPartyBanner.png
+NagatoPartyChibiIcon.png
+NagatoPartyIcon.png
+NagatoPartyShipyardIcon.png
+NeptunePartyBanner.png
+NeptunePartyChibiIcon.png
+NeptunePartyIcon.png
+NeptunePartyShipyardIcon.png
+NevadaPartyBanner.png
+NevadaPartyChibiIcon.png
+NevadaPartyIcon.png
+NevadaPartyShipyardIcon.png
+NevadaShipyardIcon.png
+Pamiat_MerkuriaTravelBanner.png
+Pamiat_MerkuriaTravelChibiIcon.png
+Pamiat_MerkuriaTravelIcon.png
+Pamiat_MerkuriaTravelShipyardIcon.png
+SeydlitzPartyBanner.png
+SeydlitzPartyChibiIcon.png
+SeydlitzPartyIcon.png
+SeydlitzPartyShipyardIcon.png
+ShinanoRaceQueenBanner.png
+ShinanoRaceQueenChibiIcon.png
+ShinanoRaceQueenIcon.png
+ShinanoRaceQueenShipyardIcon.png
+SouthamptonWeddingBanner.png
+SouthamptonWeddingChibiIcon.png
+SouthamptonWeddingIcon.png
+SouthamptonWeddingShipyardIcon.png
+Z28PartyBanner.png
+Z28PartyChibiIcon.png
+Z28PartyIcon.png
+Z28PartyShipyardIcon.png
 
 ===========================================================
 21 September 2022 (+64 File) (path:/update/)
