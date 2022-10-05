@@ -1660,6 +1660,14 @@
 				"icon": "98fe57694f004945fd469ec3aeff3a642b292f4edcceff6234f3e0be7c9836ae",
 				"chibi": "95912c923c53e7cd28f6de728b3a0104e67f611a4ee5ea30392a9ef4a4223032",
 				"shipyard": "e4e1815b96582a4f7d895ef30052158a191b6ccbd4103b002861350c19893f57"
+			},
+			{
+				"name": "Finish Line Flagbearer",
+				"type": "RaceQueen",
+				"banner": "b15e200651199546fc28b620ca7db8e3efa253a574e5d8e0b9d8f21177617ae5",
+				"icon": "28dc9b5498d1e0de9f5849b29c5c756bc2645c4f907607078e63377c1d56f721",
+				"chibi": "7232d523cb513951d86c938e4023d4fb26805ace613fbed9028ab1dba6d1b25a",
+				"shipyard": "f0a1584b65c7aa8cf61f5a12c886027e1481402e80e98db1dbb8876773212d2b"
 			}
 		]
 	},
@@ -2632,6 +2640,14 @@
 				"icon": "9c83fef39e30ea671e4cb227f1ce3bf00c01f585d864eefbac19f962c498ccb5",
 				"chibi": "61e0a96dfa153c2c54705d6ec371251b9440c657879ab81ea848a4e1c40ebb04",
 				"shipyard": "32797a21185c035199c36ffcf386871de6424c1a068cba25ff19104ff6ec2a30"
+			},
+			{
+				"name": "Brilliant Belle",
+				"type": "Party",
+				"banner": "ffd1f9ab8a5da736a00990ccff3bab0865d1ebe757ace022889fe79a943ef6dd",
+				"icon": "5e8800674c8ace2880d19c2432b2e4732a62eda735a01484d12243a5701a7ca8",
+				"chibi": "ad9b129d87a05478e4ce484b35976bb37402a8612d9b7f1b7d27eb2273e4452f",
+				"shipyard": "7f2107f288827f28767546a2388caa7a80b7dc7f9b2fb60bb5fd04a0fa2f877b"
 			}
 		]
 	},
@@ -2684,6 +2700,14 @@
 				"icon": "8f2b2dd29aabf088aa26c155eabb02801aa18674f61bd74414c2bb82f4281835",
 				"chibi": "faf95b62cb25edaefdf612a3c58211d5f664e54ed693317bde02e113b82d0e31",
 				"shipyard": "60269e089036351b929edd38cbe8fbcbec160f989d39e90eeaa680a0c840c172"
+			},
+			{
+				"name": "Cerulean Ripples",
+				"type": "Party",
+				"banner": "2ccdaa1b11ddc7ec4b49665da9c3a067970e9a03ba0873cb3ffe115db6cc6059",
+				"icon": "2fe22a657aaa5c8c6d936f7dee82894683c00fea91747c9cc6b85194818994a0",
+				"chibi": "8f47b076f05f3923d5a2058e6e58b7f2af0cd921b1fa5785f05107b82bb55162",
+				"shipyard": "ce2708a75b6fbe66701a1e7f80a2ff6b92638881be4603f94e6dabe93b979e8c"
 			}
 		]
 	},
@@ -5960,6 +5984,20 @@
 		]
 	},
 	{
+		"id": "30015",
+		"name": "Hunter META",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "b504cbd57e0da75a9367019028c5cf4da2724b53370c1402e81a34dbbef86457",
+				"icon": "d22a290c364d7bdae7a1857703d58efc3c137a8ba4514081e01174e98e5322ca",
+				"chibi": "ef11bb4b7cad046697fc33ee26e9d8c2c146c0ce9164e0176edebe5ea1de6b2e",
+				"shipyard": "7a4705e74ed0d9669f202100f6b092ecc4684a10b9d9981ff3749d4e4caa8ce2"
+			}
+		]
+	},
+	{
 		"id": "211",
 		"name": "Hyuuga",
 		"skins": [
@@ -7038,6 +7076,14 @@
 				"icon": "1df139d7d783b3fa2b40a57d56198e8e3650713576ed48ccb37371c6f7802827",
 				"chibi": "59cfdcdf23ea1c52101c2d7669450bbe69bbe57accfc68e777793d9bc3d8b183",
 				"shipyard": "10ca86a5c898b9873d1618e25d327868a19f984223c20e258f8e2448655f16d0"
+			},
+			{
+				"name": "In the Swan Garden",
+				"type": "Party",
+				"banner": "c3a7af2ebc0e775ba33c0c42e449dab73de986425ced759556d076700d6a0cbc",
+				"icon": "d200258c3b3f0b693b8a8ef1ef125f68aea983304a8151ed5ae08585f8161c57",
+				"chibi": "98f7cedae7c67a1cd408fed3be5dbd9603d285b4243339e8f00d03ec5ff1fe38",
+				"shipyard": "7dba67188fc50352bf7c72b18e74186ba2c7ddb43fead14aea7313abd3ec00ed"
 			}
 		]
 	},
@@ -7326,6 +7372,14 @@
 				"icon": "9afc5d43595616e10a9bbf4fba025e906688688f487043912e46e4cc2784e405",
 				"chibi": "0b8d74645bb3cbd1d02f97c0785cc7472060fa77c62545d7ce93049b132e78b4",
 				"shipyard": "3eb243b824eeefb3642e9ebfa18f149eeabe3a9b21d4a8985f5b509305eb899c"
+			},
+			{
+				"name": "Maid for Mayhem",
+				"type": "Maid",
+				"banner": "29e3626f59055117d7d4781eb9ade06e699cbed45c4f694ab346db4c45ed7bba",
+				"icon": "9e64755ee114cd92f59116ae8c9bcd9d5355bcfae07857f17c2b149416b4e8f4",
+				"chibi": "d75a696b7e174c5ce2f879e298e8bc77aadbf678f79fdcdbdf154ba18780e45e",
+				"shipyard": "fc6d5bc002c8fad354084d04ecbcb9627fb357b5aaf970e907fb283728066428"
 			}
 		]
 	},
@@ -8664,6 +8718,14 @@
 				"icon": "daa5442c5af43edf81104d0a1e8f5dda0b9c945d606ee9b481e13081b0b03f1d",
 				"chibi": "fd2578a83e4d284726e4b7d6c171d017afe60b2087baad5f3b0afb761eb414e1",
 				"shipyard": "38940ec9d1e92b544f2323b0522e02dac1711f28c9631e5f05f1f23d55173da1"
+			},
+			{
+				"name": "Wedding",
+				"type": "Wedding",
+				"banner": "517ec4df7347d199e839c3c8aa9db6c09e19af0d8d19cf81a0254888d7164465",
+				"icon": "bb3fa536df956834216901e4152d5e36b1d487e210783aae2a880377bf565efd",
+				"chibi": "6e35354a0c1db547c5753550a5024ad63f083afc6659bf724dc97e715c03e7ce",
+				"shipyard": "88e236eb3a979df58cb8c6603777190fe4c1a92d194931a4c08cef51e9f07cde"
 			}
 		]
 	},
@@ -8798,6 +8860,14 @@
 				"icon": "7ad9ee196894cf39a2fb2c4ea11be160ec34076451d1299835321f4d275fb520",
 				"chibi": "6dc1e662078c5dadb85d4fb49708351a4123dc8d8061d93d010ecbf646bae004",
 				"shipyard": "8bca1503eca7d2ac03e7f0113c5b455220a8f5589b3b7b2c2ba467f74429528a"
+			},
+			{
+				"name": "Sugary Sabbatical",
+				"type": "Party",
+				"banner": "729a704f573e178dd1f2ec12200f9934ae6e16db0e1afcf82c0462653a5a87e5",
+				"icon": "47c41ae7c4faaefd590dea019243a9ce04def32be42806e077f9369404371e63",
+				"chibi": "0683ca4f64075237e49550820a8f30b9891b62f23de939b108020914d7e24b32",
+				"shipyard": "8f49fad4a301574ae43883f417fb335688b9b82ddc5b7f29b12c2304d81fd2bb"
 			}
 		]
 	},
@@ -9774,6 +9844,14 @@
 				"shipyard": "75230ed94503633bcc1f05a407882b2eb6bcdb7c5e734035f9424670aabbb473"
 			},
 			{
+				"name": "Wedding",
+				"type": "Wedding",
+				"banner": "8a2655113cecbe20fea0743a7546c2c93cac1b0194ecadf0cc4b2fe066d2d4a4",
+				"icon": "8461d4b8bd592f77c03248db364ff1f4502137bfd4ee107c36bc8b0b040499b2",
+				"chibi": "72ac88f6386393a04eb6c27d777e2b0870416d12efac77a4780a5646ff942881",
+				"shipyard": "303bdf7dcc56e260437b9a59a0ae25d1ecbb300460eeadd9b059c7aa9f58af52"
+			},
+			{
 				"name": "Long Waves of Happiness",
 				"type": "Maid",
 				"banner": "73cd9109fd656cf78f4ff800ade46e85c0836cfc72bd4a6ba699732a136fb7bb",
@@ -9872,6 +9950,14 @@
 				"icon": "50950d5629abf46798503defb68b8b1d3f9549c2999f61195770c5e0b88c48e3",
 				"chibi": "752db6397de47d916d452c811f2edc39ded4438926fd60d8486a19394d15aae8",
 				"shipyard": "105ab01000c6685b08b613f0f8aad3624126af32ee45114283728bff52fc072b"
+			},
+			{
+				"name": "Guardian Fox's Procession",
+				"type": "Party",
+				"banner": "7915761a742c0a97abdf933ccb7234ec7cb34aeae801702f01fdbabcb26379d3",
+				"icon": "bbbc2efd131cfc0d7d6a48e8f64c838b05877202a6f43da0e5fe778a61f8ff1f",
+				"chibi": "6f5d569d7c704948e09e0379376122a138cd6d70be8bc26c0659832571bbe245",
+				"shipyard": "c8340be8628cf2726c5b4940da823dd3114a10b18721f957ec79c6c720e49b73"
 			}
 		]
 	},
@@ -10100,6 +10186,14 @@
 				"icon": "382e5c59f67fa9fdeb14c7ef35d0b8274d96013dd433cd59f98880a7f940012e",
 				"chibi": "c5b0fcb5b141c3e76c1900e8621b68f30a14c89332f9c26c2ee942910447c979",
 				"shipyard": "8e924d55554b65b396cbf93668aa51ad8b296c390d5c7d11f2dfc64a03777ccb"
+			},
+			{
+				"name": "Nereid's Invitation",
+				"type": "Party",
+				"banner": "8ded954db411d2217d9b617a9a5796cf7c2bd52b4d7a140fa62c792e967a16e0",
+				"icon": "089e8a716c30f1cc5b713574d06721fecfe6f7ef3e54a9466610056905412a0d",
+				"chibi": "395105bdd720fade59122308cac238505e546d6e0cd99953326d71f621231f57",
+				"shipyard": "4e7d0e6f2f8700bb7a3de1b78f5990eff3f1ac58d2da57e388a7c23bcccf2118"
 			}
 		]
 	},
@@ -10136,6 +10230,14 @@
 				"icon": "c704c3266de052b7082b8b9781137962c82f834a11839a5029737b1ec2281495",
 				"chibi": "b5f0eb0fe16a7e208935715a483f5edaa2062cefcacb795922240ad1c4ebecbc",
 				"shipyard": "18d5e913bfebfdd6285dd238406a8a1df387df8d92cf9109519acefbba90d7b5"
+			},
+			{
+				"name": "A Magnificent Banquet",
+				"type": "Party",
+				"banner": "de3528983d444687fea8b1c0821c9510ce81213eedd802e06e6d58ec234b2cd6",
+				"icon": "08d365133b48228ef13dab1d6ea70fb928d6fe341578fdee43c508dfbf8216b7",
+				"chibi": "135ef4a2493654e9518d3ae92e94306ac3485056d6d835db48b40bd00e81210e",
+				"shipyard": "5066cd2aea3189dbed0bb3142242122f4929c0bc0d90546343b53b4814a8d0e2"
 			}
 		]
 	},
@@ -10748,6 +10850,14 @@
 				"icon": "c80fc62d8c53de5bea237c6957921a53721009c99a7815f214106cd7a9a3af79",
 				"chibi": "d50dda29e84a812ed9d588af3bfc4908cbf9791ee4cb39888152fd22951e8a2c",
 				"shipyard": "011e775e1f9500c8138e3947c92fd4ae398f8286746cfb5b7fa4d7c5dba9111f"
+			},
+			{
+				"name": "Chic and Cheeky",
+				"type": "Travel",
+				"banner": "4a6602fc192f085b4baaa9e64b56df0c1eb49323ec1155957b46b9c4c4854425",
+				"icon": "d5475bf99777592c48f701fdedd510007a70be2c928bdb1a160b28426034e610",
+				"chibi": "a5920b67d5647e9554eab9bbce0842c9cbeda99433dd718da29b26872b69e1d0",
+				"shipyard": "25b19961187434a38e509dd7e4d8ca5e78031600aa3f860cc08e259fc04ae45d"
 			}
 		]
 	},
@@ -12214,6 +12324,14 @@
 				"icon": "967abaf6237c9c8820b61c203b2c1fca15ad27b555cf26aec0ad3df2b391487c",
 				"chibi": "4c0c7031299c8734777813383e27166320d35bcc16ba89e8b9e772d781570e84",
 				"shipyard": "a1414ffed84eaff1bfb7f1bdaec39188afc2b18bc069ff4cdad63b7dce79eb53"
+			},
+			{
+				"name": "Floral Liberation",
+				"type": "Party",
+				"banner": "0d42deda75ccfe95066122868ee27d6077777b8c0c58334a2770916871a0fc75",
+				"icon": "e3d81d3c5f145ea88431f339224d2adcf290818e79d55748e94e56721d45952c",
+				"chibi": "70edfb455520d13a7f1fb795c9ce79ec21511ab0dbbfb3caafad881994dbaa60",
+				"shipyard": "66bfb37bd776f482e927e0bd80525fae3042b6f37f1e0b1a2c906e4760025019"
 			}
 		]
 	},
@@ -12402,6 +12520,14 @@
 				"icon": "88f0286384b7f8f64414e5d1158713931c64e67236cf1cf4bb5e96e010bd523f",
 				"chibi": "2f4302af77ac000f0fa4f0161d8a802eb5e2284a0377b58dbbb7568cb0404487",
 				"shipyard": "88584899f2f8ec57466694f72b89e5eeaf434a6ed781f90d3a29bb1ba06842cb"
+			},
+			{
+				"name": "Moonlit Chrome",
+				"type": "RaceQueen",
+				"banner": "bcd93090f89546ba42fa0818c706d69bf92189a25a53547619a8264788b60840",
+				"icon": "40a725afb504f29344b39b4402a094f166a52078581bb7ec81bcea7a14e7648d",
+				"chibi": "4fa83900e82895de3e0917bb6840fd5cba806da92cf0528274ad3a7735545b1c",
+				"shipyard": "abfc178d5a27800033ecc603c31e48b7d034235889cb6a800343182c73f644fd"
 			}
 		]
 	},
@@ -12780,6 +12906,14 @@
 				"icon": "d3fa8dd389ef25d18ac8609272c67be35bfb040eaf823f5db86f108602452fcc",
 				"chibi": "290d8ad7e2bd94d28485a73407b50f56deacab257ca22dfb368fc47f23334163",
 				"shipyard": "7e51f5fd155671dec1f3b6cc7efcd5ab86bd71aef27d9f22826ee47b080b8e42"
+			},
+			{
+				"name": "Wedding",
+				"type": "Wedding",
+				"banner": "eb6e34a7efa44d45d29a7b26469998284615de02b3a0ad1a0dbbdd7d5c435abe",
+				"icon": "7720a35cc7dd276bf4e9f748404ab922367af92aaafa6c6dc28534fd7baf08fb",
+				"chibi": "67636265ff46b060d5fa86015316f687fb4933993d27997a6b63bd3ce4b44ee9",
+				"shipyard": "8f6eb0b8d10dc4315ce673d17292ea4768cde7616e1358291b568d37b91ddb82"
 			},
 			{
 				"name": "New Year's Little Knight",
@@ -15660,6 +15794,14 @@
 				"icon": "50ced3d75609c9293850d7351853268fd6fb5a4d22874d190a77561781086e9a",
 				"chibi": "7a5861f556329257140e778c8c6b9411f2af1acc73ec8c5d38b2795d74289c09",
 				"shipyard": "be9e40e0d53fb5bada88db6c63491a6bc8c296a338440b56d97535f9a4b45b21"
+			},
+			{
+				"name": "Sylvan Celebration",
+				"type": "Party",
+				"banner": "3ef01f5362f1ae28fb8de0016c786a19d35200fd7d1319a34ec4c79d3bab2b9c",
+				"icon": "e90a167d42e01933dccbe82041e900b009cafc7f4b69c09cc89852810558a68f",
+				"chibi": "5ee1b1cbfcc55687f90091f42936894c617057d05abf158b9eaf4eaf8ef0233c",
+				"shipyard": "b9b2c4cd9822d27eb076af0256b314721a65c83f32208181afb05f713db5e961"
 			}
 		]
 	},
