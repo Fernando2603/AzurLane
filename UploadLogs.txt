@@ -1,5 +1,29 @@
-last resort : 05 October 2022 (utc-0 11:55) (utc-7 18:55)
--> SouthamptonWeddingShipyardIcon.png
+last resort : 17 October 2022 (utc-0 12:15) (utc-7 19:15)
+-> Little_SpeeShipyardIcon.png
+
+===========================================================
+17 October 2022 (+20 File) (path:/update/)
+
+AyanamiRPGBanner.png
+AyanamiRPGChibiIcon.png
+AyanamiRPGIcon.png
+AyanamiRPGShipyardIcon.png
+JavelinRPGBanner.png
+JavelinRPGChibiIcon.png
+JavelinRPGIcon.png
+JavelinRPGShipyardIcon.png
+LaffeyRPGBanner.png
+LaffeyRPGChibiIcon.png
+LaffeyRPGIcon.png
+LaffeyRPGShipyardIcon.png
+Little_SpeeBanner.png
+Little_SpeeChibiIcon.png
+Little_SpeeIcon.png
+Little_SpeeShipyardIcon.png
+Z23RPGBanner.png
+Z23RPGChibiIcon.png
+Z23RPGIcon.png
+Z23RPGShipyardIcon.png
 
 ===========================================================
 05 October 2022 (+69 File) (path:/update/)
