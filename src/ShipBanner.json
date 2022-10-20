@@ -1480,6 +1480,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/155/Cola_Fills_You_With_Determination/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/155/Cola_Fills_You_With_Determination/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/155/Cola_Fills_You_With_Determination/ShipyardIcon.png"
+			},
+			{
+				"name": "Dynamic Kick!",
+				"type": "RPG",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/155/Dynamic_Kick/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/155/Dynamic_Kick/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/155/Dynamic_Kick/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/155/Dynamic_Kick/ShipyardIcon.png"
 			}
 		]
 	},
@@ -6852,6 +6860,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/101/Energetic_Idol_120_Motivation/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/101/Energetic_Idol_120_Motivation/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/101/Energetic_Idol_120_Motivation/ShipyardIcon.png"
+			},
+			{
+				"name": "A Legend is Born?!",
+				"type": "RPG",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/101/A_Legend_is_Born/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/101/A_Legend_is_Born/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/101/A_Legend_is_Born/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/101/A_Legend_is_Born/ShipyardIcon.png"
 			}
 		]
 	},
@@ -8234,6 +8250,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/019/Sleepy_Teriyaki_Twister/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/019/Sleepy_Teriyaki_Twister/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/019/Sleepy_Teriyaki_Twister/ShipyardIcon.png"
+			},
+			{
+				"name": "Sleepageddon",
+				"type": "RPG",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/019/Sleepageddon/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/019/Sleepageddon/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/019/Sleepageddon/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/019/Sleepageddon/ShipyardIcon.png"
 			}
 		]
 	},
@@ -8658,6 +8682,20 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/451/Default/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/451/Default/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/451/Default/ShipyardIcon.png"
+			}
+		]
+	},
+	{
+		"id": "568",
+		"name": "Little Spee",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/568/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/568/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/568/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/568/Default/ShipyardIcon.png"
 			}
 		]
 	},
@@ -15698,6 +15736,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/236/Fries_and_smiles/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/236/Fries_and_smiles/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/236/Fries_and_smiles/ShipyardIcon.png"
+			},
+			{
+				"name": "Upgrade Failure?!",
+				"type": "RPG",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/236/Upgrade_Failure/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/236/Upgrade_Failure/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/236/Upgrade_Failure/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/236/Upgrade_Failure/ShipyardIcon.png"
 			}
 		]
 	},
