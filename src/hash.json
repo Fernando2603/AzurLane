@@ -1480,6 +1480,14 @@
 				"icon": "39c3afb5f4b03f309de6ba0925ae125cb2b89e4390289ce4121c7f1f2683b1a9",
 				"chibi": "fd503c52de3cf3cf5f9877a6249c66f54822a26bceed4c0b08174350b93647a3",
 				"shipyard": "542ec2d8387e048fc5e0ff001c823b3b653fa3ab8e08dac5bf10b06fdc570624"
+			},
+			{
+				"name": "Dynamic Kick!",
+				"type": "RPG",
+				"banner": "04ca5d830453c007f9e9de7c223b77a55579cde245f605eca44570397b95a748",
+				"icon": "4b72320182b70bfc1bba07e4f4e4dbaaba53e7e463daaf21d5ccb261ef7907ab",
+				"chibi": "8af92ae3e132e7e666be0caee4a72b7baeef9f808e98b31b3aafe9348735cf03",
+				"shipyard": "ae64022f96fe3faac06727b4bdb65b5b2b97a89cb8e1b5272f84d2b6789f02a7"
 			}
 		]
 	},
@@ -6852,6 +6860,14 @@
 				"icon": "e8857e441ab793bd938b3f9c6baccc824e7d28e0a253c142812af18c31909716",
 				"chibi": "0ff9d634ba8f763ceeffc08b57d66f64572f4c20ad171815c11d0bfa2685f14e",
 				"shipyard": "405c964d6929b1c1f1abd890cd52e899ea6b6a3370b4ec61ff32aa3681aa2fdd"
+			},
+			{
+				"name": "A Legend is Born?!",
+				"type": "RPG",
+				"banner": "14b67dc1927a3ad0b24bfe3f567ee99a19d0cc6c415ab43a3a1381903483dfdf",
+				"icon": "02bd71cc5c262def5b34e4f2fc90743d0c1b4e387af5b5c0ef7e26210b848752",
+				"chibi": "7bd9171b8804df2b4985f5917c2fac6fe8bdca32eeb7439ec59e37f5bbdd99e1",
+				"shipyard": "ef3c5f8ec6bfc801fab80798365af20474439cb32347a80cfcb7629dfc80087b"
 			}
 		]
 	},
@@ -8234,6 +8250,14 @@
 				"icon": "f1b13c5c1a6908d6543c668b86ab6e546b034e2661168e8cc999f22f3300f225",
 				"chibi": "28c97bd5e9349e91925449f00aa1def70ac510a72f3b775f20248260913e8dcf",
 				"shipyard": "e7dbffacd74c4831d1432a46373366244bae7921340bd7fd04d3f019824ec178"
+			},
+			{
+				"name": "Sleepageddon",
+				"type": "RPG",
+				"banner": "36ea369e4d6fde63713ac43b63eab647398e9001da00f6d076583aca91628e54",
+				"icon": "3d54c63d7ae9576322c4e192b8e45b4a43a10bc3ccb9c71e494e4bd987ef62fa",
+				"chibi": "deaf9d62cfa08b86baf28bcd0a9f528cb639583abc4da20550023caee76efae7",
+				"shipyard": "8ef23e15c40c3ef99fdfeda53f1267c96bdc78f51d6a7f46b651037438a68bff"
 			}
 		]
 	},
@@ -8658,6 +8682,20 @@
 				"icon": "ec7993120306b28b244e9f2ec6112f78b849c71c509e82d56a7f476768d0ab6b",
 				"chibi": "6de4d74b691f22b2e87e7e396c2ea0ba730d2059ec40582ddd90b5918fcbe6fd",
 				"shipyard": "fb125027a47bb1f81e91101abdf9f1aa0964b62af0017a3315922453bf7ca9ba"
+			}
+		]
+	},
+	{
+		"id": "568",
+		"name": "Little Spee",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "08dabd3e00746219f09197f06814f5bbb53990ef77d6a09caa35c9cfbd1d32ad",
+				"icon": "556869491c5b4be3ec3da228712eb30b8c77012b7bbb7c700de005e7f980702f",
+				"chibi": "03ce1b368f4b3152f60ccda1c7d113d6895d526c9d951a6276a164d0d21870b6",
+				"shipyard": "c555c8cea3242f1a6168e94ace77ff294e06c3973a624ec82417d70011c8eec5"
 			}
 		]
 	},
@@ -15698,6 +15736,14 @@
 				"icon": "81a1dd8b09961deb46f3aa6e333b22d005ce40ba20a66a521f202b3f464a22cc",
 				"chibi": "b4191d714e1573339f6a42b0c5457c66c87957881b7b2f99e271278088fcd325",
 				"shipyard": "1f286949614843f7565274fd8d2727cdedf5b2a459c1a579c8156776bc2c1480"
+			},
+			{
+				"name": "Upgrade Failure?!",
+				"type": "RPG",
+				"banner": "e9851c10e832fd3d1a881d90b7e32a1b3e0a3c4cb416274d87e62a2eace0d716",
+				"icon": "5c3683414007315d0544e75821f6e476a3b4494d43afd17ef2e41f69e471ecc8",
+				"chibi": "6d80fca46a7cee177da8a2f4ecb771b0b9b51ab0597682c4638ce37571fd571f",
+				"shipyard": "b2ebd8c18f47297f4b4863bea9a421270cf507061ba83d1eca115eee37dbb42f"
 			}
 		]
 	},
