@@ -1,5 +1,46 @@
-last resort : 17 October 2022 (utc-0 12:15) (utc-7 19:15)
--> Little_SpeeShipyardIcon.png
+last resort : 11 November 2022 (utc-0 03:55) (utc-7 10:55)
+-> Royal_FortuneShipyardIcon.png
+
+===========================================================
+11 November 2022 (+20 File) (path:/update/)
+
+AlbionBanner.png
+AlbionChibiIcon.png
+AlbionHalloweenBanner.png
+AlbionHalloweenChibiIcon.png
+AlbionHalloweenIcon.png
+AlbionHalloweenShipyardIcon.png
+AlbionIcon.png
+AlbionShipyardIcon.png
+Backup
+JanusBanner.png
+JanusChibiIcon.png
+JanusHalloweenBanner.png
+JanusHalloweenChibiIcon.png
+JanusHalloweenIcon.png
+JanusHalloweenShipyardIcon.png
+JanusIcon.png
+JanusShipyardIcon.png
+ManchesterBanner.png
+ManchesterChibiIcon.png
+ManchesterHalloweenBanner.png
+ManchesterHalloweenChibiIcon.png
+ManchesterHalloweenIcon.png
+ManchesterHalloweenShipyardIcon.png
+ManchesterIcon.png
+ManchesterShipyardIcon.png
+OklahomaHalloweenBanner.png
+OklahomaHalloweenChibiIcon.png
+OklahomaHalloweenIcon.png
+OklahomaHalloweenShipyardIcon.png
+Royal_FortuneBanner.png
+Royal_FortuneChibiIcon.png
+Royal_FortuneHalloweenBanner.png
+Royal_FortuneHalloweenChibiIcon.png
+Royal_FortuneHalloweenIcon.png
+Royal_FortuneHalloweenShipyardIcon.png
+Royal_FortuneIcon.png
+Royal_FortuneShipyardIcon.png
 
 ===========================================================
 17 October 2022 (+20 File) (path:/update/)
