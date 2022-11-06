@@ -568,6 +568,28 @@
 		]
 	},
 	{
+		"id": "570",
+		"name": "Albion",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/570/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/570/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/570/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/570/Default/ShipyardIcon.png"
+			},
+			{
+				"name": "Silvermoon Faerie Princess",
+				"type": "Halloween",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/570/Silvermoon_Faerie_Princess/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/570/Silvermoon_Faerie_Princess/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/570/Silvermoon_Faerie_Princess/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/570/Silvermoon_Faerie_Princess/ShipyardIcon.png"
+			}
+		]
+	},
+	{
 		"id": "562",
 		"name": "Alfredo Oriani",
 		"skins": [
@@ -6786,6 +6808,28 @@
 		]
 	},
 	{
+		"id": "569",
+		"name": "Janus",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/569/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/569/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/569/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/569/Default/ShipyardIcon.png"
+			},
+			{
+				"name": "Fright-Night Scaredy-Cat",
+				"type": "Halloween",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/569/FrightNight_ScaredyCat/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/569/FrightNight_ScaredyCat/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/569/FrightNight_ScaredyCat/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/569/FrightNight_ScaredyCat/ShipyardIcon.png"
+			}
+		]
+	},
+	{
 		"id": "101",
 		"name": "Javelin",
 		"skins": [
@@ -8968,6 +9012,28 @@
 		]
 	},
 	{
+		"id": "112",
+		"name": "Manchester",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/112/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/112/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/112/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/112/Default/ShipyardIcon.png"
+			},
+			{
+				"name": "Midnight Devil in White",
+				"type": "Halloween",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/112/Midnight_Devil_in_White/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/112/Midnight_Devil_in_White/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/112/Midnight_Devil_in_White/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/112/Midnight_Devil_in_White/ShipyardIcon.png"
+			}
+		]
+	},
+	{
 		"id": "448",
 		"name": "Marblehead",
 		"skins": [
@@ -10776,6 +10842,14 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/053/Retrofit/Icon.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/053/Retrofit/ChibiIcon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/053/Retrofit/ShipyardIcon.png"
+			},
+			{
+				"name": "Piratey Transformation!",
+				"type": "Halloween",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/053/Piratey_Transformation/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/053/Piratey_Transformation/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/053/Piratey_Transformation/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/053/Piratey_Transformation/ShipyardIcon.png"
 			}
 		]
 	},

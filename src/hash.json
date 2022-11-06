@@ -568,6 +568,28 @@
 		]
 	},
 	{
+		"id": "570",
+		"name": "Albion",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "3a1de2c943de58e1a5d126e619530cceb51a8270daede39d078c78a214edacb1",
+				"icon": "753aca4837e880e7a6736716bc17f71bf1bc0f1d7f7291faf586c14d533a23b3",
+				"chibi": "4513781012051725a70eedbaafea09ffb83c29ef68864b9972bbd8a32f80b49b",
+				"shipyard": "f0b29686284ccca33b94a73bb1e5d88462359c22d90f9c486bc3aa102f785a7b"
+			},
+			{
+				"name": "Silvermoon Faerie Princess",
+				"type": "Halloween",
+				"banner": "c3a4dd79293a71bc86227b2635e93652be6497af574429f660174485ad64f7ae",
+				"icon": "99092bcff56b1ff2d70904b44cf5993fd346a5e3e48a01114037601fff7e70cf",
+				"chibi": "eb039d781518c0e736e28c5d0ae67faf388ea1e2e08504f3d0de165f9c900c6b",
+				"shipyard": "edd5e8cd4a61890a40c5f10f522b2b120257627acd249e29fd3d156225a4e023"
+			}
+		]
+	},
+	{
 		"id": "562",
 		"name": "Alfredo Oriani",
 		"skins": [
@@ -6786,6 +6808,28 @@
 		]
 	},
 	{
+		"id": "569",
+		"name": "Janus",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "1297888f406d9bea68ed4ed0e2b27cd34b1a2fe75812f77a034581bd95cc4101",
+				"icon": "22eb8cd096ce497478bc5abab23ea9afc408279afbe025cb0fe4e2118d5bee1a",
+				"chibi": "72f7be78b460939f4065a1919953d5d86ab0da8274f9858bca334891a831b460",
+				"shipyard": "1a4d3949a7c18fbe80e9a8d95c2b473ae00db8caad1fe6440a964ee0c11eeb84"
+			},
+			{
+				"name": "Fright-Night Scaredy-Cat",
+				"type": "Halloween",
+				"banner": "8f1a27a16a0650850c07ef222d31a076f5116a6cd012268b2d844337dbaacc37",
+				"icon": "84a430bf5ec2e6bb892cae2a3bd30fc6fce8a5f792aac527fdd60911735b9502",
+				"chibi": "3c0abc88d9629a01c3b74a6381eb3fdceadcc4252adfd8ab0ac20c47422aa647",
+				"shipyard": "04100449d8f7ceab5b028f6caf44f254d424d47879be0c80b0f6e3a8045f6491"
+			}
+		]
+	},
+	{
 		"id": "101",
 		"name": "Javelin",
 		"skins": [
@@ -8968,6 +9012,28 @@
 		]
 	},
 	{
+		"id": "112",
+		"name": "Manchester",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "3ecad297f6993dc494df20a08d42e382c60e82011fb43c9a5d0fa49416bd33e3",
+				"icon": "a6f902a6f672f8531fbcc4df49b3621fdeb6fc1ff0f40e4d7c39311790455f37",
+				"chibi": "bc3ac20de23299e733393398ee74a1eebc70b32d84646f67e81f7d5c978ba5fc",
+				"shipyard": "0001efbc5b4b17683012174b67f899a3a6ac2065f90417bff02c50484984eb52"
+			},
+			{
+				"name": "Midnight Devil in White",
+				"type": "Halloween",
+				"banner": "e8e8d4c7aa4ffed14ab7779e0fc7f38ddc52cda4b5cfce80bfbec1c77227a3ba",
+				"icon": "7d558e71d925c037263b2d13d4ae326bf9ad85f7a71e0cd51ab73b1662f43a98",
+				"chibi": "384d494d750da9a9286f21f5258eb7949a64a894dd030bfb178298d8bb14fea1",
+				"shipyard": "28146df9c0c3630909c13cb3fa7f9374c757052ed30b11569db0ec9ea5924855"
+			}
+		]
+	},
+	{
 		"id": "448",
 		"name": "Marblehead",
 		"skins": [
@@ -10776,6 +10842,14 @@
 				"icon": "9bdcece7c48645d063b56e6ed772484fd5d84c79bf3c24b58a0ed0077dd7b6f4",
 				"chibi": "b95134675ac5b7e8e2222c87a5598705669037784e20f87e9a1e75454e2ea11a",
 				"shipyard": "e3948d34deeb41ecca24e2005ae6e08b0e8ddca89e53146aa3689bbe7a6c4d72"
+			},
+			{
+				"name": "Piratey Transformation!",
+				"type": "Halloween",
+				"banner": "dbd66beabb4912cb814a018fbc7dc8f7c8b99aa4f6eb0e44c3a9597409de9d6f",
+				"icon": "f2ccd163fd51eee7435792e434c4dc3539fa0ca232a89e1f3e7cdd1df7b6d1f9",
+				"chibi": "d89be2bf4247f82c0399ac1b21dc43fcdae6eae4c6b09cf62c41b1c6dba553e5",
+				"shipyard": "220e2fc59cb58e22bf26f09ee8947b074da57af0f98f118081ef4ee4c150cfe5"
 			}
 		]
 	},
