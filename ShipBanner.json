@@ -11954,6 +11954,28 @@
 		]
 	},
 	{
+		"id": "571",
+		"name": "Royal Fortune",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/571/Default/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/571/Default/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/571/Default/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/571/Default/ShipyardIcon.png"
+			},
+			{
+				"name": "Treats from the Deep",
+				"type": "Halloween",
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/571/Treats_from_the_Deep/Banner.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/571/Treats_from_the_Deep/Icon.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/571/Treats_from_the_Deep/ChibiIcon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/571/Treats_from_the_Deep/ShipyardIcon.png"
+			}
+		]
+	},
+	{
 		"id": "30002",
 		"name": "Ark Royal META",
 		"skins": [

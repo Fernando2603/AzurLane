@@ -1,12 +1,4 @@
-Updated & Unused File = 8
-Royal_FortuneBanner.png
-Royal_FortuneChibiIcon.png
-Royal_FortuneHalloweenBanner.png
-Royal_FortuneHalloweenChibiIcon.png
-Royal_FortuneHalloweenIcon.png
-Royal_FortuneHalloweenShipyardIcon.png
-Royal_FortuneIcon.png
-Royal_FortuneShipyardIcon.png
+Updated & Unused File = 0
 
 Unused File (path:/images/unused) = 20
 San_Francisco\San_FranciscoBunnyCensoredBanner.png
