@@ -11954,6 +11954,28 @@
 		]
 	},
 	{
+		"id": "571",
+		"name": "Royal Fortune",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "bda5da91e39aca7a4baf91578396ee82d1dc2e9986d76199fe206e454e35fbb7",
+				"icon": "707cfda346ad1b8d20ea06654aee7590a7cfa982548f277202a14b33990292cb",
+				"chibi": "7cf920e2764cadfec12345261aac7ef1f54c0fa4ea5b37712a9ab8c80af04802",
+				"shipyard": "1e399f1d7d612afea11d5855028317bc0bd394c42b26a8d8e658a6f73e2e6815"
+			},
+			{
+				"name": "Treats from the Deep",
+				"type": "Halloween",
+				"banner": "e85413f48c5dedf668cdcacdc4dea1a0cdf33f777a85bb1932eb2dc00f2aadd0",
+				"icon": "9f34b9794a6dcf53aad582ed282e5c16ab380bb9a506f3fb7924b43656a7dda8",
+				"chibi": "dfd0ee6dfb03090b46477113b539ebdf80ba9cfd6758a5265f162055acb3c7ba",
+				"shipyard": "bcd21c6bbce770f39b5f28014d7e78cf19d0d1f4216496b5d5fb0a701fa07ee4"
+			}
+		]
+	},
+	{
 		"id": "30002",
 		"name": "Ark Royal META",
 		"skins": [
