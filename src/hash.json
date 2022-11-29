@@ -2214,6 +2214,14 @@
 				"icon": "54a50eeecaabb50013ca7aa97bd54022e22bf3a0f7f0998c37bca132c007d067",
 				"chibi": "2cffbd8b050dec14ac7aceead1d72685dfa776341fdb2a047eafd7523f5609c8",
 				"shipyard": "ea3c72cbd0a583a9471661dcee7a218bb36115bd529b0e66a42b0acd52cec1df"
+			},
+			{
+				"name": "Relaxation Consultation",
+				"type": "Home_Relaxation",
+				"banner": "6e19aefe5493983fd8231dab7fc4f7f94dcb2f789165420f2b54d1a37497d078",
+				"icon": "bd44fc47dd6576e6e028ad8fa4a776046d5df8b9cb9f6b75f0381c355f69f8f0",
+				"chibi": "f3c36bff3806ab8c3f48a435232c871d67980b9f7207117a19fe5c0aebed32c8",
+				"shipyard": "bf7c71164fb242248183698774874ae87bcb56bdeabebfd0c3709c33fd3a078d"
 			}
 		]
 	},
@@ -3012,6 +3020,14 @@
 				"icon": "c7214a8e16e5afa8dcef9714b90f47f1970928ff50a20ae45b55043b911237a9",
 				"chibi": "f33c28208bd20b28b3283de2b57e844c71435d3da1a1ba64667a9ca0869a6dfd",
 				"shipyard": "af39a2163e6e94017e49b5a00e035a8fdc98c6ac0912d55ff281378fe19f8560"
+			},
+			{
+				"name": "Southbound Journey",
+				"type": "Travel",
+				"banner": "d2177150e5701e6ec112534f2ffaffd9723f05df771593aa3d57584b899ee56f",
+				"icon": "5ea009b51e6e2cf69083d5836faf1c05b020341b8db7b5b9e443f5d09d6fcd96",
+				"chibi": "f2c00081eed327a1a7130ee568be6eb534b89dffd59d804704e507f81324f5b5",
+				"shipyard": "48ef1356c96a3a5a8a8bce4708bc4ac8df37452c50106c5c9fa847e913a59d14"
 			}
 		]
 	},
@@ -3402,7 +3418,7 @@
 			{
 				"name": "Dark Demon Princess",
 				"type": "Event",
-				"banner": "f0c11bb02557c2d74df24f35c1580a63258324230b34d7791394b9a5cdd5fc2d",
+				"banner": "bf264bbd852bf5eeca3366eab35d220cf2046a8aa82266de505f7bde28917db6",
 				"icon": "a0518ad5a3ca164f0c3f5345972192a7736d3a1e8865b16c5ee61c2fa83e45fa",
 				"chibi": "134b4331674af4dad749bf9c0af3a7014a5425a62c1b07c297b80d50fbecdb78",
 				"shipyard": "41dc4988a3cf79c13c64076f86b47d9db35c6d607a1a09488b8ab94a6f2eeee9"
@@ -3754,6 +3770,14 @@
 				"icon": "afdd2d661b0ddfe4c27b031f783dd84cb0a2c3179ac379288332e153f9ee2996",
 				"chibi": "8950408e87dd2a6804d877a72670c24bbbb0eb02364206609bff9b4a6a2b2bb5",
 				"shipyard": "cea998a15f271621ab739da1356d1a94c9b0735983c4883375accc67d88b0f2c"
+			},
+			{
+				"name": "Sleepless Night's Wishes",
+				"type": "Home_Relaxation",
+				"banner": "b26d71344107e21215f6371f1df62a368378f5a80907ad8e340936dabe597bae",
+				"icon": "f3dc6149863fb87a2c5e8b1e3780c9d00741b89e25339c656faaacd332f9f16a",
+				"chibi": "b5a2d4d34a0839417dc8eb03dcf1e145b9bdf94801f6e62f5b679695f69e40da",
+				"shipyard": "b7a45cd6b18fa3602e53cb4b6879e9ff64b2e6b5a10dde233e62c52a945ac714"
 			}
 		]
 	},
@@ -4280,6 +4304,20 @@
 				"icon": "cf3c0a83c501c26e772457e5faac191e7fa21276501816e62f034f9d3503ff8f",
 				"chibi": "7175f547ea4eb048a3034dda47bf4a20b9b943962872924673fd6c75dd701606",
 				"shipyard": "979ebcff121fce0d52a5b8081c20795e5166190bf0b8d8f6c76b5442c4466ee2"
+			}
+		]
+	},
+	{
+		"id": "30016",
+		"name": "Fortune META",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "89a1b342125ed89cee3cd76beaab7ddb0297ad148f62dc31a116c47bfe52fb96",
+				"icon": "28b77ea6750c3a47a383204b767248573e612b58df7ff8270fb0561af109a77a",
+				"chibi": "3f5c06234dee1e4d64c707e630ad505269555844a70081d3921243ce8e765590",
+				"shipyard": "2cf65b1254f89b1864409f607f0f95c70b281d6f6dce7a67d98ec33e3715a8a8"
 			}
 		]
 	},
@@ -7348,6 +7386,20 @@
 		]
 	},
 	{
+		"id": "10096",
+		"name": "Kala Ideas",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "169853f306151a345444ea11bc523dad04dbb4fcbd7037aa061d9853a02b8661",
+				"icon": "e5505ddf26b7c9de5859b94ea4c4a9b53b3a2fc5d51949ab266e4717b218115a",
+				"chibi": "64cfe6dc4274b699b51db5f58070a69019f6a8374f5fda8282836e93e7099227",
+				"shipyard": "a04f4713c6ed976e99aed625e2f744a2b1e274189db4d02274c3feb0b221022a"
+			}
+		]
+	},
+	{
 		"id": "363",
 		"name": "Kalk",
 		"skins": [
@@ -7932,6 +7984,28 @@
 				"icon": "51254e33f12e0b5b640fe32dc2687355c130bf39a27419fc0b517ecd86d484df",
 				"chibi": "57debb5651994dd16af1db183a40693b865c9ca9ce7388cea6378c5c801d2617",
 				"shipyard": "1662ad4418d49cb35fb51733901e5bb588df850fc010935bfaa3eea344f596ee"
+			}
+		]
+	},
+	{
+		"id": "10092",
+		"name": "Klaudia Valentz",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "4b5e589736f4add9f2082ff6bb68fc5fe7f082ec8db709e9a773dce64d87285b",
+				"icon": "ebdfc2fc2e741fd2b4e07a4caa318efd53ece874fdca164eb152a423c7562744",
+				"chibi": "1c8c47436bd4e90769ad92b096878b46d7dff01ba3b70cc5e796dbe31b9d6c07",
+				"shipyard": "124a70911d2f84ed1d20f5794c8509b2494ed3e821162ab6acd419a1dbfd3dae"
+			},
+			{
+				"name": "Bedtime Memories",
+				"type": "Home_Relaxation",
+				"banner": "746a919b2f5e2471c2efe83f2847bf13e0d46690cb1a76e9df049f96f72db179",
+				"icon": "36c9ea91e2150e036f63ccd4208a41eebc8d6becd03589fde629017f8b2d3939",
+				"chibi": "598b835f4d855c2fa872b9131aadf096f96fb075b80c6035cf2da28fcdaa5fdd",
+				"shipyard": "731eeec67bf818d2d30e7c870e48284974ed98d66d18fb97aaa76fbf819dcf91"
 			}
 		]
 	},
@@ -8642,6 +8716,28 @@
 				"icon": "62379cdb335a9cf68fac201ba36c8ff9833ad2967e4203237b24f2a9c3e7f29f",
 				"chibi": "84dac958eaa8e41a298cd8c52a0ae20dad390b676b5f84f7e2da2f38374aed6b",
 				"shipyard": "757c824c3da216b3312f534d8f67f2b57b9da1915b4853fa4db2871aedb539fd"
+			}
+		]
+	},
+	{
+		"id": "10094",
+		"name": "Lila Decyrus",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "0bcd1c8393d0c0d8d514f55b9a4f2747829dc62d2f9a44da4affeebae047965d",
+				"icon": "d8d31233ca279384d9e5ae0cfb8722e94576eadb8ded02a13012ec26c2ec39b6",
+				"chibi": "8a8493aadc109d4282c31ab2a10da5a498d19e3bac3a1d43d31ddd77bc9315ba",
+				"shipyard": "5f01131b4ece2fc9eaffaf2a0625eb2dfe85a28972923751c1b6c620116eb56a"
+			},
+			{
+				"name": "Moonlit Encounter",
+				"type": "Home_Relaxation",
+				"banner": "943a8ba00f4aa2a4af4c3d0418b321b6eee9fd7bf9ad542228d98b6db375f54b",
+				"icon": "3b830fc19c1b95e7c6a68606e5f60625c8f6edb7a89c1da66b9ca576ea013ea9",
+				"chibi": "f8b360892f703a8d0122a9e37bdc527dc70266d4b54e2c02f5d6a36e6cb65221",
+				"shipyard": "b907f027e9e3045fb618fb50a55a3ee19424e0ebb0c508b7ba66b47dcb97c059"
 			}
 		]
 	},
@@ -10974,6 +11070,28 @@
 		]
 	},
 	{
+		"id": "10093",
+		"name": "Patricia Abelheim",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "0eca90636917e0fe7afa3149a9161c13dfe159d9ff14bbc2ba9761e1d12d2297",
+				"icon": "af550f7b1c38c6b3847bf28429bc00de35ea125f65bb1fd238add6a1061b79dd",
+				"chibi": "e6a8c7d85b2b98e17f802c091514e8113c45ba60d0da9d113b57591b36c76eca",
+				"shipyard": "2b04713b6bb6aa477a1178d0604e08bbc47fa1363c80bb8ddd593eaeac1f0698"
+			},
+			{
+				"name": "Rest Betwixt Dreams and Reality",
+				"type": "Home_Relaxation",
+				"banner": "2b0f6a3173760392e4ba794fb113b6723fd49bea296b7aab456d8ca289815888",
+				"icon": "fdf7f50edee89dfa8b94c6bf5e402f4dca62efe334d3a13f4a70e89991d57fe0",
+				"chibi": "dbd447551ddbbe29e1078239600d7b5d586f1d0d68bf93c4c8f2af94b00593da",
+				"shipyard": "14237002377ca293317d6aec77ba5a6422312fd17d5b0ff8baa9b01794c6f839"
+			}
+		]
+	},
+	{
 		"id": "495",
 		"name": "Penelope",
 		"skins": [
@@ -11626,6 +11744,28 @@
 				"icon": "7d876081c0bddff59deab36276172d0a78521970412b9db36e71231e0075f40d",
 				"chibi": "83124811da5dfaaaa7e4db9ad6d10596d27b8f6ba428cfda9d651fa9a9dc9165",
 				"shipyard": "2d1992dc27ac16390b94887187f00a59c208ba5d22d1f5b4f43b6601b48c1007"
+			}
+		]
+	},
+	{
+		"id": "10091",
+		"name": "Reisalin Stout",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "239ea926fa7ba46d36e9d5a27de9ed6842599da9610c04cfb2cf3274b2c419ce",
+				"icon": "51cc38d82456231b315c616f8d01e20a3d1f862c7aeba3651271b13514dd247a",
+				"chibi": "e48dfa8019710fd1bb8e32117b5b9f7a677bd60c27578447e55675929b7da0d8",
+				"shipyard": "0e58ed951b3a03683b353407048b95ffdd508a8d04621ce6ac42d4063f1f8ab6"
+			},
+			{
+				"name": "Late-Night Alchemist",
+				"type": "Home_Relaxation",
+				"banner": "9f86651321be25d4d0ac2ac8e4ac2326ca1965233e7643c9820b6670209e2808",
+				"icon": "fd3678b6164cd97f0b904eeb2744660f1c4ed27eed9538ecbe97daff01baeb23",
+				"chibi": "4716aeed820fa40782a589b8462a9c0f315aaac0cba31e5c0525f7c4b20e98ea",
+				"shipyard": "235bd18fd3dc4296c43943ba81ea6ce451043d1d8feeb9b1de15fe09a64314bc"
 			}
 		]
 	},
@@ -12436,6 +12576,28 @@
 				"icon": "620bddb58afa49cde7db79185affa7f4c1d6f67d368d42f76622bd710dd2fb24",
 				"chibi": "81f43d2f3558713fafc82832b417adbd8e75f3ca473c36416c27400521d27c47",
 				"shipyard": "f34ccbfee3b40c4b767a5e8675513181255fe496abe17823efaf5919a86d3de7"
+			}
+		]
+	},
+	{
+		"id": "10095",
+		"name": "Serri Glaus",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "d1bebeefb95cf3f590ee97592305c202e022ea7960dbf7d01359a6d863ec636f",
+				"icon": "b40caf3047a7eba59601796871fb8f185b16435dfa302dfccb0716a0c57a2efe",
+				"chibi": "67220a98c8b703e2d2a82fea7c17be1bf58253dccf7d3afd43eb2741dedb9d33",
+				"shipyard": "ddb386b8fdb14e698cf605954273b4200d58e7ae32636a44e956a5c115bf1175"
+			},
+			{
+				"name": "Fairy Dreamer Beneath the Starry Sky",
+				"type": "Home_Relaxation",
+				"banner": "a7a19c4fb7f687fa5c6332702bf00588ddf915a0973a6a6fde819709933c092a",
+				"icon": "027508722d7fc833ca55cdf17f4b54bb02e453a3bfafe8e7b8ed0b8c58d7918d",
+				"chibi": "e065c0b03c6a316d367a193abc5212fe3f0f294692f41de8c65da30f87d138e5",
+				"shipyard": "a67835f5bed8c196ddaab555815ac1ff0bf3390969c9ae6e8681c10bcd16b4b6"
 			}
 		]
 	},
