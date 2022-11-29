@@ -23,63 +23,62 @@ Enterprise\Enterprise-AlterBanner.png
 Kashino\KashinoSummerCensoredBanner.png
 
 
-Missing File [01082022] = 55
-┌─────────┬───────┬───────────────────┬───────────────────────┬────────────┬─────────────┐
-│ (index) │  ID   │       SHIP        │         SKIN          │    TYPE    │    FILE     │
-├─────────┼───────┼───────────────────┼───────────────────────┼────────────┼─────────────┤
-│    0    │ '195' │     'Chikuma'     │    'Original Art'     │ 'Original' │  'Banner'   │
-│    1    │ '195' │     'Chikuma'     │    'Original Art'     │ 'Original' │   'Icon'    │
-│    2    │ '195' │     'Chikuma'     │    'Original Art'     │ 'Original' │ 'ChibiIcon' │
-│    3    │ '245' │   'Deutschland'   │ 'Dark Demon Princess' │  'Event'   │  'Banner'   │
-│    4    │ '206' │     'Haruna'      │    'Original Art'     │ 'Original' │  'Banner'   │
-│    5    │ '206' │     'Haruna'      │    'Original Art'     │ 'Original' │   'Icon'    │
-│    6    │ '206' │     'Haruna'      │    'Original Art'     │ 'Original' │ 'ChibiIcon' │
-│    7    │ '205' │      'Hiei'       │    'Original Art'     │ 'Original' │  'Banner'   │
-│    8    │ '205' │      'Hiei'       │    'Original Art'     │ 'Original' │   'Icon'    │
-│    9    │ '205' │      'Hiei'       │    'Original Art'     │ 'Original' │ 'ChibiIcon' │
-│   10    │ '129' │      'Hood'       │    'Original Art'     │ 'Original' │  'Banner'   │
-│   11    │ '129' │      'Hood'       │    'Original Art'     │ 'Original' │   'Icon'    │
-│   12    │ '129' │      'Hood'       │    'Original Art'     │ 'Original' │ 'ChibiIcon' │
-│   13    │ '045' │  'Indianapolis'   │    'Original Art'     │ 'Original' │  'Banner'   │
-│   14    │ '045' │  'Indianapolis'   │    'Original Art'     │ 'Original' │   'Icon'    │
-│   15    │ '045' │  'Indianapolis'   │    'Original Art'     │ 'Original' │ 'ChibiIcon' │
-│   16    │ '454' │  "Jeanne d'Arc"   │    'Original Art'     │ 'Original' │  'Banner'   │
-│   17    │ '454' │  "Jeanne d'Arc"   │    'Original Art'     │ 'Original' │   'Icon'    │
-│   18    │ '454' │  "Jeanne d'Arc"   │    'Original Art'     │ 'Original' │ 'ChibiIcon' │
-│   19    │ '307' │     'Jersey'      │    'Original Art'     │ 'Original' │  'Banner'   │
-│   20    │ '307' │     'Jersey'      │    'Original Art'     │ 'Original' │   'Icon'    │
-│   21    │ '307' │     'Jersey'      │    'Original Art'     │ 'Original' │ 'ChibiIcon' │
-│   22    │ '207' │    'Kirishima'    │    'Original Art'     │ 'Original' │  'Banner'   │
-│   23    │ '207' │    'Kirishima'    │    'Original Art'     │ 'Original' │   'Icon'    │
-│   24    │ '207' │    'Kirishima'    │    'Original Art'     │ 'Original' │ 'ChibiIcon' │
-│   25    │ '435' │      'Kirov'      │    'Original Art'     │ 'Original' │  'Banner'   │
-│   26    │ '435' │      'Kirov'      │    'Original Art'     │ 'Original' │   'Icon'    │
-│   27    │ '435' │      'Kirov'      │    'Original Art'     │ 'Original' │ 'ChibiIcon' │
-│   28    │ '204' │     'Kongou'      │    'Original Art'     │ 'Original' │  'Banner'   │
-│   29    │ '204' │     'Kongou'      │    'Original Art'     │ 'Original' │   'Icon'    │
-│   30    │ '204' │     'Kongou'      │    'Original Art'     │ 'Original' │ 'ChibiIcon' │
-│   31    │ '019' │     'Laffey'      │    'Original Art'     │ 'Original' │  'Banner'   │
-│   32    │ '019' │     'Laffey'      │    'Original Art'     │ 'Original' │   'Icon'    │
-│   33    │ '019' │     'Laffey'      │    'Original Art'     │ 'Original' │ 'ChibiIcon' │
-│   34    │ '189' │     'Mikuma'      │    'Original Art'     │ 'Original' │  'Banner'   │
-│   35    │ '189' │     'Mikuma'      │    'Original Art'     │ 'Original' │   'Icon'    │
-│   36    │ '189' │     'Mikuma'      │    'Original Art'     │ 'Original' │ 'ChibiIcon' │
-│   37    │ '188' │     'Mogami'      │    'Original Art'     │ 'Original' │  'Banner'   │
-│   38    │ '188' │     'Mogami'      │    'Original Art'     │ 'Original' │   'Icon'    │
-│   39    │ '188' │     'Mogami'      │    'Original Art'     │ 'Original' │ 'ChibiIcon' │
-│   40    │ '212' │     'Nagato'      │    'Original Art'     │ 'Original' │  'Banner'   │
-│   41    │ '212' │     'Nagato'      │    'Original Art'     │ 'Original' │   'Icon'    │
-│   42    │ '212' │     'Nagato'      │    'Original Art'     │ 'Original' │ 'ChibiIcon' │
-│   43    │ '135' │ 'Prince of Wales' │    'Original Art'     │ 'Original' │  'Banner'   │
-│   44    │ '135' │ 'Prince of Wales' │    'Original Art'     │ 'Original' │   'Icon'    │
-│   45    │ '135' │ 'Prince of Wales' │    'Original Art'     │ 'Original' │ 'ChibiIcon' │
-│   46    │ '223' │     'Ryuujou'     │    'Original Art'     │ 'Original' │  'Banner'   │
-│   47    │ '223' │     'Ryuujou'     │    'Original Art'     │ 'Original' │   'Icon'    │
-│   48    │ '223' │     'Ryuujou'     │    'Original Art'     │ 'Original' │ 'ChibiIcon' │
-│   49    │ '228' │    'Shoukaku'     │    'Original Art'     │ 'Original' │  'Banner'   │
-│   50    │ '228' │    'Shoukaku'     │    'Original Art'     │ 'Original' │   'Icon'    │
-│   51    │ '228' │    'Shoukaku'     │    'Original Art'     │ 'Original' │ 'ChibiIcon' │
-│   52    │ '229' │     'Zuikaku'     │    'Original Art'     │ 'Original' │  'Banner'   │
-│   53    │ '229' │     'Zuikaku'     │    'Original Art'     │ 'Original' │   'Icon'    │
-│   54    │ '229' │     'Zuikaku'     │    'Original Art'     │ 'Original' │ 'ChibiIcon' │
-└─────────┴───────┴───────────────────┴───────────────────────┴────────────┴─────────────┘
+Missing File [29112022] = 54
+┌─────────┬───────┬───────────────────┬────────────────┬────────────┬─────────────┐
+│ (index) │  ID   │       SHIP        │      SKIN      │    TYPE    │    FILE     │
+├─────────┼───────┼───────────────────┼────────────────┼────────────┼─────────────┤
+│    0    │ '195' │     'Chikuma'     │ 'Original Art' │ 'Original' │  'Banner'   │
+│    1    │ '195' │     'Chikuma'     │ 'Original Art' │ 'Original' │   'Icon'    │
+│    2    │ '195' │     'Chikuma'     │ 'Original Art' │ 'Original' │ 'ChibiIcon' │
+│    3    │ '206' │     'Haruna'      │ 'Original Art' │ 'Original' │  'Banner'   │
+│    4    │ '206' │     'Haruna'      │ 'Original Art' │ 'Original' │   'Icon'    │
+│    5    │ '206' │     'Haruna'      │ 'Original Art' │ 'Original' │ 'ChibiIcon' │
+│    6    │ '205' │      'Hiei'       │ 'Original Art' │ 'Original' │  'Banner'   │
+│    7    │ '205' │      'Hiei'       │ 'Original Art' │ 'Original' │   'Icon'    │
+│    8    │ '205' │      'Hiei'       │ 'Original Art' │ 'Original' │ 'ChibiIcon' │
+│    9    │ '129' │      'Hood'       │ 'Original Art' │ 'Original' │  'Banner'   │
+│   10    │ '129' │      'Hood'       │ 'Original Art' │ 'Original' │   'Icon'    │
+│   11    │ '129' │      'Hood'       │ 'Original Art' │ 'Original' │ 'ChibiIcon' │
+│   12    │ '045' │  'Indianapolis'   │ 'Original Art' │ 'Original' │  'Banner'   │
+│   13    │ '045' │  'Indianapolis'   │ 'Original Art' │ 'Original' │   'Icon'    │
+│   14    │ '045' │  'Indianapolis'   │ 'Original Art' │ 'Original' │ 'ChibiIcon' │
+│   15    │ '454' │  "Jeanne d'Arc"   │ 'Original Art' │ 'Original' │  'Banner'   │
+│   16    │ '454' │  "Jeanne d'Arc"   │ 'Original Art' │ 'Original' │   'Icon'    │
+│   17    │ '454' │  "Jeanne d'Arc"   │ 'Original Art' │ 'Original' │ 'ChibiIcon' │
+│   18    │ '307' │     'Jersey'      │ 'Original Art' │ 'Original' │  'Banner'   │
+│   19    │ '307' │     'Jersey'      │ 'Original Art' │ 'Original' │   'Icon'    │
+│   20    │ '307' │     'Jersey'      │ 'Original Art' │ 'Original' │ 'ChibiIcon' │
+│   21    │ '207' │    'Kirishima'    │ 'Original Art' │ 'Original' │  'Banner'   │
+│   22    │ '207' │    'Kirishima'    │ 'Original Art' │ 'Original' │   'Icon'    │
+│   23    │ '207' │    'Kirishima'    │ 'Original Art' │ 'Original' │ 'ChibiIcon' │
+│   24    │ '435' │      'Kirov'      │ 'Original Art' │ 'Original' │  'Banner'   │
+│   25    │ '435' │      'Kirov'      │ 'Original Art' │ 'Original' │   'Icon'    │
+│   26    │ '435' │      'Kirov'      │ 'Original Art' │ 'Original' │ 'ChibiIcon' │
+│   27    │ '204' │     'Kongou'      │ 'Original Art' │ 'Original' │  'Banner'   │
+│   28    │ '204' │     'Kongou'      │ 'Original Art' │ 'Original' │   'Icon'    │
+│   29    │ '204' │     'Kongou'      │ 'Original Art' │ 'Original' │ 'ChibiIcon' │
+│   30    │ '019' │     'Laffey'      │ 'Original Art' │ 'Original' │  'Banner'   │
+│   31    │ '019' │     'Laffey'      │ 'Original Art' │ 'Original' │   'Icon'    │
+│   32    │ '019' │     'Laffey'      │ 'Original Art' │ 'Original' │ 'ChibiIcon' │
+│   33    │ '189' │     'Mikuma'      │ 'Original Art' │ 'Original' │  'Banner'   │
+│   34    │ '189' │     'Mikuma'      │ 'Original Art' │ 'Original' │   'Icon'    │
+│   35    │ '189' │     'Mikuma'      │ 'Original Art' │ 'Original' │ 'ChibiIcon' │
+│   36    │ '188' │     'Mogami'      │ 'Original Art' │ 'Original' │  'Banner'   │
+│   37    │ '188' │     'Mogami'      │ 'Original Art' │ 'Original' │   'Icon'    │
+│   38    │ '188' │     'Mogami'      │ 'Original Art' │ 'Original' │ 'ChibiIcon' │
+│   39    │ '212' │     'Nagato'      │ 'Original Art' │ 'Original' │  'Banner'   │
+│   40    │ '212' │     'Nagato'      │ 'Original Art' │ 'Original' │   'Icon'    │
+│   41    │ '212' │     'Nagato'      │ 'Original Art' │ 'Original' │ 'ChibiIcon' │
+│   42    │ '135' │ 'Prince of Wales' │ 'Original Art' │ 'Original' │  'Banner'   │
+│   43    │ '135' │ 'Prince of Wales' │ 'Original Art' │ 'Original' │   'Icon'    │
+│   44    │ '135' │ 'Prince of Wales' │ 'Original Art' │ 'Original' │ 'ChibiIcon' │
+│   45    │ '223' │     'Ryuujou'     │ 'Original Art' │ 'Original' │  'Banner'   │
+│   46    │ '223' │     'Ryuujou'     │ 'Original Art' │ 'Original' │   'Icon'    │
+│   47    │ '223' │     'Ryuujou'     │ 'Original Art' │ 'Original' │ 'ChibiIcon' │
+│   48    │ '228' │    'Shoukaku'     │ 'Original Art' │ 'Original' │  'Banner'   │
+│   49    │ '228' │    'Shoukaku'     │ 'Original Art' │ 'Original' │   'Icon'    │
+│   50    │ '228' │    'Shoukaku'     │ 'Original Art' │ 'Original' │ 'ChibiIcon' │
+│   51    │ '229' │     'Zuikaku'     │ 'Original Art' │ 'Original' │  'Banner'   │
+│   52    │ '229' │     'Zuikaku'     │ 'Original Art' │ 'Original' │   'Icon'    │
+│   53    │ '229' │     'Zuikaku'     │ 'Original Art' │ 'Original' │ 'ChibiIcon' │
+└─────────┴───────┴───────────────────┴────────────────┴────────────┴─────────────┘
