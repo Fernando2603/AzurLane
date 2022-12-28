@@ -15,7 +15,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 // NOTES: SCRIPT CAN'T HANDLE 2 NEW NON-DEFAULT SKIN AT THE SAME TIME
 
 Promise.all([
-	fetch("https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/ships.json")
+	fetch("https://raw.githubusercontent.com/Fernando2603/azurapi-js-setup/master/ships.json")
 		.then(res => res.json())
 ]).then(
 	([azurAPI]) =>

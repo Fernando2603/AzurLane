@@ -6,8 +6,8 @@ import ship_patch from "./main/ship_patch.js";
 
 export default function main(azurapi, ship_banner, __dirname)
 {
-	let json_data   = [];
-	let table_array = [];
+	const JSON_DATA   = [];
+	const TABLE_ARRAY = [];
 
 	azurapi.forEach((ship) =>
 	{
@@ -20,39 +20,46 @@ export default function main(azurapi, ship_banner, __dirname)
 		if (SHIP_ID === "30002") ship_name = "Ark Royal META";
 
 		// check banner exist or not
-		let banner_get  = ship_banner.find(banner => banner.id === SHIP_ID);
-		let skin_output = [];
+		const BANNER_GET  = ship_banner.find(banner => banner.id === SHIP_ID);
+		const SKIN_OUTPUT = [];
 
 		// json builder
 		let ship_output = ({
 			id: SHIP_ID,
 			name: ship_name,
-			skins: skin_output
+			skins: SKIN_OUTPUT
 		});
 
-		if (banner_get)
+		// temporary fix
+		let has_mark_two_ship = false;
+
+		if (!ship_name.includes(" II"))
+			if (azurapi.find(idx => idx.names.en === ship_name + " II"))
+				has_mark_two_ship = true;
+
+		if (BANNER_GET)
 		{
-			const SKIN_PATCH_DATA   = skin_patch(ship, SHIP_SKIN, banner_get, __dirname);
+			const SKIN_PATCH_DATA   = skin_patch(ship, SHIP_SKIN, BANNER_GET, __dirname, has_mark_two_ship);
 			const SKIN_OUTPUT_PATCH = SKIN_PATCH_DATA.skin_output;
 			const TABLE_ARRAY_PATCH = SKIN_PATCH_DATA.table_array;
-			skin_output.push(...SKIN_OUTPUT_PATCH);
-			table_array.push(...TABLE_ARRAY_PATCH);
+			SKIN_OUTPUT.push(...SKIN_OUTPUT_PATCH);
+			TABLE_ARRAY.push(...TABLE_ARRAY_PATCH);
 		}
 		else
 		{
-			const SHIP_PATCH_DATA   = ship_patch(ship, SHIP_SKIN, banner_get, __dirname);
+			const SHIP_PATCH_DATA   = ship_patch(ship, SHIP_SKIN, BANNER_GET, __dirname);
 			const SHIP_OUTPUT_PATCH = SHIP_PATCH_DATA.ship_output;
 			const TABLE_ARRAY_PATCH = SHIP_PATCH_DATA.table_array;
 			ship_output = SHIP_OUTPUT_PATCH;
-			table_array.push(...TABLE_ARRAY_PATCH);
+			TABLE_ARRAY.push(...TABLE_ARRAY_PATCH);
 		};
 
-		json_data.push(ship_output);
+		JSON_DATA.push(ship_output);
 	});
 
 	// eslint-disable-next-line no-console
 	console.table(
-		table_array.map(idx =>
+		TABLE_ARRAY.map(idx =>
 		{
 			return {
 				STATUS: idx.status,
@@ -67,7 +74,7 @@ export default function main(azurapi, ship_banner, __dirname)
 
 	fs.writeFile(
 		"./src/ShipBanner.json",
-		JSON.stringify(json_data, null, "\t"),
+		JSON.stringify(JSON_DATA, null, "\t"),
 		"utf8",
 		(err) => err ? console.log(err) : console.log("=> ./src/ShipBanner.json has been updated!")
 	);
