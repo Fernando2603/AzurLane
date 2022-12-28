@@ -1018,6 +1018,20 @@
 		]
 	},
 	{
+		"id": "30017",
+		"name": "Arizona META",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "e1acd414410ec7c5fe6fd5bbddd1f3300f9c7a45f20c5df8a0984203f7bbb210",
+				"icon": "ebb0d43d0c6303a0868a7f5877f01c7af75e2e6c931b267c4c3de38c9b367bad",
+				"chibi": "579c7217c814b075be26453b56dd577912e5036c5da11816a9325109fa8175d8",
+				"shipyard": "613c8edfd3ec506768f3883c954bc24f1136e020b8e0c2b1d9c1ca499a65682a"
+			}
+		]
+	},
+	{
 		"id": "144",
 		"name": "Ark Royal",
 		"skins": [
@@ -1644,6 +1658,14 @@
 				"icon": "cb45afc7baf1426bf07808d383b9fe933253c7d29bce8dcb1dad915a6c12bfe2",
 				"chibi": "7cc1bf9cc5fb7785d4dee8b3ad93977c48c4b469f2002701d14fb4ef81fb238f",
 				"shipyard": "3cee2cec2eaca9cdf090583b4149472075fd2864f5e298cdac21c10995f6c962"
+			},
+			{
+				"name": "Jolly Saint Bunnylass!",
+				"type": "Christmas",
+				"banner": "c7392c77a917b7bf9306fcb1237d59f1edfd192ef3c4f83d2ea8d81da32de5f0",
+				"icon": "89c14971dd8898bd53dc75ed8d790009a66ee46f472d17f4fb9101068405e5b8",
+				"chibi": "b52fe493be8d805e9c11d7986337b71cbcfd42d958be2729b798880d50f09401",
+				"shipyard": "7d3b5d9a7649cd55cedbf8a68e2e02d4a1c3cefa56931c092265db3df16521fe"
 			}
 		]
 	},
@@ -1938,6 +1960,14 @@
 				"icon": "8051c77478b342f3737f25f0ba51875498ac76b8aa19bd6736e811ac9a8f2553",
 				"chibi": "151d490d6c2fd4a2d3de831da4d899ec8334fb641fba00af4218b9a9565eb6fa",
 				"shipyard": "b2636ada24cf90b35f91913ad424d4d4fe1301e591afd5a4c057fb813e3a6006"
+			},
+			{
+				"name": "To Where the Wind Blows",
+				"type": "Summer",
+				"banner": "56d75a26a5187ec4067a0cc13bcead52a5143b13ca0884d28510e3b5096760d1",
+				"icon": "3c6f993c944c412660c11294a22675a9abc5392917c44238710ad2f34fe5917a",
+				"chibi": "63e9f505078ff0690f9a4d620fc85e005489e6688ff5e3c6ec925df6cd0c4719",
+				"shipyard": "17da68158580d0f5964e48ac815a6e8273a87e826833f86974a2b158b7b0ecb6"
 			}
 		]
 	},
@@ -2176,6 +2206,14 @@
 				"icon": "477dae08e4395976c505f5d4834cf830c1c241c63c3afd3108c5a7b21806789b",
 				"chibi": "0b87a74ba20bcc2dff6df10f032628446a221da40e1c8c6ad684647a840a4af9",
 				"shipyard": "96852aaa827f78690062bda4bb4c81f59edbea018fa4a4043b1b11a07890365d"
+			},
+			{
+				"name": "Tempting Treasure",
+				"type": "Summer",
+				"banner": "c12fd9b6f88738788a2740cc01be5f39afec588b61a15c3e622686855085abf9",
+				"icon": "064013dac5bf24846474771ab2b92277f982ca2a97ca3d48e1ff57c4df5d7122",
+				"chibi": "e0035d098e17310cf717dfebbd19cc8c0eace670da1b508542cff940e8e904a7",
+				"shipyard": "5e85a16965352a7f54fa240e3455579e77575af07e3ef356c5db3e3499e37843"
 			}
 		]
 	},
@@ -2236,6 +2274,14 @@
 				"icon": "04c0ce57b5fa7debe66d9d267a871157ef21ab58591faef66f3818fccb500b92",
 				"chibi": "6ac36f61a26b81d4b23c10bcecf0da352c8dfe2c1d81599db99ad3340651fe1b",
 				"shipyard": "44124cd442198919f5d3a84d79f8fd8fd55ecef5b8e19637f98b451cb57676d2"
+			},
+			{
+				"name": "Marine Muse",
+				"type": "Summer",
+				"banner": "5e3c3e719f7ad6673555c1665a3f9621ef74e1f619b8c8cc6e4c87805652e5f7",
+				"icon": "aef0bec2bae5fb159f26d5e1767288c9ddfb30738b502e1c70741bd026fe3f5c",
+				"chibi": "816a5d6bddadcb14c56e643bfa593db5f8ac42b962c9626c64984b58000898f1",
+				"shipyard": "1afc897a6b21fcee4d9eaa9036cd4b2772cacbef6b979d825383e9430de6beb2"
 			}
 		]
 	},
@@ -2686,6 +2732,14 @@
 				"icon": "5e8800674c8ace2880d19c2432b2e4732a62eda735a01484d12243a5701a7ca8",
 				"chibi": "ad9b129d87a05478e4ce484b35976bb37402a8612d9b7f1b7d27eb2273e4452f",
 				"shipyard": "7f2107f288827f28767546a2388caa7a80b7dc7f9b2fb60bb5fd04a0fa2f877b"
+			},
+			{
+				"name": "Prim Sea Breeze",
+				"type": "Summer",
+				"banner": "ecdf38ec7a04db62a5b12fd893175890596f33fd70fc3d3499d4deacfe24bfde",
+				"icon": "5f9405085164c994a422f25209e7e63eb57f6ed1f17dfe3031697fbae2050f24",
+				"chibi": "fcb238a6e70c19e7f31cc9baa3141c18fad18651ec1a783681be7ed463491fd6",
+				"shipyard": "9f9bb93a889636049914d83eccb2deb598648b81eb3d5083233d58d434a92e32"
 			}
 		]
 	},
@@ -2930,6 +2984,14 @@
 				"icon": "c2c7c417d27e2919baaa4128352dd9738d1a200580e38d71a564aff18559475c",
 				"chibi": "d27e6117a13295f3fde06ed43c29657e97ae3cc2fd92f8e719e03ec7db5c34a2",
 				"shipyard": "1601e37625648cf8832e40109c6acdde2c8399c30ecb46b2c590ac639d0f8e91"
+			},
+			{
+				"name": "Seaside Sunset",
+				"type": "Summer",
+				"banner": "94dc60d7796b16fb10b8c4c1574817f1db45ff63dadd082a9d7ebeb9c815a75b",
+				"icon": "28bfe9f6e47b9539a21fe86d81b8a59f2c216dba2d66f4dd222e69700b667cb4",
+				"chibi": "9c30145b3040c4a29a4e23ca704126278a74d5a0434553c45793acda26d27514",
+				"shipyard": "aad71af9f2bd956ca0f58af85d33cf0e5c1412f19cd86d20e08664695ee8c8a1"
 			}
 		]
 	},
@@ -5234,6 +5296,28 @@
 		]
 	},
 	{
+		"id": "576",
+		"name": "Hammann II",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "1a4155c42cc8f32b1eff614cf57e18c8235a0a013f295a63cc9f01c86f344375",
+				"icon": "a538dcc4532aa15f916cb222762b563409ce2475a0bb96e5dd8bd91a6c83a029",
+				"chibi": "7817434ea41d6be3a1dc3a327997f15de246a4e137f5355120685e33a59422ce",
+				"shipyard": "b2e888a85708b7257b79299d2f3af5f3a1a9199200612656d4611d030d4ea717"
+			},
+			{
+				"name": "Another Rebellious Summer",
+				"type": "Summer",
+				"banner": "7c7d53515bf3ee91883197403dbd82c01c1f522a8da2a93509e580064eb2fb0a",
+				"icon": "94dd7f567e658229484886a8475cee97c75c7d0a48a8ca0c6c12b83fe1d3980c",
+				"chibi": "67e34b1c69223771d3e39f6bdcaa6e36d36926c0e70af5882c10ea4ebeec8c5b",
+				"shipyard": "29d30e7549fd20354b67c967b676ea0ff73ce947df2b7597dd0fb211c77ff54c"
+			}
+		]
+	},
+	{
 		"id": "449",
 		"name": "Hanazuki",
 		"skins": [
@@ -5274,6 +5358,14 @@
 				"icon": "4e5da516a89ffa3ddc535f331318c3e022430914d99f6c2f2f7c9880b95f5a2d",
 				"chibi": "68e3ca8a97525f9d8a84c83d6c8c9b3ee666019461f62668390ee6ca8f00ff6e",
 				"shipyard": "3a2fec63e8a8b89a2248242e871b3ee8dc4f45b6d46a31432cf2f69d1a57aac4"
+			},
+			{
+				"name": "Union Between Sea and Sky",
+				"type": "Summer",
+				"banner": "b06b3d7b14547164f892a184925d525a4e6e4b7385e2fde4ee5cb07da497b42d",
+				"icon": "7b622d67ee7a334f92db53178eedd053dd5da6b5cb7f78ef0b541a7c1120019e",
+				"chibi": "9da705c8c6a85749229c334ec7c1d00e946c2a32f691d9aa3833c590382a68e7",
+				"shipyard": "7db93b0885d561ce7c227fdfe83a6d2905395461b801d865b53af95ec3197dc6"
 			}
 		]
 	},
@@ -5960,6 +6052,28 @@
 				"icon": "4ab980093eec2c0e682936d63e5910671d325f90999e759d45ac5482c4e2a5f1",
 				"chibi": "c3ff04eb6214e7ee3e0aa276a3834c4d5dd410cc65f2a5c4e0d23000fdce3bd6",
 				"shipyard": "76e609f8adcebc034c68da4097636531fb7ffda5e9a2fa92859a8bc814069302"
+			}
+		]
+	},
+	{
+		"id": "572",
+		"name": "Hornet II",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "01a487d8987b763a039217448399590e754405911acadaca29db800b407474a6",
+				"icon": "ffce17e5edb7a94daced037a7951a0309015f27fa67b1a6d133ec15234e78839",
+				"chibi": "8d691ad3363c2ce699b921ed6769e31561719c1f98ec66eaf88036a64b395a4a",
+				"shipyard": "d9d30dfa27e52b3141510306bfb2769317bc5fbcabd6bc17f3d73eb4e278f810"
+			},
+			{
+				"name": "Racing Across the Waves!",
+				"type": "Summer",
+				"banner": "eeea20cb2852cde71feec86c08d6256f373441046b25768ef6000321c0ea5c47",
+				"icon": "7d263c76f532f7a66230e4138116567e7b1c00ce2db467cff12e3d663ae8aa8c",
+				"chibi": "104ded6daf35f14a49a07c3b145bc7a2f8985163a63c6b4c376f1f8183d6bd28",
+				"shipyard": "9b2e8841b039650825dc5c6c1b9c1b1b8403e215940122aad943219aa49784c2"
 			}
 		]
 	},
@@ -7626,6 +7740,14 @@
 				"icon": "f87fcef19299f643d44d5012bb760cc54863ab35142b43bbb415a988c8b4acaf",
 				"chibi": "7049095fffd0d74b98f3a2b26fdebd82b90b10434df171cf07aa0aa2b978a793",
 				"shipyard": "0f5c74cec06e225998e3c262dac83ab80435fa52a3946e99e153d533c941c146"
+			},
+			{
+				"name": "Placid Waves, Passionate Heart",
+				"type": "Summer",
+				"banner": "073506d3cf9500325a9a42ff8a82cad58fb90c5c3977255fe972e08c47841ed0",
+				"icon": "73362cbfcab0988d3ce16a29fca87f0ce2581142af699c9f3febecce8b03cb4e",
+				"chibi": "0df6546ea8e088e66b006d14fa02d7aa252c9a1807f221582ff05cebd924c9fa",
+				"shipyard": "fc92a4736d297f00befa1630e7bd41ace677b07d8f38dcdb8d544a3bb1415147"
 			}
 		]
 	},
@@ -8398,6 +8520,28 @@
 				"icon": "3bac46f41df1c09b266cd2c818c57f29b815fc2cf2f96052cd79f6a1c08b1713",
 				"chibi": "5a8371974570ee5a4f23a4e7d88d3203e110af1295761cec34dbe3fb2e1c12b8",
 				"shipyard": "d1458882b9013aa470b076e20e3e57a8b7e0ecf1f97c82f64c1a961ce372a99f"
+			}
+		]
+	},
+	{
+		"id": "573",
+		"name": "Langley II",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "39ce2660cc2c9a9b5e048cf6f3cfb88e4ab31aaa3cf66280078bb68828620fd8",
+				"icon": "71111568e2dc0641eae41533525157f0bd8b626a32dafffc10bc95828919f4f6",
+				"chibi": "918fa30b15a39178b712d2d710ef1b44a036150cd1c963793e9cc729320b7243",
+				"shipyard": "5829aeb366e8b34f93bdbe276714c016944d6f6ab4518c9a005ad9dfe9d9ca53"
+			},
+			{
+				"name": "On-the-Clock Vacation",
+				"type": "Summer",
+				"banner": "cf530cae2cb5f118865a0f2bc11355cd016a9423b005fde672b4c68719f48fb9",
+				"icon": "ecb8daa325239200bb7c03d20ff4e40ecf9c87daf04f912fe32840b9da20cb2c",
+				"chibi": "347d29f7aa78e2881d1ec4d3f2e6b1fd34e83912d8eef92c4f4a90b6ace3e137",
+				"shipyard": "4eba0d6ab85d24c3fc0472b16046ef0d58c30a985fc0b343daa553ab62fd655b"
 			}
 		]
 	},
@@ -10748,6 +10892,28 @@
 		]
 	},
 	{
+		"id": "575",
+		"name": "Northampton II",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "5d72e767444d16b7f75957e3cc0260201d46e7338ac3c1282aa96a759f1b1b5e",
+				"icon": "b32a073b1e3118c470340e5300c2910bde814d0dbc40df35024dbec162e0adb8",
+				"chibi": "b60056a7d3baa4467440d476a960bd00e3858bae0b6e1fa3c6c9165573e42491",
+				"shipyard": "4dbebf4697c3a909ff670d8d61f0e14d094b738b5652a531faa9f19221644784"
+			},
+			{
+				"name": "Swimming Star",
+				"type": "Summer",
+				"banner": "2dadf3517df22673db2c431ba69a336c1d4a0a39ba61a50320b8f1be0b460d93",
+				"icon": "8d1d5dff74710d7d7376aeca5ed878a9d8e1f4256bfc290e2f4b287fd6cc9db0",
+				"chibi": "77d3bac67a6b5b46563b4d61434df9860a7eb0ab3969c305afb65ede6b25ab45",
+				"shipyard": "134f0671d3af50d75ce48250baf3e90be75d0e9c94fed7e225aba1032ddfce81"
+			}
+		]
+	},
+	{
 		"id": "322",
 		"name": "Noshiro",
 		"skins": [
@@ -10806,6 +10972,14 @@
 				"icon": "f0bf334146f744bfb8af1758691099fbb89abe3b06383bcc2beebe47d12ac079",
 				"chibi": "0756c8c45b09e70debbfeff2fa786b1411217b02285126266985dba395417e43",
 				"shipyard": "5e8496ddc5820e61f67fcf58e61316e9c6382e5beb49f3f98ee6eb7f0c1d0145"
+			},
+			{
+				"name": "Unwinding in the Sunshine",
+				"type": "Summer",
+				"banner": "317d04d3a270bc18ebce6fdceb0dcb323b6cb0562f259b45c27af2baf96e4396",
+				"icon": "d3d679d846ebb288d0633784591dd54958426678d5a848ccdfe6820dec851d55",
+				"chibi": "22c245c89d5fd9f3faf0287468f057ccb7cf334fc648e50be82191b1877766b2",
+				"shipyard": "7d5cb81174fa2210c63a43f92dae9767e9efe1b88f67b5d29c0441281a9d2f1e"
 			}
 		]
 	},
@@ -11304,6 +11478,14 @@
 				"icon": "92bb3b247affb426780e70cb7c14bfe4e7ff5948423ff21be144cc7253b51e01",
 				"chibi": "2a6ec36d4e6188d1b721eb47dc4fc8d6ad916aae543aaceb499190a883d15319",
 				"shipyard": "3dade786ece39bb371150623670efee87b1fb1e0198344236f6bfd5c299c59f7"
+			},
+			{
+				"name": "Heart-Throbbing Refreshment",
+				"type": "Summer",
+				"banner": "ae7874917e013286fc434bf5f2d06e484b17156f78820714f3254c1ec6198981",
+				"icon": "f0dfb6a1c747bb49e653bc20d005f65d43b34b7ad01ff736ce07435782e71b62",
+				"chibi": "9dd9761f2f140ef7551bf1d1e6a966104fc1cda9ffe5ff96caf25f333fb477a4",
+				"shipyard": "3de341a9de2054cbc19552bfab5b41c770beaf47bdc2912983649c9aaaab3ce6"
 			}
 		]
 	},
@@ -11454,6 +11636,14 @@
 				"icon": "4fa88cdac30757dde5aeb53408f828ceed67e379f388e8531c67b429addd56ad",
 				"chibi": "8ec1f21ca9c1d0180724a5b97a017b12a893469b9d145ea9c2433e1cc08f0ab5",
 				"shipyard": "9771e1a42fe3b17e08bafe5d41a8994359a288b40e27c0515ca87a74520b2595"
+			},
+			{
+				"name": "Gift-Wrapped Reindeer",
+				"type": "Christmas",
+				"banner": "7c53893f2f11a3a701191219d0e9cb3e89e9092c54c0f1b253ada1f34285be2d",
+				"icon": "e67c4addaf00ebd3a6f74c2d9f38db729297d85e268ad61925b248c4a33ece1d",
+				"chibi": "b6bce0a94243236167b12766660bbc64465e0a8cac11398e3f2950bdac9ba9d6",
+				"shipyard": "6cf54f22fd4ea95b33cc47055f0ecd1856f7cd59453ac2c78768d1b6a46bffc0"
 			}
 		]
 	},
@@ -11560,6 +11750,14 @@
 				"icon": "9299b8ea325cf51bb123886325884379f234185b95b84402ec9c8e0d33e24855",
 				"chibi": "3f847f503e1639a97cb04e197c0b1dfad04a688aff10c8a97f05a4e275718cf9",
 				"shipyard": "11fcc31878deb6b17572a442a8bdbd4920dd4c8b7943742f5567019d16dd95a8"
+			},
+			{
+				"name": "Rabbit on Watch",
+				"type": "Summer",
+				"banner": "cbffb63ac0029db7e66e1180e71ff0e955074329a014eac6f94b358dec486250",
+				"icon": "e0f275955968f13c2f96fee4c32ebb395937572ef4a2a890fab57dfcfdb8989e",
+				"chibi": "4ab6fd0fc5a02eddfd3577f8aef79cb29168a8e6e70edbdd9279c73aaf09f0e8",
+				"shipyard": "7a7a76f0d546137e8d6656aa983b728ba54c50438ba1ab04e4aab743e2aa1ff3"
 			}
 		]
 	},
@@ -11749,7 +11947,7 @@
 	},
 	{
 		"id": "10091",
-		"name": "Reisalin Stout",
+		"name": "Reisalin Stout",
 		"skins": [
 			{
 				"name": "Default",
@@ -12794,6 +12992,14 @@
 				"icon": "3c2a3ba472d7badad4908c6ee08081bb271b85bcec1fdaf25a427469d368bc0a",
 				"chibi": "ca9af75e06b2f7052b9ca68fa451bce2baa05f4294d9ef61aabe2e0989ec6b9a",
 				"shipyard": "1360bc7d618f0efc9e74297a30a9542f989ac7d08e6e3ad9e824e2e242cb0f9d"
+			},
+			{
+				"name": "The Island Wind Rests",
+				"type": "Summer",
+				"banner": "df241d35086a4ffb2939c05c4e3e633f0d6810f4b8d382df6e88a4f71228f4ed",
+				"icon": "1791d2eb9bf9a00790a2379dbb6d32fcceb5d852aa48d0415fccf676cea09000",
+				"chibi": "fdc1703d6647f2f4585ed2c4a576aad3493468ecd8dc8234a102f4f2f3d6b500",
+				"shipyard": "517f883b8c5a0952d9f1a167893846a0c95b9480f5681fa0bd55d9870459fdfd"
 			}
 		]
 	},
@@ -15534,6 +15740,28 @@
 				"icon": "b97603e107719ec56805f0d1e18fe24c4e332ff295af6d3a6cf66246278c945b",
 				"chibi": "42542ee7226dcedecc2baa49758a39eefc3991fc27fe93d8ebbabdc277eef1c7",
 				"shipyard": "c38a117d0b0440a9eb9d4c3be54c31234e95fbae21f2d1fd492e68bc691bc943"
+			}
+		]
+	},
+	{
+		"id": "574",
+		"name": "Yorktown II",
+		"skins": [
+			{
+				"name": "Default",
+				"type": "Default",
+				"banner": "6f352764c968aeedd45a31bee5dd794178527dcb05d43555ba75752c0c6768da",
+				"icon": "90712d5bed853636044021280e2471032076dee0b828957d19a1fc1e74f4bccc",
+				"chibi": "8ed1455dfc2a2f462aea5648250e88fc0102dfe5fbbd8da975d7de8b1676ce69",
+				"shipyard": "1e097a0b637ce0052f85beb5cdb94c42dde219e3314b6d07ceaa827384db3cf8"
+			},
+			{
+				"name": "Bright-Sky Mermaid",
+				"type": "Summer",
+				"banner": "fb2510ebec3444dd19f8449b206502bc4422b5f4825ce1597cfed32413f144cf",
+				"icon": "85ab3ca25aa5907407f88992312a90c4dff5e3cf4b27b9ca8f02078238cc4ffa",
+				"chibi": "b025bc44570d6c802475fa06c765662fabbb78c47d1dfab9f40a0495098fca86",
+				"shipyard": "f4134b2aacea83283885c269af1634424d44d7e3ee7c1a5b0c482fb561404f31"
 			}
 		]
 	},

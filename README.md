@@ -2,6 +2,9 @@
 Azur Lane Resources
 >Resources from [AzurAPI](https://github.com/AzurAPI/azurapi-js-setup) & [Azur Lane Wiki](https://azurlane.koumakan.jp)
 
+## Message 28 December 2022
+next update gonna take 2~6 month because current script cant handle skin sharing patch
+
 ## Fetch
 - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/ShipBanner.json`
 - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/meowfficer.json`
