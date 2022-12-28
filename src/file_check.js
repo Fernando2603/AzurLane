@@ -173,41 +173,66 @@ export default function main(azurapi, ship_banner, __dirname)
 
 	console.log("----------------------");
 	console.log("Checking Data Update");
-	let new_ship = [];
-	let new_skin = [];
+	let NEW_SHIP = [];
+	let NEW_SKIN = [];
+
+	// temporary fix for skin sharing
 	azurapi.forEach((ship) =>
 	{
 		const SHIP_NAME   = ship.names.en;
 		const SHIP_SKIN   = ship.skins;
 		const BANNER_DATA = ship_banner.find(idx => idx.id === ship.id);
+
 		if (!BANNER_DATA)
 		{
-			new_ship.push(SHIP_NAME);
-			SHIP_SKIN.forEach((azurapi_skin) => new_skin.push(SHIP_NAME + " - " + azurapi_skin.name));
+			NEW_SHIP.push(SHIP_NAME);
+			SHIP_SKIN.forEach((azurapi_skin) =>
+			{
+				const { name } = azurapi_skin;
+
+				if (SHIP_NAME.includes(" II"))
+				{
+					if (name === "II")
+						NEW_SKIN.push(SHIP_NAME + " - Default");
+					else if (name !== "Default" && name !== "Retrofit")
+					{
+						const PARENT_SHIP = azurapi.find(idx => idx.names.en === SHIP_NAME.replace(" II", ""));
+						const PARENT_BANNER = ship_banner.find(idx => idx.id === PARENT_SHIP.id);
+						const PARENT_SKIN = PARENT_BANNER.skins.find(parent_skin => parent_skin.name === azurapi_skin.name);
+
+						if (!PARENT_SKIN)
+							NEW_SKIN.push(SHIP_NAME + " - " + name);
+					}
+				}
+				else
+					NEW_SKIN.push(SHIP_NAME + " - " + name);
+			});
 		}
 		else
 		{
 			const BANNER_SKIN = BANNER_DATA.skins;
 			SHIP_SKIN.forEach((azurapi_skin) =>
 			{
-				if (!BANNER_SKIN.find(banner_skin => banner_skin.name === azurapi_skin.name))
-					new_skin.push(SHIP_NAME + " - " + azurapi_skin.name);
+				if (azurapi_skin.name !== "II" && azurapi_skin.name !== "Muse")
+					if (!BANNER_SKIN.find(banner_skin => banner_skin.name === azurapi_skin.name))
+						if (!SHIP_NAME.includes(" II") && !azurapi.find(idx => idx.names.en === SHIP_NAME + " II")) // temporary fix
+							NEW_SKIN.push(SHIP_NAME + " - " + azurapi_skin.name);
 			});
 		};
 	});
 
-	if (new_ship.length)
+	if (NEW_SHIP.length)
 	{
 		console.log("=> Ship Update Available");
-		console.log(new_ship);
+		console.log(NEW_SHIP);
 		console.log();
 	}
 	else console.log("=> Ship is up to date!\n");
 
-	if (new_skin.length)
+	if (NEW_SKIN.length)
 	{
 		console.log("=> Skin Update Available");
-		console.log(new_skin);
+		console.log(NEW_SKIN);
 		console.log();
 	}
 	else console.log("=> Skin is up to date!\n");
