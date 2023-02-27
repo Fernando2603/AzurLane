@@ -1,61 +1,73 @@
 # AzurLane
 Azur Lane Resources
->Resources from [AzurAPI](https://github.com/AzurAPI/azurapi-js-setup) & [Azur Lane Wiki](https://azurlane.koumakan.jp)
 
-## Message 28 December 2022
-next update gonna take 2~6 month because current script cant handle skin sharing patch
+> extract/unpack [K0lb3/UnityPy](https://github.com/K0lb3/UnityPy)
+
+> resources [AzurLaneTools/AzurLaneData](https://github.com/AzurLaneTools/AzurLaneData)
+
+## 27 Feburary 2023 Changes
+- `ShipBanner.json` is deprecated and will be removed in 2024 use `skins.json` instead
+- changes `ShipBanner` folder from skins into skins_old and the unknown images as well
+- `id` value in `skins.json` changed from `wiki_id` used by azurapi into `code_id` (in azurapi is `code` key)
 
 ## Fetch
-- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/ShipBanner.json`
+- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/skins.json`
 - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/meowfficer.json`
 - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/MeowfficerTalentList.json`
 
-
 ## Replace Missing File (Wild Card)
 #### Banner
-- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png`
-- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/000/Default/Banner.png`
-#### Icon
-- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png`
-- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/000/Default/Icon.png`
+- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/unknown/banner.png`
 #### Chibi
-- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownChibiIcon.png`
-- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/000/Default/ChibiIcon.png`
+- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/unknown/chibi.png`
+#### Icon
+- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/unknown/icon.png`
 #### Shipyard
-- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownShipyardIcon.png`
-- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/000/Default/ShipyardIcon.png`
+- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/unknown/shipyard.png`
 
 ## Json Structure
-**ShipBanner.json**
+**skins.json**
 ```Json
 [
    {
-      "id": "336",
-      "name": "Abercrombie",
+      "id": 5,
+      "gid": 10103,
+      "name": "Cassin",
       "skins": [
          {
-            "name": "Default",
+            "id": 101030,
+            "name": "Cassin",
             "type": "Default",
-            "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Default/Banner.png",
-            "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Default/Icon.png",
-            "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Default/ChibiIcon.png",
-            "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Default/ShipyardIcon.png"
+            "desc": "Mahan-class destroyer - Cassin, Hull Number DD-372!",
+            "tag": [],
+            "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10103/101030/banner.png",
+            "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10103/101030/chibi.png",
+            "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10103/101030/icon.png",
+            "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10103/101030/shipyard.png"
          },
          {
-            "name": "Pumpkin Blast!",
-            "type": "Halloween",
-            "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Pumpkin_Blast/Banner.png",
-            "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Pumpkin_Blast/Icon.png",
-            "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Pumpkin_Blast/ChibiIcon.png",
-            "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Pumpkin_Blast/ShipyardIcon.png"
+            "id": 101031,
+            "name": "Shopping Carte Blanche",
+            "type": "School Girl",
+            "desc": "I know I said we'd go shopping after school, but walking is so exhausting... I'll just hitch a ride in this cart. Looks sturdy enough...",
+            "tag": [
+               "bg"
+            ],
+            "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10103/101031/banner.png",
+            "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10103/101031/chibi.png",
+            "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10103/101031/icon.png",
+            "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10103/101031/shipyard.png"
          },
          {
-            "name": "Mischief on the Rocks",
-            "type": "Bunny",
-            "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Mischief_on_the_Rocks/Banner.png",
-            "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Mischief_on_the_Rocks/Icon.png",
-            "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Mischief_on_the_Rocks/ChibiIcon.png",
-            "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Mischief_on_the_Rocks/ShipyardIcon.png"
+            "id": 101039,
+            "name": "Cassin (Retrofit)",
+            "type": "Retrofit",
+            "desc": "Commander... I think I've been in the house too long. My body feels different... Oh? I've improved? I see... Wonderful! I guess I can keep staying inside...",
+            "tag": [],
+            "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10103/101039/banner.png",
+            "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10103/101039/chibi.png",
+            "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10103/101039/icon.png",
+            "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10103/101039/shipyard.png"
          }
       ]
    }

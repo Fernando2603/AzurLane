@@ -47,8 +47,8 @@
 		"default-case": "error", // require defautl cases in switch statements
 		"dot-notation": "error", // enforce dot notation whenever possible in object
 		"eqeqeq": "error", // require the use of ==== instead ==
-		"guard-for-in": "error", // require for-in loops to include an if statement
-		"max-depth": ["error", 3], // enfoce a maximum depth that blocks can be nested
+		"guard-for-in": "off", // require for-in loops to include an if statement
+		"max-depth": ["error", 5], // enfoce a maximum depth that blocks can be nested
 		"max-nested-callbacks": ["error", 3], // enfoce a maximum depth that callbacks can be nested
 		"max-params": ["warn", 10], // enfoce a maximum number of parameters in function definitions
 		"new-cap": ["error", {"newIsCap": true, "capIsNew": false}], // require constructor names to begin with a capital letter
@@ -112,7 +112,7 @@
 		"comma-style": ["warn", "last"], // enforce consistent comma style
 		"eol-last": "warn", // require or disallow newline at the end of files
 		"func-call-spacing": ["warn", "never"], // require or disallow spacing between function indentifiers and their invocations
-		"indent": ["warn", "tab"], // enforce consistent indentation
+		"indent": [1, 2, { "SwitchCase": 1 }], // enforce consistent indentation
 		"jsx-quotes": ["error", "prefer-double"], // Enforce quote style for JSX attributes
 		"key-spacing": ["warn", {"beforeColon": false, "afterColon": true}], // enforces spacing between keys and values in object literal properties
 		"keyword-spacing": ["warn", {"before": true}], // require a space after return, throw, and case
