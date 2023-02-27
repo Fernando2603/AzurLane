@@ -27,53 +27,27 @@ Azur Lane Resources
 
 ## Json Structure
 **skins.json**
-```Json
-[
-   {
-      "id": 5,
-      "gid": 10103,
-      "name": "Cassin",
-      "skins": [
-         {
-            "id": 101030,
-            "name": "Cassin",
-            "type": "Default",
-            "desc": "Mahan-class destroyer - Cassin, Hull Number DD-372!",
-            "tag": [],
-            "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10103/101030/banner.png",
-            "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10103/101030/chibi.png",
-            "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10103/101030/icon.png",
-            "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10103/101030/shipyard.png"
-         },
-         {
-            "id": 101031,
-            "name": "Shopping Carte Blanche",
-            "type": "School Girl",
-            "desc": "I know I said we'd go shopping after school, but walking is so exhausting... I'll just hitch a ride in this cart. Looks sturdy enough...",
-            "tag": [
-               "bg"
-            ],
-            "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10103/101031/banner.png",
-            "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10103/101031/chibi.png",
-            "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10103/101031/icon.png",
-            "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10103/101031/shipyard.png"
-         },
-         {
-            "id": 101039,
-            "name": "Cassin (Retrofit)",
-            "type": "Retrofit",
-            "desc": "Commander... I think I've been in the house too long. My body feels different... Oh? I've improved? I see... Wonderful! I guess I can keep staying inside...",
-            "tag": [],
-            "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10103/101039/banner.png",
-            "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10103/101039/chibi.png",
-            "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10103/101039/icon.png",
-            "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10103/101039/shipyard.png"
-         }
-      ]
-   }
-]
-```
+```Typescript
+type skins {
+   id: Integer,
+   gid: Integer,
+   name: String,
+   skins: skin[]
+}
 
+type skin {
+   id: Integer,
+   name: String,
+   type: String,
+   desc: String,
+   tag: String[],    // live2d, bg, effect, custombg, bgm, dynamic
+   banner: String,   // link
+   chibi: String,    // link
+   icon: String,     // link
+   shipyard: String, // link
+   shared?: Integer  // shared contains skin parent gid
+}
+```
 
 **meowfficer.json**
 ```Json
