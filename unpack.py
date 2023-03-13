@@ -29,7 +29,7 @@ def unpack_assets(title: str, source: str):
       for obj in env.objects:
         if obj.type.name in ASSET_TYPE:
           data = obj.read()
-          dest = os.path.join(DESTINATION, data.name)
+          dest = os.path.join(DESTINATION, data.name.lower())
 
           dest, _ = os.path.splitext(dest)
           dest = dest + ".png"
