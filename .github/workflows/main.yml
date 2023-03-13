@@ -1,0 +1,51 @@
+name: Data Update
+
+on:
+  push:
+  branches:
+    - main
+  paths:
+    - assets/**
+  workflow_dispatch:
+
+jobs:
+  data_update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Use Python 3.10
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.10
+          architecture: x64
+
+      - name: Install Python Depedencies
+        run: pip install UnityPy
+
+      - name: Unpacking Assets
+        run: python unpack.py
+
+      - name: Use Node.JS 18
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - run : |
+          npm ci
+          npm run update
+          npm run ship
+          npm run check
+          npm run deploy
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v4
+        with:
+          branch: update
+          commit-message: "Data Update"
+          committer: GitHub <noreply@github.com>
+          author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
+          title: "Data Update"
+          assignees: Fernando2603
+          reviewers: Fernando2603
+          labels: Update
