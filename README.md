@@ -1,67 +1,56 @@
 # AzurLane
 Azur Lane Resources
->Resources from [AzurAPI](https://github.com/AzurAPI/azurapi-js-setup) & [Azur Lane Wiki](https://azurlane.koumakan.jp)
 
-## Message 28 December 2022
-next update gonna take 2~6 month because current script cant handle skin sharing patch
+> extract/unpack [K0lb3/UnityPy](https://github.com/K0lb3/UnityPy)
+
+> resources [AzurLaneTools/AzurLaneData](https://github.com/AzurLaneTools/AzurLaneData)
+
+## Important Notes
+- only `EN` ships are available
+
+## 27 Feburary 2023 Changes
+- `ShipBanner.json` is deprecated and will be removed in 2024 use `skins.json` instead
+- changes `ShipBanner` folder from skins into skins_old and the unknown images as well
+- `id` value in `skins.json` changed from `wiki_id` used by azurapi into `code_id` (in azurapi is `code` key)
 
 ## Fetch
-- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/ShipBanner.json`
+- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/skins.json`
 - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/meowfficer.json`
 - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/MeowfficerTalentList.json`
 
-
 ## Replace Missing File (Wild Card)
 #### Banner
-- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownBanner.png`
-- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/000/Default/Banner.png`
-#### Icon
-- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownIcon.png`
-- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/000/Default/Icon.png`
+- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/unknown/banner.png`
 #### Chibi
-- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownChibiIcon.png`
-- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/000/Default/ChibiIcon.png`
+- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/unknown/chibi.png`
+#### Icon
+- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/unknown/icon.png`
 #### Shipyard
-- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/Unknown/UnknownShipyardIcon.png`
-- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/000/Default/ShipyardIcon.png`
+- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/unknown/shipyard.png`
 
 ## Json Structure
-**ShipBanner.json**
-```Json
-[
-   {
-      "id": "336",
-      "name": "Abercrombie",
-      "skins": [
-         {
-            "name": "Default",
-            "type": "Default",
-            "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Default/Banner.png",
-            "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Default/Icon.png",
-            "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Default/ChibiIcon.png",
-            "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Default/ShipyardIcon.png"
-         },
-         {
-            "name": "Pumpkin Blast!",
-            "type": "Halloween",
-            "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Pumpkin_Blast/Banner.png",
-            "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Pumpkin_Blast/Icon.png",
-            "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Pumpkin_Blast/ChibiIcon.png",
-            "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Pumpkin_Blast/ShipyardIcon.png"
-         },
-         {
-            "name": "Mischief on the Rocks",
-            "type": "Bunny",
-            "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Mischief_on_the_Rocks/Banner.png",
-            "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Mischief_on_the_Rocks/Icon.png",
-            "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Mischief_on_the_Rocks/ChibiIcon.png",
-            "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/336/Mischief_on_the_Rocks/ShipyardIcon.png"
-         }
-      ]
-   }
-]
-```
+**skins.json**
+```Typescript
+type skins {
+   id: Integer,
+   gid: Integer,
+   name: String,
+   skins: skin[]
+}
 
+type skin {
+   id: Integer,
+   name: String,
+   type: String,
+   desc: String,
+   tag: String[],    // live2d, bg, effect, custombg, bgm, dynamic
+   banner: String,   // link
+   chibi: String,    // link
+   icon: String,     // link
+   shipyard: String, // link
+   shared?: Integer  // shared contains skin parent gid
+}
+```
 
 **meowfficer.json**
 ```Json

@@ -1,13 +1,16 @@
-import fs from "node:fs";
+import { write, REPOSITORY_LINK, UNKNOWN_IMAGE } from "./utils.js";
+import { skins } from "./dist.js";
 
-const SHIP_BANNER = JSON.parse(fs.readFileSync("./src/ShipBanner.json"));
-
-fs.writeFile("./ShipBanner.json", JSON.stringify(SHIP_BANNER, null, "\t"), "utf8", function (err)
+skins.map(ship =>
 {
-	if (err)
-	{
-		console.log("An error occured while writing JSON to File");
-		return console.log(err);
-	};
-	console.log("=> ./ShipBanner.json has been updated!");
+  ship.skins.forEach(skin =>
+  {
+    for (const type of ["banner", "chibi", "icon", "shipyard"])
+      if (skin[type])
+        skin[type] = REPOSITORY_LINK + skin[type];
+      else
+        skin[type] = REPOSITORY_LINK + UNKNOWN_IMAGE[type];
+  });
 });
+
+write("root", "skins.json", skins);
