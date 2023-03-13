@@ -5,6 +5,9 @@ Azur Lane Resources
 
 > resources [AzurLaneTools/AzurLaneData](https://github.com/AzurLaneTools/AzurLaneData)
 
+## Important Notes
+- only `EN` ships are available
+
 ## 27 Feburary 2023 Changes
 - `ShipBanner.json` is deprecated and will be removed in 2024 use `skins.json` instead
 - changes `ShipBanner` folder from skins into skins_old and the unknown images as well
