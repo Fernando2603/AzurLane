@@ -2,10 +2,8 @@ name: Data Update
 
 on:
   push:
-  branches:
-    - main
-  paths:
-    - assets/**
+    branches: [main]
+    paths: "assets/**"
   workflow_dispatch:
 
 jobs:
