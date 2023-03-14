@@ -36,21 +36,36 @@ const check = async (gid, id, file) =>
     shipyard: false
   };
 
+  const PROMISES = [];
+
   for (const image_type in SHIP_IMAGE)
   {
     const TARGET_FILE = SHIP_IMAGE[image_type] + "/" + file + ".png";
 
     if (existsSync(TARGET_FILE))
-      copy(TARGET_FILE, gid, id, image_type, (error, destination) =>
+    {
+      const PROMISE = new Promise((resolve) =>
       {
-        if (error)
-          console.log("skin:", id, "file:", file, "type:", image_type, "desc: copy error");
+        copy(TARGET_FILE, gid, id, image_type, (error, destination) =>
+        {
+          if (error)
+            console.log("skin:", id, "file:", file, "type:", image_type, "desc: copy error");
+          else
+            STATUS[image_type] = destination;
 
-        STATUS[image_type] = destination;
+          resolve();
+        });
       });
+
+      PROMISES.push(PROMISE);
+    }
+    else if (existsSync(path(`images/skins/${gid}/${id}/${image_type}.png`)))
+      STATUS[image_type] = `images/skins/${gid}/${id}/${image_type}.png`;
     else
       console.log(TARGET_FILE, "not exists");
   };
+
+  await Promise.all(PROMISES);
 
   return STATUS;
 };
