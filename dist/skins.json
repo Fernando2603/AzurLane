@@ -8537,6 +8537,17 @@
 				"chibi": "images/skins/20501/205015/chibi.png",
 				"icon": "images/skins/20501/205015/icon.png",
 				"shipyard": "images/skins/20501/205015/shipyard.png"
+			},
+			{
+				"id": 205016,
+				"name": "伊丽莎白占坑",
+				"type": "Default",
+				"desc": "占坑",
+				"tag": [],
+				"banner": "images/skins/20501/205016/banner.png",
+				"chibi": "images/skins/20501/205016/chibi.png",
+				"icon": "images/skins/20501/205016/icon.png",
+				"shipyard": "images/skins/20501/205016/shipyard.png"
 			}
 		]
 	},
@@ -23045,6 +23056,24 @@
 				"chibi": "images/skins/970503/9705030/chibi.png",
 				"icon": "images/skins/970503/9705030/icon.png",
 				"shipyard": "images/skins/970503/9705030/shipyard.png"
+			}
+		]
+	},
+	{
+		"id": 30019,
+		"gid": 970504,
+		"name": "Queen Elizabeth META",
+		"skins": [
+			{
+				"id": 9705040,
+				"name": "Queen Elizabeth META",
+				"type": "Default",
+				"desc": "So you are the Commander? Very well. From this point forth, you will use your courage and intellect for our purposes! ...We don't have all day, now. You are our servant, so this won't go anywhere until you swear your fealty.",
+				"tag": [],
+				"banner": "images/skins/970504/9705040/banner.png",
+				"chibi": "images/skins/970504/9705040/chibi.png",
+				"icon": "images/skins/970504/9705040/icon.png",
+				"shipyard": "images/skins/970504/9705040/shipyard.png"
 			}
 		]
 	},

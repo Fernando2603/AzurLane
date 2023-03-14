@@ -5394,6 +5394,14 @@
 				"bg"
 			],
 			"file": "yilishabai_6"
+		},
+		{
+			"id": 205016,
+			"name": "伊丽莎白占坑",
+			"type": "Default",
+			"desc": "占坑",
+			"tag": [],
+			"file": "yilishabai"
 		}
 	],
 	"20502": [
@@ -14946,6 +14954,16 @@
 			"desc": "I am Arizona... This may be improper of me, but is it really alright for me to stay here? ...Very well, Commander. If that is what you've decided...",
 			"tag": [],
 			"file": "yalisangna_alter"
+		}
+	],
+	"970504": [
+		{
+			"id": 9705040,
+			"name": "Queen Elizabeth META",
+			"type": "Default",
+			"desc": "So you are the Commander? Very well. From this point forth, you will use your courage and intellect for our purposes! ...We don't have all day, now. You are our servant, so this won't go anywhere until you swear your fealty.",
+			"tag": [],
+			"file": "yilishabai_alter"
 		}
 	],
 	"970601": [
