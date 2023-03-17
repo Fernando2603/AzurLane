@@ -32,23 +32,23 @@ Azur Lane Resources
 **skins.json**
 ```Typescript
 type skins {
-   id: Integer,
-   gid: Integer,
-   name: String,
-   skins: skin[]
+   id: number;
+   gid: number;
+   name: string;
+   skins: skin[];
 }
 
 type skin {
-   id: Integer,
-   name: String,
-   type: String,
-   desc: String,
-   tag: String[],    // live2d, bg, effect, custombg, bgm, dynamic
-   banner: String,   // link
-   chibi: String,    // link
-   icon: String,     // link
-   shipyard: String, // link
-   shared?: Integer  // shared contains skin parent gid
+   id: number;
+   name: string;
+   type: string;
+   desc: string;
+   tag: string[];    // live2d, bg, effect, custombg, bgm, dynamic
+   banner: string;   // link
+   chibi: string;    // link
+   icon: string;     // link
+   shipyard: string; // link
+   shared?: number;  // shared contains skin parent gid
 }
 ```
 
