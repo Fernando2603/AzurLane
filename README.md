@@ -31,14 +31,14 @@ Azur Lane Resources
 ## Json Structure
 **skins.json**
 ```Typescript
-type skins {
+type skins = {
    id: number;
    gid: number;
    name: string;
    skins: skin[];
 }
 
-type skin {
+type skin = {
    id: number;
    name: string;
    type: string;
