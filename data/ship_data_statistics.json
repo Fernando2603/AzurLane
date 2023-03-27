@@ -269421,6 +269421,514 @@
 		],
 		"type": 2
 	},
+	"702071": {
+		"aim_offset": [
+			0,
+			0,
+			0
+		],
+		"ammo": 0,
+		"armor_type": 1,
+		"attack_duration": 0,
+		"attrs": [
+			749,
+			27,
+			36,
+			77,
+			0,
+			69,
+			0,
+			54,
+			39,
+			36.5,
+			52,
+			37
+		],
+		"attrs_growth": [
+			19202,
+			379,
+			501,
+			1576,
+			0,
+			478,
+			0,
+			798,
+			815,
+			0,
+			0,
+			442
+		],
+		"attrs_growth_extra": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"backyard_speed": "0.3",
+		"base_list": [
+			1,
+			1,
+			1
+		],
+		"cld_box": [
+			4,
+			5,
+			5
+		],
+		"cld_offset": [
+			0,
+			0,
+			0
+		],
+		"default_equip_list": [
+			101,
+			106,
+			104
+		],
+		"depth_charge_list": [
+			147
+		],
+		"english_name": "SN Voroshilov",
+		"equipment_proficiency": [
+			1.2,
+			1.35,
+			1.1,
+			0.3
+		],
+		"fix_equip_list": [
+			261
+		],
+		"hunting_range": [
+			[]
+		],
+		"huntingrange_level": 0,
+		"id": 702071,
+		"is_character": 1,
+		"lock": [
+			"air"
+		],
+		"name": "Voroshilov",
+		"nationality": 7,
+		"oxy_cost": 0,
+		"oxy_max": 0,
+		"oxy_recovery": 0,
+		"oxy_recovery_bench": 0,
+		"parallel_max": [
+			1,
+			1,
+			1
+		],
+		"position_offset": [
+			0,
+			0,
+			0
+		],
+		"preload_count": [
+			0,
+			0,
+			0
+		],
+		"raid_distance": 0,
+		"rarity": 5,
+		"scale": 100,
+		"skin_id": 702070,
+		"star": 3,
+		"strategy_list": [],
+		"summon_offset": 0,
+		"tag_list": [
+			"Northern Union-CL"
+		],
+		"type": 2
+	},
+	"702072": {
+		"aim_offset": [
+			0,
+			0,
+			0
+		],
+		"ammo": 0,
+		"armor_type": 1,
+		"attack_duration": 0,
+		"attrs": [
+			932,
+			34,
+			45,
+			96,
+			0,
+			69,
+			0,
+			54,
+			39,
+			36.5,
+			52,
+			46
+		],
+		"attrs_growth": [
+			19202,
+			379,
+			501,
+			1576,
+			0,
+			478,
+			0,
+			798,
+			815,
+			0,
+			0,
+			442
+		],
+		"attrs_growth_extra": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"backyard_speed": "0.3",
+		"base_list": [
+			1,
+			1,
+			1
+		],
+		"cld_box": [
+			4,
+			5,
+			5
+		],
+		"cld_offset": [
+			0,
+			0,
+			0
+		],
+		"default_equip_list": [
+			101,
+			106,
+			104
+		],
+		"depth_charge_list": [
+			147
+		],
+		"english_name": "SN Voroshilov",
+		"equipment_proficiency": [
+			1.25,
+			1.35,
+			1.1,
+			0.3
+		],
+		"fix_equip_list": [
+			262
+		],
+		"hunting_range": [
+			[]
+		],
+		"huntingrange_level": 0,
+		"id": 702072,
+		"is_character": 1,
+		"lock": [
+			"air"
+		],
+		"name": "Voroshilov",
+		"nationality": 7,
+		"oxy_cost": 0,
+		"oxy_max": 0,
+		"oxy_recovery": 0,
+		"oxy_recovery_bench": 0,
+		"parallel_max": [
+			1,
+			1,
+			1
+		],
+		"position_offset": [
+			0,
+			0,
+			0
+		],
+		"preload_count": [
+			0,
+			0,
+			0
+		],
+		"raid_distance": 0,
+		"rarity": 5,
+		"scale": 100,
+		"skin_id": 702070,
+		"star": 4,
+		"strategy_list": [],
+		"summon_offset": 0,
+		"tag_list": [
+			"Northern Union-CL"
+		],
+		"type": 2
+	},
+	"702073": {
+		"aim_offset": [
+			0,
+			0,
+			0
+		],
+		"ammo": 0,
+		"armor_type": 1,
+		"attack_duration": 0,
+		"attrs": [
+			1297,
+			47,
+			63,
+			133,
+			0,
+			69,
+			0,
+			54,
+			39,
+			36.5,
+			52,
+			65
+		],
+		"attrs_growth": [
+			19202,
+			379,
+			501,
+			1576,
+			0,
+			478,
+			0,
+			798,
+			815,
+			0,
+			0,
+			442
+		],
+		"attrs_growth_extra": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"backyard_speed": "0.3",
+		"base_list": [
+			1,
+			2,
+			1
+		],
+		"cld_box": [
+			4,
+			5,
+			5
+		],
+		"cld_offset": [
+			0,
+			0,
+			0
+		],
+		"default_equip_list": [
+			101,
+			106,
+			104
+		],
+		"depth_charge_list": [
+			147
+		],
+		"english_name": "SN Voroshilov",
+		"equipment_proficiency": [
+			1.35,
+			1.35,
+			1.1,
+			0.3
+		],
+		"fix_equip_list": [
+			263
+		],
+		"hunting_range": [
+			[]
+		],
+		"huntingrange_level": 0,
+		"id": 702073,
+		"is_character": 1,
+		"lock": [
+			"air"
+		],
+		"name": "Voroshilov",
+		"nationality": 7,
+		"oxy_cost": 0,
+		"oxy_max": 0,
+		"oxy_recovery": 0,
+		"oxy_recovery_bench": 0,
+		"parallel_max": [
+			1,
+			1,
+			1
+		],
+		"position_offset": [
+			0,
+			0,
+			0
+		],
+		"preload_count": [
+			0,
+			1,
+			0
+		],
+		"raid_distance": 0,
+		"rarity": 5,
+		"scale": 100,
+		"skin_id": 702070,
+		"star": 5,
+		"strategy_list": [],
+		"summon_offset": 0,
+		"tag_list": [
+			"Northern Union-CL"
+		],
+		"type": 2
+	},
+	"702074": {
+		"aim_offset": [
+			0,
+			0,
+			0
+		],
+		"ammo": 0,
+		"armor_type": 1,
+		"attack_duration": 0,
+		"attrs": [
+			1846,
+			68,
+			90,
+			190,
+			0,
+			69,
+			0,
+			54,
+			39,
+			36.5,
+			52,
+			93
+		],
+		"attrs_growth": [
+			19202,
+			379,
+			501,
+			1576,
+			0,
+			478,
+			0,
+			798,
+			815,
+			0,
+			0,
+			442
+		],
+		"attrs_growth_extra": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"backyard_speed": "0.3",
+		"base_list": [
+			1,
+			2,
+			1
+		],
+		"cld_box": [
+			4,
+			5,
+			5
+		],
+		"cld_offset": [
+			0,
+			0,
+			0
+		],
+		"default_equip_list": [
+			101,
+			106,
+			104
+		],
+		"depth_charge_list": [
+			147
+		],
+		"english_name": "SN Voroshilov",
+		"equipment_proficiency": [
+			1.5,
+			1.35,
+			1.1,
+			0.3
+		],
+		"fix_equip_list": [
+			264
+		],
+		"hunting_range": [
+			[]
+		],
+		"huntingrange_level": 0,
+		"id": 702074,
+		"is_character": 1,
+		"lock": [
+			"air"
+		],
+		"name": "Voroshilov",
+		"nationality": 7,
+		"oxy_cost": 0,
+		"oxy_max": 0,
+		"oxy_recovery": 0,
+		"oxy_recovery_bench": 0,
+		"parallel_max": [
+			1,
+			1,
+			1
+		],
+		"position_offset": [
+			0,
+			0,
+			0
+		],
+		"preload_count": [
+			0,
+			1,
+			0
+		],
+		"raid_distance": 0,
+		"rarity": 5,
+		"scale": 100,
+		"skin_id": 702070,
+		"star": 6,
+		"strategy_list": [],
+		"summon_offset": 0,
+		"tag_list": [
+			"Northern Union-CL"
+		],
+		"type": 2
+	},
 	"702124": {
 		"aim_offset": [
 			0,
@@ -270040,6 +270548,506 @@
 		"rarity": 5,
 		"scale": 100,
 		"skin_id": 703010,
+		"star": 6,
+		"strategy_list": [],
+		"summon_offset": 0,
+		"tag_list": [
+			"Northern Union-CA"
+		],
+		"type": 3
+	},
+	"703021": {
+		"aim_offset": [
+			0,
+			0,
+			0
+		],
+		"ammo": 0,
+		"armor_type": 1,
+		"attack_duration": 0,
+		"attrs": [
+			840,
+			52,
+			39,
+			23,
+			0,
+			69,
+			0,
+			53,
+			11,
+			30.4,
+			10,
+			0
+		],
+		"attrs_growth": [
+			20490,
+			700,
+			541,
+			513,
+			0,
+			478,
+			0,
+			777,
+			429,
+			0,
+			0,
+			0
+		],
+		"attrs_growth_extra": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"backyard_speed": "0.3",
+		"base_list": [
+			1,
+			1,
+			1
+		],
+		"cld_box": [
+			4,
+			5,
+			5
+		],
+		"cld_offset": [
+			0,
+			0,
+			0
+		],
+		"default_equip_list": [
+			102,
+			106,
+			104
+		],
+		"depth_charge_list": [],
+		"english_name": "SN Kursk",
+		"equipment_proficiency": [
+			1.1,
+			1.1,
+			0.9,
+			0.3
+		],
+		"fix_equip_list": [
+			391
+		],
+		"hunting_range": [
+			[]
+		],
+		"huntingrange_level": 0,
+		"id": 703021,
+		"is_character": 1,
+		"lock": [
+			"air"
+		],
+		"name": "Kursk",
+		"nationality": 7,
+		"oxy_cost": 0,
+		"oxy_max": 0,
+		"oxy_recovery": 0,
+		"oxy_recovery_bench": 0,
+		"parallel_max": [
+			1,
+			1,
+			1
+		],
+		"position_offset": [
+			0,
+			0,
+			0
+		],
+		"preload_count": [
+			0,
+			0,
+			0
+		],
+		"raid_distance": 0,
+		"rarity": 5,
+		"scale": 100,
+		"skin_id": 703020,
+		"star": 3,
+		"strategy_list": [],
+		"summon_offset": 0,
+		"tag_list": [
+			"Northern Union-CA"
+		],
+		"type": 3
+	},
+	"703022": {
+		"aim_offset": [
+			0,
+			0,
+			0
+		],
+		"ammo": 0,
+		"armor_type": 1,
+		"attack_duration": 0,
+		"attrs": [
+			1045,
+			65,
+			49,
+			29,
+			0,
+			69,
+			0,
+			53,
+			11,
+			30.4,
+			10,
+			0
+		],
+		"attrs_growth": [
+			20490,
+			700,
+			541,
+			513,
+			0,
+			478,
+			0,
+			777,
+			429,
+			0,
+			0,
+			0
+		],
+		"attrs_growth_extra": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"backyard_speed": "0.3",
+		"base_list": [
+			1,
+			1,
+			1
+		],
+		"cld_box": [
+			4,
+			5,
+			5
+		],
+		"cld_offset": [
+			0,
+			0,
+			0
+		],
+		"default_equip_list": [
+			102,
+			106,
+			104
+		],
+		"depth_charge_list": [],
+		"english_name": "SN Kursk",
+		"equipment_proficiency": [
+			1.12,
+			1.12,
+			0.92,
+			0.3
+		],
+		"fix_equip_list": [
+			392
+		],
+		"hunting_range": [
+			[]
+		],
+		"huntingrange_level": 0,
+		"id": 703022,
+		"is_character": 1,
+		"lock": [
+			"air"
+		],
+		"name": "Kursk",
+		"nationality": 7,
+		"oxy_cost": 0,
+		"oxy_max": 0,
+		"oxy_recovery": 0,
+		"oxy_recovery_bench": 0,
+		"parallel_max": [
+			1,
+			1,
+			1
+		],
+		"position_offset": [
+			0,
+			0,
+			0
+		],
+		"preload_count": [
+			0,
+			0,
+			0
+		],
+		"raid_distance": 0,
+		"rarity": 5,
+		"scale": 100,
+		"skin_id": 703020,
+		"star": 4,
+		"strategy_list": [],
+		"summon_offset": 0,
+		"tag_list": [
+			"Northern Union-CA"
+		],
+		"type": 3
+	},
+	"703023": {
+		"aim_offset": [
+			0,
+			0,
+			0
+		],
+		"ammo": 0,
+		"armor_type": 1,
+		"attack_duration": 0,
+		"attrs": [
+			1455,
+			90,
+			68,
+			40,
+			0,
+			69,
+			0,
+			53,
+			11,
+			30.4,
+			10,
+			0
+		],
+		"attrs_growth": [
+			20490,
+			700,
+			541,
+			513,
+			0,
+			478,
+			0,
+			777,
+			429,
+			0,
+			0,
+			0
+		],
+		"attrs_growth_extra": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"backyard_speed": "0.3",
+		"base_list": [
+			2,
+			1,
+			1
+		],
+		"cld_box": [
+			4,
+			5,
+			5
+		],
+		"cld_offset": [
+			0,
+			0,
+			0
+		],
+		"default_equip_list": [
+			102,
+			106,
+			104
+		],
+		"depth_charge_list": [],
+		"english_name": "SN Kursk",
+		"equipment_proficiency": [
+			1.15,
+			1.15,
+			0.95,
+			0.3
+		],
+		"fix_equip_list": [
+			393
+		],
+		"hunting_range": [
+			[]
+		],
+		"huntingrange_level": 0,
+		"id": 703023,
+		"is_character": 1,
+		"lock": [
+			"air"
+		],
+		"name": "Kursk",
+		"nationality": 7,
+		"oxy_cost": 0,
+		"oxy_max": 0,
+		"oxy_recovery": 0,
+		"oxy_recovery_bench": 0,
+		"parallel_max": [
+			1,
+			1,
+			1
+		],
+		"position_offset": [
+			0,
+			0,
+			0
+		],
+		"preload_count": [
+			0,
+			0,
+			0
+		],
+		"raid_distance": 0,
+		"rarity": 5,
+		"scale": 100,
+		"skin_id": 703020,
+		"star": 5,
+		"strategy_list": [],
+		"summon_offset": 0,
+		"tag_list": [
+			"Northern Union-CA"
+		],
+		"type": 3
+	},
+	"703024": {
+		"aim_offset": [
+			0,
+			0,
+			0
+		],
+		"ammo": 0,
+		"armor_type": 1,
+		"attack_duration": 0,
+		"attrs": [
+			2069,
+			129,
+			97,
+			58,
+			0,
+			69,
+			0,
+			53,
+			11,
+			30.4,
+			10,
+			0
+		],
+		"attrs_growth": [
+			20490,
+			700,
+			541,
+			513,
+			0,
+			478,
+			0,
+			777,
+			429,
+			0,
+			0,
+			0
+		],
+		"attrs_growth_extra": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"backyard_speed": "0.3",
+		"base_list": [
+			2,
+			1,
+			1
+		],
+		"cld_box": [
+			4,
+			5,
+			5
+		],
+		"cld_offset": [
+			0,
+			0,
+			0
+		],
+		"default_equip_list": [
+			102,
+			106,
+			104
+		],
+		"depth_charge_list": [],
+		"english_name": "SN Kursk",
+		"equipment_proficiency": [
+			1.2,
+			1.2,
+			1,
+			0.3
+		],
+		"fix_equip_list": [
+			394
+		],
+		"hunting_range": [
+			[]
+		],
+		"huntingrange_level": 0,
+		"id": 703024,
+		"is_character": 1,
+		"lock": [
+			"air"
+		],
+		"name": "Kursk",
+		"nationality": 7,
+		"oxy_cost": 0,
+		"oxy_max": 0,
+		"oxy_recovery": 0,
+		"oxy_recovery_bench": 0,
+		"parallel_max": [
+			1,
+			1,
+			1
+		],
+		"position_offset": [
+			0,
+			0,
+			0
+		],
+		"preload_count": [
+			0,
+			0,
+			0
+		],
+		"raid_distance": 0,
+		"rarity": 5,
+		"scale": 100,
+		"skin_id": 703020,
 		"star": 6,
 		"strategy_list": [],
 		"summon_offset": 0,
@@ -272044,6 +273052,506 @@
 		"summon_offset": 0,
 		"tag_list": [
 			"Arkhangelsk",
+			"Northern Union-BB"
+		],
+		"type": 5
+	},
+	"705071": {
+		"aim_offset": [
+			0,
+			0,
+			0
+		],
+		"ammo": 0,
+		"armor_type": 3,
+		"attack_duration": 0,
+		"attrs": [
+			1082,
+			62,
+			0,
+			39,
+			0,
+			55,
+			0,
+			20,
+			6,
+			24.1,
+			88,
+			0
+		],
+		"attrs_growth": [
+			29057,
+			764,
+			0,
+			852,
+			0,
+			381,
+			0,
+			325,
+			217,
+			0,
+			0,
+			0
+		],
+		"attrs_growth_extra": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"backyard_speed": "0.3",
+		"base_list": [
+			1,
+			1,
+			1
+		],
+		"cld_box": [
+			4,
+			5,
+			5
+		],
+		"cld_offset": [
+			0,
+			0,
+			0
+		],
+		"default_equip_list": [
+			103,
+			101,
+			104
+		],
+		"depth_charge_list": [],
+		"english_name": "SN Sevastopol",
+		"equipment_proficiency": [
+			1,
+			2,
+			1
+		],
+		"fix_equip_list": [],
+		"hunting_range": [
+			[]
+		],
+		"huntingrange_level": 0,
+		"id": 705071,
+		"is_character": 1,
+		"lock": [
+			"torpedo",
+			"air",
+			"antisub"
+		],
+		"name": "Sevastopol",
+		"nationality": 7,
+		"oxy_cost": 0,
+		"oxy_max": 0,
+		"oxy_recovery": 0,
+		"oxy_recovery_bench": 0,
+		"parallel_max": [
+			1,
+			1,
+			1
+		],
+		"position_offset": [
+			0,
+			0,
+			0
+		],
+		"preload_count": [
+			0,
+			0,
+			0
+		],
+		"raid_distance": 0,
+		"rarity": 4,
+		"scale": 100,
+		"skin_id": 705070,
+		"star": 2,
+		"strategy_list": [],
+		"summon_offset": 0,
+		"tag_list": [
+			"Gangut-Class",
+			"Northern Union-BB"
+		],
+		"type": 5
+	},
+	"705072": {
+		"aim_offset": [
+			0,
+			0,
+			0
+		],
+		"ammo": 0,
+		"armor_type": 3,
+		"attack_duration": 0,
+		"attrs": [
+			1346,
+			77,
+			0,
+			49,
+			0,
+			55,
+			0,
+			20,
+			6,
+			24.1,
+			88,
+			0
+		],
+		"attrs_growth": [
+			29057,
+			764,
+			0,
+			852,
+			0,
+			381,
+			0,
+			325,
+			217,
+			0,
+			0,
+			0
+		],
+		"attrs_growth_extra": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"backyard_speed": "0.3",
+		"base_list": [
+			1,
+			1,
+			1
+		],
+		"cld_box": [
+			4,
+			5,
+			5
+		],
+		"cld_offset": [
+			0,
+			0,
+			0
+		],
+		"default_equip_list": [
+			103,
+			101,
+			104
+		],
+		"depth_charge_list": [],
+		"english_name": "SN Sevastopol",
+		"equipment_proficiency": [
+			1.05,
+			2,
+			1
+		],
+		"fix_equip_list": [],
+		"hunting_range": [
+			[]
+		],
+		"huntingrange_level": 0,
+		"id": 705072,
+		"is_character": 1,
+		"lock": [
+			"torpedo",
+			"air",
+			"antisub"
+		],
+		"name": "Sevastopol",
+		"nationality": 7,
+		"oxy_cost": 0,
+		"oxy_max": 0,
+		"oxy_recovery": 0,
+		"oxy_recovery_bench": 0,
+		"parallel_max": [
+			1,
+			1,
+			1
+		],
+		"position_offset": [
+			0,
+			0,
+			0
+		],
+		"preload_count": [
+			0,
+			0,
+			0
+		],
+		"raid_distance": 0,
+		"rarity": 4,
+		"scale": 100,
+		"skin_id": 705070,
+		"star": 3,
+		"strategy_list": [],
+		"summon_offset": 0,
+		"tag_list": [
+			"Gangut-Class",
+			"Northern Union-BB"
+		],
+		"type": 5
+	},
+	"705073": {
+		"aim_offset": [
+			0,
+			0,
+			0
+		],
+		"ammo": 0,
+		"armor_type": 3,
+		"attack_duration": 0,
+		"attrs": [
+			1874,
+			108,
+			0,
+			68,
+			0,
+			55,
+			0,
+			20,
+			6,
+			24.1,
+			88,
+			0
+		],
+		"attrs_growth": [
+			29057,
+			764,
+			0,
+			852,
+			0,
+			381,
+			0,
+			325,
+			217,
+			0,
+			0,
+			0
+		],
+		"attrs_growth_extra": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"backyard_speed": "0.3",
+		"base_list": [
+			1,
+			3,
+			1
+		],
+		"cld_box": [
+			4,
+			5,
+			5
+		],
+		"cld_offset": [
+			0,
+			0,
+			0
+		],
+		"default_equip_list": [
+			103,
+			101,
+			104
+		],
+		"depth_charge_list": [],
+		"english_name": "SN Sevastopol",
+		"equipment_proficiency": [
+			1.15,
+			2,
+			1
+		],
+		"fix_equip_list": [],
+		"hunting_range": [
+			[]
+		],
+		"huntingrange_level": 0,
+		"id": 705073,
+		"is_character": 1,
+		"lock": [
+			"torpedo",
+			"air",
+			"antisub"
+		],
+		"name": "Sevastopol",
+		"nationality": 7,
+		"oxy_cost": 0,
+		"oxy_max": 0,
+		"oxy_recovery": 0,
+		"oxy_recovery_bench": 0,
+		"parallel_max": [
+			1,
+			1,
+			1
+		],
+		"position_offset": [
+			0,
+			0,
+			0
+		],
+		"preload_count": [
+			0,
+			0,
+			0
+		],
+		"raid_distance": 0,
+		"rarity": 4,
+		"scale": 100,
+		"skin_id": 705070,
+		"star": 4,
+		"strategy_list": [],
+		"summon_offset": 0,
+		"tag_list": [
+			"Gangut-Class",
+			"Northern Union-BB"
+		],
+		"type": 5
+	},
+	"705074": {
+		"aim_offset": [
+			0,
+			0,
+			0
+		],
+		"ammo": 0,
+		"armor_type": 3,
+		"attack_duration": 0,
+		"attrs": [
+			2666,
+			154,
+			0,
+			96,
+			0,
+			55,
+			0,
+			20,
+			6,
+			24.1,
+			88,
+			0
+		],
+		"attrs_growth": [
+			29057,
+			764,
+			0,
+			852,
+			0,
+			381,
+			0,
+			325,
+			217,
+			0,
+			0,
+			0
+		],
+		"attrs_growth_extra": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"backyard_speed": "0.3",
+		"base_list": [
+			1,
+			3,
+			1
+		],
+		"cld_box": [
+			4,
+			5,
+			5
+		],
+		"cld_offset": [
+			0,
+			0,
+			0
+		],
+		"default_equip_list": [
+			103,
+			101,
+			104
+		],
+		"depth_charge_list": [],
+		"english_name": "SN Sevastopol",
+		"equipment_proficiency": [
+			1.3,
+			2,
+			1
+		],
+		"fix_equip_list": [],
+		"hunting_range": [
+			[]
+		],
+		"huntingrange_level": 0,
+		"id": 705074,
+		"is_character": 1,
+		"lock": [
+			"torpedo",
+			"air",
+			"antisub"
+		],
+		"name": "Sevastopol",
+		"nationality": 7,
+		"oxy_cost": 0,
+		"oxy_max": 0,
+		"oxy_recovery": 0,
+		"oxy_recovery_bench": 0,
+		"parallel_max": [
+			1,
+			1,
+			1
+		],
+		"position_offset": [
+			0,
+			0,
+			0
+		],
+		"preload_count": [
+			0,
+			0,
+			0
+		],
+		"raid_distance": 0,
+		"rarity": 4,
+		"scale": 100,
+		"skin_id": 705070,
+		"star": 5,
+		"strategy_list": [],
+		"summon_offset": 0,
+		"tag_list": [
+			"Gangut-Class",
 			"Northern Union-BB"
 		],
 		"type": 5
@@ -311100,6 +312608,883 @@
 		],
 		"type": 6
 	},
+	"900368": {
+		"aim_offset": [
+			0,
+			0,
+			0
+		],
+		"ammo": 0,
+		"armor_type": 1,
+		"attack_duration": 0,
+		"attrs": [
+			1037,
+			67,
+			104,
+			79,
+			0,
+			74,
+			0,
+			67,
+			65,
+			48,
+			58,
+			124
+		],
+		"attrs_growth": [
+			11991,
+			370,
+			582,
+			701,
+			0,
+			513,
+			0,
+			1032,
+			1208,
+			0,
+			0,
+			568
+		],
+		"attrs_growth_extra": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"backyard_speed": "0.3",
+		"base_list": [
+			1,
+			2,
+			1
+		],
+		"cld_box": [
+			4,
+			5,
+			5
+		],
+		"cld_offset": [
+			0,
+			0,
+			0
+		],
+		"default_equip_list": [
+			85053,
+			45253,
+			85231
+		],
+		"depth_charge_list": [
+			141
+		],
+		"english_name": "SN Minsk",
+		"equipment_proficiency": [
+			1.55,
+			1.1,
+			1
+		],
+		"fix_equip_list": [],
+		"hunting_range": [
+			[]
+		],
+		"huntingrange_level": 0,
+		"id": 900368,
+		"is_character": 1,
+		"lock": [
+			"air"
+		],
+		"name": "Minsk",
+		"nationality": 7,
+		"oxy_cost": 0,
+		"oxy_max": 0,
+		"oxy_recovery": 0,
+		"oxy_recovery_bench": 0,
+		"parallel_max": [
+			1,
+			1,
+			1
+		],
+		"position_offset": [
+			0,
+			0,
+			0
+		],
+		"preload_count": [
+			0,
+			1,
+			0
+		],
+		"raid_distance": 0,
+		"rarity": 4,
+		"scale": 100,
+		"skin_id": 701030,
+		"star": 5,
+		"strategy_list": [],
+		"summon_offset": 0,
+		"tag_list": [
+			"Leningrad-Class",
+			"Northern Union-DD"
+		],
+		"type": 1
+	},
+	"900369": {
+		"aim_offset": [
+			0,
+			0,
+			0
+		],
+		"ammo": 0,
+		"armor_type": 1,
+		"attack_duration": 0,
+		"attrs": [
+			1868,
+			79,
+			0,
+			156,
+			0,
+			72,
+			0,
+			56,
+			30,
+			33.5,
+			68,
+			89
+		],
+		"attrs_growth": [
+			18806,
+			437,
+			0,
+			1337,
+			0,
+			498,
+			0,
+			828,
+			599,
+			0,
+			0,
+			423
+		],
+		"attrs_growth_extra": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"backyard_speed": "0.3",
+		"base_list": [
+			2,
+			1,
+			1
+		],
+		"cld_box": [
+			4,
+			5,
+			5
+		],
+		"cld_offset": [
+			0,
+			0,
+			0
+		],
+		"default_equip_list": [
+			85173,
+			85053,
+			85231
+		],
+		"depth_charge_list": [
+			147
+		],
+		"english_name": "SN Chapayev",
+		"equipment_proficiency": [
+			1.3,
+			0.75,
+			1.2
+		],
+		"fix_equip_list": [],
+		"hunting_range": [
+			[]
+		],
+		"huntingrange_level": 0,
+		"id": 900369,
+		"is_character": 1,
+		"lock": [
+			"torpedo",
+			"air"
+		],
+		"name": "Chapayev",
+		"nationality": 7,
+		"oxy_cost": 0,
+		"oxy_max": 0,
+		"oxy_recovery": 0,
+		"oxy_recovery_bench": 0,
+		"parallel_max": [
+			1,
+			1,
+			1
+		],
+		"position_offset": [
+			0,
+			0,
+			0
+		],
+		"preload_count": [
+			0,
+			0,
+			0
+		],
+		"raid_distance": 0,
+		"rarity": 5,
+		"scale": 100,
+		"skin_id": 702030,
+		"star": 6,
+		"strategy_list": [],
+		"summon_offset": 0,
+		"tag_list": [
+			"Chapayev-Class",
+			"Northern Union-CL"
+		],
+		"type": 2
+	},
+	"900370": {
+		"aim_offset": [
+			0,
+			0,
+			0
+		],
+		"ammo": 0,
+		"armor_type": 3,
+		"attack_duration": 0,
+		"attrs": [
+			3404,
+			203,
+			0,
+			114,
+			0,
+			51,
+			0,
+			19,
+			8,
+			28,
+			46,
+			0
+		],
+		"attrs_growth": [
+			37387,
+			1006,
+			0,
+			1007,
+			0,
+			356,
+			0,
+			307,
+			212,
+			0,
+			0,
+			0
+		],
+		"attrs_growth_extra": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"backyard_speed": "0.3",
+		"base_list": [
+			1,
+			3,
+			1
+		],
+		"cld_box": [
+			4,
+			5,
+			5
+		],
+		"cld_offset": [
+			0,
+			0,
+			0
+		],
+		"default_equip_list": [
+			14473,
+			85173,
+			85231
+		],
+		"depth_charge_list": [],
+		"english_name": "SN Sovetskaya Rossiya",
+		"equipment_proficiency": [
+			1.35,
+			2,
+			1
+		],
+		"fix_equip_list": [],
+		"hunting_range": [
+			[]
+		],
+		"huntingrange_level": 0,
+		"id": 900370,
+		"is_character": 1,
+		"lock": [
+			"torpedo",
+			"air",
+			"antisub"
+		],
+		"name": "Sovetskaya Rossiya",
+		"nationality": 7,
+		"oxy_cost": 0,
+		"oxy_max": 0,
+		"oxy_recovery": 0,
+		"oxy_recovery_bench": 0,
+		"parallel_max": [
+			1,
+			1,
+			1
+		],
+		"position_offset": [
+			0,
+			0,
+			0
+		],
+		"preload_count": [
+			0,
+			0,
+			0
+		],
+		"raid_distance": 0,
+		"rarity": 5,
+		"scale": 100,
+		"skin_id": 705050,
+		"star": 6,
+		"strategy_list": [],
+		"summon_offset": 0,
+		"tag_list": [
+			"Sovetsky Soyuz-Class",
+			"Northern Union-BB"
+		],
+		"type": 5
+	},
+	"900371": {
+		"aim_offset": [
+			0,
+			0,
+			0
+		],
+		"ammo": 0,
+		"armor_type": 2,
+		"attack_duration": 0,
+		"attrs": [
+			2941,
+			0,
+			0,
+			171,
+			187,
+			45,
+			0,
+			35,
+			12,
+			30,
+			50,
+			0
+		],
+		"attrs_growth": [
+			29120,
+			0,
+			0,
+			1446,
+			947,
+			314,
+			0,
+			513,
+			259,
+			0,
+			0,
+			0
+		],
+		"attrs_growth_extra": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"backyard_speed": "0.3",
+		"base_list": [
+			3,
+			2,
+			3
+		],
+		"cld_box": [
+			4,
+			5,
+			5
+		],
+		"cld_offset": [
+			0,
+			0,
+			0
+		],
+		"default_equip_list": [
+			85553,
+			85553,
+			85573
+		],
+		"depth_charge_list": [],
+		"english_name": "SN Volga",
+		"equipment_proficiency": [
+			1.4,
+			1.2,
+			1.3
+		],
+		"fix_equip_list": [],
+		"hunting_range": [
+			[]
+		],
+		"huntingrange_level": 0,
+		"id": 900371,
+		"is_character": 1,
+		"lock": [
+			"cannon",
+			"torpedo",
+			"antisub"
+		],
+		"name": "Volga",
+		"nationality": 7,
+		"oxy_cost": 0,
+		"oxy_max": 0,
+		"oxy_recovery": 0,
+		"oxy_recovery_bench": 0,
+		"parallel_max": [
+			1,
+			1,
+			1
+		],
+		"position_offset": [
+			0,
+			0,
+			0
+		],
+		"preload_count": [
+			0,
+			0,
+			0
+		],
+		"raid_distance": 0,
+		"rarity": 5,
+		"scale": 100,
+		"skin_id": 707010,
+		"star": 6,
+		"strategy_list": [],
+		"summon_offset": 0,
+		"tag_list": [
+			"Volga"
+		],
+		"type": 7
+	},
+	"900372": {
+		"aim_offset": [
+			0,
+			0,
+			0
+		],
+		"ammo": 0,
+		"armor_type": 2,
+		"attack_duration": 0,
+		"attrs": [
+			2069,
+			129,
+			97,
+			58,
+			0,
+			69,
+			0,
+			53,
+			11,
+			30.4,
+			10,
+			0
+		],
+		"attrs_growth": [
+			20490,
+			700,
+			541,
+			513,
+			0,
+			478,
+			0,
+			777,
+			429,
+			0,
+			0,
+			0
+		],
+		"attrs_growth_extra": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"backyard_speed": "0.3",
+		"base_list": [
+			2,
+			1,
+			1
+		],
+		"cld_box": [
+			4,
+			5,
+			5
+		],
+		"cld_offset": [
+			0,
+			0,
+			0
+		],
+		"default_equip_list": [
+			23133,
+			45253,
+			85231
+		],
+		"depth_charge_list": [],
+		"english_name": "SN Kursk",
+		"equipment_proficiency": [
+			1.2,
+			1.2,
+			1,
+			0.3
+		],
+		"fix_equip_list": [
+			394
+		],
+		"hunting_range": [
+			[]
+		],
+		"huntingrange_level": 0,
+		"id": 900372,
+		"is_character": 1,
+		"lock": [
+			"air"
+		],
+		"name": "Kursk",
+		"nationality": 7,
+		"oxy_cost": 0,
+		"oxy_max": 0,
+		"oxy_recovery": 0,
+		"oxy_recovery_bench": 0,
+		"parallel_max": [
+			1,
+			1,
+			1
+		],
+		"position_offset": [
+			0,
+			0,
+			0
+		],
+		"preload_count": [
+			0,
+			0,
+			0
+		],
+		"raid_distance": 0,
+		"rarity": 5,
+		"scale": 100,
+		"skin_id": 703020,
+		"star": 6,
+		"strategy_list": [],
+		"summon_offset": 0,
+		"tag_list": [
+			"Northern Union-CA"
+		],
+		"type": 3
+	},
+	"900373": {
+		"aim_offset": [
+			0,
+			0,
+			0
+		],
+		"ammo": 0,
+		"armor_type": 1,
+		"attack_duration": 0,
+		"attrs": [
+			1846,
+			68,
+			90,
+			190,
+			0,
+			69,
+			0,
+			54,
+			39,
+			36.5,
+			52,
+			93
+		],
+		"attrs_growth": [
+			19202,
+			379,
+			501,
+			1576,
+			0,
+			478,
+			0,
+			798,
+			815,
+			0,
+			0,
+			442
+		],
+		"attrs_growth_extra": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"backyard_speed": "0.3",
+		"base_list": [
+			1,
+			2,
+			1
+		],
+		"cld_box": [
+			4,
+			5,
+			5
+		],
+		"cld_offset": [
+			0,
+			0,
+			0
+		],
+		"default_equip_list": [
+			85173,
+			45253,
+			85231
+		],
+		"depth_charge_list": [
+			147
+		],
+		"english_name": "SN Voroshilov",
+		"equipment_proficiency": [
+			1.5,
+			1.35,
+			1.1,
+			0.3
+		],
+		"fix_equip_list": [
+			264
+		],
+		"hunting_range": [
+			[]
+		],
+		"huntingrange_level": 0,
+		"id": 900373,
+		"is_character": 1,
+		"lock": [
+			"air"
+		],
+		"name": "Voroshilov",
+		"nationality": 7,
+		"oxy_cost": 0,
+		"oxy_max": 0,
+		"oxy_recovery": 0,
+		"oxy_recovery_bench": 0,
+		"parallel_max": [
+			1,
+			1,
+			1
+		],
+		"position_offset": [
+			0,
+			0,
+			0
+		],
+		"preload_count": [
+			0,
+			1,
+			0
+		],
+		"raid_distance": 0,
+		"rarity": 5,
+		"scale": 100,
+		"skin_id": 702070,
+		"star": 6,
+		"strategy_list": [],
+		"summon_offset": 0,
+		"tag_list": [
+			"Northern Union-CL"
+		],
+		"type": 2
+	},
+	"900374": {
+		"aim_offset": [
+			0,
+			0,
+			0
+		],
+		"ammo": 0,
+		"armor_type": 3,
+		"attack_duration": 0,
+		"attrs": [
+			2666,
+			154,
+			0,
+			80,
+			0,
+			55,
+			0,
+			20,
+			6,
+			24.1,
+			85,
+			0
+		],
+		"attrs_growth": [
+			29057,
+			764,
+			0,
+			709,
+			0,
+			381,
+			0,
+			320,
+			217,
+			0,
+			0,
+			0
+		],
+		"attrs_growth_extra": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"backyard_speed": "0.3",
+		"base_list": [
+			1,
+			3,
+			1
+		],
+		"cld_box": [
+			4,
+			5,
+			5
+		],
+		"cld_offset": [
+			0,
+			0,
+			0
+		],
+		"default_equip_list": [
+			14473,
+			85173,
+			85231
+		],
+		"depth_charge_list": [],
+		"english_name": "SN Sevastopol",
+		"equipment_proficiency": [
+			1.1,
+			2,
+			1
+		],
+		"fix_equip_list": [],
+		"hunting_range": [
+			[]
+		],
+		"huntingrange_level": 0,
+		"id": 900374,
+		"is_character": 1,
+		"lock": [
+			"torpedo",
+			"air",
+			"antisub"
+		],
+		"name": "Sevastopol",
+		"nationality": 7,
+		"oxy_cost": 0,
+		"oxy_max": 0,
+		"oxy_recovery": 0,
+		"oxy_recovery_bench": 0,
+		"parallel_max": [
+			1,
+			1,
+			1
+		],
+		"position_offset": [
+			0,
+			0,
+			0
+		],
+		"preload_count": [
+			0,
+			0,
+			0
+		],
+		"raid_distance": 0,
+		"rarity": 4,
+		"scale": 100,
+		"skin_id": 705070,
+		"star": 5,
+		"strategy_list": [],
+		"summon_offset": 0,
+		"tag_list": [
+			"Gangut-Class",
+			"Northern Union-BB"
+		],
+		"type": 5
+	},
 	"900801": {
 		"aim_offset": [
 			0,
@@ -325220,6 +327605,518 @@
 		"tag_list": [
 			"Sheffield.META",
 			"Town-Class"
+		],
+		"type": 2
+	},
+	"9702041": {
+		"aim_offset": [
+			0,
+			0,
+			0
+		],
+		"ammo": 0,
+		"armor_type": 1,
+		"attack_duration": 0,
+		"attrs": [
+			583,
+			35,
+			59,
+			58,
+			0,
+			65,
+			0,
+			46,
+			29,
+			31,
+			35,
+			35
+		],
+		"attrs_growth": [
+			10031,
+			478,
+			782,
+			763,
+			0,
+			450,
+			0,
+			648,
+			481,
+			0,
+			0,
+			488
+		],
+		"attrs_growth_extra": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"backyard_speed": "0.3",
+		"base_list": [
+			1,
+			1,
+			1
+		],
+		"cld_box": [
+			4,
+			5,
+			5
+		],
+		"cld_offset": [
+			0,
+			0,
+			0
+		],
+		"default_equip_list": [
+			101,
+			105,
+			104
+		],
+		"depth_charge_list": [
+			147
+		],
+		"english_name": "La Galissonnière.META",
+		"equipment_proficiency": [
+			1.2,
+			1.4,
+			1.1,
+			0.3
+		],
+		"fix_equip_list": [
+			271
+		],
+		"hunting_range": [
+			[]
+		],
+		"huntingrange_level": 0,
+		"id": 9702041,
+		"is_character": 1,
+		"lock": [
+			"air"
+		],
+		"name": "La Galissonnière META",
+		"nationality": 97,
+		"oxy_cost": 0,
+		"oxy_max": 0,
+		"oxy_recovery": 0,
+		"oxy_recovery_bench": 0,
+		"parallel_max": [
+			1,
+			1,
+			1
+		],
+		"position_offset": [
+			0,
+			0,
+			0
+		],
+		"preload_count": [
+			0,
+			0,
+			0
+		],
+		"raid_distance": 0,
+		"rarity": 4,
+		"scale": 100,
+		"skin_id": 9702040,
+		"star": 2,
+		"strategy_list": [],
+		"summon_offset": 0,
+		"tag_list": [
+			"La Galissonnière.META",
+			"La Galissonnière-Class"
+		],
+		"type": 2
+	},
+	"9702042": {
+		"aim_offset": [
+			0,
+			0,
+			0
+		],
+		"ammo": 0,
+		"armor_type": 1,
+		"attack_duration": 0,
+		"attrs": [
+			725,
+			44,
+			74,
+			72,
+			0,
+			65,
+			0,
+			46,
+			29,
+			31,
+			35,
+			44
+		],
+		"attrs_growth": [
+			10031,
+			478,
+			782,
+			763,
+			0,
+			450,
+			0,
+			648,
+			481,
+			0,
+			0,
+			488
+		],
+		"attrs_growth_extra": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"backyard_speed": "0.3",
+		"base_list": [
+			1,
+			1,
+			1
+		],
+		"cld_box": [
+			4,
+			5,
+			5
+		],
+		"cld_offset": [
+			0,
+			0,
+			0
+		],
+		"default_equip_list": [
+			101,
+			105,
+			104
+		],
+		"depth_charge_list": [
+			147
+		],
+		"english_name": "La Galissonnière.META",
+		"equipment_proficiency": [
+			1.25,
+			1.4,
+			1.1,
+			0.3
+		],
+		"fix_equip_list": [
+			272
+		],
+		"hunting_range": [
+			[]
+		],
+		"huntingrange_level": 0,
+		"id": 9702042,
+		"is_character": 1,
+		"lock": [
+			"air"
+		],
+		"name": "La Galissonnière META",
+		"nationality": 97,
+		"oxy_cost": 0,
+		"oxy_max": 0,
+		"oxy_recovery": 0,
+		"oxy_recovery_bench": 0,
+		"parallel_max": [
+			1,
+			1,
+			1
+		],
+		"position_offset": [
+			0,
+			0,
+			0
+		],
+		"preload_count": [
+			0,
+			0,
+			0
+		],
+		"raid_distance": 0,
+		"rarity": 4,
+		"scale": 100,
+		"skin_id": 9702040,
+		"star": 3,
+		"strategy_list": [],
+		"summon_offset": 0,
+		"tag_list": [
+			"La Galissonnière.META",
+			"La Galissonnière-Class"
+		],
+		"type": 2
+	},
+	"9702043": {
+		"aim_offset": [
+			0,
+			0,
+			0
+		],
+		"ammo": 0,
+		"armor_type": 1,
+		"attack_duration": 0,
+		"attrs": [
+			1009,
+			61,
+			103,
+			101,
+			0,
+			65,
+			0,
+			46,
+			29,
+			31,
+			35,
+			61
+		],
+		"attrs_growth": [
+			10031,
+			478,
+			782,
+			763,
+			0,
+			450,
+			0,
+			648,
+			481,
+			0,
+			0,
+			488
+		],
+		"attrs_growth_extra": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"backyard_speed": "0.3",
+		"base_list": [
+			1,
+			2,
+			1
+		],
+		"cld_box": [
+			4,
+			5,
+			5
+		],
+		"cld_offset": [
+			0,
+			0,
+			0
+		],
+		"default_equip_list": [
+			101,
+			105,
+			104
+		],
+		"depth_charge_list": [
+			147
+		],
+		"english_name": "La Galissonnière.META",
+		"equipment_proficiency": [
+			1.25,
+			1.5,
+			1.1,
+			0.3
+		],
+		"fix_equip_list": [
+			273
+		],
+		"hunting_range": [
+			[]
+		],
+		"huntingrange_level": 0,
+		"id": 9702043,
+		"is_character": 1,
+		"lock": [
+			"air"
+		],
+		"name": "La Galissonnière META",
+		"nationality": 97,
+		"oxy_cost": 0,
+		"oxy_max": 0,
+		"oxy_recovery": 0,
+		"oxy_recovery_bench": 0,
+		"parallel_max": [
+			1,
+			1,
+			1
+		],
+		"position_offset": [
+			0,
+			0,
+			0
+		],
+		"preload_count": [
+			0,
+			1,
+			0
+		],
+		"raid_distance": 0,
+		"rarity": 4,
+		"scale": 100,
+		"skin_id": 9702040,
+		"star": 4,
+		"strategy_list": [],
+		"summon_offset": 0,
+		"tag_list": [
+			"La Galissonnière.META",
+			"La Galissonnière-Class"
+		],
+		"type": 2
+	},
+	"9702044": {
+		"aim_offset": [
+			0,
+			0,
+			0
+		],
+		"ammo": 0,
+		"armor_type": 1,
+		"attack_duration": 0,
+		"attrs": [
+			1436,
+			86,
+			147,
+			144,
+			0,
+			65,
+			0,
+			46,
+			29,
+			31,
+			35,
+			88
+		],
+		"attrs_growth": [
+			10031,
+			478,
+			782,
+			763,
+			0,
+			450,
+			0,
+			648,
+			481,
+			0,
+			0,
+			488
+		],
+		"attrs_growth_extra": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"backyard_speed": "0.3",
+		"base_list": [
+			1,
+			2,
+			1
+		],
+		"cld_box": [
+			4,
+			5,
+			5
+		],
+		"cld_offset": [
+			0,
+			0,
+			0
+		],
+		"default_equip_list": [
+			101,
+			105,
+			104
+		],
+		"depth_charge_list": [
+			147
+		],
+		"english_name": "La Galissonnière.META",
+		"equipment_proficiency": [
+			1.35,
+			1.5,
+			1.1,
+			0.3
+		],
+		"fix_equip_list": [
+			274
+		],
+		"hunting_range": [
+			[]
+		],
+		"huntingrange_level": 0,
+		"id": 9702044,
+		"is_character": 1,
+		"lock": [
+			"air"
+		],
+		"name": "La Galissonnière META",
+		"nationality": 97,
+		"oxy_cost": 0,
+		"oxy_max": 0,
+		"oxy_recovery": 0,
+		"oxy_recovery_bench": 0,
+		"parallel_max": [
+			1,
+			1,
+			1
+		],
+		"position_offset": [
+			0,
+			0,
+			0
+		],
+		"preload_count": [
+			0,
+			1,
+			0
+		],
+		"raid_distance": 0,
+		"rarity": 4,
+		"scale": 100,
+		"skin_id": 9702040,
+		"star": 5,
+		"strategy_list": [],
+		"summon_offset": 0,
+		"tag_list": [
+			"La Galissonnière.META",
+			"La Galissonnière-Class"
 		],
 		"type": 2
 	},
@@ -358473,11 +361370,19 @@
 		702062,
 		702063,
 		702064,
+		702071,
+		702072,
+		702073,
+		702074,
 		702124,
 		703011,
 		703012,
 		703013,
 		703014,
+		703021,
+		703022,
+		703023,
+		703024,
 		705011,
 		705012,
 		705013,
@@ -358494,6 +361399,10 @@
 		705062,
 		705063,
 		705064,
+		705071,
+		705072,
+		705073,
+		705074,
 		707011,
 		707012,
 		707013,
@@ -358841,6 +361750,13 @@
 		900365,
 		900366,
 		900367,
+		900368,
+		900369,
+		900370,
+		900371,
+		900372,
+		900373,
+		900374,
 		900801,
 		900802,
 		900803,
@@ -358893,6 +361809,10 @@
 		9702032,
 		9702033,
 		9702034,
+		9702041,
+		9702042,
+		9702043,
+		9702044,
 		9703011,
 		9703012,
 		9703013,
