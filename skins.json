@@ -18945,6 +18945,19 @@
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/49903/499030/chibi.png",
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/49903/499030/icon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/49903/499030/shipyard.png"
+			},
+			{
+				"id": 499032,
+				"name": "The Silkiest Brew",
+				"type": null,
+				"desc": "Ah! Changed already? Just wait a minute... No, you don't have to leave. I'm almost done.",
+				"tag": [
+					"bg"
+				],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/49903/499032/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/49903/499032/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/49903/499032/icon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/49903/499032/shipyard.png"
 			}
 		]
 	},
@@ -20234,6 +20247,20 @@
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/60304/603041/chibi.png",
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/60304/603041/icon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/60304/603041/shipyard.png"
+			},
+			{
+				"id": 603042,
+				"name": "Amore Termico",
+				"type": null,
+				"desc": "Whew... I'm getting dizzy... I'll rest in the breeze for a moment. You okay, Commander? Step out if it's too hot. See, someone will worry about you...",
+				"tag": [
+					"bg",
+					"dynamic"
+				],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/60304/603042/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/60304/603042/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/60304/603042/icon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/60304/603042/shipyard.png"
 			}
 		]
 	},
@@ -20712,6 +20739,20 @@
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70102/701024/chibi.png",
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70102/701024/icon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70102/701024/shipyard.png"
+			},
+			{
+				"id": 701025,
+				"name": "Bunny in the Banya",
+				"type": null,
+				"desc": "Uughh... Ooohh... Królik is melting... *gasp*! I'm getting lightheaded... Comrade Commander, fetch me some ice...",
+				"tag": [
+					"live2d",
+					"bg"
+				],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70102/701025/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70102/701025/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70102/701025/icon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70102/701025/shipyard.png"
 			}
 		]
 	},
@@ -21294,6 +21335,38 @@
 		]
 	},
 	{
+		"id": 588,
+		"gid": 70207,
+		"name": "Voroshilov",
+		"skins": [
+			{
+				"id": 702070,
+				"name": "Voroshilov",
+				"type": "Default",
+				"desc": "Kirov-class light cruiser – Voroshilov.",
+				"tag": [],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70207/702070/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70207/702070/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70207/702070/icon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70207/702070/shipyard.png"
+			},
+			{
+				"id": 702071,
+				"name": "Devoted as the Warm Snow",
+				"type": null,
+				"desc": "Comrade Commander, is the bath to your liking? I'm glad. Heehee, it's a good thing I trusted that \"Top 10 Dates for Snowy Days\" article and chose this secluded hot spring.",
+				"tag": [
+					"bg",
+					"dynamic"
+				],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70207/702071/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70207/702071/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70207/702071/icon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70207/702071/shipyard.png"
+			}
+		]
+	},
+	{
 		"id": 496,
 		"gid": 70301,
 		"name": "Tallinn",
@@ -21334,6 +21407,38 @@
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70301/703012/chibi.png",
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70301/703012/icon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70301/703012/shipyard.png"
+			}
+		]
+	},
+	{
+		"id": 586,
+		"gid": 70302,
+		"name": "Kursk",
+		"skins": [
+			{
+				"id": 703020,
+				"name": "Kursk",
+				"type": "Default",
+				"desc": "Heavy cruiser – Kursk.",
+				"tag": [],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70302/703020/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70302/703020/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70302/703020/icon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70302/703020/shipyard.png"
+			},
+			{
+				"id": 703021,
+				"name": "Lone Wolf Amid the Steam",
+				"type": null,
+				"desc": "This steamy hot spring... is a rather novel experience. I left a spot for you, so come sit down already – Wait, why haven't you taken your clothes off yet?",
+				"tag": [
+					"live2d",
+					"bg"
+				],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70302/703021/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70302/703021/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70302/703021/icon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70302/703021/shipyard.png"
 			}
 		]
 	},
@@ -21471,6 +21576,37 @@
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70506/705061/chibi.png",
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70506/705061/icon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70506/705061/shipyard.png"
+			}
+		]
+	},
+	{
+		"id": 587,
+		"gid": 70507,
+		"name": "Sevastopol",
+		"skins": [
+			{
+				"id": 705070,
+				"name": "Sevastopol",
+				"type": "Default",
+				"desc": "Gangut-class battleship – Sevastopol.",
+				"tag": [],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70507/705070/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70507/705070/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70507/705070/icon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70507/705070/shipyard.png"
+			},
+			{
+				"id": 705071,
+				"name": "More than a Little Drunk",
+				"type": null,
+				"desc": "Phew... This is... Comrade Commander? Fancy meeting you at this time of night. Me? Heh, heheheheh... You wouldn't believe me if I said I got too drunk and went in first, would you?",
+				"tag": [
+					"bg"
+				],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70507/705071/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70507/705071/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70507/705071/icon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/70507/705071/shipyard.png"
 			}
 		]
 	},
@@ -22298,6 +22434,19 @@
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/90103/901032/chibi.png",
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/90103/901032/icon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/90103/901032/shipyard.png"
+			},
+			{
+				"id": 901033,
+				"name": "Otherworldly Adventure",
+				"type": "Others",
+				"desc": "*crash*! Found another coin! Check it out, Commander! I got all these from smashing pots! ...Breaking the law? Heheh! The one law among thieves is that there are no laws♪",
+				"tag": [
+					"bg"
+				],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/90103/901033/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/90103/901033/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/90103/901033/icon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/90103/901033/shipyard.png"
 			}
 		]
 	},
@@ -22760,6 +22909,20 @@
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/90701/907011/chibi.png",
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/90701/907011/icon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/90701/907011/shipyard.png"
+			},
+			{
+				"id": 907012,
+				"name": "Sublime Elysium",
+				"type": null,
+				"desc": "Do you feel refreshed? Even without a holy ritual, the Iris would be happy to know that I've managed to soothe you with this bath. Was it not enough? Then... Shall we go back in?",
+				"tag": [
+					"bg",
+					"dynamic"
+				],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/90701/907012/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/90701/907012/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/90701/907012/icon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/90701/907012/shipyard.png"
 			}
 		]
 	},
@@ -22912,6 +23075,24 @@
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/970203/9702030/chibi.png",
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/970203/9702030/icon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/970203/9702030/shipyard.png"
+			}
+		]
+	},
+	{
+		"id": 30020,
+		"gid": 970204,
+		"name": "La Galissonnière META",
+		"skins": [
+			{
+				"id": 9702040,
+				"name": "La Galissonnière META",
+				"type": "Default",
+				"desc": "I'm La Galissonnière, the shipgirl from hell! I've come for your soul! ...Wow, didn't even flinch. Guess it's true that you don't fear death. Heheh, let's see if I can get a more interesting response out of you next time~♪",
+				"tag": [],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/970204/9702040/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/970204/9702040/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/970204/9702040/icon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/970204/9702040/shipyard.png"
 			}
 		]
 	},

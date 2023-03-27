@@ -12276,6 +12276,16 @@
 			"desc": "Light cruiser – Mainz.",
 			"tag": [],
 			"file": "meiyinci"
+		},
+		{
+			"id": 499032,
+			"name": "The Silkiest Brew",
+			"type": null,
+			"desc": "Ah! Changed already? Just wait a minute... No, you don't have to leave. I'm almost done.",
+			"tag": [
+				"bg"
+			],
+			"file": "meiyinci_2"
 		}
 	],
 	"49904": [
@@ -13139,6 +13149,17 @@
 				"bg"
 			],
 			"file": "diliyasite_2"
+		},
+		{
+			"id": 603042,
+			"name": "Amore Termico",
+			"type": null,
+			"desc": "Whew... I'm getting dizzy... I'll rest in the breeze for a moment. You okay, Commander? Step out if it's too hot. See, someone will worry about you...",
+			"tag": [
+				"bg",
+				"dynamic"
+			],
+			"file": "diliyasite_3"
 		}
 	],
 	"60305": [
@@ -13461,6 +13482,17 @@
 				"bg"
 			],
 			"file": "weiyan_5"
+		},
+		{
+			"id": 701025,
+			"name": "Bunny in the Banya",
+			"type": null,
+			"desc": "Uughh... Ooohh... Królik is melting... *gasp*! I'm getting lightheaded... Comrade Commander, fetch me some ice...",
+			"tag": [
+				"live2d",
+				"bg"
+			],
+			"file": "weiyan_6"
 		}
 	],
 	"70103": [
@@ -13832,6 +13864,27 @@
 			"file": "moermansike_2"
 		}
 	],
+	"70207": [
+		{
+			"id": 702070,
+			"name": "Voroshilov",
+			"type": "Default",
+			"desc": "Kirov-class light cruiser – Voroshilov.",
+			"tag": [],
+			"file": "fuluoxiluofu"
+		},
+		{
+			"id": 702071,
+			"name": "Devoted as the Warm Snow",
+			"type": null,
+			"desc": "Comrade Commander, is the bath to your liking? I'm glad. Heehee, it's a good thing I trusted that \"Top 10 Dates for Snowy Days\" article and chose this secluded hot spring.",
+			"tag": [
+				"bg",
+				"dynamic"
+			],
+			"file": "fuluoxiluofu_2"
+		}
+	],
 	"70301": [
 		{
 			"id": 703010,
@@ -13860,6 +13913,27 @@
 				"bg"
 			],
 			"file": "talin_2"
+		}
+	],
+	"70302": [
+		{
+			"id": 703020,
+			"name": "Kursk",
+			"type": "Default",
+			"desc": "Heavy cruiser – Kursk.",
+			"tag": [],
+			"file": "kuersike"
+		},
+		{
+			"id": 703021,
+			"name": "Lone Wolf Amid the Steam",
+			"type": null,
+			"desc": "This steamy hot spring... is a rather novel experience. I left a spot for you, so come sit down already – Wait, why haven't you taken your clothes off yet?",
+			"tag": [
+				"live2d",
+				"bg"
+			],
+			"file": "kuersike_2"
 		}
 	],
 	"70501": [
@@ -13950,6 +14024,26 @@
 				"bg"
 			],
 			"file": "aerhangeersike_2"
+		}
+	],
+	"70507": [
+		{
+			"id": 705070,
+			"name": "Sevastopol",
+			"type": "Default",
+			"desc": "Gangut-class battleship – Sevastopol.",
+			"tag": [],
+			"file": "saiwasituoboer"
+		},
+		{
+			"id": 705071,
+			"name": "More than a Little Drunk",
+			"type": null,
+			"desc": "Phew... This is... Comrade Commander? Fancy meeting you at this time of night. Me? Heh, heheheheh... You wouldn't believe me if I said I got too drunk and went in first, would you?",
+			"tag": [
+				"bg"
+			],
+			"file": "saiwasituoboer_2"
 		}
 	],
 	"70701": [
@@ -14509,6 +14603,16 @@
 				"bg"
 			],
 			"file": "wokelan_3"
+		},
+		{
+			"id": 901033,
+			"name": "Otherworldly Adventure",
+			"type": "Others",
+			"desc": "*crash*! Found another coin! Check it out, Commander! I got all these from smashing pots! ...Breaking the law? Heheh! The one law among thieves is that there are no laws♪",
+			"tag": [
+				"bg"
+			],
+			"file": "wokelan_4"
 		}
 	],
 	"90111": [
@@ -14784,6 +14888,17 @@
 				"bg"
 			],
 			"file": "xiafei_2"
+		},
+		{
+			"id": 907012,
+			"name": "Sublime Elysium",
+			"type": null,
+			"desc": "Do you feel refreshed? Even without a holy ritual, the Iris would be happy to know that I've managed to soothe you with this bath. Was it not enough? Then... Shall we go back in?",
+			"tag": [
+				"bg",
+				"dynamic"
+			],
+			"file": "xiafei_3"
 		}
 	],
 	"99901": [
@@ -14874,6 +14989,16 @@
 			"desc": "So you're the Commander... in other words, my Master. Alright, got it. The name's Sheffield, and the game's pointing my gun at vermin – Ah, please disregard that little gesture I made just now.",
 			"tag": [],
 			"file": "xiefeierde_alter"
+		}
+	],
+	"970204": [
+		{
+			"id": 9702040,
+			"name": "La Galissonnière META",
+			"type": "Default",
+			"desc": "I'm La Galissonnière, the shipgirl from hell! I've come for your soul! ...Wow, didn't even flinch. Guess it's true that you don't fear death. Heheh, let's see if I can get a more interesting response out of you next time~♪",
+			"tag": [],
+			"file": "jialisuoniye_alter"
 		}
 	],
 	"970301": [
