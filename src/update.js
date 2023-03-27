@@ -12,12 +12,31 @@ const filepath = (name) =>
 };
 
 const LINK = [
-  filepath("ship_skin_template"),
+  filepath("equip_data_statistics"),
+  filepath("equip_data_template"),
+  filepath("name_code"),
+  filepath("ship_data_blueprint"),
+  filepath("ship_data_breakout"),
   filepath("ship_data_group"),
   filepath("ship_data_statistics"),
+  filepath("ship_data_strengthen"),
+  filepath("ship_data_template"),
   filepath("ship_data_by_type"),
+  filepath("ship_data_trans"),
+  filepath("ship_meta_breakout"),
+  filepath("ship_meta_repair"),
+  filepath("ship_meta_repair_effect"),
+  filepath("ship_skin_template"),
+  filepath("ship_skin_words"),
+  filepath("ship_skin_words_extra"),
+  filepath("ship_strengthen_blueprint"),
+  filepath("ship_strengthen_meta"),
   filepath("skill_data_template"),
-  filepath("name_code")
+  filepath("spweapon_data_statistics"),
+  filepath("spweapon_type"),
+  filepath("spweapon_upgrade"),
+  filepath("transform_data_template"),
+  filepath("weapon_property")
 ];
 
 let fetch_error = 0;

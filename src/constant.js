@@ -60,9 +60,11 @@ export const SKIN_TAG = {
 };
 
 export const SHIP_RARITY = {
-  1: "Normal",
-  2: "Rare",
-  3: "Elite",
-  4: "Super Rare",
-  5: "Ultra Rare"
+  2: "Normal",
+  3: "Rare",
+  4: "Elite",
+  5: "Super Rare",
+  6: "Ultra Rare",
+  7: "Priority",
+  8: "Decisive"
 };

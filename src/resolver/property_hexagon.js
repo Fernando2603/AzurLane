@@ -1,4 +1,4 @@
-import { PROPERTY_HEXAGON } from "../utils.js";
+import { PROPERTY_HEXAGON } from "../constant.js";
 
 export default function resolve_ship_property_hexagon(property_hexagon)
 {

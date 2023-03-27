@@ -1,10 +1,6 @@
-import { ship_data_group, ship_group } from "./data.js";
+import { ship_data_group } from "./data.js";
+import { metadata } from "./dist.js";
 import { write } from "./utils.js";
-import {
-  resolve_ship_property_hexagon,
-  resolve_ship_nationality,
-  resolve_ship_hull_type
-} from "./resolver.js";
 
 import skins from "./ship/skins.js";
 
@@ -15,20 +11,12 @@ for (const idx of ship_data_group.all)
 {
   const {
     group_type,
-    property_hexagon,
-    nationality,
-    share_group_id,
-    type
+    share_group_id
   } = ship_data_group[idx];
 
   const SHIP = {
-    id: idx,
-    gid: group_type,
-    name: ship_group[group_type],
-    property_hexagon: resolve_ship_property_hexagon(property_hexagon),
-    nationality: resolve_ship_nationality(nationality),
-    type: resolve_ship_hull_type(type),
-    skins: await skins(group_type)
+    ...metadata[group_type],
+    skins: skins(group_type)
   };
 
   if (share_group_id.length > 0)
@@ -67,7 +55,7 @@ for (const ship in SHIPS)
 };
 
 write("dist", "ships.json", BUILD);
-write("dist", "skins.json",
+write("dist", "ship_skins.json",
   BUILD.map(ship =>
   {
     return {

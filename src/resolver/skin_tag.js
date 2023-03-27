@@ -1,4 +1,4 @@
-import { SKIN_TAG } from "../utils.js";
+import { SKIN_TAG } from "../constant.js";
 
 export default function resolve_skin_tag(tag)
 {

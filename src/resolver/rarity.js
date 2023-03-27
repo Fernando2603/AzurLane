@@ -1,4 +1,4 @@
-import { SHIP_RARITY } from "../utils.js";
+import { SHIP_RARITY } from "../constant.js";
 
 export default function resolve_ship_rarity(rarity)
 {

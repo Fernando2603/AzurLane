@@ -1,4 +1,4 @@
-import { SHIP_NATIONALITY } from "../utils.js";
+import { SHIP_NATIONALITY } from "../constant.js";
 
 export default function resolve_ship_nationality(type)
 {
