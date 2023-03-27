@@ -1,4 +1,5 @@
-import { write, REPOSITORY_LINK, UNKNOWN_IMAGE } from "./utils.js";
+import { write } from "./utils.js";
+import { REPOSITORY_LINK, UNKNOWN_IMAGE } from "./constant.js";
 import { skins } from "./dist.js";
 
 skins.map(ship =>

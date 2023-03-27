@@ -1,6 +1,7 @@
 /* eslint-disable no-console */
 import { readdirSync, existsSync } from "node:fs";
-import { SHIP_IMAGE, path } from "./utils.js";
+import { path } from "./utils.js";
+import { SHIP_IMAGE } from "./constant.js";
 import { ship_skins } from "./data.js";
 import { skins } from "./dist.js";
 

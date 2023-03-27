@@ -16,6 +16,7 @@ const LINK = [
   filepath("ship_data_group"),
   filepath("ship_data_statistics"),
   filepath("ship_data_by_type"),
+  filepath("skill_data_template"),
   filepath("name_code")
 ];
 

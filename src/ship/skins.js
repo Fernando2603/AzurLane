@@ -2,16 +2,6 @@ import { copyFile, existsSync, mkdirSync } from "node:fs";
 import { SHIP_IMAGE, path } from "../utils.js";
 import { ship_skins } from "../data.js";
 
-/*
-  NOTES:
-    on run this file always copy/replace images from AzurAssets to images/skins.
-    this behavior is intended to skip file changes check but the performance is slow
-
-  TODO:
-    creating hash check on AzurAssets and link into dist/ship_skins.json
-    is the best way to improve script performance if the script really slow to run
-*/
-
 const copy = async (target, gid, id, type, callback) =>
 {
   const FOLDER = path("images/skins/" + gid + "/" + id);
@@ -30,10 +20,10 @@ const copy = async (target, gid, id, type, callback) =>
 const check = async (gid, id, file) =>
 {
   const STATUS = {
-    banner: false,
-    chibi: false,
-    icon: false,
-    shipyard: false
+    banner: null,
+    chibi: null,
+    icon: null,
+    shipyard: null
   };
 
   const PROMISES = [];
@@ -99,8 +89,7 @@ export default async function skins(gid)
     const CHECK = await check(gid, id, file);
 
     for (const dest in CHECK)
-      if (CHECK[dest])
-        FILE[dest] = CHECK[dest];
+      FILE[dest] = CHECK[dest];
 
     BUILD.push({ ...SKIN, ...FILE });
   };

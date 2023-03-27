@@ -3,39 +3,13 @@ import { write } from "./utils.js";
 import {
   resolve_ship_property_hexagon,
   resolve_ship_nationality,
-  resolve_ship_hulltype
+  resolve_ship_hull_type
 } from "./resolver.js";
 
 import skins from "./ship/skins.js";
 
 // ships
 const SHIPS = {};
-
-// todo
-// stats
-//
-/*
-  stats: {
-    health: base
-    ..etc all stat except oil/armor
-  }
-
-  stats_growth: {
-    health: growthpoint/level
-    ..etc all stats except oil/armor
-  }
-
-  // all ship have firepower/torpedo/aviation/reload enhance
-  // research enhance based on devlevels
-  // meta enhance have threshold
-  enhance: {
-    type: normal/meta/research
-  }
-
-  meta_enhance_threshold: {
-    25: effect
-  }
-*/
 
 for (const idx of ship_data_group.all)
 {
@@ -53,7 +27,7 @@ for (const idx of ship_data_group.all)
     name: ship_group[group_type],
     property_hexagon: resolve_ship_property_hexagon(property_hexagon),
     nationality: resolve_ship_nationality(nationality),
-    type: resolve_ship_hulltype(type),
+    type: resolve_ship_hull_type(type),
     skins: await skins(group_type)
   };
 

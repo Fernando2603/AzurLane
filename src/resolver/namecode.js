@@ -10,9 +10,7 @@ export default function resolve_namecode(line)
 
     Object.keys(name_code).forEach((key) =>
     {
-      const KEYS_FIND = keys.find(idx => idx === key);
-
-      if (!KEYS_FIND) keys.push(key);
+      if (!keys.includes(key)) keys.push(key);
     });
 
     do
@@ -21,7 +19,7 @@ export default function resolve_namecode(line)
       keys.forEach((code) =>
       {
         const REPLACE_NAME = `{namecode:${code}}`;
-        const FORMAT_NAME = name_code[code].name;
+        const FORMAT_NAME  = name_code[code].name;
 
         line_output = line_output.replace(REPLACE_NAME, FORMAT_NAME);
       });

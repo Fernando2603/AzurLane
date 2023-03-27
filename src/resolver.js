@@ -1,4 +1,4 @@
-export { default as resolve_ship_hulltype } from "./resolver/hulltype.js";
+export { default as resolve_ship_hull_type } from "./resolver/hull_type.js";
 export { default as resolve_namecode } from "./resolver/namecode.js";
 export { default as resolve_ship_nationality } from "./resolver/nationality.js";
 export { default as resolve_ship_property_hexagon } from "./resolver/property_hexagon.js";
