@@ -27,8 +27,9 @@ import transform_data_template from "../data/transform_data_template.json" asser
 import weapon_property from "../data/weapon_property.json" assert { type: "json" };
 
 // extract
-import ship_group from "../data/extract/ship_group.json" assert { type: "json" };
 import ship_skins from "../data/extract/ship_skins.json" assert { type: "json" };
+import ship_group from "../data/extract/ship_group.json" assert { type: "json" };
+import ship_research from "../data/extract/ship_research.json" assert { type: "json" };
 
 export {
   equip_data_statistics,
@@ -58,5 +59,6 @@ export {
   transform_data_template,
   weapon_property,
   ship_group,
-  ship_skins
+  ship_skins,
+  ship_research
 };

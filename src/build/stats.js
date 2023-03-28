@@ -5,6 +5,8 @@ import {
   ship_group
 } from "../data.js";
 
+import bonus from "./stats/bonus.js";
+
 const BUILD = [];
 
 /*
@@ -66,19 +68,7 @@ for (const idx in ship_group)
       luck: attrs_growth[10],
       asw: attrs_growth[11]
     },
-    bonus: {
-      health: 0,
-      firepower: 0,
-      torpedo: 0,
-      antiair: 0,
-      aviation: 0,
-      reload: 0,
-      accuracy: 0,
-      evasion: 0,
-      speed: 0,
-      luck: 0,
-      asw: 0
-    }
+    bonus: bonus(parseInt(idx))
   };
 
   const DATA = {
