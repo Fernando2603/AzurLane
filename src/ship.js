@@ -37,8 +37,11 @@ const SHIPS = {};
   }
 */
 
-for (const idx of ship_data_group.all)
+for (const idx in ship_data_group)
 {
+  if (isNaN(idx))
+    continue;
+
   const {
     group_type,
     property_hexagon,
