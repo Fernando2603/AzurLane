@@ -51,7 +51,7 @@ for (const idx in ship_data_group)
   } = ship_data_group[idx];
 
   const SHIP = {
-    id: idx,
+    id: parseInt(idx),
     gid: group_type,
     name: ship_group[group_type],
     property_hexagon: resolve_ship_property_hexagon(property_hexagon),
