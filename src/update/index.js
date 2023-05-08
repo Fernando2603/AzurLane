@@ -55,10 +55,10 @@ export async function update(file, callback)
 
     if (!MERGE) return null;
 
-    if (DATA.all)
-      MERGE.all = DATA.all;
-
     build = MERGE;
+
+    if (build.all)
+      delete build.all;
   };
 
   write("data", `${name}.json`, build, callback);

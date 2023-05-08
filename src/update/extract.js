@@ -14,12 +14,12 @@ export default function extract({
   const GROUP = {};
   const SKINS = {};
 
-  for (const gid of ship_data_group.all)
+  for (const gid in ship_data_group)
   {
     const { group_type } = ship_data_group[gid];
     const SHIP_GID = (group_type * 10) + 1;
 
-    if (ship_data_statistics.all.includes(SHIP_GID))
+    if (SHIP_GID in ship_data_statistics)
     {
       GROUP[group_type] = ship_data_statistics[SHIP_GID].name.replaceAll(" ", " ").trim();
       SKINS[group_type] = [];
