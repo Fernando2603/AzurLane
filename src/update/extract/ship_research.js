@@ -7,14 +7,14 @@ export default function ship_research({
 {
   const BUILD = {};
 
-  for (const gid of ship_data_blueprint.all)
+  for (const gid in ship_data_blueprint)
   {
     const DATA = ship_data_blueprint[gid];
     const DEVS = {};
 
     [...DATA.strengthen_effect, ...DATA.fate_strengthen].forEach(dev =>
     {
-      if (ship_strengthen_blueprint.all.includes(dev))
+      if (dev in ship_strengthen_blueprint)
         DEVS[dev] = ship_strengthen_blueprint[dev];
 
       else
@@ -23,8 +23,6 @@ export default function ship_research({
 
     BUILD[gid] = { ...DATA, devs: DEVS };
   };
-
-  BUILD.all = ship_data_blueprint.all;
 
   return write("data/extract", "ship_research.json", BUILD);
 };

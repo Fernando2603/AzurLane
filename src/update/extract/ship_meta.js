@@ -8,7 +8,7 @@ export default function ship_meta({
 {
   const BUILD = {};
 
-  for (const gid of ship_strengthen_meta.all)
+  for (const gid in ship_strengthen_meta)
   {
     const DATA = ship_strengthen_meta[gid];
     const REPAIR = {};

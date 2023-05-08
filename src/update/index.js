@@ -61,5 +61,8 @@ export async function update(file, callback)
     build = MERGE;
   };
 
+  if (build.all)
+    delete build.all;
+
   write("data", `${name}.json`, build, callback);
 };

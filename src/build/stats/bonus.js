@@ -23,7 +23,7 @@ export default function bonus(gid)
     asw: 0
   };
 
-  if (ship_data_blueprint.all.includes(gid))
+  if (gid in ship_data_blueprint)
   {
     ship_data_blueprint[gid].strengthen_effect.forEach(efx =>
     {
@@ -34,7 +34,7 @@ export default function bonus(gid)
         reload: 0
       };
 
-      if (ship_strengthen_blueprint.all.includes(efx))
+      if (efx in ship_strengthen_blueprint)
       {
         const DEVS = ship_strengthen_blueprint[efx];
 
@@ -89,7 +89,7 @@ export default function bonus(gid)
     return BONUS;
   };
 
-  if (ship_strengthen_meta.all.includes(gid))
+  if (gid in ship_strengthen_meta)
   {
     const SHIP_DATA = ship_strengthen_meta[gid];
 
@@ -97,7 +97,7 @@ export default function bonus(gid)
 
     THRESHOLD.forEach(efx =>
     {
-      if (ship_meta_repair_effect.all.includes(efx))
+      if (efx in ship_meta_repair_effect)
       {
         ship_meta_repair_effect[efx].effect_attr.forEach(attr =>
         {
@@ -130,7 +130,7 @@ export default function bonus(gid)
 
     ENHANCE.forEach(efx =>
     {
-      if (ship_meta_repair.all.includes(efx))
+      if (efx in ship_meta_repair)
       {
         const EFFECT = ship_meta_repair[efx].effect_attr;
 
@@ -156,7 +156,7 @@ export default function bonus(gid)
     return BONUS;
   };
 
-  if (ship_data_strengthen.all.includes(gid))
+  if (gid in ship_data_strengthen)
   {
     const SHIP_DATA   = ship_data_strengthen[gid].durability;
     const get_enhance = (stats) => Math.floor((10 * stats * 0.1) + 1e-09);

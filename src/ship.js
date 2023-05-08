@@ -7,12 +7,12 @@ import skins from "./ship/skins.js";
 // ships
 const SHIPS = {};
 
-for (const idx of ship_data_group.all)
+for (const code in ship_data_group)
 {
   const {
     group_type,
     share_group_id
-  } = ship_data_group[idx];
+  } = ship_data_group[code];
 
   const SHIP = {
     ...metadata[group_type],

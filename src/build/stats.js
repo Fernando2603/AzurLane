@@ -6,8 +6,10 @@ import {
 } from "../data.js";
 
 import bonus from "./stats/bonus.js";
+import calculate from "./stats/calculate.js";
 
 const BUILD = [];
+const BUILD_PRECALCULATED = [];
 
 /*
   ship condition to accurate calculation
@@ -32,16 +34,15 @@ const BUILD = [];
 
 for (const idx in ship_group)
 {
-  const GROUP = Math.max(...ship_data_statistics.all.filter(sid => sid.toString().startsWith(idx)));
+  const GROUP = Math.max(
+    ...Object.keys(ship_data_statistics)
+      .filter(sid => sid.startsWith(idx))
+      .map(sid => parseInt(sid)));
 
   const { attrs, attrs_growth, hunting_range, huntingrange_level, oxy_max } = ship_data_statistics[GROUP];
   const { oil_at_end } = ship_data_template[GROUP];
 
   const STATS = {
-    oil: oil_at_end,
-    oxygen: oxy_max,
-    hunting_range: hunting_range,
-    hunting_range_level: huntingrange_level,
     base: {
       health: attrs[0],
       firepower: attrs[1],
@@ -71,13 +72,35 @@ for (const idx in ship_group)
     bonus: bonus(parseInt(idx))
   };
 
+  const SUBMARINE = {
+    oxygen: oxy_max,
+    hunting_range: hunting_range.length > 1 ? hunting_range : [],
+    hunting_range_level: huntingrange_level
+  };
+
   const DATA = {
-    gid: idx,
+    gid: parseInt(idx),
     name: ship_group[idx],
+    oil: oil_at_end,
+    ...oxy_max > 0 ? SUBMARINE : null
+  };
+
+  const RAW = {
+    ...DATA,
     stats: STATS
   };
 
-  BUILD.push(DATA);
+  const PRECALCULATED = {
+    ...DATA,
+    stats: {
+      level_120: calculate(STATS, 120, 1.06),
+      level_125: calculate(STATS, 125, 1.06)
+    }
+  };
+
+  BUILD.push(RAW);
+  BUILD_PRECALCULATED.push(PRECALCULATED);
 };
 
 write("dist", "stats.json", BUILD);
+write("dist", "stats_calculated.json", BUILD_PRECALCULATED);

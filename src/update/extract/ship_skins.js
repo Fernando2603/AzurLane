@@ -13,8 +13,8 @@ export default function ship_skins({
 {
   const BUILD = {};
 
-  for (const gid of ship_data_group.all)
-    BUILD[ship_data_group[gid].group_type] = [];
+  for (const code in ship_data_group)
+    BUILD[ship_data_group[code].group_type] = [];
 
   for (const idx in ship_skin_template)
   {
