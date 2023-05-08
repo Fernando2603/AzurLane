@@ -21,7 +21,7 @@ export default function ship_meta({
       ...DATA.repair_air
     ].sort((a, b) => parseInt(b) - parseInt(a)).forEach(repair =>
     {
-      if (ship_meta_repair.all.includes(repair))
+      if (repair in ship_meta_repair)
         REPAIR[repair] = ship_meta_repair[repair];
 
       else
@@ -30,7 +30,7 @@ export default function ship_meta({
 
     DATA.repair_effect.forEach(efx =>
     {
-      if (ship_meta_repair_effect.all.includes(efx[1]))
+      if (efx[1] in ship_meta_repair_effect)
         EFFECT[efx[1]] = ship_meta_repair_effect[efx[1]];
 
       else

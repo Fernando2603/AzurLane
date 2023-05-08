@@ -3,7 +3,7 @@ import { readdirSync, existsSync } from "node:fs";
 import { path } from "./utils.js";
 import { SHIP_IMAGE } from "./constant.js";
 import { ship_skins } from "./data.js";
-import { skins } from "./dist.js";
+import { ships as skins } from "./dist.js";
 
 const border = (type = "=") => console.log(new Array(101).join(type));
 console.time("=> Check Runtime");

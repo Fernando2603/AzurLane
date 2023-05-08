@@ -9,6 +9,9 @@ const SHIPS = {};
 
 for (const code in ship_data_group)
 {
+  if (isNaN(code))
+    continue;
+
   const {
     group_type,
     share_group_id

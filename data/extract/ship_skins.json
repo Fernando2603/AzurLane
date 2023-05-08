@@ -6267,6 +6267,16 @@
 			"file": "bunao_2"
 		}
 	],
+	"20713": [
+		{
+			"id": 207130,
+			"name": "Little Formidable",
+			"type": "Default",
+			"desc": "Illustrious-class aircraft carrier – Formidable.",
+			"tag": [],
+			"file": "kewei_younv"
+		}
+	],
 	"21301": [
 		{
 			"id": 213010,
@@ -9549,6 +9559,16 @@
 			"file": "sanli_3"
 		},
 		{
+			"id": 305115,
+			"name": "Beauty in Indigo",
+			"type": "New Year Kimono",
+			"desc": "I was worried when you said you wanted to go on a trip with me, but... I do like getting to go sight-seeing and try on new threads. Commander, let's enjoy this to the fullest! Hahaha!",
+			"tag": [
+				"bg"
+			],
+			"file": "sanli_6"
+		},
+		{
 			"id": 305118,
 			"name": "Untarnished Splendor ",
 			"type": "Oath",
@@ -9833,6 +9853,16 @@
 				"custombg"
 			],
 			"file": "chicheng_5"
+		},
+		{
+			"id": 307015,
+			"name": "Precipice of Sweetness",
+			"type": "New Year Kimono",
+			"desc": "Commander, open up. Say ahh... Heehee, heheheheh... You're like a little baby♪ Receiving a lovely new outfit and seeing a different side of you... How blessed am I?",
+			"tag": [
+				"bg"
+			],
+			"file": "chicheng_6"
 		},
 		{
 			"id": 307018,
@@ -15477,6 +15507,18 @@
 				"bgm"
 			],
 			"file": "maliluosi_2_doa"
+		},
+		{
+			"id": 10600012,
+			"name": "Steamy Venus",
+			"type": "Hot Springs",
+			"desc": "Phew... So warm and comfy~♪ Wanna join me, Commander? Oh... It's a little embarrassing, though, so... Don't look my way too much, okay?",
+			"tag": [
+				"live2d",
+				"bg",
+				"bgm"
+			],
+			"file": "maliluosi_3_doa"
 		}
 	],
 	"1060002": [
@@ -15603,6 +15645,49 @@
 				"bgm"
 			],
 			"file": "monika_2_doa"
+		}
+	],
+	"1060008": [
+		{
+			"id": 10600080,
+			"name": "Luna",
+			"type": "Default",
+			"desc": "H-hmm... Wh-where am I? ...Me? I'm Luna, a scholar. Umm... You go by the Commander? Well, I'm hungry... Do you have anything to eat? I'd prefer roasted sweet potatoes...",
+			"tag": [],
+			"file": "luna_doa"
+		},
+		{
+			"id": 10600081,
+			"name": "Venus of the Beach",
+			"type": "Swimsuits",
+			"desc": "Hmm... Commander, I'm tired from all this frolicking. How about we take a break, or have a snack? You know, nobody knows we're all alone right here... Heehee~♪",
+			"tag": [
+				"bg",
+				"bgm",
+				"dynamic"
+			],
+			"file": "luna_2_doa"
+		}
+	],
+	"1060009": [
+		{
+			"id": 10600090,
+			"name": "Tamaki",
+			"type": "Default",
+			"desc": "Hmm? Where am I? Ohh, I get it now... I drank way too much yesterday... Ahahah. Oh well♪ There's tons of cuties here to keep me entertained❤ My name's Tamaki. It's a pleasure, Commander❤",
+			"tag": [],
+			"file": "huan_doa"
+		},
+		{
+			"id": 10600091,
+			"name": "Venus Shower Time",
+			"type": "Swimsuits",
+			"desc": "Heehee~ I've been waiting, Commander♪ Come on, there's no need to be shy♥ I'm going to show you a lovely time, darling, so you'd better get ready♪",
+			"tag": [
+				"bg",
+				"bgm"
+			],
+			"file": "huan_2_doa"
 		}
 	],
 	"1070001": [
