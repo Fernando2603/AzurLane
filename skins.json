@@ -9876,6 +9876,24 @@
 		]
 	},
 	{
+		"id": 589,
+		"gid": 20713,
+		"name": "Little Formidable",
+		"skins": [
+			{
+				"id": 207130,
+				"name": "Little Formidable",
+				"type": "Default",
+				"desc": "Illustrious-class aircraft carrier – Formidable.",
+				"tag": [],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/20713/207130/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/20713/207130/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/20713/207130/icon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/20713/207130/shipyard.png"
+			}
+		]
+	},
+	{
 		"id": 149,
 		"gid": 21301,
 		"name": "Erebus",
@@ -14731,6 +14749,19 @@
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/30511/305114/shipyard.png"
 			},
 			{
+				"id": 305115,
+				"name": "Beauty in Indigo",
+				"type": "New Year Kimono",
+				"desc": "I was worried when you said you wanted to go on a trip with me, but... I do like getting to go sight-seeing and try on new threads. Commander, let's enjoy this to the fullest! Hahaha!",
+				"tag": [
+					"bg"
+				],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/30511/305115/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/30511/305115/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/30511/305115/icon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/30511/305115/shipyard.png"
+			},
+			{
 				"id": 305118,
 				"name": "Untarnished Splendor ",
 				"type": "Oath",
@@ -15157,6 +15188,19 @@
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/30701/307014/chibi.png",
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/30701/307014/icon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/30701/307014/shipyard.png"
+			},
+			{
+				"id": 307015,
+				"name": "Precipice of Sweetness",
+				"type": "New Year Kimono",
+				"desc": "Commander, open up. Say ahh... Heehee, heheheheh... You're like a little baby♪ Receiving a lovely new outfit and seeing a different side of you... How blessed am I?",
+				"tag": [
+					"bg"
+				],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/30701/307015/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/30701/307015/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/30701/307015/icon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/30701/307015/shipyard.png"
 			},
 			{
 				"id": 307018,
@@ -15669,6 +15713,20 @@
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/30701/307014/chibi.png",
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/30701/307014/icon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/30701/307014/shipyard.png",
+				"shared": 30701
+			},
+			{
+				"id": 307015,
+				"name": "Precipice of Sweetness",
+				"type": "New Year Kimono",
+				"desc": "Commander, open up. Say ahh... Heehee, heheheheh... You're like a little baby♪ Receiving a lovely new outfit and seeing a different side of you... How blessed am I?",
+				"tag": [
+					"bg"
+				],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/30701/307015/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/30701/307015/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/30701/307015/icon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/30701/307015/shipyard.png",
 				"shared": 30701
 			}
 		]
@@ -23882,6 +23940,21 @@
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/1060001/10600011/chibi.png",
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/1060001/10600011/icon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/1060001/10600011/shipyard.png"
+			},
+			{
+				"id": 10600012,
+				"name": "Steamy Venus",
+				"type": null,
+				"desc": "Phew... So warm and comfy~♪ Wanna join me, Commander? Oh... It's a little embarrassing, though, so... Don't look my way too much, okay?",
+				"tag": [
+					"live2d",
+					"bg",
+					"bgm"
+				],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/1060001/10600012/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/1060001/10600012/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/1060001/10600012/icon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/1060001/10600012/shipyard.png"
 			}
 		]
 	},
@@ -24074,6 +24147,71 @@
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/1060007/10600071/chibi.png",
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/1060007/10600071/icon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/1060007/10600071/shipyard.png"
+			}
+		]
+	},
+	{
+		"id": 10068,
+		"gid": 1060008,
+		"name": "Luna",
+		"skins": [
+			{
+				"id": 10600080,
+				"name": "Luna",
+				"type": "Default",
+				"desc": "H-hmm... Wh-where am I? ...Me? I'm Luna, a scholar. Umm... You go by the Commander? Well, I'm hungry... Do you have anything to eat? I'd prefer roasted sweet potatoes...",
+				"tag": [],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/1060008/10600080/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/1060008/10600080/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/1060008/10600080/icon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/1060008/10600080/shipyard.png"
+			},
+			{
+				"id": 10600081,
+				"name": "Venus of the Beach",
+				"type": "Swimsuits",
+				"desc": "Hmm... Commander, I'm tired from all this frolicking. How about we take a break, or have a snack? You know, nobody knows we're all alone right here... Heehee~♪",
+				"tag": [
+					"bg",
+					"bgm",
+					"dynamic"
+				],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/1060008/10600081/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/1060008/10600081/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/1060008/10600081/icon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/1060008/10600081/shipyard.png"
+			}
+		]
+	},
+	{
+		"id": 10069,
+		"gid": 1060009,
+		"name": "Tamaki",
+		"skins": [
+			{
+				"id": 10600090,
+				"name": "Tamaki",
+				"type": "Default",
+				"desc": "Hmm? Where am I? Ohh, I get it now... I drank way too much yesterday... Ahahah. Oh well♪ There's tons of cuties here to keep me entertained❤ My name's Tamaki. It's a pleasure, Commander❤",
+				"tag": [],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/1060009/10600090/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/1060009/10600090/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/1060009/10600090/icon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/1060009/10600090/shipyard.png"
+			},
+			{
+				"id": 10600091,
+				"name": "Venus Shower Time",
+				"type": "Swimsuits",
+				"desc": "Heehee~ I've been waiting, Commander♪ Come on, there's no need to be shy♥ I'm going to show you a lovely time, darling, so you'd better get ready♪",
+				"tag": [
+					"bg",
+					"bgm"
+				],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/1060009/10600091/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/1060009/10600091/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/1060009/10600091/icon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/1060009/10600091/shipyard.png"
 			}
 		]
 	},
