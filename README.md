@@ -1,6 +1,7 @@
 # AzurLane
 ![](versions/REPOSITORY.svg)
 ![](versions/EN.svg)
+
 Azur Lane Resources
 
 ## Important Notes
