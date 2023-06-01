@@ -1717,6 +1717,21 @@
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102095/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102095/shipyard.png"
 	},
+	"102096": {
+		"id": 102096,
+		"gid": 10209,
+		"name": "Golden Conductor",
+		"type": "Party Dress",
+		"desc": "Ahem... I, Cleveland, am your conductor for tonight! Whoa, the echo really IS faint! How did I not know we had such a fancy concert hall at the port? ...Oh, you wanna shout something too, Commander?",
+		"tag": [
+			"bg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102096/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102096/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102096/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102096/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102096/shipyard.png"
+	},
 	"102098": {
 		"id": 102098,
 		"gid": 10209,
@@ -4880,6 +4895,21 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/131171/icon.png",
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/131171/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/131171/shipyard.png"
+	},
+	"131172": {
+		"id": 131172,
+		"gid": 10117,
+		"name": "Lazy Days",
+		"type": "Party Dress",
+		"desc": "Oh, Commander? I wasn't waiting for you here... Nope, totally wasn't. But now that you're here, how about we hang out...?",
+		"tag": [
+			"dynamic"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/131172/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/131172/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/131172/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/131172/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/131172/shipyard.png"
 	},
 	"137030": {
 		"id": 137030,
@@ -8853,6 +8883,21 @@
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/207035/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/207035/shipyard.png"
 	},
+	"207036": {
+		"id": 207036,
+		"gid": 20703,
+		"name": "Lambent Melody",
+		"type": "Party Dress",
+		"desc": "A gentle melody for a peaceful celebration. Today, Commander, I offer this tune to you and the people of the port. May my melody please your ears♪",
+		"tag": [
+			"custombg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/207036/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/207036/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/207036/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/207036/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/207036/shipyard.png"
+	},
 	"207038": {
 		"id": 207038,
 		"gid": 20703,
@@ -9202,6 +9247,21 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/213042/icon.png",
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/213042/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/213042/shipyard.png"
+	},
+	"236030": {
+		"id": 236030,
+		"gid": 20603,
+		"name": "Blissful Movement",
+		"type": "Party Dress",
+		"desc": "Big brother...? I was just practicing my trumpet, if you were wondering... Umm, what do you think? I hope you like my trumpeting...",
+		"tag": [
+			"custombg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/236030/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/236030/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/236030/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/236030/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/236030/shipyard.png"
 	},
 	"299010": {
 		"id": 299010,
@@ -13250,6 +13310,22 @@
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/304051/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/304051/shipyard.png"
 	},
+	"304052": {
+		"id": 304052,
+		"gid": 30405,
+		"name": "Red Kite Respite",
+		"type": "Party Dress",
+		"desc": "*munch*... Ah. Commander, the banquet isn't over yet. What brings you here? When a host sneaks out, that causes trouble for the person cleaning up after them... Heehee, I didn't say NOT to, now, did I?",
+		"tag": [
+			"live2d",
+			"bg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/304052/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/304052/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/304052/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/304052/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/304052/shipyard.png"
+	},
 	"304060": {
 		"id": 304060,
 		"gid": 30406,
@@ -14746,6 +14822,19 @@
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/307121/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/307121/shipyard.png"
 	},
+	"307130": {
+		"id": 307130,
+		"gid": 30713,
+		"name": "Taihou-chan",
+		"type": "Default",
+		"desc": "Taihou-class aircraft carrier – Taihou.",
+		"tag": [],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/307130/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/307130/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/307130/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/307130/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/307130/shipyard.png"
+	},
 	"308010": {
 		"id": 308010,
 		"gid": 30801,
@@ -15187,6 +15276,21 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/331055/icon.png",
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/331055/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/331055/shipyard.png"
+	},
+	"331056": {
+		"id": 331056,
+		"gid": 30105,
+		"name": "Disarming Deep Blue",
+		"type": "Party Dress",
+		"desc": "*fidget, fidget*... Oh, how's the party? Yes, I get a little angsty when I'm without a weapon... I envy your ability to stay calm no matter what.",
+		"tag": [
+			"bg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/331056/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/331056/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/331056/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/331056/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/331056/shipyard.png"
 	},
 	"399010": {
 		"id": 399010,
@@ -16681,6 +16785,21 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/403093/icon.png",
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/403093/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/403093/shipyard.png"
+	},
+	"403094": {
+		"id": 403094,
+		"gid": 40309,
+		"name": "Heinrich on Stage",
+		"type": "Party Dress",
+		"desc": "Alrighty, I'm gonna sing a song for you now! Surprised by how jazzy and womanly I can be, are you? Ahahah!",
+		"tag": [
+			"custombg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/403094/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/403094/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/403094/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/403094/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/403094/shipyard.png"
 	},
 	"403100": {
 		"id": 403100,
@@ -20114,6 +20233,21 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/702033/icon.png",
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/702033/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/702033/shipyard.png"
+	},
+	"702034": {
+		"id": 702034,
+		"gid": 70203,
+		"name": "Melody of the White Cavalier",
+		"type": "Party Dress",
+		"desc": "Why are you here... Oh, that was rude of me to ask. Maybe you just wanted a change of scenery, or you were drawn by the music. Or maybe my feelings have reached you... I think I like the sound of that one the most. Hehehe.",
+		"tag": [
+			"custombg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/702034/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/702034/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/702034/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/702034/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/702034/shipyard.png"
 	},
 	"702040": {
 		"id": 702040,
