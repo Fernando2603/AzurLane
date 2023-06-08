@@ -8975,6 +8975,19 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/202274/icon.png",
 				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/202274/qicon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/202274/shipyard.png"
+			},
+			{
+				"id": 202278,
+				"gid": 20227,
+				"name": "Dawn's Oath",
+				"type": "Oath",
+				"desc": "I'm so happy to have come this far with you, Commander. May this gorgeous sunrise watch over us for all time... I love you, Commander.",
+				"tag": [],
+				"banner": null,
+				"chibi": null,
+				"icon": null,
+				"qicon": null,
+				"shipyard": null
 			}
 		]
 	},
@@ -22920,6 +22933,21 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/502071/icon.png",
 				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/502071/qicon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/502071/shipyard.png"
+			},
+			{
+				"id": 502072,
+				"gid": 50207,
+				"name": "Soaring Apsaras",
+				"type": "Others",
+				"desc": "Through dance of gossamer silk, the apsaras' grace soars... Oh, I'm simply reciting something I just happened to pick up on. What do you think, Commander? If I've captured your attention, I suppose this was worth our while~",
+				"tag": [
+					"custombg"
+				],
+				"banner": null,
+				"chibi": null,
+				"icon": null,
+				"qicon": null,
+				"shipyard": null
 			}
 		]
 	},
@@ -23111,6 +23139,19 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/599011/icon.png",
 				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/599011/qicon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/599011/shipyard.png"
+			},
+			{
+				"id": 599018,
+				"gid": 59901,
+				"name": "Red Paeonia",
+				"type": "Oath",
+				"desc": "Sorry to keep you waiting, Commander. So, how's my new look? It's got me a bit embarrassed... But, well, all that matters is that you like it.",
+				"tag": [],
+				"banner": null,
+				"chibi": null,
+				"icon": null,
+				"qicon": null,
+				"shipyard": null
 			}
 		]
 	},
@@ -25900,6 +25941,19 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/899021/icon.png",
 				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/899021/qicon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/899021/shipyard.png"
+			},
+			{
+				"id": 899028,
+				"gid": 89902,
+				"name": "Adulation Eternal",
+				"type": "Oath",
+				"desc": "An ode of gratitude for the venerable Iris, echoing tones condensing to pure prayer. Seek blessings not in public worship, but in humanity's true triumph: our everlasting bonds.",
+				"tag": [],
+				"banner": null,
+				"chibi": null,
+				"icon": null,
+				"qicon": null,
+				"shipyard": null
 			}
 		]
 	},
@@ -26880,6 +26934,26 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9703010/icon.png",
 				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9703010/qicon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9703010/shipyard.png"
+			}
+		]
+	},
+	{
+		"id": 30023,
+		"gid": 970302,
+		"name": "Algérie META",
+		"skins": [
+			{
+				"id": 9703020,
+				"gid": 970302,
+				"name": "Algérie META",
+				"type": "Default",
+				"desc": "You must be the Commander. I am the heavy cruiser Algérie. So, what pleasures can I experience here? I do hope you won't disappoint me. Heehee~",
+				"tag": [],
+				"banner": null,
+				"chibi": null,
+				"icon": null,
+				"qicon": null,
+				"shipyard": null
 			}
 		]
 	},
