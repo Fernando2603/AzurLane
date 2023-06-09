@@ -12343,6 +12343,62 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800840.png",
 		"max_level": 1
 	},
+	"800850": {
+		"id": 800850,
+		"type": 1,
+		"name": "Sinner's Pursuit",
+		"desc": "When this fires her Main Guns: 25.0% chance to fire an additional special volley (5s cooldown between activations).\nEvery 20s: fires a Lv.10 special barrage (DMG depends on the skill's level).\nEach time this skill's special volley or special barrage hits an enemy: grants 1 stack of [Pursued] to the target, stacking up to 5 times, with each stack increasing the target's SPD by 1. When [Pursued] reaches 5 stacks, the target's SPD will be reduced to 0 for 3s, and the number of [Pursued] stacks will reset. This ship deals 15.0% increased DMG to enemies affected by [Pursued].",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800850.png",
+		"max_level": 10
+	},
+	"800860": {
+		"id": 800860,
+		"type": 3,
+		"name": "Sinner's Whispers",
+		"desc": "When the battle starts, reduces the HP of allied surface ships other than this ship by 15. For every ship that loses HP as a result of this effect: increases this ship's FP and EVA by 4.0%, lasting for 40s. When this effect ends and this ship is afloat, all ships in the fleet will restore 100 HP and this ship takes 20.0% reduced DMG from Torpedoes until the end of battle.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800860.png",
+		"max_level": 10
+	},
+	"800870": {
+		"id": 800870,
+		"type": 1,
+		"name": "Expurgating Flame",
+		"desc": "Every 10s: 100.0% chance to inflict a special [Expurgating Flame] status on the enemy with the highest HP percentage for 8s.\nIf an enemy is sunk while affected by [Expurgating Flame], the \"Cinders of Hope - Algérie\" skill gains the following effect until the end of battle: enemies hit by this special barrage will be inflicted with the [Expurgating Flame] Burn status for 8s.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800870.png",
+		"max_level": 10
+	},
+	"800881": {
+		"id": 800881,
+		"type": 3,
+		"name": "Cinders of Hope - Algérie I",
+		"desc": "Every 9 times this ship fires her Main Guns: fires a special barrage.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800880.png",
+		"max_level": 1
+	},
+	"800882": {
+		"id": 800882,
+		"type": 3,
+		"name": "Cinders of Hope - Algérie II",
+		"desc": "Every 6 times this ship fires her Main Guns: fires a special barrage.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800880.png",
+		"max_level": 1
+	},
+	"800885": {
+		"id": 800885,
+		"type": 3,
+		"name": "Cinders of Hope - Algérie I",
+		"desc": "[Operation Siren]\nEvery 9 times this ship fires her Main Guns: fires a special barrage. Decreases this ship's DMG taken by 3.0% when fighting humanoid Siren fleets or Boss fleets.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800880.png",
+		"max_level": 1
+	},
+	"800887": {
+		"id": 800887,
+		"type": 3,
+		"name": "Cinders of Hope - Algérie II",
+		"desc": "[Operation Siren]\nEvery 6 times this ship fires her Main Guns: fires a special barrage. Decreases this ship's DMG taken by 8.0% when fighting humanoid Siren fleets or Boss fleets.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800880.png",
+		"max_level": 1
+	},
 	"1010140": {
 		"id": 1010140,
 		"type": 3,
