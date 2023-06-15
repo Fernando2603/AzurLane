@@ -2675,7 +2675,7 @@
 		"id": 12350,
 		"type": 1,
 		"name": "Unyielding Magician",
-		"desc": "Starting at 80.0% of this ship's max HP: increases this ship's FP and TRP (up to a maximum of 40) based on its HP lost. Additionally, once per battle, when this ship's HP falls below 30.0%: increases this ship's AA by 12.0% until the end of the battle.",
+		"desc": "When this ship is below 80.0% Max HP: increases her FP and TRP by up to 40, based on the percentage of missing HP. Additionally, once per battle, when this ship's HP falls below 30.0%: increases this ship's AA by 12.0% until the end of the battle.",
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/12350.png",
 		"max_level": 10
 	},
@@ -12591,6 +12591,22 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/11900.png",
 		"max_level": 10
 	},
+	"1012350": {
+		"id": 1012350,
+		"type": 1,
+		"name": "Unyielding Magician+",
+		"desc": "Increases this ship's AA and EVA by 15.0%. When this ship is below 80.0% Max HP: increases her FP and TRP by up to 60, based on the percentage of missing HP. Every 20s: 70% chance to fire a Lv.10 torpedo barrage (DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/12350.png",
+		"max_level": 10
+	},
+	"1012600": {
+		"id": 1012600,
+		"type": 1,
+		"name": "Rosa Bombardamento+",
+		"desc": "When this ship fires her Main Guns: 75.0% chance to fire a special barrage (DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/12600.png",
+		"max_level": 10
+	},
 	"1012670": {
 		"id": 1012670,
 		"type": 3,
@@ -12685,6 +12701,30 @@
 		"name": "Torpedo Launch - Gneisenau",
 		"desc": "Every 20s: fires 12 acoustic torpedoes forwards (DMG is based on the skill's level). Increases this ship's and your Iron Blood CLs' and DDs' DMG dealt against CVs by 10.0%.",
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/2100.png",
+		"max_level": 10
+	},
+	"1090120": {
+		"id": 1090120,
+		"type": 1,
+		"name": "Piercing Shells – Z46",
+		"desc": "Increases this ship's AP DMG by 25.0%. If this ship has an AP Main Gun equipped: 1) increases this ship's Crit Rate by 10.0%; 2) increases the Main Gun DMG this ship deals to enemies of any armor type by 15.0%; 3) improves this ship's All Out Assault.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/2080.png",
+		"max_level": 10
+	},
+	"1090130": {
+		"id": 1090130,
+		"type": 1,
+		"name": "Quick Reload - Mutsuki",
+		"desc": "Every 20s: 70% chance to increase this ship's RLD by 40.0% for 10s and restore 5.0% max HP to a random ship in your Vanguard. 3s after the first time this effect activates in battle: decreases the loading time of this ship's next wave of torpedoes by 20s.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/2000.png",
+		"max_level": 10
+	},
+	"1090140": {
+		"id": 1090140,
+		"type": 1,
+		"name": "Artillery Cover - Saratoga",
+		"desc": "Every 10s: fires a Lv.10 supporting barrage using CA-caliber guns, and launches a Lv.10 special airstrike (barrage and airstrike DMG are both based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/10180.png",
 		"max_level": 10
 	}
 }

@@ -18803,7 +18803,8 @@
 		"type": "Others",
 		"desc": "Through dance of gossamer silk, the apsaras' grace soars... Oh, I'm simply reciting something I just happened to pick up on. What do you think, Commander? If I've captured your attention, I suppose this was worth our while~",
 		"tag": [
-			"custombg"
+			"custombg",
+			"bgm"
 		],
 		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/502072/banner.png",
 		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/502072/chibi.png",
