@@ -5405,7 +5405,7 @@
 				"id": 107095,
 				"gid": 10709,
 				"name": "Crossbones Especial",
-				"type": null,
+				"type": "On The Job",
 				"desc": "\"Anchors aweigh! Arr, pirate aircraft carrier Essex be ready for battle! Nothing in the seven seas will escape my grasp!\" Hic... Hehehe... I wanna be a piraaate...",
 				"tag": [
 					"bg",
@@ -9269,7 +9269,7 @@
 				"id": 203011,
 				"gid": 20301,
 				"name": "The Sterling Secretary",
-				"type": null,
+				"type": "On The Job",
 				"desc": "Splendid work today, Your Excellency. Here are your documents for the next mission. It has everything you need to know, so please give it a read. Heehee, I'm happy to assist so that you may focus solely on achieving your goals.",
 				"tag": [
 					"bg",
@@ -9736,7 +9736,7 @@
 				"id": 204034,
 				"gid": 20403,
 				"name": "Gentlewoman and Stallion",
-				"type": null,
+				"type": "On The Job",
 				"desc": "Whoa, there... There you are, Commander. You could have waited at the clubhouse... Why yes, the view is just beautiful, isn't it? Hahaha, thank you for bringing me here today.",
 				"tag": [
 					"bg"
@@ -23505,7 +23505,7 @@
 				"id": 601101,
 				"gid": 60110,
 				"name": "Castle of Inspiration",
-				"type": null,
+				"type": "On The Job",
 				"desc": "Welcome to my humble abode! Bunnies, kitty-cats, and the Commander... The gang's all here! Today's tale is gonna be a wild one!",
 				"tag": [
 					"bg"
@@ -23818,7 +23818,7 @@
 				"id": 603061,
 				"gid": 60306,
 				"name": "Unrequited Office Love?",
-				"type": null,
+				"type": "On The Job",
 				"desc": "These stockings are so annoying to wear... Mmrgh... *sigh*. You can't give up already, Gorizia. If you want the Commander's attention... this is what you have to do!",
 				"tag": [
 					"live2d",
@@ -23935,7 +23935,7 @@
 				"id": 605024,
 				"gid": 60502,
 				"name": "Sitting in the Rain",
-				"type": null,
+				"type": "On The Job",
 				"desc": "Talk about bad luck, we're caught in a rainstorm right now. Unfortunately, it seems we'll have to wait it out here, Commander.",
 				"tag": [
 					"bg"
@@ -24089,7 +24089,7 @@
 				"id": 605071,
 				"gid": 60507,
 				"name": "Have a Safe Flight",
-				"type": null,
+				"type": "On The Job",
 				"desc": "\"I'm your stewardess, Andrea Doria, here to ensure you have a pleasant flight\"... Did I sound natural, Commander? ...Still a bit on the stiff side, huh? *sigh*, this job really isn't easy for first-timers...",
 				"tag": [
 					"bg"
