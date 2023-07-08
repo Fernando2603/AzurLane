@@ -1,1568 +1,1001 @@
 [
-   {
-      "name":"Justice",
-      "rarity":"Super Rare",
-      "type":"DD",
-      "slot":"Command",
-      "timer":"10:24:00",
-      "faction":"Eagle Union",
-      "color":"gold",
-      "stats":{
-         "logistics":[
-            44,
-            144
-         ],
-         "directives":[
-            52,
-            171
-         ],
-         "tactics":[
-            52,
-            171
-         ]
-      },
-      "skill":{
-         "name":"31 Knots of Justice",
-         "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/meowfficer/Justice.png",
-         "general":{
-            "level1":[
-               "When assigned to a fleet with 3 DDs",
-               "Gives your fleet +1 tile movement on the map."
-            ],
-            "level2":[
-               "When assigned as the Command Cat to a fleet that has at least 1 DD",
-               "15% chance to launch a preemptive torpedo strike when engaging any non-Boss fleet on the map."
-            ],
-            "level3":[
-               "When assigned as the Command Cat to a fleet that isn't in combat and has at least 1 DD",
-               "Adds an option in the Strategy Menu to switch positions with a friendly fleet in combat if it's directly adjacent to yours."
-            ]
-         },
-         "opsi":{
-            "level1":[
-               "When assigned to a fleet with 3 DDs",
-               "Increases your Vanguard's TRP by a moderate amount based on the Tactics stat."
-            ],
-            "level2":[
-               "When assigned as the Command Cat and the 2nd ship in your Vanguard is a DD",
-               "Fires a Lv.1 special barrage."
-            ],
-            "level3":[
-               "None",
-               "Upgrades the special barrage to Lv.2."
-            ]
-         }
-      },
-      "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Justice/Justice.png",
-      "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Justice/JusticeIcon.png",
-      "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Justice/JusticeBanner.png"
-   },
-   {
-      "name":"Antenna",
-      "rarity":"Super Rare",
-      "type":"BB/BC/BBV",
-      "slot":"General",
-      "timer":"10:45:00",
-      "faction":"Eagle Union",
-      "color":"gold",
-      "stats":{
-         "logistics":[
-            43,
-            141
-         ],
-         "directives":[
-            64,
-            210
-         ],
-         "tactics":[
-            55,
-            180
-         ]
-      },
-      "skill":{
-         "name":"Snipurr",
-         "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/meowfficer/Antenna.png",
-         "general":{
-            "level1":[
-               "When engaging an enemy Vanguard or Main Fleet",
-               "Increases the Accuracy of your BBs, BCs, and BBVs by a large amount based on the Tactics stat."
-            ],
-            "level2":[
-               "When assigned to a fleet with a BB, BC, or BBV as its Flagship",
-               "Increases the DMG the Flagship deals based on the Directives stat."
-            ],
-            "level3":[
-               "None",
-               "Increases the EVA and AA of your BBs, BCs, and BBVs by a moderate amount based on the Directives stat."
-            ]
-         },
-         "opsi":{
-            "level1":[
-               "None",
-               "None"
-            ],
-            "level2":[
-               "None",
-               "None"
-            ],
-            "level3":[
-               "None",
-               "None"
-            ]
-         }
-      },
-      "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Antenna/Antenna.png",
-      "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Antenna/AntennaIcon.png",
-      "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Antenna/AntennaBanner.png"
-   },
-   {
-      "name":"Bunny",
-      "rarity":"Elite",
-      "type":"DD",
-      "slot":"Command",
-      "timer":"06:09:00",
-      "faction":"Eagle Union",
-      "color":"purple",
-      "stats":{
-         "logistics":[
-            43,
-            141
-         ],
-         "directives":[
-            55,
-            180
-         ],
-         "tactics":[
-            36,
-            118
-         ]
-      },
-      "skill":{
-         "name":"Bite Their Fingers",
-         "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/meowfficer/Bunny.png",
-         "general":{
-            "level1":[
-               "When assigned as the Command Cat to a fleet that has at least 1 DD",
-               "15% chance to launch a preemptive torpedo strike when engaging any non-Boss fleet on the map."
-            ],
-            "level2":[
-               "Once per battle, when a DD is the frontmost ship of your Vanguard",
-               "Activates Meowfficer Barrage I when in close proximity to an enemy"
-            ],
-            "level3":[
-               "None",
-               "Upgrades Meowfficer Barrage I to Meowfficer Barrage II."
-            ]
-         },
-         "opsi":{
-            "level1":[
-               "When assigned as the Command Cat",
-               "Increases your Vanguard's TRP by a small amount based on the Directives stat."
-            ],
-            "level2":[
-               "None",
-               "None"
-            ],
-            "level3":[
-               "None",
-               "None"
-            ]
-         }
-      },
-      "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/USS/EagleUnionMeowfficer.png",
-      "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/USS/EagleUnionMeowfficerIcon.png",
-      "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/USS/EagleUnionMeowfficerBanner.png"
-   },
-   {
-      "name":"Eagle",
-      "rarity":"Elite",
-      "type":"CV/CVL",
-      "slot":"Staff",
-      "timer":"05:36:00",
-      "faction":"Eagle Union",
-      "color":"purple",
-      "stats":{
-         "logistics":[
-            33,
-            108
-         ],
-         "directives":[
-            52,
-            171
-         ],
-         "tactics":[
-            49,
-            161
-         ]
-      },
-      "skill":{
-         "name":"Nine Lives",
-         "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/meowfficer/Eagle.png",
-         "general":{
-            "level1":[
-               "When assigned as the Staff Cat",
-               "Increases the RLD of your CVs and CVLs by a small amount based on the Tactics stat."
-            ],
-            "level2":[
-               "When the fleet runs into an Airstrike on the map",
-               "Gives a chance to completely evade the Airstrike based on the Tactics stat."
-            ],
-            "level3":[
-               "When assigned as the Staff Cat",
-               "Increases the AVI of your CVs and CVLs by a moderate amount based on the Directives stat."
-            ]
-         },
-         "opsi":{
-            "level1":[
-               "None",
-               "None"
-            ],
-            "level2":[
-               "When assigned as the Staff Cat",
-               "Increases the EVA of your CVs and CVLs by a small amount based on the Tactics stat."
-            ],
-            "level3":[
-               "None",
-               "None"
-            ]
-         }
-      },
-      "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/USS/EagleUnionMeowfficer.png",
-      "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/USS/EagleUnionMeowfficerIcon.png",
-      "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/USS/EagleUnionMeowfficerBanner.png"
-   },
-   {
-      "name":"Lady",
-      "rarity":"Rare",
-      "type":"CV/CVL",
-      "slot":"Staff",
-      "timer":"02:03:00",
-      "faction":"Eagle Union",
-      "color":"blue",
-      "stats":{
-         "logistics":[
-            28,
-            92
-         ],
-         "directives":[
-            40,
-            131
-         ],
-         "tactics":[
-            52,
-            171
-         ]
-      },
-      "skill":{
-         "name":"Carrier Boost",
-         "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/meowfficer/Buff.png",
-         "general":{
-            "level1":[
-               "When assigned as the Staff Cat",
-               "Increases the RLD of your CVs and CVLs by a small amount based on the Logistics stat."
-            ],
-            "level2":[
-               "When assigned as the Staff Cat",
-               "Increases the AVI of your CVs and CVLs by a small amount based on the Directives stat."
-            ],
-            "level3":[
-               "When assigned as the Staff Cat",
-               "Increases the Accuracy of your CVs and CVLs by a small amount based on the Tactics stat."
-            ]
-         },
-         "opsi":{
-            "level1":[
-               "None",
-               "None"
-            ],
-            "level2":[
-               "None",
-               "None"
-            ],
-            "level3":[
-               "None",
-               "None"
-            ]
-         }
-      },
-      "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Common/CommonMeowfficer.png",
-      "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Common/CommonMeowfficerIcon.png",
-      "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Common/CommonMeowfficerBanner.png"
-   },
-   {
-      "name":"SG",
-      "rarity":"Rare",
-      "type":"CL/CA/CB",
-      "slot":"Staff",
-      "timer":"02:25:00",
-      "faction":"Eagle Union",
-      "color":"blue",
-      "stats":{
-         "logistics":[
-            41,
-            134
-         ],
-         "directives":[
-            51,
-            167
-         ],
-         "tactics":[
-            26,
-            85
-         ]
-      },
-      "skill":{
-         "name":"Recon Boost",
-         "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/meowfficer/SG.png",
-         "general":{
-            "level1":[
-               "None",
-               "Decrease the fleet's chance of running into an ambush based on the Logistics stat."
-            ],
-            "level2":[
-               "When assigned as the Staff Cat",
-               "Increases the Accuracy of your CLs, CAs, and CBs by a small amount based on the Tactics stat."
-            ],
-            "level3":[
-               "When assigned as the Staff Cat",
-               "Increases the FP of your CLs, CAs, and CBs by a small amount based on the Directives stat."
-            ]
-         },
-         "opsi":{
-            "level1":[
-               "When assigned as the Staff Cat",
-               "Increases the EVA of your CLs, CAs, and CBs by a small amount based on the Logistics stat."
-            ],
-            "level2":[
-               "None",
-               "None"
-            ],
-            "level3":[
-               "None",
-               "None"
-            ]
-         }
-      },
-      "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Common/CommonMeowfficer.png",
-      "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Common/CommonMeowfficerIcon.png",
-      "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Common/CommonMeowfficerBanner.png"
-   },
-   {
-      "name":"Lime",
-      "rarity":"Super Rare",
-      "type":"BB/BC/BBV",
-      "slot":"Staff",
-      "timer":"10:05:00",
-      "faction":"Royal Navy",
-      "color":"gold",
-      "stats":{
-         "logistics":[
-            55,
-            180
-         ],
-         "directives":[
-            52,
-            171
-         ],
-         "tactics":[
-            58,
-            190
-         ]
-      },
-      "skill":{
-         "name":"Churchill's Blessing",
-         "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/meowfficer/Lime.png",
-         "general":{
-            "level1":[
-               "When assigned as the Staff Cat",
-               "Increases the FP and AA of your BBs, BCs, and BBVs by a moderate amount based on the Directives stat."
-            ],
-            "level2":[
-               "When assigned as the Staff Cat and when in coastal battle (i.e. fighting on a tile adjacent to impassable land)",
-               "Increases the entire fleet's FP by a moderate amount based on the Tactics stat."
-            ],
-            "level3":[
-               "None",
-               "Increases the DMG your BBs, BCs, and BBVs deal based on Tactical stat."
-            ]
-         },
-         "opsi":{
-            "level1":[
-               "None",
-               "None"
-            ],
-            "level2":[
-               "When assigned as the Staff Cat",
-               "For 30s after the battle starts, increases the entire fleet's FP by a moderate amount based on the Tactics stat."
-            ],
-            "level3":[
-               "None",
-               "None"
-            ]
-         }
-      },
-      "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Lime/Lime.png",
-      "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Lime/LimeIcon.png",
-      "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Lime/LimeBanner.png"
-   },
-   {
-      "name":"Pound",
-      "rarity":"Super Rare",
-      "type":"BB/BC/BBV",
-      "slot":"Command",
-      "timer":"10:27:00",
-      "faction":"Royal Navy",
-      "color":"gold",
-      "stats":{
-         "logistics":[
-            67,
-            220
-         ],
-         "directives":[
-            59,
-            194
-         ],
-         "tactics":[
-            36,
-            118
-         ]
-      },
-      "skill":{
-         "name":"Rule Britannya",
-         "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/meowfficer/Pound.png",
-         "general":{
-            "level1":[
-               "When assigned as the Command Cat",
-               "Increases the FP and AA of your BBs, BCs, and BBVs by a moderate mount based on the Directives stat."
-            ],
-            "level2":[
-               "When assigned as the Command Cat to a fleet with at least 4 Royal Navy ships",
-               "Decreases the DMG your vanguard takes for 30s after battle starts based on the Logistics stat."
-            ],
-            "level3":[
-               "When assigned as the Command Cat",
-               "Increases the Evasion of your Royal Navy ships by a large amount based on the Logistics stat."
-            ]
-         },
-         "opsi":{
-            "level1":[
-               "None",
-               "None"
-            ],
-            "level2":[
-               "None",
-               "None"
-            ],
-            "level3":[
-               "None",
-               "None"
-            ]
-         }
-      },
-      "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Pound/Pound.png",
-      "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Pound/PoundIcon.png",
-      "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Pound/PoundBanner.png"
-   },
-   {
-      "name":"Pepper",
-      "rarity":"Elite",
-      "type":"CL/CA/CB",
-      "slot":"Staff",
-      "timer":"06:16:00",
-      "faction":"Royal Navy",
-      "color":"purple",
-      "stats":{
-         "logistics":[
-            44,
-            144
-         ],
-         "directives":[
-            50,
-            164
-         ],
-         "tactics":[
-            45,
-            148
-         ]
-      },
-      "skill":{
-         "name":"Commerce Purrsuiter",
-         "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/meowfficer/Pepper.png",
-         "general":{
-            "level1":[
-               "When assigned as the Staff Cat",
-               "Increases the EVA of your CLs, CAs, and CBs by a small amount based on the Logistics stat."
-            ],
-            "level2":[
-               "When assigned as the Staff Cat and when engaging an enemy Cargo Fleet",
-               "Increases the FP of your CLs, CAs, and CBs by a large amount based on the Tactics stat."
-            ],
-            "level3":[
-               "When assigned as the Staff Cat",
-               "Increases the TRP of your CLs, CAs, and CBs by a moderate amount based on Directives stat."
-            ]
-         },
-         "opsi":{
-            "level1":[
-               "None",
-               "None"
-            ],
-            "level2":[
-               "None",
-               "None"
-            ],
-            "level3":[
-               "None",
-               "None"
-            ]
-         }
-      },
-      "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/HMS/RoyalNavyMeowfficer.png",
-      "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/HMS/RoyalNavyMeowfficerIcon.png",
-      "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/HMS/RoyalNavyMeowfficerBanner.png"
-   },
-   {
-      "name":"Soup",
-      "rarity":"Elite",
-      "type":"DD",
-      "slot":"Staff",
-      "timer":"05:30:00",
-      "faction":"Royal Navy",
-      "color":"purple",
-      "stats":{
-         "logistics":[
-            39,
-            128
-         ],
-         "directives":[
-            55,
-            180
-         ],
-         "tactics":[
-            33,
-            108
-         ]
-      },
-      "skill":{
-         "name":"Purrceptive",
-         "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/meowfficer/Soup.png",
-         "general":{
-            "level1":[
-               "When assigned as the Staff Cat and when engaging an enemy Vanguard Fleet",
-               "Increases the Accuracy of your DDs by a moderate amount based on the Tactics stat."
-            ],
-            "level2":[
-               "When assigned as the Staff Cat",
-               "Increases the EVA of your DDs by a small amount based on the Logistics stat."
-            ],
-            "level3":[
-               "When assigned to a fleet that is within 3 tiles of an enemy Vanguard Fleet",
-               "Gives your fleet +1 tile movement on the map."
-            ]
-         },
-         "opsi":{
-            "level1":[
-               "None",
-               "None"
-            ],
-            "level2":[
-               "None",
-               "None"
-            ],
-            "level3":[
-               "When an enemy Recon Fleet is within 3 tiles of the fleet this Meowfficer is assigned to:",
-               "Increases the EVA of your DDs by a small amount based on the Directives stat."
-            ]
-         }
-      },
-      "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/HMS/RoyalNavyMeowfficer.png",
-      "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/HMS/RoyalNavyMeowfficerIcon.png",
-      "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/HMS/RoyalNavyMeowfficerBanner.png"
-   },
-   {
-      "name":"Marble",
-      "rarity":"Elite",
-      "type":"BB/BC/BBV",
-      "slot":"Staff",
-      "timer":"07:26:00",
-      "faction":"Royal Navy",
-      "color":"purple",
-      "stats":{
-         "logistics":[
-            23,
-            75
-         ],
-         "directives":[
-            64,
-            210
-         ],
-         "tactics":[
-            44,
-            144
-         ]
-      },
-      "skill":{
-         "name":"Sophissticated",
-         "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/meowfficer/Marble.png",
-         "general":{
-            "level1":[
-               "None",
-               "Decreases the chance of the fleet running into an Airstrike on the map based on the Logistics stat."
-            ],
-            "level2":[
-               "When assigned as the Staff Cat",
-               "Increases the RLD of your BBs, BCs, and BBVs by a small amount based on the Directives stat."
-            ],
-            "level3":[
-               "When assigned as the Staff Cat",
-               "Increases the FP of your Royal Navy ships by a small amount based on the Tactics stat."
-            ]
-         },
-         "opsi":{
-            "level1":[
-               "When assigned as the Staff Cat",
-               "Increases the EVA of your BBs, BCs, and BBVs by a small amount based on the Logistics stat."
-            ],
-            "level2":[
-               "None",
-               "None"
-            ],
-            "level3":[
-               "None",
-               "None"
-            ]
-         }
-      },
-      "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/HMS/RoyalNavyMeowfficer.png",
-      "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/HMS/RoyalNavyMeowfficerIcon.png",
-      "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/HMS/RoyalNavyMeowfficerBanner.png"
-   },
-   {
-      "name":"Ark",
-      "rarity":"Elite",
-      "type":"CV/CVL",
-      "slot":"Staff",
-      "timer":"06:43:00",
-      "faction":"Royal Navy",
-      "color":"purple",
-      "stats":{
-         "logistics":[
-            39,
-            128
-         ],
-         "directives":[
-            48,
-            157
-         ],
-         "tactics":[
-            44,
-            144
-         ]
-      },
-      "skill":{
-         "name":"Tiddles' Legacy",
-         "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/meowfficer/Ark.png",
-         "general":{
-            "level1":[
-               "When assigned as the Staff Cat",
-               "Increases the Accuracy of your CVs and CVLs by a small amount based on the Tactics stat."
-            ],
-            "level2":[
-               "When assigned to a fleet that is within 2 tiles of an enemy Vanguard Fleet",
-               "Gives your fleet +1 tile movement on the map."
-            ],
-            "level3":[
-               "When assigned as the Staff Cat",
-               "Increases the AVI of your CVs and CVLs by a moderate amount based on the Directives stat."
-            ]
-         },
-         "opsi":{
-            "level1":[
-               "None",
-               "None"
-            ],
-            "level2":[
-               "When an enemy Recon Fleet is within 2 tiles of the fleet this Meowfficer is assigned to:",
-               "Increases the EVA of your DDs by a small amount based on the Logistics stat."
-            ],
-            "level3":[
-               "None",
-               "None"
-            ]
-         }
-      },
-      "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/HMS/RoyalNavyMeowfficer.png",
-      "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/HMS/RoyalNavyMeowfficerIcon.png",
-      "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/HMS/RoyalNavyMeowfficerBanner.png"
-   },
-   {
-      "name":"Rose",
-      "rarity":"Rare",
-      "type":"BB/BC/BBV",
-      "slot":"Staff",
-      "timer":"02:17:00",
-      "faction":"Royal Navy",
-      "color":"blue",
-      "stats":{
-         "logistics":[
-            64,
-            210
-         ],
-         "directives":[
-            29,
-            95
-         ],
-         "tactics":[
-            23,
-            75
-         ]
-      },
-      "skill":{
-         "name":"Battleship Boost",
-         "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/meowfficer/Buff.png",
-         "general":{
-            "level1":[
-               "When assigned as the Staff Cat",
-               "Increases the RLD of your BBs, BCs, and BBVs by a small amount based on the Logistics stat."
-            ],
-            "level2":[
-               "When assigned as the Staff Cat",
-               "Increases the Accuracy of your BBs, BCs, and BBVs by a small amount based on the Logistics stat."
-            ],
-            "level3":[
-               "When assigned as the Staff Cat",
-               "Increases the FP of your BBs, BCs, and BBVs by a small amount based on the Logistics stat."
-            ]
-         },
-         "opsi":{
-            "level1":[
-               "None",
-               "None"
-            ],
-            "level2":[
-               "None",
-               "None"
-            ],
-            "level3":[
-               "None",
-               "None"
-            ]
-         }
-      },
-      "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Common/CommonMeowfficer.png",
-      "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Common/CommonMeowfficerIcon.png",
-      "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Common/CommonMeowfficerBanner.png"
-   },
-   {
-      "name":"Bugles",
-      "rarity":"Rare",
-      "type":"CL/CA/CB",
-      "slot":"Staff",
-      "timer":"01:39:00",
-      "faction":"Royal Navy",
-      "color":"blue",
-      "stats":{
-         "logistics":[
-            29,
-            95
-         ],
-         "directives":[
-            38,
-            125
-         ],
-         "tactics":[
-            52,
-            171
-         ]
-      },
-      "skill":{
-         "name":"Cruiser Tactics",
-         "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/meowfficer/Buff.png",
-         "general":{
-            "level1":[
-               "When assigned as the Staff Cat",
-               "Increases the FP of your CLs, CAs, and CBs by a small amount based on the Tactics stat."
-            ],
-            "level2":[
-               "When assigned as the Staff Cat",
-               "Increases the Accuracy of your CLs, CAs, and CBs by a small amount based on the Tactics stat."
-            ],
-            "level3":[
-               "When assigned as the Staff Cat",
-               "Increases the EVA of your CLs, CAs, and CBs by a small amount based on the Tactics stat."
-            ]
-         },
-         "opsi":{
-            "level1":[
-               "None",
-               "None"
-            ],
-            "level2":[
-               "None",
-               "None"
-            ],
-            "level3":[
-               "None",
-               "None"
-            ]
-         }
-      },
-      "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Common/CommonMeowfficer.png",
-      "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Common/CommonMeowfficerIcon.png",
-      "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Common/CommonMeowfficerBanner.png"
-   },
-   {
-      "name":"Bishamaru",
-      "rarity":"Super Rare",
-      "type":"CV/CVL",
-      "slot":"Staff",
-      "timer":"09:58:00",
-      "faction":"Sakura Empire",
-      "color":"gold",
-      "stats":{
-         "logistics":[
-            38,
-            125
-         ],
-         "directives":[
-            49,
-            161
-         ],
-         "tactics":[
-            68,
-            223
-         ]
-      },
-      "skill":{
-         "name":"Paws of Fury",
-         "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/meowfficer/Bishamaru.png",
-         "general":{
-            "level1":[
-               "When assigned as the Staff Cat",
-               "Increases the AVI and RLD of your CVs and CVLs by a small amount based on the Directives stat."
-            ],
-            "level2":[
-               "None",
-               "Decreases the fleet's chance of running into an Ambush based on the Logistics stat."
-            ],
-            "level3":[
-               "Once per battle, if your fleet consists of only 1 CV or CVL",
-               "Quickens the load time of your CV's/CVL's first Airstrike by 8.0% and launches an additional Torpedo Bomber airstrike once."
-            ]
-         },
-         "opsi":{
-            "level1":[
-               "None",
-               "None"
-            ],
-            "level2":[
-               "When assigned as the Staff Cat",
-               "Increases the EVA of your CVs and CVLs by a small amount based on the Logistics stat."
-            ],
-            "level3":[
-               "None",
-               "None"
-            ]
-         }
-      },
-      "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Bishamaru/Bishamaru.png",
-      "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Bishamaru/BishamaruIcon.png",
-      "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Bishamaru/BishamaruBanner.png"
-   },
-   {
-      "name":"Takemaru",
-      "rarity":"Super Rare",
-      "type":"CL/CA/CB",
-      "slot":"Command",
-      "timer":"09:40:00",
-      "faction":"Sakura Empire",
-      "color":"gold",
-      "stats":{
-         "logistics":[
-            30,
-            98
-         ],
-         "directives":[
-            62,
-            203
-         ],
-         "tactics":[
-            66,
-            217
-         ]
-      },
-      "skill":{
-         "name":"Ironbottom Tail Swipe",
-         "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/meowfficer/Takemaru.png",
-         "general":{
-            "level1":[
-               "When assigned as the Command Cat",
-               "Increases the FP and TRP of your CLs, CAs, and CBs by a moderate amount based on the Tactics stat."
-            ],
-            "level2":[
-               "When assigned as the Command Cat to a fleet that is within 2 tiles of an enemy Main Fleet",
-               "Decreases the DMG your Flagship takes based on the Directives stat."
-            ],
-            "level3":[
-               "For 30s after the battle starts when assigned as the Command Cat and when engaging an enemy Main Fleet",
-               "Increases the Accuracy and EVA of your CLs, CAs, and CBs by a large amount based on Tactics stat."
-            ]
-         },
-         "opsi":{
-            "level1":[
-               "None",
-               "None"
-            ],
-            "level2":[
-               "None",
-               "None"
-            ],
-            "level3":[
-               "None",
-               "None"
-            ]
-         }
-      },
-      "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Takemaru/Takemaru.png",
-      "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Takemaru/TakemaruIcon.png",
-      "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Takemaru/TakemaruBanner.png"
-   },
-   {
-      "name":"Jiromaru",
-      "rarity":"Elite",
-      "type":"CV/CVL",
-      "slot":"Staff",
-      "timer":"05:37:00",
-      "faction":"Sakura Empire",
-      "color":"purple",
-      "stats":{
-         "logistics":[
-            33,
-            108
-         ],
-         "directives":[
-            61,
-            200
-         ],
-         "tactics":[
-            41,
-            134
-         ]
-      },
-      "skill":{
-         "name":"Belly Flop Bombardment",
-         "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/meowfficer/Jiromaru.png",
-         "general":{
-            "level1":[
-               "When assigned as the Staff Cat",
-               "Increases the Accuracy of your CVs and CVLs by a small amount based on the Tactics stat."
-            ],
-            "level2":[
-               "When assigned as the Staff Cat",
-               "Increases the AVI of your CVs and CVLs by a moderate amount based on the Directives stat."
-            ],
-            "level3":[
-               "When assigned to a fleet that has at least 1 CV or CVL",
-               "15% chance to launch a preemptive airstrike when engaging any non-Boss fleet on the map. The DMG of the airstrike is based on the Tactics stat as well as the Level and Fleet Power of both sides."
-            ]
-         },
-         "opsi":{
-            "level1":[
-               "None",
-               "None"
-            ],
-            "level2":[
-               "None",
-               "None"
-            ],
-            "level3":[
-               "When assigned to a fleet with a Flagship that is a CV or CVL",
-               "Launches an airstrike 15s after the battle starts."
-            ]
-         }
-      },
-      "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/IJN/SakuraEmpireMeowfficer.png",
-      "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/IJN/SakuraEmpireMeowfficerIcon.png",
-      "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/IJN/SakuraEmpireMeowfficerBanner.png"
-   },
-   {
-      "name":"Yoshimaru",
-      "rarity":"Elite",
-      "type":"DD",
-      "slot":"Staff",
-      "timer":"06:23:00",
-      "faction":"Sakura Empire",
-      "color":"purple",
-      "stats":{
-         "logistics":[
-            36,
-            118
-         ],
-         "directives":[
-            62,
-            203
-         ],
-         "tactics":[
-            36,
-            118
-         ]
-      },
-      "skill":{
-         "name":"Feral Instincts",
-         "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/meowfficer/Yoshimaru.png",
-         "general":{
-            "level1":[
-               "When assigned as the Staff Cat",
-               "Increases the EVA of your DDs by a small amount based on the Directives stat."
-            ],
-            "level2":[
-               "When assigned as the Staff Cat",
-               "Increases the TRP of your DDs by a moderate amount based on the Logistics stat."
-            ],
-            "level3":[
-               "When assigned as the Staff Cat and when your Vanguard consists of only 1 DD",
-               "Increases your DD's TRP by a large amount based on the Directives stat."
-            ]
-         },
-         "opsi":{
-            "level1":[
-               "None",
-               "None"
-            ],
-            "level2":[
-               "None",
-               "None"
-            ],
-            "level3":[
-               "None",
-               "None"
-            ]
-         }
-      },
-      "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/IJN/SakuraEmpireMeowfficer.png",
-      "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/IJN/SakuraEmpireMeowfficerIcon.png",
-      "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/IJN/SakuraEmpireMeowfficerBanner.png"
-   },
-   {
-      "name":"Asamaru",
-      "rarity":"Rare",
-      "type":"CL/CA/CB",
-      "slot":"Staff",
-      "timer":"02:06:00",
-      "faction":"Sakura Empire",
-      "color":"blue",
-      "stats":{
-         "logistics":[
-            24,
-            78
-         ],
-         "directives":[
-            48,
-            157
-         ],
-         "tactics":[
-            40,
-            131
-         ]
-      },
-      "skill":{
-         "name":"Cruiser Directives",
-         "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/meowfficer/Buff.png",
-         "general":{
-            "level1":[
-               "When assigned as the Staff Cat",
-               "Increases the FP of your CLs, CAs, and CBs by a small amount based on the Directives stat."
-            ],
-            "level2":[
-               "When assigned as the Staff Cat",
-               "Increases the TRP of your CLs, CAs, and CBs by a small amount based on the Logistics stat."
-            ],
-            "level3":[
-               "When assigned as the Staff Cat",
-               "Increases the TRP of your CLs, CAs, and CBs by a small amount based on the Directives stat."
-            ]
-         },
-         "opsi":{
-            "level1":[
-               "None",
-               "None"
-            ],
-            "level2":[
-               "None",
-               "None"
-            ],
-            "level3":[
-               "None",
-               "None"
-            ]
-         }
-      },
-      "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Common/CommonMeowfficer.png",
-      "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Common/CommonMeowfficerIcon.png",
-      "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Common/CommonMeowfficerBanner.png"
-   },
-   {
-      "name":"Katsumaru",
-      "rarity":"Rare",
-      "type":"BB/BC/BBV",
-      "slot":"Staff",
-      "timer":"01:55:00",
-      "faction":"Sakura Empire",
-      "color":"blue",
-      "stats":{
-         "logistics":[
-            36,
-            118
-         ],
-         "directives":[
-            47,
-            154
-         ],
-         "tactics":[
-            32,
-            105
-         ]
-      },
-      "skill":{
-         "name":"Battleship Support",
-         "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/meowfficer/Buff.png",
-         "general":{
-            "level1":[
-               "When assigned as the Staff Cat",
-               "Increases the Accuracy of your BBs, BCs, and BBVs by a small amount based on the Logistics stat."
-            ],
-            "level2":[
-               "When assigned as the Staff Cat",
-               "Increases the AA of your BBs, BCs, and BBVs by a small amount based on the Directives stat."
-            ],
-            "level3":[
-               "When assigned as the Staff Cat",
-               "Increases the FP of your BBs, BCs, and BBVs by a small amount based on the Tactics stat."
-            ]
-         },
-         "opsi":{
-            "level1":[
-               "None",
-               "None"
-            ],
-            "level2":[
-               "None",
-               "None"
-            ],
-            "level3":[
-               "None",
-               "None"
-            ]
-         }
-      },
-      "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Common/CommonMeowfficer.png",
-      "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Common/CommonMeowfficerIcon.png",
-      "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Common/CommonMeowfficerBanner.png"
-   },
-   {
-      "name":"Steel",
-      "rarity":"Super Rare",
-      "type":"SS",
-      "slot":"General",
-      "timer":"09:35:00",
-      "faction":"Iron Blood",
-      "color":"gold",
-      "stats":{
-         "logistics":[
-            40,
-            131
-         ],
-         "directives":[
-            66,
-            217
-         ],
-         "tactics":[
-            52,
-            171
-         ]
-      },
-      "skill":{
-         "name":"Silent Hunter",
-         "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/meowfficer/Steel.png",
-         "general":{
-            "level1":[
-               "None",
-               "Increases TRP of your SSs and SSVs by a small amount based on the Directives and Logistics stat."
-            ],
-            "level2":[
-               "None",
-               "Increases ASR by 1 level."
-            ],
-            "level3":[
-               "None",
-               "Increases the DMG dealt to enemy fleets while in Attack Mode based on the Tactics stat."
-            ]
-         },
-         "opsi":{
-            "level1":[
-               "None",
-               "None"
-            ],
-            "level2":[
-               "When assigned as the Command Cat",
-               "Increases the OXY of your SSs by 15."
-            ],
-            "level3":[
-               "When assigned as the Command Cat",
-               "Fires a special barrage after the Flagship of your Submarine Fleet enters battle."
-            ]
-         }
-      },
-      "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Steel/Steel.png",
-      "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Steel/SteelIcon.png",
-      "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Steel/SteelBanner.png"
-   },
-   {
-      "name":"Oscar",
-      "rarity":"Super Rare",
-      "type":"BB/BC/BBV",
-      "slot":"Staff",
-      "timer":"10:03:00",
-      "faction":"Iron Blood",
-      "color":"gold",
-      "stats":{
-         "logistics":[
-            37,
-            101
-         ],
-         "directives":[
-            66,
-            217
-         ],
-         "tactics":[
-            54,
-            177
-         ]
-      },
-      "skill":{
-         "name":"Unsinkable Oscar",
-         "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/meowfficer/Oscar.png",
-         "general":{
-            "level1":[
-               "When assigned as the Staff Cat",
-               "Increases the FP and Accuracy of your BBs, BCs, BBVs by a moderate amount based on Directives stat."
-            ],
-            "level2":[
-               "When assigned as the Staff Cat to a fleet that has at least 1 BB, BC, or BBV",
-               "15.0% chance to launch a preemptive volley when engaging an enemy Vanguard Fleet. The DMG of the volley is based on the Directives stat as well as the Level and Fleet Power of both sides."
-            ],
-            "level3":[
-               "When assigned as the Staff Cat and when engaging an enemy Main Fleet",
-               "Decreases the DMG your BBs, BCs, and BBVs take and increases their RLD based on the Logistics stat."
-            ]
-         },
-         "opsi":{
-            "level1":[
-               "None",
-               "None"
-            ],
-            "level2":[
-               "When assigned as the Staff Cat and the Flagship of your fleet is a BB, BC, or BBV",
-               "50% chance to fire a special barrage 20s after the battle starts."
-            ],
-            "level3":[
-               "None",
-               "None"
-            ]
-         }
-      },
-      "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Oscar/Oscar.png",
-      "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Oscar/OscarIcon.png",
-      "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Oscar/OscarBanner.png"
-   },
-   {
-      "name":"Potato",
-      "rarity":"Elite",
-      "type":"BB/BC/BBV",
-      "slot":"Staff",
-      "timer":"06:45:00",
-      "faction":"Iron Blood",
-      "color":"purple",
-      "stats":{
-         "logistics":[
-            35,
-            115
-         ],
-         "directives":[
-            56,
-            184
-         ],
-         "tactics":[
-            43,
-            141
-         ]
-      },
-      "skill":{
-         "name":"Paladin of the Sea",
-         "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/meowfficer/Potato.png",
-         "general":{
-            "level1":[
-               "When assigned as the Staff Cat",
-               "Increases the Evasion of your BBs, BCs, and BBVs by a small amount based on the Directives stat."
-            ],
-            "level2":[
-               "When assigned as the Staff Cat",
-               "Increases the Accuracy of your BBs, BCs, and BBVs by a moderate amount based on the Tactics stat."
-            ],
-            "level3":[
-               "When engaging an enemy Main Fleet",
-               "Decreases the DMG your Flagship takes based on the Tactics stat."
-            ]
-         },
-         "opsi":{
-            "level1":[
-               "None",
-               "None"
-            ],
-            "level2":[
-               "None",
-               "None"
-            ],
-            "level3":[
-               "None",
-               "None"
-            ]
-         }
-      },
-      "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/KMS/IronBloodMeowfficer.png",
-      "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/KMS/IronBloodMeowfficerIcon.png",
-      "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/KMS/IronBloodMeowfficerBanner.png"
-   },
-   {
-      "name":"Edelweiss",
-      "rarity":"Elite",
-      "type":"SS",
-      "slot":"Staff",
-      "timer":"05:57:00",
-      "faction":"Iron Blood",
-      "color":"purple",
-      "stats":{
-         "logistics":[
-            34,
-            111
-         ],
-         "directives":[
-            59,
-            194
-         ],
-         "tactics":[
-            41,
-            134
-         ]
-      },
-      "skill":{
-         "name":"Champion of the Sea",
-         "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/meowfficer/Edelweiss.png",
-         "general":{
-            "level1":[
-               "When assigned as the Staff Cat",
-               "Increases the TRP of your SSs and SSVs by a small amount based on the Directives stat."
-            ],
-            "level2":[
-               "When assigned as the Staff Cat",
-               "Increase the Accuracy of your SSs and SSVs by a moderate amount based on the Directives stat."
-            ],
-            "level3":[
-               "None",
-               "Increase ASR by 1 level."
-            ]
-         },
-         "opsi":{
-            "level1":[
-               "None",
-               "None"
-            ],
-            "level2":[
-               "None",
-               "None"
-            ],
-            "level3":[
-               "When assigned as the Staff Cat",
-               "Increases the OXY of your SSs by 5."
-            ]
-         }
-      },
-      "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/KMS/IronBloodMeowfficer.png",
-      "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/KMS/IronBloodMeowfficerIcon.png",
-      "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/KMS/IronBloodMeowfficerBanner.png"
-   },
-   {
-      "name":"Gral",
-      "rarity":"Elite",
-      "type":"SS",
-      "slot":"Staff",
-      "timer":"05:52:00",
-      "faction":"Iron Blood",
-      "color":"purple",
-      "stats":{
-         "logistics":[
-            32,
-            105
-         ],
-         "directives":[
-            51,
-            167
-         ],
-         "tactics":[
-            48,
-            157
-         ]
-      },
-      "skill":{
-         "name":"Sentinel of the Sea",
-         "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/meowfficer/Gral.png",
-         "general":{
-            "level1":[
-               "When assigned as the Staff Cat",
-               "Increases the TRP of your SSs and SSVs by a small amount based on the Directives stat."
-            ],
-            "level2":[
-               "When assigned as the Staff Cat",
-               "Increases the EVA of your SSs and SSVs by a moderate amount based on the Directives stat."
-            ],
-            "level3":[
-               "When assigned as the Staff Cat of the Submarine Fleet and when a fleet with a BB, BC, or BBV as its Flagship calls in Submarine Support",
-               "Increases the Accuracy of your SSs and SSVs by a moderate amount based on the Directives stat."
-            ]
-         },
-         "opsi":{
-            "level1":[
-               "None",
-               "None"
-            ],
-            "level2":[
-               "None",
-               "None"
-            ],
-            "level3":[
-               "None",
-               "None"
-            ]
-         }
-      },
-      "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/KMS/IronBloodMeowfficer.png",
-      "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/KMS/IronBloodMeowfficerIcon.png",
-      "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/KMS/IronBloodMeowfficerBanner.png"
-   },
-   {
-      "name":"Tofu",
-      "rarity":"Rare",
-      "type":"CL/CA/CB",
-      "slot":"Staff",
-      "timer":"01:54:00",
-      "faction":"Iron Blood",
-      "color":"blue",
-      "stats":{
-         "logistics":[
-            37,
-            121
-         ],
-         "directives":[
-            46,
-            151
-         ],
-         "tactics":[
-            36,
-            118
-         ]
-      },
-      "skill":{
-         "name":"Cruiser Boost",
-         "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/meowfficer/Buff.png",
-         "general":{
-            "level1":[
-               "When assigned as the Staff Cat",
-               "Increases the EVA of your CLs, CAs, and CBs by a small amount based on the Logistics stat."
-            ],
-            "level2":[
-               "When assigned as the Staff Cat",
-               "Increases the FP of your CLs, CAs, and CBs by a small amount based on the Logistics stat."
-            ],
-            "level3":[
-               "When assigned as the Staff Cat",
-               "Increases the FP of your CLs, CAs, and CBs by a small amount based on the Directives stat."
-            ]
-         },
-         "opsi":{
-            "level1":[
-               "None",
-               "None"
-            ],
-            "level2":[
-               "None",
-               "None"
-            ],
-            "level3":[
-               "None",
-               "None"
-            ]
-         }
-      },
-      "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Common/CommonMeowfficer.png",
-      "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Common/CommonMeowfficerIcon.png",
-      "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Common/CommonMeowfficerBanner.png"
-   },
-   {
-      "name":"Beer",
-      "rarity":"Rare",
-      "type":"DD",
-      "slot":"Staff",
-      "timer":"02:32:00",
-      "faction":"Iron Blood",
-      "color":"blue",
-      "stats":{
-         "logistics":[
-            28,
-            92
-         ],
-         "directives":[
-            41,
-            134
-         ],
-         "tactics":[
-            49,
-            161
-         ]
-      },
-      "skill":{
-         "name":"Destroyer Directives",
-         "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/meowfficer/Buff.png",
-         "general":{
-            "level1":[
-               "When assigned as the Staff Cat",
-               "Increases the EVA of your DDs by a small amount based on the Directives stat."
-            ],
-            "level2":[
-               "When assigned as the Staff Cat",
-               "Increases the Accuracy of your DDs by a small amount based on the Tactics stat."
-            ],
-            "level3":[
-               "When assigned as the Staff Cat",
-               "Increases the TRP of your DDs by a small amount based on the Logistics stat."
-            ]
-         },
-         "opsi":{
-            "level1":[
-               "None",
-               "None"
-            ],
-            "level2":[
-               "None",
-               "None"
-            ],
-            "level3":[
-               "None",
-               "None"
-            ]
-         }
-      },
-      "image":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Common/CommonMeowfficer.png",
-      "icon":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Common/CommonMeowfficerIcon.png",
-      "banner":"https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/Common/CommonMeowfficerBanner.png"
-   }
+  {
+    "id": "10011",
+    "name": "Justice",
+    "rarity": "Super Rare",
+    "type": ["DD"],
+    "slot": "Command",
+    "timer": "10:24:00",
+    "faction": "Eagle Union",
+    "color": "gold",
+    "stats": {
+      "command": 52,
+      "support": 44,
+      "tactics": 65
+    },
+    "skill": {
+      "name": "31 Knots of Justice",
+      "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/1001.png",
+      "level": {
+        "1": {
+          "desc": "When assigned to a fleet with 3 DDs: gives your fleet +1 tile movement on the map.",
+          "opsi": "When assigned to a fleet with 3 DDs: increases your Vanguard's TRP by a moderate amount based on the Tactics stat."
+        },
+        "2": {
+          "desc": "When assigned as the Command Cat to a fleet that has at least 1 DD: 15.0% chance to launch a preemptive torpedo strike when engaging any non-Boss fleet on the map.",
+          "opsi": "When assigned as the Command Cat, and when the 2nd ship in your Vanguard is a DD: fires a Lv. 1 special barrage."
+        },
+        "3": {
+          "desc": "When assigned as the Command Cat to a fleet that isn't in combat and has at least 1 DD: adds an option in the Strategy Menu to switch positions with a friendly fleet in combat if it is directly adjacent to yours.",
+          "opsi": "Improves the special barrage to Lv. 2."
+        }
+      }
+    },
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/10011/Image.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/10011/Icon.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/10011/Banner.png",
+    "talent": "destroyer"
+  },
+  {
+    "id": "10021",
+    "name": "Antenna",
+    "rarity": "Super Rare",
+    "type": ["BB", "BC", "BBV"],
+    "slot": "General",
+    "timer": "10:45:00",
+    "faction": "Eagle Union",
+    "color": "gold",
+    "stats": {
+      "command": 64,
+      "support": 43,
+      "tactics": 55
+    },
+    "skill": {
+      "name": "Snipurr",
+      "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/1002.png",
+      "level": {
+        "1": {
+          "desc": "When engaging an enemy Vanguard or Main Fleet: increases the Accuracy of your BBs, BCs, and BBVs by a large amount based on the Tactics stat.",
+          "opsi": "When engaging an enemy Vanguard or Main Fleet: increases the Accuracy of your BBs, BCs, and BBVs by a large amount based on the Tactics stat."
+        },
+        "2": {
+          "desc": "When assigned to a fleet with a BB, BC, or BBV as its Flagship: increases the DMG the Flagship deals based on the Directives stat.",
+          "opsi": "When assigned to a fleet with a BB, BC, or BBV as its Flagship: increases the DMG the Flagship deals based on the Directives stat."
+        },
+        "3": {
+          "desc": "Increases EVA and AA for your BBs, BCs, and BBVs by a moderate amount based on the Directives stat.",
+          "opsi": "Increases EVA and AA for your BBs, BCs, and BBVs by a moderate amount based on the Directives stat."
+        }
+      }
+    },
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/10021/Image.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/10021/Icon.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/10021/Banner.png",
+    "talent": "battleship"
+  },
+  {
+    "id": "11011",
+    "name": "Bunny",
+    "rarity": "Elite",
+    "type": ["DD"],
+    "slot": "Command",
+    "timer": "06:09:00",
+    "faction": "Eagle Union",
+    "color": "purple",
+    "stats": {
+      "command": 55,
+      "support": 43,
+      "tactics": 36
+    },
+    "skill": {
+      "name": "Bite Their Fingers",
+      "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/1101.png",
+      "level": {
+        "1": {
+          "desc": "When assigned as the Command Cat to a fleet that has at least 1 DD: 15.0% chance to launch a preemptive torpedo strike when engaging any non-Boss fleet on the map.",
+          "opsi": "When assigned as the Command Cat: increases your Vanguard's TRP by a small amount based on the Directives stat."
+        },
+        "2": {
+          "desc": "Once per battle, when a DD is the frontmost ship of your Vanguard: activates Meowfficer Barrage Ⅰ when in close proximity to an enemy.",
+          "opsi": "Once per battle, when a DD is the frontmost ship of your Vanguard: activates Meowfficer Barrage Ⅰ when in close proximity to an enemy."
+        },
+        "3": {
+          "desc": "Upgrades Meowfficer Barrage Ⅰ to Meowfficer Barrage Ⅱ.",
+          "opsi": "Upgrades Meowfficer Barrage Ⅰ to Meowfficer Barrage Ⅱ."
+        }
+      }
+    },
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/11000/Image.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/11000/Icon.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/11000/Banner.png",
+    "talent": "destroyer"
+  },
+  {
+    "id": "11021",
+    "name": "Eagle",
+    "rarity": "Elite",
+    "type": ["CV", "CVL"],
+    "slot": "Staff",
+    "timer": "05:36:00",
+    "faction": "Eagle Union",
+    "color": "purple",
+    "stats": {
+      "command": 52,
+      "support": 33,
+      "tactics": 49
+    },
+    "skill": {
+      "name": "Nine Lives",
+      "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/1102.png",
+      "level": {
+        "1": {
+          "desc": "When assigned as the Staff Cat: increases the RLD of your CVs and CVLs by a small amount based on the Tactics stat.",
+          "opsi": "When assigned as the Staff Cat: increases the RLD of your CVs and CVLs by a small amount based on the Tactics stat."
+        },
+        "2": {
+          "desc": "When the fleet runs into an Airstrike on the map: gives a chance to completely evade the Airstrike based on the Tactics stat.",
+          "opsi": "When assigned as the Staff Cat: increases the EVA and AA of your CVs and CVLs by a small amount based on the Tactics stat."
+        },
+        "3": {
+          "desc": "When assigned as the Staff Cat: increases the AVI of your CVs and CVLs by a moderate amount based on the Directives stat.",
+          "opsi": "When assigned as the Staff Cat: increases the AVI of your CVs and CVLs by a moderate amount based on the Directives stat."
+        }
+      }
+    },
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/11000/Image.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/11000/Icon.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/11000/Banner.png",
+    "talent": "carrier"
+  },
+  {
+    "id": "12011",
+    "name": "Lady",
+    "rarity": "Rare",
+    "type": ["CV", "CVL"],
+    "slot": "Staff",
+    "timer": "02:03:00",
+    "faction": "Eagle Union",
+    "color": "blue",
+    "stats": {
+      "command": 40,
+      "support": 28,
+      "tactics": 52
+    },
+    "skill": {
+      "name": "Carrier Boost",
+      "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/buff.png",
+      "level": {
+        "1": {
+          "desc": "When assigned as the Staff Cat: increases the RLD of your CVs and CVLs by a small amount based on the Logistics stat.",
+          "opsi": "When assigned as the Staff Cat: increases the RLD of your CVs and CVLs by a small amount based on the Logistics stat."
+        },
+        "2": {
+          "desc": "When assigned as the Staff Cat: increases the AVI of your CVs and CVLs by a small amount based on the Directives stat.",
+          "opsi": "When assigned as the Staff Cat: increases the AVI of your CVs and CVLs by a small amount based on the Directives stat."
+        },
+        "3": {
+          "desc": "When assigned as the Staff Cat: increases the Accuracy of your CVs and CVLs by a small amount based on the Tactics stat.",
+          "opsi": "When assigned as the Staff Cat: increases the Accuracy of your CVs and CVLs by a small amount based on the Tactics stat."
+        }
+      }
+    },
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/10000/Image.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/10000/Icon.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/10000/Banner.png",
+    "talent": "carrier"
+  },
+  {
+    "id": "12021",
+    "name": "SG",
+    "rarity": "Rare",
+    "type": ["CL", "CA", "CB"],
+    "slot": "Staff",
+    "timer": "02:25:00",
+    "faction": "Eagle Union",
+    "color": "blue",
+    "stats": {
+      "command": 51,
+      "support": 41,
+      "tactics": 26
+    },
+    "skill": {
+      "name": "Recon Boost",
+      "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/def.png",
+      "level": {
+        "1": {
+          "desc": "Decreases the fleet's chance of running into an Ambush based on the Logistics stat.",
+          "opsi": "When assigned as the Staff Cat: increases the EVA of your CLs, CAs, and CBs by a small amount based on the Logistics stat."
+        },
+        "2": {
+          "desc": "When assigned as the Staff Cat: increases the Accuracy of your CLs, CAs, and CBs by a small amount based on the Tactics stat.",
+          "opsi": "When assigned as the Staff Cat: increases the Accuracy of your CLs, CAs, and CBs by a small amount based on the Tactics stat."
+        },
+        "3": {
+          "desc": "When assigned as the Staff Cat: increases the FP your CLs, CAs, and CBs by a small amount based on the Directives stat.",
+          "opsi": "When assigned as the Staff Cat: increases the FP your CLs, CAs, and CBs by a small amount based on the Directives stat."
+        }
+      }
+    },
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/10000/Image.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/10000/Icon.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/10000/Banner.png",
+    "talent": "cruiser"
+  },
+  {
+    "id": "20011",
+    "name": "Lime",
+    "rarity": "Super Rare",
+    "type": ["BB", "BC", "BBV"],
+    "slot": "Staff",
+    "timer": "10:05:00",
+    "faction": "Royal Navy",
+    "color": "gold",
+    "stats": {
+      "command": 52,
+      "support": 55,
+      "tactics": 58
+    },
+    "skill": {
+      "name": "Churchill's Blessing",
+      "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/2001.png",
+      "level": {
+        "1": {
+          "desc": "When assigned as the Staff Cat: increases the FP and AA of your BBs, BCs, and BBVs by a moderate amount based on the Directives stat.",
+          "opsi": "When assigned as the Staff Cat: increases the FP and AA of your BBs, BCs, and BBVs by a moderate amount based on the Directives stat."
+        },
+        "2": {
+          "desc": "When assigned as the Staff Cat and when in a coastal battle (i.e. fighting on a tile adjacent to impassable land): increases the entire fleet's FP by a moderate amount based on the Tactics stat.",
+          "opsi": "When assigned as the Staff Cat: for 30s after the battle starts, increases your entire fleet's FP by a moderate amount based on the Tactics stat."
+        },
+        "3": {
+          "desc": "Increases the DMG your BBs, BCs, and BBVs deal based on the Tactics stat.",
+          "opsi": "Increases the DMG your BBs, BCs, and BBVs deal based on the Tactics stat."
+        }
+      }
+    },
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/20011/Image.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/20011/Icon.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/20011/Banner.png",
+    "talent": "battleship"
+  },
+  {
+    "id": "20021",
+    "name": "Pound",
+    "rarity": "Super Rare",
+    "type": ["BB", "BC", "BBV"],
+    "slot": "Command",
+    "timer": "10:27:00",
+    "faction": "Royal Navy",
+    "color": "gold",
+    "stats": {
+      "command": 59,
+      "support": 67,
+      "tactics": 36
+    },
+    "skill": {
+      "name": "Rule Britannya",
+      "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/2002.png",
+      "level": {
+        "1": {
+          "desc": "When assigned as the Command Cat: increases the FP and AA of your BBs, BCs, and BBVs by a moderate amount based on the Directives stat.",
+          "opsi": "When assigned as the Command Cat: increases the FP and AA of your BBs, BCs, and BBVs by a moderate amount based on the Directives stat."
+        },
+        "2": {
+          "desc": "When assigned as the Command Cat to a fleet with at least 4 Royal Navy ships: decreases the DMG your Vanguard takes for 30s after the battle starts based on the Logistics stat.",
+          "opsi": "When assigned as the Command Cat to a fleet with at least 4 Royal Navy ships: decreases the DMG your Vanguard takes for 30s after the battle starts based on the Logistics stat."
+        },
+        "3": {
+          "desc": "When assigned as the Command Cat: increases the EVA of your Royal Navy ships by a large amount based on the Logistics stat.",
+          "opsi": "When assigned as the Command Cat: increases the EVA of your Royal Navy ships by a large amount based on the Logistics stat."
+        }
+      }
+    },
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/20021/Image.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/20021/Icon.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/20021/Banner.png",
+    "talent": "battleship"
+  },
+  {
+    "id": "21011",
+    "name": "Pepper",
+    "rarity": "Elite",
+    "type": ["CL", "CA", "CB"],
+    "slot": "Staff",
+    "timer": "06:16:00",
+    "faction": "Royal Navy",
+    "color": "purple",
+    "stats": {
+      "command": 50,
+      "support": 44,
+      "tactics": 45
+    },
+    "skill": {
+      "name": "Commerce Purrsuiter",
+      "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/2101.png",
+      "level": {
+        "1": {
+          "desc": "When assigned as the Staff Cat: increases the EVA of your CLs, CAs, and CBs by a small amount based on the Logistics stat.",
+          "opsi": "When assigned as the Staff Cat: increases the EVA of your CLs, CAs, and CBs by a small amount based on the Logistics stat."
+        },
+        "2": {
+          "desc": "When assigned as the Staff Cat and when engaging an enemy Cargo Fleet: increases the FP of your CLs, CAs, and CBs by a large amount based on the Tactics stat.",
+          "opsi": "When assigned as the Staff Cat and when engaging an enemy Cargo Fleet: increases the FP of your CLs, CAs, and CBs by a large amount based on the Tactics stat."
+        },
+        "3": {
+          "desc": "When assigned as the Staff Cat: increases the TRP of your CLs, CAs, and CBs by a moderate amount based on the Directives stat.",
+          "opsi": "When assigned as the Staff Cat: increases the TRP of your CLs, CAs, and CBs by a moderate amount based on the Directives stat."
+        }
+      }
+    },
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/21000/Image.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/21000/Icon.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/21000/Banner.png",
+    "talent": "cruiser"
+  },
+  {
+    "id": "21021",
+    "name": "Soup",
+    "rarity": "Elite",
+    "type": ["DD"],
+    "slot": "Staff",
+    "timer": "05:30:00",
+    "faction": "Royal Navy",
+    "color": "purple",
+    "stats": {
+      "command": 55,
+      "support": 39,
+      "tactics": 33
+    },
+    "skill": {
+      "name": "Purrceptive",
+      "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/2102.png",
+      "level": {
+        "1": {
+          "desc": "When assigned as the Staff Cat and when engaging an enemy Vanguard Fleet: increases the Accuracy of your DDs by a moderate amount based on the Tactics stat.",
+          "opsi": "When assigned as the Staff Cat and when engaging an enemy Vanguard Fleet: increases the Accuracy of your DDs by a moderate amount based on the Tactics stat."
+        },
+        "2": {
+          "desc": "When assigned as the Staff Cat: increases the EVA of your DDs by a small amount based on the Logistics stat.",
+          "opsi": "When assigned as the Staff Cat: increases the EVA of your DDs by a small amount based on the Logistics stat."
+        },
+        "3": {
+          "desc": "When assigned to a fleet that is within 3 tiles of an enemy Vanguard Fleet: gives your fleet +1 tile movement on the map.",
+          "opsi": "When an enemy Recon Fleet is within the surrounding 3 tiles of the fleet this Meowfficer is assigned to: increases the EVA of your DDs by a small amount based on the Directives stat."
+        }
+      }
+    },
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/21000/Image.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/21000/Icon.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/21000/Banner.png",
+    "talent": "destroyer"
+  },
+  {
+    "id": "21031",
+    "name": "Ark",
+    "rarity": "Elite",
+    "type": ["CV", "CVL"],
+    "slot": "Staff",
+    "timer": "06:43:00",
+    "faction": "Royal Navy",
+    "color": "purple",
+    "stats": {
+      "command": 64,
+      "support": 23,
+      "tactics": 44
+    },
+    "skill": {
+      "name": "Tiddles' Legacy",
+      "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/2103.png",
+      "level": {
+        "1": {
+          "desc": "When assigned as the Staff Cat: increases the Accuracy of your CVs and CVLs by a small amount based on the Tactics stat.",
+          "opsi": "When assigned as the Staff Cat: increases the Accuracy of your CVs and CVLs by a small amount based on the Tactics stat."
+        },
+        "2": {
+          "desc": "When assigned to a fleet that is within 2 tiles of an enemy Vanguard Fleet: gives your fleet +1 tile movement on the map.",
+          "opsi": "When an enemy Recon Fleet is within the surrounding 2 tiles of the fleet this Meowfficer is assigned to: increases the EVA of your DDs by a small amount based on the Logistics stat."
+        },
+        "3": {
+          "desc": "When assigned as the Staff Cat: increases the AVI of your CVs and CVLs by a moderate amount based on the Directives stat.",
+          "opsi": "When assigned as the Staff Cat: increases the AVI of your CVs and CVLs by a moderate amount based on the Directives stat."
+        }
+      }
+    },
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/21000/Image.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/21000/Icon.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/21000/Banner.png",
+    "talent": "carrier"
+  },
+  {
+    "id": "21041",
+    "name": "Marble",
+    "rarity": "Elite",
+    "type": ["BB", "BC", "BBV"],
+    "slot": "Staff",
+    "timer": "07:26:00",
+    "faction": "Royal Navy",
+    "color": "purple",
+    "stats": {
+      "command": 48,
+      "support": 39,
+      "tactics": 44
+    },
+    "skill": {
+      "name": "Sophissticated",
+      "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/2104.png",
+      "level": {
+        "1": {
+          "desc": "Decreases the chance of the fleet running into an Airstrike on the map based on the Logistics stat.",
+          "opsi": "When assigned as the Staff Cat: increases the EVA of your BBs, BCs, and BBVs by a small amount based on the Logistics stat."
+        },
+        "2": {
+          "desc": "When assigned as the Staff Cat: increases the RLD of your BBs, BCs, and BBVs by a small amount based on the Directives stat.",
+          "opsi": "When assigned as the Staff Cat: increases the RLD of your BBs, BCs, and BBVs by a small amount based on the Directives stat."
+        },
+        "3": {
+          "desc": "When assigned as the Staff Cat: increases the FP of your Royal Navy ships by a small amount based on the Tactics stat.",
+          "opsi": "When assigned as the Staff Cat: increases the FP of your Royal Navy ships by a small amount based on the Tactics stat."
+        }
+      }
+    },
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/21000/Image.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/21000/Icon.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/21000/Banner.png",
+    "talent": "battleship"
+  },
+  {
+    "id": "22011",
+    "name": "Rose",
+    "rarity": "Rare",
+    "type": ["BB", "BC", "BBV"],
+    "slot": "Staff",
+    "timer": "02:17:00",
+    "faction": "Royal Navy",
+    "color": "blue",
+    "stats": {
+      "command": 29,
+      "support": 64,
+      "tactics": 23
+    },
+    "skill": {
+      "name": "Battleship Boost",
+      "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/buff.png",
+      "level": {
+        "1": {
+          "desc": "When assigned as the Staff Cat: increases the RLD of your BBs, BCs, and BBVs by a small amount based on the Logistics stat.",
+          "opsi": "When assigned as the Staff Cat: increases the RLD of your BBs, BCs, and BBVs by a small amount based on the Logistics stat."
+        },
+        "2": {
+          "desc": "When assigned as the Staff Cat: increases the Accuracy of your BBs, BCs, and BBVs by a small amount based on the Logistics stat. (Unlocks at Skill Lvl 2)",
+          "opsi": "When assigned as the Staff Cat: increases the Accuracy of your BBs, BCs, and BBVs by a small amount based on the Logistics stat. (Unlocks at Skill Lvl 2)"
+        },
+        "3": {
+          "desc": "When assigned as the Staff Cat: increases the FP of your BBs, BCs, and BBVs by a small amount based on the Logistics stat. (Unlocks at Skill Lvl 3)",
+          "opsi": "When assigned as the Staff Cat: increases the FP of your BBs, BCs, and BBVs by a small amount based on the Logistics stat. (Unlocks at Skill Lvl 3)"
+        }
+      }
+    },
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/10000/Image.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/10000/Icon.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/10000/Banner.png",
+    "talent": "battleship"
+  },
+  {
+    "id": "22021",
+    "name": "Bugles",
+    "rarity": "Rare",
+    "type": ["CL", "CA", "CB"],
+    "slot": "Staff",
+    "timer": "01:39:00",
+    "faction": "Royal Navy",
+    "color": "blue",
+    "stats": {
+      "command": 38,
+      "support": 29,
+      "tactics": 52
+    },
+    "skill": {
+      "name": "Cruiser Tactics",
+      "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/buff.png",
+      "level": {
+        "1": {
+          "desc": "When assigned as the Staff Cat: increases the FP of your CLs, CAs, and CBs by a small amount based on the Tactics stat.",
+          "opsi": "When assigned as the Staff Cat: increases the FP of your CLs, CAs, and CBs by a small amount based on the Tactics stat."
+        },
+        "2": {
+          "desc": "When assigned as the Staff Cat: increases the Accuracy of your CLs, CAs, and CBs by a small amount based on the Tactics stat.",
+          "opsi": "When assigned as the Staff Cat: increases the Accuracy of your CLs, CAs, and CBs by a small amount based on the Tactics stat."
+        },
+        "3": {
+          "desc": "When assigned as the Staff Cat: increases the EVA of your CLs, CAs, and CBs by a small amount based on the Tactics stat.",
+          "opsi": "When assigned as the Staff Cat: increases the EVA of your CLs, CAs, and CBs by a small amount based on the Tactics stat."
+        }
+      }
+    },
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/10000/Image.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/10000/Icon.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/10000/Banner.png",
+    "talent": "cruiser"
+  },
+  {
+    "id": "30011",
+    "name": "Bishamaru",
+    "rarity": "Super Rare",
+    "type": ["CV", "CVL"],
+    "slot": "Staff",
+    "timer": "09:58:00",
+    "faction": "Sakura Empire",
+    "color": "gold",
+    "stats": {
+      "command": 49,
+      "support": 38,
+      "tactics": 68
+    },
+    "skill": {
+      "name": "Paws of Fury",
+      "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/3001.png",
+      "level": {
+        "1": {
+          "desc": "When assigned as the Staff Cat: increases the AVI and RLD of your CVs and CVLs by a small amount based on the Directives stat.",
+          "opsi": "When assigned as the Staff Cat: increases the AVI and RLD of your CVs and CVLs by a small amount based on the Directives stat."
+        },
+        "2": {
+          "desc": "Decreases the fleet's chance of running into an Ambush based on the Logistics stat.",
+          "opsi": "When assigned as the Staff Cat: increases the EVA of your CVs and CVLs by a small amount based on the Logistics stat."
+        },
+        "3": {
+          "desc": "Once per battle, if your fleet consists of only 1 CV or CVL: quickens the load time of your CV's/CVL's first Airstrike by 8.0% and launches an additional Torpedo Bomber airstrike once.",
+          "opsi": "Once per battle, if your fleet consists of only 1 CV or CVL: quickens the load time of your CV's/CVL's first Airstrike by 8.0% and launches an additional Torpedo Bomber airstrike once."
+        }
+      }
+    },
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/30011/Image.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/30011/Icon.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/30011/Banner.png",
+    "talent": "carrier"
+  },
+  {
+    "id": "30021",
+    "name": "Takemaru",
+    "rarity": "Super Rare",
+    "type": ["CL", "CA", "CB"],
+    "slot": "Command",
+    "timer": "09:40:00",
+    "faction": "Sakura Empire",
+    "color": "gold",
+    "stats": {
+      "command": 62,
+      "support": 30,
+      "tactics": 66
+    },
+    "skill": {
+      "name": "Ironbottom Tail Swipe",
+      "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/3002.png",
+      "level": {
+        "1": {
+          "desc": "When assigned as the Command Cat: increases the FP and TRP of your CLs, CAs, and CBs by a moderate amount based on the Tactics stat.",
+          "opsi": "When assigned as the Command Cat: increases the FP and TRP of your CLs, CAs, and CBs by a moderate amount based on the Tactics stat."
+        },
+        "2": {
+          "desc": "When assigned as the Command Cat to a fleet that is within 2 tiles of an enemy Main Fleet: decreases the DMG your Flagship takes based on the Directives stat.",
+          "opsi": "When assigned as the Command Cat to a fleet that is within 2 tiles of an enemy Main Fleet: decreases the DMG your Flagship takes based on the Directives stat."
+        },
+        "3": {
+          "desc": "For 30s after the battle starts when assigned as the Command Cat and when engaging an enemy Main Fleet: increases the Accuracy and EVA of your CLs, CAs, and CBs by a large amount based on the Tactics stat.",
+          "opsi": "For 30s after the battle starts when assigned as the Command Cat and when engaging an enemy Main Fleet: increases the Accuracy and EVA of your CLs, CAs, and CBs by a large amount based on the Tactics stat."
+        }
+      }
+    },
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/30021/Image.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/30021/Icon.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/30021/Banner.png",
+    "talent": "cruiser"
+  },
+  {
+    "id": "31011",
+    "name": "Jiromaru",
+    "rarity": "Elite",
+    "type": ["CV", "CVL"],
+    "slot": "Staff",
+    "timer": "05:37:00",
+    "faction": "Sakura Empire",
+    "color": "purple",
+    "stats": {
+      "command": 61,
+      "support": 33,
+      "tactics": 41
+    },
+    "skill": {
+      "name": "Belly Flop Bombardment",
+      "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/3101.png",
+      "level": {
+        "1": {
+          "desc": "When assigned as the Staff Cat: increases the Accuracy of your CVs and CVLs by a small amount based on the Tactics stat.",
+          "opsi": "When assigned as the Staff Cat: increases the Accuracy of your CVs and CVLs by a small amount based on the Tactics stat."
+        },
+        "2": {
+          "desc": "When assigned as the Staff Cat: increases the AVI of your CVs and CVLs by a moderate amount based on the Directives stat.",
+          "opsi": "When assigned as the Staff Cat: increases the AVI of your CVs and CVLs by a moderate amount based on the Directives stat."
+        },
+        "3": {
+          "desc": "When assigned to a fleet that has at least 1 CV or CVL: 15.0% chance to launch a preemptive airstrike when engaging any non-Boss fleet on the map. The DMG of the airstrike is based on the Tactics stat as well as the Level and Fleet Power of both sides.",
+          "opsi": "When assigned to a fleet with a Flagship that is a CV or CVL: launches an airstrike 15s after the battle starts."
+        }
+      }
+    },
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/31000/Image.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/31000/Icon.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/31000/Banner.png",
+    "talent": "carrier"
+  },
+  {
+    "id": "31021",
+    "name": "Yoshimaru",
+    "rarity": "Elite",
+    "type": ["DD"],
+    "slot": "Staff",
+    "timer": "06:23:00",
+    "faction": "Sakura Empire",
+    "color": "purple",
+    "stats": {
+      "command": 62,
+      "support": 36,
+      "tactics": 36
+    },
+    "skill": {
+      "name": "Feral Instincts",
+      "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/3102.png",
+      "level": {
+        "1": {
+          "desc": "When assigned as the Staff Cat: increases the EVA of your DDs by a small amount based on the Directives stat.",
+          "opsi": "When assigned as the Staff Cat: increases the EVA of your DDs by a small amount based on the Directives stat."
+        },
+        "2": {
+          "desc": "When assigned as the Staff Cat: increases the TRP of your DDs by a moderate amount based on the Logistics stat.",
+          "opsi": "When assigned as the Staff Cat: increases the TRP of your DDs by a moderate amount based on the Logistics stat."
+        },
+        "3": {
+          "desc": "When assigned as the Staff Cat and when your Vanguard consists of only 1 DD: increases your DD's TRP by a large amount based on the Directives stat.",
+          "opsi": "When assigned as the Staff Cat and when your Vanguard consists of only 1 DD: increases your DD's TRP by a large amount based on the Directives stat."
+        }
+      }
+    },
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/31000/Image.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/31000/Icon.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/31000/Banner.png",
+    "talent": "destroyer"
+  },
+  {
+    "id": "32011",
+    "name": "Asamaru",
+    "rarity": "Rare",
+    "type": ["CL", "CA", "CB"],
+    "slot": "Staff",
+    "timer": "02:06:00",
+    "faction": "Sakura Empire",
+    "color": "blue",
+    "stats": {
+      "command": 48,
+      "support": 24,
+      "tactics": 40
+    },
+    "skill": {
+      "name": "Cruiser Directives",
+      "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/buff.png",
+      "level": {
+        "1": {
+          "desc": "When assigned as the Staff Cat: increases the FP of your CLs, CAs, and CBs by a small amount based on the Directives stat.",
+          "opsi": "When assigned as the Staff Cat: increases the FP of your CLs, CAs, and CBs by a small amount based on the Directives stat."
+        },
+        "2": {
+          "desc": "When assigned as the Staff Cat: increases the TRP of your CLs, CAs, and CBs by a small amount based on the Logistics stat.",
+          "opsi": "When assigned as the Staff Cat: increases the TRP of your CLs, CAs, and CBs by a small amount based on the Logistics stat."
+        },
+        "3": {
+          "desc": "When assigned as the Staff Cat: increases the TRP of your CLs, CAs, and CBs by a small amount based on the Directives stat.",
+          "opsi": "When assigned as the Staff Cat: increases the TRP of your CLs, CAs, and CBs by a small amount based on the Directives stat."
+        }
+      }
+    },
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/10000/Image.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/10000/Icon.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/10000/Banner.png",
+    "talent": "cruiser"
+  },
+  {
+    "id": "32021",
+    "name": "Katsumaru",
+    "rarity": "Rare",
+    "type": ["BB", "BC", "BBV"],
+    "slot": "Staff",
+    "timer": "01:55:00",
+    "faction": "Sakura Empire",
+    "color": "blue",
+    "stats": {
+      "command": 47,
+      "support": 36,
+      "tactics": 32
+    },
+    "skill": {
+      "name": "Battleship Support",
+      "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/buff.png",
+      "level": {
+        "1": {
+          "desc": "When assigned as the Staff Cat: increases the Accuracy of your BBs, BCs, and BBVs by a small amount based on the Logistics stat.",
+          "opsi": "When assigned as the Staff Cat: increases the Accuracy of your BBs, BCs, and BBVs by a small amount based on the Logistics stat."
+        },
+        "2": {
+          "desc": "When assigned as the Staff Cat: increases the AA of your BBs, BCs, and BBVs by a small amount based on the Directives stat.",
+          "opsi": "When assigned as the Staff Cat: increases the AA of your BBs, BCs, and BBVs by a small amount based on the Directives stat."
+        },
+        "3": {
+          "desc": "When assigned as the Staff Cat: increases the FP of your BBs, BCs, and BBVs by a small amount based on the Tactics stat.",
+          "opsi": "When assigned as the Staff Cat: increases the FP of your BBs, BCs, and BBVs by a small amount based on the Tactics stat."
+        }
+      }
+    },
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/10000/Image.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/10000/Icon.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/10000/Banner.png",
+    "talent": "battleship"
+  },
+  {
+    "id": "40011",
+    "name": "Steel",
+    "rarity": "Super Rare",
+    "type": ["SS", "SSV"],
+    "slot": "Command",
+    "timer": "09:35:00",
+    "faction": "Iron Blood",
+    "color": "gold",
+    "stats": {
+      "command": 66,
+      "support": 40,
+      "tactics": 52
+    },
+    "skill": {
+      "name": "Silent Hunter",
+      "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/4001.png",
+      "level": {
+        "1": {
+          "desc": "Increases the TRP of your SSs and SSVs by a small amount based on the Command and Logistics stats.",
+          "opsi": "Increases the TRP of your SSs and SSVs by a small amount based on the Command and Logistics stats."
+        },
+        "2": {
+          "desc": "Increases ASR by 1 level.",
+          "opsi": "When assigned as the Command Cat to a fleet: increases the OXY of your SSs by 15."
+        },
+        "3": {
+          "desc": "Increases the DMG dealt to enemy fleets while in Attack Mode based on the Tactics stat.",
+          "opsi": "When assigned as the Command Cat to a fleet: fires a special torpedo barrage after the Flagship of your Submarine Fleet enters battle."
+        }
+      }
+    },
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/40011/Image.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/40011/Icon.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/40011/Banner.png",
+    "talent": "submarine"
+  },
+  {
+    "id": "40021",
+    "name": "Oscar",
+    "rarity": "Super Rare",
+    "type": ["BB", "BC", "BBV"],
+    "slot": "Staff",
+    "timer": "10:03:00",
+    "faction": "Iron Blood",
+    "color": "gold",
+    "stats": {
+      "command": 66,
+      "support": 37,
+      "tactics": 54
+    },
+    "skill": {
+      "name": "Unsinkable Oscar",
+      "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/4002.png",
+      "level": {
+        "1": {
+          "desc": "When assigned as the Staff Cat: increases the FP and Accuracy of your BBs, BCs, and BBVs by a moderate amount based on the Directives stat.",
+          "opsi": "When assigned as the Staff Cat: increases the FP and Accuracy of your BBs, BCs, and BBVs by a moderate amount based on the Directives stat."
+        },
+        "2": {
+          "desc": "When assigned as the Staff Cat to a fleet that has at least 1 BB, BC, or BBV: 15.0% chance to launch a preemptive volley when engaging an enemy Vanguard Fleet. The DMG of the volley is based on the Directives stat as well as the Level and Fleet Power of both sides.",
+          "opsi": "When assigned as the Staff Cat, and when the Flagship of your fleet is a BB, BC, or BBV: 50.0% chance to fire a special barrage 20s after the battle starts."
+        },
+        "3": {
+          "desc": "When assigned as the Staff Cat and when engaging an enemy Main Fleet: decreases the DMG your BBs, BCs, and BBVs take and increases their RLD based on the Logistics stat.",
+          "opsi": "When assigned as the Staff Cat and when engaging an enemy Main Fleet: decreases the DMG your BBs, BCs, and BBVs take and increases their RLD based on the Logistics stat."
+        }
+      }
+    },
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/40021/Image.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/40021/Icon.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/40021/Banner.png",
+    "talent": "battleship"
+  },
+  {
+    "id": "41011",
+    "name": "Potato",
+    "rarity": "Elite",
+    "type": ["BB", "BC", "BBV"],
+    "slot": "Staff",
+    "timer": "06:45:00",
+    "faction": "Iron Blood",
+    "color": "purple",
+    "stats": {
+      "command": 56,
+      "support": 35,
+      "tactics": 43
+    },
+    "skill": {
+      "name": "Paladin of the Sea",
+      "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/4101.png",
+      "level": {
+        "1": {
+          "desc": "When assigned as the Staff Cat: increases the EVA of your BBs, BCs, and BBVs by a small amount based on the Directives stat.",
+          "opsi": "When assigned as the Staff Cat: increases the EVA of your BBs, BCs, and BBVs by a small amount based on the Directives stat."
+        },
+        "2": {
+          "desc": "When assigned as the Staff Cat: increases the Accuracy of your BBs, BCs, and BBVs by a moderate amount based on the Tactics stat.",
+          "opsi": "When assigned as the Staff Cat: increases the Accuracy of your BBs, BCs, and BBVs by a moderate amount based on the Tactics stat."
+        },
+        "3": {
+          "desc": "When engaging an enemy Main Fleet: decreases the DMG your Flagship takes based on the Tactics stat.",
+          "opsi": "When engaging an enemy Main Fleet: decreases the DMG your Flagship takes based on the Tactics stat."
+        }
+      }
+    },
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/41000/Image.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/41000/Icon.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/41000/Banner.png",
+    "talent": "battleship"
+  },
+  {
+    "id": "41021",
+    "name": "Edelweiss",
+    "rarity": "Elite",
+    "type": ["SS", "SSV"],
+    "slot": "Staff",
+    "timer": "05:57:00",
+    "faction": "Iron Blood",
+    "color": "purple",
+    "stats": {
+      "command": 59,
+      "support": 34,
+      "tactics": 41
+    },
+    "skill": {
+      "name": "Champion of the Sea",
+      "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/4102.png",
+      "level": {
+        "1": {
+          "desc": "When assigned as the Staff Cat: increases the TRP of your SSs and SSVs by a small amount based on the Directives stat.",
+          "opsi": "When assigned as the Staff Cat: increases the TRP of your SSs and SSVs by a small amount based on the Directives stat."
+        },
+        "2": {
+          "desc": "When assigned as the Staff Cat: increases the Accuracy of your SSs and SSVs by a moderate amount based on the Directives stat.",
+          "opsi": "When assigned as the Staff Cat: increases the Accuracy of your SSs and SSVs by a moderate amount based on the Directives stat."
+        },
+        "3": {
+          "desc": "Increases ASR by 1 level.",
+          "opsi": "When assigned as the Staff Cat: increases the OXY of your SSs by 5."
+        }
+      }
+    },
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/41000/Image.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/41000/Icon.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/41000/Banner.png",
+    "talent": "submarine"
+  },
+  {
+    "id": "41031",
+    "name": "Gral",
+    "rarity": "Elite",
+    "type": ["SS", "SSV"],
+    "slot": "Staff",
+    "timer": "05:52:00",
+    "faction": "Iron Blood",
+    "color": "purple",
+    "stats": {
+      "command": 51,
+      "support": 32,
+      "tactics": 48
+    },
+    "skill": {
+      "name": "Sentinel of the Sea",
+      "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/4103.png",
+      "level": {
+        "1": {
+          "desc": "When assigned as the Staff Cat: increases the TRP of your SSs and SSVs by a small amount based on the Directives stat.",
+          "opsi": "When assigned as the Staff Cat: increases the TRP of your SSs and SSVs by a small amount based on the Directives stat."
+        },
+        "2": {
+          "desc": "When assigned as the Staff Cat: increases the EVA of your SSs and SSVs by a moderate amount based on the Directives stat.",
+          "opsi": "When assigned as the Staff Cat: increases the EVA of your SSs and SSVs by a moderate amount based on the Directives stat."
+        },
+        "3": {
+          "desc": "When assigned as the Staff Cat of the Submarine Fleet and when a fleet with a BB, BC, or BBV as its Flagship calls in Submarine Support: increases the Accuracy of your SSs and SSVs by a moderate amount based on the Directives stat.",
+          "opsi": "When assigned as the Staff Cat of the Submarine Fleet and when a fleet with a BB, BC, or BBV as its Flagship calls in Submarine Support: increases the Accuracy of your SSs and SSVs by a moderate amount based on the Directives stat."
+        }
+      }
+    },
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/41000/Image.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/41000/Icon.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/41000/Banner.png",
+    "talent": "submarine"
+  },
+  {
+    "id": "42011",
+    "name": "Tofu",
+    "rarity": "Rare",
+    "type": ["CL", "CA", "CB"],
+    "slot": "Staff",
+    "timer": "01:54:00",
+    "faction": "Iron Blood",
+    "color": "blue",
+    "stats": {
+      "command": 46,
+      "support": 37,
+      "tactics": 36
+    },
+    "skill": {
+      "name": "Cruiser Boost",
+      "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/buff.png",
+      "level": {
+        "1": {
+          "desc": "When assigned as the Staff Cat: increases the EVA of your CLs, CAs, and CBs by a small amount based on the Logistics stat.",
+          "opsi": "When assigned as the Staff Cat: increases the EVA of your CLs, CAs, and CBs by a small amount based on the Logistics stat."
+        },
+        "2": {
+          "desc": "When assigned as the Staff Cat: increases the FP of your CLs, CAs, and CBs by a small amount based on the Logistics stat.",
+          "opsi": "When assigned as the Staff Cat: increases the FP of your CLs, CAs, and CBs by a small amount based on the Logistics stat."
+        },
+        "3": {
+          "desc": "When assigned as the Staff Cat: increases the FP of your CLs, CAs, and CBs by a small amount based on the Directives stat.",
+          "opsi": "When assigned as the Staff Cat: increases the FP of your CLs, CAs, and CBs by a small amount based on the Directives stat."
+        }
+      }
+    },
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/10000/Image.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/10000/Icon.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/10000/Banner.png",
+    "talent": "cruiser"
+  },
+  {
+    "id": "42021",
+    "name": "Beer",
+    "rarity": "Rare",
+    "type": ["DD"],
+    "slot": "Staff",
+    "timer": "02:32:00",
+    "faction": "Iron Blood",
+    "color": "blue",
+    "stats": {
+      "command": 41,
+      "support": 28,
+      "tactics": 49
+    },
+    "skill": {
+      "name": "Destroyer Directives",
+      "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/buff.png",
+      "level": {
+        "1": {
+          "desc": "When assigned as the Staff Cat: increases the EVA of your DDs by a small amount based on the Directives stat.",
+          "opsi": "When assigned as the Staff Cat: increases the EVA of your DDs by a small amount based on the Directives stat."
+        },
+        "2": {
+          "desc": "When assigned as the Staff Cat: increases the Accuracy of your DDs by a small amount based on the Tactics stat.",
+          "opsi": "When assigned as the Staff Cat: increases the Accuracy of your DDs by a small amount based on the Tactics stat."
+        },
+        "3": {
+          "desc": "When assigned as the Staff Cat: increases the TRP of your DDs by a small amount based on the Logistics stat.",
+          "opsi": "When assigned as the Staff Cat: increases the TRP of your DDs by a small amount based on the Logistics stat."
+        }
+      }
+    },
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/10000/Image.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/10000/Icon.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/10000/Banner.png",
+    "talent": "destroyer"
+  }
 ]

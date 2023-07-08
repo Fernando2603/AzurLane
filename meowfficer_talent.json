@@ -1,0 +1,1967 @@
+[
+  {
+    "id": "101",
+    "name": "Artillery Rookie - Destroyers",
+    "desc": "Your DDs gain 3 FP.",
+    "hullType": [
+      "DD"
+    ],
+    "stats": [
+      "Firepower"
+    ],
+    "level": 1,
+    "next": 102,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Destroyer_Firepower_1.png"
+  },
+  {
+    "id": "102",
+    "name": "Artillery Adept - Destroyers",
+    "desc": "Your DDs gain 4 FP.",
+    "hullType": [
+      "DD"
+    ],
+    "stats": [
+      "Firepower"
+    ],
+    "level": 2,
+    "next": 103,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Destroyer_Firepower_2.png"
+  },
+  {
+    "id": "103",
+    "name": "Artillery Ace - Destroyers",
+    "desc": "Your DDs gain 6 FP.",
+    "hullType": [
+      "DD"
+    ],
+    "stats": [
+      "Firepower"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Destroyer_Firepower_3.png"
+  },
+  {
+    "id": "111",
+    "name": "Artillery Rookie - Cruisers",
+    "desc": "Your CLs, CAs, and CBs gain 5 FP.",
+    "hullType": [
+      "CL",
+      "CA",
+      "CB"
+    ],
+    "stats": [
+      "Firepower"
+    ],
+    "level": 1,
+    "next": 112,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Cruiser_Firepower_1.png"
+  },
+  {
+    "id": "112",
+    "name": "Artillery Adept - Cruisers",
+    "desc": "Your CLs, CAs, and CBs gain 7 FP.",
+    "hullType": [
+      "CL",
+      "CA",
+      "CB"
+    ],
+    "stats": [
+      "Firepower"
+    ],
+    "level": 2,
+    "next": 113,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Cruiser_Firepower_2.png"
+  },
+  {
+    "id": "113",
+    "name": "Artillery Ace - Cruisers",
+    "desc": "Your CLs, CAs, and CBs gain 10 FP.",
+    "hullType": [
+      "CL",
+      "CA",
+      "CB"
+    ],
+    "stats": [
+      "Firepower"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Cruiser_Firepower_3.png"
+  },
+  {
+    "id": "121",
+    "name": "Artillery Rookie - Main",
+    "desc": "Your BBs, BCs, BBVs, and BMs gain 8 FP.",
+    "hullType": [
+      "BB",
+      "BC",
+      "BM",
+      "BBV"
+    ],
+    "stats": [
+      "Firepower"
+    ],
+    "level": 1,
+    "next": 122,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Battleship_Firepower_1.png"
+  },
+  {
+    "id": "122",
+    "name": "Artillery Adept - Main",
+    "desc": "Your BBs, BCs, BBVs, and BMs gain 11 FP.",
+    "hullType": [
+      "BB",
+      "BC",
+      "BM",
+      "BBV"
+    ],
+    "stats": [
+      "Firepower"
+    ],
+    "level": 2,
+    "next": 123,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Battleship_Firepower_2.png"
+  },
+  {
+    "id": "123",
+    "name": "Artillery Ace - Main",
+    "desc": "Your BBs, BCs, BBVs, and BMs gain 16 FP.",
+    "hullType": [
+      "BB",
+      "BC",
+      "BM",
+      "BBV"
+    ],
+    "stats": [
+      "Firepower"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Battleship_Firepower_3.png"
+  },
+  {
+    "id": "201",
+    "name": "Torpedo Rookie - Submarines",
+    "desc": "Your SSs and SSVs gain 10 TRP.",
+    "hullType": [
+      "SS",
+      "SSV"
+    ],
+    "stats": [
+      "Torpedo"
+    ],
+    "level": 1,
+    "next": 202,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Submarine_Torpedo_1.png"
+  },
+  {
+    "id": "202",
+    "name": "Torpedo Adept - Submarines",
+    "desc": "Your SSs and SSVs gain 14 TRP.",
+    "hullType": [
+      "SS",
+      "SSV"
+    ],
+    "stats": [
+      "Torpedo"
+    ],
+    "level": 2,
+    "next": 203,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Submarine_Torpedo_2.png"
+  },
+  {
+    "id": "203",
+    "name": "Torpedo Ace - Submarines",
+    "desc": "Your SSs and SSVs gain 20 TRP.",
+    "hullType": [
+      "SS",
+      "SSV"
+    ],
+    "stats": [
+      "Torpedo"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Submarine_Torpedo_3.png"
+  },
+  {
+    "id": "211",
+    "name": "Torpedo Rookie - Destroyers",
+    "desc": "Your DDs gain 10 TRP.",
+    "hullType": [
+      "DD"
+    ],
+    "stats": [
+      "Torpedo"
+    ],
+    "level": 1,
+    "next": 212,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Destroyer_Torpedo_1.png"
+  },
+  {
+    "id": "212",
+    "name": "Torpedo Adept - Destroyers",
+    "desc": "Your DDs gain 14 TRP.",
+    "hullType": [
+      "DD"
+    ],
+    "stats": [
+      "Torpedo"
+    ],
+    "level": 2,
+    "next": 213,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Destroyer_Torpedo_2.png"
+  },
+  {
+    "id": "213",
+    "name": "Torpedo Ace - Destroyers",
+    "desc": "Your DDs gain 20 TRP.",
+    "hullType": [
+      "DD"
+    ],
+    "stats": [
+      "Torpedo"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Destroyer_Torpedo_3.png"
+  },
+  {
+    "id": "221",
+    "name": "Torpedo Rookie - Cruisers",
+    "desc": "Your CLs and CAs gain 6 TRP.",
+    "hullType": [
+      "CL",
+      "CA"
+    ],
+    "stats": [
+      "Torpedo"
+    ],
+    "level": 1,
+    "next": 222,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Cruiser_Torpedo_1.png"
+  },
+  {
+    "id": "222",
+    "name": "Torpedo Adept - Cruisers",
+    "desc": "Your CLs and CAs gain 8 TRP.",
+    "hullType": [
+      "CL",
+      "CA"
+    ],
+    "stats": [
+      "Torpedo"
+    ],
+    "level": 2,
+    "next": 223,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Cruiser_Torpedo_2.png"
+  },
+  {
+    "id": "223",
+    "name": "Torpedo Ace - Cruisers",
+    "desc": "Your CLs and CAs gain 12 TRP.",
+    "hullType": [
+      "CL",
+      "CA"
+    ],
+    "stats": [
+      "Torpedo"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Cruiser_Torpedo_3.png"
+  },
+  {
+    "id": "301",
+    "name": "Aviation Rookie - Carriers",
+    "desc": "Your CVs and CVLs gain 10 AVI.",
+    "hullType": [
+      "CV",
+      "CVL"
+    ],
+    "stats": [
+      "Aviation"
+    ],
+    "level": 1,
+    "next": 302,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Carrier_Airpower_1.png"
+  },
+  {
+    "id": "302",
+    "name": "Aviation Adept - Carriers",
+    "desc": "Your CVs and CVLs gain 14 AVI.",
+    "hullType": [
+      "CV",
+      "CVL"
+    ],
+    "stats": [
+      "Aviation"
+    ],
+    "level": 2,
+    "next": 303,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Carrier_Airpower_2.png"
+  },
+  {
+    "id": "303",
+    "name": "Aviation Ace - Carriers",
+    "desc": "Your CVs and CVLs gain 20 AVI.",
+    "hullType": [
+      "CV",
+      "CVL"
+    ],
+    "stats": [
+      "Aviation"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Carrier_Airpower_3.png"
+  },
+  {
+    "id": "311",
+    "name": "Aviation Rookie - Special",
+    "desc": "Your BBVs gain 5 AVI.",
+    "hullType": [
+      "BBV"
+    ],
+    "stats": [
+      "Aviation"
+    ],
+    "level": 1,
+    "next": 312,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Special_Airpower_1.png"
+  },
+  {
+    "id": "312",
+    "name": "Aviation Adept - Special",
+    "desc": "Your BBVs gain 7 AVI.",
+    "hullType": [
+      "BBV"
+    ],
+    "stats": [
+      "Aviation"
+    ],
+    "level": 2,
+    "next": 313,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Special_Airpower_2.png"
+  },
+  {
+    "id": "313",
+    "name": "Aviation Ace - Special",
+    "desc": "Your BBVs gain 10 AVI.",
+    "hullType": [
+      "BBV"
+    ],
+    "stats": [
+      "Aviation"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Special_Airpower_3.png"
+  },
+  {
+    "id": "401",
+    "name": "Anti-Air Rookie - Vanguard",
+    "desc": "Your Vanguard gains 8 AA.",
+    "hullType": [
+      "Vanguard"
+    ],
+    "stats": [
+      "Anti-Air"
+    ],
+    "level": 1,
+    "next": 402,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Destroyer_AA_1.png"
+  },
+  {
+    "id": "402",
+    "name": "Anti-Air Adept - Vanguard",
+    "desc": "Your Vanguard gains 11 AA.",
+    "hullType": [
+      "Vanguard"
+    ],
+    "stats": [
+      "Anti-Air"
+    ],
+    "level": 2,
+    "next": 403,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Destroyer_AA_2.png"
+  },
+  {
+    "id": "403",
+    "name": "Anti-Air Ace - Vanguard",
+    "desc": "Your Vanguard gains 16 AA.",
+    "hullType": [
+      "Vanguard"
+    ],
+    "stats": [
+      "Anti-Air"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Destroyer_AA_3.png"
+  },
+  {
+    "id": "411",
+    "name": "Anti-Air Rookie - Main",
+    "desc": "Your Main Fleet gains 10 AA.",
+    "hullType": [
+      "Main"
+    ],
+    "stats": [
+      "Anti-Air"
+    ],
+    "level": 1,
+    "next": 412,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Battleship_AA_1.png"
+  },
+  {
+    "id": "412",
+    "name": "Anti-Air Adept - Main",
+    "desc": "Your Main Fleet gains 14 AA.",
+    "hullType": [
+      "Main"
+    ],
+    "stats": [
+      "Anti-Air"
+    ],
+    "level": 2,
+    "next": 413,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Battleship_AA_2.png"
+  },
+  {
+    "id": "413",
+    "name": "Anti-Air Ace - Main",
+    "desc": "Your Main Fleet gains 20 AA.",
+    "hullType": [
+      "Main"
+    ],
+    "stats": [
+      "Anti-Air"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Battleship_AA_3.png"
+  },
+  {
+    "id": "501",
+    "name": "Sonar Rookie - Vanguard",
+    "desc": "Your Vanguard gains 4 ASW.",
+    "hullType": [
+      "Vanguard"
+    ],
+    "stats": [
+      "ASW"
+    ],
+    "level": 1,
+    "next": 502,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Destroyer_ASW_1.png"
+  },
+  {
+    "id": "502",
+    "name": "Sonar Adept - Vanguard",
+    "desc": "Your Vanguard gains 5 ASW.",
+    "hullType": [
+      "Vanguard"
+    ],
+    "stats": [
+      "ASW"
+    ],
+    "level": 2,
+    "next": 503,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Destroyer_ASW_2.png"
+  },
+  {
+    "id": "503",
+    "name": "Sonar Ace - Vanguard",
+    "desc": "Your Vanguard gains 8 ASW.",
+    "hullType": [
+      "Vanguard"
+    ],
+    "stats": [
+      "ASW"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Destroyer_ASW_3.png"
+  },
+  {
+    "id": "511",
+    "name": "Sonar Rookie - Main",
+    "desc": "Your Main Fleet gains 3 ASW.",
+    "hullType": [
+      "Main"
+    ],
+    "stats": [
+      "ASW"
+    ],
+    "level": 1,
+    "next": 512,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Light_Carrier_ASW_1.png"
+  },
+  {
+    "id": "512",
+    "name": "Sonar Adept - Main",
+    "desc": "Your Main Fleet gains 4 ASW.",
+    "hullType": [
+      "Main"
+    ],
+    "stats": [
+      "ASW"
+    ],
+    "level": 2,
+    "next": 513,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Light_Carrier_ASW_2.png"
+  },
+  {
+    "id": "513",
+    "name": "Sonar Ace - Main",
+    "desc": "Your Main Fleet gains 6 ASW.",
+    "hullType": [
+      "Main"
+    ],
+    "stats": [
+      "ASW"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Light_Carrier_ASW_3.png"
+  },
+  {
+    "id": "601",
+    "name": "Loading Rookie - Submarines",
+    "desc": "Your SSs and SSVs gain 3 RLD.",
+    "hullType": [
+      "SS"
+    ],
+    "stats": [
+      "Reload"
+    ],
+    "level": 1,
+    "next": 602,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Submarine_Buff_1.png"
+  },
+  {
+    "id": "602",
+    "name": "Loading Adept - Submarines",
+    "desc": "Your SSs and SSVs gain 4 RLD.",
+    "hullType": [
+      "SS"
+    ],
+    "stats": [
+      "Reload"
+    ],
+    "level": 2,
+    "next": 603,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Submarine_Buff_2.png"
+  },
+  {
+    "id": "603",
+    "name": "Loading Ace - Submarines",
+    "desc": "Your SSs and SSVs gain 6 RLD.",
+    "hullType": [
+      "SS"
+    ],
+    "stats": [
+      "Reload"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Submarine_Buff_3.png"
+  },
+  {
+    "id": "611",
+    "name": "Loading Rookie - Destroyers",
+    "desc": "Your DDs gain 5 RLD.",
+    "hullType": [
+      "DD"
+    ],
+    "stats": [
+      "Reload"
+    ],
+    "level": 1,
+    "next": 612,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Destroyer_Buff_1.png"
+  },
+  {
+    "id": "612",
+    "name": "Loading Adept - Destroyers",
+    "desc": "Your DDs gain 7 RLD.",
+    "hullType": [
+      "DD"
+    ],
+    "stats": [
+      "Reload"
+    ],
+    "level": 2,
+    "next": 613,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Destroyer_Buff_2.png"
+  },
+  {
+    "id": "613",
+    "name": "Loading Ace - Destroyers",
+    "desc": "Your DDs gain 10 RLD.",
+    "hullType": [
+      "DD"
+    ],
+    "stats": [
+      "Reload"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Destroyer_Buff_3.png"
+  },
+  {
+    "id": "621",
+    "name": "Loading Rookie - Cruisers",
+    "desc": "Your CLs, CAs, and CBs gain 4 RLD.",
+    "hullType": [
+      "CL",
+      "CA",
+      "CB"
+    ],
+    "stats": [
+      "Reload"
+    ],
+    "level": 1,
+    "next": 622,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Cruiser_Buff_1.png"
+  },
+  {
+    "id": "622",
+    "name": "Loading Adept - Cruisers",
+    "desc": "Your CLs, CAs, and CBs gain 5 RLD.",
+    "hullType": [
+      "CL",
+      "CA",
+      "CB"
+    ],
+    "stats": [
+      "Reload"
+    ],
+    "level": 2,
+    "next": 623,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Cruiser_Buff_2.png"
+  },
+  {
+    "id": "623",
+    "name": "Loading Ace - Cruisers",
+    "desc": "Your CLs, CAs, and CBs gain 8 RLD.",
+    "hullType": [
+      "CL",
+      "CA",
+      "CB"
+    ],
+    "stats": [
+      "Reload"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Cruiser_Buff_3.png"
+  },
+  {
+    "id": "631",
+    "name": "Loading Rookie - Battleships",
+    "desc": "Your BBs, BCs, and BBVs gain 3 RLD.",
+    "hullType": [
+      "BC",
+      "BB",
+      "BBV"
+    ],
+    "stats": [
+      "Reload"
+    ],
+    "level": 1,
+    "next": 632,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Battleship_Buff_1.png"
+  },
+  {
+    "id": "632",
+    "name": "Loading Adept - Battleships",
+    "desc": "Your BBs, BCs, and BBVs gain 4 RLD.",
+    "hullType": [
+      "BC",
+      "BB",
+      "BBV"
+    ],
+    "stats": [
+      "Reload"
+    ],
+    "level": 2,
+    "next": 633,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Battleship_Buff_2.png"
+  },
+  {
+    "id": "633",
+    "name": "Loading Ace - Battleships",
+    "desc": "Your BBs, BCs, and BBVs gain 6 RLD.",
+    "hullType": [
+      "BC",
+      "BB",
+      "BBV"
+    ],
+    "stats": [
+      "Reload"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Battleship_Buff_3.png"
+  },
+  {
+    "id": "641",
+    "name": "Rookie Mechanic",
+    "desc": "Your CVs and CVLs gain 3 RLD.",
+    "hullType": [
+      "CVL",
+      "CV"
+    ],
+    "stats": [
+      "Reload"
+    ],
+    "level": 1,
+    "next": 642,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Carrier_Buff_1.png"
+  },
+  {
+    "id": "642",
+    "name": "Adept Mechanic",
+    "desc": "Your CVs and CVLs gain 4 RLD.",
+    "hullType": [
+      "CVL",
+      "CV"
+    ],
+    "stats": [
+      "Reload"
+    ],
+    "level": 2,
+    "next": 643,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Carrier_Buff_2.png"
+  },
+  {
+    "id": "643",
+    "name": "Ace Mechanic",
+    "desc": "Your CVs and CVLs gain 6 RLD.",
+    "hullType": [
+      "CVL",
+      "CV"
+    ],
+    "stats": [
+      "Reload"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Carrier_Buff_3.png"
+  },
+  {
+    "id": "651",
+    "name": "Loading Ace - Special",
+    "desc": "Your BMs, ARs, and AEs gain 3 RLD.",
+    "hullType": [
+      "BM",
+      "AR",
+      "AE"
+    ],
+    "stats": [
+      "Reload"
+    ],
+    "level": 1,
+    "next": 652,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Special_Buff_1.png"
+  },
+  {
+    "id": "652",
+    "name": "Loading Rookie - Special",
+    "desc": "Your BMs, ARs, and AEs gain 4 RLD.",
+    "hullType": [
+      "BM",
+      "AR",
+      "AE"
+    ],
+    "stats": [
+      "Reload"
+    ],
+    "level": 2,
+    "next": 653,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Special_Buff_2.png"
+  },
+  {
+    "id": "653",
+    "name": "Loading Adept - Special",
+    "desc": "Your BMs, ARs, and AEs gain 6 RLD.",
+    "hullType": [
+      "BM",
+      "AR",
+      "AE"
+    ],
+    "stats": [
+      "Reload"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Special_Buff_3.png"
+  },
+  {
+    "id": "701",
+    "name": "Rookie Engineer - Submarines",
+    "desc": "Your SSs and SSVs gain 25 HP.",
+    "hullType": [
+      "SS"
+    ],
+    "stats": [
+      "Health"
+    ],
+    "level": 1,
+    "next": 702,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Submarine_HP_1.png"
+  },
+  {
+    "id": "702",
+    "name": "Adept Engineer - Submarines",
+    "desc": "Your SSs and SSVs gain 35 HP.",
+    "hullType": [
+      "SS"
+    ],
+    "stats": [
+      "Health"
+    ],
+    "level": 2,
+    "next": 703,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Submarine_HP_2.png"
+  },
+  {
+    "id": "703",
+    "name": "Ace Engineer - Submarines",
+    "desc": "Your SSs and SSVs gain 50 HP.",
+    "hullType": [
+      "SS"
+    ],
+    "stats": [
+      "Health"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Submarine_HP_3.png"
+  },
+  {
+    "id": "711",
+    "name": "Rookie Engineer - Destroyers",
+    "desc": "Your DDs gain 30 HP.",
+    "hullType": [
+      "DD"
+    ],
+    "stats": [
+      "Health"
+    ],
+    "level": 1,
+    "next": 712,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Destroyer_HP_1.png"
+  },
+  {
+    "id": "712",
+    "name": "Adept Engineer - Destroyers",
+    "desc": "Your DDs gain 42 HP.",
+    "hullType": [
+      "DD"
+    ],
+    "stats": [
+      "Health"
+    ],
+    "level": 2,
+    "next": 713,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Destroyer_HP_2.png"
+  },
+  {
+    "id": "713",
+    "name": "Ace Engineer - Destroyers",
+    "desc": "Your DDs gain 60 HP.",
+    "hullType": [
+      "DD"
+    ],
+    "stats": [
+      "Health"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Destroyer_HP_3.png"
+  },
+  {
+    "id": "721",
+    "name": "Rookie Engineer - Cruisers",
+    "desc": "Your CLs, CAs, and CBs gain 50 HP.",
+    "hullType": [
+      "CL",
+      "CA",
+      "CB"
+    ],
+    "stats": [
+      "Health"
+    ],
+    "level": 1,
+    "next": 722,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Cruiser_HP_1.png"
+  },
+  {
+    "id": "722",
+    "name": "Adept Engineer - Cruisers",
+    "desc": "Your CLs, CAs, and CBs gain 70 HP.",
+    "hullType": [
+      "CL",
+      "CA",
+      "CB"
+    ],
+    "stats": [
+      "Health"
+    ],
+    "level": 2,
+    "next": 723,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Cruiser_HP_2.png"
+  },
+  {
+    "id": "723",
+    "name": "Ace Engineer - Cruisers",
+    "desc": "Your CLs, CAs, and CBs gain 100 HP.",
+    "hullType": [
+      "CL",
+      "CA",
+      "CB"
+    ],
+    "stats": [
+      "Health"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Cruiser_HP_3.png"
+  },
+  {
+    "id": "731",
+    "name": "Rookie Engineer - Battleships",
+    "desc": "Your BBs, BCs, and BBVs gain 75 HP.",
+    "hullType": [
+      "BC",
+      "BB",
+      "BBV"
+    ],
+    "stats": [
+      "Health"
+    ],
+    "level": 1,
+    "next": 732,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Battleship_HP_1.png"
+  },
+  {
+    "id": "732",
+    "name": "Adept Engineer - Battleships",
+    "desc": "Your BBs, BCs, and BBVs gain 105 HP.",
+    "hullType": [
+      "BC",
+      "BB",
+      "BBV"
+    ],
+    "stats": [
+      "Health"
+    ],
+    "level": 2,
+    "next": 733,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Battleship_HP_2.png"
+  },
+  {
+    "id": "733",
+    "name": "Ace Engineer - Battleships",
+    "desc": "Your BBs, BCs, and BBVs gain 150 HP.",
+    "hullType": [
+      "BC",
+      "BB",
+      "BBV"
+    ],
+    "stats": [
+      "Health"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Battleship_HP_3.png"
+  },
+  {
+    "id": "741",
+    "name": "Rookie Engineer - Carriers",
+    "desc": "Your CVs and CVLs gain 50 HP.",
+    "hullType": [
+      "CVL",
+      "CV"
+    ],
+    "stats": [
+      "Health"
+    ],
+    "level": 1,
+    "next": 742,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Carrier_HP_1.png"
+  },
+  {
+    "id": "742",
+    "name": "Adept Engineer - Carriers",
+    "desc": "Your CVs and CVLs gain 70 HP.",
+    "hullType": [
+      "CVL",
+      "CV"
+    ],
+    "stats": [
+      "Health"
+    ],
+    "level": 2,
+    "next": 743,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Carrier_HP_2.png"
+  },
+  {
+    "id": "743",
+    "name": "Ace Engineer - Carriers",
+    "desc": "Your CVs and CVLs gain 100 HP.",
+    "hullType": [
+      "CVL",
+      "CV"
+    ],
+    "stats": [
+      "Health"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Carrier_HP_3.png"
+  },
+  {
+    "id": "751",
+    "name": "Rookie Engineer - Special",
+    "desc": "Your BMs, ARs, and AEs gain 40 HP.",
+    "hullType": [
+      "BM",
+      "AR",
+      "AE"
+    ],
+    "stats": [
+      "Health"
+    ],
+    "level": 1,
+    "next": 752,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Special_HP_1.png"
+  },
+  {
+    "id": "752",
+    "name": "Adept Engineer - Special",
+    "desc": "Your BMs, ARs, and AEs gain 56 HP.",
+    "hullType": [
+      "BM",
+      "AR",
+      "AE"
+    ],
+    "stats": [
+      "Health"
+    ],
+    "level": 2,
+    "next": 753,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Special_HP_2.png"
+  },
+  {
+    "id": "753",
+    "name": "Ace Engineer - Special",
+    "desc": "Your BMs, ARs, and AEs gain 80 HP.",
+    "hullType": [
+      "BM",
+      "AR",
+      "AE"
+    ],
+    "stats": [
+      "Health"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Special_HP_3.png"
+  },
+  {
+    "id": "801",
+    "name": "Rookie Lookout - Submarines",
+    "desc": "Your SSs and SSVs gain 2 Accuracy.",
+    "hullType": [
+      "SS"
+    ],
+    "stats": [
+      "Hit"
+    ],
+    "level": 1,
+    "next": 802,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Submarine_Buff_1.png"
+  },
+  {
+    "id": "802",
+    "name": "Adept Lookout - Submarines",
+    "desc": "Your SSs and SSVs gain 3 Accuracy.",
+    "hullType": [
+      "SS"
+    ],
+    "stats": [
+      "Hit"
+    ],
+    "level": 2,
+    "next": 803,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Submarine_Buff_2.png"
+  },
+  {
+    "id": "803",
+    "name": "Ace Lookout - Submarines",
+    "desc": "Your SSs and SSVs gain 5 Accuracy.",
+    "hullType": [
+      "SS"
+    ],
+    "stats": [
+      "Hit"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Submarine_Buff_3.png"
+  },
+  {
+    "id": "811",
+    "name": "Rookie Lookout - Vanguard",
+    "desc": "Your Vanguard gains 3 Accuracy.",
+    "hullType": [
+      "Vanguard"
+    ],
+    "stats": [
+      "Hit"
+    ],
+    "level": 1,
+    "next": 812,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Destroyer_Buff_1.png"
+  },
+  {
+    "id": "812",
+    "name": "Adept Lookout - Vanguard",
+    "desc": "Your Vanguard gains 4 Accuracy.",
+    "hullType": [
+      "Vanguard"
+    ],
+    "stats": [
+      "Hit"
+    ],
+    "level": 2,
+    "next": 813,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Destroyer_Buff_2.png"
+  },
+  {
+    "id": "813",
+    "name": "Ace Lookout - Vanguard",
+    "desc": "Your Vanguard gains 6 Accuracy.",
+    "hullType": [
+      "Vanguard"
+    ],
+    "stats": [
+      "Hit"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Destroyer_Buff_3.png"
+  },
+  {
+    "id": "821",
+    "name": "Rookie Lookout - Main",
+    "desc": "Your Main Fleet gains 1 Accuracy.",
+    "hullType": [
+      "Main"
+    ],
+    "stats": [
+      "Hit"
+    ],
+    "level": 1,
+    "next": 822,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Battleship_Buff_1.png"
+  },
+  {
+    "id": "822",
+    "name": "Adept Lookout - Main",
+    "desc": "Your Main Fleet gains 2 Accuracy.",
+    "hullType": [
+      "Main"
+    ],
+    "stats": [
+      "Hit"
+    ],
+    "level": 2,
+    "next": 823,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Battleship_Buff_2.png"
+  },
+  {
+    "id": "823",
+    "name": "Ace Lookout - Main",
+    "desc": "Your Main Fleet gains 3 Accuracy.",
+    "hullType": [
+      "Main"
+    ],
+    "stats": [
+      "Hit"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Battleship_Buff_3.png"
+  },
+  {
+    "id": "901",
+    "name": "Rookie Helmsman - Small Ships",
+    "desc": "Your SSs, SSVs, and DDs gain 5 EVA.",
+    "hullType": [
+      "SS",
+      "DD"
+    ],
+    "stats": [
+      "Evasion"
+    ],
+    "level": 1,
+    "next": 902,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Destroyer_Buff_1.png"
+  },
+  {
+    "id": "902",
+    "name": "Adept Helmsman - Small Ships",
+    "desc": "Your SSs, SSVs, and DDs gain 7 EVA.",
+    "hullType": [
+      "SS",
+      "DD"
+    ],
+    "stats": [
+      "Evasion"
+    ],
+    "level": 2,
+    "next": 903,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Destroyer_Buff_2.png"
+  },
+  {
+    "id": "903",
+    "name": "Ace Helmsman - Small Ships",
+    "desc": "Your SSs, SSVs, and DDs gain 10 EVA.",
+    "hullType": [
+      "SS",
+      "DD"
+    ],
+    "stats": [
+      "Evasion"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Destroyer_Buff_3.png"
+  },
+  {
+    "id": "911",
+    "name": "Rookie Helmsman - Medium Ships",
+    "desc": "Your CLs, CAs, CVLs, BMs, ARs, and AEs gain 3 EVA.",
+    "hullType": [
+      "CL",
+      "CA",
+      "CVL",
+      "BM",
+      "AR",
+      "AE"
+    ],
+    "stats": [
+      "Evasion"
+    ],
+    "level": 1,
+    "next": 912,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Cruiser_Buff_1.png"
+  },
+  {
+    "id": "912",
+    "name": "Adept Helmsman - Medium Ships",
+    "desc": "Your CLs, CAs, CVLs, BMs, ARs, and AEs gain 4 EVA.",
+    "hullType": [
+      "CL",
+      "CA",
+      "CVL",
+      "BM",
+      "AR",
+      "AE"
+    ],
+    "stats": [
+      "Evasion"
+    ],
+    "level": 2,
+    "next": 913,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Cruiser_Buff_2.png"
+  },
+  {
+    "id": "913",
+    "name": "Ace Helmsman - Medium Ships",
+    "desc": "Your CLs, CAs, CVLs, BMs, ARs, and AEs gain 6 EVA.",
+    "hullType": [
+      "CL",
+      "CA",
+      "CVL",
+      "BM",
+      "AR",
+      "AE"
+    ],
+    "stats": [
+      "Evasion"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Cruiser_Buff_3.png"
+  },
+  {
+    "id": "921",
+    "name": "Rookie Helmsman - Large Ships",
+    "desc": "Your BBs, BCs, CVs, BBVs, and CBs gain 1 EVA.",
+    "hullType": [
+      "BB",
+      "BC",
+      "BBV",
+      "CV",
+      "CB"
+    ],
+    "stats": [
+      "Evasion"
+    ],
+    "level": 1,
+    "next": 922,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Cruiser_Buff_1.png"
+  },
+  {
+    "id": "922",
+    "name": "Adept Helmsman - Large Ships",
+    "desc": "Your BBs, BCs, CVs, BBVs, and CBs gain 2 EVA.",
+    "hullType": [
+      "BB",
+      "BC",
+      "BBV",
+      "CV",
+      "CB"
+    ],
+    "stats": [
+      "Evasion"
+    ],
+    "level": 2,
+    "next": 923,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Cruiser_Buff_2.png"
+  },
+  {
+    "id": "923",
+    "name": "Ace Helmsman - Large Ships",
+    "desc": "Your BBs, BCs, CVs, BBVs, and CBs gain 3 EVA.",
+    "hullType": [
+      "BB",
+      "BC",
+      "BBV",
+      "CV",
+      "CB"
+    ],
+    "stats": [
+      "Evasion"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Cruiser_Buff_3.png"
+  },
+  {
+    "id": "2001",
+    "name": "Rookie Officer - Destroyers",
+    "desc": "Your DDs gain 8 TRP and 4 RLD.",
+    "hullType": [
+      "DD"
+    ],
+    "stats": [
+      "Torpedo",
+      "Reload"
+    ],
+    "level": 1,
+    "next": 2002,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Destroyer_Buff_1.png"
+  },
+  {
+    "id": "2002",
+    "name": "Elite Officer - Destroyers",
+    "desc": "Your DDs gain 11 TRP and 5 RLD.",
+    "hullType": [
+      "DD"
+    ],
+    "stats": [
+      "Torpedo",
+      "Reload"
+    ],
+    "level": 2,
+    "next": 2003,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Destroyer_Buff_2.png"
+  },
+  {
+    "id": "2003",
+    "name": "Chief of Staff - Destroyers",
+    "desc": "Your DDs gain 16 TRP and 8 RLD.",
+    "hullType": [
+      "DD"
+    ],
+    "stats": [
+      "Torpedo",
+      "Reload"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Destroyer_Buff_3.png"
+  },
+  {
+    "id": "2011",
+    "name": "Rookie Officer - Cruisers",
+    "desc": "Your CLs and CAs gain 5 FP and 5 TRP and your CBs gain 5 FP.",
+    "hullType": [
+      "CL",
+      "CA",
+      "CB"
+    ],
+    "stats": [
+      "Firepower",
+      "Torpedo"
+    ],
+    "level": 1,
+    "next": 2012,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Cruiser_Buff_1.png"
+  },
+  {
+    "id": "2012",
+    "name": "Elite Officer - Cruisers",
+    "desc": "Your CLs and CAs gain 7 FP and 7 TRP and your CBs gain 7 FP.",
+    "hullType": [
+      "CL",
+      "CA",
+      "CB"
+    ],
+    "stats": [
+      "Firepower",
+      "Torpedo"
+    ],
+    "level": 2,
+    "next": 2013,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Cruiser_Buff_2.png"
+  },
+  {
+    "id": "2013",
+    "name": "Chief of Staff - Cruisers",
+    "desc": "Your CLs and CAs gain 10 FP and 10 TRP and your CBs gain 10 FP.",
+    "hullType": [
+      "CL",
+      "CA",
+      "CB"
+    ],
+    "stats": [
+      "Firepower",
+      "Torpedo"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Cruiser_Buff_3.png"
+  },
+  {
+    "id": "2021",
+    "name": "Rookie Officer - Battleships",
+    "desc": "Your BBs and BCs gain 50 HP and 8 FP.",
+    "hullType": [
+      "BB",
+      "BC"
+    ],
+    "stats": [
+      "Health",
+      "Firepower"
+    ],
+    "level": 1,
+    "next": 2022,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Battleship_Buff_1.png"
+  },
+  {
+    "id": "2022",
+    "name": "Elite Officer - Battleships",
+    "desc": "Your BBs and BCs gain 70 HP and 11 FP.",
+    "hullType": [
+      "BB",
+      "BC"
+    ],
+    "stats": [
+      "Health",
+      "Firepower"
+    ],
+    "level": 2,
+    "next": 2023,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Battleship_Buff_2.png"
+  },
+  {
+    "id": "2023",
+    "name": "Chief of Staff - Battleships",
+    "desc": "Your BBs and BCs gain 100 HP and 16 FP.",
+    "hullType": [
+      "BB",
+      "BC"
+    ],
+    "stats": [
+      "Health",
+      "Firepower"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Battleship_Buff_3.png"
+  },
+  {
+    "id": "2031",
+    "name": "Rookie Officer - Carriers",
+    "desc": "Your CVs gain 10 AVI and 3 RLD.",
+    "hullType": [
+      "CV"
+    ],
+    "stats": [
+      "Aviation",
+      "Reload"
+    ],
+    "level": 1,
+    "next": 2032,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Carrier_Buff_1.png"
+  },
+  {
+    "id": "2032",
+    "name": "Elite Officer - Carriers",
+    "desc": "Your CVs gain 14 AVI and 4 RLD.",
+    "hullType": [
+      "CV"
+    ],
+    "stats": [
+      "Aviation",
+      "Reload"
+    ],
+    "level": 2,
+    "next": 2033,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Carrier_Buff_2.png"
+  },
+  {
+    "id": "2033",
+    "name": "Chief of Staff - Carriers",
+    "desc": "Your CVs gain 20 AVI and 6 RLD.",
+    "hullType": [
+      "CV"
+    ],
+    "stats": [
+      "Aviation",
+      "Reload"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Carrier_Buff_3.png"
+  },
+  {
+    "id": "2041",
+    "name": "Rookie Officer - Submarines",
+    "desc": "Your SSs and SSVs gain 10 TRP and 3 RLD.",
+    "hullType": [
+      "SS"
+    ],
+    "stats": [
+      "Torpedo",
+      "Reload"
+    ],
+    "level": 1,
+    "next": 2042,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Submarine_Buff_1.png"
+  },
+  {
+    "id": "2042",
+    "name": "Elite Officer - Submarines",
+    "desc": "Your SSs and SSVs gain 14 TRP and 4 RLD.",
+    "hullType": [
+      "SS"
+    ],
+    "stats": [
+      "Torpedo",
+      "Reload"
+    ],
+    "level": 2,
+    "next": 2043,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Submarine_Buff_2.png"
+  },
+  {
+    "id": "2043",
+    "name": "Chief of Staff - Submarines",
+    "desc": "Your SSs and SSVs gain 20 TRP and 6 RLD.",
+    "hullType": [
+      "SS"
+    ],
+    "stats": [
+      "Torpedo",
+      "Reload"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Submarine_Buff_3.png"
+  },
+  {
+    "id": "2111",
+    "name": "Rookie Officer - Union",
+    "desc": "Your Eagle Union ships gain 8 AA, 8 AVI, and 3 RLD.",
+    "hullType": [
+      "USS"
+    ],
+    "stats": [
+      "Anti-Air",
+      "Aviation",
+      "Reload"
+    ],
+    "level": 1,
+    "next": 2112,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Eagle_Union_1.png"
+  },
+  {
+    "id": "2112",
+    "name": "Elite Officer - Union",
+    "desc": "Your Eagle Union ships gain 11 AA, 11 AVI, and 4 RLD.",
+    "hullType": [
+      "USS"
+    ],
+    "stats": [
+      "Anti-Air",
+      "Aviation",
+      "Reload"
+    ],
+    "level": 2,
+    "next": 2113,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Eagle_Union_2.png"
+  },
+  {
+    "id": "2113",
+    "name": "Chief of Staff - Union",
+    "desc": "Your Eagle Union ships gain 16 AA, 16 AVI, and 6 RLD.",
+    "hullType": [
+      "USS"
+    ],
+    "stats": [
+      "Anti-Air",
+      "Aviation",
+      "Reload"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Eagle_Union_3.png"
+  },
+  {
+    "id": "2121",
+    "name": "Rookie Officer - Royal",
+    "desc": "Your Royal Navy ships gain 7 FP, 8 AA, and 1 EVA.",
+    "hullType": [
+      "HMS"
+    ],
+    "stats": [
+      "Firepower",
+      "Anti-Air",
+      "Evasion"
+    ],
+    "level": 1,
+    "next": 2122,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Royal_Navy_1.png"
+  },
+  {
+    "id": "2122",
+    "name": "Elite Officer - Royal",
+    "desc": "Your Royal Navy ships gain 10 FP, 11 AA, and 2 EVA.",
+    "hullType": [
+      "HMS"
+    ],
+    "stats": [
+      "Firepower",
+      "Anti-Air",
+      "Evasion"
+    ],
+    "level": 2,
+    "next": 2123,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Royal_Navy_2.png"
+  },
+  {
+    "id": "2123",
+    "name": "Chief of Staff - Royal",
+    "desc": "Your Royal Navy ships gain 14 FP, 16 AA, and 3 EVA.",
+    "hullType": [
+      "HMS"
+    ],
+    "stats": [
+      "Firepower",
+      "Anti-Air",
+      "Evasion"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Royal_Navy_3.png"
+  },
+  {
+    "id": "2131",
+    "name": "Rookie Officer - Sakura",
+    "desc": "Your Sakura Empire ships gain 8 TRP, 6 AVI, and 1 EVA.",
+    "hullType": [
+      "IJN"
+    ],
+    "stats": [
+      "Torpedo",
+      "Aviation",
+      "Evasion"
+    ],
+    "level": 1,
+    "next": 2132,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Sakura_Empire_1.png"
+  },
+  {
+    "id": "2132",
+    "name": "Elite Officer - Sakura",
+    "desc": "Your Sakura Empire ships gain 11 TRP, 8 AVI, and 2 EVA.",
+    "hullType": [
+      "IJN"
+    ],
+    "stats": [
+      "Torpedo",
+      "Aviation",
+      "Evasion"
+    ],
+    "level": 2,
+    "next": 2133,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Sakura_Empire_2.png"
+  },
+  {
+    "id": "2133",
+    "name": "Chief of Staff - Sakura",
+    "desc": "Your Sakura Empire ships gain 16 TRP, 12 AVI, and 3 EVA.",
+    "hullType": [
+      "IJN"
+    ],
+    "stats": [
+      "Torpedo",
+      "Aviation",
+      "Evasion"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Sakura_Empire_3.png"
+  },
+  {
+    "id": "2141",
+    "name": "Rookie Officer - Iron Blood",
+    "desc": "Your Iron Blood ships gain 6 FP, 7 TRP, and 1 Accuracy.",
+    "hullType": [
+      "KMS"
+    ],
+    "stats": [
+      "Firepower",
+      "Torpedo",
+      "Accuracy"
+    ],
+    "level": 1,
+    "next": 2142,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Iron_Blood_1.png"
+  },
+  {
+    "id": "2142",
+    "name": "Elite Officer - Iron Blood",
+    "desc": "Your Iron Blood ships gain 8 FP, 10 TRP, and 2 Accuracy.",
+    "hullType": [
+      "KMS"
+    ],
+    "stats": [
+      "Firepower",
+      "Torpedo",
+      "Accuracy"
+    ],
+    "level": 2,
+    "next": 2143,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Iron_Blood_2.png"
+  },
+  {
+    "id": "2143",
+    "name": "Chief of Staff - Iron Blood",
+    "desc": "Your Iron Blood ships gain 12 FP, 14 TRP, and 3 Accuracy.",
+    "hullType": [
+      "KMS"
+    ],
+    "stats": [
+      "Firepower",
+      "Torpedo",
+      "Accuracy"
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Iron_Blood_3.png"
+  },
+  {
+    "id": "5011",
+    "name": "Tireless Warrior",
+    "desc": "Your CLs, CAs, and CBs gain 10 FP and 12 RLD.",
+    "hullType": [
+      "CL",
+      "CA",
+      "CB"
+    ],
+    "stats": [
+      "Firepower",
+      "Reload"
+    ],
+    "level": 1,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Tireless_Warrior.png"
+  },
+  {
+    "id": "5021",
+    "name": "Soulful Warrior",
+    "desc": "Your BBs and BCs gain 15 FP and 3.0% Main Gun Crit Rate.",
+    "hullType": [
+      "BB",
+      "BC"
+    ],
+    "stats": [
+      "Firepower"
+    ],
+    "level": 1,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Soulful_Warrior.png"
+  },
+  {
+    "id": "5031",
+    "name": "Heart of the Torpedo",
+    "desc": "Your DDs and CLs gain 15 TRP and 3.0% Torpedo Crit Rate.",
+    "hullType": [
+      "DD",
+      "CL"
+    ],
+    "stats": [
+      "Torpedo"
+    ],
+    "level": 1,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Heart_of_the_Torpedo.png"
+  },
+  {
+    "id": "5041",
+    "name": "Ace Pilot",
+    "desc": "Your CVs gain 15 AVI and 8 RLD.",
+    "hullType": [
+      "CV"
+    ],
+    "stats": [
+      "Aviation",
+      "Reload"
+    ],
+    "level": 1,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Ace_Pilot.png"
+  },
+  {
+    "id": "5051",
+    "name": "Alpha Wolf",
+    "desc": "Your SSs and SSVs gain 15 TRP and 8 RLD.",
+    "hullType": [
+      "SS"
+    ],
+    "stats": [
+      "Torpedo",
+      "Reload"
+    ],
+    "level": 1,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Alpha_Wolf.png"
+  },
+  {
+    "id": "5061",
+    "name": "Rising Star",
+    "desc": "This Meowfficer gains 10.0% more EXP from battles.",
+    "hullType": [],
+    "stats": [],
+    "level": 1,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Experience.png"
+  },
+  {
+    "id": "5071",
+    "name": "Best Friend",
+    "desc": "This Meowfficer gives 10.0% more EXP when used as Enhancement Material.",
+    "hullType": [],
+    "stats": [],
+    "level": 1,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Experience.png"
+  },
+  {
+    "id": "5081",
+    "name": "Wind's Alacrity",
+    "desc": "Your whole fleet gains 3 Speed.",
+    "hullType": [
+      "All"
+    ],
+    "stats": [
+      "Speed"
+    ],
+    "level": 1,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Special_Skill.png"
+  },
+  {
+    "id": "5091",
+    "name": "Forest's Serenity",
+    "desc": "Your whole fleet gains 15 AA and ASW as well as 3 Accuracy and EVA.",
+    "hullType": [
+      "All"
+    ],
+    "stats": [
+      "Anti-Air",
+      "ASW",
+      "Accuracy",
+      "Evasion"
+    ],
+    "level": 1,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Special_Skill.png"
+  },
+  {
+    "id": "5101",
+    "name": "Flame's Aggression",
+    "desc": "Your whole fleet deals 3.0% more DMG.",
+    "hullType": [
+      "All"
+    ],
+    "stats": [],
+    "level": 1,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Special_Skill.png"
+  },
+  {
+    "id": "5111",
+    "name": "Mountain's Tenacity",
+    "desc": "Your whole fleet takes 3.0% less DMG.",
+    "hullType": [
+      "All"
+    ],
+    "stats": [],
+    "level": 1,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Special_Skill.png"
+  },
+  {
+    "id": "5121",
+    "name": "Miracle",
+    "desc": "Your whole fleet gains 5 LCK.",
+    "hullType": [
+      "All"
+    ],
+    "stats": [
+      "Luck"
+    ],
+    "level": 1,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Special_Skill.png"
+  },
+  {
+    "id": "5131",
+    "name": "Destiny",
+    "desc": "Your whole fleet gains 10 FP, TRP, and AVI, but loses 3 LCK.",
+    "hullType": [
+      "All"
+    ],
+    "stats": [
+      "Firepower",
+      "Torpedo",
+      "Airpower",
+      "Luck"
+    ],
+    "level": 1,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/Special_Skill.png"
+  }
+]
