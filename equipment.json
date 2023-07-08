@@ -8889,6 +8889,171 @@
 			}
 		}
 	},
+	"3920": {
+		"name": "Oasis Barometer",
+		"desc": "An old-fashioned weather-measuring instrument enclosed in a brass case, one of the Oasis' most popular and practical souvenirs.",
+		"label": [
+			"RN",
+			"DEV"
+		],
+		"rarity": 4,
+		"nationality": 6,
+		"type": 10,
+		"skill": [
+			60370
+		],
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/3920.png",
+		"stats": {
+			"1": {
+				"id": 3920,
+				"level": 1,
+				"dodge": 10,
+				"hit": 6
+			},
+			"2": {
+				"id": 3921,
+				"level": 2,
+				"dodge": 11,
+				"hit": 7
+			},
+			"3": {
+				"id": 3922,
+				"level": 3,
+				"dodge": 12,
+				"hit": 7
+			},
+			"4": {
+				"id": 3923,
+				"level": 4,
+				"dodge": 13,
+				"hit": 8
+			},
+			"5": {
+				"id": 3924,
+				"level": 5,
+				"dodge": 14,
+				"hit": 9
+			},
+			"6": {
+				"id": 3925,
+				"level": 6,
+				"dodge": 15,
+				"hit": 10
+			},
+			"7": {
+				"id": 3926,
+				"level": 7,
+				"dodge": 16,
+				"hit": 11
+			},
+			"8": {
+				"id": 3927,
+				"level": 8,
+				"dodge": 17,
+				"hit": 12
+			},
+			"9": {
+				"id": 3928,
+				"level": 9,
+				"dodge": 18,
+				"hit": 13
+			},
+			"10": {
+				"id": 3929,
+				"level": 10,
+				"dodge": 19,
+				"hit": 14
+			},
+			"11": {
+				"id": 3930,
+				"level": 11,
+				"dodge": 20,
+				"hit": 15
+			},
+			"12": {
+				"id": 3931,
+				"level": 12,
+				"dodge": 21,
+				"hit": 16
+			}
+		}
+	},
+	"3940": {
+		"name": "Elite Aviation Maintenance Manjuu",
+		"desc": "A Manjuu maintenance team that performs extensive checks for air support capabilities. Hopefully, the extra launch time yields worthwhile results.",
+		"label": [
+			"DEV"
+		],
+		"rarity": 4,
+		"nationality": 0,
+		"type": 10,
+		"skill": [
+			60380
+		],
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/3940.png",
+		"stats": {
+			"1": {
+				"id": 3940,
+				"level": 1,
+				"air": 18
+			},
+			"2": {
+				"id": 3941,
+				"level": 2,
+				"air": 22
+			},
+			"3": {
+				"id": 3942,
+				"level": 3,
+				"air": 26
+			},
+			"4": {
+				"id": 3943,
+				"level": 4,
+				"air": 30
+			},
+			"5": {
+				"id": 3944,
+				"level": 5,
+				"air": 34
+			},
+			"6": {
+				"id": 3945,
+				"level": 6,
+				"air": 39
+			},
+			"7": {
+				"id": 3946,
+				"level": 7,
+				"air": 43
+			},
+			"8": {
+				"id": 3947,
+				"level": 8,
+				"air": 47
+			},
+			"9": {
+				"id": 3948,
+				"level": 9,
+				"air": 51
+			},
+			"10": {
+				"id": 3949,
+				"level": 10,
+				"air": 55
+			},
+			"11": {
+				"id": 3950,
+				"level": 11,
+				"air": 60
+			},
+			"12": {
+				"id": 3951,
+				"level": 12,
+				"air": 65
+			}
+		}
+	},
 	"4000": {
 		"name": "Basic Depth Charge Projector",
 		"desc": "No description",
