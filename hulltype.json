@@ -1,0 +1,93 @@
+{
+  "1": {
+    "name": "Destroyer",
+    "slang": "DD",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/DD.png"
+  },
+  "2": {
+    "name": "Light Cruiser",
+    "slang": "CL",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/CL.png"
+  },
+  "3": {
+    "name": "Heavy Cruiser",
+    "slang": "CA",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/CA.png"
+  },
+  "4": {
+    "name": "Battlecruiser",
+    "slang": "BC",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/BC.png"
+  },
+  "5": {
+    "name": "Battleship",
+    "slang": "BB",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/BB.png"
+  },
+  "6": {
+    "name": "Light Carrier",
+    "slang": "CVL",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/CVL.png"
+  },
+  "7": {
+    "name": "Aircraft Carrier",
+    "slang": "DD",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/DD.png"
+  },
+  "8": {
+    "name": "Submarine",
+    "slang": "SS",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/SS.png"
+  },
+  "10": {
+    "name": "Aviation Battleship",
+    "slang": "BBV",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/BBV.png"
+  },
+  "12": {
+    "name": "Repair",
+    "slang": "AR",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/AR.png"
+  },
+  "13": {
+    "name": "Monitor",
+    "slang": "BM",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/BM.png"
+  },
+  "17": {
+    "name": "Submarine Carrier",
+    "slang": "SSV",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/SSV.png"
+  },
+  "18": {
+    "name": "Heavy Crusier",
+    "slang": "CB",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/CB.png"
+  },
+  "19": {
+    "name": "Munition Ship",
+    "slang": "AE",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/AE.png"
+  },
+  "20": {
+    "name": "Guided-Missile Destroyer (Vanguard)",
+    "slang": "DDGv",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/DDGv.png"
+  },
+  "21": {
+    "name": "Guided-Missile Destroyer (Main)",
+    "slang": "DDGm",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/DDGm.png"
+  },
+  "22": {
+    "name": "Sailing Frigate",
+    "slang": "IX",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/IX.png"
+  },
+  "40": {
+    "name": "Guided-Missile Destroyer",
+    "slang": "DDG",
+    "notes": "This is custom id created to hold base DDG",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/DDG.png"
+  }
+}

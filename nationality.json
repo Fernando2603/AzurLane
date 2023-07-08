@@ -1,0 +1,67 @@
+{
+  "1": {
+    "name": "Universal",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/nationality/0.png"
+  },
+  "2": {
+    "name": "Eagle Union",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/nationality/1.png"
+  },
+  "3": {
+    "name": "Royal Navy",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/nationality/2.png"
+  },
+  "4": {
+    "name": "Sakura Empire",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/nationality/3.png"
+  },
+  "5": {
+    "name": "Iron Blood",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/nationality/4.png"
+
+  },
+  "6": {
+    "name": "Dragon Empery",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/nationality/5.png"
+  },
+  "7": {
+    "name": "Sardegna Empire",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/nationality/6.png"
+  },
+  "8": {
+    "name": "Northern Parliament",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/nationality/7.png"
+  },
+  "8": {
+    "name": "Iris Libre",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/nationality/8.png"
+  },
+  "9": {
+    "name": "Vichya Dominion",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/nationality/9.png"
+  },
+  "96": {
+    "name": "Tempesta",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/nationality/96.png"
+  },
+  "97": {
+    "name": "META",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/nationality/97.png"
+  },
+  "98": {
+    "name": "Universal",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/nationality/98.png"
+  },
+  "100": {
+    "name": "Collab",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/nationality/100.png"
+  },
+  "101": {
+    "name": "Neptunia",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/nationality/101.png"
+  },
+  "102": {
+    "name": "Bilibili",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/nationality/102.png"
+  }
+}
