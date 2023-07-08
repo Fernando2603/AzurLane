@@ -6071,54 +6071,6 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/16800.png",
 		"max_level": 10
 	},
-	"16810": {
-		"id": 16810,
-		"type": 3,
-		"name": "Role Model Torchbearer",
-		"desc": "Increases your Sardegna Empire BBs' FP and EVA by 10.0%. When this ship's Main Guns hit an enemy: increases all your Sardegna Empire ships' DMG dealt to that enemy by 6.0% for 6s.",
-		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/16810.png",
-		"max_level": 10
-	},
-	"16820": {
-		"id": 16820,
-		"type": 1,
-		"name": "To Uphold Expectations",
-		"desc": "When the battle starts, if there is another Sardegna Empire BB in your fleet: increases this ship's DMG dealt by 12.0%; if there is none, decreases this ship's DMG taken by 12.0%. When this ship fires her Main Guns: 50.0% chance to fire a Lv.10 special barrage (DMG is based on the skill's level).",
-		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/16820.png",
-		"max_level": 10
-	},
-	"16830": {
-		"id": 16830,
-		"type": 1,
-		"name": "Porpora Strike",
-		"desc": "Every 4 times this ship fires her Main Guns: 70.0% chance to fire a Lv.10 special barrage (DMG is based on the skill's level). If this ship has Sardegna Empire gear equipped: increases this ship's AA by 10.0% and increases this skill's barrage activation chance by 30.0%.",
-		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/16830.png",
-		"max_level": 10
-	},
-	"16840": {
-		"id": 16840,
-		"type": 2,
-		"name": "In Arduis Intrepida",
-		"desc": "Increases this ship's EVA by 10.0% and increases your Zara-class ships' DMG dealt by 6.0%. Once per battle, when this ship's HP falls below 90.0% as a result of DMG taken: increases this ship's Evasion Rate by 4.0% and increases your Sardegna Empire Vanguard ships' ACC by 10.0%.",
-		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/16840.png",
-		"max_level": 10
-	},
-	"16850": {
-		"id": 16850,
-		"type": 1,
-		"name": "Help Me! Duke Monochrome Rabbit!",
-		"desc": "When this ship fires her Main Guns: summons either Black Rabbit or White Rabbit and performs a Lv.10 special attack (DMG is based on the skill's level). Every 16 times this special attack is performed: summons Duke Monochrome Rabbit and performs a Lv.10 wide-range special attack.",
-		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/16850.png",
-		"max_level": 10
-	},
-	"16860": {
-		"id": 16860,
-		"type": 2,
-		"name": "Princess of the Fairytale Kingdom",
-		"desc": "Increases this ship's FP and EVA by 10.0%. When this ship fires her torpedoes: 80.0% chance to restore 1.5% of this ship's max HP. When the battle starts, if there is another Sardegna Empire ship in your fleet: increases this skill's health restoring effect's activation chance by 20.0% and, 5s after it activates, increases this ship's EVA by 5.0% for 5s.",
-		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/16860.png",
-		"max_level": 10
-	},
 	"18010": {
 		"id": 18010,
 		"type": 1,
@@ -10229,22 +10181,6 @@
 		"name": "All Out Assault II",
 		"desc": "Every 8 times this ship fires her Main Guns: fires a special barrage. When this effect activates while an enemy is locked on by \"Regina, the Iron Empress\", the barrage will be improved.",
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30020.png",
-		"max_level": 1
-	},
-	"30031": {
-		"id": 30031,
-		"type": 1,
-		"name": "All Out Assault I",
-		"desc": "Activates All Out Assault I: Attilio Regolo once every 24 times the Main Guns are fired.",
-		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30030.png",
-		"max_level": 1
-	},
-	"30032": {
-		"id": 30032,
-		"type": 1,
-		"name": "All Out Assault II",
-		"desc": "Activates All Out Assault II: Attilio Regolo once every 16 times the Main Guns are fired.",
-		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30030.png",
 		"max_level": 1
 	},
 	"101010": {
