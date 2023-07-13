@@ -17983,6 +17983,149 @@
 			}
 		}
 	},
+	"14540": {
+		"name": "Prototype Triple 406mm Mk6 Main Gun Mount",
+		"desc": "No description",
+		"label": [
+			"USS",
+			"BB",
+			"MG",
+			"HE"
+		],
+		"rarity": 5,
+		"nationality": 1,
+		"type": 4,
+		"skill": [],
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/14540.png",
+		"stats": {
+			"1": {
+				"id": 14540,
+				"level": 1,
+				"damage": "69 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					14540
+				]
+			},
+			"2": {
+				"id": 14541,
+				"level": 2,
+				"damage": "79 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					14541
+				]
+			},
+			"3": {
+				"id": 14542,
+				"level": 3,
+				"damage": "87 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					14542
+				]
+			},
+			"4": {
+				"id": 14543,
+				"level": 4,
+				"damage": "97 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					14543
+				]
+			},
+			"5": {
+				"id": 14544,
+				"level": 5,
+				"damage": "107 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					14544
+				]
+			},
+			"6": {
+				"id": 14545,
+				"level": 6,
+				"damage": "117 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					14545
+				]
+			},
+			"7": {
+				"id": 14546,
+				"level": 7,
+				"damage": "127 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					14546
+				]
+			},
+			"8": {
+				"id": 14547,
+				"level": 8,
+				"damage": "135 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					14547
+				]
+			},
+			"9": {
+				"id": 14548,
+				"level": 9,
+				"damage": "145 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					14548
+				]
+			},
+			"10": {
+				"id": 14549,
+				"level": 10,
+				"damage": "155 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					14549
+				]
+			},
+			"11": {
+				"id": 14550,
+				"level": 11,
+				"damage": "165 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					14550
+				]
+			},
+			"12": {
+				"id": 14551,
+				"level": 12,
+				"damage": "165 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					14551
+				]
+			},
+			"13": {
+				"id": 14552,
+				"level": 13,
+				"damage": "165 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					14552
+				]
+			},
+			"14": {
+				"id": 14553,
+				"level": 14,
+				"damage": "165 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					14553
+				]
+			}
+		}
+	},
 	"15000": {
 		"name": "Mark 14 Submarine Torpedo",
 		"desc": "No description",
@@ -40695,6 +40838,165 @@
 			}
 		}
 	},
+	"32360": {
+		"name": "Prototype Triple 150mm Type 5 High-Angle Gun Mount",
+		"desc": "No description",
+		"label": [
+			"IJN",
+			"CL",
+			"MG",
+			"HE"
+		],
+		"rarity": 5,
+		"nationality": 3,
+		"type": 2,
+		"skill": [
+			60390
+		],
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/32360.png",
+		"stats": {
+			"1": {
+				"id": 32360,
+				"level": 1,
+				"damage": "10 x 6",
+				"cannon": 30,
+				"antiaircraft": 15,
+				"weapon_id": [
+					32360
+				]
+			},
+			"2": {
+				"id": 32361,
+				"level": 2,
+				"damage": "11 x 6",
+				"cannon": 30,
+				"antiaircraft": 15,
+				"weapon_id": [
+					32361
+				]
+			},
+			"3": {
+				"id": 32362,
+				"level": 3,
+				"damage": "12 x 6",
+				"cannon": 30,
+				"antiaircraft": 15,
+				"weapon_id": [
+					32362
+				]
+			},
+			"4": {
+				"id": 32363,
+				"level": 4,
+				"damage": "13 x 6",
+				"cannon": 30,
+				"antiaircraft": 15,
+				"weapon_id": [
+					32363
+				]
+			},
+			"5": {
+				"id": 32364,
+				"level": 5,
+				"damage": "14 x 6",
+				"cannon": 30,
+				"antiaircraft": 15,
+				"weapon_id": [
+					32364
+				]
+			},
+			"6": {
+				"id": 32365,
+				"level": 6,
+				"damage": "15 x 6",
+				"cannon": 30,
+				"antiaircraft": 15,
+				"weapon_id": [
+					32365
+				]
+			},
+			"7": {
+				"id": 32366,
+				"level": 7,
+				"damage": "16 x 6",
+				"cannon": 30,
+				"antiaircraft": 15,
+				"weapon_id": [
+					32366
+				]
+			},
+			"8": {
+				"id": 32367,
+				"level": 8,
+				"damage": "17 x 6",
+				"cannon": 30,
+				"antiaircraft": 15,
+				"weapon_id": [
+					32367
+				]
+			},
+			"9": {
+				"id": 32368,
+				"level": 9,
+				"damage": "18 x 6",
+				"cannon": 30,
+				"antiaircraft": 15,
+				"weapon_id": [
+					32368
+				]
+			},
+			"10": {
+				"id": 32369,
+				"level": 10,
+				"damage": "19 x 6",
+				"cannon": 30,
+				"antiaircraft": 15,
+				"weapon_id": [
+					32369
+				]
+			},
+			"11": {
+				"id": 32370,
+				"level": 11,
+				"damage": "20 x 6",
+				"cannon": 30,
+				"antiaircraft": 15,
+				"weapon_id": [
+					32370
+				]
+			},
+			"12": {
+				"id": 32371,
+				"level": 12,
+				"damage": "20 x 6",
+				"cannon": 30,
+				"antiaircraft": 15,
+				"weapon_id": [
+					32371
+				]
+			},
+			"13": {
+				"id": 32372,
+				"level": 13,
+				"damage": "20 x 6",
+				"cannon": 30,
+				"antiaircraft": 15,
+				"weapon_id": [
+					32372
+				]
+			},
+			"14": {
+				"id": 32373,
+				"level": 14,
+				"damage": "20 x 6",
+				"cannon": 30,
+				"antiaircraft": 15,
+				"weapon_id": [
+					32373
+				]
+			}
+		}
+	},
 	"33000": {
 		"name": "Twin 203mm Naval Gun Mount",
 		"desc": "No description",
@@ -53433,6 +53735,152 @@
 			}
 		}
 	},
+	"42360": {
+		"name": "Prototype Twin 150mm TbtsK C42T Main Gun Mount",
+		"desc": "",
+		"label": [
+			"KMS",
+			"CL",
+			"MG",
+			"AP",
+			"SKC42T"
+		],
+		"rarity": 5,
+		"nationality": 4,
+		"type": 2,
+		"skill": [
+			60400
+		],
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/42360.png",
+		"stats": {
+			"1": {
+				"id": 42360,
+				"level": 1,
+				"damage": "15 x 4",
+				"cannon": 45,
+				"weapon_id": [
+					42360
+				]
+			},
+			"2": {
+				"id": 42361,
+				"level": 2,
+				"damage": "17 x 4",
+				"cannon": 45,
+				"weapon_id": [
+					42361
+				]
+			},
+			"3": {
+				"id": 42362,
+				"level": 3,
+				"damage": "19 x 4",
+				"cannon": 45,
+				"weapon_id": [
+					42362
+				]
+			},
+			"4": {
+				"id": 42363,
+				"level": 4,
+				"damage": "20 x 4",
+				"cannon": 45,
+				"weapon_id": [
+					42363
+				]
+			},
+			"5": {
+				"id": 42364,
+				"level": 5,
+				"damage": "21 x 4",
+				"cannon": 45,
+				"weapon_id": [
+					42364
+				]
+			},
+			"6": {
+				"id": 42365,
+				"level": 6,
+				"damage": "22 x 4",
+				"cannon": 45,
+				"weapon_id": [
+					42365
+				]
+			},
+			"7": {
+				"id": 42366,
+				"level": 7,
+				"damage": "23 x 4",
+				"cannon": 45,
+				"weapon_id": [
+					42366
+				]
+			},
+			"8": {
+				"id": 42367,
+				"level": 8,
+				"damage": "24 x 4",
+				"cannon": 45,
+				"weapon_id": [
+					42367
+				]
+			},
+			"9": {
+				"id": 42368,
+				"level": 9,
+				"damage": "25 x 4",
+				"cannon": 45,
+				"weapon_id": [
+					42368
+				]
+			},
+			"10": {
+				"id": 42369,
+				"level": 10,
+				"damage": "26 x 4",
+				"cannon": 45,
+				"weapon_id": [
+					42369
+				]
+			},
+			"11": {
+				"id": 42370,
+				"level": 11,
+				"damage": "27 x 4",
+				"cannon": 45,
+				"weapon_id": [
+					42370
+				]
+			},
+			"12": {
+				"id": 42371,
+				"level": 12,
+				"damage": "27 x 4",
+				"cannon": 45,
+				"weapon_id": [
+					42371
+				]
+			},
+			"13": {
+				"id": 42372,
+				"level": 13,
+				"damage": "27 x 4",
+				"cannon": 45,
+				"weapon_id": [
+					42372
+				]
+			},
+			"14": {
+				"id": 42373,
+				"level": 14,
+				"damage": "27 x 4",
+				"cannon": 45,
+				"weapon_id": [
+					42373
+				]
+			}
+		}
+	},
 	"43000": {
 		"name": "Twin 203mm (SK C/34)",
 		"desc": "The Twin 203mm (SK C/34) is the main gun of Admiral Hipper class cruisers. May be used by heavy cruisers.",
@@ -54312,6 +54760,149 @@
 				"cannon": 25,
 				"weapon_id": [
 					43151
+				]
+			}
+		}
+	},
+	"43160": {
+		"name": "Prototype Triple 203mm SKC Main Gun Mount",
+		"desc": "",
+		"label": [
+			"KMS",
+			"CA",
+			"MG",
+			"AP"
+		],
+		"rarity": 6,
+		"nationality": 4,
+		"type": 3,
+		"skill": [],
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/43160.png",
+		"stats": {
+			"1": {
+				"id": 43160,
+				"level": 1,
+				"damage": "33 x 6",
+				"cannon": 65,
+				"weapon_id": [
+					43160
+				]
+			},
+			"2": {
+				"id": 43161,
+				"level": 2,
+				"damage": "35 x 6",
+				"cannon": 65,
+				"weapon_id": [
+					43161
+				]
+			},
+			"3": {
+				"id": 43162,
+				"level": 3,
+				"damage": "37 x 6",
+				"cannon": 65,
+				"weapon_id": [
+					43162
+				]
+			},
+			"4": {
+				"id": 43163,
+				"level": 4,
+				"damage": "39 x 6",
+				"cannon": 65,
+				"weapon_id": [
+					43163
+				]
+			},
+			"5": {
+				"id": 43164,
+				"level": 5,
+				"damage": "41 x 6",
+				"cannon": 65,
+				"weapon_id": [
+					43164
+				]
+			},
+			"6": {
+				"id": 43165,
+				"level": 6,
+				"damage": "43 x 6",
+				"cannon": 65,
+				"weapon_id": [
+					43165
+				]
+			},
+			"7": {
+				"id": 43166,
+				"level": 7,
+				"damage": "45 x 6",
+				"cannon": 65,
+				"weapon_id": [
+					43166
+				]
+			},
+			"8": {
+				"id": 43167,
+				"level": 8,
+				"damage": "47 x 6",
+				"cannon": 65,
+				"weapon_id": [
+					43167
+				]
+			},
+			"9": {
+				"id": 43168,
+				"level": 9,
+				"damage": "49 x 6",
+				"cannon": 65,
+				"weapon_id": [
+					43168
+				]
+			},
+			"10": {
+				"id": 43169,
+				"level": 10,
+				"damage": "51 x 6",
+				"cannon": 65,
+				"weapon_id": [
+					43169
+				]
+			},
+			"11": {
+				"id": 43170,
+				"level": 11,
+				"damage": "53 x 6",
+				"cannon": 65,
+				"weapon_id": [
+					43170
+				]
+			},
+			"12": {
+				"id": 43171,
+				"level": 12,
+				"damage": "53 x 6",
+				"cannon": 65,
+				"weapon_id": [
+					43171
+				]
+			},
+			"13": {
+				"id": 43172,
+				"level": 13,
+				"damage": "53 x 6",
+				"cannon": 65,
+				"weapon_id": [
+					43172
+				]
+			},
+			"14": {
+				"id": 43173,
+				"level": 14,
+				"damage": "53 x 6",
+				"cannon": 65,
+				"weapon_id": [
+					43173
 				]
 			}
 		}
@@ -58539,6 +59130,148 @@
 				"antiaircraft": 45,
 				"weapon_id": [
 					46413
+				]
+			}
+		}
+	},
+	"46420": {
+		"name": "Prototype 55mm Gerät 58 AA Gun Mount",
+		"desc": "No description",
+		"label": [
+			"KMS",
+			"ST",
+			"AA"
+		],
+		"rarity": 5,
+		"nationality": 4,
+		"type": 6,
+		"skill": [],
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/46420.png",
+		"stats": {
+			"1": {
+				"id": 46420,
+				"level": 1,
+				"damage": "37/wave",
+				"antiaircraft": 45,
+				"weapon_id": [
+					46420
+				]
+			},
+			"2": {
+				"id": 46421,
+				"level": 2,
+				"damage": "40/wave",
+				"antiaircraft": 45,
+				"weapon_id": [
+					46421
+				]
+			},
+			"3": {
+				"id": 46422,
+				"level": 3,
+				"damage": "43/wave",
+				"antiaircraft": 45,
+				"weapon_id": [
+					46422
+				]
+			},
+			"4": {
+				"id": 46423,
+				"level": 4,
+				"damage": "46/wave",
+				"antiaircraft": 45,
+				"weapon_id": [
+					46423
+				]
+			},
+			"5": {
+				"id": 46424,
+				"level": 5,
+				"damage": "49/wave",
+				"antiaircraft": 45,
+				"weapon_id": [
+					46424
+				]
+			},
+			"6": {
+				"id": 46425,
+				"level": 6,
+				"damage": "52/wave",
+				"antiaircraft": 45,
+				"weapon_id": [
+					46425
+				]
+			},
+			"7": {
+				"id": 46426,
+				"level": 7,
+				"damage": "55/wave",
+				"antiaircraft": 45,
+				"weapon_id": [
+					46426
+				]
+			},
+			"8": {
+				"id": 46427,
+				"level": 8,
+				"damage": "58/wave",
+				"antiaircraft": 45,
+				"weapon_id": [
+					46427
+				]
+			},
+			"9": {
+				"id": 46428,
+				"level": 9,
+				"damage": "61/wave",
+				"antiaircraft": 45,
+				"weapon_id": [
+					46428
+				]
+			},
+			"10": {
+				"id": 46429,
+				"level": 10,
+				"damage": "64/wave",
+				"antiaircraft": 45,
+				"weapon_id": [
+					46429
+				]
+			},
+			"11": {
+				"id": 46430,
+				"level": 11,
+				"damage": "68/wave",
+				"antiaircraft": 45,
+				"weapon_id": [
+					46430
+				]
+			},
+			"12": {
+				"id": 46431,
+				"level": 12,
+				"damage": "68/wave",
+				"antiaircraft": 45,
+				"weapon_id": [
+					46431
+				]
+			},
+			"13": {
+				"id": 46432,
+				"level": 13,
+				"damage": "68/wave",
+				"antiaircraft": 45,
+				"weapon_id": [
+					46432
+				]
+			},
+			"14": {
+				"id": 46433,
+				"level": 14,
+				"damage": "68/wave",
+				"antiaircraft": 45,
+				"weapon_id": [
+					46433
 				]
 			}
 		}
@@ -67263,6 +67996,149 @@
 				"cannon": 12,
 				"weapon_id": [
 					90467
+				]
+			}
+		}
+	},
+	"90480": {
+		"name": "Prototype Triple 380mm Mle 1935 Main Gun Mount",
+		"desc": "No description",
+		"label": [
+			"FFNF",
+			"BB",
+			"MG",
+			"AP"
+		],
+		"rarity": 5,
+		"nationality": 8,
+		"type": 4,
+		"skill": [],
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/50480.png",
+		"stats": {
+			"1": {
+				"id": 90480,
+				"level": 1,
+				"damage": "52 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					90480
+				]
+			},
+			"2": {
+				"id": 90481,
+				"level": 2,
+				"damage": "62 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					90481
+				]
+			},
+			"3": {
+				"id": 90482,
+				"level": 3,
+				"damage": "70 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					90482
+				]
+			},
+			"4": {
+				"id": 90483,
+				"level": 4,
+				"damage": "80 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					90483
+				]
+			},
+			"5": {
+				"id": 90484,
+				"level": 5,
+				"damage": "90 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					90484
+				]
+			},
+			"6": {
+				"id": 90485,
+				"level": 6,
+				"damage": "100 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					90485
+				]
+			},
+			"7": {
+				"id": 90486,
+				"level": 7,
+				"damage": "110 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					90486
+				]
+			},
+			"8": {
+				"id": 90487,
+				"level": 8,
+				"damage": "118 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					90487
+				]
+			},
+			"9": {
+				"id": 90488,
+				"level": 9,
+				"damage": "128 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					90488
+				]
+			},
+			"10": {
+				"id": 90489,
+				"level": 10,
+				"damage": "138 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					90489
+				]
+			},
+			"11": {
+				"id": 90490,
+				"level": 11,
+				"damage": "148 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					90490
+				]
+			},
+			"12": {
+				"id": 90491,
+				"level": 12,
+				"damage": "148 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					90491
+				]
+			},
+			"13": {
+				"id": 90492,
+				"level": 13,
+				"damage": "148 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					90492
+				]
+			},
+			"14": {
+				"id": 90493,
+				"level": 14,
+				"damage": "148 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					90493
 				]
 			}
 		}

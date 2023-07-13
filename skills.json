@@ -6823,6 +6823,94 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19650.png",
 		"max_level": 10
 	},
+	"19660": {
+		"id": 19660,
+		"type": 3,
+		"name": "Multi-Linked Locking System",
+		"desc": "Increases this ship's AVI and FP by 10.0%. When this ship's aircraft hits an enemy: 100.0% chance to inflict a special Burn ailment to that target for 10s, increasing that target's shelling DMG taken from your Main Fleet by 8.0%. When this ship's Main Guns hit an enemy: 100.0% chance to increase the target's airstrike DMG taken from your Main Fleet by 4.0%; if the target is already affected by an AA stat debuff, further increases that target's airstrike DMG taken from your Main Fleet by 8.0%. This effect lasts until the next time this ship fires her Main Guns.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19660.png",
+		"max_level": 10
+	},
+	"19670": {
+		"id": 19670,
+		"type": 1,
+		"name": "Functional Amplification Mechanism",
+		"desc": "If this ship has an Eagle Union or Northern Parliament Main Gun equipped: increases this ship's FP by 10.0% and decreases her cannon DMG taken by 20.0%. If this ship has an Eagle Union or Northern Parliament aircraft equipped: increases this ship's AVI by 10.0% and decreases the loading time of her 1st airstrike by 30.0%. When the battle starts, if there is another Eagle Union ship in your Main Fleet: while this ship is afloat, your CVs and CVLs deal 15.0% more airstrike DMG (does not stack with the skill \"Air Raid Assistance\").",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19670.png",
+		"max_level": 10
+	},
+	"19680": {
+		"id": 19680,
+		"type": 1,
+		"name": "Combat Adaptation Module",
+		"desc": "Increases this ship's DMG dealt to Burning enemies by 10.0%. When this ship launches an airstrike: launches an additional Lv.10 special airstrike. Every 20s: fires a Lv.10 special barrage with properties that change based on whether or not there are Burning enemies on the battlefield (inflicts a special Burn for 10s to enemies hit by the Oceanic Blaze special barrage; DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19680.png",
+		"max_level": 10
+	},
+	"19690": {
+		"id": 19690,
+		"type": 1,
+		"name": "Tormentor of the Weak",
+		"desc": "Increases this ship's Crit Rate by 10.0% and Crit DMG by 20.0% when attacking enemies below 50.0% HP.\nEvery 20s: fires a Lv.10 special barrage (DMG is based on the skill's level); increases this ship's DMG dealt by 15.0% to enemies hit by this barrage (effect does not stack); if this ship has a CL Main Gun equipped: increases this ship's Main Gun efficiency by 10.0% and reduces the activation interval of this special barrage to 10s.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19690.png",
+		"max_level": 10
+	},
+	"19700": {
+		"id": 19700,
+		"type": 2,
+		"name": "Drown in the Abyss of Desire",
+		"desc": "Increases this ship's EVA by 18.0% and decreases her DMG taken by 18.0%. Decreases the speed of this ship's torpedoes by 1 and increases their DMG dealt by 20.0%. When the battle starts, and every 10: deploys a shield (lasts 5s; can block up to 5 shells); if this shield expires or is destroyed, increases this ship's Evasion Rate by 8.0% until this shield is deployed again. If this ship has an AP Main Gun equipped: increases this ship's DMG dealt to CLs and CAs by 15.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19700.png",
+		"max_level": 10
+	},
+	"19710": {
+		"id": 19710,
+		"type": 2,
+		"name": "The Most Dangerous Game",
+		"desc": "Increases this ship's FP by 5.0% and EVA and ACC by 15.0%. \nOne of the following two effects apply based on what type of weapon this ship has equipped in her third weapon slot:\n 1): Main Gun: increases this ship's FP by 10.0% and DMG dealt by 5.0%. Shells fired from this ship's Main Guns ignore enemy shields.\n 2): AA Gun: increases this ship's EVA by 10.0% and decreases her DMG taken by 8.0%. When the battle starts, and every 30s: deploys 2 shields (last 15s; can each block up to 8 shells).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19710.png",
+		"max_level": 10
+	},
+	"19720": {
+		"id": 19720,
+		"type": 1,
+		"name": "Doombringer's Euphoria",
+		"desc": "3s after the battle starts, and every 15s after that: fires a Lv.10 special barrage that inflicts the Hunted debuff to enemies hit (DMG is based on the skill's level). Every 5s, if there are enemies with the Hunted debuff on the battlefield: performs a special attack.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19720.png",
+		"max_level": 10
+	},
+	"19730": {
+		"id": 19730,
+		"type": 1,
+		"name": "Apotheosis: Flourishing Assault",
+		"desc": "Every 20s: fires a Lv.10 special barrage (DMG is based on the skill's level). When this ship fires her 2nd Main Gun volley, if she has at least 60.0% HP remaining: randomly marks 1 enemy target, prioritizing Humanoid enemies. This ship deals 12.0% increased DMG to the marked enemy. The mark lasts until Flandre falls below 60.0% HP as a result of DMG taken.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19730.png",
+		"max_level": 10
+	},
+	"19740": {
+		"id": 19740,
+		"type": 2,
+		"name": "Apotheosis: Lightplume Vestments",
+		"desc": "Increases this ship's EVA by 15.0% and FP by 20.0%. Once per battle, when this ship's HP falls below 50.0% as a result of DMG taken: restores 3.0% of this ship's max HP once per second for 5s, then sets this ship's Secondary Gun Eff. Range and Shell Range to 95 and increases her Secondary Gun efficiency by 30.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19740.png",
+		"max_level": 10
+	},
+	"19750": {
+		"id": 19750,
+		"type": 1,
+		"name": "Torrential Wrath",
+		"desc": "With every 2nd wave of torpedoes this ship fires: fires a Lv.10 special barrage (DMG is based on the skill's level) that inflicts a special Flooding ailment to enemies hit for 6s; when this barrage activates: extinguishes all Burning ships in your fleet (does not affect special Burn ailments) and, for 3s, reduces the Burn DMG taken by your fleet by 50.0%.\nWhen the barrage from this skill is activated for the second time: improves this barrage until the end of battle, and fires it again after 5s.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19750.png",
+		"max_level": 10
+	},
+	"19760": {
+		"id": 19760,
+		"type": 2,
+		"name": "Divine Presence",
+		"desc": "When the battle starts: this ship gains a Lv.10 special AA Gun (DMG is based on the skill's level). If this ship has the Prototype 150mm Type 5 High-Angle Gun Mount equipped: increases this ship's 3rd weapon slot efficiency by 30.0%. Every 10s, or when a ship in your fleet fires her AA Gun: increases your Vanguard's AA by 6.0% (maximum of 3 activations; can be stacked). When this effect activates 3 times: restores 4.0% of your Vanguard's max HP and, until the battle ends, decreases Shimanto's DMG taken by 18.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19760.png",
+		"max_level": 10
+	},
 	"20011": {
 		"id": 20011,
 		"type": 1,
@@ -10203,7 +10291,7 @@
 		"id": 30001,
 		"type": 1,
 		"name": "All Out Assault I",
-		"desc": "Every 15 times this ship fires her Main Guns: fires a special barrage. If this ship has a CL Main Gun equipped: reduces the shot requirement to 6.",
+		"desc": "Activates All Out Assault I: Felix Schultz once every 15 times the Main Guns are fired. If this ship has a CL Main Gun equipped: reduces the shot requirement to 6.",
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30000.png",
 		"max_level": 1
 	},
@@ -10211,7 +10299,7 @@
 		"id": 30011,
 		"type": 1,
 		"name": "All Out Assault II",
-		"desc": "Every 10 times this ship fires her Main Guns: fires a special barrage. If this ship has a CL Main Gun equipped: reduces the shot requirement to 4.",
+		"desc": "Activates All Out Assault II: Felix Schultz once every 10 times the Main Guns are fired. If this ship has a CL Main Gun equipped: reduces the shot requirement to 4.",
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30000.png",
 		"max_level": 1
 	},
@@ -10245,6 +10333,54 @@
 		"name": "All Out Assault II",
 		"desc": "Activates All Out Assault II: Attilio Regolo once every 16 times the Main Guns are fired.",
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30030.png",
+		"max_level": 1
+	},
+	"30041": {
+		"id": 30041,
+		"type": 1,
+		"name": "All Out Assault I",
+		"desc": "Activates All Out Assault I: Felix Schultz once every 15 times the Main Guns are fired. If this ship has a CL Main Gun equipped: reduces the shot requirement to 6.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30040.png",
+		"max_level": 1
+	},
+	"30051": {
+		"id": 30051,
+		"type": 1,
+		"name": "All Out Assault II",
+		"desc": "Activates All Out Assault II: Felix Schultz once every 10 times the Main Guns are fired. If this ship has a CL Main Gun equipped: reduces the shot requirement to 4.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30040.png",
+		"max_level": 1
+	},
+	"30061": {
+		"id": 30061,
+		"type": 1,
+		"name": "All Out Assault I",
+		"desc": "Activates All Out Assault I: Hindenburg once every 12 times the Main Guns are fired.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30060.png",
+		"max_level": 1
+	},
+	"30062": {
+		"id": 30062,
+		"type": 1,
+		"name": "All Out Assault II",
+		"desc": "Activates All Out Assault II: Hindenburg once every 8 times the Main Guns are fired.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30060.png",
+		"max_level": 1
+	},
+	"30071": {
+		"id": 30071,
+		"type": 1,
+		"name": "All Out Assault I",
+		"desc": "Activates All Out Assault I: Shimanto once every 15 times the Main Guns are fired.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30070.png",
+		"max_level": 1
+	},
+	"30072": {
+		"id": 30072,
+		"type": 1,
+		"name": "All Out Assault II",
+		"desc": "Activates All Out Assault II: Shimanto once every 10 times the Main Guns are fired.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30070.png",
 		"max_level": 1
 	},
 	"101010": {
@@ -12463,6 +12599,22 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800880.png",
 		"max_level": 1
 	},
+	"902220": {
+		"id": 902220,
+		"type": 2,
+		"name": "Lightweight Armor",
+		"desc": "When the battle starts: deploys a shield (lasts until the battle ends; can block up to 6 shells). If this shield is destroyed: increases this ship's EVA by 5.0% until the battle ends.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/4050.png",
+		"max_level": 1
+	},
+	"1010100": {
+		"id": 1010100,
+		"type": 2,
+		"name": "Ghost of Java Coast+",
+		"desc": "When this ship fires her Main Guns: 20.0% chance to increase this ship's EVA by 100.0% for 15s. If this effect does not activate 4 times: fires a Lv.10 special barrage (DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/10100.png",
+		"max_level": 10
+	},
 	"1010140": {
 		"id": 1010140,
 		"type": 3,
@@ -12525,6 +12677,14 @@
 		"name": "Iron Blood Vanguard+",
 		"desc": "During battle, increases this ship's Main Gun gear slot efficiency by 10.0% and decreases her DMG taken by 8.0%. When this ship fires her Main Guns: 5.0% chance to increase this ship's FP by 60.0% for 8s.",
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/10530.png",
+		"max_level": 10
+	},
+	"1010540": {
+		"id": 1010540,
+		"type": 1,
+		"name": "Royal Alliance+",
+		"desc": "When the battle starts, for each Eagle Union or Royal Navy ship in your fleet other than this ship: increases this ship's FP, AA, RLD, and EVA by 12.0% (can be stacked up to 3 times). If there are 3 or more Eagle Union or Royal Navy ships in your fleet: also decreases the loading time of this ship's first Main Gun volley by 85.0%, increases your Eagle Union and Royal Navy Vanguard ships' FP and AA by 12.0%, and increases your Eagle Union and Royal Navy Main Fleet ships' AVI and AA by 12.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/10540.png",
 		"max_level": 10
 	},
 	"1010580": {

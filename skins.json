@@ -318,7 +318,7 @@
 				"gid": 10108,
 				"name": "Maury",
 				"type": "Default",
-				"desc": "Gridley-class destroyer, Maury, Hull Number DD-401\n<color=#fad545>Unlock build after receiving",
+				"desc": "Gridley-class destroyer, Maury, Hull Number DD-401\nUnlock build after receiving",
 				"tag": [],
 				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/101080/banner.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/101080/chibi.png",
@@ -3572,7 +3572,7 @@
 				"gid": 10311,
 				"name": "Wichita",
 				"type": "Default",
-				"desc": "Wichita-class heavy cruiser – Wichita, Hull Number CA-45! \n<color=#fad545>Unlock build after receiving",
+				"desc": "Wichita-class heavy cruiser – Wichita, Hull Number CA-45! \nUnlock build after receiving",
 				"tag": [],
 				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103110/banner.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103110/chibi.png",
@@ -6471,6 +6471,26 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199031/icon.png",
 				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199031/qicon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199031/shipyard.png"
+			}
+		]
+	},
+	{
+		"id": 20028,
+		"gid": 19904,
+		"name": "Kearsarge",
+		"skins": [
+			{
+				"id": 199040,
+				"gid": 19904,
+				"name": "Kearsarge",
+				"type": "Default",
+				"desc": "Aviation battleship – Kearsarge.",
+				"tag": [],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199040/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199040/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199040/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199040/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199040/shipyard.png"
 			}
 		]
 	},
@@ -9425,7 +9445,7 @@
 				"gid": 20306,
 				"name": "Dorsetshire",
 				"type": "Default",
-				"desc": "Norfolk-class heavy cruiser, Dorsetshire, Hull Number 40\n<color=#fad545>Unlock build after receiving",
+				"desc": "Norfolk-class heavy cruiser, Dorsetshire, Hull Number 40\nUnlock build after receiving",
 				"tag": [],
 				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/203060/banner.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/203060/chibi.png",
@@ -9879,10 +9899,12 @@
 			{
 				"id": 205016,
 				"gid": 20501,
-				"name": "伊丽莎白占坑",
-				"type": "Default",
-				"desc": "占坑",
-				"tag": [],
+				"name": "Seaside Orders",
+				"type": "Swimsuits",
+				"desc": "Servant, what do you think you're doing?! Instead of wasting your life working, go have some fun in the sea for once! We went out of our way to come to the beach, so do not disappoint me!",
+				"tag": [
+					"bg"
+				],
 				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/205016/banner.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/205016/chibi.png",
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/205016/icon.png",
@@ -18633,7 +18655,7 @@
 				"gid": 31201,
 				"name": "Akashi",
 				"type": "Default",
-				"desc": "Repair ship Akashi\n<color=#fad545>Can be built after unlocking",
+				"desc": "Repair ship Akashi\nCan be built after unlocking",
 				"tag": [],
 				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/312010/banner.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/312010/chibi.png",
@@ -19031,6 +19053,26 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399051/icon.png",
 				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399051/qicon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399051/shipyard.png"
+			}
+		]
+	},
+	{
+		"id": 20029,
+		"gid": 39906,
+		"name": "Shimanto",
+		"skins": [
+			{
+				"id": 399060,
+				"gid": 39906,
+				"name": "Shimanto",
+				"type": "Default",
+				"desc": "Light cruiser - Shimanto.",
+				"tag": [],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399060/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399060/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399060/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399060/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399060/shipyard.png"
 			}
 		]
 	},
@@ -19872,7 +19914,7 @@
 				"gid": 40204,
 				"name": "Leipzig",
 				"type": "Default",
-				"desc": "Leipzig-class light cruiser, Leipzig.\n<color=#fad545>Can be built after unlocking",
+				"desc": "Leipzig-class light cruiser, Leipzig.\nCan be built after unlocking",
 				"tag": [],
 				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/402040/banner.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/402040/chibi.png",
@@ -22342,6 +22384,46 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499071/icon.png",
 				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499071/qicon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499071/shipyard.png"
+			}
+		]
+	},
+	{
+		"id": 20030,
+		"gid": 49908,
+		"name": "Felix Schultz",
+		"skins": [
+			{
+				"id": 499080,
+				"gid": 49908,
+				"name": "Felix Schultz",
+				"type": "Default",
+				"desc": "Destroyer - Felix Schultz.",
+				"tag": [],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499080/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499080/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499080/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499080/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499080/shipyard.png"
+			}
+		]
+	},
+	{
+		"id": 20031,
+		"gid": 49909,
+		"name": "Hindenburg",
+		"skins": [
+			{
+				"id": 499090,
+				"gid": 49909,
+				"name": "Hindenburg",
+				"type": "Default",
+				"desc": "Heavy cruiser – Hindenburg.",
+				"tag": [],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499090/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499090/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499090/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499090/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499090/shipyard.png"
 			}
 		]
 	},
@@ -26912,6 +26994,26 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/999011/icon.png",
 				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/999011/qicon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/999011/shipyard.png"
+			}
+		]
+	},
+	{
+		"id": 20032,
+		"gid": 99902,
+		"name": "Flandre",
+		"skins": [
+			{
+				"id": 999020,
+				"gid": 99902,
+				"name": "Flandre",
+				"type": "Default",
+				"desc": "Battleship – Flandre.",
+				"tag": [],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/999020/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/999020/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/999020/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/999020/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/999020/shipyard.png"
 			}
 		]
 	},
