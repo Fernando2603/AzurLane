@@ -66461,6 +66461,178 @@
 			}
 		}
 	},
+	"89640": {
+		"name": "Crab (With Receipt)",
+		"desc": "Crab (With Receipt, Cargo)",
+		"label": [
+			"GDS"
+		],
+		"rarity": 5,
+		"nationality": 108,
+		"type": 18,
+		"skill": [
+			108340
+		],
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89640.png",
+		"stats": {
+			"1": {
+				"id": 89640,
+				"level": 1,
+				"durability": 450
+			},
+			"2": {
+				"id": 89641,
+				"level": 2,
+				"durability": 480
+			},
+			"3": {
+				"id": 89642,
+				"level": 3,
+				"durability": 510
+			},
+			"4": {
+				"id": 89643,
+				"level": 4,
+				"durability": 540
+			},
+			"5": {
+				"id": 89644,
+				"level": 5,
+				"durability": 570
+			},
+			"6": {
+				"id": 89645,
+				"level": 6,
+				"durability": 600
+			},
+			"7": {
+				"id": 89646,
+				"level": 7,
+				"durability": 630
+			},
+			"8": {
+				"id": 89647,
+				"level": 8,
+				"durability": 660
+			},
+			"9": {
+				"id": 89648,
+				"level": 9,
+				"durability": 690
+			},
+			"10": {
+				"id": 89649,
+				"level": 10,
+				"durability": 720
+			},
+			"11": {
+				"id": 89650,
+				"level": 11,
+				"durability": 750
+			},
+			"12": {
+				"id": 89651,
+				"level": 12,
+				"durability": 780
+			},
+			"13": {
+				"id": 89652,
+				"level": 13,
+				"durability": 810
+			},
+			"14": {
+				"id": 89653,
+				"level": 14,
+				"durability": 840
+			}
+		}
+	},
+	"89660": {
+		"name": "Dragon Figurine",
+		"desc": "Dragon Figurine (Cargo)",
+		"label": [
+			"GDS"
+		],
+		"rarity": 5,
+		"nationality": 108,
+		"type": 18,
+		"skill": [
+			108350
+		],
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89660.png",
+		"stats": {
+			"1": {
+				"id": 89660,
+				"level": 1,
+				"durability": 450
+			},
+			"2": {
+				"id": 89661,
+				"level": 2,
+				"durability": 480
+			},
+			"3": {
+				"id": 89662,
+				"level": 3,
+				"durability": 510
+			},
+			"4": {
+				"id": 89663,
+				"level": 4,
+				"durability": 540
+			},
+			"5": {
+				"id": 89664,
+				"level": 5,
+				"durability": 570
+			},
+			"6": {
+				"id": 89665,
+				"level": 6,
+				"durability": 600
+			},
+			"7": {
+				"id": 89666,
+				"level": 7,
+				"durability": 630
+			},
+			"8": {
+				"id": 89667,
+				"level": 8,
+				"durability": 660
+			},
+			"9": {
+				"id": 89668,
+				"level": 9,
+				"durability": 690
+			},
+			"10": {
+				"id": 89669,
+				"level": 10,
+				"durability": 720
+			},
+			"11": {
+				"id": 89670,
+				"level": 11,
+				"durability": 750
+			},
+			"12": {
+				"id": 89671,
+				"level": 12,
+				"durability": 780
+			},
+			"13": {
+				"id": 89672,
+				"level": 13,
+				"durability": 810
+			},
+			"14": {
+				"id": 89673,
+				"level": 14,
+				"durability": 840
+			}
+		}
+	},
 	"90000": {
 		"name": "Single 130mm Mle 1924 Naval Gun",
 		"desc": "No description",

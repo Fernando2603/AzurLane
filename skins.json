@@ -26704,6 +26704,21 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/903011/icon.png",
 				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/903011/qicon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/903011/shipyard.png"
+			},
+			{
+				"id": 903012,
+				"gid": 90301,
+				"name": "Majestic Majordomo",
+				"type": "Others",
+				"desc": "How are you today, Master? Your humble butler Foch patiently awaits your orders... Hahah! I sure look the part, don't I?",
+				"tag": [
+					"bg"
+				],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/903012/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/903012/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/903012/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/903012/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/903012/shipyard.png"
 			}
 		]
 	},
@@ -27105,6 +27120,26 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9701020/icon.png",
 				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9701020/qicon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9701020/shipyard.png"
+			}
+		]
+	},
+	{
+		"id": 30024,
+		"gid": 970103,
+		"name": "Hatakaze META",
+		"skins": [
+			{
+				"id": 9701030,
+				"gid": 970103,
+				"name": "Hatakaze META",
+				"type": "Default",
+				"desc": "You're helpless... So helpless it's worrying me. Oh, also, no need to concern yourself with who I am. Just think of me as the one who'll help you get your act together.",
+				"tag": [],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9701030/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9701030/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9701030/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9701030/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9701030/shipyard.png"
 			}
 		]
 	},
@@ -28722,6 +28757,22 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800011/icon.png",
 				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800011/qicon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800011/shipyard.png"
+			},
+			{
+				"id": 10800012,
+				"gid": 1080001,
+				"name": "Bedroom Attire",
+				"type": "Home Relaxation",
+				"desc": "Ack, Commander?! Geez, look, I at least want to be able to relax in my own room. Let it go just this once, okay?",
+				"tag": [
+					"bg",
+					"bgm"
+				],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800012/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800012/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800012/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800012/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800012/shipyard.png"
 			}
 		]
 	},
@@ -28758,6 +28809,22 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800021/icon.png",
 				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800021/qicon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800021/shipyard.png"
+			},
+			{
+				"id": 10800022,
+				"gid": 1080002,
+				"name": "Room of Secrets",
+				"type": "Home Relaxation",
+				"desc": "Hey, Commander, what's up~? You're not intoxicated by my good looks, are you? Pssh, lighten up, I'm kidding~",
+				"tag": [
+					"bg",
+					"bgm"
+				],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800022/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800022/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800022/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800022/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800022/shipyard.png"
 			}
 		]
 	},
@@ -28865,6 +28932,22 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800051/icon.png",
 				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800051/qicon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800051/shipyard.png"
+			},
+			{
+				"id": 10800052,
+				"gid": 1080005,
+				"name": "Morning Routine",
+				"type": "Home Relaxation",
+				"desc": "You're wondering why I'm so carefree? Uhh... Because I'm comfortable with you... Let's leave it at that.",
+				"tag": [
+					"bg",
+					"bgm"
+				],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800052/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800052/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800052/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800052/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800052/shipyard.png"
 			}
 		]
 	},
@@ -28901,6 +28984,22 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800061/icon.png",
 				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800061/qicon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800061/shipyard.png"
+			},
+			{
+				"id": 10800062,
+				"gid": 1080006,
+				"name": "Laundry Day",
+				"type": "Home Relaxation",
+				"desc": "Aww man, I hate to be seen in such a lazy-looking outfit. It's embarrassing, y'know~?",
+				"tag": [
+					"bg",
+					"bgm"
+				],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800062/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800062/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800062/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800062/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800062/shipyard.png"
 			}
 		]
 	},
@@ -28937,6 +29036,78 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800071/icon.png",
 				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800071/qicon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800071/shipyard.png"
+			}
+		]
+	},
+	{
+		"id": 10088,
+		"gid": 1080008,
+		"name": "The 2nd",
+		"skins": [
+			{
+				"id": 10800080,
+				"gid": 1080008,
+				"name": "The 2nd",
+				"type": "Default",
+				"desc": "Oh, where am I now... Ah. Good to meet you. Call me The 2nd. I'm with the Gridknight Alliance... Not that it matters in this world, I'd assume.",
+				"tag": [],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800080/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800080/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800080/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800080/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800080/shipyard.png"
+			},
+			{
+				"id": 10800081,
+				"gid": 1080008,
+				"name": "Private Time",
+				"type": "Home Relaxation",
+				"desc": "Would you mind waiting a moment? I just have this one report. Oh, and can I interest you in coffee, Commander? Ah... Sorry, this is my only mug. We could... share it?",
+				"tag": [
+					"bg",
+					"bgm"
+				],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800081/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800081/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800081/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800081/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800081/shipyard.png"
+			}
+		]
+	},
+	{
+		"id": 10089,
+		"gid": 1080009,
+		"name": "Princess Hime",
+		"skins": [
+			{
+				"id": 10800090,
+				"gid": 1080009,
+				"name": "Princess Hime",
+				"type": "Default",
+				"desc": "What? Where am I? Oh, umm, what may you need of me, young one? ...You don't need anything? Ahahah... Well met, person from this strange land. My name is... You know what, just call me \"Princess Hime.\"",
+				"tag": [],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800090/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800090/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800090/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800090/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800090/shipyard.png"
+			},
+			{
+				"id": 10800091,
+				"gid": 1080009,
+				"name": "Nightcap Time",
+				"type": "Home Relaxation",
+				"desc": "Oh! Guess you found me... Look, it doesn't matter what I wear when I'm drinking at home... What's that? Does me being a bit flushed from the drinks really get you that fired up?",
+				"tag": [
+					"bg",
+					"bgm"
+				],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800091/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800091/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800091/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800091/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10800091/shipyard.png"
 			}
 		]
 	},

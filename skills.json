@@ -11115,7 +11115,7 @@
 		"id": 108120,
 		"type": 3,
 		"name": "Something Beam",
-		"desc": "90s after the battle starts: increases this ship's EVA by 15.0%. Every 18s: fires a Lv.10 beam using the Penetrator Gun which inflicts Armor Break to enemies hit (DMG is based on the skill's level).",
+		"desc": "When the battle starts: for 90s, increases this ship's EVA by 15.0%. Every 18s: fires a Lv.10 beam using the Penetrator Gun which inflicts Armor Break to Heavy Armor enemies hit (DMG is based on the skill's level).",
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/108120.png",
 		"max_level": 10
 	},
@@ -11157,6 +11157,110 @@
 		"name": "Instance Domination: Flames",
 		"desc": "When this ship fires her Main Guns: uses Lv.10 Instance Domination to seize control of Siren weaponry and make them attack enemies (DMG is based on the skill's level).",
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/108170.png",
+		"max_level": 10
+	},
+	"108210": {
+		"id": 108210,
+		"type": 1,
+		"name": "Grid Beam+",
+		"desc": "When the battle starts: for 90s, increases this ship's FP by 15.0%. Every 20s: fires a Lv.10 Grid Beam (DMG is based on the skill's level). If this ship has the Battle Tracto Max or Buster Borr equipped, or if this ship is sortied with Namiko or Hass: enhances the Grid Beam.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/108010.png",
+		"max_level": 10
+	},
+	"108220": {
+		"id": 108220,
+		"type": 1,
+		"name": "Energy Pulse+",
+		"desc": "When this ship fires her Main Guns: 100.0% chance to fire a Lv.10 special barrage (DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/108040.png",
+		"max_level": 10
+	},
+	"108230": {
+		"id": 108230,
+		"type": 1,
+		"name": "Tanker Cannon+",
+		"desc": "Enhances this ship's Secondary Guns using the Battle Tracto Max. Every 15s: 100.0% chance to fire a Lv.10 special barrage (DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/108080.png",
+		"max_level": 10
+	},
+	"108240": {
+		"id": 108240,
+		"type": 2,
+		"name": "Coordinated Volley+",
+		"desc": "Every 6 times this ship fires her Main Guns: fires a Lv.10 special missile barrage using the Buster Borr, and deploys a smokescreen that lasts 5s (DMG is based on the skill's level). When your ship(s) enters the smokescreen: puts out any normal Burn status ailment for that ship(s).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/108090.png",
+		"max_level": 10
+	},
+	"108250": {
+		"id": 108250,
+		"type": 3,
+		"name": "Something Beam+",
+		"desc": "When the battle starts: for 90s, increases this ship's EVA by 15.0% and decreases the DMG taken by 8.0%. Every 18s: fires a Lv.10 beam using the Penetrator Gun which inflicts Armor Break to Heavy Armor enemies hit (DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/108120.png",
+		"max_level": 10
+	},
+	"108260": {
+		"id": 108260,
+		"type": 2,
+		"name": "Take to the Skies+",
+		"desc": "Every battle, when this ship launches her 1st and 3rd Airstrikes: launches a Lv.10 bombing raid using the Big Goldburn, and spawns a shield around your Vanguard that lasts 10s, reduces your Vanguard's DMG taken by 8.0%, and can block up to 15 shots (Big Goldburn DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/108150.png",
+		"max_level": 10
+	},
+	"108270": {
+		"id": 108270,
+		"type": 1,
+		"name": "Instance Domination: Flames+",
+		"desc": "When this ship fires her Main Guns: uses Lv.10 Instance Domination to seize control of Siren weaponry and make them attack enemies (DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/108170.png",
+		"max_level": 10
+	},
+	"108280": {
+		"id": 108280,
+		"type": 1,
+		"name": "Sounderous Full Blast+",
+		"desc": "Increases this ship's FP and ACC by 15.0%. When this ship fires her Main Guns: 100.0% chance to perform a Lv.10 special attack (DMG is based on the skill's level and this ship's FP stat).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/108300.png",
+		"max_level": 10
+	},
+	"108290": {
+		"id": 108290,
+		"type": 1,
+		"name": "Hang in There!+",
+		"desc": "When the battle starts, and every 20s: increases this ship's and your frontmost Vanguard ship's FP and ACC by 10.0% for 10s (if the recipient is an SSSS collab character, instead increases FP and ACC by 12.0%; effect does not stack if this ship is the frontmost ship). If this ship has Cargo equipped: decreases this ship's DMG taken by 15.0%, but decreases her SPD by 1.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/108320.png",
+		"max_level": 10
+	},
+	"108300": {
+		"id": 108300,
+		"type": 1,
+		"name": "Sounderous Full Blast",
+		"desc": "Increases this ship's FP and ACC by 15.0%. When this ship fires her Main Guns: 70.0% chance to perform a Lv.10 special attack (DMG is based on the skill's level and this ship's FP stat).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/108300.png",
+		"max_level": 10
+	},
+	"108310": {
+		"id": 108310,
+		"type": 3,
+		"name": "Melodic Blaster",
+		"desc": "Increases this ship's AVI by 15.0%. Every 20s: performs a Lv.10 special attack (DMG is based on the skill's level and this ship's AVI stat) and restores 8.0% HP of one random ship in your Vanguard.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/108310.png",
+		"max_level": 10
+	},
+	"108320": {
+		"id": 108320,
+		"type": 2,
+		"name": "Hang in There!",
+		"desc": "When the battle starts, and every 20s: increases this ship's and your frontmost Vanguard ship's FP and ACC by 10.0% for 10s (effect does not stack if this ship is the frontmost ship). If this ship has Cargo equipped: decreases this ship's DMG taken by 15.0%, but decreases her SPD by 1.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/108320.png",
+		"max_level": 10
+	},
+	"108330": {
+		"id": 108330,
+		"type": 3,
+		"name": "Promises, Love, and Expiration Dates",
+		"desc": "Every 10s: fires a Lv.10 special barrage (DMG is based on the skill's level); enemies hit by the barrage take 10.0% increased DMG from your SSSS collab characters.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/108330.png",
 		"max_level": 10
 	},
 	"109010": {
@@ -12597,6 +12701,54 @@
 		"name": "Cinders of Hope - Algérie II",
 		"desc": "[Operation Siren]\nEvery 6 times this ship fires her Main Guns: fires a special barrage. Decreases this ship's DMG taken by 8.0% when fighting humanoid Siren fleets or Boss fleets.",
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800880.png",
+		"max_level": 1
+	},
+	"800890": {
+		"id": 800890,
+		"type": 1,
+		"name": "Flash of Inspiration",
+		"desc": "When this ship fires her torpedoes: 100.0% chance to fire a Lv.10 special barrage (DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800890.png",
+		"max_level": 10
+	},
+	"800900": {
+		"id": 800900,
+		"type": 2,
+		"name": "Guard Shift",
+		"desc": "While this ship is afloat: decreases this ship's and your Main Fleet's DMG taken by 5.0%; when a ship in your Vanguard falls below 30.0% HP as a result of DMG taken: restores 8.0% of that ship's HP (this HP-restoring effect can only activate up to 2 times per battle).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800900.png",
+		"max_level": 10
+	},
+	"800911": {
+		"id": 800911,
+		"type": 3,
+		"name": "Smoldering Core - Hatakaze",
+		"desc": "Every 15 times this ship fires her Main Guns: fires a special barrage.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800910.png",
+		"max_level": 1
+	},
+	"800912": {
+		"id": 800912,
+		"type": 3,
+		"name": "Smoldering Core - Hatakaze",
+		"desc": "Every 10 times this ship fires her Main Guns: fires a special barrage.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800910.png",
+		"max_level": 1
+	},
+	"800915": {
+		"id": 800915,
+		"type": 3,
+		"name": "Smoldering Core - Hatakaze",
+		"desc": "[Operation Siren]\nEvery 15 times this ship fires her Main Guns: fires a special barrage. Decreases this ship's DMG taken by 2.0% when fighting humanoid Siren fleets or Boss fleets.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800910.png",
+		"max_level": 1
+	},
+	"800917": {
+		"id": 800917,
+		"type": 3,
+		"name": "Smoldering Core - Hatakaze",
+		"desc": "[Operation Siren]\nEvery 10 times this ship fires her Main Guns: fires a special barrage. Decreases this ship's DMG taken by 6.0% when fighting humanoid Siren fleets or Boss fleets.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800910.png",
 		"max_level": 1
 	},
 	"902220": {
