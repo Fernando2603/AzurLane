@@ -26673,6 +26673,42 @@
 		]
 	},
 	{
+		"id": 598,
+		"gid": 90202,
+		"name": "Marseillaise",
+		"skins": [
+			{
+				"id": 902020,
+				"gid": 90202,
+				"name": "Marseillaise",
+				"type": "Default",
+				"desc": "La Galissonnière-class light cruiser – Marseillaise.",
+				"tag": [],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/902020/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/902020/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/902020/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/902020/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/902020/shipyard.png"
+			},
+			{
+				"id": 902021,
+				"gid": 90202,
+				"name": "Fighting Angel's Regimen",
+				"type": "Sport Time",
+				"desc": "Alright, aim at this part of the ball, and drop my hips... Nngh?! I, I'm alright! The fighting angel, Marseillaise, will not be defeated by this... Hyeep?!",
+				"tag": [
+					"bg",
+					"dynamic"
+				],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/902021/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/902021/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/902021/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/902021/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/902021/shipyard.png"
+			}
+		]
+	},
+	{
 		"id": 524,
 		"gid": 90301,
 		"name": "Foch",

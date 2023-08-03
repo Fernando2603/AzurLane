@@ -6119,6 +6119,22 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/16860.png",
 		"max_level": 10
 	},
+	"16870": {
+		"id": 16870,
+		"type": 2,
+		"name": "The Day of Glory Arrives",
+		"desc": "Increases this ship's SPD by 4 and EVA by 15.0% and decreases her DMG taken by 15.0%. When this ship is attacked: 15.0% chance to deploy a barrier (lasts 8s; can negate up to 3.0% of this ship's HP in DMG; 20s cooldown between activations); when this barrier is destroyed or when it expires: fires a Lv.10 special barrage (DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/16870.png",
+		"max_level": 10
+	},
+	"16880": {
+		"id": 16880,
+		"type": 3,
+		"name": "Anthem of Beloved Freedom",
+		"desc": "Increases this ship's FP and ACC by 15.0%. While this ship is afloat: increases your Iris Libre and Vichya Dominion ships' FP, TRP, AVI, and RLD by 8.0% and, every 20s, restores 1.0% of those ships' max HP.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/16880.png",
+		"max_level": 10
+	},
 	"18010": {
 		"id": 18010,
 		"type": 1,
@@ -10381,6 +10397,22 @@
 		"name": "All Out Assault II",
 		"desc": "Activates All Out Assault II: Shimanto once every 10 times the Main Guns are fired.",
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30070.png",
+		"max_level": 1
+	},
+	"30081": {
+		"id": 30081,
+		"type": 1,
+		"name": "All Out Assault I",
+		"desc": "Activates All Out Assault I: Marseillaise once every 12 times the Main Guns are fired.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30080.png",
+		"max_level": 1
+	},
+	"30082": {
+		"id": 30082,
+		"type": 1,
+		"name": "All Out Assault II",
+		"desc": "Activates All Out Assault II: Marseillaise once every 8 times the Main Guns are fired.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30080.png",
 		"max_level": 1
 	},
 	"101010": {
