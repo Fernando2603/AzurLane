@@ -8564,6 +8564,21 @@
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/206036/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/206036/shipyard.png"
 	},
+	"206037": {
+		"id": 206037,
+		"gid": 20603,
+		"name": "Angelic Nurse",
+		"type": "Hospital Series",
+		"desc": "Unicorn... is now serving as a nurse. Umm... Big brother, would you mind being Unicorn's patient...?",
+		"tag": [
+			"bg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/206037/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/206037/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/206037/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/206037/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/206037/shipyard.png"
+	},
 	"206038": {
 		"id": 206038,
 		"gid": 20603,

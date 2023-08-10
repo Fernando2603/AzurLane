@@ -13023,6 +13023,14 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/12670.png",
 		"max_level": 10
 	},
+	"1013270": {
+		"id": 1013270,
+		"type": 1,
+		"name": "Bellowing Gusts of Fire+",
+		"desc": "Increases this ship's DMG dealt to Burning enemies by 15.0%. Every 20s as well as with a 70% chance when this ship fires her Main Guns: fires a Lv.10 special barriage that inflicts a special Burn ailment to enemies hit (DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/13270.png",
+		"max_level": 10
+	},
 	"1090010": {
 		"id": 1090010,
 		"type": 3,
@@ -13133,6 +13141,14 @@
 		"name": "Artillery Cover - Saratoga",
 		"desc": "Every 10s: fires a Lv.10 supporting barrage using CA-caliber guns, and launches a Lv.10 special airstrike (barrage and airstrike DMG are both based on the skill's level).",
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/10180.png",
+		"max_level": 10
+	},
+	"1090150": {
+		"id": 1090150,
+		"type": 2,
+		"name": "Surface Combat - Surcouf",
+		"desc": "Increases this boat's surface combat duration by 12.0s. When this boat fires her Main Guns: fires a Lv.10 special barrage (DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/3520.png",
 		"max_level": 10
 	}
 }
