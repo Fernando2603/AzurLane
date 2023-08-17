@@ -6135,6 +6135,118 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/16880.png",
 		"max_level": 10
 	},
+	"16890": {
+		"id": 16890,
+		"type": 1,
+		"name": "Admiral Satan",
+		"desc": "Increases this ship's FP and TRP by 15.0%. When the battle starts and when this ship fires her Main Guns 6 times: increases this ship's DMG dealt by 10.0% for 30s (does not stack; repeat activations only refresh the effect's duration).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/16890.png",
+		"max_level": 10
+	},
+	"16900": {
+		"id": 16900,
+		"type": 2,
+		"name": "The Guardian Lady-Knight",
+		"desc": "Increases this ship's AA and EVA by 10.0%. If this ship has Iris Libre or Vichya Dominion gear equipped: decreases your Iris Libre and Vichya Dominion ships' DMG taken during battle by 10.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/16900.png",
+		"max_level": 10
+	},
+	"16910": {
+		"id": 16910,
+		"type": 3,
+		"name": "Liturgia Horarum",
+		"desc": "Increases this ship's AA and ASW by 10.0%. Every 20s, activates one of the following effects, chosen at random: 1) Increases this ship's FP and TRP by 20.0% for 10s; 2) Increases this ship's Crit Rate and Crit DMG by 20.0% for 10s; 3) Restores 5.0% max HP to the Iris Libre or Vichya Dominion ship in your fleet with the lowest max HP remaining.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/16910.png",
+		"max_level": 10
+	},
+	"16920": {
+		"id": 16920,
+		"type": 1,
+		"name": "Shells or Sorcery?",
+		"desc": "Increases this ship's SPD by 3, EVA by 15.0%, and Evasion Rate by 8.0%. When this ship fires her Main Guns 6 times, activates one of the following randomly chosen effects: 1) Fires a Lv.10 special barrage (DMG is based on the skill's level); 2) Uses this ship's Main Guns to fire 2 times.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/16920.png",
+		"max_level": 10
+	},
+	"16930": {
+		"id": 16930,
+		"type": 3,
+		"name": "Prophetic Witch",
+		"desc": "Increases this ship's FP and AA by 15.0%; further increases this ship's AA by 5.0% when an enemy aircraft is shot down within your AA Gun Range (can be stacked up to 5 times).\nWhen the battle starts: randomly chooses one of this ship's stats between FP, TRP, or ACC and increases it by 5.0% when this ship fires her torpedoes (can be stacked up to 3 times). When the battle starts, if there is another Iris Libre or Vichya Dominion ship in your fleet, when this effect activates: also sets the SPD of a random enemy to 0 for 2s.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/16930.png",
+		"max_level": 10
+	},
+	"16940": {
+		"id": 16940,
+		"type": 1,
+		"name": "Big Seven - West Virginia",
+		"desc": "When this ship fires her Main Guns: 70.0% chance to fire a Lv.10 special barrage in a straight line forwards (DMG is based on the skill's level). Once per battle, when this ship's HP falls below 35.0% as a result of DMG taken: fires this special barrage.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/16940.png",
+		"max_level": 10
+	},
+	"16950": {
+		"id": 16950,
+		"type": 1,
+		"name": "Leyte Gulf's Witness",
+		"desc": "Increases this ship's FP by 12.0%. When the battle starts, if there is another BB or BC in your fleet: increases this ship's ACC and AA by 12.0%, improves the special barrage fired by the skill \"Big Seven - West Virginia,\" and applies the following two effects: 1) Enemies hit by the special barrage have their SPD reduced by 30.0% for 5s; 2) Inceases your BBs' and BCs' DMG dealt to enemies slowed by this skill by 8.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/16950.png",
+		"max_level": 10
+	},
+	"16960": {
+		"id": 16960,
+		"type": 3,
+		"name": "Will of the Tribunal",
+		"desc": "Increases this ship's ACC by 12.0%. When the battle starts, for each Vichya Dominion ship in your fleet: increases this ship's FP and AA by 5.0%; when the battle starts, if there is a Vichya Dominion ship in your Vanguard: increases this ship's RLD by 10.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/16960.png",
+		"max_level": 10
+	},
+	"16970": {
+		"id": 16970,
+		"type": 1,
+		"name": "Guiding Flames of Intrigue",
+		"desc": "When this ship fires her Main Guns: 75.0% chance to fire a Lv.10 special barrage (DMG is based on the skill's level). Enemies hit by this barrage have their FP, TRP, and AVI decreased by 5.0% for 5s. When the battle starts, if there are 5 Iris Libre and/or Vichya Dominion ships in your fleet, or if this ship has Iris Orthodoxy gear equipped: increases this barrage's activation chance by 25.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/16970.png",
+		"max_level": 10
+	},
+	"16980": {
+		"id": 16980,
+		"type": 1,
+		"name": "Holy See's Judgment",
+		"desc": "Increases this ship's Main Gun Crit Rate by 12.0% and Main Gun Crit DMG by 15.0%. This ship's first Salvo always deals Critical DMG if aimed manually.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/16980.png",
+		"max_level": 10
+	},
+	"16990": {
+		"id": 16990,
+		"type": 3,
+		"name": "Morningstar's Guidance",
+		"desc": "Every 18s, activates one of the following effects, chosen at random: 1) Increases this ship's and your Flagship's DMG dealt by 8.0% for 8s (if this ship is your Flagship, the effect does not stack); 2) Increases this ship's AVI by 15.0% and decreases your frontmost Vanguard ship's DMG taken by 8.0% for 10s.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/16990.png",
+		"max_level": 10
+	},
+	"17000": {
+		"id": 17000,
+		"type": 3,
+		"name": "Holy Iris's Wishes",
+		"desc": "Increases this ship's RLD by 15.0%. 5s after this ship launches an airstrike: restores 7.0% of this ship's and all your Vanguard ships' respective max HP; if a recipient of this effect has less than 25.0% HP, an additional 100 HP is restored.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17000.png",
+		"max_level": 10
+	},
+	"17010": {
+		"id": 17010,
+		"type": 1,
+		"name": "Absolving Light",
+		"desc": "When this ship fires her Main Guns: 50.0% chance to fire a Lv.10 special barrage using Main Gun shells and torpedoes (DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17010.png",
+		"max_level": 10
+	},
+	"17020": {
+		"id": 17020,
+		"type": 2,
+		"name": "Sanctification",
+		"desc": "Increases this ship's FP and ACC by 10.0%. Decreases this ship's shelling and torpedo DMG taken by 10.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17020.png",
+		"max_level": 10
+	},
 	"18010": {
 		"id": 18010,
 		"type": 1,
@@ -6317,6 +6429,30 @@
 		"name": "Il Milione+",
 		"desc": "If there is at least 1 other ship in your Main Fleet: decreases this ship's DMG taken by 20.0% and increases her Main Gun Efficiency by 15.0% and AA Gun efficiency by 50.0%. When the battle starts, deploys 2 shields that can block 3 enemy torpedoes around the frontmost ship of your Vanguard. Improves the barrage fired by this ship's \"Legendary Voyage\" skill; if this ship is your Flagship, also increases the barrage's activation chance by 10.0%; if this ship is NOT your Flagship, instead increases the amount of max HP healed by \"Legendary Voyage\" to 8.0%.",
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/18500.png",
+		"max_level": 10
+	},
+	"18550": {
+		"id": 18550,
+		"type": 1,
+		"name": "Lindwurm - Devouring Fang+",
+		"desc": "During battle, this ship gains a Lv.10 special Secondary Gun; every 5 times she fires this Secondary Gun: launches a Lv.10 special barrage (DMG is based on the skill's level) and restores 2.0% HP to the ship with the lowest HP percentage in the fleet; the 4th time she fires this Secondary Gun: increases this ship's FP and TRP by 15.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19550.png",
+		"max_level": 10
+	},
+	"18590": {
+		"id": 18590,
+		"type": 1,
+		"name": "Blazing Battledance+",
+		"desc": "Every 20s: 100.0% chance to launch an enhanced special barrage (DMG is based on the skill's level). When this ship takes DMG: 20.0% chance to increase this ship's FP and AA by 5.0% and TRP by 8.0% (can be stacked up to 3 times).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19590.png",
+		"max_level": 10
+	},
+	"18610": {
+		"id": 18610,
+		"type": 1,
+		"name": "Contingency Experiment - Suppressive Fire+",
+		"desc": "Increases this ship's DMG dealt against Medium and Heavy Armor enemies by 10.0%. When this ship's airstrike finishes loading: fires a special barrage that decreases the AA of enemies hit by 10.0% and decreases their SPD by 50.0% for 3s (barrage DMG is based on the skill's level; barrage debuffs cannot be stacked). Further improves the effect of the barrage triggered by the skill \"Aviation Experiment - Coordinated Bombardment.\"",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19610.png",
 		"max_level": 10
 	},
 	"19000": {
@@ -10413,6 +10549,22 @@
 		"name": "All Out Assault II",
 		"desc": "Activates All Out Assault II: Marseillaise once every 8 times the Main Guns are fired.",
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30080.png",
+		"max_level": 1
+	},
+	"30091": {
+		"id": 30091,
+		"type": 1,
+		"name": "All Out Assault I",
+		"desc": "Activates All Out Assault I: Guichen once every 12 times the Main Guns are fired.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30090.png",
+		"max_level": 1
+	},
+	"30092": {
+		"id": 30092,
+		"type": 1,
+		"name": "All Out Assault II",
+		"desc": "Activates All Out Assault II: Guichen once every 8 times the Main Guns are fired.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30090.png",
 		"max_level": 1
 	},
 	"101010": {

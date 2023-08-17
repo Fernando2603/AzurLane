@@ -40934,7 +40934,8 @@
 			"IJN",
 			"CL",
 			"MG",
-			"HE"
+			"HE",
+			"ShimantoMG"
 		],
 		"rarity": 5,
 		"nationality": 3,
@@ -67435,6 +67436,148 @@
 			}
 		}
 	},
+	"90260": {
+		"name": "Triple 152mm Mle1930 Main Gun Mount (HE)",
+		"desc": "An Iris Orthodoxy-developed 152mm light cruiser main gun, modified to fire HE ammunition.",
+		"label": [
+			"FFNF",
+			"CL",
+			"MG",
+			"HE"
+		],
+		"rarity": 5,
+		"nationality": 8,
+		"type": 2,
+		"skill": [],
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/50200.png",
+		"stats": {
+			"1": {
+				"id": 90260,
+				"level": 1,
+				"damage": "12 x 6",
+				"cannon": 45,
+				"weapon_id": [
+					90260
+				]
+			},
+			"2": {
+				"id": 90261,
+				"level": 2,
+				"cannon": 45,
+				"weapon_id": [
+					90261
+				]
+			},
+			"3": {
+				"id": 90262,
+				"level": 3,
+				"damage": "13 x 6",
+				"cannon": 45,
+				"weapon_id": [
+					90262
+				]
+			},
+			"4": {
+				"id": 90263,
+				"level": 4,
+				"damage": "14 x 6",
+				"cannon": 45,
+				"weapon_id": [
+					90263
+				]
+			},
+			"5": {
+				"id": 90264,
+				"level": 5,
+				"damage": "15 x 6",
+				"cannon": 45,
+				"weapon_id": [
+					90264
+				]
+			},
+			"6": {
+				"id": 90265,
+				"level": 6,
+				"damage": "16 x 6",
+				"cannon": 45,
+				"weapon_id": [
+					90265
+				]
+			},
+			"7": {
+				"id": 90266,
+				"level": 7,
+				"damage": "17 x 6",
+				"cannon": 45,
+				"weapon_id": [
+					90266
+				]
+			},
+			"8": {
+				"id": 90267,
+				"level": 8,
+				"damage": "18 x 6",
+				"cannon": 45,
+				"weapon_id": [
+					90267
+				]
+			},
+			"9": {
+				"id": 90268,
+				"level": 9,
+				"damage": "19 x 6",
+				"cannon": 45,
+				"weapon_id": [
+					90268
+				]
+			},
+			"10": {
+				"id": 90269,
+				"level": 10,
+				"damage": "20 x 6",
+				"cannon": 45,
+				"weapon_id": [
+					90269
+				]
+			},
+			"11": {
+				"id": 90270,
+				"level": 11,
+				"damage": "21 x 6",
+				"cannon": 45,
+				"weapon_id": [
+					90270
+				]
+			},
+			"12": {
+				"id": 90271,
+				"level": 12,
+				"damage": "21 x 6",
+				"cannon": 45,
+				"weapon_id": [
+					90271
+				]
+			},
+			"13": {
+				"id": 90272,
+				"level": 13,
+				"damage": "21 x 6",
+				"cannon": 45,
+				"weapon_id": [
+					90272
+				]
+			},
+			"14": {
+				"id": 90273,
+				"level": 14,
+				"damage": "21 x 6",
+				"cannon": 45,
+				"weapon_id": [
+					90273
+				]
+			}
+		}
+	},
 	"90300": {
 		"name": "Quadruple 330mm Mle 1931 Main Gun Mount",
 		"desc": "No description",
@@ -70106,7 +70249,7 @@
 		"name": "Prototype Triple 406mm /50 Main Gun Mount",
 		"desc": "No description",
 		"label": [
-			"KMS",
+			"FFNF",
 			"BB",
 			"MG",
 			"AP"

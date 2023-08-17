@@ -1496,6 +1496,22 @@
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102052/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102052/shipyard.png"
 	},
+	"102053": {
+		"id": 102053,
+		"gid": 10205,
+		"name": "Shimmering Triangle Wave",
+		"type": "Swimsuits",
+		"desc": "Commander, what do you think... umm... about this swimsuit? Actually, umm, never mind. If I were to hear your impressions directly, I'd be too embarrassed to stand in front of you... So, would you mind, umm... secretly whispering it to me?",
+		"tag": [
+			"live2d",
+			"bg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102053/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102053/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102053/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102053/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102053/shipyard.png"
+	},
 	"102058": {
 		"id": 102058,
 		"gid": 10205,
@@ -3378,6 +3394,34 @@
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/105110/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/105110/shipyard.png"
 	},
+	"105112": {
+		"id": 105112,
+		"gid": 10511,
+		"name": "Scenic Rhapsody",
+		"type": "Sport Time",
+		"desc": "Colorado, Maryland, you two ready to rock? Keep your cool! Commander, and everyone in the audience, get ready for the Big Seven's big performance!",
+		"tag": [
+			"bg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/105112/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/105112/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/105112/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/105112/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/105112/shipyard.png"
+	},
+	"105119": {
+		"id": 105119,
+		"gid": 10511,
+		"name": "West Virginia (Retrofit)",
+		"type": "Default",
+		"desc": "West Virginia, completing retrofit. Back when I joined the fleet, I said I'd show you my strength – now, after you've made me this much stronger, I feel humbled. Once more, Commander, my strength is yours.",
+		"tag": [],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/105119/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/105119/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/105119/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/105119/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/105119/shipyard.png"
+	},
 	"105120": {
 		"id": 105120,
 		"gid": 10512,
@@ -3944,6 +3988,19 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/107052/icon.png",
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/107052/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/107052/shipyard.png"
+	},
+	"107058": {
+		"id": 107058,
+		"gid": 10705,
+		"name": "Towards Tomorrow's Brilliant Breeze",
+		"type": "Oath",
+		"desc": "This wedding dress, brimming with light, flutters like a feather in the wind... I'm sure that I'm still in a long, deep, slumber... That's right, Commander. The two of us are surely sharing a blissful dream together, heehee.",
+		"tag": [],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/107058/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/107058/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/107058/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/107058/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/107058/shipyard.png"
 	},
 	"107060": {
 		"id": 107060,
@@ -4939,6 +4996,22 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/137030/icon.png",
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/137030/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/137030/shipyard.png"
+	},
+	"137060": {
+		"id": 137060,
+		"gid": 10706,
+		"name": "Diving Under Blue Skies",
+		"type": "Swimsuits",
+		"desc": "...Hah! Think you can handle more, Commander? I'm not afraid of any fight on the water, but when it comes to diving, I'd be lying if I said I wasn't a little uneasy...",
+		"tag": [
+			"live2d",
+			"bg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/137060/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/137060/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/137060/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/137060/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/137060/shipyard.png"
 	},
 	"199010": {
 		"id": 199010,
@@ -20305,6 +20378,21 @@
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/701101/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/701101/shipyard.png"
 	},
+	"701102": {
+		"id": 701102,
+		"gid": 70110,
+		"name": "Víla of the Crystal Lake",
+		"type": "Rhythm & Steps",
+		"desc": "Since you're a beginner at this, Commander, let me show you the ropes. Somehow... it feels like I skate better than usual when you're around. I'm pretty good at ice skating, aren't I? This... should be fine, right?",
+		"tag": [
+			"custombg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/701102/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/701102/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/701102/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/701102/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/701102/shipyard.png"
+	},
 	"702010": {
 		"id": 702010,
 		"gid": 70201,
@@ -21316,6 +21404,62 @@
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/802021/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/802021/shipyard.png"
 	},
+	"802030": {
+		"id": 802030,
+		"gid": 80203,
+		"name": "Guichen",
+		"type": "Default",
+		"desc": "De Grasse-class light cruiser – Guichen.",
+		"tag": [],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/802030/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/802030/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/802030/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/802030/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/802030/shipyard.png"
+	},
+	"802031": {
+		"id": 802031,
+		"gid": 80203,
+		"name": "Sorcière on Ice",
+		"type": "Sport Time",
+		"desc": "Advanced technology is indistinguishable from magic—and that goes for this icy stage, too. Commander, please enjoy this demonstration of our heaven-bestowed sacrament until the very end~♪",
+		"tag": [
+			"custombg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/802031/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/802031/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/802031/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/802031/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/802031/shipyard.png"
+	},
+	"803010": {
+		"id": 803010,
+		"gid": 80301,
+		"name": "Suffren",
+		"type": "Default",
+		"desc": "Suffren-class heavy cruiser – Suffren.",
+		"tag": [],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/803010/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/803010/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/803010/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/803010/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/803010/shipyard.png"
+	},
+	"803011": {
+		"id": 803011,
+		"gid": 80301,
+		"name": "Impulsive Incident",
+		"type": "Sport Time",
+		"desc": "Hm? The door's open! ...Commander? Oh, ahaha... Silly me, I should've put up a card with \"occupied\" on it... Then again, I... I guess I don't mind if you're the one who sees me~",
+		"tag": [
+			"bg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/803011/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/803011/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/803011/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/803011/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/803011/shipyard.png"
+	},
 	"805010": {
 		"id": 805010,
 		"gid": 80501,
@@ -21361,6 +21505,34 @@
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/805012/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/805012/shipyard.png"
 	},
+	"805020": {
+		"id": 805020,
+		"gid": 80502,
+		"name": "Lyon",
+		"type": "Default",
+		"desc": "Lyon-class battleship – Lyon.",
+		"tag": [],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/805020/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/805020/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/805020/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/805020/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/805020/shipyard.png"
+	},
+	"805021": {
+		"id": 805021,
+		"gid": 80502,
+		"name": "Paired Exercise",
+		"type": "Sport Time",
+		"desc": "Mmh... Pilates may be easy to learn, but it seems difficult to master... Are you still okay, Commander? Me? I-I can keep going...",
+		"tag": [
+			"bg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/805021/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/805021/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/805021/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/805021/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/805021/shipyard.png"
+	},
 	"807010": {
 		"id": 807010,
 		"gid": 80701,
@@ -21388,6 +21560,35 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/807011/icon.png",
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/807011/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/807011/shipyard.png"
+	},
+	"807020": {
+		"id": 807020,
+		"gid": 80702,
+		"name": "Painlevé",
+		"type": "Default",
+		"desc": "Joffre-class aircraft carrier – Painlevé.",
+		"tag": [],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/807020/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/807020/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/807020/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/807020/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/807020/shipyard.png"
+	},
+	"807021": {
+		"id": 807021,
+		"gid": 80702,
+		"name": "Team Stretching",
+		"type": "Sport Time",
+		"desc": "Phew... Commander...? Would you like to... hnnngh... stretch with me? Don't worry, it won't hurt. We have plenty of time, so we can take it slow...",
+		"tag": [
+			"dynamic",
+			"bg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/807021/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/807021/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/807021/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/807021/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/807021/shipyard.png"
 	},
 	"808010": {
 		"id": 808010,
@@ -21704,6 +21905,35 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/901033/icon.png",
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/901033/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/901033/shipyard.png"
+	},
+	"901040": {
+		"id": 901040,
+		"gid": 90104,
+		"name": "Kersaint",
+		"type": "Default",
+		"desc": "Vauquelin-class destroyer – Kersaint.",
+		"tag": [],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/901040/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/901040/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/901040/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/901040/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/901040/shipyard.png"
+	},
+	"901041": {
+		"id": 901041,
+		"gid": 90104,
+		"name": "Reverent Runner",
+		"type": "Sport Time",
+		"desc": "Phew... Commander? So the Iris brings us together once again... I-I'm sorry for being so sudden, but... Would you like to join me on my run?",
+		"tag": [
+			"dynamic",
+			"bg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/901041/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/901041/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/901041/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/901041/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/901041/shipyard.png"
 	},
 	"901110": {
 		"id": 901110,
@@ -22097,6 +22327,35 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/905013/icon.png",
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/905013/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/905013/shipyard.png"
+	},
+	"905020": {
+		"id": 905020,
+		"gid": 90502,
+		"name": "Clemenceau",
+		"type": "Default",
+		"desc": "Richelieu-class battleship – Clemenceau.",
+		"tag": [],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/905020/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/905020/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/905020/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/905020/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/905020/shipyard.png"
+	},
+	"905021": {
+		"id": 905021,
+		"gid": 90502,
+		"name": "Splendid Breeze",
+		"type": "Sport Time",
+		"desc": "The skies are blue and the wind is calm, a perfect day for golfing... Commander? I didn't bring you here just to watch the scenery, you know? Brace yourself, because you're in for a long day with me.",
+		"tag": [
+			"live2d",
+			"bg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/905021/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/905021/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/905021/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/905021/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/905021/shipyard.png"
 	},
 	"905030": {
 		"id": 905030,
