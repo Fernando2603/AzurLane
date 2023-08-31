@@ -21421,7 +21421,7 @@
 		"id": 802031,
 		"gid": 80203,
 		"name": "Sorcière on Ice",
-		"type": "Sport Time",
+		"type": "Rhythm & Steps",
 		"desc": "Advanced technology is indistinguishable from magic—and that goes for this icy stage, too. Commander, please enjoy this demonstration of our heaven-bestowed sacrament until the very end~♪",
 		"tag": [
 			"custombg"
@@ -22589,6 +22589,19 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9702040/icon.png",
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9702040/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9702040/shipyard.png"
+	},
+	"9702050": {
+		"id": 9702050,
+		"gid": 970205,
+		"name": "Jintsuu META",
+		"type": "Default",
+		"desc": "I am the light cruiser named Jintsuu. I take it you summoned me because you need help? ...Very well. Then I shall humbly devise plans that will serve your fleet.",
+		"tag": [],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9702050/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9702050/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9702050/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9702050/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9702050/shipyard.png"
 	},
 	"9703010": {
 		"id": 9703010,

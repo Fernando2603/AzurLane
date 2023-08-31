@@ -12935,6 +12935,62 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800910.png",
 		"max_level": 1
 	},
+	"800920": {
+		"id": 800920,
+		"type": 1,
+		"name": "Unyielding, the Flower Blooms",
+		"desc": "When this ship fires her torpedoes: fires an additional Lv.10 special torpedo barrage (DMG is based on the skill's level) and increases your Vanguard's TRP by 25.0% for 10s.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800920.png",
+		"max_level": 10
+	},
+	"800930": {
+		"id": 800930,
+		"type": 3,
+		"name": "Life and Death, Within One's Palm",
+		"desc": "Increases this ship's EVA by 15.0%. While this ship is afloat: decreases your DDs' and CLs' cannon DMG taken by 10.0% and increases their torpedo Crit Rate by 10.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800930.png",
+		"max_level": 10
+	},
+	"800940": {
+		"id": 800940,
+		"type": 2,
+		"name": "Decisions, Prudent Yet Audacious",
+		"desc": "Decreases this ship's DMG taken by 20.0%. Once per battle, when this ship takes DMG that would sink her: this ship does not sink, evades all attacks for 3s, fires 2 waves of torpedoes, and recovers 20.0% of her max HP (after this effect activates, the DMG-reducing effect of this skill becomes inactive).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800940.png",
+		"max_level": 10
+	},
+	"800951": {
+		"id": 800951,
+		"type": 3,
+		"name": "Framework of Logic - Jintsuu I",
+		"desc": "Every 12 times this ship fires her Main Guns: fires a special barrage.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800950.png",
+		"max_level": 1
+	},
+	"800952": {
+		"id": 800952,
+		"type": 3,
+		"name": "Framework of Logic - Jintsuu II",
+		"desc": "Every 8 times this ship fires her Main Guns: fires a special barrage.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800950.png",
+		"max_level": 1
+	},
+	"800955": {
+		"id": 800955,
+		"type": 3,
+		"name": "Framework of Logic - Jintsuu I",
+		"desc": "[Operation Siren]\nEvery 12 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: decreases your META ships' DMG taken by 5.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800950.png",
+		"max_level": 1
+	},
+	"800957": {
+		"id": 800957,
+		"type": 3,
+		"name": "Framework of Logic - Jintsuu II",
+		"desc": "[Operation Siren]\nEvery 8 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: decreases your META ships' DMG taken by 8.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800950.png",
+		"max_level": 1
+	},
 	"902220": {
 		"id": 902220,
 		"type": 2,
