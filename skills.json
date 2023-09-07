@@ -13015,6 +13015,14 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/10140.png",
 		"max_level": 10
 	},
+	"1010160": {
+		"id": 1010160,
+		"type": 2,
+		"name": "The Strongest Shield+",
+		"desc": "10s after the battle starts, and every 20s after that: for 10s, this ship tanks 50.0% of the DMG taken by your Main Fleet and reduces said DMG by 10.0%. Afterwards, she recovers HP equal to 50.0% of the DMG tanked and her FP and ACC increases by 10.0% (this buff can be stacked up to 3 times).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/10160.png",
+		"max_level": 10
+	},
 	"1010250": {
 		"id": 1010250,
 		"type": 2,
@@ -13143,6 +13151,14 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/11380.png",
 		"max_level": 10
 	},
+	"1011440": {
+		"id": 1011440,
+		"type": 1,
+		"name": "The Bull of Scapa Flow+",
+		"desc": "When this boat's torpedoes hit an enemy: for 5s, if that enemy takes DMG from this boat's torpedoes again, the enemy's DMG taken increases by 40.0%; when this boat resurfaces, fires a Lv.10 special torpedo barrage (DMG is based on the skill's level) and decreases this boat's DMG taken by 15.0% until the battle ends.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/11440.png",
+		"max_level": 10
+	},
 	"1011500": {
 		"id": 1011500,
 		"type": 1,
@@ -13205,6 +13221,14 @@
 		"name": "Protector of the North Passage+",
 		"desc": "When this ship launches an airstrike: 1) performs a scan, revealing the location of enemy SSs, decreasing their SPD by 40.0%, and increasing their DMG taken by 10.0% for 10s; 2) launches an additional airstrike consisting of Swordfishes armed with anti-sub and anti-surface torpedoes (DMG is based on the skill's level).",
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/11900.png",
+		"max_level": 10
+	},
+	"1011970": {
+		"id": 1011970,
+		"type": 1,
+		"name": "Morale Boost+",
+		"desc": "Every 5 times this ship fires her Main Guns: increases this ship's RLD by 10.0% and the DMG dealt by her All Out Assault skill by 8.0% (can be stacked up to 3 times).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/11970.png",
 		"max_level": 10
 	},
 	"1012350": {
@@ -13357,6 +13381,22 @@
 		"name": "Surface Combat - Surcouf",
 		"desc": "Increases this boat's surface combat duration by 12.0s. When this boat fires her Main Guns: fires a Lv.10 special barrage (DMG is based on the skill's level).",
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/3520.png",
+		"max_level": 10
+	},
+	"1090160": {
+		"id": 1090160,
+		"type": 1,
+		"name": "Double Gun - Suffolk",
+		"desc": "When this ship fires her Main Guns: 75.0% chance to fire again and restore 2.0% of this ship's max HP.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/2060.png",
+		"max_level": 10
+	},
+	"1090170": {
+		"id": 1090170,
+		"type": 2,
+		"name": "AP Protection - Mogami",
+		"desc": "Decreases this ship's DMG taken from AP shells by 20.0%. 10s after the battle starts, and every 20s after that: deploys a barrier (lasts 10s) that can negate up to 3.0% of this ship's max HP in DMG; when this barrier breaks or expires: fires a Lv.10 special barrage (DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/4110.png",
 		"max_level": 10
 	}
 }
