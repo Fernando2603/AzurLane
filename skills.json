@@ -13227,7 +13227,7 @@
 		"id": 1011970,
 		"type": 1,
 		"name": "Morale Boost+",
-		"desc": "Every 5 times this ship fires her Main Guns: increases this ship's RLD by 10.0% and the DMG dealt by her All Out Assault skill by 8.0% (can be stacked up to 3 times).",
+		"desc": "Every 5 times this ship fires her Main Guns: increases this ship's RLD by 10.0% and her DMG dealt by 8.0% (can be stacked up to 3 times).",
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/11970.png",
 		"max_level": 10
 	},
