@@ -41832,6 +41832,149 @@
 			}
 		}
 	},
+	"33120": {
+		"name": "Prototype Triple 203mm/55 Main Gun Mount",
+		"desc": "A triple gun mount developed by the Sakura Empire.",
+		"label": [
+			"IJN",
+			"CA",
+			"MG",
+			"HE"
+		],
+		"rarity": 6,
+		"nationality": 3,
+		"type": 3,
+		"skill": [],
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/33120.png",
+		"stats": {
+			"1": {
+				"id": 33120,
+				"level": 1,
+				"damage": "30 x 6",
+				"cannon": 65,
+				"weapon_id": [
+					33120
+				]
+			},
+			"2": {
+				"id": 33121,
+				"level": 2,
+				"damage": "32 x 6",
+				"cannon": 65,
+				"weapon_id": [
+					33121
+				]
+			},
+			"3": {
+				"id": 33122,
+				"level": 3,
+				"damage": "34 x 6",
+				"cannon": 65,
+				"weapon_id": [
+					33122
+				]
+			},
+			"4": {
+				"id": 33123,
+				"level": 4,
+				"damage": "36 x 6",
+				"cannon": 65,
+				"weapon_id": [
+					33123
+				]
+			},
+			"5": {
+				"id": 33124,
+				"level": 5,
+				"damage": "38 x 6",
+				"cannon": 65,
+				"weapon_id": [
+					33124
+				]
+			},
+			"6": {
+				"id": 33125,
+				"level": 6,
+				"damage": "40 x 6",
+				"cannon": 65,
+				"weapon_id": [
+					33125
+				]
+			},
+			"7": {
+				"id": 33126,
+				"level": 7,
+				"damage": "42 x 6",
+				"cannon": 65,
+				"weapon_id": [
+					33126
+				]
+			},
+			"8": {
+				"id": 33127,
+				"level": 8,
+				"damage": "44 x 6",
+				"cannon": 65,
+				"weapon_id": [
+					33127
+				]
+			},
+			"9": {
+				"id": 33128,
+				"level": 9,
+				"damage": "46 x 6",
+				"cannon": 65,
+				"weapon_id": [
+					33128
+				]
+			},
+			"10": {
+				"id": 33129,
+				"level": 10,
+				"damage": "48 x 6",
+				"cannon": 65,
+				"weapon_id": [
+					33129
+				]
+			},
+			"11": {
+				"id": 33130,
+				"level": 11,
+				"damage": "50 x 6",
+				"cannon": 65,
+				"weapon_id": [
+					33130
+				]
+			},
+			"12": {
+				"id": 33131,
+				"level": 12,
+				"damage": "50 x 6",
+				"cannon": 65,
+				"weapon_id": [
+					33131
+				]
+			},
+			"13": {
+				"id": 33132,
+				"level": 13,
+				"damage": "50 x 6",
+				"cannon": 65,
+				"weapon_id": [
+					33132
+				]
+			},
+			"14": {
+				"id": 33133,
+				"level": 14,
+				"damage": "50 x 6",
+				"cannon": 65,
+				"weapon_id": [
+					33133
+				]
+			}
+		}
+	},
 	"34000": {
 		"name": "Twin 356mm Naval Gun Mount",
 		"desc": "No description",

@@ -4913,6 +4913,21 @@
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/108071/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/108071/shipyard.png"
 	},
+	"108072": {
+		"id": 108072,
+		"gid": 10807,
+		"name": "Shining Blossom in the Deep Blue",
+		"type": "Swimsuits",
+		"desc": "Commander~ Ehehe, can I introduce you to some of my new friends? Here's Miss Tropical Fish, and Mister Manta Ray... Oh, and Mister Dolphin too! Oh, umm, this friend here can be a bit mischievous at times, and often causes quite a bit of trouble...",
+		"tag": [
+			"bg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/108072/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/108072/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/108072/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/108072/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/108072/shipyard.png"
+	},
 	"112010": {
 		"id": 112010,
 		"gid": 11201,
@@ -12082,6 +12097,63 @@
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301881/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301881/shipyard.png"
 	},
+	"301890": {
+		"id": 301890,
+		"gid": 30189,
+		"name": "Hatsuzuki",
+		"type": "Default",
+		"desc": "Akizuki-class destroyer – Hatsuzuki.",
+		"tag": [],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301890/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301890/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301890/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301890/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301890/shipyard.png"
+	},
+	"301891": {
+		"id": 301891,
+		"gid": 30189,
+		"name": "August's First Romance",
+		"type": "Swimsuits",
+		"desc": "Peace~♪ Do I look good in the pic? Don't I look so adorable you'll never wanna delete the photo, and have to stare at it every day to feel at ease? Heehee♪",
+		"tag": [
+			"live2d",
+			"bg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301891/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301891/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301891/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301891/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301891/shipyard.png"
+	},
+	"301900": {
+		"id": 301900,
+		"gid": 30190,
+		"name": "Asanagi",
+		"type": "Default",
+		"desc": "Kamikaze-class destroyer – Asanagi.",
+		"tag": [],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301900/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301900/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301900/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301900/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301900/shipyard.png"
+	},
+	"301901": {
+		"id": 301901,
+		"gid": 30190,
+		"name": "Lulled by Rough Seas",
+		"type": "Swimsuits",
+		"desc": "*yaaawn*... Goodness me, there I go falling asleep. You understand how pleasant the sea breeze is, don't you? YOU calling ME a slacker!",
+		"tag": [
+			"bg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301901/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301901/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301901/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301901/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301901/shipyard.png"
+	},
 	"302010": {
 		"id": 302010,
 		"gid": 30201,
@@ -12217,6 +12289,34 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/302059/icon.png",
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/302059/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/302059/shipyard.png"
+	},
+	"302060": {
+		"id": 302060,
+		"gid": 30206,
+		"name": "Natori",
+		"type": "Default",
+		"desc": "Nagara-class light cruiser – Natori.",
+		"tag": [],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/302060/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/302060/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/302060/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/302060/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/302060/shipyard.png"
+	},
+	"302061": {
+		"id": 302061,
+		"gid": 30206,
+		"name": "Beach Paradise",
+		"type": "Swimsuits",
+		"desc": "Mmfhuhu~♡ What's the matter, Commander? Enraptured by my charms? Heehee, you're frozen in place! You can't begin to think of how to compliment me, can you? \"Enough staring, out with the compliments!\"",
+		"tag": [
+			"bg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/302061/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/302061/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/302061/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/302061/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/302061/shipyard.png"
 	},
 	"302070": {
 		"id": 302070,
@@ -12829,6 +12929,19 @@
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303080/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303080/shipyard.png"
 	},
+	"303089": {
+		"id": 303089,
+		"gid": 30308,
+		"name": "Nachi (Retrofit)",
+		"type": "Default",
+		"desc": "Howzit? Now that my retrofit's all done, don't I look even more perfect than before? Maybe now, our ever-so-reserved Commander here will be super impressed by my new abilities~ Wh-what do you mean I've been staying up too late training with my rigging? W-we're not gonna talk about that!",
+		"tag": [],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303089/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303089/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303089/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303089/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303089/shipyard.png"
+	},
 	"303090": {
 		"id": 303090,
 		"gid": 30309,
@@ -13199,6 +13312,19 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303183/icon.png",
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303183/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303183/shipyard.png"
+	},
+	"303190": {
+		"id": 303190,
+		"gid": 30319,
+		"name": "Unzen",
+		"type": "Default",
+		"desc": "Heavy cruiser – Unzen.",
+		"tag": [],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303190/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303190/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303190/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303190/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303190/shipyard.png"
 	},
 	"304010": {
 		"id": 304010,
@@ -14072,6 +14198,35 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/305121/icon.png",
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/305121/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/305121/shipyard.png"
+	},
+	"305130": {
+		"id": 305130,
+		"gid": 30513,
+		"name": "Owari",
+		"type": "Default",
+		"desc": "Kii-class battleship – Owari.",
+		"tag": [],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/305130/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/305130/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/305130/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/305130/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/305130/shipyard.png"
+	},
+	"305131": {
+		"id": 305131,
+		"gid": 30513,
+		"name": "Shimmering Forsythia",
+		"type": "Swimsuits",
+		"desc": "I love hammocks and water beds 'cause they make you feel like you're floating on waves. It's the most relaxing thing ever~♪ You oughta hop on and try for yourself, Commander~",
+		"tag": [
+			"bg",
+			"dynamic"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/305131/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/305131/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/305131/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/305131/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/305131/shipyard.png"
 	},
 	"305140": {
 		"id": 305140,
@@ -14985,6 +15140,21 @@
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/307121/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/307121/shipyard.png"
 	},
+	"307122": {
+		"id": 307122,
+		"gid": 30712,
+		"name": "Shallow-Water Leisure",
+		"type": "Swimsuits",
+		"desc": "Mmmh~ When it gets real hot, whether you're a shipgirl or an ordinary person, the place to go to cool down is always either the mountains or the beach, right? But what if I told you, that when you're at a rooftop pool, you not only get the great views of climbing up a mountain, but also the refreshing coolness of splashing around in the water? Am I right or am I right, Commander? ...Heeeey, are you even listening?!",
+		"tag": [
+			"bg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/307122/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/307122/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/307122/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/307122/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/307122/shipyard.png"
+	},
 	"307130": {
 		"id": 307130,
 		"gid": 30713,
@@ -15351,6 +15521,22 @@
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/319012/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/319012/shipyard.png"
 	},
+	"319013": {
+		"id": 319013,
+		"gid": 31901,
+		"name": "Robust Floral Strings",
+		"type": "Party Dress",
+		"desc": "♪~ Commander, how'd that sound? Hmm... I just started learning last minute, so I guess things aren't coming together after all... But, why do I sound off-pitch even though I'm playing everything exactly the way I was taught...?",
+		"tag": [
+			"live2d",
+			"bg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/319013/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/319013/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/319013/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/319013/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/319013/shipyard.png"
+	},
 	"331050": {
 		"id": 331050,
 		"gid": 30105,
@@ -15669,6 +15855,22 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399051/icon.png",
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399051/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399051/shipyard.png"
+	},
+	"399052": {
+		"id": 399052,
+		"gid": 39905,
+		"name": "Flash of Silk and Strings",
+		"type": "Party Dress",
+		"desc": "Katana... at the ready. Hmph, you again? Never expected you to know anything about music, the way you've been out there conquering the waves with us this whole time. Come then, let me test how good your tastes are with this song!",
+		"tag": [
+			"live2d",
+			"bg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399052/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399052/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399052/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399052/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399052/shipyard.png"
 	},
 	"399060": {
 		"id": 399060,

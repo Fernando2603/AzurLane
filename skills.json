@@ -6187,7 +6187,7 @@
 		"id": 16950,
 		"type": 1,
 		"name": "Leyte Gulf's Witness",
-		"desc": "Increases this ship's FP by 12.0%. When the battle starts, if there is another BB or BC in your fleet: increases this ship's ACC and AA by 12.0%, improves the special barrage fired by the skill \"Big Seven - West Virginia,\" and applies the following two effects: 1) Enemies hit by the special barrage have their SPD reduced by 30.0% for 5s; 2) Inceases your BBs' and BCs' DMG dealt to enemies slowed by this skill by 8.0%.",
+		"desc": "Increases this ship's FP by 12.0%. When the battle starts, if there is another BB or BC in your fleet: increases this ship's ACC and AA by 12.0%, improves the special barrage fired by the skill \"Big Seven - West Virginia,\" and applies the following two effects: 1) Enemies hit by the special barrage have their SPD reduced by 30.0% for 5s; 2) Increases your BBs' and BCs' DMG dealt to enemies slowed by this skill by 8.0%.",
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/16950.png",
 		"max_level": 10
 	},
@@ -6245,6 +6245,86 @@
 		"name": "Sanctification",
 		"desc": "Increases this ship's FP and ACC by 10.0%. Decreases this ship's shelling and torpedo DMG taken by 10.0%.",
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17020.png",
+		"max_level": 10
+	},
+	"17030": {
+		"id": 17030,
+		"type": 1,
+		"name": "Exorcism for the Mortal Realm",
+		"desc": "Increases this ship's FP, TRP, and EVA by 20.0%. Every 20s: fires a Lv.10 special barrage (DMG is based on the skill's level; enemies hit by this barrage deal 10.0% less DMG to Unzen). While this ship is afloat, when a fleet this ship is NOT in starts a battle: 20s after that battle starts, fires a Lv.10 special barrage (DMG is based on the skill's level) and, if there is a CA in that fleet, increases that fleet's CAs' DMG dealt with HE ammunition by 7.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17030.png",
+		"max_level": 10
+	},
+	"17040": {
+		"id": 17040,
+		"type": 1,
+		"name": "Coalescence of Cloudshade and Etherlight",
+		"desc": "Increases this ship's torpedo Crit Rate by 50.0% and her Crit DMG by 75.0%. When the battle starts, and when this ship finishes loading her torpedoes: increases this ship's SPD by 5 for 8s and deploys a shield (lasts 8s) that can negate up to 6 enemy shells (does not stack if multiple reloads complete at the same time).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17040.png",
+		"max_level": 10
+	},
+	"17060": {
+		"id": 17060,
+		"type": 3,
+		"name": "Power o' Friendship",
+		"desc": "When the battle starts, and every 20s: gives a random other ship in your fleet the Best Buds trait. While a ship with the Best Buds trait is afloat, Owari's FP, ACC, and RLD are increased by 20.0%. When a ship with the Best Buds trait sinks, or when the trait expires: Owari fires a Lv.10 torpedo barrage (DMG is based on the skill's level). The Best Buds trait grants additional buffs based on the recipient's position:\n1) Main Fleet: increases that ship's AA by 15.0% and decreases her DMG taken by 10.0%;\n2) Vanguard: increases that ship's FP and TRP by 15.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17060.png",
+		"max_level": 10
+	},
+	"17070": {
+		"id": 17070,
+		"type": 3,
+		"name": "Don't Mess With My Best Buds!",
+		"desc": "When this ship fires her Main Guns: 75.0% chance to fire a Lv.10 special barrage (DMG is based on the skill's level). When this special barrage fires: increases your Kii-class BBs' DMG dealt by 10.0% for 10s. If your Flagship meets any one of the following criteria, this barrage's activation chance increases by 25.0%:\n1) She is a Sakura Empire ship;\n2) She is a BB, BC, or BBV;\n3) She has received the Best Buds trait at least once during the battle.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17070.png",
+		"max_level": 10
+	},
+	"17080": {
+		"id": 17080,
+		"type": 1,
+		"name": "As Evening Weaves, the Moon Sunders",
+		"desc": "When the battle starts, for each Sakura Empire ship in your fleet: increases this ship's FP and RLD by 5.0% (can be stacked up to 3 times). Increases this ship's Crit Rate by 10.0% and Evasion Rate by 5.0% and, every 15s: fires a Lv.10 special barrage (DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17080.png",
+		"max_level": 10
+	},
+	"17090": {
+		"id": 17090,
+		"type": 2,
+		"name": "As Leaves Fall, Geese Take Flight",
+		"desc": "Increases this ship's EVA by 10.0% and decreases her DMG taken from cruisers by 15.0%. While this ship is afloat: decreases all your other ships' DMG taken by 5.0%. Once per battle, when this ship's HP falls below 35.0% as a result of DMG taken: this ship recovers 10.0% of her max HP.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17090.png",
+		"max_level": 10
+	},
+	"17100": {
+		"id": 17100,
+		"type": 1,
+		"name": "Fists of Fury!",
+		"desc": "When this ship fires her Main Guns: 50.0% chance to fire a Lv.10 special barrage (DMG is based on the skill's level; 10s cooldown between activations) that momentarily stops enemies hit.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17100.png",
+		"max_level": 10
+	},
+	"17110": {
+		"id": 17110,
+		"type": 2,
+		"name": "Ol' Reliable",
+		"desc": "Every 20s: for 10s, increases this ship's EVA, AA, and TRP by 15.0% and decreases your Vanguard's DMG taken by 10.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17110.png",
+		"max_level": 10
+	},
+	"17120": {
+		"id": 17120,
+		"type": 2,
+		"name": "Hiranuma's Protection",
+		"desc": "When the battle starts: deploys a barrier (lasts 20s) that can negate up to 10.0% of this ship's max HP in DMG. For the first 30s of battle, when this ship fires her Main Guns: fires an additional Lv.10 supporting barrage from battleship Hiranuma (DMG is based on the skill's level). While this ship is afloat: decreases your CLs' DMG taken by 12.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17120.png",
+		"max_level": 10
+	},
+	"17130": {
+		"id": 17130,
+		"type": 1,
+		"name": "Secret Cheat Code Powers!",
+		"desc": "Increases this ship's FP and TRP by 10.0%. When this ship's All Out Assault skill activates: fires a Lv.10 special barrage (DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17130.png",
 		"max_level": 10
 	},
 	"18010": {
@@ -10565,6 +10645,38 @@
 		"name": "All Out Assault II",
 		"desc": "Activates All Out Assault II: Guichen once every 8 times the Main Guns are fired.",
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30090.png",
+		"max_level": 1
+	},
+	"30101": {
+		"id": 30101,
+		"type": 1,
+		"name": "All Out Assault - Unzen I",
+		"desc": "Activates All Out Assault I: Unzen once every 12 times the Main Guns are fired.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30100.png",
+		"max_level": 1
+	},
+	"30102": {
+		"id": 30102,
+		"type": 1,
+		"name": "All Out Assault - Unzen II",
+		"desc": "Activates All Out Assault II: Unzen once every 8 times the Main Guns are fired.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30100.png",
+		"max_level": 1
+	},
+	"30111": {
+		"id": 30111,
+		"type": 1,
+		"name": "All Out Assault - Hatsuzuki I",
+		"desc": "Activates All Out Assault I: Hatsuzuki once every 24 times the Main Guns are fired.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30110.png",
+		"max_level": 1
+	},
+	"30112": {
+		"id": 30112,
+		"type": 1,
+		"name": "All Out Assault - Hatsuzuki II",
+		"desc": "Activates All Out Assault II: Hatsuzuki once every 16 times the Main Guns are fired.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30110.png",
 		"max_level": 1
 	},
 	"101010": {
