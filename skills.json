@@ -10523,7 +10523,7 @@
 		"id": 30001,
 		"type": 1,
 		"name": "All Out Assault I",
-		"desc": "Activates All Out Assault I: Felix Schultz once every 15 times the Main Guns are fired. If this ship has a CL Main Gun equipped: reduces the shot requirement to 6.",
+		"desc": "Activates All Out Assault I: Otto von Alvensleben once every 15 times the Main Guns are fired. If this ship has a CL Main Gun equipped: reduces the shot requirement to 6.",
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30000.png",
 		"max_level": 1
 	},
@@ -10531,7 +10531,7 @@
 		"id": 30011,
 		"type": 1,
 		"name": "All Out Assault II",
-		"desc": "Activates All Out Assault II: Felix Schultz once every 10 times the Main Guns are fired. If this ship has a CL Main Gun equipped: reduces the shot requirement to 4.",
+		"desc": "Activates All Out Assault II: Otto von Alvensleben once every 10 times the Main Guns are fired. If this ship has a CL Main Gun equipped: reduces the shot requirement to 4.",
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30000.png",
 		"max_level": 1
 	},

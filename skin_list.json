@@ -8266,6 +8266,21 @@
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/205064/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/205064/shipyard.png"
 	},
+	"205065": {
+		"id": 205065,
+		"gid": 20506,
+		"name": "A Knight's Song, a Lady's Night",
+		"type": "Party Dress",
+		"desc": "I expected you sooner, Commander. I decided to practice the saxophone while I had some time alone... You shouldn't keep a lady waiting in the future. Heehee. Anyway, I suppose we could listen to a song before we set off, no?",
+		"tag": [
+			"custombg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/205065/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/205065/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/205065/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/205065/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/205065/shipyard.png"
+	},
 	"205070": {
 		"id": 205070,
 		"gid": 20507,
@@ -8548,6 +8563,21 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/206021/icon.png",
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/206021/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/206021/shipyard.png"
+	},
+	"206022": {
+		"id": 206022,
+		"gid": 20602,
+		"name": "Cerulean Enthrallment",
+		"type": "Party Dress",
+		"desc": "\"Gaze upon this glorious dress. Admire its brilliance, tremble, and...\" If you don't mind, would you please take Argus' hand?",
+		"tag": [
+			"bg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/206022/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/206022/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/206022/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/206022/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/206022/shipyard.png"
 	},
 	"206030": {
 		"id": 206030,
@@ -9425,6 +9455,21 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/213042/icon.png",
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/213042/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/213042/shipyard.png"
+	},
+	"231210": {
+		"id": 231210,
+		"gid": 20121,
+		"name": "A Different Dance",
+		"type": "Party Dress",
+		"desc": "Tadah! I've got a banquet dress! Heehee~ I decided to go with something refined and voguish this time, as opposed to cute! I mean, it's a dress fit for a banquet, so I think it makes me look pretty grown-up.",
+		"tag": [
+			"bg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/231210/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/231210/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/231210/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/231210/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/231210/shipyard.png"
 	},
 	"236030": {
 		"id": 236030,
@@ -12812,6 +12857,21 @@
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/302232/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/302232/shipyard.png"
 	},
+	"302233": {
+		"id": 302233,
+		"gid": 30223,
+		"name": "The Keys of Love",
+		"type": "Party Dress",
+		"desc": "Laaa la-laaa♪ Oh, Commander. Here to see me again? I know you're madly in love and want to watch me practice, but people will think you're weird if you keep coming and going constantly. Heehee♪",
+		"tag": [
+			"custombg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/302233/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/302233/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/302233/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/302233/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/302233/shipyard.png"
+	},
 	"303010": {
 		"id": 303010,
 		"gid": 30301,
@@ -13325,6 +13385,22 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303190/icon.png",
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303190/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303190/shipyard.png"
+	},
+	"303191": {
+		"id": 303191,
+		"gid": 30319,
+		"name": "Sojourn Through Clear Seas",
+		"type": "Swimsuits",
+		"desc": "Commander~ Come over here~♥ Heehee, you look surprised... I don't think I'm dressed strangely at all. Or... is this swimsuit not enough to satisfy you, Commander?",
+		"tag": [
+			"live2d",
+			"bg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303191/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303191/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303191/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303191/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303191/shipyard.png"
 	},
 	"304010": {
 		"id": 304010,
@@ -15072,6 +15148,22 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/307082/icon.png",
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/307082/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/307082/shipyard.png"
+	},
+	"307083": {
+		"id": 307083,
+		"gid": 30708,
+		"name": "Dreamy White Sands",
+		"type": "Swimsuits",
+		"desc": "This world of pristine sand that you have envisioned, a mirage that fits only within the confines of a dream and a reverie... No matter how many times we meet here, this one finds herself drawn to this place again and again...",
+		"tag": [
+			"live2d",
+			"bg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/307083/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/307083/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/307083/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/307083/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/307083/shipyard.png"
 	},
 	"307090": {
 		"id": 307090,
@@ -18349,6 +18441,21 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/431232/icon.png",
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/431232/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/431232/shipyard.png"
+	},
+	"431233": {
+		"id": 431233,
+		"gid": 40123,
+		"name": "Tanz der Blumen",
+		"type": "Party Dress",
+		"desc": "Sure, I've worn black dresses in the past, but this time I decided to incorporate a bit of red and white, per Eugen's suggestion. This is sure to invite the Commander to dance wi– C-Commander?! Did you just get here? I see. Uhh... How do you like my dress?",
+		"tag": [
+			"bg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/431233/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/431233/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/431233/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/431233/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/431233/shipyard.png"
 	},
 	"499010": {
 		"id": 499010,
