@@ -13103,6 +13103,54 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800950.png",
 		"max_level": 1
 	},
+	"800960": {
+		"id": 800960,
+		"type": 1,
+		"name": "Phosphorus Flames",
+		"desc": "Decreases this ship's Burn DMG taken by 15.0%. When there is a Burning ship afloat: increases this ship's DMG dealt by 12.0%. When this ship's airstrike hits an enemy: 70.0% chance to Burn that enemy for 10s.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800960.png",
+		"max_level": 10
+	},
+	"800970": {
+		"id": 800970,
+		"type": 2,
+		"name": "Into Thin Air",
+		"desc": "When this ship launches an airstrike: decreases this ship's DMG taken by 15.0% for 8s and decreases her Detection Gauge by 1 every second for 8s. 8s after this effect activates: 70.0% chance to launch a Lv.10 special airstrike (DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800970.png",
+		"max_level": 10
+	},
+	"800981": {
+		"id": 800981,
+		"type": 1,
+		"name": "Ashen Might - Princeton I",
+		"desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 2.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800980.png",
+		"max_level": 1
+	},
+	"800982": {
+		"id": 800982,
+		"type": 1,
+		"name": "Ashen Might - Princeton II",
+		"desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 6.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800980.png",
+		"max_level": 1
+	},
+	"800985": {
+		"id": 800985,
+		"type": 1,
+		"name": "Ashen Might - Princeton I",
+		"desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 2.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800980.png",
+		"max_level": 1
+	},
+	"800987": {
+		"id": 800987,
+		"type": 1,
+		"name": "Ashen Might - Princeton II",
+		"desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 6.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800980.png",
+		"max_level": 1
+	},
 	"902220": {
 		"id": 902220,
 		"type": 2,

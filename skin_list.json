@@ -3134,6 +3134,19 @@
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103244/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103244/shipyard.png"
 	},
+	"103248": {
+		"id": 103248,
+		"gid": 10324,
+		"name": "Joyride of Love",
+		"type": "Oath",
+		"desc": "Three, two, one, go! Did you get a pic of me tossing the bouquet, Commander? Ahahah! I'm postin' this to Juustagram later, so you should do the same! It'll be like... retaking our pledge of love♪",
+		"tag": [],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103248/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103248/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103248/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103248/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103248/shipyard.png"
+	},
 	"103250": {
 		"id": 103250,
 		"gid": 10325,
@@ -4290,6 +4303,19 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/107095/icon.png",
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/107095/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/107095/shipyard.png"
+	},
+	"107096": {
+		"id": 107096,
+		"gid": 10709,
+		"name": "The Gale of Course 88",
+		"type": "Race Queen",
+		"desc": "Cooldown lap completed! Did you see me on the racetrack, Commander? Heehee. Thanks for everything, from setting up the race to assigning racers and supporters!",
+		"tag": [],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/107096/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/107096/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/107096/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/107096/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/107096/shipyard.png"
 	},
 	"107100": {
 		"id": 107100,
@@ -10856,6 +10882,21 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301293/icon.png",
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301293/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301293/shipyard.png"
+	},
+	"301294": {
+		"id": 301294,
+		"gid": 30129,
+		"name": "Clumsy Moon Rabbit",
+		"type": "Spring Festival",
+		"desc": "Oh no! Commander, look out! ...Phew. That was really close. Apologies for my clear lack of attentiveness! I shouldn't have been in such a rush to deliver all these mooncakes...",
+		"tag": [
+			"bg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301294/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301294/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301294/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301294/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301294/shipyard.png"
 	},
 	"301300": {
 		"id": 301300,
@@ -17498,6 +17539,19 @@
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/404042/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/404042/shipyard.png"
 	},
+	"404048": {
+		"id": 404048,
+		"gid": 40404,
+		"name": "Sleeping White Beauty",
+		"type": "Oath",
+		"desc": "*yawn*, finally, I get to lie down. Tell you what, I'm gonna have a nap... Hm? The ceremony's still not over? Hrmh... Look, it's not important. You should just come lie next to me, Commander!",
+		"tag": [],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/404048/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/404048/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/404048/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/404048/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/404048/shipyard.png"
+	},
 	"404050": {
 		"id": 404050,
 		"gid": 40405,
@@ -17672,6 +17726,22 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/405031/icon.png",
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/405031/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/405031/shipyard.png"
+	},
+	"405032": {
+		"id": 405032,
+		"gid": 40503,
+		"name": "Ignition Matrician",
+		"type": "Race Queen",
+		"desc": "That was a pretty good race – reckon you'll get first place next time, though? ...Hmh. Easier said than done. You know they won't settle for second place – and hopefully neither will you, Commander.",
+		"tag": [
+			"live2d",
+			"custombg"
+		],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/405032/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/405032/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/405032/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/405032/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/405032/shipyard.png"
 	},
 	"405040": {
 		"id": 405040,
@@ -18383,6 +18453,19 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/408111/icon.png",
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/408111/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/408111/shipyard.png"
+	},
+	"408112": {
+		"id": 408112,
+		"gid": 40811,
+		"name": "Practice Makes Perfect",
+		"type": "Sport Time",
+		"desc": "And for my finishing move... maybe something like this? Heehee. What do your eyes think, Commander?",
+		"tag": [],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/408112/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/408112/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/408112/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/408112/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/408112/shipyard.png"
 	},
 	"408120": {
 		"id": 408120,
@@ -23067,6 +23150,19 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9706020/icon.png",
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9706020/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9706020/shipyard.png"
+	},
+	"9706030": {
+		"id": 9706030,
+		"gid": 970603,
+		"name": "Princeton META",
+		"type": "Default",
+		"desc": "Aircraft carrier Princeton, reporting for duty. I'm afraid I'm still a bit disoriented... would you mind briefing me on the situation?",
+		"tag": [],
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9706030/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9706030/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9706030/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9706030/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9706030/shipyard.png"
 	},
 	"9707010": {
 		"id": 9707010,
