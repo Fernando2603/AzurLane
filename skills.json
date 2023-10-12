@@ -13295,6 +13295,14 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/10730.png",
 		"max_level": 10
 	},
+	"1011120": {
+		"id": 1011120,
+		"type": 1,
+		"name": "Victorious Song+",
+		"desc": "Increases this ship's DMG dealt to BBs by 20.0% and decreases her volley DMG received by 20.0%. Increases your CVs' and CVLs' DMG dealt to BBs by 10.0% and increases your Flagship's DMG dealt to BBs by 5.0%. When this ship's airstrike finishes loading: increases this ship's AVI by 10.0% (can be stacked up to 2 times).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/11120.png",
+		"max_level": 10
+	},
 	"1011360": {
 		"id": 1011360,
 		"type": 3,
@@ -13557,6 +13565,14 @@
 		"name": "AP Protection - Mogami",
 		"desc": "Decreases this ship's DMG taken from AP shells by 20.0%. 10s after the battle starts, and every 20s after that: deploys a barrier (lasts 10s) that can negate up to 3.0% of this ship's max HP in DMG; when this barrier breaks or expires: fires a Lv.10 special barrage (DMG is based on the skill's level).",
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/4110.png",
+		"max_level": 10
+	},
+	"1090180": {
+		"id": 1090180,
+		"type": 2,
+		"name": "Cover Fire – Fusou",
+		"desc": "Increases this ship's FP and AVI by 20.0%. When this ship fires her Main Guns or launches an airstrike: 50.0% chance to fire a Lv.10 special barrage forwards (DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/2070.png",
 		"max_level": 10
 	}
 }
