@@ -9522,8 +9522,8 @@
 	"29351": {
 		"id": 29351,
 		"type": 1,
-		"name": "All Out Assault Ⅰ",
-		"desc": "Activates All Out Assault Ⅰ: San Diego once every 16 times the Main Guns are fired.",
+		"name": "All Out Assault - San Diego I",
+		"desc": "Activates All Out Assault I: San Diego once every 16 times the Main Guns are fired.",
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/29350.png",
 		"max_level": 1
 	},

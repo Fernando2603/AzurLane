@@ -2522,6 +2522,19 @@
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102293/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102293/shipyard.png"
 	},
+	"102310": {
+		"id": 102310,
+		"gid": 10231,
+		"name": "Houston II",
+		"type": "Default",
+		"desc": "Cleveland-class light cruiser – Houston II, Hull Number CL-81.",
+		"tag": [],
+		"banner": null,
+		"chibi": null,
+		"icon": null,
+		"qicon": null,
+		"shipyard": null
+	},
 	"103010": {
 		"id": 103010,
 		"gid": 10301,

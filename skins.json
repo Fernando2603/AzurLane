@@ -3245,6 +3245,26 @@
 		]
 	},
 	{
+		"id": 609,
+		"gid": 10231,
+		"name": "Houston II",
+		"skins": [
+			{
+				"id": 102310,
+				"gid": 10231,
+				"name": "Houston II",
+				"type": "Default",
+				"desc": "Cleveland-class light cruiser – Houston II, Hull Number CL-81.",
+				"tag": [],
+				"banner": null,
+				"chibi": null,
+				"icon": null,
+				"qicon": null,
+				"shipyard": null
+			}
+		]
+	},
+	{
 		"id": 39,
 		"gid": 10301,
 		"name": "Pensacola",
