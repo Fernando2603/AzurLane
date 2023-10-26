@@ -11411,6 +11411,21 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/207042/icon.png",
 				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/207042/qicon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/207042/shipyard.png"
+			},
+			{
+				"id": 207043,
+				"gid": 20704,
+				"name": "Upon Nights Brisk and Beautiful",
+				"type": "Summer Fest",
+				"desc": "*Yaaawn*... Basking in the autumnal night's wind while gazing at the moon is the very definition of elegance, is it not? Heehee. Right now, I am not acting as a Lady of the Royal Navy, but rather as an \"ojou\" of the Sakura Empire elegantly enjoying her tea... Hyeep! Hot?!",
+				"tag": [
+					"bg"
+				],
+				"banner": null,
+				"chibi": null,
+				"icon": null,
+				"qicon": null,
+				"shipyard": null
 			}
 		]
 	},
@@ -20070,6 +20085,21 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401242/icon.png",
 				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401242/qicon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401242/shipyard.png"
+			},
+			{
+				"id": 401243,
+				"gid": 40124,
+				"name": "Blood-Red Dance Beneath the Moon",
+				"type": "Halloween",
+				"desc": "\"Sing your praises to the Fiend of Crimson Darkness, Z24!\" ... Hmm, maybe I should go with \"Bow down in astonishment!\"... Ah, yes! Mortal, you've come at a most opportune time! Hurry and tell me what you think of my new catchphrase! ...Actually, get me down from here first!",
+				"tag": [
+					"bg"
+				],
+				"banner": null,
+				"chibi": null,
+				"icon": null,
+				"qicon": null,
+				"shipyard": null
 			}
 		]
 	},
@@ -23683,6 +23713,21 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/502072/icon.png",
 				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/502072/qicon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/502072/shipyard.png"
+			},
+			{
+				"id": 502073,
+				"gid": 50207,
+				"name": "Autumn Night of Wandering Spirits",
+				"type": "Halloween",
+				"desc": "Sorry to keep you waiting. It took quite some time to prepare my dress as well as this lantern... Yes, when you said we would go on a \"night stroll,\" I made some preparations in accordance to what my ancestors once did. Now then, shall we set off?",
+				"tag": [
+					"bg"
+				],
+				"banner": null,
+				"chibi": null,
+				"icon": null,
+				"qicon": null,
+				"shipyard": null
 			}
 		]
 	},
@@ -27911,7 +27956,7 @@
 				"gid": 960001,
 				"name": "Royal Fortune",
 				"type": "Default",
-				"desc": "Pirate sailing frigate – Royal Fortune.",
+				"desc": "Sailing frigate – Royal Fortune.",
 				"tag": [],
 				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600010/banner.png",
 				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600010/chibi.png",
@@ -27949,6 +27994,183 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600012/icon.png",
 				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600012/qicon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600012/shipyard.png"
+			}
+		]
+	},
+	{
+		"id": 613,
+		"gid": 960002,
+		"name": "São Martinho",
+		"skins": [
+			{
+				"id": 9600020,
+				"gid": 960002,
+				"name": "São Martinho",
+				"type": "Default",
+				"desc": "Sailing frigate – São Martinho.",
+				"tag": [],
+				"banner": null,
+				"chibi": null,
+				"icon": null,
+				"qicon": null,
+				"shipyard": null
+			},
+			{
+				"id": 9600021,
+				"gid": 960002,
+				"name": "The Golden Shadow",
+				"type": "Halloween",
+				"desc": "Here you see the opposite side of the retainer of the golden light. Be not afraid. I am still me, and my feelings and my beliefs have not changed. Still, if it unnerves you, perhaps you should get to know me again?",
+				"tag": [
+					"bg"
+				],
+				"banner": null,
+				"chibi": null,
+				"icon": null,
+				"qicon": null,
+				"shipyard": null
+			}
+		]
+	},
+	{
+		"id": 610,
+		"gid": 960003,
+		"name": "Golden Hind",
+		"skins": [
+			{
+				"id": 9600030,
+				"gid": 960003,
+				"name": "Golden Hind",
+				"type": "Default",
+				"desc": "Sailing frigate – Golden Hind.",
+				"tag": [],
+				"banner": null,
+				"chibi": null,
+				"icon": null,
+				"qicon": null,
+				"shipyard": null
+			},
+			{
+				"id": 9600031,
+				"gid": 960003,
+				"name": "Forlorn Femme Fatale",
+				"type": "Halloween",
+				"desc": "How do you feel about this look, my darling? ...Not scary enough? How odd... I thought Mary Celeste had the right idea. Wait, I know~ What if I hold this axe, hmm? ♡",
+				"tag": [
+					"live2d",
+					"bg"
+				],
+				"banner": null,
+				"chibi": null,
+				"icon": null,
+				"qicon": null,
+				"shipyard": null
+			}
+		]
+	},
+	{
+		"id": 611,
+		"gid": 960004,
+		"name": "Mary Celeste",
+		"skins": [
+			{
+				"id": 9600040,
+				"gid": 960004,
+				"name": "Mary Celeste",
+				"type": "Default",
+				"desc": "Sailing frigate – Mary Celeste.",
+				"tag": [],
+				"banner": null,
+				"chibi": null,
+				"icon": null,
+				"qicon": null,
+				"shipyard": null
+			},
+			{
+				"id": 9600041,
+				"gid": 960004,
+				"name": "Grim Night's Reaper",
+				"type": "Halloween",
+				"desc": "I am Mary Celeste, the silent reaper of the moonless night... Aye, this attire befits a ghost ship such as I.",
+				"tag": [
+					"bg"
+				],
+				"banner": null,
+				"chibi": null,
+				"icon": null,
+				"qicon": null,
+				"shipyard": null
+			}
+		]
+	},
+	{
+		"id": 614,
+		"gid": 960005,
+		"name": "Whydah",
+		"skins": [
+			{
+				"id": 9600050,
+				"gid": 960005,
+				"name": "Whydah",
+				"type": "Default",
+				"desc": "Sailing frigate – Whydah.",
+				"tag": [],
+				"banner": null,
+				"chibi": null,
+				"icon": null,
+				"qicon": null,
+				"shipyard": null
+			},
+			{
+				"id": 9600051,
+				"gid": 960005,
+				"name": "Lazy Pirate Angel",
+				"type": "Halloween",
+				"desc": "You've summoned the angel of tricks and treats... Huh? Why am I dressed like this? Meh, it's too much of a pain to answer that... In any case, gimme candy or else! Commander, time is of the essence here. The sooner I can go home, the sooner I can continue my gaming session...",
+				"tag": [
+					"bg",
+					"dynamic"
+				],
+				"banner": null,
+				"chibi": null,
+				"icon": null,
+				"qicon": null,
+				"shipyard": null
+			}
+		]
+	},
+	{
+		"id": 612,
+		"gid": 960006,
+		"name": "Adventure Galley",
+		"skins": [
+			{
+				"id": 9600060,
+				"gid": 960006,
+				"name": "Adventure Galley",
+				"type": "Default",
+				"desc": "Sailing frigate – Adventure Galley.",
+				"tag": [],
+				"banner": null,
+				"chibi": null,
+				"icon": null,
+				"qicon": null,
+				"shipyard": null
+			},
+			{
+				"id": 9600061,
+				"gid": 960006,
+				"name": "Carnival Under the Blood Moon",
+				"type": "Halloween",
+				"desc": "\"Ahahahah! I've finally found yooou, Master! Dinner is ready, so just follow me to the... You're not hungry? Aww, but the meat is fresh off the bone...\" Commander? Why are you backing away?",
+				"tag": [
+					"bg"
+				],
+				"banner": null,
+				"chibi": null,
+				"icon": null,
+				"qicon": null,
+				"shipyard": null
 			}
 		]
 	},
