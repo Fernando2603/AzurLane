@@ -9,17 +9,77 @@ Azur Lane Resources
 - checking update everyday at `23:00 UTC`
 - `ShipBanner.json` is deprecated and will be removed in 2024 use `skins.json` instead
 
-## 08 July 2023 Changes
-- add `equip_icon.json`, `hulltype.json` and `nationality.json`.
-- add `equipment.json` (im still figuring out about the structure, the structure not gonna be updated for a long time)
-- `meowfficer.json` and `MeowfficerTalentList` overhaul
-- rename `MeowfficerTalentList.json` into `meowfficer_talent.json`
-- remove `images/faction` and add `images/nationality` folder
-- move `images/skill/meowfficer` into `images/meowfficer/skill`
-- move `images/meowfficer/{name}` into `images/meowfccier/character/{id}`
-- move `images/talent` into `images/meowfficer/talent`
-- rename folder from `images/hullType` into `images/type`
-- add `images/rarity` and `images/iconframe` folder
+## 31 October 2023 Changes
+- `meowfficer.json`
+  - add automatic update
+  - add 3 meowfficer `Drake`, `Kidd`, and `Bellamy`
+  - add `talent` key for fixed talent
+  - remove `color` key
+  - rename `faction` key into `nationality` and changed value from string to number. `nationality.json` to get name and image link.
+
+- `meowfficer_talent.json`
+  - add automatic update
+  - add `group_id` key
+  - add `available` key to check if talent is obtainable in game or not
+  - remove `hullType` key
+  - rename file name in `images/meowfficer/talent/`
+  - rework `stats` key, now `stats` contains object of Buff
+
+```TypeScript
+  type Hull = 
+    | "DD"
+    | "CL"
+    | "CA"
+    | "CB"
+    | "BB"
+    | "IX"
+    | "IXV"
+    | "IXM"
+    | "SSV"
+    | "SS"
+    | "BC"
+    | "BC"
+    | "BBV"
+    | "BM"
+    | "CV"
+    | "CVL"
+    | "AE"
+    | "AR"
+    | "Vanguard"
+    | "Main"
+    | "Eagle Union"
+    | "Royal Navy"
+    | "Sakura Empire"
+    | "Iron Blood"
+    | "Dragon Empery"
+    | "Northern Parliament"
+    | "Iris Libre"
+    | "Vichya Dominion";
+
+  type Stats =
+    | "Health"
+    | "Firepower"
+    | "Evasion"
+    | "Reload"
+    | "Anti-Submarine Warfare"
+    | "Anti-Air"
+    | "Aviation"
+    | "Torpedo"
+    | "Accuracy"
+    | "Torpedo Critical Rate"
+    | "Speed"
+    | "Damage Dealt"
+    | "Damage Taken"
+    | "Luck"
+    | "Main Gun Critical Rate";
+
+  type Buff = {
+    apply: Hull[];
+    stats: Stats;
+    value: number;
+    type: string; // value or percentage
+  }
+```
 
 ## Fetch
 - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/skins.json`
