@@ -7,6 +7,7 @@
 			"DD"
 		],
 		"slot": "Command",
+		"timer": "10:24:00",
 		"nationality": 1,
 		"stats": {
 			"command": 52,
@@ -49,6 +50,7 @@
 			"BBV"
 		],
 		"slot": "General",
+		"timer": "10:45:00",
 		"nationality": 1,
 		"stats": {
 			"command": 64,
@@ -89,6 +91,7 @@
 			"DD"
 		],
 		"slot": "Command",
+		"timer": "06:09:00",
 		"nationality": 1,
 		"stats": {
 			"command": 55,
@@ -130,6 +133,7 @@
 			"CVL"
 		],
 		"slot": "Staff",
+		"timer": "05:36:00",
 		"nationality": 1,
 		"stats": {
 			"command": 52,
@@ -171,6 +175,7 @@
 			"CVL"
 		],
 		"slot": "Staff",
+		"timer": "02:03:00",
 		"nationality": 1,
 		"stats": {
 			"command": 40,
@@ -213,6 +218,7 @@
 			"CB"
 		],
 		"slot": "Staff",
+		"timer": "02:25:00",
 		"nationality": 1,
 		"stats": {
 			"command": 51,
@@ -255,6 +261,7 @@
 			"BBV"
 		],
 		"slot": "Staff",
+		"timer": "10:05:00",
 		"nationality": 2,
 		"stats": {
 			"command": 52,
@@ -297,6 +304,7 @@
 			"BBV"
 		],
 		"slot": "Command",
+		"timer": "10:27:00",
 		"nationality": 2,
 		"stats": {
 			"command": 59,
@@ -339,6 +347,7 @@
 			"CB"
 		],
 		"slot": "Staff",
+		"timer": "06:16:00",
 		"nationality": 2,
 		"stats": {
 			"command": 50,
@@ -379,6 +388,7 @@
 			"DD"
 		],
 		"slot": "Staff",
+		"timer": "05:30:00",
 		"nationality": 2,
 		"stats": {
 			"command": 55,
@@ -420,6 +430,7 @@
 			"CVL"
 		],
 		"slot": "Staff",
+		"timer": "06:43:00",
 		"nationality": 2,
 		"stats": {
 			"command": 64,
@@ -462,6 +473,7 @@
 			"BBV"
 		],
 		"slot": "Staff",
+		"timer": "07:26:00",
 		"nationality": 2,
 		"stats": {
 			"command": 48,
@@ -504,6 +516,7 @@
 			"BBV"
 		],
 		"slot": "Staff",
+		"timer": "02:17:00",
 		"nationality": 2,
 		"stats": {
 			"command": 29,
@@ -546,6 +559,7 @@
 			"CB"
 		],
 		"slot": "Staff",
+		"timer": "01:39:00",
 		"nationality": 2,
 		"stats": {
 			"command": 38,
@@ -587,6 +601,7 @@
 			"CVL"
 		],
 		"slot": "Staff",
+		"timer": "09:58:00",
 		"nationality": 3,
 		"stats": {
 			"command": 49,
@@ -629,6 +644,7 @@
 			"CB"
 		],
 		"slot": "Command",
+		"timer": "09:40:00",
 		"nationality": 3,
 		"stats": {
 			"command": 62,
@@ -670,6 +686,7 @@
 			"CVL"
 		],
 		"slot": "Staff",
+		"timer": "05:37:00",
 		"nationality": 3,
 		"stats": {
 			"command": 61,
@@ -710,6 +727,7 @@
 			"DD"
 		],
 		"slot": "Staff",
+		"timer": "06:23:00",
 		"nationality": 3,
 		"stats": {
 			"command": 62,
@@ -752,6 +770,7 @@
 			"CB"
 		],
 		"slot": "Staff",
+		"timer": "02:06:00",
 		"nationality": 3,
 		"stats": {
 			"command": 48,
@@ -794,6 +813,7 @@
 			"BBV"
 		],
 		"slot": "Staff",
+		"timer": "01:55:00",
 		"nationality": 3,
 		"stats": {
 			"command": 47,
@@ -835,6 +855,7 @@
 			"SSV"
 		],
 		"slot": "Command",
+		"timer": "09:35:00",
 		"nationality": 4,
 		"stats": {
 			"command": 66,
@@ -877,6 +898,7 @@
 			"BBV"
 		],
 		"slot": "Staff",
+		"timer": "10:03:00",
 		"nationality": 4,
 		"stats": {
 			"command": 66,
@@ -919,6 +941,7 @@
 			"BBV"
 		],
 		"slot": "Staff",
+		"timer": "06:45:00",
 		"nationality": 4,
 		"stats": {
 			"command": 56,
@@ -960,6 +983,7 @@
 			"SSV"
 		],
 		"slot": "Staff",
+		"timer": "05:57:00",
 		"nationality": 4,
 		"stats": {
 			"command": 59,
@@ -1001,6 +1025,7 @@
 			"SSV"
 		],
 		"slot": "Staff",
+		"timer": "05:52:00",
 		"nationality": 4,
 		"stats": {
 			"command": 51,
@@ -1043,6 +1068,7 @@
 			"CB"
 		],
 		"slot": "Staff",
+		"timer": "01:54:00",
 		"nationality": 4,
 		"stats": {
 			"command": 46,
@@ -1083,6 +1109,7 @@
 			"DD"
 		],
 		"slot": "Staff",
+		"timer": "02:32:00",
 		"nationality": 4,
 		"stats": {
 			"command": 41,
@@ -1124,6 +1151,7 @@
 			"IXM"
 		],
 		"slot": "General",
+		"timer": null,
 		"nationality": 96,
 		"stats": {
 			"command": 63,
@@ -1165,6 +1193,7 @@
 			"CA"
 		],
 		"slot": "General",
+		"timer": null,
 		"nationality": 96,
 		"stats": {
 			"command": 52,
@@ -1206,6 +1235,7 @@
 			"IXS"
 		],
 		"slot": "Command",
+		"timer": null,
 		"nationality": 96,
 		"stats": {
 			"command": 52,

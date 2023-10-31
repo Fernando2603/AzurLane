@@ -16,6 +16,7 @@ Azur Lane Resources
   - add `talent` key for fixed talent
   - remove `color` key
   - rename `faction` key into `nationality` and changed value from string to number. `nationality.json` to get name and image link.
+  - rename `stats.tactics` into `stats.tactic`
 
 - `meowfficer_talent.json`
   - add automatic update
