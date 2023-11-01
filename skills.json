@@ -5119,6 +5119,14 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/15520.png",
 		"max_level": 10
 	},
+	"15530": {
+		"id": 15530,
+		"type": 3,
+		"name": "I Won't Hit Anyway...",
+		"desc": "When the battle starts: increases this ship's EVA by 15.0%. Every 5 times this ship fires her Main Guns: increases this ship's FP and AA by 5.0% (can be stacked up to 3 times; if an enemy aircraft is shot down within your fleet's Anti-Air Gun range, instantly gain the max stack).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/15530.png",
+		"max_level": 10
+	},
 	"15540": {
 		"id": 15540,
 		"type": 2,
@@ -6325,6 +6333,102 @@
 		"name": "Secret Cheat Code Powers!",
 		"desc": "Increases this ship's FP and TRP by 10.0%. When this ship's All Out Assault skill activates: fires a Lv.10 special barrage (DMG is based on the skill's level).",
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17130.png",
+		"max_level": 10
+	},
+	"17140": {
+		"id": 17140,
+		"type": 1,
+		"name": "Space City Strike",
+		"desc": "Increases this ship's FP and AA by 12.0%. Every 12s: executes a Lv.10 special attack (DMG is based on the skill's level). For every 2 enemy aircraft shot down within your fleet's AA Range: increases your Eagle Union ships' AA by 8.0% (can be stacked up to 3 times).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17140.png",
+		"max_level": 10
+	},
+	"17150": {
+		"id": 17150,
+		"type": 2,
+		"name": "Fortitude in Chaos",
+		"desc": "Once per battle, when this ship's HP falls below 15.0% as a result of DMG taken: for 3s, this ship recovers 2.0% of her max HP every second, but her SPD is decreased by 60.0%. When this effect ends: increases this ship's EVA by 5.0% and restores 12.0% of her max HP.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17150.png",
+		"max_level": 10
+	},
+	"17160": {
+		"id": 17160,
+		"type": 1,
+		"name": "Unseen Phantom",
+		"desc": "Increases this ship's DMG dealt by 20.0%. When this ship is attacked: 50.0% chance for this ship to enter the Phantom state. \nThis state increases her Evasion Rate by 10.0% and lasts for 5s. When this state ends: fires a Lv.10 special barrage (DMG is based on the skill's level). There is a 15s cooldown between Phantom state activations.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17160.png",
+		"max_level": 10
+	},
+	"17170": {
+		"id": 17170,
+		"type": 2,
+		"name": "Ghost Ship of the Deep",
+		"desc": "When the battle starts: increases this ship's FP by 10.0% and restores 25.0% of her max HP. When this ship's Evasion Rate increases as a result of her skills activating: restores 5.0% of this ship's max HP. \nOnce per battle, 5s after this ship's HP falls below 40.0% as a result of DMG taken, or 60s after she has entered the battle: summons a Ghost Ship which copies some of this ship's stats, then this ship leaves the battle. The Ghost Ship lasts for 5s, does not attack, and the percentages of stats it copies increases based on the skill's level.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17170.png",
+		"max_level": 10
+	},
+	"17190": {
+		"id": 17190,
+		"type": 3,
+		"name": "Untarnishable Brilliance of Gold",
+		"desc": "When the battle starts: deploys a barrier (lasts 30s) that can negate up to 10.0% of this ship's max HP in DMG, and increases this ship's FP by 10.0% and decreases her DMG taken by 20.0% until the battle ends. While this ship is afloat: increases your Tempesta ships' FP and DMG dealt by 10.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17190.png",
+		"max_level": 10
+	},
+	"17200": {
+		"id": 17200,
+		"type": 1,
+		"name": "Peerless Cannons of Destruction",
+		"desc": "When the battle starts, if there are 2 or more Tempesta ships in your fleet: decreases the loading time of this ship's first volley by 80.0%. When this ship fires her Main Guns: fires a Lv.10 special barrage (DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17200.png",
+		"max_level": 10
+	},
+	"17210": {
+		"id": 17210,
+		"type": 1,
+		"name": "For a Good Night's Sleep",
+		"desc": "When the battle starts, and every 10s: performs a Lv.10 special attack (DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17210.png",
+		"max_level": 10
+	},
+	"17220": {
+		"id": 17220,
+		"type": 3,
+		"name": "What a Pain...",
+		"desc": "Increases this ship's FP by 15.0%. When the battle starts: restores 8.0% of her max HP once per second for 5s. 5s after this ship's HP falls below 30.0% as a result of DMG taken, or 45s after she has entered the battle: this ship leaves the battle.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17220.png",
+		"max_level": 10
+	},
+	"17240": {
+		"id": 17240,
+		"type": 1,
+		"name": "Pierce the Mistveil",
+		"desc": "Increases this ship's FP and RLD by 12.0%. Creates a Deep Domain area around this ship that decreases the enemy's SPD by 20.0% and inflicts 30 DMG every second to enemies within it; when the battle starts, if there is another Tempesta ship in your fleet, this DMG is increased to 60.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17240.png",
+		"max_level": 10
+	},
+	"17250": {
+		"id": 17250,
+		"type": 3,
+		"name": "Hindhorn's Grace",
+		"desc": "Decreases this ship's DMG taken by 15.0% and, every 18s, fires a Lv.10 special barrage (DMG is based on the skill's level).\nOnce per battle, when this ship's HP falls below 40.0% as a result of DMG taken: this ship evades all attacks for 3s and recovers 15.0% of her max HP.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17250.png",
+		"max_level": 10
+	},
+	"17260": {
+		"id": 17260,
+		"type": 1,
+		"name": "Claws of Mistrust",
+		"desc": "Increases this ship's EVA by 10.0%. When this ship fires the weapon in her Main Gun slot: additionally fires a Lv.10 special barrage (DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17260.png",
+		"max_level": 10
+	},
+	"17270": {
+		"id": 17270,
+		"type": 3,
+		"name": "Treasure of the Loyal Protector",
+		"desc": "Increases this ship's Evasion Rate by 7.0%. Once per battle, when this ship's HP falls below 35.0% as a result of DMG taken: restores 8.0% of this ship's max HP.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17270.png",
 		"max_level": 10
 	},
 	"18010": {
@@ -10679,6 +10783,86 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30110.png",
 		"max_level": 1
 	},
+	"30121": {
+		"id": 30121,
+		"type": 1,
+		"name": "All Out Assault I",
+		"desc": "Activates All Out Assault I: Houston II once every 15 times the Main Guns are fired.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30120.png",
+		"max_level": 1
+	},
+	"30122": {
+		"id": 30122,
+		"type": 1,
+		"name": "All Out Assault II",
+		"desc": "Activates All Out Assault II: Houston II once every 10 times the Main Guns are fired.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30120.png",
+		"max_level": 1
+	},
+	"30131": {
+		"id": 30131,
+		"type": 1,
+		"name": "All Out Assault I",
+		"desc": "Activates All Out Assault I: Mary Celeste once every 28 times the Main Guns are fired.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30130.png",
+		"max_level": 1
+	},
+	"30132": {
+		"id": 30132,
+		"type": 1,
+		"name": "All Out Assault II",
+		"desc": "Activates All Out Assault II: Mary Celeste once every 40 times the Main Guns are fired.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30130.png",
+		"max_level": 1
+	},
+	"30141": {
+		"id": 30141,
+		"type": 1,
+		"name": "All Out Assault I",
+		"desc": "Activates All Out Assault I: Whydah once every 28 times the Main Guns are fired.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30140.png",
+		"max_level": 1
+	},
+	"30142": {
+		"id": 30142,
+		"type": 1,
+		"name": "All Out Assault II",
+		"desc": "Activates All Out Assault II: Whydah once every 40 times the Main Guns are fired.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30140.png",
+		"max_level": 1
+	},
+	"30151": {
+		"id": 30151,
+		"type": 1,
+		"name": "All Out Assault I",
+		"desc": "Activates All Out Assault I: Golden Hind once every 22 times the Main Guns are fired.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30150.png",
+		"max_level": 1
+	},
+	"30152": {
+		"id": 30152,
+		"type": 1,
+		"name": "All Out Assault II",
+		"desc": "Activates All Out Assault II: Golden Hind once every 30 times the Main Guns are fired.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30150.png",
+		"max_level": 1
+	},
+	"30161": {
+		"id": 30161,
+		"type": 1,
+		"name": "All Out Assault I",
+		"desc": "Activates All Out Assault I: Adventure Galley once every 30 times the Main Guns are fired.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30160.png",
+		"max_level": 1
+	},
+	"30162": {
+		"id": 30162,
+		"type": 1,
+		"name": "All Out Assault II",
+		"desc": "Activates All Out Assault II: Adventure Galley once every 20 times the Main Guns are fired.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30160.png",
+		"max_level": 1
+	},
 	"101010": {
 		"id": 101010,
 		"type": 3,
@@ -13429,6 +13613,46 @@
 		"name": "Bellowing Gusts of Fire+",
 		"desc": "Increases this ship's DMG dealt to Burning enemies by 15.0%. Every 20s as well as with a 70% chance when this ship fires her Main Guns: fires a Lv.10 special barriage that inflicts a special Burn ailment to enemies hit (DMG is based on the skill's level).",
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/13270.png",
+		"max_level": 10
+	},
+	"1017160": {
+		"id": 1017160,
+		"type": 1,
+		"name": "Unseen Phantom+",
+		"desc": "Increases this ship's DMG dealt by 20.0%. When this ship is attacked: 50.0% chance for this ship to enter the Phantom state. \nThis state increases her Evasion Rate by 10.0% and lasts for 5s. When this state ends, one random enemy is chosen; for 5s, Mary Celeste deals 15.0% increased DMG to this enemy and she fires a Lv.10 special barrage (DMG is based on the skill's level) that always deals Critical DMG. There is a 15s cooldown between Phantom state activations.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17160.png",
+		"max_level": 10
+	},
+	"1017200": {
+		"id": 1017200,
+		"type": 1,
+		"name": "Peerless Cannons of Destruction+",
+		"desc": "Decreases the loading time of this ship's first volley by 80.0% and changes her Armor Type to Medium Armor. When this ship fires her Main Guns: fires a Lv.10 special barrage with a 10.0% chance to inflict a special Flooding ailment to enemies hit for 18s (barrage and Flooding DMG are based on this ship's FP stat and the skill's level; Flooding DMG procs once every 3s).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17200.png",
+		"max_level": 10
+	},
+	"1017210": {
+		"id": 1017210,
+		"type": 1,
+		"name": "For a Good Night's Sleep+",
+		"desc": "When the battle starts, and every 10s: performs a Lv.10 special attack (DMG is based on the skill's level). As long as at least 1 enemy hit by this attack is afloat: decreases Whydah's DMG taken by 25.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17210.png",
+		"max_level": 10
+	},
+	"1017250": {
+		"id": 1017250,
+		"type": 3,
+		"name": "Hindhorn's Grace+",
+		"desc": "Decreases this ship's DMG taken by 15.0% and, every 18s, fires a Lv.10 special barrage (DMG is based on the skill's level). Enemies hit by this barrage take 8.0% more DMG from your Tempesta ships for 6s. \nOnce per battle, when this ship's HP falls below 50.0% as a result of DMG taken: this ship evades all attacks for 3s and recovers 15.0% of her max HP.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17250.png",
+		"max_level": 10
+	},
+	"1017270": {
+		"id": 1017270,
+		"type": 3,
+		"name": "Treasure of the Loyal Protector+",
+		"desc": "Increases this ship's Evasion Rate by 7.0%. Once per battle, when this ship's HP falls below 50.0% as a result of DMG taken: restores 8.0% of this ship's max HP; also once per battle, when this ship's HP falls below 35.0% as a result of DMG taken: restores 8.0% of this ship's max HP.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17270.png",
 		"max_level": 10
 	},
 	"1090010": {

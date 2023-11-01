@@ -2529,11 +2529,11 @@
 		"type": "Default",
 		"desc": "Cleveland-class light cruiser – Houston II, Hull Number CL-81.",
 		"tag": [],
-		"banner": null,
-		"chibi": null,
-		"icon": null,
-		"qicon": null,
-		"shipyard": null
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102310/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102310/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102310/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102310/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102310/shipyard.png"
 	},
 	"103010": {
 		"id": 103010,
@@ -9210,11 +9210,11 @@
 		"tag": [
 			"bg"
 		],
-		"banner": null,
-		"chibi": null,
-		"icon": null,
-		"qicon": null,
-		"shipyard": null
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/207043/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/207043/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/207043/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/207043/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/207043/shipyard.png"
 	},
 	"207050": {
 		"id": 207050,
@@ -16396,11 +16396,11 @@
 		"tag": [
 			"bg"
 		],
-		"banner": null,
-		"chibi": null,
-		"icon": null,
-		"qicon": null,
-		"shipyard": null
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401243/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401243/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401243/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401243/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401243/shipyard.png"
 	},
 	"401250": {
 		"id": 401250,
@@ -19445,11 +19445,11 @@
 		"tag": [
 			"bg"
 		],
-		"banner": null,
-		"chibi": null,
-		"icon": null,
-		"qicon": null,
-		"shipyard": null
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/502073/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/502073/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/502073/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/502073/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/502073/shipyard.png"
 	},
 	"502080": {
 		"id": 502080,
@@ -22956,11 +22956,11 @@
 		"type": "Default",
 		"desc": "Sailing frigate – São Martinho.",
 		"tag": [],
-		"banner": null,
-		"chibi": null,
-		"icon": null,
-		"qicon": null,
-		"shipyard": null
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600020/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600020/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600020/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600020/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600020/shipyard.png"
 	},
 	"9600021": {
 		"id": 9600021,
@@ -22971,11 +22971,11 @@
 		"tag": [
 			"bg"
 		],
-		"banner": null,
-		"chibi": null,
-		"icon": null,
-		"qicon": null,
-		"shipyard": null
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600021/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600021/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600021/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600021/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600021/shipyard.png"
 	},
 	"9600030": {
 		"id": 9600030,
@@ -22984,11 +22984,11 @@
 		"type": "Default",
 		"desc": "Sailing frigate – Golden Hind.",
 		"tag": [],
-		"banner": null,
-		"chibi": null,
-		"icon": null,
-		"qicon": null,
-		"shipyard": null
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600030/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600030/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600030/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600030/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600030/shipyard.png"
 	},
 	"9600031": {
 		"id": 9600031,
@@ -23000,11 +23000,11 @@
 			"live2d",
 			"bg"
 		],
-		"banner": null,
-		"chibi": null,
-		"icon": null,
-		"qicon": null,
-		"shipyard": null
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600031/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600031/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600031/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600031/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600031/shipyard.png"
 	},
 	"9600040": {
 		"id": 9600040,
@@ -23013,11 +23013,11 @@
 		"type": "Default",
 		"desc": "Sailing frigate – Mary Celeste.",
 		"tag": [],
-		"banner": null,
-		"chibi": null,
-		"icon": null,
-		"qicon": null,
-		"shipyard": null
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600040/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600040/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600040/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600040/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600040/shipyard.png"
 	},
 	"9600041": {
 		"id": 9600041,
@@ -23028,11 +23028,11 @@
 		"tag": [
 			"bg"
 		],
-		"banner": null,
-		"chibi": null,
-		"icon": null,
-		"qicon": null,
-		"shipyard": null
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600041/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600041/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600041/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600041/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600041/shipyard.png"
 	},
 	"9600050": {
 		"id": 9600050,
@@ -23041,11 +23041,11 @@
 		"type": "Default",
 		"desc": "Sailing frigate – Whydah.",
 		"tag": [],
-		"banner": null,
-		"chibi": null,
-		"icon": null,
-		"qicon": null,
-		"shipyard": null
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600050/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600050/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600050/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600050/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600050/shipyard.png"
 	},
 	"9600051": {
 		"id": 9600051,
@@ -23057,11 +23057,11 @@
 			"bg",
 			"dynamic"
 		],
-		"banner": null,
-		"chibi": null,
-		"icon": null,
-		"qicon": null,
-		"shipyard": null
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600051/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600051/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600051/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600051/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600051/shipyard.png"
 	},
 	"9600060": {
 		"id": 9600060,
@@ -23070,11 +23070,11 @@
 		"type": "Default",
 		"desc": "Sailing frigate – Adventure Galley.",
 		"tag": [],
-		"banner": null,
-		"chibi": null,
-		"icon": null,
-		"qicon": null,
-		"shipyard": null
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600060/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600060/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600060/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600060/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600060/shipyard.png"
 	},
 	"9600061": {
 		"id": 9600061,
@@ -23085,11 +23085,11 @@
 		"tag": [
 			"bg"
 		],
-		"banner": null,
-		"chibi": null,
-		"icon": null,
-		"qicon": null,
-		"shipyard": null
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600061/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600061/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600061/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600061/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9600061/shipyard.png"
 	},
 	"9701010": {
 		"id": 9701010,
