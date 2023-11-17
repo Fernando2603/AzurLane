@@ -13798,5 +13798,21 @@
 		"desc": "Increases this ship's FP and AVI by 20.0%. When this ship fires her Main Guns or launches an airstrike: 50.0% chance to fire a Lv.10 special barrage forwards (DMG is based on the skill's level).",
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/2070.png",
 		"max_level": 10
+	},
+	"1090190": {
+		"id": 1090190,
+		"type": 1,
+		"name": "Focused Assault - Takao",
+		"desc": "Increases FP by 15.0%. When this ship fires her Main Guns: 30.0% chance to double the DMG dealt by that attack. Every 10s: fires a Lv.10 special barrage (DMG is based on the skill's level)",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/2040.png",
+		"max_level": 10
+	},
+	"1090200": {
+		"id": 1090200,
+		"type": 1,
+		"name": "Double Torpedo - McCall",
+		"desc": "When this ship fires her torpedoes: 50.0% chance to fire a second wave of torpedoes and reduces the reload time of currently reloading torpedoes by 3s.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/2050.png",
+		"max_level": 10
 	}
 }
