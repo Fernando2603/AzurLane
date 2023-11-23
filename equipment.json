@@ -66942,6 +66942,292 @@
 			}
 		}
 	},
+	"89680": {
+		"name": "Shinobi Medal",
+		"desc": "Shinobi Medal",
+		"label": [
+			"DEV"
+		],
+		"rarity": 5,
+		"nationality": 110,
+		"type": 10,
+		"skill": [
+			60470
+		],
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89680.png",
+		"stats": {
+			"1": {
+				"id": 89680,
+				"level": 1,
+				"antiaircraft": 14,
+				"hit": 15
+			},
+			"2": {
+				"id": 89681,
+				"level": 2,
+				"antiaircraft": 16,
+				"hit": 16
+			},
+			"3": {
+				"id": 89682,
+				"level": 3,
+				"antiaircraft": 18,
+				"hit": 17
+			},
+			"4": {
+				"id": 89683,
+				"level": 4,
+				"antiaircraft": 20,
+				"hit": 18
+			},
+			"5": {
+				"id": 89684,
+				"level": 5,
+				"antiaircraft": 22,
+				"hit": 19
+			},
+			"6": {
+				"id": 89685,
+				"level": 6,
+				"antiaircraft": 24,
+				"hit": 20
+			},
+			"7": {
+				"id": 89686,
+				"level": 7,
+				"antiaircraft": 26,
+				"hit": 22
+			},
+			"8": {
+				"id": 89687,
+				"level": 8,
+				"antiaircraft": 28,
+				"hit": 24
+			},
+			"9": {
+				"id": 89688,
+				"level": 9,
+				"antiaircraft": 30,
+				"hit": 26
+			},
+			"10": {
+				"id": 89689,
+				"level": 10,
+				"antiaircraft": 32,
+				"hit": 28
+			},
+			"11": {
+				"id": 89690,
+				"level": 11,
+				"antiaircraft": 35,
+				"hit": 30
+			},
+			"12": {
+				"id": 89691,
+				"level": 12,
+				"antiaircraft": 38,
+				"hit": 32
+			},
+			"13": {
+				"id": 89692,
+				"level": 13,
+				"antiaircraft": 41,
+				"hit": 34
+			},
+			"14": {
+				"id": 89693,
+				"level": 14,
+				"antiaircraft": 44,
+				"hit": 36
+			}
+		}
+	},
+	"89700": {
+		"name": "Shinobi Attire",
+		"desc": "Shinobi Attire",
+		"label": [
+			"DEV"
+		],
+		"rarity": 5,
+		"nationality": 110,
+		"type": 10,
+		"skill": [
+			60480
+		],
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89700.png",
+		"stats": {
+			"1": {
+				"id": 89700,
+				"level": 1,
+				"durability": 245
+			},
+			"2": {
+				"id": 89701,
+				"level": 2,
+				"durability": 280
+			},
+			"3": {
+				"id": 89702,
+				"level": 3,
+				"durability": 310
+			},
+			"4": {
+				"id": 89703,
+				"level": 4,
+				"durability": 340
+			},
+			"5": {
+				"id": 89704,
+				"level": 5,
+				"durability": 370
+			},
+			"6": {
+				"id": 89705,
+				"level": 6,
+				"durability": 400
+			},
+			"7": {
+				"id": 89706,
+				"level": 7,
+				"durability": 430
+			},
+			"8": {
+				"id": 89707,
+				"level": 8,
+				"durability": 460
+			},
+			"9": {
+				"id": 89708,
+				"level": 9,
+				"durability": 490
+			},
+			"10": {
+				"id": 89709,
+				"level": 10,
+				"durability": 520
+			},
+			"11": {
+				"id": 89710,
+				"level": 11,
+				"durability": 550
+			},
+			"12": {
+				"id": 89711,
+				"level": 12,
+				"durability": 580
+			},
+			"13": {
+				"id": 89712,
+				"level": 13,
+				"durability": 610
+			},
+			"14": {
+				"id": 89713,
+				"level": 14,
+				"durability": 640
+			}
+		}
+	},
+	"89720": {
+		"name": "Ninjutsu Scroll",
+		"desc": "Ninjutsu Scroll",
+		"label": [
+			"DEV"
+		],
+		"rarity": 5,
+		"nationality": 110,
+		"type": 10,
+		"skill": [
+			60490
+		],
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89720.png",
+		"stats": {
+			"1": {
+				"id": 89720,
+				"level": 1,
+				"hit": 10,
+				"cannon": 6
+			},
+			"2": {
+				"id": 89721,
+				"level": 2,
+				"hit": 11,
+				"cannon": 7
+			},
+			"3": {
+				"id": 89722,
+				"level": 3,
+				"hit": 13,
+				"cannon": 8
+			},
+			"4": {
+				"id": 89723,
+				"level": 4,
+				"hit": 14,
+				"cannon": 9
+			},
+			"5": {
+				"id": 89724,
+				"level": 5,
+				"hit": 16,
+				"cannon": 10
+			},
+			"6": {
+				"id": 89725,
+				"level": 6,
+				"hit": 17,
+				"cannon": 11
+			},
+			"7": {
+				"id": 89726,
+				"level": 7,
+				"hit": 19,
+				"cannon": 12
+			},
+			"8": {
+				"id": 89727,
+				"level": 8,
+				"hit": 20,
+				"cannon": 13
+			},
+			"9": {
+				"id": 89728,
+				"level": 9,
+				"hit": 22,
+				"cannon": 14
+			},
+			"10": {
+				"id": 89729,
+				"level": 10,
+				"hit": 23,
+				"cannon": 15
+			},
+			"11": {
+				"id": 89730,
+				"level": 11,
+				"hit": 25,
+				"cannon": 17
+			},
+			"12": {
+				"id": 89731,
+				"level": 12,
+				"hit": 26,
+				"cannon": 18
+			},
+			"13": {
+				"id": 89732,
+				"level": 13,
+				"hit": 28,
+				"cannon": 19
+			},
+			"14": {
+				"id": 89733,
+				"level": 14,
+				"hit": 29,
+				"cannon": 20
+			}
+		}
+	},
 	"90000": {
 		"name": "Single 130mm Mle 1924 Naval Gun",
 		"desc": "No description",

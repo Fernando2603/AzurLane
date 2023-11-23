@@ -13179,6 +13179,21 @@
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301212/shipyard.png"
 			},
 			{
+				"id": 301213,
+				"gid": 30121,
+				"name": "Hatsuharu's Cat Café Caper",
+				"type": "Maid",
+				"desc": "U-umm... In order to conquer shyness, umm, I've come to serve you... I just hope I don't get in everyone's way... Y-yeah! Thank you for your encouraging words! I'll do my best...!",
+				"tag": [
+					"bg"
+				],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301213/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301213/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301213/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301213/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301213/shipyard.png"
+			},
+			{
 				"id": 301219,
 				"gid": 30121,
 				"name": "Hatsuharu (Retrofit)",
@@ -16297,6 +16312,22 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303115/icon.png",
 				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303115/qicon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303115/shipyard.png"
+			},
+			{
+				"id": 303116,
+				"gid": 30311,
+				"name": "Divine Exorcist's Blade",
+				"type": "On The Job",
+				"desc": "My five senses are sharper than ever, perhaps even TOO sharp. No matter what trap awaits, my only way forward is to pierce through and focus on overcoming this trial... Haaah!",
+				"tag": [
+					"bg",
+					null
+				],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303116/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303116/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303116/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303116/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303116/shipyard.png"
 			},
 			{
 				"id": 303118,
@@ -28695,6 +28726,26 @@
 		]
 	},
 	{
+		"id": 30027,
+		"gid": 971301,
+		"name": "Erebus META",
+		"skins": [
+			{
+				"id": 9713010,
+				"gid": 971301,
+				"name": "Erebus META",
+				"type": "Default",
+				"desc": "I have arrived, heeding your summon. Worry not, this isn't a nightmare, but rather a fateful mercy. Now, make a pact with me and become an acolyte of darkness.",
+				"tag": [],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9713010/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9713010/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9713010/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9713010/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9713010/shipyard.png"
+			}
+		]
+	},
+	{
 		"id": 10001,
 		"gid": 1010001,
 		"name": "Neptune",
@@ -30438,6 +30489,258 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10900060/icon.png",
 				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10900060/qicon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/10900060/shipyard.png"
+			}
+		]
+	},
+	{
+		"id": 10101,
+		"gid": 1100001,
+		"name": "Asuka",
+		"skins": [
+			{
+				"id": 11000010,
+				"gid": 1100001,
+				"name": "Asuka",
+				"type": "Default",
+				"desc": "Hello! I'm Asuka, second-year student at the Hanzō Academy! Wait... this isn't the new shinobi base at all! This place is your port, you say? Okay then... Well, no matter where I end up, I'll always train as best as I can!",
+				"tag": [],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000010/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000010/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000010/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000010/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000010/shipyard.png"
+			},
+			{
+				"id": 11000011,
+				"gid": 1100001,
+				"name": "Blue Oceans",
+				"type": "Swimsuits",
+				"desc": "Blue skies, white sands, and oceans that stretch as far as the eye can see... I've seen this on TV before – this place is heaven on earth! Thanks so much for inviting me here, Commander! Now, it's time to have fun!",
+				"tag": [
+					"bg",
+					"bgm"
+				],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000011/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000011/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000011/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000011/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000011/shipyard.png"
+			}
+		]
+	},
+	{
+		"id": 10102,
+		"gid": 1100002,
+		"name": "Ikaruga",
+		"skins": [
+			{
+				"id": 11000020,
+				"gid": 1100002,
+				"name": "Ikaruga",
+				"type": "Default",
+				"desc": "I am Ikaruga, a third-year student at the Hanzō National Academy, serving as the shinobi class representative. How should I conduct myself in this foreign place? I would be most grateful if you would provide me with your assistance.",
+				"tag": [],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000020/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000020/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000020/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000020/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000020/shipyard.png"
+			},
+			{
+				"id": 11000021,
+				"gid": 1100002,
+				"name": "A Moment of Peace",
+				"type": "Swimsuits",
+				"desc": "Wow! The fish are so cute! The water's so clear that you can see everything under the waves! I've never seen an ocean like this before, and being able to relax while rocking back and forth on the water... is just like one of those \"vacation paradises\" I've read about in various books!",
+				"tag": [
+					"bg",
+					"bgm"
+				],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000021/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000021/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000021/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000021/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000021/shipyard.png"
+			}
+		]
+	},
+	{
+		"id": 10103,
+		"gid": 1100003,
+		"name": "Homura",
+		"skins": [
+			{
+				"id": 11000030,
+				"gid": 1100003,
+				"name": "Homura",
+				"type": "Default",
+				"desc": "My name's Homura. I'm the leader of Homura's Crimson Squad. I was once affiliated with a school, like many others, but... stuff happened. Anyway, don't let that bother you.",
+				"tag": [],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000030/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000030/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000030/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000030/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000030/shipyard.png"
+			},
+			{
+				"id": 11000031,
+				"gid": 1100003,
+				"name": "The Shinobi Angler",
+				"type": "Swimsuits",
+				"desc": "Fish! Heheh, that's a biggun! We'll be eating good tonight... Wait, I guess I don't need to worry about food now. Old habits die hard, it seems... Commander! Hey! I know you're over there! I'm gonna let you have a taste, so stop staring all enviously like that!",
+				"tag": [
+					"bg",
+					"bgm"
+				],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000031/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000031/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000031/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000031/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000031/shipyard.png"
+			}
+		]
+	},
+	{
+		"id": 10104,
+		"gid": 1100004,
+		"name": "Yumi",
+		"skins": [
+			{
+				"id": 11000040,
+				"gid": 1100004,
+				"name": "Yumi",
+				"type": "Default",
+				"desc": "I am Yumi, third-year student at the Gessen Girls' Academy. Though I know not why I was brought here, I am committed to justice, no matter where I go.",
+				"tag": [],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000040/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000040/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000040/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000040/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000040/shipyard.png"
+			},
+			{
+				"id": 11000041,
+				"gid": 1100004,
+				"name": "Afternoon Teatime",
+				"type": "Swimsuits",
+				"desc": "Here, Commander – shaved ice. Say \"aah\"... Heehee. I've not fed someone like this many times before, so please don't get mad in the event that I spill some.",
+				"tag": [
+					"bg",
+					"bgm"
+				],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000041/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000041/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000041/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000041/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000041/shipyard.png"
+			}
+		]
+	},
+	{
+		"id": 10105,
+		"gid": 1100005,
+		"name": "Fubuki",
+		"skins": [
+			{
+				"id": 11000050,
+				"gid": 1100005,
+				"name": "Fubuki",
+				"type": "Default",
+				"desc": "I am named Fubuki. I try to keep out of the public eye, so how have I wound up in this strange place? Also, you may want to leave me to my own devices. If you wonder why, well...",
+				"tag": [],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000050/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000050/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000050/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000050/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000050/shipyard.png"
+			},
+			{
+				"id": 11000051,
+				"gid": 1100005,
+				"name": "Sunset Witch",
+				"type": "Swimsuits",
+				"desc": "Ohh, it's so wonderful, being in the calm water with you, Commander... Eek! What's this?! A fish hook's caught on to me... Please stop reeling it in, or my swimsuit will untie itself!",
+				"tag": [
+					"bg",
+					"bgm"
+				],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000051/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000051/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000051/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000051/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000051/shipyard.png"
+			}
+		]
+	},
+	{
+		"id": 10106,
+		"gid": 1100006,
+		"name": "Murasaki",
+		"skins": [
+			{
+				"id": 11000060,
+				"gid": 1100006,
+				"name": "Murasaki",
+				"type": "Default",
+				"desc": "I'm Murasaki... from Hebijo Clandestine Girls' Academy. Umm... what is this place? I'd like to go home now... The outdoors are scary...",
+				"tag": [],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000060/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000060/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000060/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000060/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000060/shipyard.png"
+			},
+			{
+				"id": 11000061,
+				"gid": 1100006,
+				"name": "The Shut-In Princess's Lament",
+				"type": "Swimsuits",
+				"desc": "When you're in a swimsuit, listening to the waves, eating ice cream, and playing a beach game... can't you say it counts as being on the beach, even if you're indoors?",
+				"tag": [
+					"bg",
+					"bgm"
+				],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000061/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000061/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000061/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000061/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000061/shipyard.png"
+			}
+		]
+	},
+	{
+		"id": 10107,
+		"gid": 1100007,
+		"name": "Yūyaki",
+		"skins": [
+			{
+				"id": 11000070,
+				"gid": 1100007,
+				"name": "Yūyaki",
+				"type": "Default",
+				"desc": "My name is Yūyaki... and I'm the leader of the Tohno Tengu Shinobi Group... To be honest, I'm not great around water... Bad things always happen when I'm around it... And this place is a whole ocean, right? What should I do...?",
+				"tag": [],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000070/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000070/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000070/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000070/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000070/shipyard.png"
+			},
+			{
+				"id": 11000071,
+				"gid": 1100007,
+				"name": "Blue Sky Lagoon",
+				"type": "Swimsuits",
+				"desc": "Phew... Nothing beats a cold shower. I'm still not great with water, but this cool and soothing sensation really makes me feel refreshed. Commander, do you want to join in?",
+				"tag": [
+					"bg",
+					"bgm"
+				],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000071/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000071/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000071/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000071/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/11000071/shipyard.png"
 			}
 		]
 	}

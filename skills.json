@@ -11935,6 +11935,182 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/109240.png",
 		"max_level": 10
 	},
+	"110010": {
+		"id": 110010,
+		"type": 1,
+		"name": "Twin Blades - Followup Slash",
+		"desc": "When the battle starts: increases this ship's Crit DMG by 15.0% for every Senran Kagura collab character in your fleet(can be stacked up to 3 times).\nEvery 12s: applies a debuff to the enemy with the lowest HP remaining, increasing their DMG taken from Senran Kagura collab characters by 10.0%, and performs a Lv.10 special attack - Twin Blades - Followup Slash (DMG is based on the skill's level and this ship's FP and TRP stats). When this attack activates, if there is only 1 enemy on the battlefield: this attack deals guaranteed Crit DMG. ,If this special attack sinks an enemy: performs Twin Blades - Followup Slash again (10s cooldown between activations).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/110010.png",
+		"max_level": 10
+	},
+	"110020": {
+		"id": 110020,
+		"type": 1,
+		"name": "Twin Blades Combo Strike",
+		"desc": "Increases this ship's FP and TRP by 15.0%. Once per battle, when this ship's HP falls below 30.0% as a result of DMG taken: increases this ship's Evasion Rate by 10.0% and performs a Lv.10 special attack (DMG is based on the skill's level and this ship's FP and TRP stats). Restores this ship's HP equal to 12.0% of the DMG dealt by this attack.\nWhen this attack activates, if there is only 1 enemy on the battlefield: this attack deals guaranteed Crit DMG.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/110020.png",
+		"max_level": 10
+	},
+	"110030": {
+		"id": 110030,
+		"type": 1,
+		"name": "Twin Blades Combo Strike+",
+		"desc": "Increases this ship's FP and TRP by 15.0%. When the battle starts, if there is another Senran Kagura collab character in your fleet: increases this ship's EVA by 15.0%.\nOnce per battle, when this ship's HP falls below 30.0% as a result of DMG taken: increases this ship's Evasion Rate by 10.0% and performs a Lv.10 Secret Ninja Art: Hanzō-Style Full Bloom (DMG is based on the skill's level and this ship's FP and TRP stats). Restores this ship's HP equal to 15.0% of the DMG dealt by this Secret Ninja Art.\nWhen this Secret Ninja Art activates, if there is only 1 enemy on the battlefield: this attack deals guaranteed Crit DMG. ,If Hanzō-Style Full Bloom sinks an enemy: additionally performs Twin Blades - Followup Slash 3 times.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/110030.png",
+		"max_level": 10
+	},
+	"110040": {
+		"id": 110040,
+		"type": 1,
+		"name": "Fierce Sky Phoenix Flash",
+		"desc": "Every 25s: this ship stops in place for 3s and fires a Lv.10 special barrage (DMG is based on the skill's level). \nWhen this ship stops in place as a result of this skill: deploys a barrier (lasts 3s) capable of blocking up to 2.0% of this ship's max HP in DMG; if this shield expires: performs a Lv.10 special slash attack (DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/110040.png",
+		"max_level": 10
+	},
+	"110050": {
+		"id": 110050,
+		"type": 3,
+		"name": "Phoenix's Superb Fire Dance",
+		"desc": "Every 10s: increases this ship's ACC and RLD by 10.0% for 5s and, with an 80.0% chance, fires a Lv.10 torpedo barrage (DMG is based on the skill's level).\nOnce per battle, when this ship's HP falls below 60.0%: decreases this ship's DMG taken by 10.0% and increases her EVA by 15.0% and FP and TRP by 10.0% until the battle ends.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/110050.png",
+		"max_level": 10
+	},
+	"110060": {
+		"id": 110060,
+		"type": 1,
+		"name": "Fierce Sky Phoenix Flash+",
+		"desc": "Every 25s: this ship stops in place for 3s and fires a Lv.10 special barrage (DMG is based on the skill's level) and performs a Lv.10 Secret Ninja Art: Superb Phoenix Flash (DMG is based on the skill's level). \nWhen this ship stops in place as a result of this skill: deploys a barrier (lasts 3s) capable of blocking up to 3.0% of this ship's max HP in DMG; if this shield expires: performs a Lv.10 special slash barrage (DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/110040.png",
+		"max_level": 10
+	},
+	"110070": {
+		"id": 110070,
+		"type": 1,
+		"name": "Blaze of Sacrifice",
+		"desc": "When this boat surfaces: fires a Lv.10 special barrage I that inflicts a special Burn ailment for 6s to enemies hit (barrage DMG is based on the skill's level; special Burn DMG is based on this boat's TRP stat).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/110070.png",
+		"max_level": 10
+	},
+	"110080": {
+		"id": 110080,
+		"type": 3,
+		"name": "Flaming Crimson",
+		"desc": "Increases this boat's TRP stat by 10.0%. When this boat leaves the battle: fires a Lv.10 special barrage II (DMG is based on the skill's level) and removes your fleet's non-special Burn ailments.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/110080.png",
+		"max_level": 10
+	},
+	"110090": {
+		"id": 110090,
+		"type": 1,
+		"name": "Blaze of Sacrifice+",
+		"desc": "5s after the battle starts: this boat surfaces and performs a Lv.10 Secret Ninja Art: Charge, inflicting a special Burn ailment to enemies hit for 20s (Secret Ninja Art DMG is based on the skill's level; special Burn DMG is based on the boat's TRP stat).\nWhile this boat performs this Secret Ninja Art: this boat recovers 10 OXY every second and the first 3 attacks that hit her have their DMG set to 1. This boat submerges after she has finished attacking, and will surface a second time when her OXY runs out.\nWhile an enemy afflicted with the special Burn caused by this skill is afloat: increases this boat's Crit DMG by 20.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/110090.png",
+		"max_level": 10
+	},
+	"110100": {
+		"id": 110100,
+		"type": 1,
+		"name": "Fan Dance of Ice and Snow",
+		"desc": "Increases this ship's AVI by 15.0%. When this ship launches an airstrike: launches an additional Lv.10 special airstrike (DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/110100.png",
+		"max_level": 10
+	},
+	"110110": {
+		"id": 110110,
+		"type": 1,
+		"name": "Frozen Trees in Heavenly Storm",
+		"desc": "Once per battle, when this ship's HP falls below 50.0% as a result of DMG taken: restores 20.0% of this ship's max HP. When this ship's Detection Gauge value reaches 0: fires a Lv.10 special barrage (DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/110110.png",
+		"max_level": 10
+	},
+	"110120": {
+		"id": 110120,
+		"type": 1,
+		"name": "Fan Dance of Ice and Snow+",
+		"desc": "Increases this ship's AVI by 15.0%. When this ship launches an airstrike: performs a Lv.10 Secret Ninja Art: Performance - Ice Valley (DMG is based on the skill's level).\nWhen this Secret Ninja Art hits an enemy: inflicts the Snow Dance ailment, reducing their SPD by 30.0% for 5s; if hitting an enemy already inflicted with Snow Dance: saves 1 stack (maximum of 5 stacks); 20.0% chance to set the enemy's SPD to 0 for 2s for each stack.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/110100.png",
+		"max_level": 10
+	},
+	"110130": {
+		"id": 110130,
+		"type": 3,
+		"name": "Management Member's Pressure",
+		"desc": "Decreases this ship's DMG taken by 8.0%. While this ship is afloat: increases your Vanguard's AA and RLD by 10.0% and increases your Flagship's DMG dealt by 5.0%.\nIncreases the DMG of this ship's first volley by 60.0%. Increases this ship's DMG dealt to Heavy Armor enemies by 15.0%. Enemies hit by this ship's Main Guns suffer 8.0% decreased FP, TRP, and AVI for 8s.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/110130.png",
+		"max_level": 10
+	},
+	"110140": {
+		"id": 110140,
+		"type": 1,
+		"name": "Purple Ice Blast",
+		"desc": "Increases this ship's FP and ACC by 15.0%. When this ship fires her Main Guns: 70.0% chance to fire a Lv.10 special barrage (DMG is based on the skill's level). Enemies hit 5 times by this barrage suffer a special Armor Break ailment and take 5.0% increased airstrike DMG from your ships until the battle ends.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/110140.png",
+		"max_level": 10
+	},
+	"110150": {
+		"id": 110150,
+		"type": 1,
+		"name": "Purple Ice Blast+",
+		"desc": "Increases this ship's FP and ACC by 15.0%. When this ship fires her Main Guns: 100.0% chance to perform a Lv.10 Secret Ninja Art: Purple Ice, Linked Fangs. Enemies hit 5 times by this Secret Ninja Art suffer a special Armor Break ailment and take 5.0% increased airstrike DMG from your ships until the battle ends.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/110140.png",
+		"max_level": 10
+	},
+	"110160": {
+		"id": 110160,
+		"type": 2,
+		"name": "Bebeby, Hide Me!",
+		"desc": "Increases this ship's max Detection Gauge value by 15 and increases her AA and AVI by 10.0%. 20s after the battle starts: designates 1 random enemy; restores 15.0% of this ship's max HP when that enemy is defeated.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/110160.png",
+		"max_level": 10
+	},
+	"110170": {
+		"id": 110170,
+		"type": 1,
+		"name": "Root of Calamity Storm",
+		"desc": "While this ship is afloat, when your Main Fleet has been attacked 5 times: this ship gains 1 Root of Calamity's Wrath (does not stack); when this ship launches an airstrike: expends the stack and fires a Lv.10 special barrage (DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/110170.png",
+		"max_level": 10
+	},
+	"110180": {
+		"id": 110180,
+		"type": 1,
+		"name": "Root of Calamity Storm+",
+		"desc": "Decreases the loading time of this ship's first airstrike by 45.0%. While this ship is afloat, when your Main Fleet has been attacked 5 times: this ship gains 1 Root of Calamity's Wrath (does not stack); when this ship launches an airstrike: expends the stack and performs a Lv.10 Secret Ninja Art: Someone, Save Me (DMG is based on the skill's level). Enemies hit by this Secret Ninja Art are Poisoned for 20s, inflicting 105 DMG to them every second.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/110180.png",
+		"max_level": 10
+	},
+	"110190": {
+		"id": 110190,
+		"type": 3,
+		"name": "Soul of Tohno",
+		"desc": "When this ship's Main or Secondary Gun hits an enemy: 20.0% chance to increase this ship's RLD by 5.0% (can be stacked up to 3 times). When this buff reaches its max stacks, the following effects activate: \n1) Performs a Lv.10 slash attack; \n2) Increases this ship's Main Gun DMG dealt by 10.0% until the battle ends; \n3) Until the battle ends, if the skill Enka Tuypa's special barrage activates: performs an additional 20.0% special slash attack (slash attack DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/110190.png",
+		"max_level": 10
+	},
+	"110200": {
+		"id": 110200,
+		"type": 1,
+		"name": "Enka Tuypa",
+		"desc": "Increases this ship's ACC by 15.0%. Every 4 times this ship fires her Main Guns: fires this ship's Main Guns again as well as a Lv.10 special barrage (DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/110200.png",
+		"max_level": 10
+	},
+	"110210": {
+		"id": 110210,
+		"type": 1,
+		"name": "Soul of Tohno+",
+		"desc": "When this ship's Main or Secondary Gun hits an enemy: 20.0% chance to increase this ship's RLD by 5.0% (can be stacked up to 3 times). When this buff reaches its max stacks, the following effects activate:\n1) Performs a Lv.10 Secret Ninja Art: Poro Kamuyasi;\n2) Increases this ship's Main Gun DMG dealt by 10.0% until the battle ends;\n3) Until the battle ends, if the skill Enka Tuypa's special barrage activates: performs an additional Lv.10 Secret Ninja Art: Poro Kamuyasi (DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/110190.png",
+		"max_level": 10
+	},
+	"110370": {
+		"id": 110370,
+		"type": 1,
+		"name": "Tachis - Hankane",
+		"desc": "Increases this ship's LCK by 9. When this ship's Main or Secondary Gun hits an enemy: 10.0% chance to decrease that enemy's DMG dealt by 5.0% for 5s (10s cooldown between activations).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/110190.png",
+		"max_level": 1
+	},
 	"800010": {
 		"id": 800010,
 		"type": 1,
@@ -13333,6 +13509,54 @@
 		"name": "Ashen Might - Princeton II",
 		"desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 6.0%.",
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800980.png",
+		"max_level": 1
+	},
+	"800990": {
+		"id": 800990,
+		"type": 3,
+		"name": "Descend Upon a Nightmare",
+		"desc": "Increases this ship's FP and ACC by 20.0%. When this ship fires her Main Guns: 60.0% chance to restore 5.0% max HP to the ship with the lowest HP percentage in your fleet; if this effect does not activate, and your Flagship is a META ship: increases your Flagship's DMG dealt by 8.0% for 10s.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800990.png",
+		"max_level": 10
+	},
+	"801000": {
+		"id": 801000,
+		"type": 1,
+		"name": "Fade into Darkness",
+		"desc": "Increases this ship's DMG dealt by 20.0% to enemies with less than 10.0% HP remaining. Every 20s: 70.0% chance to fire a Lv.10 special barrage (DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801000.png",
+		"max_level": 10
+	},
+	"801011": {
+		"id": 801011,
+		"type": 3,
+		"name": "Cinders of Hope - Erebus",
+		"desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG by 5.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801010.png",
+		"max_level": 1
+	},
+	"801012": {
+		"id": 801012,
+		"type": 3,
+		"name": "Cinders of Hope - Erebus",
+		"desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG by 8.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801010.png",
+		"max_level": 1
+	},
+	"801015": {
+		"id": 801015,
+		"type": 3,
+		"name": "Cinders of Hope - Erebus",
+		"desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG by 5.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801010.png",
+		"max_level": 1
+	},
+	"801017": {
+		"id": 801017,
+		"type": 3,
+		"name": "Cinders of Hope - Erebus",
+		"desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG by 8.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801010.png",
 		"max_level": 1
 	},
 	"902220": {
