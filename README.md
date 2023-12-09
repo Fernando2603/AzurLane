@@ -7,7 +7,15 @@ Azur Lane Resources
 ## Important Notes
 - only `EN` ships are available
 - checking update everyday at `23:00 UTC`
+- if you found any bug or have some request please let me know
 - `ShipBanner.json` is deprecated and will be removed in 2024 use `skins.json` instead
+
+## 09 December 2023 Changes
+- add `voicelines.json` and `voicelinks.json`
+- `voicelines.json` contains voice line and link of ship by `skin_id`
+- `voicelinks.json` only contains link to the file
+- currently the `oath` or `extra` and `couple encourage` voiceline not included, im still working with the script, it will included soon
+- extra: i will add some docs in the future if i have some free time
 
 ## 31 October 2023 Changes
 - `meowfficer.json`
@@ -94,6 +102,8 @@ Azur Lane Resources
 - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/equip_icon.json`
 - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/nationality.json`
 - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/hulltype.json`
+- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/voicelines.json`
+- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/voicelinks.json`
 
 ## Replace Missing File (Wild Card)
 - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/unknown.json`
