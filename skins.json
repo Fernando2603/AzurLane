@@ -28366,6 +28366,26 @@
 		]
 	},
 	{
+		"id": 30028,
+		"gid": 970206,
+		"name": "Kirov META",
+		"skins": [
+			{
+				"id": 9702060,
+				"gid": 970206,
+				"name": "Kirov META",
+				"type": "Default",
+				"desc": "Tovarishch Ofitser, our meeting here will send trembles across the world! All my strength is yours to realize your ideals with. Let us fight, together!",
+				"tag": [],
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9702060/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9702060/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9702060/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9702060/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9702060/shipyard.png"
+			}
+		]
+	},
+	{
 		"id": 30013,
 		"gid": 970301,
 		"name": "Trento META",

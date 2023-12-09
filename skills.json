@@ -13559,6 +13559,62 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801010.png",
 		"max_level": 1
 	},
+	"801020": {
+		"id": 801020,
+		"type": 1,
+		"name": "Vspyshka's Roar",
+		"desc": "When the battle starts, and every 20s: summons a Lv.10 support unit Vspyshka to fight in the battle for 10s. /nVspyshka's stats change based on Kirov META's stats./nThe higher the skill level, the higher Vspyshka's stats and the more DMG it deals.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801020.png",
+		"max_level": 10
+	},
+	"801030": {
+		"id": 801030,
+		"type": 3,
+		"name": "Kometa's Brilliance",
+		"desc": "Sets this ship's Main Gun Range and Targeting Range to 75 and increases this ship's EVA by 20.0%. When the battle starts, for each other ship afloat in your fleet: increases this ship's FP by 5.0% (can stack up to 5 times; gains the maximum stacks if the only ships afloat are this ship and your Flagship).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801030.png",
+		"max_level": 10
+	},
+	"801040": {
+		"id": 801040,
+		"type": 1,
+		"name": "Coordinated Dance",
+		"desc": "Every 15s: 100.0% chance to peform a Lv.10 special attack that decreases the SPD of enemies hit by 30.0% for 8s; the first time each battle that this attack actives: also increases hit enemies' DMG taken by 15.0% for 8s (special attack DMG is based on the skill's level; the DMG taken increase effect does not stack with the skill \"Kirov, Reporting!\").",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801040.png",
+		"max_level": 10
+	},
+	"801051": {
+		"id": 801051,
+		"type": 3,
+		"name": "Cinders of Hope - Kirov",
+		"desc": "Every 12 times this ship fires her Main Guns: fires a special barrage.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801050.png",
+		"max_level": 1
+	},
+	"801052": {
+		"id": 801052,
+		"type": 3,
+		"name": "Cinders of Hope - Kirov",
+		"desc": "Every 8 times this ship fires her Main Guns: fires a special barrage.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801050.png",
+		"max_level": 1
+	},
+	"801055": {
+		"id": 801055,
+		"type": 3,
+		"name": "Cinders of Hope - Kirov",
+		"desc": "[Operation Siren]\nEvery 12 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 3.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801050.png",
+		"max_level": 1
+	},
+	"801057": {
+		"id": 801057,
+		"type": 3,
+		"name": "Cinders of Hope - Kirov",
+		"desc": "[Operation Siren]\nEvery 8 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 5.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801050.png",
+		"max_level": 1
+	},
 	"902220": {
 		"id": 902220,
 		"type": 2,
