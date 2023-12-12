@@ -10,6 +10,11 @@ Azur Lane Resources
 - if you found any bug or have some request please let me know
 - `ShipBanner.json` is deprecated and will be removed in 2024 use `skins.json` instead
 
+## 12 December 2023 Changes
+- add `oath` or `extra` voiceline
+- remove some skin `voicekey` that bugged and doesn't have any voiceline
+- remove unused file in `audio/voicelines`
+
 ## 09 December 2023 Changes
 - add `voicelines.json` and `voicelinks.json`
 - `voicelines.json` contains voice line and link of ship by `skin_id`
