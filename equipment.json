@@ -76369,5 +76369,94 @@
 				"dodge": 10
 			}
 		}
+	},
+	"150200": {
+		"name": "Sea of Stars Area B20 Access Pass",
+		"desc": "A badge required to enter and exit the Sea of Stars' Area B20. Please don't lose it.",
+		"label": [
+			"USS",
+			"DEV"
+		],
+		"rarity": 4,
+		"nationality": 1,
+		"type": 10,
+		"skill": [
+			60500
+		],
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150200.png",
+		"stats": {
+			"1": {
+				"id": 150200,
+				"level": 1,
+				"air": 14,
+				"antiaircraft": 8
+			},
+			"2": {
+				"id": 150201,
+				"level": 2,
+				"air": 16,
+				"antiaircraft": 8
+			},
+			"3": {
+				"id": 150202,
+				"level": 3,
+				"air": 18,
+				"antiaircraft": 9
+			},
+			"4": {
+				"id": 150203,
+				"level": 4,
+				"air": 20,
+				"antiaircraft": 10
+			},
+			"5": {
+				"id": 150204,
+				"level": 5,
+				"air": 22,
+				"antiaircraft": 11
+			},
+			"6": {
+				"id": 150205,
+				"level": 6,
+				"air": 24,
+				"antiaircraft": 12
+			},
+			"7": {
+				"id": 150206,
+				"level": 7,
+				"air": 26,
+				"antiaircraft": 13
+			},
+			"8": {
+				"id": 150207,
+				"level": 8,
+				"air": 28,
+				"antiaircraft": 14
+			},
+			"9": {
+				"id": 150208,
+				"level": 9,
+				"air": 30,
+				"antiaircraft": 16
+			},
+			"10": {
+				"id": 150209,
+				"level": 10,
+				"air": 32,
+				"antiaircraft": 18
+			},
+			"11": {
+				"id": 150210,
+				"level": 11,
+				"air": 35,
+				"antiaircraft": 20
+			},
+			"12": {
+				"id": 150211,
+				"level": 12,
+				"air": 38,
+				"antiaircraft": 22
+			}
+		}
 	}
 }
