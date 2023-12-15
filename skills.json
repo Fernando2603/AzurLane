@@ -13671,6 +13671,14 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/10340.png",
 		"max_level": 10
 	},
+	"1010380": {
+		"id": 1010380,
+		"type": 3,
+		"name": "Z Vanguard+",
+		"desc": "Increases this ship's RLD and ACC by 40.0% and increases your Z-class DDs' FP, EVA, and AA by 40.0%. Increases this ship's Main Gun efficiency by 10.0%. If there is another Z-class DD in your fleet: improves this ship's All Out Assault skill.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/10380.png",
+		"max_level": 10
+	},
 	"1010390": {
 		"id": 1010390,
 		"type": 2,
@@ -13855,6 +13863,14 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/11900.png",
 		"max_level": 10
 	},
+	"1011940": {
+		"id": 1011940,
+		"type": 3,
+		"name": "Fantastical Takeoff+",
+		"desc": "10s after the battle starts: deploys an F6F recon plane and, every 6s, increases this ship's ACC by 7.0% and DMG dealt by 15.0% (can stack up to 3 times). \nIf this recon plane is shot down: fires a special airstrike (DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/11940.png",
+		"max_level": 10
+	},
 	"1011970": {
 		"id": 1011970,
 		"type": 1,
@@ -13877,6 +13893,14 @@
 		"name": "Rosa Bombardamento+",
 		"desc": "When this ship fires her Main Guns: 75.0% chance to fire a special barrage (DMG is based on the skill's level).",
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/12600.png",
+		"max_level": 10
+	},
+	"1012620": {
+		"id": 1012620,
+		"type": 2,
+		"name": "Terni Shields+",
+		"desc": "When this ship takes DMG: 18.0% chance to spawn 2 shields (last 12s; can negate up to 10 enemy shells) and restores 1.5% of this ship's max HP. Increases this ship's EVA by 15.0% and increases your Zara-class ships' DMG dealt by 5.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/12620.png",
 		"max_level": 10
 	},
 	"1012670": {
@@ -14093,6 +14117,22 @@
 		"name": "Double Torpedo - McCall",
 		"desc": "When this ship fires her torpedoes: 50.0% chance to fire a second wave of torpedoes and reduces the reload time of currently reloading torpedoes by 3s.",
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/2050.png",
+		"max_level": 10
+	},
+	"1090210": {
+		"id": 1090210,
+		"type": 2,
+		"name": "Emergency Maneuvers - Fortune",
+		"desc": "Every 15s: 30.0% chance for this ship to evade all attacks for 8s. If this effect does not activate: decreases this ship's DMG taken by 10.0% for 8s.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/4070.png",
+		"max_level": 10
+	},
+	"1090220": {
+		"id": 1090220,
+		"type": 3,
+		"name": "Reload Command - Königsberg",
+		"desc": "Increases your Vanguard's RLD by 15.0% (does not stack with the same skill). Every 20s: fires a Lv.10 special barrage (DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/1030.png",
 		"max_level": 10
 	}
 }
