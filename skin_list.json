@@ -13253,7 +13253,7 @@
 		"desc": "My five senses are sharper than ever, perhaps even TOO sharp. No matter what trap awaits, my only way forward is to pierce through and focus on overcoming this trial... Haaah!",
 		"tag": [
 			"bg",
-			null
+			"dynamic+"
 		],
 		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303116/banner.png",
 		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303116/chibi.png",

@@ -13563,7 +13563,7 @@
 		"id": 801020,
 		"type": 1,
 		"name": "Vspyshka's Roar",
-		"desc": "When the battle starts, and every 20s: summons a Lv.10 support unit Vspyshka to fight in the battle for 10s. /nVspyshka's stats change based on Kirov META's stats./nThe higher the skill level, the higher Vspyshka's stats and the more DMG it deals.",
+		"desc": "When the battle starts, and every 20s: summons a Lv.10 support unit Vspyshka to fight in the battle for 10s. Vspyshka's stats change based on Kirov META's stats.The higher the skill level, the higher Vspyshka's stats and the more DMG it deals.",
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801020.png",
 		"max_level": 10
 	},
