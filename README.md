@@ -11,9 +11,9 @@ Azur Lane Resources
 - `ShipBanner.json` is deprecated and will be removed in 2024 use `skins.json` instead
 
 ## Docs
-- [CHANGELOG](https://github.com/Fernando2603/AzurLane/blop/main/docs/CHANGELOG.md)
-- [VOICELINE](https://github.com/Fernando2603/AzurLane/blop/main/docs/VOICELINE.md)
-- [list of missing voiceline audio](https://github.com/Fernando2603/AzurLane/blop/main/docs/MISSING_VOICELINE.md)
+- [CHANGELOG](https://github.com/Fernando2603/AzurLane/blob/main/docs/CHANGELOG.md)
+- [VOICELINE](https://github.com/Fernando2603/AzurLane/blob/main/docs/VOICELINE.md)
+- [list of missing voiceline audio](https://github.com/Fernando2603/AzurLane/blob/main/docs/MISSING_VOICELINE.md)
 
 ## Fetch
 - `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/skins.json`
