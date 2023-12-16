@@ -1,3 +1,14 @@
+## Patch 4.3.6 (16 December 2023)
+- add `couple_encourage` voiceline
+- fix `hulltype.json` wrong `slang` and `link` for key `7`
+- fix `voiceline` that contains `{namecode:}`
+- fix `voiceline` and `equipment` that have space at start or end
+- fix `voiceline` and `equipment` that have double space
+- fix json non-breaking space (NBSP) <0xa0> into actual space
+- add `EQUIPMENT.md`, `MEOWFFICER.md`, `SKILL.md` and `SKIN.md`
+- add `couple encourage` in [VOICELINE](https://github.com/Fernando2603/AzurLane/blob/main/docs/VOICELINE.md) docs
+- add `illustrator`, `illustrator2`, `voice_actor` and `voice_actor2` key into `skins.json` and `skin_list.json`
+
 ## Patch 4.3.5 (15 December 2023)
 - add `dynamic+` skin tag
 - add `docs` (WIP)

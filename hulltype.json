@@ -31,8 +31,8 @@
   },
   "7": {
     "name": "Aircraft Carrier",
-    "slang": "DD",
-    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/DD.png"
+    "slang": "CV",
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/CV.png"
   },
   "8": {
     "name": "Submarine",

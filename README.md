@@ -16,18 +16,57 @@ Azur Lane Resources
 - [list of missing voiceline audio](https://github.com/Fernando2603/AzurLane/blob/main/docs/MISSING_VOICELINE.md)
 
 ## Fetch
-- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/skins.json`
-- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/skin_list.json`
-- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/meowfficer.json`
-- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/meowfficer_talent.json`
-- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/skills.json`
-- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/skill_icon.json`
-- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/equipment.json`
-- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/equip_icon.json`
-- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/nationality.json`
-- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/hulltype.json`
-- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/voicelines.json`
-- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/voicelinks.json`
+- [skins.json](https://github.com/Fernando2603/AzurLane/blob/main/skins.json)
+```
+https://raw.githubusercontent.com/Fernando2603/AzurLane/main/skins.json
+```
+- [skin_list.json](https://github.com/Fernando2603/AzurLane/blob/main/skin_list.json)
+```
+https://raw.githubusercontent.com/Fernando2603/AzurLane/main/skin_list.json
+```
+- [meowfficer.json](https://github.com/Fernando2603/AzurLane/blob/main/meowfficer.json)
+```
+https://raw.githubusercontent.com/Fernando2603/AzurLane/main/meowfficer.json
+```
+- [meowfficer_talent.json](https://github.com/Fernando2603/AzurLane/blob/main/meowfficer_talent.json)
+```
+https://raw.githubusercontent.com/Fernando2603/AzurLane/main/meowfficer_talent.json
+```
+- [skills.json](https://github.com/Fernando2603/AzurLane/blob/main/skills.json)
+```
+https://raw.githubusercontent.com/Fernando2603/AzurLane/main/skills.json
+```
+- [skill_icon.json](https://github.com/Fernando2603/AzurLane/blob/main/skill_icon.json)
+```
+https://raw.githubusercontent.com/Fernando2603/AzurLane/main/skill_icon.json
+```
+- [equipment.json](https://github.com/Fernando2603/AzurLane/blob/main/equipment.json)
+```
+https://raw.githubusercontent.com/Fernando2603/AzurLane/main/equipment.json
+```
+- [equip_icon.json](https://github.com/Fernando2603/AzurLane/blob/main/equip_icon.json)
+```
+https://raw.githubusercontent.com/Fernando2603/AzurLane/main/equip_icon.json
+```
+- [nationality.json](https://github.com/Fernando2603/AzurLane/blob/main/nationality.json)
+```
+https://raw.githubusercontent.com/Fernando2603/AzurLane/main/nationality.json
+```
+- [hulltype.json](https://github.com/Fernando2603/AzurLane/blob/main/hulltype.json)
+```
+https://raw.githubusercontent.com/Fernando2603/AzurLane/main/hulltype.json
+```
+- [voicelines.json](https://github.com/Fernando2603/AzurLane/blob/main/voicelines.json)
+```
+https://raw.githubusercontent.com/Fernando2603/AzurLane/main/voicelines.json
+```
+- [voicelinks.json](https://github.com/Fernando2603/AzurLane/blob/main/voicelinks.json)
+```
+https://raw.githubusercontent.com/Fernando2603/AzurLane/main/voicelinks.json
+```
 
 ## Replace Missing File (Wild Card)
-- `https://raw.githubusercontent.com/Fernando2603/AzurLane/main/unknown.json`
+- [unknown.json](https://github.com/Fernando2603/AzurLane/blob/main/unknown.json)
+```
+https://raw.githubusercontent.com/Fernando2603/AzurLane/main/unknown.json
+```
