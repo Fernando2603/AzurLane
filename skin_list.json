@@ -1805,6 +1805,43 @@
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/101501/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/101501/shipyard.png"
 	},
+	"101510": {
+		"id": 101510,
+		"gid": 10151,
+		"name": "Laffey II",
+		"type": "Default",
+		"desc": "Allen M. Sumner-class destroyer – Laffey II, Hull Number DD-724.",
+		"tag": [],
+		"illustrator": -1,
+		"illustrator2": -1,
+		"voice_actor": 35,
+		"voice_actor2": -1,
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/101510/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/101510/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/101510/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/101510/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/101510/shipyard.png"
+	},
+	"101511": {
+		"id": 101511,
+		"gid": 10151,
+		"name": "Sleepy on a Busy Day",
+		"type": "Bunny Girl",
+		"desc": "Laffey's helping out around the pop-up shop... Commander, sit wherever you want... Any open seat is probably fine.",
+		"tag": [
+			"live2d",
+			"bg"
+		],
+		"illustrator": -1,
+		"illustrator2": -1,
+		"voice_actor": 35,
+		"voice_actor2": -1,
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/101511/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/101511/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/101511/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/101511/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/101511/shipyard.png"
+	},
 	"102010": {
 		"id": 102010,
 		"gid": 10201,
@@ -2251,6 +2288,26 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102096/icon.png",
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102096/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102096/shipyard.png"
+	},
+	"102097": {
+		"id": 102097,
+		"gid": 10209,
+		"name": "Knight of the Pop-Up Shop",
+		"type": "Bunny Girl",
+		"desc": "Commander, you're early. There's plenty of time until the pop-up shop opens. But this is a good opportunity to ask – what do you think of the outfit I made just for this occasion? ...G-girly and cute? Woohoo! That's exactly the reaction I wanted!",
+		"tag": [
+			"live2d",
+			"bg"
+		],
+		"illustrator": -1,
+		"illustrator2": -1,
+		"voice_actor": 40,
+		"voice_actor2": -1,
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102097/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102097/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102097/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102097/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102097/shipyard.png"
 	},
 	"102098": {
 		"id": 102098,
@@ -3259,6 +3316,25 @@
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102310/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102310/shipyard.png"
 	},
+	"102311": {
+		"id": 102311,
+		"gid": 10231,
+		"name": "Ready to Serve!",
+		"type": "Bunny Girl",
+		"desc": "Thank you for waiting! Houston is here and ready to serve! Mm... I've never worn a costume like this. It's kind of embarrassing... And is it just me, or is it a size or two too small?",
+		"tag": [
+			"bg"
+		],
+		"illustrator": -1,
+		"illustrator2": -1,
+		"voice_actor": 7,
+		"voice_actor2": -1,
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102311/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102311/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102311/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102311/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/102311/shipyard.png"
+	},
 	"103010": {
 		"id": 103010,
 		"gid": 10301,
@@ -4113,6 +4189,80 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103261/icon.png",
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103261/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103261/shipyard.png"
+	},
+	"103270": {
+		"id": 103270,
+		"gid": 10327,
+		"name": "Louisville",
+		"type": "Default",
+		"desc": "Northampton-class heavy cruiser – Louisville, Hull Number CA-28.",
+		"tag": [],
+		"illustrator": -1,
+		"illustrator2": -1,
+		"voice_actor": 393,
+		"voice_actor2": -1,
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103270/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103270/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103270/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103270/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103270/shipyard.png"
+	},
+	"103271": {
+		"id": 103271,
+		"gid": 10327,
+		"name": "An Order of Dreams",
+		"type": "Bunny Girl",
+		"desc": "Commander, here's your order of... Umm, it's written on the ticket, right... Huh? Where did I put that thing? Oh no, I'm in real trouble if I mess up the Commander's order...",
+		"tag": [
+			"bg",
+			"dynamic"
+		],
+		"illustrator": -1,
+		"illustrator2": -1,
+		"voice_actor": 393,
+		"voice_actor2": -1,
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103271/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103271/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103271/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103271/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103271/shipyard.png"
+	},
+	"104010": {
+		"id": 104010,
+		"gid": 10401,
+		"name": "Constellation",
+		"type": "Default",
+		"desc": "Lexington-class battlecruiser – Constellation, Hull Number CC-2.",
+		"tag": [],
+		"illustrator": -1,
+		"illustrator2": -1,
+		"voice_actor": 390,
+		"voice_actor2": -1,
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/104010/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/104010/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/104010/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/104010/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/104010/shipyard.png"
+	},
+	"104011": {
+		"id": 104011,
+		"gid": 10401,
+		"name": "Galaxy's Finest",
+		"type": "Bunny Girl",
+		"desc": "Welcome, Commander. If you want me to take your order, please subscribe for one month to my horoscope reading on Juustagram... Heehee, I'm joking. If you have any questions, I will gladly answer.",
+		"tag": [
+			"bg",
+			"dynamic"
+		],
+		"illustrator": -1,
+		"illustrator2": -1,
+		"voice_actor": 390,
+		"voice_actor2": -1,
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/104011/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/104011/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/104011/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/104011/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/104011/shipyard.png"
 	},
 	"105010": {
 		"id": 105010,
@@ -6023,6 +6173,42 @@
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/107291/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/107291/shipyard.png"
 	},
+	"107300": {
+		"id": 107300,
+		"gid": 10730,
+		"name": "San Jacinto",
+		"type": "Default",
+		"desc": "Independence-class light aircraft carrier – San Jacinto, Hull Number CVL-30.",
+		"tag": [],
+		"illustrator": -1,
+		"illustrator2": -1,
+		"voice_actor": 392,
+		"voice_actor2": -1,
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/107300/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/107300/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/107300/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/107300/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/107300/shipyard.png"
+	},
+	"107301": {
+		"id": 107301,
+		"gid": 10730,
+		"name": "Flavor of the Day",
+		"type": "Bunny Girl",
+		"desc": "Would you like me to recommend a drink? Hmm... You're quite the drinker, Commander~ Let's see if you can handle my favorite♪ Heehee!",
+		"tag": [
+			"bg"
+		],
+		"illustrator": -1,
+		"illustrator2": -1,
+		"voice_actor": 392,
+		"voice_actor2": -1,
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/107301/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/107301/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/107301/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/107301/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/107301/shipyard.png"
+	},
 	"107380": {
 		"id": 107380,
 		"gid": 10738,
@@ -6383,6 +6569,42 @@
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/108072/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/108072/shipyard.png"
 	},
+	"108080": {
+		"id": 108080,
+		"gid": 10808,
+		"name": "Flasher",
+		"type": "Default",
+		"desc": "Gato-class submarine – Flasher, Hull Number SS-249.",
+		"tag": [],
+		"illustrator": -1,
+		"illustrator2": -1,
+		"voice_actor": 391,
+		"voice_actor2": -1,
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/108080/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/108080/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/108080/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/108080/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/108080/shipyard.png"
+	},
+	"108081": {
+		"id": 108081,
+		"gid": 10808,
+		"name": "Tearjerking Service",
+		"type": "Maid",
+		"desc": "W-welcome, Commander... I-I as the manager will be serving you today, so l-let's hear your order... *sniffle*... I'm so tense it's making me cry...",
+		"tag": [
+			"bg"
+		],
+		"illustrator": -1,
+		"illustrator2": -1,
+		"voice_actor": 391,
+		"voice_actor2": -1,
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/108081/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/108081/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/108081/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/108081/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/108081/shipyard.png"
+	},
 	"112010": {
 		"id": 112010,
 		"gid": 11201,
@@ -6418,6 +6640,43 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/112011/icon.png",
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/112011/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/112011/shipyard.png"
+	},
+	"118020": {
+		"id": 118020,
+		"gid": 11802,
+		"name": "Guam",
+		"type": "Default",
+		"desc": "Alaska-class large cruiser – Guam, Hull Number CB-2.",
+		"tag": [],
+		"illustrator": -1,
+		"illustrator2": -1,
+		"voice_actor": 389,
+		"voice_actor2": -1,
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/118020/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/118020/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/118020/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/118020/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/118020/shipyard.png"
+	},
+	"118021": {
+		"id": 118021,
+		"gid": 11802,
+		"name": "Stage-Setting Charmer",
+		"type": "Bunny Girl",
+		"desc": "Bunny idol, on the stage♪ Commander! You're in for a banger performance, so just forget about everything else and keep your eyes on me!",
+		"tag": [
+			"live2d",
+			"bg"
+		],
+		"illustrator": -1,
+		"illustrator2": -1,
+		"voice_actor": 389,
+		"voice_actor2": -1,
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/118021/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/118021/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/118021/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/118021/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/118021/shipyard.png"
 	},
 	"131170": {
 		"id": 131170,
@@ -7619,6 +7878,25 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/201234/icon.png",
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/201234/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/201234/shipyard.png"
+	},
+	"201235": {
+		"id": 201235,
+		"gid": 20123,
+		"name": "Night Princess's Festive Feast",
+		"type": "Default",
+		"desc": "Why do thee look so astonished? Thou promised to have this Christmas dinner with me. Is it that thou would rather offer me fresh blood than a feast? I certainly wouldn't object to that!",
+		"tag": [
+			"custombg"
+		],
+		"illustrator": -1,
+		"illustrator2": -1,
+		"voice_actor": 89,
+		"voice_actor2": -1,
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/201235/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/201235/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/201235/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/201235/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/201235/shipyard.png"
 	},
 	"201238": {
 		"id": 201238,
@@ -21275,6 +21553,25 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401351/icon.png",
 		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401351/qicon.png",
 		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401351/shipyard.png"
+	},
+	"401352": {
+		"id": 401352,
+		"gid": 40135,
+		"name": "Liebender Engel",
+		"type": "Maid",
+		"desc": "\"Welcome, my beloved Master♡ Heehee, I've been waiting here for you for sooo long!\" Heheh, did you get good pics this time? My beloved Master♪",
+		"tag": [
+			"bg"
+		],
+		"illustrator": -1,
+		"illustrator2": -1,
+		"voice_actor": 123,
+		"voice_actor2": -1,
+		"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401352/banner.png",
+		"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401352/chibi.png",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401352/icon.png",
+		"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401352/qicon.png",
+		"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401352/shipyard.png"
 	},
 	"401360": {
 		"id": 401360,

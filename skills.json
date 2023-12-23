@@ -6431,6 +6431,118 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17270.png",
 		"max_level": 10
 	},
+	"17280": {
+		"id": 17280,
+		"type": 2,
+		"name": "Lady Lou",
+		"desc": "When the battle starts, and the first time each battle when this ship's HP falls below 50.0% as a result of DMG taken: deploys a barrier that can negate up to 8.0% of this ship's max HP in DMG (only 1 barrier can be active at a time). While this ship is afloat: decreases the DMG taken of your Northampton-class ships, CVs, and CVLs by 10.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17280.png",
+		"max_level": 10
+	},
+	"17290": {
+		"id": 17290,
+		"type": 1,
+		"name": "The Lady's Advance",
+		"desc": "Every 20s: 60.0% chance to fire a Lv.10 special barrage (DMG is based on the skill's level). If this barrage does not activate: increases this ship's EVA by 15.0% for 10s.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17290.png",
+		"max_level": 10
+	},
+	"17300": {
+		"id": 17300,
+		"type": 1,
+		"name": "Ready, Raring, and Motivated",
+		"desc": "Increases this ship's FP and TRP by 10.0%.\nWhen the battle starts, and every 20s: summons 2 Bunbun Strikers. The Bunbun Strikers fight for 15s, attacking enemies with their weapons, and gain stats based on Laffey II's stats (the amount of stats gained is based on the skill's level).\nEvery 12s: 70.0% chance to perform a radar scan, marking 3 enemies and decreasing their AA and AVI by 6.0%, and fires a Lv.10 special barrage (DMG is based on the skill's level). When this effect activates: this ship gains stacks of Motivation based on the number of active Bunbun Strikers.\nIncreases this ship's DMG dealt by 2.0% and increases the radar scan's activation chance by 6.0% for each stack of Motivation (can stack up to 5 times).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17300.png",
+		"max_level": 10
+	},
+	"17310": {
+		"id": 17310,
+		"type": 3,
+		"name": "Bunbun Scout",
+		"desc": "When the battle starts, if this ship has Eagle Union gear or weapons equipped: gains a Lv.10 special anti-air barrage and decreases this ship's DMG taken from aircraft by 20.0%.\nFor every 2 enemy aircraft shot down within your fleet's Anti-Air Gun range: increases this ship's AA by 10.0% (can be stacked up to 3 times) and this ship gains 1 stack of Motivation.\nWhen a total of 9 enemy aircraft have been shot down within your fleet's Anti-Air Gun Range: increases the recovery speed of your Main Fleet Eagle Union ships' Detection Gauge by 1 until the battle ends; once per battle, if your Flagship is an Eagle Union ship, also sets that ship's Detection Gauge value to 0 after 10s.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17310.png",
+		"max_level": 10
+	},
+	"17320": {
+		"id": 17320,
+		"type": 2,
+		"name": "Fiercer When Cornered",
+		"desc": "Decreases this ship's Burn DMG taken by 15.0%.\nDuring battle, if this ship loses more than 10.0% of her current HP in a single hit: decreases that DMG to 10.0% of this ship's current HP and gains 1 stack of Motivation. When this effect reduces incoming DMG, that DMG will not fall below 2.5% of this ship's max HP.\nOnce per battle, when this ship takes DMG that would sink her: negates that DMG and deploys a barrier that can negate up to 15.0% of this ship's max HP in DMG. While this barrier is active, when a ship in your fleet launches an airstrike: restores 2.0% of this ship's max HP (the 5th time this healing effect activates, the barrier vanishes).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17320.png",
+		"max_level": 10
+	},
+	"17330": {
+		"id": 17330,
+		"type": 3,
+		"name": "Battle Star Fireworks",
+		"desc": "Increases this ship's AA and ACC by 15.0%.\nAfter every 2 attacks with this ship's Secondary Guns: increases this ship's AA by 5.0% (can stack up to 5 times); when this buff achieves its max stacks, all your ships with a lower AA stat than Guam gain 15.0% increased AA until the battle ends.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17330.png",
+		"max_level": 10
+	},
+	"17340": {
+		"id": 17340,
+		"type": 1,
+		"name": "Guest Incoming!",
+		"desc": "Decreases this ship's aircraft DMG taken by 20.0%. When this ship attacks with large-caliber Main Guns:\n1) Deploys a barrier (lasts 5s) able to negate up to 1.0% of this ship's max HP in DMG;\n2) Performs a Lv.10 special attack (DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17340.png",
+		"max_level": 10
+	},
+	"17350": {
+		"id": 17350,
+		"type": 2,
+		"name": "On-Air Broadcast Assistance",
+		"desc": "Every 15s: fires a Lv.10 special barrage (DMG is based on the skill's level).\nWhen the battle starts, if the ship above your Flagship is a BB, BC, or BBV, when that ship fires her Main Guns: scans 1 enemy and inflicts Armor Break to them.\nFor the first 5 battles fought by a fleet this ship is NOT in, while this ship is afloat, increases that fleet's Eagle Union ships' AA and ACC by 10.0%. Additionally, when an enemy comes within 65 units of your Flagship: fires a Lv.10 special supporting barrage (DMG is based on the skill's level; 5s cooldown between activations; can only activate up to 5 times per battle).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17350.png",
+		"max_level": 10
+	},
+	"17370": {
+		"id": 17370,
+		"type": 1,
+		"name": "Scaling Spiral",
+		"desc": "When this ship fires her Main Guns: 80% chance to fire a Lv.10 special barrage (DMG is based on the skill's level). If this ship has Eagle Union gear or weaponry equipped: increases this barrage's activation chance by 20.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17370.png",
+		"max_level": 10
+	},
+	"17380": {
+		"id": 17380,
+		"type": 3,
+		"name": "Soaring Star-Chaser",
+		"desc": "Increases this ship's FP and ACC by 20.0%. Increases this ship's DMG dealt by 10.0% to enemies with less SPD than this ship.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17380.png",
+		"max_level": 10
+	},
+	"17390": {
+		"id": 17390,
+		"type": 2,
+		"name": "Young Eagles' Roost",
+		"desc": "Increases this ship's ACC and AVI by 15.0%. If this ship has at least 1 Eagle Union aircraft equipped: increases all of this ship's aircraft efficiencies by 15.0%. 5s after this ship's airstrike finishes loading: performs a sonar scan, revealing enemy SSs for 5s, and launches a Lv.10 TBM Avenger ASW attack (DMG is based on the skill's level and this ship's ASW stat).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17390.png",
+		"max_level": 10
+	},
+	"17400": {
+		"id": 17400,
+		"type": 1,
+		"name": "Playful Avengers",
+		"desc": "When this ship takes DMG: launches a Lv.10 airstrike (DMG is based on the skill's level), inflicts 30 DMG to your Flagship, and 3s later, restores 3.0% of that ship's max HP (10s cooldown between activations; can only activate up to 5 times per battle).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17400.png",
+		"max_level": 10
+	},
+	"17410": {
+		"id": 17410,
+		"type": 1,
+		"name": "Teary-Eyed Huntress",
+		"desc": "When this boat's equipped torpedoes hit an enemy (skill effects can only affect the same enemy once every 10s):\n1) Decreases that enemy's SPD by 30.0% for 4s. When this boat's torpedoes hit an enemy affected by this skill's SPD debuff: fires a Lv.10 special barrage (DMG is based on the skill's level; 10s cooldown between activations).\n2) With a 50.0% chance, increases this boat's DMG dealt to the enemy hit by 30.0% for 10s.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17410.png",
+		"max_level": 10
+	},
+	"17420": {
+		"id": 17420,
+		"type": 3,
+		"name": "Fish Are Friends",
+		"desc": "Increases this boat's ASR by 1. Increases this boat's torpedo Crit Rate by 15.0% and DMG dealt against Light Armor enemies by 10.0%. If this boat is your Submarine Fleet's Flagship or if there is another Gato-class SS in your fleet: increases your Gato-class SSs' TRP and ACC by 10.0%.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17420.png",
+		"max_level": 10
+	},
 	"18010": {
 		"id": 18010,
 		"type": 1,
@@ -10863,6 +10975,38 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30160.png",
 		"max_level": 1
 	},
+	"30171": {
+		"id": 30171,
+		"type": 1,
+		"name": "All Out Assault I",
+		"desc": "Activates All Out Assault I: Laffey II once every 15 times the Main Guns are fired.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30170.png",
+		"max_level": 1
+	},
+	"30172": {
+		"id": 30172,
+		"type": 1,
+		"name": "All Out Assault II",
+		"desc": "Activates All Out Assault II: Laffey II once every 10 times the Main Guns are fired.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30170.png",
+		"max_level": 1
+	},
+	"30181": {
+		"id": 30181,
+		"type": 1,
+		"name": "All Out Assault I",
+		"desc": "Activates All Out Assault I: Flasher immediately after entering the battle.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30180.png",
+		"max_level": 1
+	},
+	"30182": {
+		"id": 30182,
+		"type": 1,
+		"name": "All Out Assault II",
+		"desc": "Activates All Out Assault II: Flasher immediately after entering the battle.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30180.png",
+		"max_level": 1
+	},
 	"101010": {
 		"id": 101010,
 		"type": 3,
@@ -13866,7 +14010,7 @@
 	"1011940": {
 		"id": 1011940,
 		"type": 3,
-		"name": "Fantastical Takeoff+",
+		"name": "Observer of the Sky and Sea+",
 		"desc": "10s after the battle starts: deploys an F6F recon plane and, every 6s, increases this ship's ACC by 7.0% and DMG dealt by 15.0% (can stack up to 3 times). \nIf this recon plane is shot down: fires a special airstrike (DMG is based on the skill's level).",
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/11940.png",
 		"max_level": 10
