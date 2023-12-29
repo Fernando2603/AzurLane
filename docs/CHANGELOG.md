@@ -1,3 +1,8 @@
+## Patch 4.3.7 (28 December 2023)
+- fix `voiceline` failed to extract
+- preload `github-actions` to remove `banner.json` and `images/skins_old`
+- add `CV`, `L2D`, `PIC`, `BGM`, `CIPHER`, `MANGA` and `PAINTING` version
+
 ## Patch 4.3.6 (16 December 2023)
 - add `couple_encourage` voiceline
 - fix `hulltype.json` wrong `slang` and `link` for key `7`

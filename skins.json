@@ -8815,6 +8815,26 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199040/icon.png",
 				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199040/qicon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199040/shipyard.png"
+			},
+			{
+				"id": 199041,
+				"gid": 19904,
+				"name": "All-Night Charge",
+				"type": "Bunny Girl",
+				"desc": "I am now the Hybrid Idealization given flesh and blood wearing a suit designed with my performance for you in mind. I am ready to receive orders at any time.",
+				"tag": [
+					"live2d",
+					"bg"
+				],
+				"illustrator": 1,
+				"illustrator2": -1,
+				"voice_actor": 371,
+				"voice_actor2": -1,
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199041/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199041/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199041/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199041/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199041/shipyard.png"
 			}
 		]
 	},
@@ -10283,6 +10303,25 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/201352/icon.png",
 				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/201352/qicon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/201352/shipyard.png"
+			},
+			{
+				"id": 201353,
+				"gid": 20135,
+				"name": "Don't Turn Off the Lights!",
+				"type": "Maid",
+				"desc": "It'll be alright, Janus! Nothing bad's going to happen to you just because the light went out and you're all alone... Umm... Hyeep?! C-Commander? D-did you come to pick me up because you were worried...?",
+				"tag": [
+					"bg"
+				],
+				"illustrator": -1,
+				"illustrator2": -1,
+				"voice_actor": 345,
+				"voice_actor2": -1,
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/201353/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/201353/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/201353/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/201353/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/201353/shipyard.png"
 			}
 		]
 	},
@@ -19314,6 +19353,26 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301862/icon.png",
 				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301862/qicon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301862/shipyard.png"
+			},
+			{
+				"id": 301863,
+				"gid": 30186,
+				"name": "Diligent Domestic Discipline",
+				"type": "Home Relaxation",
+				"desc": "I'm doing lots of training. Gardening, making tea, stuff like that. Here's an example... Umm, do you want dinner, or a bath, or... Hm? I shouldn't practice that one?",
+				"tag": [
+					"live2d",
+					"bg"
+				],
+				"illustrator": -1,
+				"illustrator2": -1,
+				"voice_actor": 279,
+				"voice_actor2": -1,
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301863/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301863/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301863/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301863/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301863/shipyard.png"
 			}
 		]
 	},
@@ -25028,6 +25087,25 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399060/icon.png",
 				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399060/qicon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399060/shipyard.png"
+			},
+			{
+				"id": 399061,
+				"gid": 39906,
+				"name": "The Comfy Dragon God",
+				"type": "Maid",
+				"desc": "You couldn't have picked a better time to come. Allow me to treat you to a cup of the Dragon God's benevolence– Uhh, I'll go boil some water right now, so sit tight. After you finish the tea, shall we kick back and relax awhile?",
+				"tag": [
+					"bg"
+				],
+				"illustrator": 1,
+				"illustrator2": -1,
+				"voice_actor": 373,
+				"voice_actor2": -1,
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399061/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399061/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399061/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399061/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399061/shipyard.png"
 			}
 		]
 	},
@@ -29262,6 +29340,25 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499080/icon.png",
 				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499080/qicon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499080/shipyard.png"
+			},
+			{
+				"id": 499081,
+				"gid": 49908,
+				"name": "Sweet, Sleepy \"Revenge\"",
+				"type": "Maid",
+				"desc": "My, my. I'm quite surprised you're still able to stay awake. As expected of the Commander– even a dose of Felix Schultz's special concoction isn't enough to put you under... but that ends here. It's your fault for peeping on me slacking off in the first place, so be nice and obedient and succumb to me already~♪",
+				"tag": [
+					"bg"
+				],
+				"illustrator": 1,
+				"illustrator2": -1,
+				"voice_actor": 374,
+				"voice_actor2": -1,
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499081/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499081/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499081/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499081/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499081/shipyard.png"
 			}
 		]
 	},
@@ -29286,6 +29383,26 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499090/icon.png",
 				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499090/qicon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499090/shipyard.png"
+			},
+			{
+				"id": 499091,
+				"gid": 49909,
+				"name": "Delirious Duel",
+				"type": "Bunny Girl",
+				"desc": "It's just the two of us now, Contract Binder. Come – play a game with me and immerse yourself in the pleasures this place offers. The loser of this game, of course, must accept a punishment tonight♡",
+				"tag": [
+					"live2d",
+					"bg"
+				],
+				"illustrator": 1,
+				"illustrator2": -1,
+				"voice_actor": 372,
+				"voice_actor2": -1,
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499091/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499091/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499091/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499091/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499091/shipyard.png"
 			}
 		]
 	},
@@ -35330,6 +35447,25 @@
 				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/999020/icon.png",
 				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/999020/qicon.png",
 				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/999020/shipyard.png"
+			},
+			{
+				"id": 999021,
+				"gid": 99902,
+				"name": "If Love is a Sin, Thou Art Forgiven",
+				"type": "Maid",
+				"desc": "*sniffle*... Oh, Commander, what have I done...? I was supposed to serve You, and now I've committed a grave sin of messing everything up... Where did I go wrong...?",
+				"tag": [
+					"bg"
+				],
+				"illustrator": 1,
+				"illustrator2": -1,
+				"voice_actor": 375,
+				"voice_actor2": -1,
+				"banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/999021/banner.png",
+				"chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/999021/chibi.png",
+				"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/999021/icon.png",
+				"qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/999021/qicon.png",
+				"shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/999021/shipyard.png"
 			}
 		]
 	},
