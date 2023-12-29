@@ -1,6 +1,13 @@
 # AzurLane
 ![](versions/REPOSITORY.svg)
 ![](versions/EN.svg)
+![](versions/BGM.svg)
+![](versions/CIPHER.svg)
+![](versions/CV.svg)
+![](versions/L2D.svg)
+![](versions/MANGA.svg)
+![](versions/PAINTING.svg)
+![](versions/PIC.svg)
 
 Azur Lane Resources
 
