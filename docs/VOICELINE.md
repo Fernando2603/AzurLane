@@ -137,7 +137,7 @@ The `main` has two different extra, `normal` and `extend`.
 Known extra keys at `2023-12-15` are:
 `battle_ex`, `detail_ex`, `expedition_ex`, `feeling1_ex`, `feeling5_ex`, `headtouch_ex`, `home_ex`, `hp_warning_ex`, `login_ex`, `lose_ex`, `mail_ex`, `main1_ex`, `main2_ex`, `main3_ex`, `main4_ex`, `main5_ex`, `main6_ex`, `main7_ex`, `main8_ex`, `main9_ex`, `main10_ex`, `mission_complete_ex`, `mission_ex`, `skill_ex`, `touch_ex`, `touch2_ex`, `unlock_ex`, `upgrade_ex`, `win_mvp_ex`.
 
-The only known skins that have an extra key at `2023-12-15` are:
+The only known non-default skin that have an extra key at `2023-12-15` are:
 - `207052 - Formidable - Timeless Classics`
 - `999011 - Gascogne μ - Tropical Environs Acclimation Service Equipment`
 
