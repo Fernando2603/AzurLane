@@ -1,3 +1,7 @@
+## Patch 4.3.8 (09 January 2024)
+- improve `github-actions` runner performance
+
+
 ## Patch 4.3.7 (28 December 2023)
 - fix `voiceline` failed to extract
 - preload `github-actions` to remove `banner.json` and `images/skins_old`

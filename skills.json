@@ -14023,6 +14023,14 @@
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/11970.png",
 		"max_level": 10
 	},
+	"1012160": {
+		"id": 1012160,
+		"type": 3,
+		"name": "The Glory of the Never-Setting Sun+",
+		"desc": "Increases this ship's DMG dealt to Sakura Empire, Iron Blood, Sardegna Empire, and Siren ships by 10.0%. If there is another Royal Navy ship in your fleet: increases this ship's FP, RLD, EVA, and AA by 20.0%; if there is no other Royal Navy ship, this ship's \"Armament Optimization\" skill does not need her to equip the Quadruple 356mm Main Gun for the effect to work.",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/12160.png",
+		"max_level": 10
+	},
 	"1012350": {
 		"id": 1012350,
 		"type": 1,
@@ -14277,6 +14285,14 @@
 		"name": "Reload Command - Königsberg",
 		"desc": "Increases your Vanguard's RLD by 15.0% (does not stack with the same skill). Every 20s: fires a Lv.10 special barrage (DMG is based on the skill's level).",
 		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/1030.png",
+		"max_level": 10
+	},
+	"1090230": {
+		"id": 1090230,
+		"type": 1,
+		"name": "Piercing Shells - Z18",
+		"desc": "Increases this ship's DMG with AP ammo by 25.0% and increases her Main Gun efficiency by 10.0%. Every 20s: increases this ship's FP by 30.0% for 10s and fires a Lv.10 special barrage (DMG is based on the skill's level).",
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/2080.png",
 		"max_level": 10
 	}
 }

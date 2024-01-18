@@ -11017,7 +11017,7 @@
 		}
 	},
 	"5300": {
-		"name": "550mm Twin Torpedo Launcher",
+		"name": "550mm Twin Torpedo Mount",
 		"desc": "No description",
 		"label": [
 			"FFNF",
@@ -11066,7 +11066,7 @@
 		}
 	},
 	"5320": {
-		"name": "550mm Twin Torpedo Launcher",
+		"name": "550mm Twin Torpedo Mount",
 		"desc": "No description",
 		"label": [
 			"FFNF",
@@ -11119,7 +11119,7 @@
 		}
 	},
 	"5340": {
-		"name": "550mm Twin Torpedo Launcher",
+		"name": "550mm Twin Torpedo Mount",
 		"desc": "No description",
 		"label": [
 			"FFNF",
@@ -11208,7 +11208,7 @@
 		}
 	},
 	"5400": {
-		"name": "550mm Triple Torpedo Launcher",
+		"name": "550mm Triple Torpedo Mount",
 		"desc": "No description",
 		"label": [
 			"FFNF",
@@ -11261,7 +11261,7 @@
 		}
 	},
 	"5420": {
-		"name": "550mm Triple Torpedo Launcher",
+		"name": "550mm Triple Torpedo Mount",
 		"desc": "No description",
 		"label": [
 			"FFNF",
@@ -11341,7 +11341,7 @@
 		}
 	},
 	"5440": {
-		"name": "550mm Triple Torpedo Launcher",
+		"name": "550mm Triple Torpedo Mount",
 		"desc": "No description",
 		"label": [
 			"FFNF",
@@ -11716,6 +11716,401 @@
 				"torpedo": 25,
 				"weapon_id": [
 					5551
+				]
+			}
+		}
+	},
+	"5600": {
+		"name": "550mm Quadruple Torpedo Mount",
+		"desc": "No description",
+		"label": [
+			"FFNF",
+			"ST",
+			"TP",
+			"QUAD"
+		],
+		"rarity": 4,
+		"nationality": 8,
+		"type": 5,
+		"skill": [],
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/5600.png",
+		"stats": {
+			"1": {
+				"id": 5600,
+				"level": 1,
+				"damage": "62 x 4",
+				"torpedo": 25,
+				"weapon_id": [
+					5600
+				]
+			},
+			"2": {
+				"id": 5601,
+				"level": 2,
+				"damage": "72 x 4",
+				"torpedo": 25,
+				"weapon_id": [
+					5601
+				]
+			},
+			"3": {
+				"id": 5602,
+				"level": 3,
+				"damage": "82 x 4",
+				"torpedo": 25,
+				"weapon_id": [
+					5602
+				]
+			},
+			"4": {
+				"id": 5603,
+				"level": 4,
+				"damage": "92 x 4",
+				"torpedo": 25,
+				"weapon_id": [
+					5603
+				]
+			},
+			"5": {
+				"id": 5604,
+				"level": 5,
+				"damage": "102 x 4",
+				"torpedo": 25,
+				"weapon_id": [
+					5604
+				]
+			},
+			"6": {
+				"id": 5605,
+				"level": 6,
+				"damage": "112 x 4",
+				"torpedo": 25,
+				"weapon_id": [
+					5605
+				]
+			},
+			"7": {
+				"id": 5606,
+				"level": 7,
+				"damage": "122 x 4",
+				"torpedo": 25,
+				"weapon_id": [
+					5606
+				]
+			},
+			"8": {
+				"id": 5607,
+				"level": 8,
+				"damage": "132 x 4",
+				"torpedo": 25,
+				"weapon_id": [
+					5607
+				]
+			},
+			"9": {
+				"id": 5608,
+				"level": 9,
+				"damage": "142 x 4",
+				"torpedo": 25,
+				"weapon_id": [
+					5608
+				]
+			},
+			"10": {
+				"id": 5609,
+				"level": 10,
+				"damage": "152 x 4",
+				"torpedo": 25,
+				"weapon_id": [
+					5609
+				]
+			},
+			"11": {
+				"id": 5610,
+				"level": 11,
+				"damage": "162 x 4",
+				"torpedo": 25,
+				"weapon_id": [
+					5610
+				]
+			},
+			"12": {
+				"id": 5611,
+				"level": 12,
+				"damage": "162 x 4",
+				"torpedo": 25,
+				"weapon_id": [
+					5611
+				]
+			}
+		}
+	},
+	"5620": {
+		"name": "550mm Quadruple Torpedo Mount (Ammo Mod)",
+		"desc": "No description",
+		"label": [
+			"FFNF",
+			"ST",
+			"TP",
+			"QUAD",
+			"FTP"
+		],
+		"rarity": 4,
+		"nationality": 8,
+		"type": 5,
+		"skill": [],
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/5620.png",
+		"stats": {
+			"1": {
+				"id": 5620,
+				"level": 1,
+				"damage": "62 x 4",
+				"torpedo": 25,
+				"weapon_id": [
+					5620
+				]
+			},
+			"2": {
+				"id": 5621,
+				"level": 2,
+				"damage": "72 x 4",
+				"torpedo": 25,
+				"weapon_id": [
+					5621
+				]
+			},
+			"3": {
+				"id": 5622,
+				"level": 3,
+				"damage": "82 x 4",
+				"torpedo": 25,
+				"weapon_id": [
+					5622
+				]
+			},
+			"4": {
+				"id": 5623,
+				"level": 4,
+				"damage": "92 x 4",
+				"torpedo": 25,
+				"weapon_id": [
+					5623
+				]
+			},
+			"5": {
+				"id": 5624,
+				"level": 5,
+				"damage": "102 x 4",
+				"torpedo": 25,
+				"weapon_id": [
+					5624
+				]
+			},
+			"6": {
+				"id": 5625,
+				"level": 6,
+				"damage": "112 x 4",
+				"torpedo": 25,
+				"weapon_id": [
+					5625
+				]
+			},
+			"7": {
+				"id": 5626,
+				"level": 7,
+				"damage": "122 x 4",
+				"torpedo": 25,
+				"weapon_id": [
+					5626
+				]
+			},
+			"8": {
+				"id": 5627,
+				"level": 8,
+				"damage": "132 x 4",
+				"torpedo": 25,
+				"weapon_id": [
+					5627
+				]
+			},
+			"9": {
+				"id": 5628,
+				"level": 9,
+				"damage": "142 x 4",
+				"torpedo": 25,
+				"weapon_id": [
+					5628
+				]
+			},
+			"10": {
+				"id": 5629,
+				"level": 10,
+				"damage": "152 x 4",
+				"torpedo": 25,
+				"weapon_id": [
+					5629
+				]
+			},
+			"11": {
+				"id": 5630,
+				"level": 11,
+				"damage": "162 x 4",
+				"torpedo": 25,
+				"weapon_id": [
+					5630
+				]
+			},
+			"12": {
+				"id": 5631,
+				"level": 12,
+				"damage": "162 x 4",
+				"torpedo": 25,
+				"weapon_id": [
+					5631
+				]
+			}
+		}
+	},
+	"5640": {
+		"name": "550mm Quadruple Torpedo Mount Improved (Ammo Mod)",
+		"desc": "No description",
+		"label": [
+			"FFNF",
+			"ST",
+			"TP",
+			"QUAD",
+			"FTP"
+		],
+		"rarity": 5,
+		"nationality": 8,
+		"type": 5,
+		"skill": [],
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/5640.png",
+		"stats": {
+			"1": {
+				"id": 5640,
+				"level": 1,
+				"damage": "82 x 4",
+				"torpedo": 45,
+				"weapon_id": [
+					5640
+				]
+			},
+			"2": {
+				"id": 5641,
+				"level": 2,
+				"damage": "92 x 4",
+				"torpedo": 45,
+				"weapon_id": [
+					5641
+				]
+			},
+			"3": {
+				"id": 5642,
+				"level": 3,
+				"damage": "102 x 4",
+				"torpedo": 45,
+				"weapon_id": [
+					5642
+				]
+			},
+			"4": {
+				"id": 5643,
+				"level": 4,
+				"damage": "112 x 4",
+				"torpedo": 45,
+				"weapon_id": [
+					5643
+				]
+			},
+			"5": {
+				"id": 5644,
+				"level": 5,
+				"damage": "122 x 4",
+				"torpedo": 45,
+				"weapon_id": [
+					5644
+				]
+			},
+			"6": {
+				"id": 5645,
+				"level": 6,
+				"damage": "132 x 4",
+				"torpedo": 45,
+				"weapon_id": [
+					5645
+				]
+			},
+			"7": {
+				"id": 5646,
+				"level": 7,
+				"damage": "142 x 4",
+				"torpedo": 45,
+				"weapon_id": [
+					5646
+				]
+			},
+			"8": {
+				"id": 5647,
+				"level": 8,
+				"damage": "152 x 4",
+				"torpedo": 45,
+				"weapon_id": [
+					5647
+				]
+			},
+			"9": {
+				"id": 5648,
+				"level": 9,
+				"damage": "162 x 4",
+				"torpedo": 45,
+				"weapon_id": [
+					5648
+				]
+			},
+			"10": {
+				"id": 5649,
+				"level": 10,
+				"damage": "172 x 4",
+				"torpedo": 45,
+				"weapon_id": [
+					5649
+				]
+			},
+			"11": {
+				"id": 5650,
+				"level": 11,
+				"damage": "182 x 4",
+				"torpedo": 45,
+				"weapon_id": [
+					5650
+				]
+			},
+			"12": {
+				"id": 5651,
+				"level": 12,
+				"damage": "182 x 4",
+				"torpedo": 45,
+				"weapon_id": [
+					5651
+				]
+			},
+			"13": {
+				"id": 5652,
+				"level": 13,
+				"damage": "182 x 4",
+				"torpedo": 45,
+				"weapon_id": [
+					5652
+				]
+			},
+			"14": {
+				"id": 5653,
+				"level": 14,
+				"damage": "182 x 4",
+				"torpedo": 45,
+				"weapon_id": [
+					5653
 				]
 			}
 		}
@@ -27476,7 +27871,7 @@
 		}
 	},
 	"21600": {
-		"name": "Twin 114mm Mk IV Dual-Purpose Gun Mount",
+		"name": "Twin 114mm Dual-Purpose Mark IV",
 		"desc": "No description",
 		"label": [
 			"HMS",
@@ -37595,6 +37990,134 @@
 				"weapon_id": [
 					28413,
 					82993
+				]
+			}
+		}
+	},
+	"28420": {
+		"name": "Prototype Spearfish",
+		"desc": "No description",
+		"label": [
+			"HMS",
+			"CV",
+			"TB"
+		],
+		"rarity": 6,
+		"nationality": 2,
+		"type": 8,
+		"skill": [],
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/28420.png",
+		"stats": {
+			"1": {
+				"id": 28420,
+				"level": 1,
+				"air": 65,
+				"weapon_id": [
+					28420
+				]
+			},
+			"2": {
+				"id": 28421,
+				"level": 2,
+				"air": 65,
+				"weapon_id": [
+					28421
+				]
+			},
+			"3": {
+				"id": 28422,
+				"level": 3,
+				"air": 65,
+				"weapon_id": [
+					28422
+				]
+			},
+			"4": {
+				"id": 28423,
+				"level": 4,
+				"air": 65,
+				"weapon_id": [
+					28423
+				]
+			},
+			"5": {
+				"id": 28424,
+				"level": 5,
+				"air": 65,
+				"weapon_id": [
+					28424
+				]
+			},
+			"6": {
+				"id": 28425,
+				"level": 6,
+				"air": 65,
+				"weapon_id": [
+					28425
+				]
+			},
+			"7": {
+				"id": 28426,
+				"level": 7,
+				"air": 65,
+				"weapon_id": [
+					28426
+				]
+			},
+			"8": {
+				"id": 28427,
+				"level": 8,
+				"air": 65,
+				"weapon_id": [
+					28427
+				]
+			},
+			"9": {
+				"id": 28428,
+				"level": 9,
+				"air": 65,
+				"weapon_id": [
+					28428
+				]
+			},
+			"10": {
+				"id": 28429,
+				"level": 10,
+				"air": 65,
+				"weapon_id": [
+					28429
+				]
+			},
+			"11": {
+				"id": 28430,
+				"level": 11,
+				"air": 65,
+				"weapon_id": [
+					28430
+				]
+			},
+			"12": {
+				"id": 28431,
+				"level": 12,
+				"air": 65,
+				"weapon_id": [
+					28431
+				]
+			},
+			"13": {
+				"id": 28432,
+				"level": 13,
+				"air": 65,
+				"weapon_id": [
+					28432
+				]
+			},
+			"14": {
+				"id": 28433,
+				"level": 14,
+				"air": 65,
+				"weapon_id": [
+					28433
 				]
 			}
 		}
@@ -49935,6 +50458,148 @@
 			}
 		}
 	},
+	"37460": {
+		"name": "Kawanishi N1K3-A Shiden Kai 4",
+		"desc": "No description",
+		"label": [
+			"IJN",
+			"CV",
+			"FT"
+		],
+		"rarity": 5,
+		"nationality": 3,
+		"type": 7,
+		"skill": [],
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/37460.png",
+		"stats": {
+			"1": {
+				"id": 37460,
+				"level": 1,
+				"air": 45,
+				"weapon_id": [
+					37460,
+					83460
+				]
+			},
+			"2": {
+				"id": 37461,
+				"level": 2,
+				"air": 45,
+				"weapon_id": [
+					37461,
+					83461
+				]
+			},
+			"3": {
+				"id": 37462,
+				"level": 3,
+				"air": 45,
+				"weapon_id": [
+					37462,
+					83462
+				]
+			},
+			"4": {
+				"id": 37463,
+				"level": 4,
+				"air": 45,
+				"weapon_id": [
+					37463,
+					83463
+				]
+			},
+			"5": {
+				"id": 37464,
+				"level": 5,
+				"air": 45,
+				"weapon_id": [
+					37464,
+					83464
+				]
+			},
+			"6": {
+				"id": 37465,
+				"level": 6,
+				"air": 45,
+				"weapon_id": [
+					37465,
+					83465
+				]
+			},
+			"7": {
+				"id": 37466,
+				"level": 7,
+				"air": 45,
+				"weapon_id": [
+					37466,
+					83466
+				]
+			},
+			"8": {
+				"id": 37467,
+				"level": 8,
+				"air": 45,
+				"weapon_id": [
+					37467,
+					83467
+				]
+			},
+			"9": {
+				"id": 37468,
+				"level": 9,
+				"air": 45,
+				"weapon_id": [
+					37468,
+					83468
+				]
+			},
+			"10": {
+				"id": 37469,
+				"level": 10,
+				"air": 45,
+				"weapon_id": [
+					37469,
+					83469
+				]
+			},
+			"11": {
+				"id": 37470,
+				"level": 11,
+				"air": 45,
+				"weapon_id": [
+					37470,
+					83470
+				]
+			},
+			"12": {
+				"id": 37471,
+				"level": 12,
+				"air": 45,
+				"weapon_id": [
+					37471,
+					83471
+				]
+			},
+			"13": {
+				"id": 37472,
+				"level": 13,
+				"air": 45,
+				"weapon_id": [
+					37472,
+					83472
+				]
+			},
+			"14": {
+				"id": 37473,
+				"level": 14,
+				"air": 45,
+				"weapon_id": [
+					37473,
+					83473
+				]
+			}
+		}
+	},
 	"38000": {
 		"name": "Type 97 Torpedo Bomber",
 		"desc": "No description",
@@ -56222,7 +56887,7 @@
 		}
 	},
 	"44300": {
-		"name": "Prototype Triple 305mm SK C/39 Main Gun Mount",
+		"name": "Prototype Triple 305mm SKC 39 Main Gun Mount",
 		"desc": "No description",
 		"label": [
 			"KMS",
@@ -56503,6 +57168,149 @@
 				"cannon": 45,
 				"weapon_id": [
 					44413
+				]
+			}
+		}
+	},
+	"44500": {
+		"name": "Prototype Triple 380mm SKC Main Gun Mount",
+		"desc": "No description",
+		"label": [
+			"KMS",
+			"BB",
+			"MG",
+			"HE"
+		],
+		"rarity": 5,
+		"nationality": 4,
+		"type": 4,
+		"skill": [],
+		"icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/44500.png",
+		"stats": {
+			"1": {
+				"id": 44500,
+				"level": 1,
+				"damage": "70 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					44500
+				]
+			},
+			"2": {
+				"id": 44501,
+				"level": 2,
+				"damage": "76 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					44501
+				]
+			},
+			"3": {
+				"id": 44502,
+				"level": 3,
+				"damage": "80 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					44502
+				]
+			},
+			"4": {
+				"id": 44503,
+				"level": 4,
+				"damage": "86 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					44503
+				]
+			},
+			"5": {
+				"id": 44504,
+				"level": 5,
+				"damage": "90 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					44504
+				]
+			},
+			"6": {
+				"id": 44505,
+				"level": 6,
+				"damage": "94 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					44505
+				]
+			},
+			"7": {
+				"id": 44506,
+				"level": 7,
+				"damage": "100 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					44506
+				]
+			},
+			"8": {
+				"id": 44507,
+				"level": 8,
+				"damage": "104 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					44507
+				]
+			},
+			"9": {
+				"id": 44508,
+				"level": 9,
+				"damage": "110 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					44508
+				]
+			},
+			"10": {
+				"id": 44509,
+				"level": 10,
+				"damage": "114 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					44509
+				]
+			},
+			"11": {
+				"id": 44510,
+				"level": 11,
+				"damage": "118 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					44510
+				]
+			},
+			"12": {
+				"id": 44511,
+				"level": 12,
+				"damage": "118 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					44511
+				]
+			},
+			"13": {
+				"id": 44512,
+				"level": 13,
+				"damage": "118 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					44512
+				]
+			},
+			"14": {
+				"id": 44513,
+				"level": 14,
+				"damage": "118 x 3",
+				"cannon": 45,
+				"weapon_id": [
+					44513
 				]
 			}
 		}
@@ -71020,7 +71828,7 @@
 		}
 	},
 	"91000": {
-		"name": "Prototype Triple 406mm /50 Main Gun Mount",
+		"name": "Prototype Triple 406mm/50 Main Gun Mount",
 		"desc": "No description",
 		"label": [
 			"FFNF",
