@@ -1,0 +1,642 @@
+{
+  "6000": {
+    "id": 6000,
+    "name": "Beaver Squad",
+    "desc": "Increases your entire fleet's Speed by 20.0%."
+  },
+  "6130": {
+    "id": 6130,
+    "name": "Pearl Tears",
+    "desc": "Heals all friendlies for 10.0% of their max HP when the ship with this item sinks."
+  },
+  "6170": {
+    "id": 6170,
+    "name": "Cat Potency",
+    "desc": "When equipped by Akashi: increases the potency of all her healing by 20.0%."
+  },
+  "6180": {
+    "id": 6180,
+    "name": "Aerial Recon",
+    "desc": "Provides recon from the Ning Hai, decreasing chance of being ambushed by 8% and increases chance to avoid ambushes by 8%. Effect does not stack."
+  },
+  "6190": {
+    "id": 6190,
+    "name": "Type 91 Piercing Shell",
+    "desc": "Increases Main Gun Crit DMG by 15.0%."
+  },
+  "6200": {
+    "id": 6200,
+    "name": "Type 1 Piercing Shell",
+    "desc": "Increases Main Gun Crit DMG by 25.0%."
+  },
+  "6210": {
+    "id": 6210,
+    "name": "Super Heavy Shell",
+    "desc": "Increases Main Gun Crit Rate by 8.0%."
+  },
+  "6230": {
+    "id": 6230,
+    "name": "Z Flag",
+    "desc": "Increases Crit Rate by 5.0%. Grants other bonuses when equipped by a certain ship."
+  },
+  "6300": {
+    "id": 6300,
+    "name": "High-Octane Fuel",
+    "desc": "Increases the Speed of equipped aircraft, and increases their HP by 140. Effect does not stack."
+  },
+  "6310": {
+    "id": 6310,
+    "name": "Landing Guidance",
+    "desc": "Decreases Airstrike loading time by 4.0%."
+  },
+  "6360": {
+    "id": 6360,
+    "name": "Delayed Firing",
+    "desc": "Decreases Main Gun Spread Range by 2 for the ship equipping this gear."
+  },
+  "6410": {
+    "id": 6410,
+    "name": "The Unfulfilled Promise",
+    "desc": "When equipped by U-556: increases the time she can stay in combat after resurfacing by 4s and increases her ASR by 1. When equipped by Bismarck: decreases the effect the Out of Ammo DMG debuff has on the Main Fleet."
+  },
+  "6440": {
+    "id": 6440,
+    "name": "Anti-Siren Tactics Ⅰ",
+    "desc": "The ship equipping this gear takes 6.0% less DMG from Sirens. Does not stack with skills that have similar effect; only the highest source of DMG reduction applies."
+  },
+  "6560": {
+    "id": 6560,
+    "name": "Improved Hull Design",
+    "desc": "Increases a submarine's Speed by 20.0% and moves it forward another 8 units after it enters battle."
+  },
+  "6740": {
+    "id": 6740,
+    "name": "Frontier Medal",
+    "desc": "[Naval Exercise Gear; only 1 gear of this type will work if multiple are equipped] When equipped by your Flagship: increases the DMG dealt by both sides' CVs and CVLs by 10.0%, and decreases the DMG dealt by both sides' BBs and BCs by 10.0%."
+  },
+  "6750": {
+    "id": 6750,
+    "name": "Dmg Control (Union)",
+    "desc": "When the ship with this gear equipped is hit by an attack that would otherwise sink it: the ship survives, becomes invulnerable for 8s, and then sinks. Effect only applies to Eagle Union ships."
+  },
+  "6760": {
+    "id": 6760,
+    "name": "Naval Treaty",
+    "desc": "[Naval Exercise Gear; only 1 gear of this type will work if multiple are equipped] When equipped by your Flagship: decreases the DMG dealt by both sides' ships by 15.0%."
+  },
+  "6770": {
+    "id": 6770,
+    "name": "Pennant of Victory",
+    "desc": "After the battle starts: for 6s, the ship with this gear equipped absorbs 24.0% of the DMG taken by the ship in the frontmost position of your Vanguard."
+  },
+  "6850": {
+    "id": 6850,
+    "name": "Specialized Tactics - Sakura Empire I",
+    "desc": "The ship equipping this item deals 6% more DMG to Sakura Empire enemies (This effect does not stack, only the highest value applies)."
+  },
+  "10": {
+    "id": 10,
+    "name": "Repair Ⅰ",
+    "desc": "Recovers 6 HP every 5s. Effect does not stack."
+  },
+  "11": {
+    "id": 11,
+    "name": "Repair Ⅱ",
+    "desc": "Recovers 10 HP every 5s. Effect does not stack."
+  },
+  "12": {
+    "id": 12,
+    "name": "Repair Ⅲ",
+    "desc": "Recovers 15 HP every 5s. Effect does not stack."
+  },
+  "6960": {
+    "id": 6960,
+    "name": "6CRH AP Shell",
+    "desc": "When equipped by a Royal Navy ship, increases her Main Gun Crit DMG by 30.0%. (Effect does not stack, only the highest buff from an AP Shell takes effect.)."
+  },
+  "6280": {
+    "id": 6280,
+    "name": "Aircraft Detection",
+    "desc": "Decreases Ambush chance by 12.0%. Effect does not stack."
+  },
+  "6260": {
+    "id": 6260,
+    "name": "Precision Lock-On",
+    "desc": "Decreases the loading time of the first Main Gun Volley by 15.0%."
+  },
+  "6010": {
+    "id": 6010,
+    "name": "Anti-Torpedo Bulge Ⅰ",
+    "desc": "Decreases DMG taken from Torpedoes by 10.0%. Effect does not stack."
+  },
+  "6020": {
+    "id": 6020,
+    "name": "Anti-Torpedo Bulge Ⅱ",
+    "desc": "Decreases DMG taken from Torpedoes by 20.0%. Effect does not stack."
+  },
+  "6030": {
+    "id": 6030,
+    "name": "Anti-Torpedo Bulge Ⅲ",
+    "desc": "Decreases DMG taken from Torpedoes by 30.0%. Effect does not stack."
+  },
+  "6040": {
+    "id": 6040,
+    "name": "SG Radar Ⅰ",
+    "desc": "Decreases Ambush chance by 5.0% and increases Ambush evasion chance by 5.0%. Effect does not stack."
+  },
+  "6050": {
+    "id": 6050,
+    "name": "SG Radar Ⅱ",
+    "desc": "Decreases Ambush chance by 8.0% and increases Ambush evasion chance by 8.0%. Effect does not stack."
+  },
+  "6060": {
+    "id": 6060,
+    "name": "SG Radar Ⅲ",
+    "desc": "Decreases Ambush chance by 12.0% and increases Ambush evasion chance by 12.0%. Effect does not stack."
+  },
+  "6270": {
+    "id": 6270,
+    "name": "Powered Evasion",
+    "desc": "Every 20s: 30.0% chance for the ship using this gear to evade all enemy attacks for 2s."
+  },
+  "6070": {
+    "id": 6070,
+    "name": "Aviation Oil Tank Ⅰ",
+    "desc": "Increases the HP of equipped aircraft by 50. Effect does not stack."
+  },
+  "6080": {
+    "id": 6080,
+    "name": "Aviation Oil Tank Ⅱ",
+    "desc": "Increases the HP of equipped aircraft by 80. Effect does not stack."
+  },
+  "6090": {
+    "id": 6090,
+    "name": "Aviation Oil Tank Ⅲ",
+    "desc": "Increases the HP of equipped aircraft by 120. Effect does not stack."
+  },
+  "6100": {
+    "id": 6100,
+    "name": "Repair Tools Ⅰ",
+    "desc": "Recovers 0.3% of max HP every 15s. Effect does not stack."
+  },
+  "6110": {
+    "id": 6110,
+    "name": "Repair Tools Ⅱ",
+    "desc": "Recovers 0.6% of max HP every 15s. Effect does not stack."
+  },
+  "6120": {
+    "id": 6120,
+    "name": "Repair Tools Ⅲ",
+    "desc": "Recovers 1.0% of max HP every 15s. Effect does not stack."
+  },
+  "6140": {
+    "id": 6140,
+    "name": "Fire Suppressor Ⅰ",
+    "desc": "Decreases Burn DMG taken by 10.0% and chance of catching fire by 10.0%. Effect does not stack."
+  },
+  "6150": {
+    "id": 6150,
+    "name": "Fire Suppressor Ⅱ",
+    "desc": "Decreases Burn DMG taken by 15.0%, chance of catching fire by 20.0%, and Burn Duration by 3s. Effect does not stack."
+  },
+  "6160": {
+    "id": 6160,
+    "name": "Fire Suppressor Ⅲ",
+    "desc": "Decreases Burn DMG taken by 20.0%, chance of catching fire by 30.0%, and Burn Duration by 6s. Effect does not stack."
+  },
+  "6570": {
+    "id": 6570,
+    "name": "Acoustic Preload",
+    "desc": "When equipped, turns the first wave of torpedoes fired into acoustic torpedoes that deal 5.0% more damage."
+  },
+  "6620": {
+    "id": 6620,
+    "name": "Basic Sonar T3",
+    "desc": "Decreases the Accuracy of detected enemy submarines by 3.0%. Effect does not stack."
+  },
+  "6650": {
+    "id": 6650,
+    "name": "Improved Sonar T3",
+    "desc": "Decreases the TRP of detected enemy submarines by 5.0%. Effect does not stack."
+  },
+  "6290": {
+    "id": 6290,
+    "name": "Auxiliary Power Source Ⅰ",
+    "desc": "Increases ASR by 1 (2, when fully enhanced) for the submarine using this gear."
+  },
+  "6460": {
+    "id": 6460,
+    "name": "VH Armor Plating",
+    "desc": "When equipped by a ship with Heavy armor: decreases its DMG taken from AP ammo by 6.0% and decreases its DMG taken from HE and Normal ammo by 3.0%. When equipped by a ship with an Armor Type other than Heavy: changes its Armor Type to Heavy."
+  },
+  "6470": {
+    "id": 6470,
+    "name": "VC Armor Plating",
+    "desc": "When equipped by a ship with Heavy armor: decreases its DMG taken from AP ammo by 4.0% and decreases its DMG taken from HE and Normal ammo by 2.0%."
+  },
+  "6480": {
+    "id": 6480,
+    "name": "Crest of the Four Gods",
+    "desc": "When equipped by an An Shan-class ship: increases their Main Gun DMG by 16.0% and improves their All Out Assault."
+  },
+  "6590": {
+    "id": 6590,
+    "name": "Gun Components",
+    "desc": "When equipped by Kashino: increases the FP of your Main Fleet and your CBs by 10%."
+  },
+  "6660": {
+    "id": 6660,
+    "name": "Aviation Materials",
+    "desc": "When equipped by an AE: increases the AVI of your fleet by 8.0%."
+  },
+  "6670": {
+    "id": 6670,
+    "name": "Small-Caliber Gun Parts",
+    "desc": "When equipped by an AE: increases the FP of your Vanguard by 8.0%."
+  },
+  "6680": {
+    "id": 6680,
+    "name": "Torpedo Materials",
+    "desc": "When equipped by an AE: increases the TRP of your fleet by 8.0%."
+  },
+  "6950": {
+    "id": 6950,
+    "name": "Damaged Speech Manuscript",
+    "desc": "When equipped by a Royal Navy ship, increases her LCK by 3."
+  },
+  "6265": {
+    "id": 6265,
+    "name": "Accurate Alignments",
+    "desc": "Decreases the loading time of the user's first Main Gun volley by 15.0% and decreases her Main Gun Spread by 2."
+  },
+  "6980": {
+    "id": 6980,
+    "name": "World Expo Invitation",
+    "desc": "If the ship with this gear equipped is NOT from the Sardegna Empire and is sortied with Vittorio Veneto, then: if the ship is in your Vanguard, increases the ship's FP, TRP, and EVA by 10.0%; if the ship is in your Main Fleet, increases the ship's FP, AVI, and ACC by 8.0%."
+  },
+  "6990": {
+    "id": 6990,
+    "name": "Boundary-Crossing Permit",
+    "desc": "When equipped by a Sakura Empire ship: when the battle starts, deploys a shield that can absorb up to 100 DMG around the ship equipping this gear."
+  },
+  "60100": {
+    "id": 60100,
+    "name": "Royal Navy Operation Report \"A\"",
+    "desc": "When equipped by a Royal Navy ship: increases that ship's Evasion Rate by 5.0%."
+  },
+  "60110": {
+    "id": 60110,
+    "name": "Honor of the J-Class",
+    "desc": "When equipped by a J-class DD: increases her DMG dealt to non-Royal Navy enemies by 10.0%."
+  },
+  "60120": {
+    "id": 60120,
+    "name": "Round Shot",
+    "desc": "Increases AMO by 1 for the boat equipping this gear (the Submarine Fleet's AMO cap is 6.)"
+  },
+  "60290": {
+    "id": 60290,
+    "name": "Realm of Oneiric Snow",
+    "desc": "Creates a snowy landscape when equipped by Anchorage."
+  },
+  "60320": {
+    "id": 60320,
+    "name": "Plum-Petal Poetry",
+    "desc": "When equipped by Yat Sen: scatters plum petals in the breeze; for the first 5 battles every sortie: when the battle starts, deploys a barrier (lasts 30s) that can negate up to 5.0% of this ship's max HP in DMG."
+  },
+  "60300": {
+    "id": 60300,
+    "name": "Type-Wu Seaplane",
+    "desc": "When equipped by Ting An: increases your Main Fleet's AVI by 10.0% (does not stack with the \"Aviation Materials\" skill)."
+  },
+  "60310": {
+    "id": 60310,
+    "name": "Fairy Magic",
+    "desc": "When equipped by a Northern Parliament ship: increases her LCK by 5 and, the first 3 times she takes DMG each battle, that DMG is reduced to 1."
+  },
+  "60330": {
+    "id": 60330,
+    "name": "Her Majesty's Top-Secret Itinerary",
+    "desc": "When equipped by Queen Elizabeth: she enters Rest Mode, recovering 3.0% of her max HP when she fires her Main Guns. When equipped by any other Royal Navy ship: with every odd-numbered volley Queen Elizabeth fires, she enters Work Mode, increasing all your Royal Navy ships' DMG dealt by 8.0% for 8s; after this effect ends, Queen Elizabeth enters Rest Mode."
+  },
+  "60340": {
+    "id": 60340,
+    "name": "Action Report - Frostfall",
+    "desc": "When equipped by a Northern Parliament ship: increases her LCK by 3."
+  },
+  "60350": {
+    "id": 60350,
+    "name": "Watatsumi Research Notes",
+    "desc": "The ship with this gear equipped deals 5.0% more DMG against META ships."
+  },
+  "60370": {
+    "id": 60370,
+    "name": "Oasis Barometer",
+    "desc": "A device that forecasts short-term weather changes. Increases the SPD of the ship equipping this gear by 2."
+  },
+  "60380": {
+    "id": 60380,
+    "name": "Precise Maintenance",
+    "desc": "Increases airstrike DMG by 4.0%, but increases airstrike loading time by 4.0%."
+  },
+  "60410": {
+    "id": 60410,
+    "name": "World Expo Commemorative Ticket",
+    "desc": "Increases LCK by 2 when equipped on a ship."
+  },
+  "60420": {
+    "id": 60420,
+    "name": "Simulation Command",
+    "desc": "When equipped: activates a randomly chosen Command effect every 15s."
+  },
+  "6780": {
+    "id": 6780,
+    "name": "Experimental Gun Barrel",
+    "desc": "When equipped by a ship: increases her Main Gun DMG by 10.0%, but increases her reload time by 35.0% from the 5th shot and onwards."
+  },
+  "60360": {
+    "id": 60360,
+    "name": "Mark 35 Torpedo",
+    "desc": "Able to hit underwater enemies (deals 35.0% DMG when hitting underwater enemies)."
+  },
+  "6530": {
+    "id": 6530,
+    "name": "PBY Aerial Recon",
+    "desc": "Provides aerial reconnaissance, decreasing Ambush chance by 10.0% and increasing Ambush evasion chance by 10.0%. Effect does not stack."
+  },
+  "6430": {
+    "id": 6430,
+    "name": "Thach Weave",
+    "desc": "Increases the efficiency of all your Fighters by 4.0%. This buff cannot be stacked; only the strongest buff will take effect."
+  },
+  "6250": {
+    "id": 6250,
+    "name": "Jolly Rogers",
+    "desc": "Increases your entire fleet's AA by 5.0% for 8s when the Carrier using this aircraft launches an Airstrike."
+  },
+  "6320": {
+    "id": 6320,
+    "name": "Turning Point",
+    "desc": "Starting with the second Airstrike from the ship using this aircraft: this aircraft gets replaced by the Grumman TBF Avenger (VT-8 Squadron)."
+  },
+  "6790": {
+    "id": 6790,
+    "name": "Battleship Strikeforce",
+    "desc": "Increases DMG against enemy BBs and BCs by 3.0% for the ship equipping this aircraft. When this aircraft hits an enemy BB, BC, or BBV: 60.0% chance to inflict the Flood debuff to them for 9s. Flood DMG is based on the AVI stat of the ship equipping this aircraft."
+  },
+  "6240": {
+    "id": 6240,
+    "name": "Focused Bombing",
+    "desc": "Increases the DMG the Carrier using this aircraft deals to enemy CVs and CVLs by 5.0%."
+  },
+  "6810": {
+    "id": 6810,
+    "name": "Swordfish (818 Squadron)",
+    "desc": "Decreases the Speed of all enemies hit by this aircraft by 60.0% for 8s."
+  },
+  "6830": {
+    "id": 6830,
+    "name": "Armor-piercing Bomb",
+    "desc": "When this aircraft hits an enemy: 24.0% chance to inflict Armor break. Does not stack; only the strongest Armor Break effect applies."
+  },
+  "60390": {
+    "id": 60390,
+    "name": "Additional Anti-Air Weaponry",
+    "desc": "When equipped by a Vanguard ship: the ship gains a special AA Gun during battle (only one special AA Gun may be active at a time)."
+  },
+  "6370": {
+    "id": 6370,
+    "name": "Aviation Submarine Specialization",
+    "desc": "When equipped by an SSV: increases this aircraft's DMG dealt by 60.0%."
+  },
+  "6860": {
+    "id": 6860,
+    "name": "Armor-piercing Bomb",
+    "desc": "When this aircraft hits an enemy: 24.0% chance to inflict Armor break. Does not stack; only the strongest Armor Break effect applies."
+  },
+  "60400": {
+    "id": 60400,
+    "name": "Improved Adaptability",
+    "desc": "When equipped by a DD: all the ship's Armor DMG modifiers increase by 15.0%."
+  },
+  "6380": {
+    "id": 6380,
+    "name": "Random Word Generator",
+    "desc": "A helpful tool for planning. Rumor has it, when the the moon is full, the seas are clear, and the time is right, it will speak to you...?"
+  },
+  "6390": {
+    "id": 6390,
+    "name": "Pyoko-Pyoko",
+    "desc": "Kizuna AI's headband. It's a flippy-floppy wing-dang-doodle of a honkin' good time that goes on your head."
+  },
+  "6400": {
+    "id": 6400,
+    "name": "Intelligence Chip",
+    "desc": "A plugin chip that Kizuna AI uses to...? --No talking shit!"
+  },
+  "6490": {
+    "id": 6490,
+    "name": "Team Emblem",
+    "desc": "When equipped by a Hololive ship: increases their DMG dealt by 3.0%."
+  },
+  "6500": {
+    "id": 6500,
+    "name": "Gamers Mark",
+    "desc": "Any ship equipping this gear will be treated as part of the Hololive faction."
+  },
+  "6510": {
+    "id": 6510,
+    "name": "Corn Lantern",
+    "desc": "When equipped by a Hololive ship: decreases their DMG taken by 4.0%."
+  },
+  "6520": {
+    "id": 6520,
+    "name": "Ankimo",
+    "desc": "When sortieing with a ship equipping this gear: changes the battle background music."
+  },
+  "6710": {
+    "id": 6710,
+    "name": "White-Hot Verheerender",
+    "desc": "When sortieing with a ship equipped with this gear: changes the battle music to Seafarer's Loyalty. The song will be chosen randomly if several types of music-changing gear is used at once."
+  },
+  "6711": {
+    "id": 6711,
+    "name": "Sacred Lumière",
+    "desc": "When sortieing with a ship equipped with this gear: changes the battle music to A Song of Prayer. The song will be chosen randomly if several types of music-changing gear is used at once."
+  },
+  "6712": {
+    "id": 6712,
+    "name": "Resplendent Astrum",
+    "desc": "When sortieing with a ship equipped with this gear: changes the battle music to Blue Spirit. The song will be chosen randomly if several types of music-changing gear is used at once."
+  },
+  "6690": {
+    "id": 6690,
+    "name": "Cosmic Kicks",
+    "desc": "Ships equipped with this are classified as \"µ\" ships."
+  },
+  "6700": {
+    "id": 6700,
+    "name": "Celestial Body",
+    "desc": "Ships equipped with this are classified as \"µ\" ships."
+  },
+  "6720": {
+    "id": 6720,
+    "name": "Venus Awakening Gem",
+    "desc": "When equipped by a Venus Vacation collab character: increases that ship's DMG dealt by 3.0%."
+  },
+  "6730": {
+    "id": 6730,
+    "name": "Heart Key",
+    "desc": "When sortieing with a character equipped with this gear: changes the battle music."
+  },
+  "6880": {
+    "id": 6880,
+    "name": "Shining Bracelet",
+    "desc": "When equipped by a The Idolmaster collab ship: at the start of the battle, for 76s, decreases said ship's DMG taken by 5%."
+  },
+  "6890": {
+    "id": 6890,
+    "name": "Battle Tracto Max",
+    "desc": "When equipped by Rikka Takarada: improves the attack pattern of her Grid Beam skill, and replaces her Main Gun with a Special Main Gun."
+  },
+  "6900": {
+    "id": 6900,
+    "name": "Gridman Calibur",
+    "desc": "When equipped by Rikka Takarada: improves the attack pattern of her Slash & Circus skill, and triggers an additional torpedo barrage every 20s."
+  },
+  "6910": {
+    "id": 6910,
+    "name": "Buster Borr",
+    "desc": "When equipped by Rikka Takarada: improves the attack pattern of her Grid Beam skill, and replaces her Torpedo with a Special Torpedo."
+  },
+  "6920": {
+    "id": 6920,
+    "name": "Sky Vitter",
+    "desc": "When equipped by Rikka Takarada: improves the attack pattern of her Slash & Circus skill, and replaces her Anti-Air Gun with a Special Anti-Air Gun."
+  },
+  "6930": {
+    "id": 6930,
+    "name": "Dynamic Cannon",
+    "desc": "Changes the BGM when equipped. If the frontmost ship of your Vanguard is a CL, CA, or CB: launches a special support barrage 12s after the battle starts."
+  },
+  "6940": {
+    "id": 6940,
+    "name": "Goldburn",
+    "desc": "Changes the BGM when equipped. If the ship with this gear equipped is in your Vanguard or is an SSSS collab character: increases the ship's RLD by 38. If your Flagship is a CV or CVL: launches a special support barrage 25s after the battle starts."
+  },
+  "60130": {
+    "id": 60130,
+    "name": "Inflict Burns",
+    "desc": "When equipped by Reisalin Stout: 10s after the battle starts, performs an Item attack (DMG is based on the equipping character's FP) that inflicts a special Burn and the Item Mark debuff to enemies hit for 5s. If equipped in the second gear slot: the character equipping this gear gains a special Secondary Gun (attacks from this Secondary Gun are not treated as Item attacks)."
+  },
+  "60140": {
+    "id": 60140,
+    "name": "Slowdown",
+    "desc": "When equipped by Reisalin Stout: 15s after the battle starts, performs an Item attack (DMG is based on the equipping character's FP) that inflicts the Item Mark debuff to enemies hit for 5s and decreases their SPD by 30.0% for 5s."
+  },
+  "60150": {
+    "id": 60150,
+    "name": "Senselessness",
+    "desc": "When equipped by Reisalin Stout: 20s after the battle starts, performs an Item attack (DMG is based on the equipping character's FP) that inflicts the Item Mark debuff to enemies hit for 5s and decreases their Crit Rate by 10.0% for 5s. If equipped in the third gear slot: the character equipping this gear gains a special Anti-Air Gun (attacks from this Anti-Air Gun are not treated as Item attacks)."
+  },
+  "60160": {
+    "id": 60160,
+    "name": "Maximum Wind",
+    "desc": "When equipped by Reisalin Stout: 25s after the battle starts, performs an Item attack (DMG is based on the equipping character's FP) that inflicts the Item Mark debuff to enemies hit for 5s; If \"Grand Bomb,\" \"Crystal Ice Bomb,\" \"Laute Plajig,\" and \"Wirbel Luft\" are all equipped together: increases this ship's FP and TRP by 10.0% and activates \"Core Drive - Four-Star Aurora\" 30s after the battle starts."
+  },
+  "60250": {
+    "id": 60250,
+    "name": "HP Recovery",
+    "desc": "Once per battle, when equipped by an \"Atelier Ryza\" collab character: 50s after the battle starts, all your \"Atelier Ryza\" collab characters recover 5.0% of their max HP."
+  },
+  "60240": {
+    "id": 60240,
+    "name": "Evasion Up",
+    "desc": "When equipped by an \"Atelier Ryza\" collab character: when the battle starts, increases all your \"Atelier Ryza\" collab characters' Evasion Rate by 3.0% for 50s. If \"Mystic Robe\" and \"Elixir\" are both equipped together: when the battle starts, activates \"Core Drive - Angelic Embrace\" and deploys barriers around the frontmost ship in your Vanguard (barrier last 20s and can negate DMG equal to 5.0% of the equipping character's max HP)."
+  },
+  "60210": {
+    "id": 60210,
+    "name": "Soulstealer's Engraving",
+    "desc": "When equipped by an \"Atelier Ryza\" collab character: 30s after the battle starts, deducts 30 HP from this ship and performs an Item attack that inflicts the Item Mark debuff to enemies hit for 5s and decreases their FP, TRP, and AVI by 3.0% for 30s."
+  },
+  "60220": {
+    "id": 60220,
+    "name": "Infinite Explosion",
+    "desc": "When equipped by an \"Atelier Ryza\" collab character: 40s after the battle starts, performs an Item attack that inflicts the Item Mark debuff to enemies hit for 5s and increases their DMG taken by 5.0% for 10s. If \"Apocalypse\" and \"N/A\" are both equipped together: activates \"Core Drive - Testament Meteor\" 50s after the battle starts."
+  },
+  "60180": {
+    "id": 60180,
+    "name": "Echoing Seas",
+    "desc": "When equipped by an \"Atelier Ryza\" collab character: 20s after the battle starts, performs an Item attack that inflicts the Item Mark debuff to enemies hit for 5s and decreases their Crit Rate by 10.0% for 5s."
+  },
+  "60190": {
+    "id": 60190,
+    "name": "Bubbly Prison",
+    "desc": "When equipped by an \"Atelier Ryza\" collab character: 30s after the battle starts, performs an Item attack that inflicts the Item Mark debuff to enemies hit for 5s and decreases their EVA by 10.0% for 5s. If \"Genesis Hammer\" and \"Bubble Bullet\" are both equipped together: 35s after the battle starts, activates \"Core Drive - Gravity Press.\""
+  },
+  "60270": {
+    "id": 60270,
+    "name": "Glorious Melody",
+    "desc": "Changes the BGM when equipped. If additional gear that changes the BGM is equipped at the same time, only a randomly chosen one will take effect."
+  },
+  "108340": {
+    "id": 108340,
+    "name": "Crab (With Receipt)",
+    "desc": "When equipped by Princess Hime: increases your SSSS collab characters' FP and TRP by 8.0%."
+  },
+  "108350": {
+    "id": 108350,
+    "name": "Dragon Figurine",
+    "desc": "When equipped by Princess Hime: increases Princess Hime's, Yume Minami's, Chise Asukagawa's, The 2nd's, and Mujina's FP and AVI by 8.0%."
+  },
+  "60470": {
+    "id": 60470,
+    "name": "Shinobi Medal",
+    "desc": "Changes the battle music when equipped. If additional gear that changes the battle music is active at the same time, only a randomly chosen one will take effect."
+  },
+  "60480": {
+    "id": 60480,
+    "name": "Shinobi Attire",
+    "desc": "The ship equipping this gear is treated as a Senran Kagura collab character."
+  },
+  "60490": {
+    "id": 60490,
+    "name": "Ninjutsu Scroll",
+    "desc": "When equipped by a Senran Kagura collab character: 30s after the battle starts, fires a special barrage from your Vanguard's frontmost ship (DMG is based on the FP stat of the ship equipping this gear; if equipped by a Senran Kagura submarine: performs this special barrage at the start of the battle instead)."
+  },
+  "6970": {
+    "id": 6970,
+    "name": "Angel's Feather",
+    "desc": "When equipped by an Iris Libre or Vichya Dominion ship, restores 3.0% of her max HP 30s after the battle starts. Can only activate once per battle."
+  },
+  "6450": {
+    "id": 6450,
+    "name": "Overheating",
+    "desc": "Increases the Volley DMG of the ship this gun is equipped to by 10.0%; after firing 2 Volleys, the next Volley will have its reload time increased by 30.0%. This effect will then reset."
+  },
+  "60430": {
+    "id": 60430,
+    "name": "Embroidered Charm Pouch",
+    "desc": "When equipped by a Sakura Empire ship: increases your Sakura Empire ships' LCK by 1 (does not stack)."
+  },
+  "60440": {
+    "id": 60440,
+    "name": "Fly the Banner",
+    "desc": "During battle, increases the equipping ship's FP by 5.0% if there is an enemy within a radius of 20 units."
+  },
+  "60460": {
+    "id": 60460,
+    "name": "Fruit Rations",
+    "desc": "Once per battle, when the ship with this gear's HP falls below 60.0% as a result of DMG taken: restores 5.0% of that ship's max HP."
+  },
+  "60450": {
+    "id": 60450,
+    "name": "Nautical Telescope",
+    "desc": "Increases ASR by 1 for the boat equipping this gear."
+  },
+  "60500": {
+    "id": 60500,
+    "name": "Sea of Stars Area B20 Access Pass",
+    "desc": "When equipped by Princeton: 8s after her airstrike finishes loading, launches an interceptive airstrike."
+  }
+}
