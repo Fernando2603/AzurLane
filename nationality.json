@@ -1,33 +1,33 @@
 {
-  "1": {
+  "0": {
     "name": "Universal",
     "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/nationality/0.png"
   },
-  "2": {
+  "1": {
     "name": "Eagle Union",
     "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/nationality/1.png"
   },
-  "3": {
+  "2": {
     "name": "Royal Navy",
     "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/nationality/2.png"
   },
-  "4": {
+  "3": {
     "name": "Sakura Empire",
     "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/nationality/3.png"
   },
-  "5": {
+  "4": {
     "name": "Iron Blood",
     "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/nationality/4.png"
   },
-  "6": {
+  "5": {
     "name": "Dragon Empery",
     "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/nationality/5.png"
   },
-  "7": {
+  "6": {
     "name": "Sardegna Empire",
     "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/nationality/6.png"
   },
-  "8": {
+  "7": {
     "name": "Northern Parliament",
     "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/nationality/7.png"
   },
