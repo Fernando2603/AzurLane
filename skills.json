@@ -6543,6 +6543,110 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17420.png",
     "max_level": 10
   },
+  "17450": {
+    "id": 17450,
+    "type": 3,
+    "name": "For All Things, Benefits Bestowed",
+    "desc": "Increases this ship's EVA by 10.0%. When the battle starts, if there are other Dragon Empery ships in your fleet: increases all your ships' DMG dealt by 5.0% and increases your Dragon Empery ships' DMG dealt by a further 5.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17450.png",
+    "max_level": 10
+  },
+  "17460": {
+    "id": 17460,
+    "type": 2,
+    "name": "For Safe Returns, Schemes Shaped",
+    "desc": "Every 8s: 50.0% chance to fire a Lv.10 special barrage; if this barrage does not activate, instead increases this ship's FP and TRP by 10.0% (barrage DMG is based on the skill's level; buff can stack up to 3 times). Once per battle, when this ship's HP falls below 30.0% as a result of DMG taken: restores 10.0% of this ship's max HP and deploys a barrier (lasts 15s) equal to 10.0% of this ship's max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17460.png",
+    "max_level": 10
+  },
+  "17470": {
+    "id": 17470,
+    "type": 3,
+    "name": "Lady Yuen's Grand \"Adventure\"",
+    "desc": "10s after the battle starts and every 15s after that: goes on an Adventure for 5s. Depending on the result of the Adventure, applies 1 buff to a random ship in your fleet for 8s and a debuff to 1 random enemy for 8s. Once per battle, if the Adventure fails, or if this ship's HP falls below 50.0% as a result of DMG taken: increases this ship's SPD by 5 and Evasion Rate by 5.0% and decreases her DMG taken by 10.0% until the battle ends.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17470.png",
+    "max_level": 10
+  },
+  "17480": {
+    "id": 17480,
+    "type": 1,
+    "name": "Inkscape of Dancing Clouds",
+    "desc": "When the battle starts: increases this ship's TRP by 20.0% and, if there is another Dragon Empery ship in your fleet, increases this ship's DMG dealt by 10.0%. Every 20s: fires a Lv.10 special barrage (DMG is based on the skill's level; if there is any non-DD Dragon Empery ship in your fleet, this barrage is improved).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17480.png",
+    "max_level": 10
+  },
+  "17500": {
+    "id": 17500,
+    "type": 3,
+    "name": "Unfettered Freedom",
+    "desc": "Increases this ship's AVI by 15.0%. When this ship launches an airstrike: launches an additional Lv.10 airstrike with aircraft and monochrome shells. Hits scored by these monochrome shells count as hits toward this ship's Star-Studded Formation skill.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17500.png",
+    "max_level": 10
+  },
+  "17510": {
+    "id": 17510,
+    "type": 1,
+    "name": "Dragon's Dance",
+    "desc": "Every 3s: performs a Lv.10 special attack (DMG is based on the skill's level and this ship's TRP stat). Every 5 times this attack hits an enemy: restores 3.0% HP for the ship in your fleet with the lowest percentage HP remaining (can activate up to 3 times per battle).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17510.png",
+    "max_level": 10
+  },
+  "17520": {
+    "id": 17520,
+    "type": 3,
+    "name": "Delectable Delicacies",
+    "desc": "1s after this ship fires her torpedoes: fires another wave of torpedoes (the torpedoes fired are the same as this ship's equipped torpedoes). Increases this ship's TRP and EVA by 15.0% and decreases her DMG taken by 30.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17520.png",
+    "max_level": 10
+  },
+  "17530": {
+    "id": 17530,
+    "type": 1,
+    "name": "Tiger Thrasher!",
+    "desc": "Every 1s: performs a Lv.10 special attack (DMG is based on the skill's level and this ship's FP stat). Every 5 times this attack hits an enemy: increases this ship's FP by 5.0% (can be stacked up to 3 times).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17530.png",
+    "max_level": 10
+  },
+  "17540": {
+    "id": 17540,
+    "type": 2,
+    "name": "Gourmet Delivery!",
+    "desc": "1s after this ship fires her torpedoes: fires another wave of torpedoes (the torpedoes fired are the same as this ship's equipped torpedoes). Increases this ship's SPD and EVA by 15.0% and decreases her DMG taken by 30.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17540.png",
+    "max_level": 10
+  },
+  "17550": {
+    "id": 17550,
+    "type": 1,
+    "name": "Xuanwu's Tenacity",
+    "desc": "Provides 1 Missile Strike charge. Decreases the duration this ship Burns by 3s and decreases her Burn DMG taken by 15.0%. Every 15s: fires a Lv.10 special barrage (DMG is based on the skill's level) and deploys a shield (lasts 6s) around the frontmost ship in your Vanguard that can negate up to 6 enemy shells.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17550.png",
+    "max_level": 10
+  },
+  "17560": {
+    "id": 17560,
+    "type": 3,
+    "name": "United As One+",
+    "desc": "When sortied in a full fleet with 6 ships: increases this ship's FP and RLD by 25.0% and TRP and EVA by 10.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/11070.png",
+    "max_level": 10
+  },
+  "17570": {
+    "id": 17570,
+    "type": 3,
+    "name": "From Information Into Insight",
+    "desc": "When the battle starts: performs Strategic Divination and applies a buff to either your Vanguard or Main Fleet: If your Vanguard is chosen, applies one of the following buffs at random: 1) Increases FP, TRP, and RLD by 8.0%; 2) Decreases DMG taken from enemies by 10.0%. If your Main Fleet is chosen, applies one of the following buffs at random: 1) Increases FP, AVI, and ACC by 8.0%; 2) Increases AA by 10.0% and decreases DMG taken from enemies by 8.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17570.png",
+    "max_level": 10
+  },
+  "17580": {
+    "id": 17580,
+    "type": 1,
+    "name": "Always Prepared, Always Vigiliant",
+    "desc": "Increases this ship's RLD by 10.0%. This ship ignores the penalties of the Out of Ammo debuff. Every 15s: 70% chance to fire a Lv.10 special barrage (DMG is based on the skill's level; if when the battle starts there is another Dragon Empery ship in your fleet, sets this barrage's activation chance to 100%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17580.png",
+    "max_level": 10
+  },
   "18010": {
     "id": 18010,
     "type": 1,
@@ -6701,6 +6805,22 @@
     "name": "Augmenting Mechanism: Setzer Principle+",
     "desc": "Decreases the loading time of this ship's Main Guns by 40.0% and fires an additional Lv.10 barrage along with this ship's primary Salvoes (improved pattern; barrage is unaffected by this ship's position). Every 20s: fires a Lv.10 special barrage (DMG is based on the skill's level).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/18350.png",
+    "max_level": 10
+  },
+  "18380": {
+    "id": 18380,
+    "type": 1,
+    "name": "Sky-Rending Retribution+",
+    "desc": "When this ship launches an airstrike: 100% chance to launch an additional Lv.10 special airstrike+ (DMG increased; DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19380.png",
+    "max_level": 10
+  },
+  "18400": {
+    "id": 18400,
+    "type": 3,
+    "name": "The Great One's Shadow+",
+    "desc": "Increases this ship's AVI, AA, and ACC by 20.0%. When the battle starts, if this ship has Sakura Empire aircraft equipped, or if there is another Sakura Empire ship in your fleet: increases all of this ship's weapon efficiencies by 10.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19400.png",
     "max_level": 10
   },
   "18440": {
@@ -8799,6 +8919,54 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/20000.png",
     "max_level": 1
   },
+  "24031": {
+    "id": 24031,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Lung Wu once every 15 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/20000.png",
+    "max_level": 1
+  },
+  "24032": {
+    "id": 24032,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Lung Wu once every 10 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/20000.png",
+    "max_level": 1
+  },
+  "24041": {
+    "id": 24041,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Hu Pen once every 15 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/20000.png",
+    "max_level": 1
+  },
+  "24042": {
+    "id": 24042,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Hu Pen once every 10 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/20000.png",
+    "max_level": 1
+  },
+  "24061": {
+    "id": 24061,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Fei Yuen once every 15 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/20000.png",
+    "max_level": 1
+  },
+  "24062": {
+    "id": 24062,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Fei Yuen once every 10 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/20000.png",
+    "max_level": 1
+  },
   "24111": {
     "id": 24111,
     "type": 1,
@@ -8860,6 +9028,22 @@
     "type": 1,
     "name": "All Out Assault Ⅱ",
     "desc": "Activates All Out Assault II: Hai Tien-class once every 16 times the Secondary Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/20100.png",
+    "max_level": 1
+  },
+  "24151": {
+    "id": 24151,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Chi An once every 18 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/20100.png",
+    "max_level": 1
+  },
+  "24152": {
+    "id": 24152,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Chi An once every 12 times the Main Guns are fired.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/20100.png",
     "max_level": 1
   },
@@ -11005,6 +11189,22 @@
     "name": "All Out Assault II",
     "desc": "Activates All Out Assault II: Flasher immediately after entering the battle.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30180.png",
+    "max_level": 1
+  },
+  "30191": {
+    "id": 30191,
+    "type": 1,
+    "name": "All Out Assault III",
+    "desc": "Activates All Out Assault III: An Shan-class once every 16 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/20000.png",
+    "max_level": 1
+  },
+  "30192": {
+    "id": 30192,
+    "type": 1,
+    "name": "All Out Assault III",
+    "desc": "Activates All Out Assault III: An Shan-class when this ship launches a Missile Strike.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/20000.png",
     "max_level": 1
   },
   "101010": {
@@ -13757,6 +13957,54 @@
     "name": "Cinders of Hope - Kirov",
     "desc": "[Operation Siren]\nEvery 8 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 5.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801050.png",
+    "max_level": 1
+  },
+  "801060": {
+    "id": 801060,
+    "type": 1,
+    "name": "Endless Night",
+    "desc": "Increases this ship's FP and TRP by 15.0%. Every 20s: 70.0% chance to fire a Lv.10 special barrage (DMG is based on the skill's level) and decrease the reload time of this ship's torpedoes by 5s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801060.png",
+    "max_level": 10
+  },
+  "801070": {
+    "id": 801070,
+    "type": 1,
+    "name": "War Without Cease",
+    "desc": "When this ship sinks an enemy: increases this ship's ACC by 4.0% until the battle ends (can be stacked up to 5 times). When this ship's torpedoes finish loading: increases this ship's Crit Rate by 10.0% for each enemy on the battlefield (lasts 12s; can stack up to 5 times).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801070.png",
+    "max_level": 10
+  },
+  "801081": {
+    "id": 801081,
+    "type": 1,
+    "name": "Ashen Might - Kimberly",
+    "desc": "Every 15 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801080.png",
+    "max_level": 1
+  },
+  "801082": {
+    "id": 801082,
+    "type": 1,
+    "name": "Ashen Might - Kimberly",
+    "desc": "Every 10 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801080.png",
+    "max_level": 1
+  },
+  "801085": {
+    "id": 801085,
+    "type": 1,
+    "name": "Ashen Might - Kimberly",
+    "desc": "[Operation Siren]\nEvery 15 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 2.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801080.png",
+    "max_level": 1
+  },
+  "801087": {
+    "id": 801087,
+    "type": 1,
+    "name": "Ashen Might - Kimberly",
+    "desc": "[Operation Siren]\nEvery 10 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 6.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801080.png",
     "max_level": 1
   },
   "902220": {

@@ -638,5 +638,10 @@
     "id": 60500,
     "name": "Sea of Stars Area B20 Access Pass",
     "desc": "When equipped by Princeton: 8s after her airstrike finishes loading, launches an interceptive airstrike."
+  },
+  "60510": {
+    "id": 60510,
+    "name": "Huan Ch'ang's Fishing Rod",
+    "desc": "When equipped by Huan Ch'ang: 15s after the battle starts, throws a fishing tackle forward, creating a special area that lasts 10s. Ships within this area take 5.0% less DMG from the enemy."
   }
 }
