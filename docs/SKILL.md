@@ -248,11 +248,11 @@ The first thing we need to do is implement a function to resolve skill name and 
     # so we will use 'get' since it's more safe with default value than direct access
     # since skill_data_template already checked before it is safe to direct access the data
     skill_data: any = skill_data_template[skill_id]
-    skill_type: int = skill_data.get('type', 0)
-    skill_name: str = skill_data.get('name', '')
-    skill_desc: str = skill_data.get('desc', '')
-    skill_desc_add: List = skill_data.get('desc_add', [])
-    skill_max_level: int = skill_data.get('max_level', 1)
+    skill_type: int = skill_data.get('type') or 0
+    skill_name: str = skill_data.get('name') or ''
+    skill_desc: str = skill_data.get('desc') or ''
+    skill_desc_add: List = skill_data.get('desc_add') or []
+    skill_max_level: int = skill_data.get('max_level') or 1
 
     temp_level: int = int(level)
 
@@ -306,11 +306,11 @@ The first thing we need to do is implement a function to resolve skill name and 
       return None
 
     skill_data: any = skill_data_template[skill_id]
-    skill_type: int = skill_data.get('type', 0)
-    skill_name: str = skill_data.get('name', '')
-    skill_desc: str = skill_data.get('desc', '')
+    skill_type: int = skill_data.get('type') or 0
+    skill_name: str = skill_data.get('name') or ''
+    skill_desc: str = skill_data.get('desc') or ''
     skill_desc_get_add: List = skill_data.get('desc_get_add', [])
-    skill_max_level: int = skill_data.get('max_level', 1)
+    skill_max_level: int = skill_data.get('max_level') or 1
 
     SKILL = Skill(
       id=int(skill_id),

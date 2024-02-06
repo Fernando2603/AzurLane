@@ -7480,6 +7480,23 @@
     "unlock": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/199031/unlock.ogg",
     "win_mvp": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/199031/win_mvp.ogg"
   },
+  "199032": {
+    "expedition": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/199032/expedition.ogg",
+    "feeling5": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/199032/feeling5.ogg",
+    "headtouch": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/199032/headtouch.ogg",
+    "home": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/199032/home.ogg",
+    "login": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/199032/login.ogg",
+    "lose": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/199032/lose.ogg",
+    "mail": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/199032/mail.ogg",
+    "main1": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/199032/main1.ogg",
+    "main2": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/199032/main2.ogg",
+    "main3": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/199032/main3.ogg",
+    "main4": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/199032/main4.ogg",
+    "mission_complete": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/199032/mission_complete.ogg",
+    "touch": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/199032/touch.ogg",
+    "touch2": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/199032/touch2.ogg",
+    "unlock": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/199032/unlock.ogg"
+  },
   "199040": {
     "battle": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/199040/battle.ogg",
     "detail": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/199040/detail.ogg",
@@ -10286,6 +10303,19 @@
     "touch2": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/202274/touch2.ogg",
     "unlock": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/202274/unlock.ogg"
   },
+  "202275": {
+    "battle": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/202275/battle.ogg",
+    "feeling5": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/202275/feeling5.ogg",
+    "home": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/202275/home.ogg",
+    "login": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/202275/login.ogg",
+    "main1": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/202275/main1.ogg",
+    "main2": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/202275/main2.ogg",
+    "main3": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/202275/main3.ogg",
+    "skill": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/202275/skill.ogg",
+    "touch": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/202275/touch.ogg",
+    "touch2": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/202275/touch2.ogg",
+    "unlock": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/202275/unlock.ogg"
+  },
   "202278": {
     "detail": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/202278/detail.ogg",
     "feeling5": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/202278/feeling5.ogg",
@@ -11101,6 +11131,21 @@
     "unlock": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/204010/unlock.ogg",
     "upgrade": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/204010/upgrade.ogg",
     "win_mvp": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/204010/win_mvp.ogg"
+  },
+  "204011": {
+    "battle": null,
+    "detail": null,
+    "expedition": null,
+    "feeling5": null,
+    "home": null,
+    "login": null,
+    "mail": null,
+    "main1": null,
+    "main2": null,
+    "main3": null,
+    "touch": null,
+    "touch2": null,
+    "unlock": null
   },
   "204020": {
     "battle": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/204020/battle.ogg",
@@ -12499,6 +12544,22 @@
     "touch2": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/206061/touch2.ogg",
     "unlock": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/206061/unlock.ogg"
   },
+  "206062": {
+    "detail": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/206062/detail.ogg",
+    "expedition": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/206062/expedition.ogg",
+    "headtouch": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/206062/headtouch.ogg",
+    "home": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/206062/home.ogg",
+    "login": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/206062/login.ogg",
+    "mail": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/206062/mail.ogg",
+    "main1": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/206062/main1.ogg",
+    "main2": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/206062/main2.ogg",
+    "main3": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/206062/main3.ogg",
+    "skill": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/206062/skill.ogg",
+    "touch": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/206062/touch.ogg",
+    "touch2": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/206062/touch2.ogg",
+    "unlock": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/206062/unlock.ogg",
+    "upgrade": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/206062/upgrade.ogg"
+  },
   "206070": {
     "battle": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/206070/battle.ogg",
     "couple_encourage1": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/206070/couple_encourage1.ogg",
@@ -12553,6 +12614,18 @@
     "touch2": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/206071/touch2.ogg",
     "unlock": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/206071/unlock.ogg",
     "win_mvp": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/206071/win_mvp.ogg"
+  },
+  "206072": {
+    "detail": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/206072/detail.ogg",
+    "feeling5": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/206072/feeling5.ogg",
+    "home": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/206072/home.ogg",
+    "login": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/206072/login.ogg",
+    "main1": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/206072/main1.ogg",
+    "main2": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/206072/main2.ogg",
+    "main3": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/206072/main3.ogg",
+    "touch": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/206072/touch.ogg",
+    "touch2": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/206072/touch2.ogg",
+    "unlock": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/206072/unlock.ogg"
   },
   "206080": {
     "battle": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/206080/battle.ogg",
@@ -14291,6 +14364,20 @@
     "main3": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/301113/main3.ogg",
     "touch": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/301113/touch.ogg",
     "unlock": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/301113/unlock.ogg"
+  },
+  "301114": {
+    "feeling5": null,
+    "home": null,
+    "login": null,
+    "main1": null,
+    "main2": null,
+    "main3": null,
+    "mission": null,
+    "mission_complete": null,
+    "touch": null,
+    "touch2": null,
+    "unlock": null,
+    "win_mvp": null
   },
   "301120": {
     "battle": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/301120/battle.ogg",
@@ -24994,6 +25081,20 @@
     "touch": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/407032/touch.ogg",
     "touch2": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/407032/touch2.ogg",
     "unlock": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/407032/unlock.ogg"
+  },
+  "407033": {
+    "battle": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/407033/battle.ogg",
+    "detail": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/407033/detail.ogg",
+    "expedition": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/407033/expedition.ogg",
+    "feeling5": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/407033/feeling5.ogg",
+    "home": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/407033/home.ogg",
+    "login": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/407033/login.ogg",
+    "main1": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/407033/main1.ogg",
+    "main2": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/407033/main2.ogg",
+    "main3": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/407033/main3.ogg",
+    "touch": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/407033/touch.ogg",
+    "touch2": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/407033/touch2.ogg",
+    "unlock": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/407033/unlock.ogg"
   },
   "408010": {
     "battle": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/408010/battle.ogg",

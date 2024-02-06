@@ -10,9 +10,11 @@ The meowfficer has two types of structures: `meowfficer.json` and `meowfficer_li
 
 The `type`, `slot`, and `timer` are manually created and not derived from in-game data. The `type` serves as the key for the `hulltype` of the ship that matches this `meowfficer`, `slot` indicates the best-fit skill slot for this `meowfficer`, and the `timer` represents the `meowfficer` build time, formatted as a string like `hh:mm:ss`. For `type` and `slot`, refer to [Data Structure](#data-structure) for the `MeowfficerType` and `MeowfficerSlot` enums, listing all available values.
 
-The `rarity` value is a `string` instead of a `number`, unlike `nationality`, for intuitive reasons. In Azur Lane, rarity starts at value 2, not 0 or 1. The `meowfficer` only has "Rare," "Elite," and "Super Rare" rarities, to date.
+The `rarity` value is a `string` instead of a `number`, unlike `nationality`, for intuitive reasons.
+> [!TIP]
+> In Azur Lane, rarity starts at value 2, not 0 or 1. The `meowfficer` only has "Rare," "Elite," and "Super Rare" rarities, to date.
 
-The aaset available in this section dataset include full character images, character banners, character icons, skill icons, and talent icons. Here are some samples:
+The asset available in this section dataset include full character images, character banners, character icons, skill icons, and talent icons. Here are some samples:
 <details>
   <summary>Character Image</summary>
 
@@ -55,26 +57,26 @@ The aaset available in this section dataset include full character images, chara
 type Link = string | null;
 
 enum MeowfficerType {
-  BB  = 'BB',
-  BBV = 'BBV',
-  BC  = 'BC',
-  CA  = 'CA',
-  CB  = 'CB',
-  CL  = 'CL',
-  CV  = 'CV',
-  CVL = 'CVL',
-  DD  = 'DD',
-  IXM = 'IXM',
-  IXS = 'IXS',
-  IXV = 'IXV',
-  SS  = 'SS',
-  SSV = 'SSV'
+  BB  = "BB",
+  BBV = "BBV",
+  BC  = "BC",
+  CA  = "CA",
+  CB  = "CB",
+  CL  = "CL",
+  CV  = "CV",
+  CVL = "CVL",
+  DD  = "DD",
+  IXM = "IXM",
+  IXS = "IXS",
+  IXV = "IXV",
+  SS  = "SS",
+  SSV = "SSV"
 };
 
 enum MeowfficerSlot {
-  General = 'General',
-  Command = 'Command',
-  Staff   = 'Staff'
+  General = "General",
+  Command = "Command",
+  Staff   = "Staff"
 };
 
 type MeowfficerStats = {
@@ -174,7 +176,7 @@ type MeowfficerTalentStatistics = {
   apply: MeowfficerTalentType[];
   stats: MeowfficerTalentStats;
   value: number;
-  type: 'value' | 'percentage';
+  type: "value" | "percentage";
 };
 
 type MeowfficerTalentData = {

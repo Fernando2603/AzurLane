@@ -83,7 +83,7 @@ Check [AzurLaneTools/AzurLaneLuaScripts](https://github.com/AzurLaneTools/AzurLa
 Refer to [model/const/shiprarity](https://github.com/AzurLaneTools/AzurLaneLuaScripts/blob/main/EN/model/const/shiprarity.lua) for ship rarity.
 
 | value | rarity              |
-|-------|---------------------|
+|:-----:|---------------------|
 | 2     | NORMAL/COMMON       |
 | 3     | RARE                |
 | 4     | ELITE               |
@@ -120,13 +120,14 @@ Refer to [model/const/shiprarity](https://github.com/AzurLaneTools/AzurLaneLuaSc
 }
 ```
 
-**Note:** Some skins modify and add new couple encourage lines, available only when the skin is used. As of `2023-12-15`, known skins that modify or add lines include:
-- `102124 - Honolulu - Among the Stalls` modify `couple_encourage1`
-- `202029 - Achilles - Achilles (Retrofit)` modify `couple_encourage1`
-- `202123 - Belfast - The Noble Attendant` modify `couple_encourage1` to `couple_encourage5` (all)
-- `301189 - Shiranui - Shiranui (Retrofit)` modify `couple_encourage1`
-- `303019 - Furutaka - Furutaka (Retrofit)` add `couple_encourage1`
-- `307073 - Taihou - Enraptured Companion` add `couple_encourage1`
+> [!NOTE]
+> Some skins modify and add new couple encourage lines, available only when the skin is used. As of `2023-12-15`, known skins that modify or add lines include:
+> - `102124 - Honolulu - Among the Stalls` modify `couple_encourage1`
+> - `202029 - Achilles - Achilles (Retrofit)` modify `couple_encourage1`
+> - `202123 - Belfast - The Noble Attendant` modify `couple_encourage1` to `couple_encourage5` (all)
+> - `301189 - Shiranui - Shiranui (Retrofit)` modify `couple_encourage1`
+> - `303019 - Furutaka - Furutaka (Retrofit)` add `couple_encourage1`
+> - `307073 - Taihou - Enraptured Companion` add `couple_encourage1`
 
 
 # Extra voicekey

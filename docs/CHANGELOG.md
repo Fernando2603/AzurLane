@@ -1,3 +1,12 @@
+## Patch 4.4.9
+<details>
+  <summary>03 February 2024</summary>
+  
+  - fix minor typo in docs
+  - fix data inconsistent default value in `python`
+  **Note:** `ship.json` is still in prototype phase, its kinda complicated since `ship.json` aiming for dynamic statistics change, but it will release with mutliple different dataset once the script pass the test, the release time still unknown to this date.
+</details>
+
 ## Patch 4.4.8
 > [!NOTE]
 > I am planning to release a new dataset named `ship.json` containing information about ship data in the upcoming patch. Initially, this repository was intended for syncing skin data with `AzurAPI`, but it appears that it is no longer maintained. Due to this, the repository will undergo an overhaul, resulting in some minor breaking changes before the update preceding Patch `5` in `2025`. All data should stabilize by then, assuming the game itself does not undergo major database changes. I sincerely apologize to those who use this repository and will make every effort to minimize any potential disruption.
@@ -34,7 +43,7 @@
 
     type EquipmentData = {
       skill: {
-        [skill_id: string]: EquipmentSKill;
+        [skill_id: string]: EquipmentSkill;
       };
       // ..more property
     };
@@ -110,7 +119,7 @@
 
 ## Patch 4.3.7
 <details>
-  <summary>28 December 2023 Changes</summary>
+  <summary>28 December 2023</summary>
   
   - fix `voiceline` failed to extract
   - preload `github-actions` to remove `banner.json` and `images/skins_old`
@@ -119,7 +128,7 @@
 
 ## Patch 4.3.6
 <details>
-  <summary>16 December 2023 Changes</summary>
+  <summary>16 December 2023</summary>
   
   - add `couple_encourage` voiceline
   - fix `hulltype.json` wrong `slang` and `link` for key `7`
@@ -135,7 +144,7 @@
 
 ## Patch 4.3.5
 <details>
-  <summary>15 December 2023 Changes</summary>
+  <summary>15 December 2023</summary>
   
   - add `dynamic+` skin tag
   - add `docs` (WIP)
@@ -145,7 +154,7 @@
 
 ## Old
 <details>
-  <summary>12 December 2023 Changes</summary>
+  <summary>12 December 2023</summary>
 
   - add `oath` or `extra` voiceline
   - remove some skin `voicekey` that bugged and doesn't have any voiceline
@@ -153,7 +162,7 @@
 </details>
 
 <details>
-  <summary>09 December 2023 Changes</summary>
+  <summary>09 December 2023</summary>
   
   - add `voicelines.json` and `voicelinks.json`
   - `voicelines.json` contains voice line and link of ship by `skin_id`
@@ -163,7 +172,7 @@
 </details>
 
 <details>
-  <summary>31 October 2023 Changes</summary>
+  <summary>31 October 2023</summary>
 
   - `meowfficer.json`
     - add automatic update

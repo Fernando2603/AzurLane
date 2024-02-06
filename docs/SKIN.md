@@ -16,7 +16,8 @@ The painting on the skins have two keys: `painting` and `painting_n`. The defaul
 > The choice of using the keys `painting` and `painting_n` aligns with the in-game asset names. This also simplifies code on the server side by maintaining the same keys as the asset names.
 
 > [!IMPORTANT]
-> The painting extracted by using [nobbyfix/painting_reconstruct.py](https://gist.github.com/nobbyfix/fb535462acc897ab1f39e5e9981e4645). A special thanks to nobbyfix for creating this script, which not only extracts the skin but also resizes the image to max 2048px if it's too large, resulting in smaller file size.
+> The painting extracted using [nobbyfix/painting_reconstruct.py](https://gist.github.com/nobbyfix/fb535462acc897ab1f39e5e9981e4645).
+> A special thanks to nobbyfix for creating this script, which not only extracts the skin but also resizes the image to max 2048px if it's too large, resulting in smaller file size.
 
 Certain skins may have up to two types of background or no background at all. Not gonna explain too far into the details of why some skins have backgrounds and others don't, as that requires further research. The background in skin is used when available in-game. Otherwise, the `background2` serves as the background for skins that have a special background attached to the painting/L2D/skin itself. This can be toggled on (`painting`) or off (`painting_n`) when available, and `background2` is mostly a blurred image.
 
@@ -115,13 +116,13 @@ type Link = string | null;
 
 // model/vo/shipskin.lua
 enum SkinTag {
-  Live2D      = 'live2d',    // 1
-  BG          = 'bg',        // 2 
-  Effect      = 'effect',    // 3 
-  DynamicBG   = 'dyanmicbg', // 4 
-  BGM         = 'bgm',       // 5 
-  Dynamic     = 'dynamic',   // 6 
-  DyanmicPlus = 'dyanmic+'   // 7 
+  Live2D      = "live2d",    // 1
+  BG          = "bg",        // 2 
+  Effect      = "effect",    // 3 
+  DynamicBG   = "dyanmicbg", // 4 
+  BGM         = "bgm",       // 5 
+  Dynamic     = "dynamic",   // 6 
+  DyanmicPlus = "dyanmic+"   // 7 
 };
 
 type Skin = {
