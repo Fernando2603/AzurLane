@@ -25,7 +25,7 @@ Azur Lane Resources
 
 
 ## Repository Size
-Repository contains 47707 files with a size of 8.06 GB (8649571865 B).
+Repository contains 47707 files with a size of 8.06 GB (8649573897 B).
 
 ### Audio
 Contains 33182 files with a size of 3.31 GB (3554102357 B).
