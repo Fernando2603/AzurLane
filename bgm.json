@@ -1,451 +1,19 @@
 {
-  "story-afterrain-soft": {
-    "title": "晴空细雨_G",
-    "size": 1573516,
-    "duration": 75.02367346938776,
+  "airraidalarm": {
+    "title": "airRaidAlarm",
+    "size": 60279,
+    "duration": 11.888616780045352,
+    "bitrate": 57.0,
+    "sample_rate": 11025,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/airraidalarm.ogg"
+  },
+  "aoi_hougeki-full": {
+    "title": "Aoi Hougeki-full",
+    "size": 4576555,
+    "duration": 230.55092970521542,
     "bitrate": 160.0,
     "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-afterrain-soft.ogg"
-  },
-  "theme": {
-    "title": "壮絶激昂_FinlMix[Main]",
-    "size": 4272735,
-    "duration": 230.72,
-    "bitrate": 150.0,
-    "sample_rate": 32000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme.ogg"
-  },
-  "battle-af": {
-    "title": "AZR03_08_R2",
-    "size": 2506418,
-    "duration": 125.5502947845805,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-af.ogg"
-  },
-  "battle-inthememory": {
-    "title": "battle in the memory",
-    "size": 1901593,
-    "duration": 90.00533333333334,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-inthememory.ogg"
-  },
-  "idom-theidolm@ster": {
-    "title": "THE IDOLM@STER(Movie ver)",
-    "size": 3535801,
-    "duration": 167.8338321995465,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/idom-theidolm@ster.ogg"
-  },
-  "holo-sss": {
-    "title": "holo_ShinySmilyStory",
-    "size": 5380091,
-    "duration": 255.72266666666667,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/holo-sss.ogg"
-  },
-  "sailawayjustice": {
-    "title": "繧｢繧ｺ繝ｼ繝ｫ繝ｬ繝ｼ繝ｳ_Sail Away Justice_Final mix",
-    "size": 4823949,
-    "duration": 233.94133333333335,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sailawayjustice.ogg"
-  },
-  "main-arbitrationsystem-theme": {
-    "title": "14_莉ｲ陬∵惻蜈ｳ",
-    "size": 2714306,
-    "duration": 131.56426303854875,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/main-arbitrationsystem-theme.ogg"
-  },
-  "ryza-7": {
-    "title": "ryza-7",
-    "size": 2539917,
-    "duration": 124.8,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ryza-7.ogg"
-  },
-  "battle-italy": {
-    "title": "AL005_ItalyBattle_demo02_1",
-    "size": 911183,
-    "duration": 91.67238095238095,
-    "bitrate": 88.0,
-    "sample_rate": 22050,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-italy.ogg"
-  },
-  "battle-siren-centraltower": {
-    "title": "自律式作战系统_2nd7",
-    "size": 1859653,
-    "duration": 90.00533333333334,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-siren-centraltower.ogg"
-  },
-  "theme-theloversvi": {
-    "title": "theme-theloversVI",
-    "size": 2087816,
-    "duration": 96.02133333333333,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-theloversvi.ogg"
-  },
-  "theme-vanguard": {
-    "title": "theme-vanguard白と黒の王家騎士",
-    "size": 1789224,
-    "duration": 89.62133333333334,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-vanguard.ogg"
-  },
-  "battle-boss-temepest-1": {
-    "title": "鮟第ｰｴ豁ｻ譁誉eden",
-    "size": 1833849,
-    "duration": 88.81066666666666,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-temepest-1.ogg"
-  },
-  "guangbo": {
-    "title": "guangbo",
-    "size": 167631,
-    "duration": 9.557333333333334,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/guangbo.ogg"
-  },
-  "bsm-8": {
-    "title": "b8-18_cut",
-    "size": 1188425,
-    "duration": 61.46321995464853,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/bsm-8.ogg"
-  },
-  "battle-midgard": {
-    "title": "battle-midgard",
-    "size": 1766847,
-    "duration": 89.792,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-midgard.ogg"
-  },
-  "theme-marcopolo": {
-    "title": "杰出并非凡且伟大_G",
-    "size": 2399835,
-    "duration": 120.02394557823129,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-marcopolo.ogg"
-  },
-  "theme-thehermitix": {
-    "title": "仲裁者赫米忒_RE",
-    "size": 2081752,
-    "duration": 100.65850340136055,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-thehermitix.ogg"
-  },
-  "battle-boss-deepecho": {
-    "title": "bgm-battle-boss-deepecho",
-    "size": 2505985,
-    "duration": 120.02394557823129,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-deepecho.ogg"
-  },
-  "hunhe-eagle": {
-    "title": "07輝ける大海を征く翼　～EAGLEUNION",
-    "size": 2104814,
-    "duration": 103.01866666666666,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/hunhe-eagle.ogg"
-  },
-  "story-richang-2": {
-    "title": "bgm-story-richang-2",
-    "size": 1815560,
-    "duration": 93.248,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-2.ogg"
-  },
-  "login_us_0401": {
-    "title": "login_us_0401",
-    "size": 3101405,
-    "duration": 160.264126984127,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/login_us_0401.ogg"
-  },
-  "theme-thedevilxv": {
-    "title": "仲裁者迪贝路_G",
-    "size": 2587883,
-    "duration": 124.94657596371881,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-thedevilxv.ogg"
-  },
-  "theme-vichy-church": {
-    "title": "圣堂_G",
-    "size": 1943638,
-    "duration": 101.65696145124717,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-vichy-church.ogg"
-  },
-  "ryza-8": {
-    "title": "ryza-8",
-    "size": 3203665,
-    "duration": 164.13866666666667,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ryza-8.ogg"
-  },
-  "doa_daozhong": {
-    "title": "bgm_doa_daozhong",
-    "size": 1071180,
-    "duration": 55.104,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/doa_daozhong.ogg"
-  },
-  "sk-az-story": {
-    "title": "闍埼略鬟惹ｺ大沁_G",
-    "size": 2497979,
-    "duration": 120.55800453514739,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sk-az-story.ogg"
-  },
-  "hunhe-boss": {
-    "title": "bgm-hunhe-boss",
-    "size": 2411078,
-    "duration": 120.02394557823129,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/hunhe-boss.ogg"
-  },
-  "idom-town": {
-    "title": "TOWN_RMX",
-    "size": 2427954,
-    "duration": 109.04090702947846,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/idom-town.ogg"
-  },
-  "sk-home": {
-    "title": "sk-home",
-    "size": 1309575,
-    "duration": 62.86933333333333,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sk-home.ogg"
-  },
-  "theme-musashi-marching": {
-    "title": "theme-musashi-marching",
-    "size": 2291048,
-    "duration": 112.57034013605443,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-musashi-marching.ogg"
-  },
-  "idom-mainbgm": {
-    "title": "MAINBGM_RMX",
-    "size": 2527986,
-    "duration": 116.74993197278911,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/idom-mainbgm.ogg"
-  },
-  "ryza-4": {
-    "title": "ryza-4",
-    "size": 2755299,
-    "duration": 127.808,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ryza-4.ogg"
-  },
-  "doa_story1": {
-    "title": "bgm_doa_story1",
-    "size": 2051324,
-    "duration": 100.43733333333333,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/doa_story1.ogg"
-  },
-  "battle-thehierophantv": {
-    "title": "Call me Hierophant_shade",
-    "size": 2465559,
-    "duration": 123.87845804988662,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-thehierophantv.ogg"
-  },
-  "story-french2": {
-    "title": "bgm-story-french2",
-    "size": 1983309,
-    "duration": 94.45877551020408,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-french2.ogg"
-  },
-  "level": {
-    "title": "BGM3-出征-循环",
-    "size": 2271852,
-    "duration": 108.8087074829932,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/level.ogg"
-  },
-  "theme-richelieu": {
-    "title": "theme-richelieu繧｢繧､繝ｪ繧ｹ鮗嶺ｺｺ",
-    "size": 2975664,
-    "duration": 147.818231292517,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-richelieu.ogg"
-  },
-  "bsm-9": {
-    "title": "b9-AL_theme_siren_2",
-    "size": 1390420,
-    "duration": 65.68925170068027,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/bsm-9.ogg"
-  },
-  "xinnong-1": {
-    "title": "BGM003",
-    "size": 1976529,
-    "duration": 97.38666666666667,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/xinnong-1.ogg"
-  },
-  "theme-thetowerxvi": {
-    "title": "仲裁者托瓦_6th4",
-    "size": 1921383,
-    "duration": 93.34421768707483,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-thetowerxvi.ogg"
-  },
-  "theme-threat-typev": {
-    "title": "隨ｬ莠皮ｱｻ螽∬メ_2nd2",
-    "size": 1799812,
-    "duration": 91.43466666666667,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-threat-typev.ogg"
-  },
-  "echo-loop": {
-    "title": "声呐扫描",
-    "size": 236055,
-    "duration": 32.04353741496599,
-    "bitrate": 88.0,
-    "sample_rate": 22050,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/echo-loop.ogg"
-  },
-  "theme-bismark-reborn": {
-    "title": "豬ｴ轣ｫ閠瑚｡契G",
-    "size": 2527228,
-    "duration": 128.01160997732427,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-bismark-reborn.ogg"
-  },
-  "battle-seirencleaner-theme": {
-    "title": "05_オミッターのテーマ",
-    "size": 2098950,
-    "duration": 101.6105215419501,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-seirencleaner-theme.ogg"
-  },
-  "story-clemenceau-judgement": {
-    "title": "宣告裁决之日_G",
-    "size": 1148183,
-    "duration": 55.913650793650795,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-clemenceau-judgement.ogg"
-  },
-  "hunhe-battle": {
-    "title": "bgm-hunhe-battle",
-    "size": 2356228,
-    "duration": 118.39854875283447,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/hunhe-battle.ogg"
-  },
-  "theme-clemenceau": {
-    "title": "Attendre et espﾃｩrer._G",
-    "size": 2422015,
-    "duration": 121.88154195011337,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-clemenceau.ogg"
-  },
-  "level-french1": {
-    "title": "bgm-level-freanch1",
-    "size": 2666569,
-    "duration": 125.38775510204081,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/level-french1.ogg"
-  },
-  "holo-control": {
-    "title": "holo_I_can't_control_my_self",
-    "size": 4121570,
-    "duration": 204.68390022675737,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/holo-control.ogg"
-  },
-  "ryza-az-pv": {
-    "title": "ryza-az-pv",
-    "size": 1891149,
-    "duration": 97.15229024943311,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ryza-az-pv.ogg"
-  },
-  "ssss-az-pv": {
-    "title": "ssss-az-pv",
-    "size": 2726556,
-    "duration": 123.83201814058957,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ssss-az-pv.ogg"
-  },
-  "bgm-cccp2": {
-    "title": "bgm-cccp2",
-    "size": 2524085,
-    "duration": 127.52399092970522,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/bgm-cccp2.ogg"
-  },
-  "story-thehierophantv": {
-    "title": "Listen to my voice_eden5th05",
-    "size": 1991242,
-    "duration": 90.00533333333334,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-thehierophantv.ogg"
-  },
-  "battle-hightech": {
-    "title": "battle-hightech",
-    "size": 2427731,
-    "duration": 116.3784126984127,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-hightech.ogg"
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/aoi_hougeki-full.ogg"
   },
   "aoi_hougeki-inst-short": {
     "title": "Aoi Hougeki-inst-short",
@@ -455,45 +23,125 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/aoi_hougeki-inst-short.ogg"
   },
-  "theme-aostelab": {
-    "title": "彼方的星与海_2nd3",
-    "size": 1791527,
-    "duration": 90.00533333333334,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-aostelab.ogg"
-  },
-  "battle-crosstheline-elegant": {
-    "title": "霍ｨ雜顔阜髯神6th3",
-    "size": 2192378,
-    "duration": 107.22975056689343,
+  "aoi_hougeki-short": {
+    "title": "Aoi Hougeki-short",
+    "size": 1924871,
+    "duration": 99.8225850340136,
     "bitrate": 160.0,
     "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-crosstheline-elegant.ogg"
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/aoi_hougeki-short.ogg"
   },
-  "theme-midgard-hunting": {
-    "title": "theme-midgard-hunting",
-    "size": 2104133,
-    "duration": 108.9015873015873,
+  "azumaster": {
+    "title": "main_AZURLANE_0918 mix",
+    "size": 5382066,
+    "duration": 251.49866666666668,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/azumaster.ogg"
+  },
+  "azumaster-ins": {
+    "title": "inst_AZURLANE_1018 mix",
+    "size": 5375633,
+    "duration": 251.49866666666668,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/azumaster-ins.ogg"
+  },
+  "backyard": {
+    "title": "BGM2-后宅-循环-01",
+    "size": 922363,
+    "duration": 45.023492063492064,
     "bitrate": 160.0,
     "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-midgard-hunting.ogg"
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/backyard.ogg"
   },
-  "song07": {
-    "title": "逾医ｊ繝弱え繧ｿ ShortSize Final Mixed",
-    "size": 2937911,
-    "duration": 145.00266666666667,
+  "bar-soft": {
+    "title": "bgm-bar-soft",
+    "size": 1363525,
+    "duration": 70.21714285714286,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/bar-soft.ogg"
+  },
+  "battle-1": {
+    "title": "BGM4-謌俶沫1-蠕ｪ邇ｯ",
+    "size": 2490162,
+    "duration": 120.69732426303855,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-1.ogg"
+  },
+  "battle-2": {
+    "title": "BGM5-謌俶沫2-蠕ｪ邇ｯ",
+    "size": 3229033,
+    "duration": 149.65260770975055,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-2.ogg"
+  },
+  "battle-af": {
+    "title": "AZR03_08_R2",
+    "size": 2506418,
+    "duration": 125.5502947845805,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-af.ogg"
+  },
+  "battle-againstfate": {
+    "title": "01_ワタツミを越えて",
+    "size": 2220252,
+    "duration": 103.1198185941043,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-againstfate.ogg"
+  },
+  "battle-arbitrator-type1": {
+    "title": "world_02_re1",
+    "size": 2081743,
+    "duration": 100.65850340136055,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-arbitrator-type1.ogg"
+  },
+  "battle-arcticocean": {
+    "title": "11",
+    "size": 1956574,
+    "duration": 98.38294784580499,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-arcticocean.ogg"
+  },
+  "battle-ash-strong": {
+    "title": "battle-ash-strong霑ｫ繧翫￥繧区雰",
+    "size": 1976715,
+    "duration": 96.02133333333333,
     "bitrate": 160.0,
     "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/song07.ogg"
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-ash-strong.ogg"
   },
-  "story-richang-quiet": {
-    "title": "BZM_05",
-    "size": 2048098,
-    "duration": 102.86933333333333,
+  "battle-ashes-theme": {
+    "title": "13_re1_菴咏Ξ",
+    "size": 2305723,
+    "duration": 116.26231292517006,
     "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-quiet.ogg"
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-ashes-theme.ogg"
+  },
+  "battle-boss-1": {
+    "title": "BGM7-BOSS战1-循环",
+    "size": 2154864,
+    "duration": 98.84734693877552,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-1.ogg"
+  },
+  "battle-boss-2": {
+    "title": "BGM8-BOSS战2-循环",
+    "size": 2953538,
+    "duration": 137.97297052154195,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-2.ogg"
   },
   "battle-boss-3": {
     "title": "BGM9-BOSS战3-改-循环",
@@ -503,134 +151,6 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-3.ogg"
   },
-  "story-richang-9": {
-    "title": "BZM_02",
-    "size": 1856542,
-    "duration": 96.02133333333333,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-9.ogg"
-  },
-  "cw-level": {
-    "title": "bgm-cw-level",
-    "size": 4707227,
-    "duration": 223.40266666666668,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/cw-level.ogg"
-  },
-  "ssss-az-battle-boss": {
-    "title": "ssss-az-battle-boss",
-    "size": 2529614,
-    "duration": 114.72979591836734,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ssss-az-battle-boss.ogg"
-  },
-  "theme-shinanometa": {
-    "title": "bgm-theme-shinanometa",
-    "size": 2387931,
-    "duration": 112.84897959183674,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-shinanometa.ogg"
-  },
-  "song05": {
-    "title": "s05_Cleveland_13 BRIGHT BATTLE STARS",
-    "size": 2093074,
-    "duration": 104.02133333333333,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/song05.ogg"
-  },
-  "login": {
-    "title": "BGM12-逋ｻ蠖慕阜髱｢",
-    "size": 1325915,
-    "duration": 66.08399092970521,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/login.ogg"
-  },
-  "ssss-1114a": {
-    "title": "ssss-1114A",
-    "size": 3007638,
-    "duration": 158.03501133786847,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ssss-1114a.ogg"
-  },
-  "story-3": {
-    "title": "BGM12-剧情BGM3-自然结尾",
-    "size": 1325917,
-    "duration": 66.08399092970521,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-3.ogg"
-  },
-  "theme-yixian-pv-loop": {
-    "title": "鲜逸如初_G",
-    "size": 2505864,
-    "duration": 117.77160997732426,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-yixian-pv-loop.ogg"
-  },
-  "airraidalarm": {
-    "title": "airRaidAlarm",
-    "size": 60279,
-    "duration": 11.888616780045352,
-    "bitrate": 57.0,
-    "sample_rate": 11025,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/airraidalarm.ogg"
-  },
-  "sk-theme-hanzo": {
-    "title": "sk-theme-hanzo",
-    "size": 1404939,
-    "duration": 65.62133333333334,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sk-theme-hanzo.ogg"
-  },
-  "story-nepu1": {
-    "title": "nepu_024_Let's Bake The Cookie!",
-    "size": 3103318,
-    "duration": 141.48266666666666,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-nepu1.ogg"
-  },
-  "cw-story": {
-    "title": "bgm-cw-story",
-    "size": 3797458,
-    "duration": 180.58666666666667,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/cw-story.ogg"
-  },
-  "votefes-up": {
-    "title": "蜀ｳ襍帛､彑PX",
-    "size": 2337045,
-    "duration": 113.792,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/votefes-up.ogg"
-  },
-  "battle-boss-tiancheng": {
-    "title": "al譌･邉ｻbossR",
-    "size": 1950985,
-    "duration": 90.6507029478458,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-tiancheng.ogg"
-  },
-  "story-richang-12": {
-    "title": "BZM_09",
-    "size": 1789156,
-    "duration": 92.82133333333333,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-12.ogg"
-  },
   "battle-boss-4": {
     "title": "AL_battle_boss_2",
     "size": 1291821,
@@ -639,165 +159,53 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-4.ogg"
   },
-  "main-newyear": {
-    "title": "bgm-譁ｰ蟷ｴ2",
-    "size": 2437825,
-    "duration": 123.43727891156463,
+  "battle-boss-5": {
+    "title": "皇家战斗女仆团，出击！",
+    "size": 2780867,
+    "duration": 137.16027210884354,
     "bitrate": 160.0,
     "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/main-newyear.ogg"
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-5.ogg"
   },
-  "hunhe-story": {
-    "title": "BGM002",
-    "size": 1680004,
-    "duration": 90.96533333333333,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/hunhe-story.ogg"
-  },
-  "theme-highseasfleet": {
-    "title": "theme-highseasfleet ",
-    "size": 1757323,
-    "duration": 91.008,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-highseasfleet.ogg"
-  },
-  "ryza-5": {
-    "title": "ryza-5",
-    "size": 2372181,
-    "duration": 120.064,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ryza-5.ogg"
-  },
-  "doa_story3": {
-    "title": "bgm_doa_story3",
-    "size": 4059014,
-    "duration": 198.25066666666666,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/doa_story3.ogg"
-  },
-  "main": {
-    "title": "BGM-荳ｻ逡碁擇17-5-12",
-    "size": 1256977,
-    "duration": 56.726349206349205,
+  "battle-boss-6": {
+    "title": "17-强敌",
+    "size": 1741008,
+    "duration": 88.58412698412698,
     "bitrate": 160.0,
     "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/main.ogg"
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-6.ogg"
   },
-  "story-marcopolo-dream": {
-    "title": "虚伪的圣座_eden2nd14",
-    "size": 1829698,
+  "battle-boss-camelot": {
+    "title": "battle-boss-camelot",
+    "size": 2412193,
+    "duration": 119.21124716553288,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-camelot.ogg"
+  },
+  "battle-boss-deepecho": {
+    "title": "bgm-battle-boss-deepecho",
+    "size": 2505985,
+    "duration": 120.02394557823129,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-deepecho.ogg"
+  },
+  "battle-boss-italy": {
+    "title": "AL005_ItalyBoss_demo03_1",
+    "size": 1000055,
+    "duration": 98.03464852607709,
+    "bitrate": 88.0,
+    "sample_rate": 22050,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-italy.ogg"
+  },
+  "battle-boss-longgong": {
+    "title": "battle-boss-longgong",
+    "size": 1825620,
     "duration": 90.45333333333333,
     "bitrate": 160.0,
     "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-marcopolo-dream.ogg"
-  },
-  "sk-az-battle-boss": {
-    "title": "实验型战忍机铠武装_G",
-    "size": 2199585,
-    "duration": 112.57034013605443,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sk-az-battle-boss.ogg"
-  },
-  "theme-yixian-soft-loop": {
-    "title": "清茶氤氲_G",
-    "size": 2339987,
-    "duration": 125.0162358276644,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-yixian-soft-loop.ogg"
-  },
-  "story-7": {
-    "title": "Az_check_T2",
-    "size": 1798750,
-    "duration": 87.28380952380952,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-7.ogg"
-  },
-  "qe-ova-10": {
-    "title": "10_Barcarole con gioia",
-    "size": 2288116,
-    "duration": 119.63733333333333,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/qe-ova-10.ogg"
-  },
-  "battle-executor-type1": {
-    "title": "world_07",
-    "size": 2612847,
-    "duration": 131.56426303854875,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-executor-type1.ogg"
-  },
-  "wavyflow-inst-short": {
-    "title": "wavyflow-inst-short",
-    "size": 2370036,
-    "duration": 116.37333333333333,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/wavyflow-inst-short.ogg"
-  },
-  "ryza-1": {
-    "title": "ryza-1",
-    "size": 2944680,
-    "duration": 147.24266666666668,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ryza-1.ogg"
-  },
-  "battle-deepecho": {
-    "title": "bgm-battle-deepecho",
-    "size": 1910892,
-    "duration": 96.64145124716553,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-deepecho.ogg"
-  },
-  "story-uta": {
-    "title": "uta-story-驕頑･ｽ",
-    "size": 4827053,
-    "duration": 223.3063038548753,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-uta.ogg"
-  },
-  "star": {
-    "title": "05 髮ｪ荵玖干2",
-    "size": 1996148,
-    "duration": 94.89995464852608,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/star.ogg"
-  },
-  "sailawayjustice-inst": {
-    "title": "繧｢繧ｺ繝ｼ繝ｫ繝ｬ繝ｼ繝ｳ_Sail Away Justice_Final mix_inst",
-    "size": 4756859,
-    "duration": 233.94133333333335,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sailawayjustice-inst.ogg"
-  },
-  "ryza-13": {
-    "title": "ryza-13",
-    "size": 1987971,
-    "duration": 97.68533333333333,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ryza-13.ogg"
-  },
-  "ssss-az-story": {
-    "title": "ssss-az-story",
-    "size": 2493399,
-    "duration": 121.20816326530613,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ssss-az-story.ogg"
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-longgong.ogg"
   },
   "battle-boss-nep1": {
     "title": "nepu_048_URANUS_1411",
@@ -807,21 +215,205 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-nep1.ogg"
   },
-  "sk-theme-gessen": {
-    "title": "sk-theme-gessen",
-    "size": 1516502,
-    "duration": 64.72533333333334,
+  "battle-boss-nep2": {
+    "title": "nepu_004_Outside The Dimension",
+    "size": 3197121,
+    "duration": 150.784,
     "bitrate": 160.0,
     "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sk-theme-gessen.ogg"
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-nep2.ogg"
   },
-  "doa_main_day": {
-    "title": "bgm_doa_main_day",
-    "size": 4191897,
-    "duration": 197.12,
+  "battle-boss-nep3": {
+    "title": "nepu_008_ABSOLUTE_1411",
+    "size": 3019247,
+    "duration": 155.01641723356008,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-nep3.ogg"
+  },
+  "battle-boss-temepest-1": {
+    "title": "鮟第ｰｴ豁ｻ譁誉eden",
+    "size": 1833849,
+    "duration": 88.81066666666666,
     "bitrate": 160.0,
     "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/doa_main_day.ogg"
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-temepest-1.ogg"
+  },
+  "battle-boss-tiancheng": {
+    "title": "al譌･邉ｻbossR",
+    "size": 1950985,
+    "duration": 90.6507029478458,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-tiancheng.ogg"
+  },
+  "battle-boss-ucnf": {
+    "title": "理事会舰队_G",
+    "size": 1649611,
+    "duration": 84.00979591836735,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-ucnf.ogg"
+  },
+  "battle-boss-uta": {
+    "title": "uta-battle-boss-戦火の狼煙",
+    "size": 6279881,
+    "duration": 301.95229024943313,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-uta.ogg"
+  },
+  "battle-camelot": {
+    "title": "battle-camelot",
+    "size": 2216638,
+    "duration": 109.66784580498866,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-camelot.ogg"
+  },
+  "battle-crosstheline-elegant": {
+    "title": "霍ｨ雜顔阜髯神6th3",
+    "size": 2192378,
+    "duration": 107.22975056689343,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-crosstheline-elegant.ogg"
+  },
+  "battle-deepecho": {
+    "title": "bgm-battle-deepecho",
+    "size": 1910892,
+    "duration": 96.64145124716553,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-deepecho.ogg"
+  },
+  "battle-deepecho2": {
+    "title": "bgm-battle-deepecho2",
+    "size": 1601550,
+    "duration": 77.6475283446712,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-deepecho2.ogg"
+  },
+  "battle-executor-type1": {
+    "title": "world_07",
+    "size": 2612847,
+    "duration": 131.56426303854875,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-executor-type1.ogg"
+  },
+  "battle-heroines-image": {
+    "title": "11_超弩級_HEROINES",
+    "size": 1745140,
+    "duration": 89.77066666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-heroines-image.ogg"
+  },
+  "battle-highseasfleet-reborn": {
+    "title": "battle-highseasfleet-reborn",
+    "size": 2717614,
+    "duration": 137.76399092970522,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-highseasfleet-reborn.ogg"
+  },
+  "battle-hightech": {
+    "title": "battle-hightech",
+    "size": 2427731,
+    "duration": 116.3784126984127,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-hightech.ogg"
+  },
+  "battle-inthememory": {
+    "title": "battle in the memory",
+    "size": 1901593,
+    "duration": 90.00533333333334,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-inthememory.ogg"
+  },
+  "battle-italy": {
+    "title": "AL005_ItalyBattle_demo02_1",
+    "size": 911183,
+    "duration": 91.67238095238095,
+    "bitrate": 88.0,
+    "sample_rate": 22050,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-italy.ogg"
+  },
+  "battle-longgong": {
+    "title": "battle-longgong",
+    "size": 1873095,
+    "duration": 90.45333333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-longgong.ogg"
+  },
+  "battle-maid": {
+    "title": "05_闖ｯ鮗励↑繧九Ο繧､繝､繝ｫ繝｡繧､繝蛾嚏 (1)",
+    "size": 2302056,
+    "duration": 116.3784126984127,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-maid.ogg"
+  },
+  "battle-midgard": {
+    "title": "battle-midgard",
+    "size": 1766847,
+    "duration": 89.792,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-midgard.ogg"
+  },
+  "battle-midgard-hunting": {
+    "title": "battle-midgard-hunting",
+    "size": 1744018,
+    "duration": 88.90920634920634,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-midgard-hunting.ogg"
+  },
+  "battle-midgard-up": {
+    "title": "battle-midgard-up",
+    "size": 1727878,
+    "duration": 88.42666666666666,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-midgard-up.ogg"
+  },
+  "battle-nep": {
+    "title": "nepu_025_The Code~Noisy And Calm~",
+    "size": 3513766,
+    "duration": 165.26933333333332,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-nep.ogg"
+  },
+  "battle-nep2": {
+    "title": "nepu_009_VOLTAGE_1411",
+    "size": 4572458,
+    "duration": 236.33269841269842,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-nep2.ogg"
+  },
+  "battle-pacific": {
+    "title": "10",
+    "size": 2578069,
+    "duration": 128.01160997732427,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-pacific.ogg"
+  },
+  "battle-roma-image": {
+    "title": "bgm-battle-roma-image",
+    "size": 1834940,
+    "duration": 89.68533333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-roma-image.ogg"
   },
   "battle-roma-sky": {
     "title": "bgm-battle-roma-sky",
@@ -831,61 +423,77 @@
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-roma-sky.ogg"
   },
-  "holo-tokiwa": {
-    "title": "holo_TOKIWA",
-    "size": 2651332,
-    "duration": 118.72362811791383,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/holo-tokiwa.ogg"
-  },
-  "theme-camelot": {
-    "title": "theme-camelot",
-    "size": 2236935,
-    "duration": 111.82730158730159,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-camelot.ogg"
-  },
-  "main-chunjie5-1": {
-    "title": "寰昌宇定家事忙_G",
-    "size": 1807157,
-    "duration": 87.51600907029479,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/main-chunjie5-1.ogg"
-  },
-  "doa_minigame": {
-    "title": "bgm_doa_minigame",
-    "size": 3905500,
-    "duration": 194.15466666666666,
+  "battle-seiren-theme": {
+    "title": "16_血塗られた輪廻の果てに_～SEIREN",
+    "size": 1868547,
+    "duration": 91.584,
     "bitrate": 160.0,
     "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/doa_minigame.ogg"
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-seiren-theme.ogg"
   },
-  "hunhe-level": {
-    "title": "bgm-hunhe-level",
-    "size": 2429953,
-    "duration": 127.75619047619048,
+  "battle-seirenbasicsystam-theme": {
+    "title": "06_コンダクターのテーマ",
+    "size": 2327280,
+    "duration": 111.43256235827664,
     "bitrate": 160.0,
     "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/hunhe-level.ogg"
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-seirenbasicsystam-theme.ogg"
   },
-  "main-chunjie": {
-    "title": "bgm-spring",
-    "size": 1673789,
-    "duration": 78.39056689342404,
+  "battle-seirencleaner-theme": {
+    "title": "05_オミッターのテーマ",
+    "size": 2098950,
+    "duration": 101.6105215419501,
     "bitrate": 160.0,
     "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/main-chunjie.ogg"
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-seirencleaner-theme.ogg"
   },
-  "story-richang-4": {
-    "title": "bgm-story-richang-4",
-    "size": 1429041,
-    "duration": 67.712,
+  "battle-siren-centraltower": {
+    "title": "自律式作战系统_2nd7",
+    "size": 1859653,
+    "duration": 90.00533333333334,
     "bitrate": 160.0,
     "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-4.ogg"
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-siren-centraltower.ogg"
+  },
+  "battle-starsea-elec": {
+    "title": "星海的战斗_2nd2",
+    "size": 1762468,
+    "duration": 90.688,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-starsea-elec.ogg"
+  },
+  "battle-temepest-1": {
+    "title": "水栖构造体_eden2nd11",
+    "size": 1896365,
+    "duration": 92.07466666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-temepest-1.ogg"
+  },
+  "battle-temepest-2": {
+    "title": "髯ｨ譏溷擒關ｽ荵句綾_eden5th09",
+    "size": 2064844,
+    "duration": 93.35466666666666,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-temepest-2.ogg"
+  },
+  "battle-thedevilxv-control": {
+    "title": "恶魔的裁决_Eden",
+    "size": 1745007,
+    "duration": 91.43466666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-thedevilxv-control.ogg"
+  },
+  "battle-thehierophantv": {
+    "title": "Call me Hierophant_shade",
+    "size": 2465559,
+    "duration": 123.87845804988662,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-thehierophantv.ogg"
   },
   "battle-torch-theme": {
     "title": "16_re1_轣ｫ轤ｬ",
@@ -895,13 +503,325 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-torch-theme.ogg"
   },
-  "theme-musashi-inside": {
-    "title": "bgm-theme-musashi-inside",
-    "size": 2294372,
-    "duration": 115.54249433106575,
+  "battle-ucnf": {
+    "title": "豬ｮ遨ｺ謌倩芦_G",
+    "size": 1954901,
+    "duration": 93.8550566893424,
     "bitrate": 160.0,
     "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-musashi-inside.ogg"
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-ucnf.ogg"
+  },
+  "battle-underholyflag": {
+    "title": "03_アイリスの旗の元で",
+    "size": 2192624,
+    "duration": 112.15238095238095,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-underholyflag.ogg"
+  },
+  "battle-undermoon": {
+    "title": "09_月下の安眠",
+    "size": 2416633,
+    "duration": 119.11836734693877,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-undermoon.ogg"
+  },
+  "battle-unknown-approaching": {
+    "title": "SOMETHINGISAPPROACHING_G",
+    "size": 2360627,
+    "duration": 120.02394557823129,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-unknown-approaching.ogg"
+  },
+  "battle-unzen-1": {
+    "title": "一叶渡黄泉_eden5th07",
+    "size": 1816674,
+    "duration": 90.45333333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-unzen-1.ogg"
+  },
+  "battle-unzen-2": {
+    "title": "陜ｶ蠖ｱ鄙ｩ辟ｶ_eden5th08",
+    "size": 2013137,
+    "duration": 90.45333333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-unzen-2.ogg"
+  },
+  "battle-uta": {
+    "title": "uta-battle-天啓の地",
+    "size": 3231789,
+    "duration": 160.49632653061224,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-uta.ogg"
+  },
+  "battle-warprotocol": {
+    "title": "謌倅ｺ牙刻隶ｮ蟾ｲ謗･蜈･_eden5th12",
+    "size": 1816090,
+    "duration": 90.15466666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-warprotocol.ogg"
+  },
+  "battle-whaling-normal": {
+    "title": "不准确狩猎_6th02",
+    "size": 3118702,
+    "duration": 151.06902494331067,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-whaling-normal.ogg"
+  },
+  "battle-xinnong-image": {
+    "title": "battle-xinnong-image",
+    "size": 3208606,
+    "duration": 156.096,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-xinnong-image.ogg"
+  },
+  "beverly_short_eng": {
+    "title": "Beverly_short_eng",
+    "size": 2132280,
+    "duration": 105.00266666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/beverly_short_eng.ogg"
+  },
+  "beverly_short_inst": {
+    "title": "Beverly_short_inst",
+    "size": 2125167,
+    "duration": 105.00266666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/beverly_short_inst.ogg"
+  },
+  "beverly_short_jp": {
+    "title": "Beverly_short_jp",
+    "size": 2138726,
+    "duration": 105.00266666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/beverly_short_jp.ogg"
+  },
+  "bgm-cccp": {
+    "title": "bgm-cccp",
+    "size": 2569676,
+    "duration": 123.87845804988662,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/bgm-cccp.ogg"
+  },
+  "bgm-cccp2": {
+    "title": "bgm-cccp2",
+    "size": 2524085,
+    "duration": 127.52399092970522,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/bgm-cccp2.ogg"
+  },
+  "bgm-cccp3": {
+    "title": "bgm-cccp3",
+    "size": 2345304,
+    "duration": 123.99455782312926,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/bgm-cccp3.ogg"
+  },
+  "bgm-royalnavy": {
+    "title": "06我らの栄光に集え　～ROYAL NAVY",
+    "size": 1774408,
+    "duration": 91.072,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/bgm-royalnavy.ogg"
+  },
+  "bgm-waterwave": {
+    "title": "bgm-waterwave",
+    "size": 314094,
+    "duration": 19.17866666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/bgm-waterwave.ogg"
+  },
+  "blueocean-image": {
+    "title": "大洋",
+    "size": 1808399,
+    "duration": 90.88290249433106,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/blueocean-image.ogg"
+  },
+  "bsm-1": {
+    "title": "b1-11_始まりの災厄",
+    "size": 1083529,
+    "duration": 108.29786848072563,
+    "bitrate": 88.0,
+    "sample_rate": 22050,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/bsm-1.ogg"
+  },
+  "bsm-10": {
+    "title": "b10-PV01_remix",
+    "size": 1140293,
+    "duration": 55.3795918367347,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/bsm-10.ogg"
+  },
+  "bsm-2": {
+    "title": "b2-13_過去の観測者",
+    "size": 1267898,
+    "duration": 126.1772335600907,
+    "bitrate": 88.0,
+    "sample_rate": 22050,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/bsm-2.ogg"
+  },
+  "bsm-3": {
+    "title": "b3-背水一战",
+    "size": 1224400,
+    "duration": 122.04408163265306,
+    "bitrate": 88.0,
+    "sample_rate": 22050,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/bsm-3.ogg"
+  },
+  "bsm-4": {
+    "title": "b4-Also sprach Zarathustra",
+    "size": 669585,
+    "duration": 66.13043083900227,
+    "bitrate": 88.0,
+    "sample_rate": 22050,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/bsm-4.ogg"
+  },
+  "bsm-5": {
+    "title": "b5-蝗樊雷譖ｲ",
+    "size": 710749,
+    "duration": 67.75582766439909,
+    "bitrate": 88.0,
+    "sample_rate": 22050,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/bsm-5.ogg"
+  },
+  "bsm-6": {
+    "title": "b6-铁血(piano)",
+    "size": 555560,
+    "duration": 67.52362811791383,
+    "bitrate": 88.0,
+    "sample_rate": 22050,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/bsm-6.ogg"
+  },
+  "bsm-7": {
+    "title": "b7-土耳其进行曲",
+    "size": 1120973,
+    "duration": 111.2235827664399,
+    "bitrate": 88.0,
+    "sample_rate": 22050,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/bsm-7.ogg"
+  },
+  "bsm-8": {
+    "title": "b8-18_cut",
+    "size": 1188425,
+    "duration": 61.46321995464853,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/bsm-8.ogg"
+  },
+  "bsm-9": {
+    "title": "b9-AL_theme_siren_2",
+    "size": 1390420,
+    "duration": 65.68925170068027,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/bsm-9.ogg"
+  },
+  "china-party": {
+    "title": "bgm-china-party",
+    "size": 2124331,
+    "duration": 108.39074829931972,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/china-party.ogg"
+  },
+  "cw-battle-boss": {
+    "title": "12_響け撃音、轟かせ雷光　～SAKURA EMPIRE",
+    "size": 2004898,
+    "duration": 99.66933333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/cw-battle-boss.ogg"
+  },
+  "cw-level": {
+    "title": "bgm-cw-level",
+    "size": 4707227,
+    "duration": 223.40266666666668,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/cw-level.ogg"
+  },
+  "cw-story": {
+    "title": "bgm-cw-story",
+    "size": 3797458,
+    "duration": 180.58666666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/cw-story.ogg"
+  },
+  "deepblue-image": {
+    "title": "08_月下の戦闘",
+    "size": 1860803,
+    "duration": 97.96498866213152,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/deepblue-image.ogg"
+  },
+  "diego": {
+    "title": "私はNo",
+    "size": 842406,
+    "duration": 72.95709750566894,
+    "bitrate": 88.0,
+    "sample_rate": 22050,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/diego.ogg"
+  },
+  "doa_boss": {
+    "title": "bgm_doa_boss",
+    "size": 4417372,
+    "duration": 210.60266666666666,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/doa_boss.ogg"
+  },
+  "doa_daozhong": {
+    "title": "bgm_doa_daozhong",
+    "size": 1071180,
+    "duration": 55.104,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/doa_daozhong.ogg"
+  },
+  "doa_guanqia": {
+    "title": "bgm_doa_guanqia",
+    "size": 3120474,
+    "duration": 142.656,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/doa_guanqia.ogg"
+  },
+  "doa_huanzhuang": {
+    "title": "bgm_doa_huanzhuang",
+    "size": 2641528,
+    "duration": 117.568,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/doa_huanzhuang.ogg"
+  },
+  "doa_main_day": {
+    "title": "bgm_doa_main_day",
+    "size": 4191897,
+    "duration": 197.12,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/doa_main_day.ogg"
   },
   "doa_main_night": {
     "title": "bgm_doa_main_night",
@@ -911,21 +831,349 @@
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/doa_main_night.ogg"
   },
-  "theme-royalknights-battle": {
-    "title": "theme-royalknights-battle騎士団進撃",
-    "size": 1937887,
-    "duration": 90.45333333333333,
+  "doa_minigame": {
+    "title": "bgm_doa_minigame",
+    "size": 3905500,
+    "duration": 194.15466666666666,
     "bitrate": 160.0,
     "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-royalknights-battle.ogg"
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/doa_minigame.ogg"
   },
-  "story-temepest-1": {
-    "title": "莠大｢吩ｹ倶ｸ祇G",
-    "size": 1017926,
-    "duration": 53.68453514739229,
+  "doa_story1": {
+    "title": "bgm_doa_story1",
+    "size": 2051324,
+    "duration": 100.43733333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/doa_story1.ogg"
+  },
+  "doa_story3": {
+    "title": "bgm_doa_story3",
+    "size": 4059014,
+    "duration": 198.25066666666666,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/doa_story3.ogg"
+  },
+  "echo-loop": {
+    "title": "声呐扫描",
+    "size": 236055,
+    "duration": 32.04353741496599,
+    "bitrate": 88.0,
+    "sample_rate": 22050,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/echo-loop.ogg"
+  },
+  "guangbo": {
+    "title": "guangbo",
+    "size": 167631,
+    "duration": 9.557333333333334,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/guangbo.ogg"
+  },
+  "holo-aqua": {
+    "title": "holo_湊阿库娅_楽しい時間はあっという間に",
+    "size": 2157158,
+    "duration": 99.00988662131519,
     "bitrate": 160.0,
     "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-temepest-1.ogg"
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/holo-aqua.ogg"
+  },
+  "holo-ayame": {
+    "title": "holo_百鬼绫目_Yumesakura【和風EDM】",
+    "size": 4658013,
+    "duration": 209.83873015873016,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/holo-ayame.ogg"
+  },
+  "holo-control": {
+    "title": "holo_I_can't_control_my_self",
+    "size": 4121570,
+    "duration": 204.68390022675737,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/holo-control.ogg"
+  },
+  "holo-control-inst": {
+    "title": "holo_I_can't_control_my_self_inst",
+    "size": 4088102,
+    "duration": 204.68390022675737,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/holo-control-inst.ogg"
+  },
+  "holo-fbk": {
+    "title": "holo_逋ｽ荳雁聖髮ｪ_Brand New Life_inst",
+    "size": 2881470,
+    "duration": 135.76707482993197,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/holo-fbk.ogg"
+  },
+  "holo-fff": {
+    "title": "holo_Fake_Fake_Fake",
+    "size": 5215501,
+    "duration": 230.59736961451247,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/holo-fff.ogg"
+  },
+  "holo-fff-inst": {
+    "title": "holo_Fake_Fake_Fake_inst",
+    "size": 5072007,
+    "duration": 230.59736961451247,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/holo-fff-inst.ogg"
+  },
+  "holo-inochi": {
+    "title": "holo_inochi",
+    "size": 5467524,
+    "duration": 271.6734693877551,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/holo-inochi.ogg"
+  },
+  "holo-inochi-inst": {
+    "title": "holo_inochi_inst",
+    "size": 5353750,
+    "duration": 271.6734693877551,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/holo-inochi-inst.ogg"
+  },
+  "holo-matsuri": {
+    "title": "holo_螟剰牡逾ｭ_縺顔･ｭ繧翫ョ繧｣繧ｹ繧ｳ",
+    "size": 2943812,
+    "duration": 133.42185941043084,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/holo-matsuri.ogg"
+  },
+  "holo-mio": {
+    "title": "holo_螟ｧ逾樊ｾｪ_Hometown",
+    "size": 2036838,
+    "duration": 87.33024943310657,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/holo-mio.ogg"
+  },
+  "holo-shion": {
+    "title": "holo_邏ｫ蜥ｲ隸鈴浹_Shopping day",
+    "size": 2185582,
+    "duration": 104.35047619047619,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/holo-shion.ogg"
+  },
+  "holo-sora": {
+    "title": "holo_时乃空_あめあがりのカレイドスコープ",
+    "size": 2985820,
+    "duration": 142.76266666666666,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/holo-sora.ogg"
+  },
+  "holo-sss": {
+    "title": "holo_ShinySmilyStory",
+    "size": 5380091,
+    "duration": 255.72266666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/holo-sss.ogg"
+  },
+  "holo-sss-inst": {
+    "title": "holo_ShinySmilyStory_inst",
+    "size": 5471987,
+    "duration": 255.72266666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/holo-sss-inst.ogg"
+  },
+  "holo-tokiwa": {
+    "title": "holo_TOKIWA",
+    "size": 2651332,
+    "duration": 118.72362811791383,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/holo-tokiwa.ogg"
+  },
+  "hunhe-battle": {
+    "title": "bgm-hunhe-battle",
+    "size": 2356228,
+    "duration": 118.39854875283447,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/hunhe-battle.ogg"
+  },
+  "hunhe-boss": {
+    "title": "bgm-hunhe-boss",
+    "size": 2411078,
+    "duration": 120.02394557823129,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/hunhe-boss.ogg"
+  },
+  "hunhe-eagle": {
+    "title": "07輝ける大海を征く翼　～EAGLEUNION",
+    "size": 2104814,
+    "duration": 103.01866666666666,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/hunhe-eagle.ogg"
+  },
+  "hunhe-level": {
+    "title": "bgm-hunhe-level",
+    "size": 2429953,
+    "duration": 127.75619047619048,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/hunhe-level.ogg"
+  },
+  "hunhe-story": {
+    "title": "BGM002",
+    "size": 1680004,
+    "duration": 90.96533333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/hunhe-story.ogg"
+  },
+  "idol-bluespirit-inst": {
+    "title": "Blue Spirit ShortSize Inst Mixed",
+    "size": 2088649,
+    "duration": 107.648,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/idol-bluespirit-inst.ogg"
+  },
+  "idol-inorinouta-inst": {
+    "title": "逾医ｊ繝弱え繧ｿ ShortSize Inst Mixed",
+    "size": 2972385,
+    "duration": 145.00266666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/idol-inorinouta-inst.ogg"
+  },
+  "idol-kannjouloyalty-inst": {
+    "title": "濶ｦ荳貝OYALTY ShortSize Inst Mixed",
+    "size": 2037578,
+    "duration": 106.19733333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/idol-kannjouloyalty-inst.ogg"
+  },
+  "idol-wishness-inst": {
+    "title": "繧｢繧ｺ繝ｼ繝ｫ繝ｬ繝ｼ繝ｳ_WISHNESS_ShortSize_Final_Inst",
+    "size": 2032564,
+    "duration": 99.136,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/idol-wishness-inst.ogg"
+  },
+  "idom-appeal": {
+    "title": "APPEAL_RMX",
+    "size": 1416681,
+    "duration": 64.48181405895691,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/idom-appeal.ogg"
+  },
+  "idom-gomyway": {
+    "title": "34 GO MY WAY!! (SHORT VERSION)",
+    "size": 2606444,
+    "duration": 123.78557823129252,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/idom-gomyway.ogg"
+  },
+  "idom-mainbgm": {
+    "title": "MAINBGM_RMX",
+    "size": 2527986,
+    "duration": 116.74993197278911,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/idom-mainbgm.ogg"
+  },
+  "idom-speed": {
+    "title": "SPEED_RMX",
+    "size": 1624175,
+    "duration": 76.69551020408163,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/idom-speed.ogg"
+  },
+  "idom-tender": {
+    "title": "TENDER_RMX",
+    "size": 1984844,
+    "duration": 91.50984126984127,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/idom-tender.ogg"
+  },
+  "idom-theidolm@ster": {
+    "title": "THE IDOLM@STER(Movie ver)",
+    "size": 3535801,
+    "duration": 167.8338321995465,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/idom-theidolm@ster.ogg"
+  },
+  "idom-thinking": {
+    "title": "THINKING_RMX",
+    "size": 980549,
+    "duration": 49.11020408163265,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/idom-thinking.ogg"
+  },
+  "idom-town": {
+    "title": "TOWN_RMX",
+    "size": 2427954,
+    "duration": 109.04090702947846,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/idom-town.ogg"
+  },
+  "level": {
+    "title": "BGM3-出征-循环",
+    "size": 2271852,
+    "duration": 108.8087074829932,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/level.ogg"
+  },
+  "level-french1": {
+    "title": "bgm-level-freanch1",
+    "size": 2666569,
+    "duration": 125.38775510204081,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/level-french1.ogg"
+  },
+  "level-french2": {
+    "title": "bgm-level-french2",
+    "size": 1994472,
+    "duration": 94.22657596371882,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/level-french2.ogg"
+  },
+  "level-nep": {
+    "title": "nepu_001_Sailing Of A Day dream",
+    "size": 3061788,
+    "duration": 139.92533333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/level-nep.ogg"
+  },
+  "level-nep2": {
+    "title": "nepu_037_WILL BE VENUS_1411",
+    "size": 2828024,
+    "duration": 139.45904761904762,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/level-nep2.ogg"
   },
   "level-uta": {
     "title": "uta-level-乱世の到来",
@@ -943,373 +1191,53 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/level02.ogg"
   },
-  "theme-ucnf-flagship": {
-    "title": "联合理事会之骄傲_eden5th13",
-    "size": 1831635,
-    "duration": 90.15466666666667,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-ucnf-flagship.ogg"
-  },
-  "doa_boss": {
-    "title": "bgm_doa_boss",
-    "size": 4417372,
-    "duration": 210.60266666666666,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/doa_boss.ogg"
-  },
-  "main-ashes-theme": {
-    "title": "12_菴咏Ξ_2",
-    "size": 2296472,
-    "duration": 116.26231292517006,
+  "level03": {
+    "title": "皇家主场BGM",
+    "size": 3411094,
+    "duration": 171.45614512471656,
     "bitrate": 160.0,
     "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/main-ashes-theme.ogg"
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/level03.ogg"
   },
-  "holo-fff-inst": {
-    "title": "holo_Fake_Fake_Fake_inst",
-    "size": 5072007,
-    "duration": 230.59736961451247,
+  "login": {
+    "title": "BGM12-逋ｻ蠖慕阜髱｢",
+    "size": 1325915,
+    "duration": 66.08399092970521,
     "bitrate": 160.0,
     "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/holo-fff-inst.ogg"
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/login.ogg"
   },
-  "doa_guanqia": {
-    "title": "bgm_doa_guanqia",
-    "size": 3120474,
-    "duration": 142.656,
+  "login-2022401jp": {
+    "title": "Azurlane2022_BGM16_EDEN_2mix_0214",
+    "size": 2093297,
+    "duration": 102.272,
     "bitrate": 160.0,
     "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/doa_guanqia.ogg"
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/login-2022401jp.ogg"
   },
-  "battle-boss-longgong": {
-    "title": "battle-boss-longgong",
-    "size": 1825620,
-    "duration": 90.45333333333333,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-longgong.ogg"
-  },
-  "song01": {
-    "title": "s01_band",
-    "size": 2181586,
-    "duration": 103.424,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/song01.ogg"
-  },
-  "battle-boss-camelot": {
-    "title": "battle-boss-camelot",
-    "size": 2412193,
-    "duration": 119.21124716553288,
+  "login-2022401us": {
+    "title": "Azur Lane - Remix - Loading Page JoJo April Fools - SMAMIX1B (Vocals Up)",
+    "size": 3326081,
+    "duration": 157.94213151927437,
     "bitrate": 160.0,
     "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-camelot.ogg"
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/login-2022401us.ogg"
   },
-  "theme-tempest": {
-    "title": "黄金鹿与白银蛸_2nd10",
-    "size": 3099508,
-    "duration": 151.50933333333333,
+  "login-jp-20230914": {
+    "title": "日服6周年登陆界面主题曲",
+    "size": 1975031,
+    "duration": 95.296,
     "bitrate": 160.0,
     "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-tempest.ogg"
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/login-jp-20230914.ogg"
   },
-  "story-roma-inside": {
-    "title": "bgm-story-roma-inside",
-    "size": 2433964,
-    "duration": 118.39854875283447,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-roma-inside.ogg"
-  },
-  "theme-sakuraholyplace": {
-    "title": "神木之殇_eden5th06",
-    "size": 1851918,
-    "duration": 96.02133333333333,
+  "login-orchestral-ver": {
+    "title": "azln_qo_pr_azjam_蜃ｺ闊ｪ_豈肴ｸｯ",
+    "size": 2766810,
+    "duration": 148.01066666666668,
     "bitrate": 160.0,
     "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-sakuraholyplace.ogg"
-  },
-  "us20200401": {
-    "title": "Azur Lane remix demo3",
-    "size": 1768030,
-    "duration": 87.07482993197279,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/us20200401.ogg"
-  },
-  "story-oldcastle-carnival": {
-    "title": "髮ｨ螟懃汲谺｢_G",
-    "size": 1126165,
-    "duration": 57.19074829931973,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-oldcastle-carnival.ogg"
-  },
-  "story-tiancheng": {
-    "title": "AL005_jpStory_fin",
-    "size": 2421593,
-    "duration": 112.17560090702948,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-tiancheng.ogg"
-  },
-  "story-richang-6": {
-    "title": "bgm-story-richang-6",
-    "size": 2593757,
-    "duration": 125.80266666666667,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-6.ogg"
-  },
-  "xinnong-3": {
-    "title": "BGM013",
-    "size": 3298274,
-    "duration": 156.992,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/xinnong-3.ogg"
-  },
-  "theme-ijndailymeeting": {
-    "title": "05_鮮やかな権謀術数",
-    "size": 3588457,
-    "duration": 169.30133333333333,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-ijndailymeeting.ogg"
-  },
-  "battle-arbitrator-type1": {
-    "title": "world_02_re1",
-    "size": 2081743,
-    "duration": 100.65850340136055,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-arbitrator-type1.ogg"
-  },
-  "battle-ash-strong": {
-    "title": "battle-ash-strong霑ｫ繧翫￥繧区雰",
-    "size": 1976715,
-    "duration": 96.02133333333333,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-ash-strong.ogg"
-  },
-  "battle-unzen-1": {
-    "title": "一叶渡黄泉_eden5th07",
-    "size": 1816674,
-    "duration": 90.45333333333333,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-unzen-1.ogg"
-  },
-  "ryza-az-theme": {
-    "title": "ryza-az-theme",
-    "size": 2463909,
-    "duration": 121.1849433106576,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ryza-az-theme.ogg"
-  },
-  "song10": {
-    "title": "繧｢繧ｺ繝ｼ繝ｫ繝ｬ繝ｼ繝ｳ_WISHNESS_ShortSize_Final",
-    "size": 2060053,
-    "duration": 99.136,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/song10.ogg"
-  },
-  "story-richang-10": {
-    "title": "BZM_03",
-    "size": 1575498,
-    "duration": 77.20533333333333,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-10.ogg"
-  },
-  "story-richang-5": {
-    "title": "bgm-story-richang-5",
-    "size": 1336448,
-    "duration": 68.58666666666667,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-5.ogg"
-  },
-  "theme-summersky": {
-    "title": "豬ｷ貊ｩ荳主∞譌･",
-    "size": 2445995,
-    "duration": 121.34748299319727,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-summersky.ogg"
-  },
-  "sk-menu": {
-    "title": "sk-menu",
-    "size": 1418032,
-    "duration": 63.59466666666667,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sk-menu.ogg"
-  },
-  "battle-roma-image": {
-    "title": "bgm-battle-roma-image",
-    "size": 1834940,
-    "duration": 89.68533333333333,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-roma-image.ogg"
-  },
-  "story-musicanniversary-gorgeous": {
-    "title": "庆典与金色乐章_G",
-    "size": 1908320,
-    "duration": 96.38603174603175,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-musicanniversary-gorgeous.ogg"
-  },
-  "sk-theme-guren": {
-    "title": "sk-theme-guren",
-    "size": 1393391,
-    "duration": 64.17066666666666,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sk-theme-guren.ogg"
-  },
-  "battle-uta": {
-    "title": "uta-battle-天啓の地",
-    "size": 3231789,
-    "duration": 160.49632653061224,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-uta.ogg"
-  },
-  "battle-underholyflag": {
-    "title": "03_アイリスの旗の元で",
-    "size": 2192624,
-    "duration": 112.15238095238095,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-underholyflag.ogg"
-  },
-  "theme-starsea-explo": {
-    "title": "迈向未来的探索_PV",
-    "size": 1561719,
-    "duration": 75.37197278911565,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-starsea-explo.ogg"
-  },
-  "theme-schoolfuture": {
-    "title": "SF蟄ｦ髯｢_Shade",
-    "size": 2055677,
-    "duration": 97.57024943310658,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-schoolfuture.ogg"
-  },
-  "battle-camelot": {
-    "title": "battle-camelot",
-    "size": 2216638,
-    "duration": 109.66784580498866,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-camelot.ogg"
-  },
-  "wavyflow-short": {
-    "title": "wavyflow-short",
-    "size": 2377355,
-    "duration": 116.37333333333333,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/wavyflow-short.ogg"
-  },
-  "cw-battle-boss": {
-    "title": "12_響け撃音、轟かせ雷光　～SAKURA EMPIRE",
-    "size": 2004898,
-    "duration": 99.66933333333333,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/cw-battle-boss.ogg"
-  },
-  "song03": {
-    "title": "s03_Unicorn_FinalMix",
-    "size": 3168494,
-    "duration": 156.13097505668935,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/song03.ogg"
-  },
-  "story-richang-relax": {
-    "title": "BZM_28",
-    "size": 1263080,
-    "duration": 69.93066666666667,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-relax.ogg"
-  },
-  "battle-whaling-normal": {
-    "title": "不准确狩猎_6th02",
-    "size": 3118702,
-    "duration": 151.06902494331067,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-whaling-normal.ogg"
-  },
-  "idom-speed": {
-    "title": "SPEED_RMX",
-    "size": 1624175,
-    "duration": 76.69551020408163,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/idom-speed.ogg"
-  },
-  "song08": {
-    "title": "濶ｦ荳貝OYALTY ShortSize Final Mixed",
-    "size": 2049752,
-    "duration": 106.19733333333333,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/song08.ogg"
-  },
-  "battle-temepest-1": {
-    "title": "水栖构造体_eden2nd11",
-    "size": 1896365,
-    "duration": 92.07466666666667,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-temepest-1.ogg"
-  },
-  "story-richang-7": {
-    "title": "bgm-story-richang-7",
-    "size": 1366900,
-    "duration": 69.248,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-7.ogg"
-  },
-  "theme-richard": {
-    "title": "theme-richard迢ゆｹｱ縺ｮMETA",
-    "size": 2604659,
-    "duration": 125.22521541950114,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-richard.ogg"
-  },
-  "battle-undermoon": {
-    "title": "09_月下の安眠",
-    "size": 2416633,
-    "duration": 119.11836734693877,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-undermoon.ogg"
-  },
-  "map-longgong": {
-    "title": "map-longgong",
-    "size": 1795944,
-    "duration": 92.33066666666667,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/map-longgong.ogg"
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/login-orchestral-ver.ogg"
   },
   "login_0401": {
     "title": "8bit",
@@ -1319,29 +1247,645 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/login_0401.ogg"
   },
-  "battle-1": {
-    "title": "BGM4-謌俶沫1-蠕ｪ邇ｯ",
-    "size": 2490162,
-    "duration": 120.69732426303855,
+  "login_us_0401": {
+    "title": "login_us_0401",
+    "size": 3101405,
+    "duration": 160.264126984127,
     "bitrate": 160.0,
     "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-1.ogg"
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/login_us_0401.ogg"
   },
-  "story-roma-outside": {
-    "title": "bgm-story-roma-outside",
-    "size": 2576522,
-    "duration": 118.16634920634921,
+  "main": {
+    "title": "BGM-荳ｻ逡碁擇17-5-12",
+    "size": 1256977,
+    "duration": 56.726349206349205,
     "bitrate": 160.0,
     "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-roma-outside.ogg"
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/main.ogg"
   },
-  "idom-gomyway": {
-    "title": "34 GO MY WAY!! (SHORT VERSION)",
-    "size": 2606444,
-    "duration": 123.78557823129252,
+  "main-arbitrationsystem-theme": {
+    "title": "14_莉ｲ陬∵惻蜈ｳ",
+    "size": 2714306,
+    "duration": 131.56426303854875,
     "bitrate": 160.0,
     "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/idom-gomyway.ogg"
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/main-arbitrationsystem-theme.ogg"
+  },
+  "main-ashes-theme": {
+    "title": "12_菴咏Ξ_2",
+    "size": 2296472,
+    "duration": 116.26231292517006,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/main-ashes-theme.ogg"
+  },
+  "main-christmas": {
+    "title": "BGM-圣诞",
+    "size": 2585881,
+    "duration": 116.88925170068028,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/main-christmas.ogg"
+  },
+  "main-chunjie": {
+    "title": "bgm-spring",
+    "size": 1673789,
+    "duration": 78.39056689342404,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/main-chunjie.ogg"
+  },
+  "main-chunjie-pv": {
+    "title": "main-chunjie-pv",
+    "size": 3243222,
+    "duration": 157.5241723356009,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/main-chunjie-pv.ogg"
+  },
+  "main-chunjie2": {
+    "title": "spring_2021",
+    "size": 2901804,
+    "duration": 136.98133333333334,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/main-chunjie2.ogg"
+  },
+  "main-chunjie3": {
+    "title": "main-chunjie3",
+    "size": 2413559,
+    "duration": 117.60907029478459,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/main-chunjie3.ogg"
+  },
+  "main-chunjie4-1": {
+    "title": "main-chunjie4-1",
+    "size": 884123,
+    "duration": 44.00181405895692,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/main-chunjie4-1.ogg"
+  },
+  "main-chunjie4-2": {
+    "title": "main-chunjie4-2",
+    "size": 1875218,
+    "duration": 90.67392290249433,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/main-chunjie4-2.ogg"
+  },
+  "main-chunjie5-1": {
+    "title": "寰昌宇定家事忙_G",
+    "size": 1807157,
+    "duration": 87.51600907029479,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/main-chunjie5-1.ogg"
+  },
+  "main-newyear": {
+    "title": "bgm-譁ｰ蟷ｴ2",
+    "size": 2437825,
+    "duration": 123.43727891156463,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/main-newyear.ogg"
+  },
+  "main-seaandsun": {
+    "title": "海风与夏日的无人岛_G",
+    "size": 2102231,
+    "duration": 99.008,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/main-seaandsun.ogg"
+  },
+  "main-uta": {
+    "title": "uta-main-ウタツグミ",
+    "size": 4449933,
+    "duration": 204.21950113378685,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/main-uta.ogg"
+  },
+  "map-longgong": {
+    "title": "map-longgong",
+    "size": 1795944,
+    "duration": 92.33066666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/map-longgong.ogg"
+  },
+  "musashi-1": {
+    "title": "bgm-musashi-1",
+    "size": 1971102,
+    "duration": 90.816,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/musashi-1.ogg"
+  },
+  "musashi-2": {
+    "title": "bgm-musashi-2",
+    "size": 3021533,
+    "duration": 150.50666666666666,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/musashi-2.ogg"
+  },
+  "nagato-boss": {
+    "title": "nagato_boss",
+    "size": 2525049,
+    "duration": 126.1772335600907,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/nagato-boss.ogg"
+  },
+  "nagato-map": {
+    "title": "nagato_map",
+    "size": 3042329,
+    "duration": 144.63709750566895,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/nagato-map.ogg"
+  },
+  "newyear": {
+    "title": "BGM-譁ｰ蟷ｴ",
+    "size": 1938952,
+    "duration": 94.43555555555555,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/newyear.ogg"
+  },
+  "newyear2": {
+    "title": "BGM-譁ｰ蟷ｴ",
+    "size": 1938952,
+    "duration": 94.43555555555555,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/newyear2.ogg"
+  },
+  "qe-ova-1": {
+    "title": "01_Divertimento",
+    "size": 1938660,
+    "duration": 103.76533333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/qe-ova-1.ogg"
+  },
+  "qe-ova-10": {
+    "title": "10_Barcarole con gioia",
+    "size": 2288116,
+    "duration": 119.63733333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/qe-ova-10.ogg"
+  },
+  "qe-ova-12": {
+    "title": "12_Merci mille fois",
+    "size": 1565218,
+    "duration": 82.77333333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/qe-ova-12.ogg"
+  },
+  "qe-ova-15": {
+    "title": "15_Waltz of Water Ripples (Elizabeth size)",
+    "size": 825486,
+    "duration": 41.00266666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/qe-ova-15.ogg"
+  },
+  "qe-ova-9": {
+    "title": "09_Allegro alla marcia",
+    "size": 1527381,
+    "duration": 81.77066666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/qe-ova-9.ogg"
+  },
+  "ryza-1": {
+    "title": "ryza-1",
+    "size": 2944680,
+    "duration": 147.24266666666668,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ryza-1.ogg"
+  },
+  "ryza-10": {
+    "title": "ryza-10",
+    "size": 1010138,
+    "duration": 51.584,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ryza-10.ogg"
+  },
+  "ryza-11": {
+    "title": "ryza-11",
+    "size": 1727302,
+    "duration": 82.688,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ryza-11.ogg"
+  },
+  "ryza-12": {
+    "title": "ryza-12",
+    "size": 688925,
+    "duration": 38.165333333333336,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ryza-12.ogg"
+  },
+  "ryza-13": {
+    "title": "ryza-13",
+    "size": 1987971,
+    "duration": 97.68533333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ryza-13.ogg"
+  },
+  "ryza-2": {
+    "title": "ryza-2",
+    "size": 2037578,
+    "duration": 96.96,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ryza-2.ogg"
+  },
+  "ryza-3": {
+    "title": "ryza-3",
+    "size": 2788594,
+    "duration": 146.19733333333335,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ryza-3.ogg"
+  },
+  "ryza-4": {
+    "title": "ryza-4",
+    "size": 2755299,
+    "duration": 127.808,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ryza-4.ogg"
+  },
+  "ryza-5": {
+    "title": "ryza-5",
+    "size": 2372181,
+    "duration": 120.064,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ryza-5.ogg"
+  },
+  "ryza-6": {
+    "title": "ryza-6",
+    "size": 2729493,
+    "duration": 135.50933333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ryza-6.ogg"
+  },
+  "ryza-7": {
+    "title": "ryza-7",
+    "size": 2539917,
+    "duration": 124.8,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ryza-7.ogg"
+  },
+  "ryza-8": {
+    "title": "ryza-8",
+    "size": 3203665,
+    "duration": 164.13866666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ryza-8.ogg"
+  },
+  "ryza-9": {
+    "title": "ryza-9",
+    "size": 3249897,
+    "duration": 160.93866666666668,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ryza-9.ogg"
+  },
+  "ryza-az-battle": {
+    "title": "ryza-az-battle",
+    "size": 2415068,
+    "duration": 116.33197278911565,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ryza-az-battle.ogg"
+  },
+  "ryza-az-pv": {
+    "title": "ryza-az-pv",
+    "size": 1891149,
+    "duration": 97.15229024943311,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ryza-az-pv.ogg"
+  },
+  "ryza-az-theme": {
+    "title": "ryza-az-theme",
+    "size": 2463909,
+    "duration": 121.1849433106576,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ryza-az-theme.ogg"
+  },
+  "sailawayjustice": {
+    "title": "繧｢繧ｺ繝ｼ繝ｫ繝ｬ繝ｼ繝ｳ_Sail Away Justice_Final mix",
+    "size": 4823949,
+    "duration": 233.94133333333335,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sailawayjustice.ogg"
+  },
+  "sailawayjustice-inst": {
+    "title": "繧｢繧ｺ繝ｼ繝ｫ繝ｬ繝ｼ繝ｳ_Sail Away Justice_Final mix_inst",
+    "size": 4756859,
+    "duration": 233.94133333333335,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sailawayjustice-inst.ogg"
+  },
+  "sk-az-battle": {
+    "title": "突入！风云城！_G",
+    "size": 2540235,
+    "duration": 116.63383219954649,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sk-az-battle.ogg"
+  },
+  "sk-az-battle-2": {
+    "title": "激战！风云城！_eden5th11",
+    "size": 1857303,
+    "duration": 90.688,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sk-az-battle-2.ogg"
+  },
+  "sk-az-battle-boss": {
+    "title": "实验型战忍机铠武装_G",
+    "size": 2199585,
+    "duration": 112.57034013605443,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sk-az-battle-boss.ogg"
+  },
+  "sk-az-pv1": {
+    "title": "闪乱缤纷大作战_G",
+    "size": 1264357,
+    "duration": 67.87192743764173,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sk-az-pv1.ogg"
+  },
+  "sk-az-pv2": {
+    "title": "悠然夏日_G",
+    "size": 1328100,
+    "duration": 62.902857142857144,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sk-az-pv2.ogg"
+  },
+  "sk-az-story": {
+    "title": "闍埼略鬟惹ｺ大沁_G",
+    "size": 2497979,
+    "duration": 120.55800453514739,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sk-az-story.ogg"
+  },
+  "sk-gachamenu": {
+    "title": "sk-gachamenu",
+    "size": 1259784,
+    "duration": 57.55733333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sk-gachamenu.ogg"
+  },
+  "sk-home": {
+    "title": "sk-home",
+    "size": 1309575,
+    "duration": 62.86933333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sk-home.ogg"
+  },
+  "sk-menu": {
+    "title": "sk-menu",
+    "size": 1418032,
+    "duration": 63.59466666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sk-menu.ogg"
+  },
+  "sk-theme": {
+    "title": "sk-豎滓虻縺ｮ闖ｯ",
+    "size": 1779460,
+    "duration": 78.36734693877551,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sk-theme.ogg"
+  },
+  "sk-theme-gessen": {
+    "title": "sk-theme-gessen",
+    "size": 1516502,
+    "duration": 64.72533333333334,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sk-theme-gessen.ogg"
+  },
+  "sk-theme-guren": {
+    "title": "sk-theme-guren",
+    "size": 1393391,
+    "duration": 64.17066666666666,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sk-theme-guren.ogg"
+  },
+  "sk-theme-hanzo": {
+    "title": "sk-theme-hanzo",
+    "size": 1404939,
+    "duration": 65.62133333333334,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sk-theme-hanzo.ogg"
+  },
+  "sk-theme-hebijo": {
+    "title": "sk-theme-hebijo",
+    "size": 1378659,
+    "duration": 65.10933333333334,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sk-theme-hebijo.ogg"
+  },
+  "sk-theme-touno": {
+    "title": "sk-theme-touno",
+    "size": 1237458,
+    "duration": 61.717333333333336,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sk-theme-touno.ogg"
+  },
+  "song01": {
+    "title": "s01_band",
+    "size": 2181586,
+    "duration": 103.424,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/song01.ogg"
+  },
+  "song02": {
+    "title": "s02_私はNo_1！",
+    "size": 1661321,
+    "duration": 78.99428571428571,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/song02.ogg"
+  },
+  "song03": {
+    "title": "s03_Unicorn_FinalMix",
+    "size": 3168494,
+    "duration": 156.13097505668935,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/song03.ogg"
+  },
+  "song04": {
+    "title": "s04_Phantom9",
+    "size": 2367525,
+    "duration": 119.89333333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/song04.ogg"
+  },
+  "song05": {
+    "title": "s05_Cleveland_13 BRIGHT BATTLE STARS",
+    "size": 2093074,
+    "duration": 104.02133333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/song05.ogg"
+  },
+  "song06": {
+    "title": "Blue Spirit ShortSize Final Mixed",
+    "size": 2108250,
+    "duration": 107.648,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/song06.ogg"
+  },
+  "song07": {
+    "title": "逾医ｊ繝弱え繧ｿ ShortSize Final Mixed",
+    "size": 2937911,
+    "duration": 145.00266666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/song07.ogg"
+  },
+  "song08": {
+    "title": "濶ｦ荳貝OYALTY ShortSize Final Mixed",
+    "size": 2049752,
+    "duration": 106.19733333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/song08.ogg"
+  },
+  "song09": {
+    "title": "加斯科涅remix_short",
+    "size": 2174970,
+    "duration": 104.02133333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/song09.ogg"
+  },
+  "song10": {
+    "title": "繧｢繧ｺ繝ｼ繝ｫ繝ｬ繝ｼ繝ｳ_WISHNESS_ShortSize_Final",
+    "size": 2060053,
+    "duration": 99.136,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/song10.ogg"
+  },
+  "ssss-1114a": {
+    "title": "ssss-1114A",
+    "size": 3007638,
+    "duration": 158.03501133786847,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ssss-1114a.ogg"
+  },
+  "ssss-az-battle": {
+    "title": "ssss-az-battle",
+    "size": 2680562,
+    "duration": 123.43727891156463,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ssss-az-battle.ogg"
+  },
+  "ssss-az-battle-boss": {
+    "title": "ssss-az-battle-boss",
+    "size": 2529614,
+    "duration": 114.72979591836734,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ssss-az-battle-boss.ogg"
+  },
+  "ssss-az-pv": {
+    "title": "ssss-az-pv",
+    "size": 2726556,
+    "duration": 123.83201814058957,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ssss-az-pv.ogg"
+  },
+  "ssss-az-story": {
+    "title": "ssss-az-story",
+    "size": 2493399,
+    "duration": 121.20816326530613,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ssss-az-story.ogg"
+  },
+  "ssss-strobememory": {
+    "title": "ssss-StrobeMemory",
+    "size": 5839081,
+    "duration": 283.49242630385487,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ssss-strobememory.ogg"
+  },
+  "star": {
+    "title": "05 髮ｪ荵玖干2",
+    "size": 1996148,
+    "duration": 94.89995464852608,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/star.ogg"
+  },
+  "story-1": {
+    "title": "BGM10-剧情BGM1-循环",
+    "size": 2298773,
+    "duration": 105.9526530612245,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-1.ogg"
+  },
+  "story-2": {
+    "title": "BGM11-剧情BGM2-自然循环",
+    "size": 702961,
+    "duration": 35.22467120181406,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-2.ogg"
+  },
+  "story-3": {
+    "title": "BGM12-剧情BGM3-自然结尾",
+    "size": 1325917,
+    "duration": 66.08399092970521,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-3.ogg"
   },
   "story-4": {
     "title": "AL_theme_japanese_style_cut",
@@ -1351,6 +1895,214 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-4.ogg"
   },
+  "story-5": {
+    "title": "AL_theme_siren_2_cut",
+    "size": 1356547,
+    "duration": 65.66603174603175,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-5.ogg"
+  },
+  "story-6": {
+    "title": "AL_theme_siren_NEW",
+    "size": 1480682,
+    "duration": 66.52517006802721,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-6.ogg"
+  },
+  "story-7": {
+    "title": "Az_check_T2",
+    "size": 1798750,
+    "duration": 87.28380952380952,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-7.ogg"
+  },
+  "story-8": {
+    "title": "18G",
+    "size": 1851598,
+    "duration": 98.28266666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-8.ogg"
+  },
+  "story-afterrain-soft": {
+    "title": "晴空细雨_G",
+    "size": 1573516,
+    "duration": 75.02367346938776,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-afterrain-soft.ogg"
+  },
+  "story-bismark-determination": {
+    "title": "铁与血之路_G",
+    "size": 1232439,
+    "duration": 62.5081179138322,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-bismark-determination.ogg"
+  },
+  "story-china": {
+    "title": "BGM-China",
+    "size": 2032876,
+    "duration": 103.392,
+    "bitrate": 150.0,
+    "sample_rate": 32000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-china.ogg"
+  },
+  "story-clemenceau-judgement": {
+    "title": "宣告裁决之日_G",
+    "size": 1148183,
+    "duration": 55.913650793650795,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-clemenceau-judgement.ogg"
+  },
+  "story-concert-delight": {
+    "title": "庆典与金色乐音_G",
+    "size": 1908320,
+    "duration": 96.38603174603175,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-concert-delight.ogg"
+  },
+  "story-dazy-style": {
+    "title": "貂ｯ蛹ｺ蝟ｧ蝴｣螟彑G",
+    "size": 1463923,
+    "duration": 70.65832199546485,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-dazy-style.ogg"
+  },
+  "story-expo-lastday": {
+    "title": "盛大的闭幕日_G",
+    "size": 1857820,
+    "duration": 95.50367346938775,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-expo-lastday.ogg"
+  },
+  "story-finalbattle-unity": {
+    "title": "凡人的伟业_eden4th13",
+    "size": 2958428,
+    "duration": 149.44,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-finalbattle-unity.ogg"
+  },
+  "story-french": {
+    "title": "bgm-story-french",
+    "size": 1200528,
+    "duration": 105.6043537414966,
+    "bitrate": 88.0,
+    "sample_rate": 22050,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-french.ogg"
+  },
+  "story-french1": {
+    "title": "bgm-story-french1",
+    "size": 1994472,
+    "duration": 94.22657596371882,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-french1.ogg"
+  },
+  "story-french2": {
+    "title": "bgm-story-french2",
+    "size": 1983309,
+    "duration": 94.45877551020408,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-french2.ogg"
+  },
+  "story-italy": {
+    "title": "AL005_ItalyStory1",
+    "size": 1250789,
+    "duration": 118.05024943310657,
+    "bitrate": 88.0,
+    "sample_rate": 22050,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-italy.ogg"
+  },
+  "story-marcopolo-dream": {
+    "title": "虚伪的圣座_eden2nd14",
+    "size": 1829698,
+    "duration": 90.45333333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-marcopolo-dream.ogg"
+  },
+  "story-masazhusai": {
+    "title": "bgm-story-masazhusai",
+    "size": 1816098,
+    "duration": 178.70077097505668,
+    "bitrate": 88.0,
+    "sample_rate": 22050,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-masazhusai.ogg"
+  },
+  "story-mayrain": {
+    "title": "bgm-story-mayrain",
+    "size": 1524387,
+    "duration": 76.02213151927438,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-mayrain.ogg"
+  },
+  "story-maystorm": {
+    "title": "bgm-story-maystorm",
+    "size": 1126834,
+    "duration": 57.35328798185941,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-maystorm.ogg"
+  },
+  "story-midgard": {
+    "title": "story-midgard",
+    "size": 1885631,
+    "duration": 96.02133333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-midgard.ogg"
+  },
+  "story-musicanniversary-gorgeous": {
+    "title": "庆典与金色乐章_G",
+    "size": 1908320,
+    "duration": 96.38603174603175,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-musicanniversary-gorgeous.ogg"
+  },
+  "story-nepu1": {
+    "title": "nepu_024_Let's Bake The Cookie!",
+    "size": 3103318,
+    "duration": 141.48266666666666,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-nepu1.ogg"
+  },
+  "story-nepu2": {
+    "title": "nepu_031_TUTORIAL_1411",
+    "size": 1913789,
+    "duration": 85.03147392290249,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-nepu2.ogg"
+  },
+  "story-oldcastle-carnival": {
+    "title": "髮ｨ螟懃汲谺｢_G",
+    "size": 1126165,
+    "duration": 57.19074829931973,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-oldcastle-carnival.ogg"
+  },
+  "story-richang": {
+    "title": "BGM1-荳ｻ逡碁擇-蠕ｪ邇ｯ",
+    "size": 1755653,
+    "duration": 91.44018140589569,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang.ogg"
+  },
   "story-richang-1": {
     "title": "bgm-story-richang-1",
     "size": 1713377,
@@ -1359,21 +2111,301 @@
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-1.ogg"
   },
-  "bgm-royalnavy": {
-    "title": "06我らの栄光に集え　～ROYAL NAVY",
-    "size": 1774408,
-    "duration": 91.072,
+  "story-richang-10": {
+    "title": "BZM_03",
+    "size": 1575498,
+    "duration": 77.20533333333333,
     "bitrate": 160.0,
     "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/bgm-royalnavy.ogg"
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-10.ogg"
   },
-  "sk-theme-touno": {
-    "title": "sk-theme-touno",
-    "size": 1237458,
-    "duration": 61.717333333333336,
+  "story-richang-11": {
+    "title": "BZM_06",
+    "size": 1317227,
+    "duration": 64.01741496598639,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-11.ogg"
+  },
+  "story-richang-12": {
+    "title": "BZM_09",
+    "size": 1789156,
+    "duration": 92.82133333333333,
     "bitrate": 160.0,
     "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sk-theme-touno.ogg"
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-12.ogg"
+  },
+  "story-richang-13": {
+    "title": "BZM_16",
+    "size": 1438774,
+    "duration": 70.74133333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-13.ogg"
+  },
+  "story-richang-2": {
+    "title": "bgm-story-richang-2",
+    "size": 1815560,
+    "duration": 93.248,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-2.ogg"
+  },
+  "story-richang-3": {
+    "title": "bgm-story-richang-3",
+    "size": 2576482,
+    "duration": 129.25866666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-3.ogg"
+  },
+  "story-richang-4": {
+    "title": "bgm-story-richang-4",
+    "size": 1429041,
+    "duration": 67.712,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-4.ogg"
+  },
+  "story-richang-5": {
+    "title": "bgm-story-richang-5",
+    "size": 1336448,
+    "duration": 68.58666666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-5.ogg"
+  },
+  "story-richang-6": {
+    "title": "bgm-story-richang-6",
+    "size": 2593757,
+    "duration": 125.80266666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-6.ogg"
+  },
+  "story-richang-7": {
+    "title": "bgm-story-richang-7",
+    "size": 1366900,
+    "duration": 69.248,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-7.ogg"
+  },
+  "story-richang-8": {
+    "title": "bgm-story-richang-8",
+    "size": 1380124,
+    "duration": 69.99466666666666,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-8.ogg"
+  },
+  "story-richang-9": {
+    "title": "BZM_02",
+    "size": 1856542,
+    "duration": 96.02133333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-9.ogg"
+  },
+  "story-richang-flexible": {
+    "title": "BZM_24",
+    "size": 671624,
+    "duration": 34.624,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-flexible.ogg"
+  },
+  "story-richang-quiet": {
+    "title": "BZM_05",
+    "size": 2048098,
+    "duration": 102.86933333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-quiet.ogg"
+  },
+  "story-richang-relax": {
+    "title": "BZM_28",
+    "size": 1263080,
+    "duration": 69.93066666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-relax.ogg"
+  },
+  "story-roma-inside": {
+    "title": "bgm-story-roma-inside",
+    "size": 2433964,
+    "duration": 118.39854875283447,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-roma-inside.ogg"
+  },
+  "story-roma-outside": {
+    "title": "bgm-story-roma-outside",
+    "size": 2576522,
+    "duration": 118.16634920634921,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-roma-outside.ogg"
+  },
+  "story-temepest-1": {
+    "title": "莠大｢吩ｹ倶ｸ祇G",
+    "size": 1017926,
+    "duration": 53.68453514739229,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-temepest-1.ogg"
+  },
+  "story-temepest-2": {
+    "title": "往日幽影_eden5th10",
+    "size": 1864286,
+    "duration": 90.00533333333334,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-temepest-2.ogg"
+  },
+  "story-thehierophantv": {
+    "title": "Listen to my voice_eden5th05",
+    "size": 1991242,
+    "duration": 90.00533333333334,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-thehierophantv.ogg"
+  },
+  "story-tiancheng": {
+    "title": "AL005_jpStory_fin",
+    "size": 2421593,
+    "duration": 112.17560090702948,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-tiancheng.ogg"
+  },
+  "story-unzen": {
+    "title": "须臾无间_G",
+    "size": 1178354,
+    "duration": 59.72172335600907,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-unzen.ogg"
+  },
+  "story-unzen-heart": {
+    "title": "清明澄澈之心_G",
+    "size": 2425219,
+    "duration": 122.36916099773242,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-unzen-heart.ogg"
+  },
+  "story-uta": {
+    "title": "uta-story-驕頑･ｽ",
+    "size": 4827053,
+    "duration": 223.3063038548753,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-uta.ogg"
+  },
+  "theme": {
+    "title": "壮絶激昂_FinlMix[Main]",
+    "size": 4272735,
+    "duration": 230.72,
+    "bitrate": 150.0,
+    "sample_rate": 32000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme.ogg"
+  },
+  "theme-aostelab": {
+    "title": "彼方的星与海_2nd3",
+    "size": 1791527,
+    "duration": 90.00533333333334,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-aostelab.ogg"
+  },
+  "theme-arbitrator-tower": {
+    "title": "theme-arbitrator-tower",
+    "size": 2143050,
+    "duration": 98.29006802721088,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-arbitrator-tower.ogg"
+  },
+  "theme-bismark-reborn": {
+    "title": "豬ｴ轣ｫ閠瑚｡契G",
+    "size": 2527228,
+    "duration": 128.01160997732427,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-bismark-reborn.ogg"
+  },
+  "theme-camelot": {
+    "title": "theme-camelot",
+    "size": 2236935,
+    "duration": 111.82730158730159,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-camelot.ogg"
+  },
+  "theme-camelot-up": {
+    "title": "卡美洛之光_G",
+    "size": 685924,
+    "duration": 34.80671201814059,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-camelot-up.ogg"
+  },
+  "theme-clemenceau": {
+    "title": "Attendre et espﾃｩrer._G",
+    "size": 2422015,
+    "duration": 121.88154195011337,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-clemenceau.ogg"
+  },
+  "theme-dailyfuture": {
+    "title": "bgm-theme-dailyfuture",
+    "size": 2106670,
+    "duration": 108.18176870748299,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-dailyfuture.ogg"
+  },
+  "theme-designfleet": {
+    "title": "theme-designfleet",
+    "size": 1533291,
+    "duration": 76.52266666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-designfleet.ogg"
+  },
+  "theme-designshipvi": {
+    "title": "隶｡蛻剃ｺ取悴譚･_G",
+    "size": 1585363,
+    "duration": 79.41224489795918,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-designshipvi.ogg"
+  },
+  "theme-elizabeth-andmeta": {
+    "title": "髯帑ｸ狗噪闕｣蜈雲4th05",
+    "size": 1712373,
+    "duration": 88.61866666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-elizabeth-andmeta.ogg"
+  },
+  "theme-fool23-en": {
+    "title": "Avenger's April Fool",
+    "size": 2341158,
+    "duration": 125.568,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-fool23-en.ogg"
+  },
+  "theme-fool23-en-long": {
+    "title": "Avenger's April Fool-long",
+    "size": 2312280,
+    "duration": 124.97066666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-fool23-en-long.ogg"
   },
   "theme-fool23-en-short": {
     "title": "Avenger's April Fool-short",
@@ -1391,885 +2423,21 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-frederick.ogg"
   },
-  "deepblue-image": {
-    "title": "08_月下の戦闘",
-    "size": 1860803,
-    "duration": 97.96498866213152,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/deepblue-image.ogg"
-  },
-  "theme-ucnf-image": {
-    "title": "星海逐光_G",
-    "size": 2356276,
-    "duration": 118.81650793650793,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-ucnf-image.ogg"
-  },
-  "battle-ashes-theme": {
-    "title": "13_re1_菴咏Ξ",
-    "size": 2305723,
-    "duration": 116.26231292517006,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-ashes-theme.ogg"
-  },
-  "battle-boss-2": {
-    "title": "BGM8-BOSS战2-循环",
-    "size": 2953538,
-    "duration": 137.97297052154195,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-2.ogg"
-  },
-  "theme-partydress": {
-    "title": "bgm-theme-partydress",
-    "size": 1770513,
-    "duration": 86.95466666666667,
+  "theme-haitian-soft-loop": {
+    "title": "荳晁ｷｯ蠑･髻ｳ_Y_loop",
+    "size": 2912507,
+    "duration": 154.688,
     "bitrate": 160.0,
     "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-partydress.ogg"
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-haitian-soft-loop.ogg"
   },
-  "ryza-10": {
-    "title": "ryza-10",
-    "size": 1010138,
-    "duration": 51.584,
+  "theme-highseasfleet": {
+    "title": "theme-highseasfleet ",
+    "size": 1757323,
+    "duration": 91.008,
     "bitrate": 160.0,
     "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ryza-10.ogg"
-  },
-  "theme-ucnf-beacon": {
-    "title": "深潜式信标_G",
-    "size": 1146190,
-    "duration": 59.675283446712015,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-ucnf-beacon.ogg"
-  },
-  "holo-fff": {
-    "title": "holo_Fake_Fake_Fake",
-    "size": 5215501,
-    "duration": 230.59736961451247,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/holo-fff.ogg"
-  },
-  "story-china": {
-    "title": "BGM-China",
-    "size": 2032876,
-    "duration": 103.392,
-    "bitrate": 150.0,
-    "sample_rate": 32000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-china.ogg"
-  },
-  "battle-longgong": {
-    "title": "battle-longgong",
-    "size": 1873095,
-    "duration": 90.45333333333333,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-longgong.ogg"
-  },
-  "holo-matsuri": {
-    "title": "holo_螟剰牡逾ｭ_縺顔･ｭ繧翫ョ繧｣繧ｹ繧ｳ",
-    "size": 2943812,
-    "duration": 133.42185941043084,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/holo-matsuri.ogg"
-  },
-  "main-christmas": {
-    "title": "BGM-圣诞",
-    "size": 2585881,
-    "duration": 116.88925170068028,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/main-christmas.ogg"
-  },
-  "bsm-10": {
-    "title": "b10-PV01_remix",
-    "size": 1140293,
-    "duration": 55.3795918367347,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/bsm-10.ogg"
-  },
-  "login-orchestral-ver": {
-    "title": "azln_qo_pr_azjam_蜃ｺ闊ｪ_豈肴ｸｯ",
-    "size": 2766810,
-    "duration": 148.01066666666668,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/login-orchestral-ver.ogg"
-  },
-  "sk-theme": {
-    "title": "sk-豎滓虻縺ｮ闖ｯ",
-    "size": 1779460,
-    "duration": 78.36734693877551,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sk-theme.ogg"
-  },
-  "battle-boss-1": {
-    "title": "BGM7-BOSS战1-循环",
-    "size": 2154864,
-    "duration": 98.84734693877552,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-1.ogg"
-  },
-  "login-2022401jp": {
-    "title": "Azurlane2022_BGM16_EDEN_2mix_0214",
-    "size": 2093297,
-    "duration": 102.272,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/login-2022401jp.ogg"
-  },
-  "level-nep": {
-    "title": "nepu_001_Sailing Of A Day dream",
-    "size": 3061788,
-    "duration": 139.92533333333333,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/level-nep.ogg"
-  },
-  "battle-midgard-up": {
-    "title": "battle-midgard-up",
-    "size": 1727878,
-    "duration": 88.42666666666666,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-midgard-up.ogg"
-  },
-  "song02": {
-    "title": "s02_私はNo_1！",
-    "size": 1661321,
-    "duration": 78.99428571428571,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/song02.ogg"
-  },
-  "idol-wishness-inst": {
-    "title": "繧｢繧ｺ繝ｼ繝ｫ繝ｬ繝ｼ繝ｳ_WISHNESS_ShortSize_Final_Inst",
-    "size": 2032564,
-    "duration": 99.136,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/idol-wishness-inst.ogg"
-  },
-  "diego": {
-    "title": "私はNo",
-    "size": 842406,
-    "duration": 72.95709750566894,
-    "bitrate": 88.0,
-    "sample_rate": 22050,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/diego.ogg"
-  },
-  "battle-boss-6": {
-    "title": "17-强敌",
-    "size": 1741008,
-    "duration": 88.58412698412698,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-6.ogg"
-  },
-  "story-richang-8": {
-    "title": "bgm-story-richang-8",
-    "size": 1380124,
-    "duration": 69.99466666666666,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-8.ogg"
-  },
-  "theme-kerguelen": {
-    "title": "蜃ｯ蟆皮尠譛礼噪鬟酸G",
-    "size": 895931,
-    "duration": 45.348571428571425,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-kerguelen.ogg"
-  },
-  "sk-az-battle-2": {
-    "title": "激战！风云城！_eden5th11",
-    "size": 1857303,
-    "duration": 90.688,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sk-az-battle-2.ogg"
-  },
-  "ssss-az-battle": {
-    "title": "ssss-az-battle",
-    "size": 2680562,
-    "duration": 123.43727891156463,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ssss-az-battle.ogg"
-  },
-  "theme-fool23-en": {
-    "title": "Avenger's April Fool",
-    "size": 2341158,
-    "duration": 125.568,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-fool23-en.ogg"
-  },
-  "beverly_short_eng": {
-    "title": "Beverly_short_eng",
-    "size": 2132280,
-    "duration": 105.00266666666667,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/beverly_short_eng.ogg"
-  },
-  "theme-longgong-loop": {
-    "title": "theme-longgong-loop",
-    "size": 2411408,
-    "duration": 116.52266666666667,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-longgong-loop.ogg"
-  },
-  "azumaster-ins": {
-    "title": "inst_AZURLANE_1018 mix",
-    "size": 5375633,
-    "duration": 251.49866666666668,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/azumaster-ins.ogg"
-  },
-  "bsm-3": {
-    "title": "b3-背水一战",
-    "size": 1224400,
-    "duration": 122.04408163265306,
-    "bitrate": 88.0,
-    "sample_rate": 22050,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/bsm-3.ogg"
-  },
-  "sk-gachamenu": {
-    "title": "sk-gachamenu",
-    "size": 1259784,
-    "duration": 57.55733333333333,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sk-gachamenu.ogg"
-  },
-  "story-richang-flexible": {
-    "title": "BZM_24",
-    "size": 671624,
-    "duration": 34.624,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-flexible.ogg"
-  },
-  "story-italy": {
-    "title": "AL005_ItalyStory1",
-    "size": 1250789,
-    "duration": 118.05024943310657,
-    "bitrate": 88.0,
-    "sample_rate": 22050,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-italy.ogg"
-  },
-  "story-masazhusai": {
-    "title": "bgm-story-masazhusai",
-    "size": 1816098,
-    "duration": 178.70077097505668,
-    "bitrate": 88.0,
-    "sample_rate": 22050,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-masazhusai.ogg"
-  },
-  "story-bismark-determination": {
-    "title": "铁与血之路_G",
-    "size": 1232439,
-    "duration": 62.5081179138322,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-bismark-determination.ogg"
-  },
-  "login-2022401us": {
-    "title": "Azur Lane - Remix - Loading Page JoJo April Fools - SMAMIX1B (Vocals Up)",
-    "size": 3326081,
-    "duration": 157.94213151927437,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/login-2022401us.ogg"
-  },
-  "nagato-boss": {
-    "title": "nagato_boss",
-    "size": 2525049,
-    "duration": 126.1772335600907,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/nagato-boss.ogg"
-  },
-  "song06": {
-    "title": "Blue Spirit ShortSize Final Mixed",
-    "size": 2108250,
-    "duration": 107.648,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/song06.ogg"
-  },
-  "battle-thedevilxv-control": {
-    "title": "恶魔的裁决_Eden",
-    "size": 1745007,
-    "duration": 91.43466666666667,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-thedevilxv-control.ogg"
-  },
-  "battle-unknown-approaching": {
-    "title": "SOMETHINGISAPPROACHING_G",
-    "size": 2360627,
-    "duration": 120.02394557823129,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-unknown-approaching.ogg"
-  },
-  "china-party": {
-    "title": "bgm-china-party",
-    "size": 2124331,
-    "duration": 108.39074829931972,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/china-party.ogg"
-  },
-  "musashi-2": {
-    "title": "bgm-musashi-2",
-    "size": 3021533,
-    "duration": 150.50666666666666,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/musashi-2.ogg"
-  },
-  "login-jp-20230914": {
-    "title": "日服6周年登陆界面主题曲",
-    "size": 1975031,
-    "duration": 95.296,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/login-jp-20230914.ogg"
-  },
-  "story-midgard": {
-    "title": "story-midgard",
-    "size": 1885631,
-    "duration": 96.02133333333333,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-midgard.ogg"
-  },
-  "holo-ayame": {
-    "title": "holo_百鬼绫目_Yumesakura【和風EDM】",
-    "size": 4658013,
-    "duration": 209.83873015873016,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/holo-ayame.ogg"
-  },
-  "xinnong-2": {
-    "title": "15_鋼鉄の裁き_～METALBLOOD",
-    "size": 1805269,
-    "duration": 94.336,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/xinnong-2.ogg"
-  },
-  "theme-vichy-revelation": {
-    "title": "审判的象征_G",
-    "size": 2539376,
-    "duration": 130.68190476190478,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-vichy-revelation.ogg"
-  },
-  "story-dazy-style": {
-    "title": "貂ｯ蛹ｺ蝟ｧ蝴｣螟彑G",
-    "size": 1463923,
-    "duration": 70.65832199546485,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-dazy-style.ogg"
-  },
-  "theme-warmwinter-daily": {
-    "title": "辜溷ｹ穂ｸ朱妛_G",
-    "size": 1264425,
-    "duration": 62.345578231292514,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-warmwinter-daily.ogg"
-  },
-  "beverly_short_inst": {
-    "title": "Beverly_short_inst",
-    "size": 2125167,
-    "duration": 105.00266666666667,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/beverly_short_inst.ogg"
-  },
-  "azumaster": {
-    "title": "main_AZURLANE_0918 mix",
-    "size": 5382066,
-    "duration": 251.49866666666668,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/azumaster.ogg"
-  },
-  "bsm-4": {
-    "title": "b4-Also sprach Zarathustra",
-    "size": 669585,
-    "duration": 66.13043083900227,
-    "bitrate": 88.0,
-    "sample_rate": 22050,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/bsm-4.ogg"
-  },
-  "story-2": {
-    "title": "BGM11-剧情BGM2-自然循环",
-    "size": 702961,
-    "duration": 35.22467120181406,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-2.ogg"
-  },
-  "theme-roma-image": {
-    "title": "bgm-theme-roma-image",
-    "size": 2414745,
-    "duration": 118.02702947845805,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-roma-image.ogg"
-  },
-  "theme-seaandsun-image": {
-    "title": "起航的冒险者_2nd1",
-    "size": 1675968,
-    "duration": 90.00533333333334,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-seaandsun-image.ogg"
-  },
-  "story-richang": {
-    "title": "BGM1-荳ｻ逡碁擇-蠕ｪ邇ｯ",
-    "size": 1755653,
-    "duration": 91.44018140589569,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang.ogg"
-  },
-  "ryza-3": {
-    "title": "ryza-3",
-    "size": 2788594,
-    "duration": 146.19733333333335,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ryza-3.ogg"
-  },
-  "holo-sora": {
-    "title": "holo_时乃空_あめあがりのカレイドスコープ",
-    "size": 2985820,
-    "duration": 142.76266666666666,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/holo-sora.ogg"
-  },
-  "battle-boss-ucnf": {
-    "title": "理事会舰队_G",
-    "size": 1649611,
-    "duration": 84.00979591836735,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-ucnf.ogg"
-  },
-  "story-richang-13": {
-    "title": "BZM_16",
-    "size": 1438774,
-    "duration": 70.74133333333333,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-13.ogg"
-  },
-  "wavyflow-full": {
-    "title": "wavyflow-full",
-    "size": 4200336,
-    "duration": 205.61066666666667,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/wavyflow-full.ogg"
-  },
-  "theme-fool23-en-long": {
-    "title": "Avenger's April Fool-long",
-    "size": 2312280,
-    "duration": 124.97066666666667,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-fool23-en-long.ogg"
-  },
-  "qe-ova-9": {
-    "title": "09_Allegro alla marcia",
-    "size": 1527381,
-    "duration": 81.77066666666667,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/qe-ova-9.ogg"
-  },
-  "main-chunjie-pv": {
-    "title": "main-chunjie-pv",
-    "size": 3243222,
-    "duration": 157.5241723356009,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/main-chunjie-pv.ogg"
-  },
-  "battle-againstfate": {
-    "title": "01_ワタツミを越えて",
-    "size": 2220252,
-    "duration": 103.1198185941043,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-againstfate.ogg"
-  },
-  "qe-ova-12": {
-    "title": "12_Merci mille fois",
-    "size": 1565218,
-    "duration": 82.77333333333333,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/qe-ova-12.ogg"
-  },
-  "song04": {
-    "title": "s04_Phantom9",
-    "size": 2367525,
-    "duration": 119.89333333333333,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/song04.ogg"
-  },
-  "theme-seaandsun-soft": {
-    "title": "蟷ｳ髱咏噪豬ｷ_Eden",
-    "size": 1748394,
-    "duration": 89.64266666666667,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-seaandsun-soft.ogg"
-  },
-  "holo-shion": {
-    "title": "holo_邏ｫ蜥ｲ隸鈴浹_Shopping day",
-    "size": 2185582,
-    "duration": 104.35047619047619,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/holo-shion.ogg"
-  },
-  "theme-starsea-core": {
-    "title": "體ｶ豐ｳ荵句ｿダG",
-    "size": 2401290,
-    "duration": 124.24997732426304,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-starsea-core.ogg"
-  },
-  "sk-az-pv2": {
-    "title": "悠然夏日_G",
-    "size": 1328100,
-    "duration": 62.902857142857144,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sk-az-pv2.ogg"
-  },
-  "theme-arbitrator-tower": {
-    "title": "theme-arbitrator-tower",
-    "size": 2143050,
-    "duration": 98.29006802721088,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-arbitrator-tower.ogg"
-  },
-  "battle-heroines-image": {
-    "title": "11_超弩級_HEROINES",
-    "size": 1745140,
-    "duration": 89.77066666666667,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-heroines-image.ogg"
-  },
-  "idol-kannjouloyalty-inst": {
-    "title": "濶ｦ荳貝OYALTY ShortSize Inst Mixed",
-    "size": 2037578,
-    "duration": 106.19733333333333,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/idol-kannjouloyalty-inst.ogg"
-  },
-  "holo-fbk": {
-    "title": "holo_逋ｽ荳雁聖髮ｪ_Brand New Life_inst",
-    "size": 2881470,
-    "duration": 135.76707482993197,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/holo-fbk.ogg"
-  },
-  "musashi-1": {
-    "title": "bgm-musashi-1",
-    "size": 1971102,
-    "duration": 90.816,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/musashi-1.ogg"
-  },
-  "theme-vichy-slaughter": {
-    "title": "审判型机甲武装_G",
-    "size": 2379783,
-    "duration": 120.02394557823129,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-vichy-slaughter.ogg"
-  },
-  "theme-designfleet": {
-    "title": "theme-designfleet",
-    "size": 1533291,
-    "duration": 76.52266666666667,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-designfleet.ogg"
-  },
-  "bsm-7": {
-    "title": "b7-土耳其进行曲",
-    "size": 1120973,
-    "duration": 111.2235827664399,
-    "bitrate": 88.0,
-    "sample_rate": 22050,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/bsm-7.ogg"
-  },
-  "holo-inochi-inst": {
-    "title": "holo_inochi_inst",
-    "size": 5353750,
-    "duration": 271.6734693877551,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/holo-inochi-inst.ogg"
-  },
-  "battle-nep2": {
-    "title": "nepu_009_VOLTAGE_1411",
-    "size": 4572458,
-    "duration": 236.33269841269842,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-nep2.ogg"
-  },
-  "ryza-az-battle": {
-    "title": "ryza-az-battle",
-    "size": 2415068,
-    "duration": 116.33197278911565,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ryza-az-battle.ogg"
-  },
-  "battle-pacific": {
-    "title": "10",
-    "size": 2578069,
-    "duration": 128.01160997732427,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-pacific.ogg"
-  },
-  "newyear2": {
-    "title": "BGM-譁ｰ蟷ｴ",
-    "size": 1938952,
-    "duration": 94.43555555555555,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/newyear2.ogg"
-  },
-  "theme-longgong": {
-    "title": "theme-longgong",
-    "size": 3072536,
-    "duration": 152.34133333333332,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-longgong.ogg"
-  },
-  "theme-dailyfuture": {
-    "title": "bgm-theme-dailyfuture",
-    "size": 2106670,
-    "duration": 108.18176870748299,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-dailyfuture.ogg"
-  },
-  "aoi_hougeki-full": {
-    "title": "Aoi Hougeki-full",
-    "size": 4576555,
-    "duration": 230.55092970521542,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/aoi_hougeki-full.ogg"
-  },
-  "battle-2": {
-    "title": "BGM5-謌俶沫2-蠕ｪ邇ｯ",
-    "size": 3229033,
-    "duration": 149.65260770975055,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-2.ogg"
-  },
-  "battle-arcticocean": {
-    "title": "11",
-    "size": 1956574,
-    "duration": 98.38294784580499,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-arcticocean.ogg"
-  },
-  "holo-aqua": {
-    "title": "holo_湊阿库娅_楽しい時間はあっという間に",
-    "size": 2157158,
-    "duration": 99.00988662131519,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/holo-aqua.ogg"
-  },
-  "battle-warprotocol": {
-    "title": "謌倅ｺ牙刻隶ｮ蟾ｲ謗･蜈･_eden5th12",
-    "size": 1816090,
-    "duration": 90.15466666666667,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-warprotocol.ogg"
-  },
-  "main-seaandsun": {
-    "title": "海风与夏日的无人岛_G",
-    "size": 2102231,
-    "duration": 99.008,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/main-seaandsun.ogg"
-  },
-  "story-unzen": {
-    "title": "须臾无间_G",
-    "size": 1178354,
-    "duration": 59.72172335600907,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-unzen.ogg"
-  },
-  "battle-maid": {
-    "title": "05_闖ｯ鮗励↑繧九Ο繧､繝､繝ｫ繝｡繧､繝蛾嚏 (1)",
-    "size": 2302056,
-    "duration": 116.3784126984127,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-maid.ogg"
-  },
-  "theme-camelot-up": {
-    "title": "卡美洛之光_G",
-    "size": 685924,
-    "duration": 34.80671201814059,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-camelot-up.ogg"
-  },
-  "nagato-map": {
-    "title": "nagato_map",
-    "size": 3042329,
-    "duration": 144.63709750566895,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/nagato-map.ogg"
-  },
-  "bgm-cccp3": {
-    "title": "bgm-cccp3",
-    "size": 2345304,
-    "duration": 123.99455782312926,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/bgm-cccp3.ogg"
-  },
-  "theme-underheaven": {
-    "title": "陆上天国_G",
-    "size": 2920500,
-    "duration": 143.4528798185941,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-underheaven.ogg"
-  },
-  "story-1": {
-    "title": "BGM10-剧情BGM1-循环",
-    "size": 2298773,
-    "duration": 105.9526530612245,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-1.ogg"
-  },
-  "ryza-9": {
-    "title": "ryza-9",
-    "size": 3249897,
-    "duration": 160.93866666666668,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ryza-9.ogg"
-  },
-  "battle-boss-nep2": {
-    "title": "nepu_004_Outside The Dimension",
-    "size": 3197121,
-    "duration": 150.784,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-nep2.ogg"
-  },
-  "battle-boss-italy": {
-    "title": "AL005_ItalyBoss_demo03_1",
-    "size": 1000055,
-    "duration": 98.03464852607709,
-    "bitrate": 88.0,
-    "sample_rate": 22050,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-italy.ogg"
-  },
-  "ryza-11": {
-    "title": "ryza-11",
-    "size": 1727302,
-    "duration": 82.688,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ryza-11.ogg"
-  },
-  "story-6": {
-    "title": "AL_theme_siren_NEW",
-    "size": 1480682,
-    "duration": 66.52517006802721,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-6.ogg"
-  },
-  "bsm-5": {
-    "title": "b5-蝗樊雷譖ｲ",
-    "size": 710749,
-    "duration": 67.75582766439909,
-    "bitrate": 88.0,
-    "sample_rate": 22050,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/bsm-5.ogg"
-  },
-  "battle-xinnong-image": {
-    "title": "battle-xinnong-image",
-    "size": 3208606,
-    "duration": 156.096,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-xinnong-image.ogg"
-  },
-  "ryza-12": {
-    "title": "ryza-12",
-    "size": 688925,
-    "duration": 38.165333333333336,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ryza-12.ogg"
-  },
-  "battle-starsea-elec": {
-    "title": "星海的战斗_2nd2",
-    "size": 1762468,
-    "duration": 90.688,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-starsea-elec.ogg"
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-highseasfleet.ogg"
   },
   "theme-highseasfleet-reborn": {
     "title": "theme-highseasfleet-reborn",
@@ -2279,549 +2447,13 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-highseasfleet-reborn.ogg"
   },
-  "bsm-6": {
-    "title": "b6-铁血(piano)",
-    "size": 555560,
-    "duration": 67.52362811791383,
-    "bitrate": 88.0,
-    "sample_rate": 22050,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/bsm-6.ogg"
-  },
-  "theme-haitian-soft-loop": {
-    "title": "荳晁ｷｯ蠑･髻ｳ_Y_loop",
-    "size": 2912507,
-    "duration": 154.688,
+  "theme-ijndailymeeting": {
+    "title": "05_鮮やかな権謀術数",
+    "size": 3588457,
+    "duration": 169.30133333333333,
     "bitrate": 160.0,
     "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-haitian-soft-loop.ogg"
-  },
-  "holo-control-inst": {
-    "title": "holo_I_can't_control_my_self_inst",
-    "size": 4088102,
-    "duration": 204.68390022675737,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/holo-control-inst.ogg"
-  },
-  "qe-ova-1": {
-    "title": "01_Divertimento",
-    "size": 1938660,
-    "duration": 103.76533333333333,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/qe-ova-1.ogg"
-  },
-  "song09": {
-    "title": "加斯科涅remix_short",
-    "size": 2174970,
-    "duration": 104.02133333333333,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/song09.ogg"
-  },
-  "story-french1": {
-    "title": "bgm-story-french1",
-    "size": 1994472,
-    "duration": 94.22657596371882,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-french1.ogg"
-  },
-  "battle-boss-nep3": {
-    "title": "nepu_008_ABSOLUTE_1411",
-    "size": 3019247,
-    "duration": 155.01641723356008,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-nep3.ogg"
-  },
-  "main-chunjie4-2": {
-    "title": "main-chunjie4-2",
-    "size": 1875218,
-    "duration": 90.67392290249433,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/main-chunjie4-2.ogg"
-  },
-  "theme-ulrich": {
-    "title": "智者与蜘蛛_Shade",
-    "size": 2858657,
-    "duration": 139.7144671201814,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-ulrich.ogg"
-  },
-  "wedding": {
-    "title": "BGM-WEDDING",
-    "size": 1648744,
-    "duration": 83.91691609977325,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/wedding.ogg"
-  },
-  "aoi_hougeki-short": {
-    "title": "Aoi Hougeki-short",
-    "size": 1924871,
-    "duration": 99.8225850340136,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/aoi_hougeki-short.ogg"
-  },
-  "theme-elizabeth-andmeta": {
-    "title": "髯帑ｸ狗噪闕｣蜈雲4th05",
-    "size": 1712373,
-    "duration": 88.61866666666667,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-elizabeth-andmeta.ogg"
-  },
-  "battle-seirenbasicsystam-theme": {
-    "title": "06_コンダクターのテーマ",
-    "size": 2327280,
-    "duration": 111.43256235827664,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-seirenbasicsystam-theme.ogg"
-  },
-  "story-expo-lastday": {
-    "title": "盛大的闭幕日_G",
-    "size": 1857820,
-    "duration": 95.50367346938775,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-expo-lastday.ogg"
-  },
-  "idol-bluespirit-inst": {
-    "title": "Blue Spirit ShortSize Inst Mixed",
-    "size": 2088649,
-    "duration": 107.648,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/idol-bluespirit-inst.ogg"
-  },
-  "theme-shallowoftheworld": {
-    "title": "theme-shallowoftheworld",
-    "size": 1659769,
-    "duration": 97.00266666666667,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-shallowoftheworld.ogg"
-  },
-  "qe-ova-15": {
-    "title": "15_Waltz of Water Ripples (Elizabeth size)",
-    "size": 825486,
-    "duration": 41.00266666666667,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/qe-ova-15.ogg"
-  },
-  "ryza-2": {
-    "title": "ryza-2",
-    "size": 2037578,
-    "duration": 96.96,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ryza-2.ogg"
-  },
-  "blueocean-image": {
-    "title": "大洋",
-    "size": 1808399,
-    "duration": 90.88290249433106,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/blueocean-image.ogg"
-  },
-  "story-finalbattle-unity": {
-    "title": "凡人的伟业_eden4th13",
-    "size": 2958428,
-    "duration": 149.44,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-finalbattle-unity.ogg"
-  },
-  "story-8": {
-    "title": "18G",
-    "size": 1851598,
-    "duration": 98.28266666666667,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-8.ogg"
-  },
-  "votefes-start": {
-    "title": "耀眼晴空_PX",
-    "size": 1309931,
-    "duration": 68.05333333333333,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/votefes-start.ogg"
-  },
-  "main-chunjie3": {
-    "title": "main-chunjie3",
-    "size": 2413559,
-    "duration": 117.60907029478459,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/main-chunjie3.ogg"
-  },
-  "story-richang-3": {
-    "title": "bgm-story-richang-3",
-    "size": 2576482,
-    "duration": 129.25866666666667,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-3.ogg"
-  },
-  "xinnong-4": {
-    "title": "BGM014",
-    "size": 3612775,
-    "duration": 174.63466666666667,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/xinnong-4.ogg"
-  },
-  "story-unzen-heart": {
-    "title": "清明澄澈之心_G",
-    "size": 2425219,
-    "duration": 122.36916099773242,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-unzen-heart.ogg"
-  },
-  "theme-musashi-outside": {
-    "title": "bgm-theme-musashi-outside",
-    "size": 2284515,
-    "duration": 110.912,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-musashi-outside.ogg"
-  },
-  "ryza-6": {
-    "title": "ryza-6",
-    "size": 2729493,
-    "duration": 135.50933333333333,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ryza-6.ogg"
-  },
-  "main-chunjie4-1": {
-    "title": "main-chunjie4-1",
-    "size": 884123,
-    "duration": 44.00181405895692,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/main-chunjie4-1.ogg"
-  },
-  "holo-sss-inst": {
-    "title": "holo_ShinySmilyStory_inst",
-    "size": 5471987,
-    "duration": 255.72266666666667,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/holo-sss-inst.ogg"
-  },
-  "bsm-1": {
-    "title": "b1-11_始まりの災厄",
-    "size": 1083529,
-    "duration": 108.29786848072563,
-    "bitrate": 88.0,
-    "sample_rate": 22050,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/bsm-1.ogg"
-  },
-  "level-nep2": {
-    "title": "nepu_037_WILL BE VENUS_1411",
-    "size": 2828024,
-    "duration": 139.45904761904762,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/level-nep2.ogg"
-  },
-  "main-uta": {
-    "title": "uta-main-ウタツグミ",
-    "size": 4449933,
-    "duration": 204.21950113378685,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/main-uta.ogg"
-  },
-  "battle-boss-uta": {
-    "title": "uta-battle-boss-戦火の狼煙",
-    "size": 6279881,
-    "duration": 301.95229024943313,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-uta.ogg"
-  },
-  "theme-unzen": {
-    "title": "莠台ｸｭ譛我ｻ兩G",
-    "size": 2254541,
-    "duration": 120.25614512471655,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-unzen.ogg"
-  },
-  "sk-theme-hebijo": {
-    "title": "sk-theme-hebijo",
-    "size": 1378659,
-    "duration": 65.10933333333334,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sk-theme-hebijo.ogg"
-  },
-  "story-richang-11": {
-    "title": "BZM_06",
-    "size": 1317227,
-    "duration": 64.01741496598639,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-11.ogg"
-  },
-  "battle-midgard-hunting": {
-    "title": "battle-midgard-hunting",
-    "size": 1744018,
-    "duration": 88.90920634920634,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-midgard-hunting.ogg"
-  },
-  "theme-thehierophantv": {
-    "title": "仲裁者海洛芬特_G",
-    "size": 2650378,
-    "duration": 124.80725623582767,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-thehierophantv.ogg"
-  },
-  "newyear": {
-    "title": "BGM-譁ｰ蟷ｴ",
-    "size": 1938952,
-    "duration": 94.43555555555555,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/newyear.ogg"
-  },
-  "wavyflow-inst-full": {
-    "title": "wavyflow-inst-full",
-    "size": 4196915,
-    "duration": 205.61066666666667,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/wavyflow-inst-full.ogg"
-  },
-  "battle-highseasfleet-reborn": {
-    "title": "battle-highseasfleet-reborn",
-    "size": 2717614,
-    "duration": 137.76399092970522,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-highseasfleet-reborn.ogg"
-  },
-  "ssss-strobememory": {
-    "title": "ssss-StrobeMemory",
-    "size": 5839081,
-    "duration": 283.49242630385487,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ssss-strobememory.ogg"
-  },
-  "bar-soft": {
-    "title": "bgm-bar-soft",
-    "size": 1363525,
-    "duration": 70.21714285714286,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/bar-soft.ogg"
-  },
-  "story-french": {
-    "title": "bgm-story-french",
-    "size": 1200528,
-    "duration": 105.6043537414966,
-    "bitrate": 88.0,
-    "sample_rate": 22050,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-french.ogg"
-  },
-  "theme-designshipvi": {
-    "title": "隶｡蛻剃ｺ取悴譚･_G",
-    "size": 1585363,
-    "duration": 79.41224489795918,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-designshipvi.ogg"
-  },
-  "bgm-cccp": {
-    "title": "bgm-cccp",
-    "size": 2569676,
-    "duration": 123.87845804988662,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/bgm-cccp.ogg"
-  },
-  "holo-mio": {
-    "title": "holo_螟ｧ逾樊ｾｪ_Hometown",
-    "size": 2036838,
-    "duration": 87.33024943310657,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/holo-mio.ogg"
-  },
-  "story-mayrain": {
-    "title": "bgm-story-mayrain",
-    "size": 1524387,
-    "duration": 76.02213151927438,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-mayrain.ogg"
-  },
-  "holo-inochi": {
-    "title": "holo_inochi",
-    "size": 5467524,
-    "duration": 271.6734693877551,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/holo-inochi.ogg"
-  },
-  "backyard": {
-    "title": "BGM2-后宅-循环-01",
-    "size": 922363,
-    "duration": 45.023492063492064,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/backyard.ogg"
-  },
-  "sk-az-battle": {
-    "title": "突入！风云城！_G",
-    "size": 2540235,
-    "duration": 116.63383219954649,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sk-az-battle.ogg"
-  },
-  "bsm-2": {
-    "title": "b2-13_過去の観測者",
-    "size": 1267898,
-    "duration": 126.1772335600907,
-    "bitrate": 88.0,
-    "sample_rate": 22050,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/bsm-2.ogg"
-  },
-  "battle-seiren-theme": {
-    "title": "16_血塗られた輪廻の果てに_～SEIREN",
-    "size": 1868547,
-    "duration": 91.584,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-seiren-theme.ogg"
-  },
-  "battle-ucnf": {
-    "title": "豬ｮ遨ｺ謌倩芦_G",
-    "size": 1954901,
-    "duration": 93.8550566893424,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-ucnf.ogg"
-  },
-  "theme-tempest-up": {
-    "title": "驰骋七海_G",
-    "size": 2375682,
-    "duration": 120.02394557823129,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-tempest-up.ogg"
-  },
-  "main-chunjie2": {
-    "title": "spring_2021",
-    "size": 2901804,
-    "duration": 136.98133333333334,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/main-chunjie2.ogg"
-  },
-  "idom-thinking": {
-    "title": "THINKING_RMX",
-    "size": 980549,
-    "duration": 49.11020408163265,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/idom-thinking.ogg"
-  },
-  "battle-nep": {
-    "title": "nepu_025_The Code~Noisy And Calm~",
-    "size": 3513766,
-    "duration": 165.26933333333332,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-nep.ogg"
-  },
-  "battle-unzen-2": {
-    "title": "陜ｶ蠖ｱ鄙ｩ辟ｶ_eden5th08",
-    "size": 2013137,
-    "duration": 90.45333333333333,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-unzen-2.ogg"
-  },
-  "story-temepest-2": {
-    "title": "往日幽影_eden5th10",
-    "size": 1864286,
-    "duration": 90.00533333333334,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-temepest-2.ogg"
-  },
-  "level-french2": {
-    "title": "bgm-level-french2",
-    "size": 1994472,
-    "duration": 94.22657596371882,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/level-french2.ogg"
-  },
-  "sk-az-pv1": {
-    "title": "闪乱缤纷大作战_G",
-    "size": 1264357,
-    "duration": 67.87192743764173,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sk-az-pv1.ogg"
-  },
-  "bgm-waterwave": {
-    "title": "bgm-waterwave",
-    "size": 314094,
-    "duration": 19.17866666666667,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/bgm-waterwave.ogg"
-  },
-  "story-nepu2": {
-    "title": "nepu_031_TUTORIAL_1411",
-    "size": 1913789,
-    "duration": 85.03147392290249,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-nepu2.ogg"
-  },
-  "idom-appeal": {
-    "title": "APPEAL_RMX",
-    "size": 1416681,
-    "duration": 64.48181405895691,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/idom-appeal.ogg"
-  },
-  "battle-temepest-2": {
-    "title": "髯ｨ譏溷擒關ｽ荵句綾_eden5th09",
-    "size": 2064844,
-    "duration": 93.35466666666666,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-temepest-2.ogg"
-  },
-  "idol-inorinouta-inst": {
-    "title": "逾医ｊ繝弱え繧ｿ ShortSize Inst Mixed",
-    "size": 2972385,
-    "duration": 145.00266666666667,
-    "bitrate": 160.0,
-    "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/idol-inorinouta-inst.ogg"
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-ijndailymeeting.ogg"
   },
   "theme-irisangel": {
     "title": "bgm-theme-irisangel神聖奪還",
@@ -2831,76 +2463,444 @@
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-irisangel.ogg"
   },
-  "story-maystorm": {
-    "title": "bgm-story-maystorm",
-    "size": 1126834,
-    "duration": 57.35328798185941,
+  "theme-kerguelen": {
+    "title": "蜃ｯ蟆皮尠譛礼噪鬟酸G",
+    "size": 895931,
+    "duration": 45.348571428571425,
     "bitrate": 160.0,
     "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-maystorm.ogg"
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-kerguelen.ogg"
   },
-  "battle-boss-5": {
-    "title": "皇家战斗女仆团，出击！",
-    "size": 2780867,
-    "duration": 137.16027210884354,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-5.ogg"
-  },
-  "doa_huanzhuang": {
-    "title": "bgm_doa_huanzhuang",
-    "size": 2641528,
-    "duration": 117.568,
+  "theme-longgong": {
+    "title": "theme-longgong",
+    "size": 3072536,
+    "duration": 152.34133333333332,
     "bitrate": 160.0,
     "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/doa_huanzhuang.ogg"
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-longgong.ogg"
   },
-  "story-5": {
-    "title": "AL_theme_siren_2_cut",
-    "size": 1356547,
-    "duration": 65.66603174603175,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-5.ogg"
-  },
-  "battle-deepecho2": {
-    "title": "bgm-battle-deepecho2",
-    "size": 1601550,
-    "duration": 77.6475283446712,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-deepecho2.ogg"
-  },
-  "story-concert-delight": {
-    "title": "庆典与金色乐音_G",
-    "size": 1908320,
-    "duration": 96.38603174603175,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-concert-delight.ogg"
-  },
-  "level03": {
-    "title": "皇家主场BGM",
-    "size": 3411094,
-    "duration": 171.45614512471656,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/level03.ogg"
-  },
-  "idom-tender": {
-    "title": "TENDER_RMX",
-    "size": 1984844,
-    "duration": 91.50984126984127,
-    "bitrate": 160.0,
-    "sample_rate": 44100,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/idom-tender.ogg"
-  },
-  "beverly_short_jp": {
-    "title": "Beverly_short_jp",
-    "size": 2138726,
-    "duration": 105.00266666666667,
+  "theme-longgong-loop": {
+    "title": "theme-longgong-loop",
+    "size": 2411408,
+    "duration": 116.52266666666667,
     "bitrate": 160.0,
     "sample_rate": 48000,
-    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/beverly_short_jp.ogg"
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-longgong-loop.ogg"
+  },
+  "theme-marcopolo": {
+    "title": "杰出并非凡且伟大_G",
+    "size": 2399835,
+    "duration": 120.02394557823129,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-marcopolo.ogg"
+  },
+  "theme-midgard-hunting": {
+    "title": "theme-midgard-hunting",
+    "size": 2104133,
+    "duration": 108.9015873015873,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-midgard-hunting.ogg"
+  },
+  "theme-musashi-inside": {
+    "title": "bgm-theme-musashi-inside",
+    "size": 2294372,
+    "duration": 115.54249433106575,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-musashi-inside.ogg"
+  },
+  "theme-musashi-marching": {
+    "title": "theme-musashi-marching",
+    "size": 2291048,
+    "duration": 112.57034013605443,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-musashi-marching.ogg"
+  },
+  "theme-musashi-outside": {
+    "title": "bgm-theme-musashi-outside",
+    "size": 2284515,
+    "duration": 110.912,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-musashi-outside.ogg"
+  },
+  "theme-partydress": {
+    "title": "bgm-theme-partydress",
+    "size": 1770513,
+    "duration": 86.95466666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-partydress.ogg"
+  },
+  "theme-richard": {
+    "title": "theme-richard迢ゆｹｱ縺ｮMETA",
+    "size": 2604659,
+    "duration": 125.22521541950114,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-richard.ogg"
+  },
+  "theme-richelieu": {
+    "title": "theme-richelieu繧｢繧､繝ｪ繧ｹ鮗嶺ｺｺ",
+    "size": 2975664,
+    "duration": 147.818231292517,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-richelieu.ogg"
+  },
+  "theme-roma-image": {
+    "title": "bgm-theme-roma-image",
+    "size": 2414745,
+    "duration": 118.02702947845805,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-roma-image.ogg"
+  },
+  "theme-royalknights-battle": {
+    "title": "theme-royalknights-battle騎士団進撃",
+    "size": 1937887,
+    "duration": 90.45333333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-royalknights-battle.ogg"
+  },
+  "theme-sakuraholyplace": {
+    "title": "神木之殇_eden5th06",
+    "size": 1851918,
+    "duration": 96.02133333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-sakuraholyplace.ogg"
+  },
+  "theme-schoolfuture": {
+    "title": "SF蟄ｦ髯｢_Shade",
+    "size": 2055677,
+    "duration": 97.57024943310658,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-schoolfuture.ogg"
+  },
+  "theme-seaandsun-image": {
+    "title": "起航的冒险者_2nd1",
+    "size": 1675968,
+    "duration": 90.00533333333334,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-seaandsun-image.ogg"
+  },
+  "theme-seaandsun-soft": {
+    "title": "蟷ｳ髱咏噪豬ｷ_Eden",
+    "size": 1748394,
+    "duration": 89.64266666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-seaandsun-soft.ogg"
+  },
+  "theme-shallowoftheworld": {
+    "title": "theme-shallowoftheworld",
+    "size": 1659769,
+    "duration": 97.00266666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-shallowoftheworld.ogg"
+  },
+  "theme-shinanometa": {
+    "title": "bgm-theme-shinanometa",
+    "size": 2387931,
+    "duration": 112.84897959183674,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-shinanometa.ogg"
+  },
+  "theme-starsea-core": {
+    "title": "體ｶ豐ｳ荵句ｿダG",
+    "size": 2401290,
+    "duration": 124.24997732426304,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-starsea-core.ogg"
+  },
+  "theme-starsea-explo": {
+    "title": "迈向未来的探索_PV",
+    "size": 1561719,
+    "duration": 75.37197278911565,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-starsea-explo.ogg"
+  },
+  "theme-summersky": {
+    "title": "豬ｷ貊ｩ荳主∞譌･",
+    "size": 2445995,
+    "duration": 121.34748299319727,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-summersky.ogg"
+  },
+  "theme-tempest": {
+    "title": "黄金鹿与白银蛸_2nd10",
+    "size": 3099508,
+    "duration": 151.50933333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-tempest.ogg"
+  },
+  "theme-tempest-up": {
+    "title": "驰骋七海_G",
+    "size": 2375682,
+    "duration": 120.02394557823129,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-tempest-up.ogg"
+  },
+  "theme-thedevilxv": {
+    "title": "仲裁者迪贝路_G",
+    "size": 2587883,
+    "duration": 124.94657596371881,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-thedevilxv.ogg"
+  },
+  "theme-thehermitix": {
+    "title": "仲裁者赫米忒_RE",
+    "size": 2081752,
+    "duration": 100.65850340136055,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-thehermitix.ogg"
+  },
+  "theme-thehierophantv": {
+    "title": "仲裁者海洛芬特_G",
+    "size": 2650378,
+    "duration": 124.80725623582767,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-thehierophantv.ogg"
+  },
+  "theme-theloversvi": {
+    "title": "theme-theloversVI",
+    "size": 2087816,
+    "duration": 96.02133333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-theloversvi.ogg"
+  },
+  "theme-thetowerxvi": {
+    "title": "仲裁者托瓦_6th4",
+    "size": 1921383,
+    "duration": 93.34421768707483,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-thetowerxvi.ogg"
+  },
+  "theme-threat-typev": {
+    "title": "隨ｬ莠皮ｱｻ螽∬メ_2nd2",
+    "size": 1799812,
+    "duration": 91.43466666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-threat-typev.ogg"
+  },
+  "theme-ucnf-beacon": {
+    "title": "深潜式信标_G",
+    "size": 1146190,
+    "duration": 59.675283446712015,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-ucnf-beacon.ogg"
+  },
+  "theme-ucnf-flagship": {
+    "title": "联合理事会之骄傲_eden5th13",
+    "size": 1831635,
+    "duration": 90.15466666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-ucnf-flagship.ogg"
+  },
+  "theme-ucnf-image": {
+    "title": "星海逐光_G",
+    "size": 2356276,
+    "duration": 118.81650793650793,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-ucnf-image.ogg"
+  },
+  "theme-ulrich": {
+    "title": "智者与蜘蛛_Shade",
+    "size": 2858657,
+    "duration": 139.7144671201814,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-ulrich.ogg"
+  },
+  "theme-underheaven": {
+    "title": "陆上天国_G",
+    "size": 2920500,
+    "duration": 143.4528798185941,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-underheaven.ogg"
+  },
+  "theme-unzen": {
+    "title": "莠台ｸｭ譛我ｻ兩G",
+    "size": 2254541,
+    "duration": 120.25614512471655,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-unzen.ogg"
+  },
+  "theme-vanguard": {
+    "title": "theme-vanguard白と黒の王家騎士",
+    "size": 1789224,
+    "duration": 89.62133333333334,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-vanguard.ogg"
+  },
+  "theme-vichy-church": {
+    "title": "圣堂_G",
+    "size": 1943638,
+    "duration": 101.65696145124717,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-vichy-church.ogg"
+  },
+  "theme-vichy-revelation": {
+    "title": "审判的象征_G",
+    "size": 2539376,
+    "duration": 130.68190476190478,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-vichy-revelation.ogg"
+  },
+  "theme-vichy-slaughter": {
+    "title": "审判型机甲武装_G",
+    "size": 2379783,
+    "duration": 120.02394557823129,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-vichy-slaughter.ogg"
+  },
+  "theme-warmwinter-daily": {
+    "title": "辜溷ｹ穂ｸ朱妛_G",
+    "size": 1264425,
+    "duration": 62.345578231292514,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-warmwinter-daily.ogg"
+  },
+  "theme-yixian-pv-loop": {
+    "title": "鲜逸如初_G",
+    "size": 2505864,
+    "duration": 117.77160997732426,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-yixian-pv-loop.ogg"
+  },
+  "theme-yixian-soft-loop": {
+    "title": "清茶氤氲_G",
+    "size": 2339987,
+    "duration": 125.0162358276644,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-yixian-soft-loop.ogg"
+  },
+  "us20200401": {
+    "title": "Azur Lane remix demo3",
+    "size": 1768030,
+    "duration": 87.07482993197279,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/us20200401.ogg"
+  },
+  "votefes-start": {
+    "title": "耀眼晴空_PX",
+    "size": 1309931,
+    "duration": 68.05333333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/votefes-start.ogg"
+  },
+  "votefes-up": {
+    "title": "蜀ｳ襍帛､彑PX",
+    "size": 2337045,
+    "duration": 113.792,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/votefes-up.ogg"
+  },
+  "wavyflow-full": {
+    "title": "wavyflow-full",
+    "size": 4200336,
+    "duration": 205.61066666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/wavyflow-full.ogg"
+  },
+  "wavyflow-inst-full": {
+    "title": "wavyflow-inst-full",
+    "size": 4196915,
+    "duration": 205.61066666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/wavyflow-inst-full.ogg"
+  },
+  "wavyflow-inst-short": {
+    "title": "wavyflow-inst-short",
+    "size": 2370036,
+    "duration": 116.37333333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/wavyflow-inst-short.ogg"
+  },
+  "wavyflow-short": {
+    "title": "wavyflow-short",
+    "size": 2377355,
+    "duration": 116.37333333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/wavyflow-short.ogg"
+  },
+  "wedding": {
+    "title": "BGM-WEDDING",
+    "size": 1648744,
+    "duration": 83.91691609977325,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/wedding.ogg"
+  },
+  "xinnong-1": {
+    "title": "BGM003",
+    "size": 1976529,
+    "duration": 97.38666666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/xinnong-1.ogg"
+  },
+  "xinnong-2": {
+    "title": "15_鋼鉄の裁き_～METALBLOOD",
+    "size": 1805269,
+    "duration": 94.336,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/xinnong-2.ogg"
+  },
+  "xinnong-3": {
+    "title": "BGM013",
+    "size": 3298274,
+    "duration": 156.992,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/xinnong-3.ogg"
+  },
+  "xinnong-4": {
+    "title": "BGM014",
+    "size": 3612775,
+    "duration": 174.63466666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/xinnong-4.ogg"
   }
 }

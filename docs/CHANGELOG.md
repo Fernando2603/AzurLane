@@ -1,9 +1,71 @@
+## Patch 4.5.9
+<details>
+  <summary>17 February 2024</summary>
+
+  - nationality:
+    - add semi-auto update (only refresh assets, need manual for new faction)
+    - add `id`, `code` and `prefix` key into `nationality.json`
+    - add `nationality_link.json`
+
+  - `images/stats` will be removed in `2025`.
+  - add `images/attribute`
+  - add `attribute.json` (semi-auto update)
+    ```Typescript
+    type Link = string | null;
+
+    type Attribute = {
+      code: string; // cannon
+      name: string; // firepower
+      short: string; // FP
+      icon: Link; // raw icon asset
+      iconbox: Link; // raw icon with 1:1 ratio (padding)
+      icon128: Link; // icon 128x128
+      icon64: Link; // icon 64x64
+      icon32: Linl; // icon 32x32
+    };
+
+    type AttributeData = {
+      [key: string]: Attribute;
+    };
+    ```
+  - overhaul `images/type` (remove old file)
+  - overhaul `hulltype.json` (semi-auto update)
+    ```Typescript
+    type Link = string | null;
+
+    const LABEL_LIST = [
+      "AE", "AR", "BB", "BBV", "BC", "BM",
+      "CA", "CB", "CL", "CV", "CVL", "DD", "DDG",
+      "IX", "IXM", "IXS", "IXV", "SS", "SSV",
+      "BB/BC", "CA/CB", "CL/DD", "CV/CVL", "SS/SSV"
+    ];
+
+    type Hulltype = {
+      id: number;
+      name: string;
+      short: string;
+      position: string
+      icon: Link;
+      tech: Link; // text/icon used in fleet tech page
+      title: Link; // text/icon used in ship profile
+      label: {
+        [label_name: string]: Link; // used by gear
+      };
+    };
+
+    type HulltypeData = {
+      [hulltype_id: string]: Hulltype;
+    };
+    ```
+</details>
+
 ## Patch 4.4.9
 <details>
   <summary>03 February 2024</summary>
   
   - fix minor typo in docs
-  - fix data inconsistent default value in `python`
+  - fix data inconsistent default value in `Python`
+  
   **Note:** `ship.json` is still in prototype phase, its kinda complicated since `ship.json` aiming for dynamic statistics change, but it will release with mutliple different dataset once the script pass the test, the release time still unknown to this date.
 </details>
 

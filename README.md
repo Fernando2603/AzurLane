@@ -23,9 +23,18 @@ Azur Lane Resources
 > [!NOTE]
 > The dataset itself doesn't have version control, but it sync with the current game version.
 
+## Docs
+- [CHANGELOG](/docs/CHANGELOG.md)
+- [BGM](/docs/BGM.md)
+- [SKIN](/docs/SKIN.md)
+- [SKILL](/docs/SKILL.md)
+- [EQUIPMENT](/docs/EQUIPMENT.md)
+- [MEOWFFICER](/docs/MEOWFFICER.md)
+- [VOICELINE](/docs/VOICELINE.md)
+- [list of missing voiceline audio](/docs/MISSING_VOICELINE.md)
 
 ## Repository Size
-Repository contains 47707 files with a size of 8.06 GB (8649573897 B).
+Repository contains 47850 files with a size of 8.06 GB (8650843186 B).
 
 ### Audio
 Contains 33182 files with a size of 3.31 GB (3554102357 B).
@@ -37,7 +46,7 @@ Contains 33182 files with a size of 3.31 GB (3554102357 B).
   Contains 1809 skins voiceline, 32819 files with a size of 2.55 GB (2733497566 B).
 
 ### Images
-Contains 14471 files with a size of 4.71 GB (5055792636 B).
+Contains 14612 files with a size of 4.71 GB (5056324340 B).
 
 - **Background:**
   Contains 87 files with a size of 55.60 MB (58295911 B).
@@ -69,16 +78,6 @@ Contains 14471 files with a size of 4.71 GB (5055792636 B).
 
 > [!NOTE]
 > Assets without auto-update are not included.
-
-## Docs
-- [CHANGELOG](/docs/CHANGELOG.md)
-- [BGM](/docs/BGM.md)
-- [SKIN](/docs/SKIN.md)
-- [SKILL](/docs/SKILL.md)
-- [EQUIPMENT](/docs/EQUIPMENT.md)
-- [MEOWFFICER](/docs/MEOWFFICER.md)
-- [VOICELINE](/docs/VOICELINE.md)
-- [list of missing voiceline audio](/docs/MISSING_VOICELINE.md)
 
 ## Fetch
 ```

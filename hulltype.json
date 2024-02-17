@@ -1,93 +1,243 @@
 {
   "1": {
+    "id": 1,
     "name": "Destroyer",
-    "slang": "DD",
-    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/DD.png"
+    "short": "DD",
+    "position": "vanguard",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/1.png",
+    "tech": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/tech_1.png",
+    "title": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/title_1.png",
+    "label": {
+      "DD": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/label_1.png",
+      "CL/DD": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/label_55.png"
+    }
   },
   "2": {
+    "id": 2,
     "name": "Light Cruiser",
-    "slang": "CL",
-    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/CL.png"
+    "short": "CL",
+    "position": "vanguard",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/2.png",
+    "tech": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/tech_2.png",
+    "title": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/title_2.png",
+    "label": {
+      "CL": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/label_2.png",
+      "CL/DD": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/label_55.png"
+    }
   },
   "3": {
+    "id": 3,
     "name": "Heavy Cruiser",
-    "slang": "CA",
-    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/CA.png"
+    "short": "CA",
+    "position": "vanguard",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/3.png",
+    "tech": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/tech_3.png",
+    "title": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/title_3.png",
+    "label": {
+      "CA": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/label_3.png",
+      "CA/CB": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/label_13.png"
+    }
   },
   "4": {
+    "id": 4,
     "name": "Battlecruiser",
-    "slang": "BC",
-    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/BC.png"
+    "short": "BC",
+    "position": "main",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/4.png",
+    "tech": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/tech_4.png",
+    "title": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/title_4.png",
+    "label": {
+      "BC": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/label_4.png",
+      "BB/BC": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/label_11.png"
+    }
   },
   "5": {
+    "id": 5,
     "name": "Battleship",
-    "slang": "BB",
-    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/BB.png"
+    "short": "BB",
+    "position": "main",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/5.png",
+    "tech": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/tech_5.png",
+    "title": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/title_5.png",
+    "label": {
+      "BB": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/label_5.png",
+      "BB/BC": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/label_11.png"
+    }
   },
   "6": {
+    "id": 6,
     "name": "Light Carrier",
-    "slang": "CVL",
-    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/CVL.png"
+    "short": "CVL",
+    "position": "main",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/6.png",
+    "tech": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/tech_6.png",
+    "title": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/title_6.png",
+    "label": {
+      "CVL": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/label_6.png",
+      "CV/CVL": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/label_12.png"
+    }
   },
   "7": {
+    "id": 7,
     "name": "Aircraft Carrier",
-    "slang": "CV",
-    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/CV.png"
+    "short": "CV",
+    "position": "main",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/7.png",
+    "tech": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/tech_7.png",
+    "title": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/title_7.png",
+    "label": {
+      "CV": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/label_7.png",
+      "CV/CVL": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/label_12.png"
+    }
   },
   "8": {
+    "id": 8,
     "name": "Submarine",
-    "slang": "SS",
-    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/SS.png"
+    "short": "SS",
+    "position": "submarine",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/8.png",
+    "tech": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/tech_8.png",
+    "title": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/title_8.png",
+    "label": {
+      "SS": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/label_19.png",
+      "SS/SSV": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/label_8.png"
+    }
   },
   "10": {
+    "id": 10,
     "name": "Aviation Battleship",
-    "slang": "BBV",
-    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/BBV.png"
+    "short": "BBV",
+    "position": "main",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/10.png",
+    "tech": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/tech_10.png",
+    "title": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/title_10.png",
+    "label": {
+      "BBV": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/label_10.png"
+    }
   },
   "12": {
+    "id": 12,
     "name": "Repair",
-    "slang": "AR",
-    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/AR.png"
+    "short": "AR",
+    "position": "main",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/12.png",
+    "tech": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/tech_12.png",
+    "title": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/title_12.png",
+    "label": {
+      "AR": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/label_20.png"
+    }
   },
   "13": {
+    "id": 13,
     "name": "Monitor",
-    "slang": "BM",
-    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/BM.png"
+    "short": "BM",
+    "position": "main",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/13.png",
+    "tech": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/tech_13.png",
+    "title": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/title_13.png",
+    "label": {
+      "BM": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/label_21.png"
+    }
   },
   "17": {
-    "name": "Submarine Carrier",
-    "slang": "SSV",
-    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/SSV.png"
+    "id": 17,
+    "name": "Aviation Submarine",
+    "short": "SSV",
+    "position": "submarine",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/17.png",
+    "tech": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/tech_17.png",
+    "title": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/title_17.png",
+    "label": {
+      "SSV": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/label_17.png",
+      "SS/SSV": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/label_8.png"
+    }
   },
   "18": {
-    "name": "Heavy Crusier",
-    "slang": "CB",
-    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/CB.png"
+    "id": 18,
+    "name": "Large Cruiser",
+    "short": "CB",
+    "position": "vanguard",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/18.png",
+    "tech": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/tech_18.png",
+    "title": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/title_18.png",
+    "label": {
+      "CB": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/label_18.png",
+      "CA/CB": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/label_13.png"
+    }
   },
   "19": {
-    "name": "Munition Ship",
-    "slang": "AE",
-    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/AE.png"
+    "id": 19,
+    "name": "Munition",
+    "short": "AE",
+    "position": "vanguard",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/19.png",
+    "tech": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/tech_19.png",
+    "title": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/title_19.png",
+    "label": {
+      "AE": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/label_22.png"
+    }
   },
   "20": {
-    "name": "Guided-Missile Destroyer (Vanguard)",
-    "slang": "DDGv",
-    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/DDGv.png"
+    "id": 20,
+    "name": "Guided-missile Destroyer",
+    "short": "DDGV",
+    "position": "vanguard",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/20.png",
+    "tech": null,
+    "title": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/title_20.png",
+    "label": {
+      "DDG": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/label_23.png"
+    }
   },
   "21": {
-    "name": "Guided-Missile Destroyer (Main)",
-    "slang": "DDGm",
-    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/DDGm.png"
+    "id": 21,
+    "name": "Guided-missile Destroyer",
+    "short": "DDGM",
+    "position": "main",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/21.png",
+    "tech": null,
+    "title": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/title_21.png",
+    "label": {
+      "DDG": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/label_23.png"
+    }
   },
   "22": {
+    "id": 22,
     "name": "Sailing Frigate",
-    "slang": "IX",
-    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/IX.png"
+    "short": "IXS",
+    "position": "submarine",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/22.png",
+    "tech": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/tech_22.png",
+    "title": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/title_22.png",
+    "label": {
+      "IX": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/label_27.png",
+      "IXS": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/label_24.png"
+    }
   },
-  "40": {
-    "name": "Guided-Missile Destroyer",
-    "slang": "DDG",
-    "notes": "This is custom id created to hold base DDG",
-    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/DDG.png"
+  "23": {
+    "id": 23,
+    "name": "Sailing Frigate",
+    "short": "IXV",
+    "position": "vanguard",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/23.png",
+    "tech": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/tech_23.png",
+    "title": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/title_23.png",
+    "label": {
+      "IX": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/label_27.png",
+      "IXV": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/label_25.png"
+    }
+  },
+  "24": {
+    "id": 24,
+    "name": "Sailing Frigate",
+    "short": "IXM",
+    "position": "main",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/24.png",
+    "tech": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/tech_24.png",
+    "title": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/title_24.png",
+    "label": {
+      "IX": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/label_27.png",
+      "IXM": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/type/label_26.png"
+    }
   }
 }

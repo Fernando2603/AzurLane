@@ -1,0 +1,162 @@
+{
+  "health": {
+    "code": "durability",
+    "name": "Health",
+    "short": "HP",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/health.png",
+    "iconbox": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/health_box.png",
+    "icon128": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/health_128.png",
+    "icon64": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/health_64.png",
+    "icon32": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/health_32.png"
+  },
+  "firepower": {
+    "code": "cannon",
+    "name": "Firepower",
+    "short": "FP",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/firepower.png",
+    "iconbox": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/firepower_box.png",
+    "icon128": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/firepower_128.png",
+    "icon64": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/firepower_64.png",
+    "icon32": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/firepower_32.png"
+  },
+  "torpedo": {
+    "code": "torpedo",
+    "name": "Torpedo",
+    "short": "TRP",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/torpedo.png",
+    "iconbox": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/torpedo_box.png",
+    "icon128": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/torpedo_128.png",
+    "icon64": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/torpedo_64.png",
+    "icon32": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/torpedo_32.png"
+  },
+  "antiair": {
+    "code": "antiaircraft",
+    "name": "Anti-Air",
+    "short": "AA",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/antiair.png",
+    "iconbox": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/antiair_box.png",
+    "icon128": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/antiair_128.png",
+    "icon64": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/antiair_64.png",
+    "icon32": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/antiair_32.png"
+  },
+  "aviation": {
+    "code": "air",
+    "name": "Aviation",
+    "short": "AVI",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/aviation.png",
+    "iconbox": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/aviation_box.png",
+    "icon128": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/aviation_128.png",
+    "icon64": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/aviation_64.png",
+    "icon32": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/aviation_32.png"
+  },
+  "reload": {
+    "code": "reload",
+    "name": "Reload",
+    "short": "RLD",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/reload.png",
+    "iconbox": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/reload_box.png",
+    "icon128": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/reload_128.png",
+    "icon64": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/reload_64.png",
+    "icon32": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/reload_32.png"
+  },
+  "armor": {
+    "code": "armor",
+    "name": "Armor",
+    "short": "ARMOR",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/armor.png",
+    "iconbox": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/armor_box.png",
+    "icon128": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/armor_128.png",
+    "icon64": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/armor_64.png",
+    "icon32": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/armor_32.png"
+  },
+  "accuracy": {
+    "code": "hit",
+    "name": "Accuracy",
+    "short": "ACC",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/accuracy.png",
+    "iconbox": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/accuracy_box.png",
+    "icon128": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/accuracy_128.png",
+    "icon64": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/accuracy_64.png",
+    "icon32": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/accuracy_32.png"
+  },
+  "evasion": {
+    "code": "dodge",
+    "name": "Evasion",
+    "short": "EVA",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/evasion.png",
+    "iconbox": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/evasion_box.png",
+    "icon128": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/evasion_128.png",
+    "icon64": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/evasion_64.png",
+    "icon32": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/evasion_32.png"
+  },
+  "speed": {
+    "code": "speed",
+    "name": "Speed",
+    "short": "SPD",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/speed.png",
+    "iconbox": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/speed_box.png",
+    "icon128": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/speed_128.png",
+    "icon64": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/speed_64.png",
+    "icon32": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/speed_32.png"
+  },
+  "luck": {
+    "code": "luck",
+    "name": "Luck",
+    "short": "LCK",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/luck.png",
+    "iconbox": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/luck_box.png",
+    "icon128": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/luck_128.png",
+    "icon64": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/luck_64.png",
+    "icon32": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/luck_32.png"
+  },
+  "asw": {
+    "code": "antisub",
+    "name": "Anti-Submarine Warfare",
+    "short": "ASW",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/asw.png",
+    "iconbox": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/asw_box.png",
+    "icon128": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/asw_128.png",
+    "icon64": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/asw_64.png",
+    "icon32": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/asw_32.png"
+  },
+  "hunting_range": {
+    "code": "hunting_range",
+    "name": "Hunting Range",
+    "short": "ASR",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/hunting_range.png",
+    "iconbox": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/hunting_range_box.png",
+    "icon128": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/hunting_range_128.png",
+    "icon64": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/hunting_range_64.png",
+    "icon32": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/hunting_range_32.png"
+  },
+  "cost": {
+    "code": "consume",
+    "name": "Cost",
+    "short": "COST",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/cost.png",
+    "iconbox": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/cost_box.png",
+    "icon128": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/cost_128.png",
+    "icon64": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/cost_64.png",
+    "icon32": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/cost_32.png"
+  },
+  "oxygen": {
+    "code": "oxy_max",
+    "name": "Oxygen",
+    "short": "OXY",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/oxygen.png",
+    "iconbox": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/oxygen_box.png",
+    "icon128": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/oxygen_128.png",
+    "icon64": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/oxygen_64.png",
+    "icon32": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/oxygen_32.png"
+  },
+  "ammunition": {
+    "code": "ammo",
+    "name": "Ammunition",
+    "short": "AMO",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/ammunition.png",
+    "iconbox": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/ammunition_box.png",
+    "icon128": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/ammunition_128.png",
+    "icon64": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/ammunition_64.png",
+    "icon32": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/attribute/ammunition_32.png"
+  }
+}
