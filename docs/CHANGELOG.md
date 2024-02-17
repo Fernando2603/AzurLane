@@ -1,3 +1,12 @@
+## Patch 4.5.10
+<details>
+  <summary>17 February 2024</summary>
+  
+  - change `ship_skin_list.json` `skins` key from `object` to `list` (like old `skins.json`)
+
+  **Note:** after much consideration, i think this needed for code languages that have unordered object like `Javascript`, with this i think both `ship_skin.json` and `ship_skin_list.json` can be used at same time if fast access from key needed, both file combined only have 5mb size, it not that heavy for current year internet usage or memory, so this is reasonable change.
+</details>
+
 ## Patch 4.5.9
 <details>
   <summary>17 February 2024</summary>

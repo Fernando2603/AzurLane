@@ -168,6 +168,12 @@ type ShipSkinData = {
 };
 
 // ship_skin_list.json
+type ShipSkin = {
+  gid: number;
+  name: string;
+  skins: SkinData[];
+};
+
 type ShipSkinListData = ShipSkin[];
 ```
 
