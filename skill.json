@@ -6647,6 +6647,78 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17580.png",
     "max_level": 10
   },
+  "17590": {
+    "id": 17590,
+    "type": 1,
+    "name": "Sublimation, to Sunder All Storms",
+    "desc": "When this ship finishes loading her Main Guns: 100% chance to fire a Lv.10 special barrage (DMG is based on the skill's level). Inflicts the following effects for 6s to enemies hit by this barrage: 1) Decreases SPD by 40.0%; 2) Increases DMG taken by 8.0%; 3) When Sovetsky Soyuz attacks the enemy, increases her Crit Rate by 10.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17590.png",
+    "max_level": 10
+  },
+  "17600": {
+    "id": 17600,
+    "type": 3,
+    "name": "Irradiance, to Extol Solidarity's Glory",
+    "desc": "When the battle starts: increases your Northern Parliament ships' FP, TRP, and AVI by 15.0%. While this ship is afloat and there are 2 CVs/CVLs in your Main Fleet: increases your Main Fleet's ACC by 10.0% and your CVs' and CVLs' DMG dealt by 10.0%; if there are 2 or more BBs, BCs, or BBVs in your Main Fleet: increases this ship's Crit Rate, RLD, and DMG dealt by 10.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17600.png",
+    "max_level": 10
+  },
+  "17610": {
+    "id": 17610,
+    "type": 2,
+    "name": "Adamantine, the Walls of Forts Impregnable",
+    "desc": "When there are other Northern Parliament ships in your fleet: decreases your Northern Parliament ships' Burn DMG taken by 15.0%. During a sortie, when another fleet is battling and this ship is afloat: 18s after that fleet's battle starts, fires a Lv.10 special supporting barrage (DMG is based on the skill's level). Decreases the Crit Rate of torpedoes hitting this ship by 20.0% and decreases their DMG by 10.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17610.png",
+    "max_level": 10
+  },
+  "17620": {
+    "id": 17620,
+    "type": 3,
+    "name": "The Strength of Gentle Sunlight",
+    "desc": "Increases this ship's FP by 15.0%. While this ship is afloat: every 10s, every ship in your Vanguard recovers 1.0% of their max HP. The first time this recovery effect activates: also increases this ship's DMG dealt by 12.0% until the battle ends.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17620.png",
+    "max_level": 10
+  },
+  "17630": {
+    "id": 17630,
+    "type": 1,
+    "name": "Firepower Overload!",
+    "desc": "When the battle starts, if there is another Northern Parliament ship in your fleet: gains the buff Max Firepower; every 20s, 60.0% chance to increase this ship's FP by 40.0% for 10s. Every 10s: 70.0% chance to fire a Lv.10 special barrage (DMG is based on the skill's level), if this barrage sinks an enemy ship, fires this barrage again (up to 2 activations possible within 5s).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17630.png",
+    "max_level": 10
+  },
+  "17650": {
+    "id": 17650,
+    "type": 1,
+    "name": "Oathbound Chains",
+    "desc": "When the battle starts: increases this ship's FP by 15.0%. When this ship's Main Guns hit an enemy: 70% chance to, for 8s, decrease that enemy's SPD by 15.0% and increase your Gangut-class BBs' and your Northern Parliament Vanguard ships' DMG dealt by 12.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17650.png",
+    "max_level": 10
+  },
+  "17660": {
+    "id": 17660,
+    "type": 2,
+    "name": "Protecting Links",
+    "desc": "During battle, while this ship is afloat: increases your Northern Parliament ships' EVA by 10.0% and decreases all your other Northern Parliament ships' Burn DMG taken by 15.0%. When this ship takes DMG: fires a Lv.10 special barrage and, for 10s, decreases your Northern Parliament ships' DMG taken by 10.0% (barrage DMG is based on the skill's level; 20s cooldown between activations).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17660.png",
+    "max_level": 10
+  },
+  "17670": {
+    "id": 17670,
+    "type": 1,
+    "name": "Creative Burst",
+    "desc": "Every 18s: 60.0% chance to fire a Lv.10 special barrage (DMG is based on the skill's level). When this barrage hits an enemy: for 8s, decreases that enemy's ACC by 15.0% and increases their DMG taken from this ship by 10.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17670.png",
+    "max_level": 10
+  },
+  "17680": {
+    "id": 17680,
+    "type": 2,
+    "name": "Undeniable Rip-Roaring Spirit",
+    "desc": "Increases this ship's AA by 15.0%. After this ship has fired her Main Guns 15 times: for 5s, decreases this ship's SPD by 3; once this effect ends, decreases this ship's DMG taken by 10.0% until the battle ends.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17680.png",
+    "max_level": 10
+  },
   "18010": {
     "id": 18010,
     "type": 1,
@@ -11207,6 +11279,22 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/20000.png",
     "max_level": 1
   },
+  "30201": {
+    "id": 30201,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Ognevoy once every 15 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30200.png",
+    "max_level": 1
+  },
+  "30202": {
+    "id": 30202,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Ognevoy once every 10 times the Main Guns are fired, and with a 50.0% chance, increases this ship's FP by 20.0% for 10s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30200.png",
+    "max_level": 1
+  },
   "101010": {
     "id": 101010,
     "type": 3,
@@ -14007,6 +14095,62 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801080.png",
     "max_level": 1
   },
+  "801090": {
+    "id": 801090,
+    "type": 1,
+    "name": "Shattered Solidarity",
+    "desc": "Every 12 times this ship fires her Main Guns: fires a Lv.10 special barrage (DMG is based on the skill's level). Increases this ship's DMG dealt (up to 20.0%) the lower her current HP is.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801090.png",
+    "max_level": 10
+  },
+  "801100": {
+    "id": 801100,
+    "type": 2,
+    "name": "Undying Light of the Imperiya",
+    "desc": "When this ship takes DMG: 15.0% chance to gain the buff Glory of the Past for 10.0s. While under this buff: increases this ship's FP and TRP by 20.0% and this ship evades all attacks. 20s cooldown between activations.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801100.png",
+    "max_level": 10
+  },
+  "801110": {
+    "id": 801110,
+    "type": 3,
+    "name": "Intertwining Memories",
+    "desc": "Increases this ship's FP and ACC by 10.0%. Every 20s: for 10s, decreases the SPD all enemies within 55 units of this ship by 20.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801110.png",
+    "max_level": 10
+  },
+  "801121": {
+    "id": 801121,
+    "type": 1,
+    "name": "Flickering Light - Pamiat' Merkuria",
+    "desc": "Every 12 times this ship fires her Main Guns: fires a special barrage. If this ship has the Glory of the Past buff: improves this barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801120.png",
+    "max_level": 1
+  },
+  "801122": {
+    "id": 801122,
+    "type": 1,
+    "name": "Flickering Light - Pamiat' Merkuria II",
+    "desc": "Every 8 times this ship fires her Main Guns: fires a special barrage. If this ship has the Glory of the Past buff: improves this barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801120.png",
+    "max_level": 1
+  },
+  "801125": {
+    "id": 801125,
+    "type": 1,
+    "name": "Flickering Light - Pamiat' Merkuria",
+    "desc": "[Operation Siren]\nEvery 12 times this ship fires her Main Guns: fires a special barrage. If this ship has the Glory of the Past buff: improves this barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 3.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801120.png",
+    "max_level": 1
+  },
+  "801127": {
+    "id": 801127,
+    "type": 1,
+    "name": "Flickering Light - Pamiat' Merkuria II",
+    "desc": "[Operation Siren]\nEvery 8 times this ship fires her Main Guns: fires a special barrage. If this ship has the Glory of the Past buff: improves this barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 5.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801120.png",
+    "max_level": 1
+  },
   "902220": {
     "id": 902220,
     "type": 2,
@@ -14085,6 +14229,22 @@
     "name": "Wargod of Solomon+",
     "desc": "When this ship fires her Main Guns: 5.0% chance to increase this ship's FP, RLD, and EVA by 40.0% for 8s. When the battle starts: restores 10.0% of this ship's max HP, but decreases her SPD by 5 for 8s; 8s after the battle starts: increases this ship's FP and TRP by 12.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/10410.png",
+    "max_level": 10
+  },
+  "1010480": {
+    "id": 1010480,
+    "type": 3,
+    "name": "Sisterly Bond+",
+    "desc": "Increases this ship's Main Gun efficiency by 35.0%. Upgrades this ship's All Out Assault skill to level III and decreases its shot requirement to 4. When sortied with Ping Hai: increases this ship's FP by 35.0%. When sortied with Yat Sen and while this ship is not in the rearmost position of your Vanguard: increases this ship's DMG dealt by 15.0% and upgrades her All Out Assault skill to level IV, but decreases her Evasion Rate by 10.0%",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/10480.png",
+    "max_level": 10
+  },
+  "1010490": {
+    "id": 1010490,
+    "type": 3,
+    "name": "Sisterly Bond+",
+    "desc": "Increases this ship's Main Gun efficiency by 35.0%. Upgrades this ship's All Out Assault skill to level III and decreases its shot requirement to 4. When sortied with Ning Hai: increases this ship's FP by 35.0%. When sortied with Yat Sen and while this ship is not in the frontmost position of your Vanguard: increases this ship's DMG dealt by 15.0% and upgrades her All Out Assault skill to level IV, but decreases her Evasion Rate by 10.0%",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/10490.png",
     "max_level": 10
   },
   "1010510": {

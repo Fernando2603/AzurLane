@@ -70897,8 +70897,7 @@
     "label": [
       "SN",
       "BB",
-      "MG",
-      "AP"
+      "MG"
     ],
     "rarity": 4,
     "nationality": 7,
@@ -71014,6 +71013,166 @@
         "cannon": 25,
         "weapon_id": [
           85330
+        ]
+      }
+    }
+  },
+  "85340": {
+    "name": "Triple 406mm MK-1 Main Gun Mount",
+    "desc": "The 406mm main guns that were mounted on the Sovetsky Soyuz class of battleships.",
+    "label": [
+      "SN",
+      "BB",
+      "MG",
+      "AP"
+    ],
+    "rarity": 5,
+    "nationality": 7,
+    "type": 4,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/85300.png",
+    "stats": {
+      "1": {
+        "id": 85340,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "72 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85340
+        ]
+      },
+      "2": {
+        "id": 85341,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "81 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85341
+        ]
+      },
+      "3": {
+        "id": 85342,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "89 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85342
+        ]
+      },
+      "4": {
+        "id": 85343,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "99 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85343
+        ]
+      },
+      "5": {
+        "id": 85344,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "108 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85344
+        ]
+      },
+      "6": {
+        "id": 85345,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "118 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85345
+        ]
+      },
+      "7": {
+        "id": 85346,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "128 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85346
+        ]
+      },
+      "8": {
+        "id": 85347,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "136 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85347
+        ]
+      },
+      "9": {
+        "id": 85348,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "145 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85348
+        ]
+      },
+      "10": {
+        "id": 85349,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "155 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85349
+        ]
+      },
+      "11": {
+        "id": 85350,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "165 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85350
+        ]
+      },
+      "12": {
+        "id": 85351,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "165 x 3",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          85351
+        ]
+      },
+      "13": {
+        "id": 85352,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "165 x 3",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          85352
+        ]
+      },
+      "14": {
+        "id": 85353,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "165 x 3",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          85353
         ]
       }
     }
@@ -81530,6 +81689,100 @@
       }
     }
   },
+  "91280": {
+    "name": "Cross Brooch",
+    "desc": "A brooch worn by Clemenceau. Some say it has an effect that signals her coming.",
+    "label": [
+      "FFNF",
+      "DEV"
+    ],
+    "rarity": 4,
+    "nationality": 10,
+    "type": 10,
+    "skill": {
+      "60520": {
+        "id": 60520,
+        "name": "Cross Brooch",
+        "desc": "When equipped by a Vanguard ship: if your Flagship is a Vichya Dominion BB or BC, when your Flagship fires her Main Guns: fires an additional special barrage."
+      }
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/51280.png",
+    "stats": {
+      "1": {
+        "id": 91280,
+        "level": 1,
+        "enhance": "+0",
+        "durability": 140
+      },
+      "2": {
+        "id": 91281,
+        "level": 2,
+        "enhance": "+1",
+        "durability": 161
+      },
+      "3": {
+        "id": 91282,
+        "level": 3,
+        "enhance": "+2",
+        "durability": 182
+      },
+      "4": {
+        "id": 91283,
+        "level": 4,
+        "enhance": "+3",
+        "durability": 203
+      },
+      "5": {
+        "id": 91284,
+        "level": 5,
+        "enhance": "+4",
+        "durability": 224
+      },
+      "6": {
+        "id": 91285,
+        "level": 6,
+        "enhance": "+5",
+        "durability": 245
+      },
+      "7": {
+        "id": 91286,
+        "level": 7,
+        "enhance": "+6",
+        "durability": 266
+      },
+      "8": {
+        "id": 91287,
+        "level": 8,
+        "enhance": "+7",
+        "durability": 287
+      },
+      "9": {
+        "id": 91288,
+        "level": 9,
+        "enhance": "+8",
+        "durability": 308
+      },
+      "10": {
+        "id": 91289,
+        "level": 10,
+        "enhance": "+9",
+        "durability": 329
+      },
+      "11": {
+        "id": 91290,
+        "level": 11,
+        "enhance": "+10",
+        "durability": 350
+      },
+      "12": {
+        "id": 91291,
+        "level": 12,
+        "enhance": "+11",
+        "durability": 371,
+        "anti_siren": 1
+      }
+    }
+  },
   "95000": {
     "name": "Triple 381mm M1934 Main Gun Mount",
     "desc": "Main guns that were used by the Vittorio Veneto-class battleships. Equippable by BBs and BCs.",
@@ -87090,6 +87343,99 @@
         "enhance": "+11",
         "hit": 28,
         "cannon": 21,
+        "anti_siren": 1
+      }
+    }
+  },
+  "150260": {
+    "name": "Ascension Box",
+    "desc": "Condense all the world into one city and build the city into a world. The key to heavenly ascension lies inside this box.",
+    "label": [
+      "DEV"
+    ],
+    "rarity": 4,
+    "nationality": 0,
+    "type": 10,
+    "skill": {
+      "60530": {
+        "id": 60530,
+        "name": "Ascension Box",
+        "desc": "If your Flagship is a BB, BC, or BBV: decreases that ship's Main Gun Spread Angle by 2."
+      }
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150260.png",
+    "stats": {
+      "1": {
+        "id": 150260,
+        "level": 1,
+        "enhance": "+0",
+        "durability": 200
+      },
+      "2": {
+        "id": 150261,
+        "level": 2,
+        "enhance": "+1",
+        "durability": 230
+      },
+      "3": {
+        "id": 150262,
+        "level": 3,
+        "enhance": "+2",
+        "durability": 260
+      },
+      "4": {
+        "id": 150263,
+        "level": 4,
+        "enhance": "+3",
+        "durability": 290
+      },
+      "5": {
+        "id": 150264,
+        "level": 5,
+        "enhance": "+4",
+        "durability": 320
+      },
+      "6": {
+        "id": 150265,
+        "level": 6,
+        "enhance": "+5",
+        "durability": 350
+      },
+      "7": {
+        "id": 150266,
+        "level": 7,
+        "enhance": "+6",
+        "durability": 380
+      },
+      "8": {
+        "id": 150267,
+        "level": 8,
+        "enhance": "+7",
+        "durability": 410
+      },
+      "9": {
+        "id": 150268,
+        "level": 9,
+        "enhance": "+8",
+        "durability": 440
+      },
+      "10": {
+        "id": 150269,
+        "level": 10,
+        "enhance": "+9",
+        "durability": 470
+      },
+      "11": {
+        "id": 150270,
+        "level": 11,
+        "enhance": "+10",
+        "durability": 500
+      },
+      "12": {
+        "id": 150271,
+        "level": 12,
+        "enhance": "+11",
+        "durability": 530,
         "anti_siren": 1
       }
     }

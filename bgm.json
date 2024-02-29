@@ -255,6 +255,14 @@
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sk-home.ogg"
   },
+  "story-commander-up": {
+    "title": "自变量_PX",
+    "size": 2245862,
+    "duration": 114.944,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-commander-up.ogg"
+  },
   "battle-roma-sky": {
     "title": "bgm-battle-roma-sky",
     "size": 1789176,
@@ -278,6 +286,14 @@
     "bitrate": 160.0,
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/sk-az-pv1.ogg"
+  },
+  "story-cccp-soft": {
+    "title": "晨雾中的行军_PX",
+    "size": 2583749,
+    "duration": 124.56533333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-cccp-soft.ogg"
   },
   "sk-menu": {
     "title": "sk-menu",
@@ -511,6 +527,14 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/level-nep2.ogg"
   },
+  "theme-merkuriameta": {
+    "title": "来自往昔的敬意_PX",
+    "size": 2055582,
+    "duration": 107.008,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-merkuriameta.ogg"
+  },
   "theme-elizabeth-andmeta": {
     "title": "髯帑ｸ狗噪闕｣蜈雲4th05",
     "size": 1712373,
@@ -630,6 +654,14 @@
     "bitrate": 160.0,
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-4.ogg"
+  },
+  "story-antarctica-serious": {
+    "title": "晦暗明星_G",
+    "size": 1726087,
+    "duration": 80.64290249433107,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-antarctica-serious.ogg"
   },
   "theme-clemenceau": {
     "title": "Attendre et espﾃｩrer._G",
@@ -759,6 +791,14 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/ssss-az-story.ogg"
   },
+  "theme-sovietunion": {
+    "title": "迎向曙光_PX",
+    "size": 2784288,
+    "duration": 131.19274376417235,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-sovietunion.ogg"
+  },
   "idom-speed": {
     "title": "SPEED_RMX",
     "size": 1624175,
@@ -806,6 +846,14 @@
     "bitrate": 160.0,
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-midgard.ogg"
+  },
+  "theme-antarctica": {
+    "title": "雪境迷踪_G",
+    "size": 1782891,
+    "duration": 91.44018140589569,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-antarctica.ogg"
   },
   "sk-az-battle": {
     "title": "突入！风云城！_G",
@@ -2550,6 +2598,14 @@
     "bitrate": 160.0,
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-3.ogg"
+  },
+  "story-nonightcity": {
+    "title": "暗金不夜城_G",
+    "size": 1720366,
+    "duration": 85.33333333333333,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-nonightcity.ogg"
   },
   "wavyflow-inst-short": {
     "title": "wavyflow-inst-short",

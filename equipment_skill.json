@@ -609,6 +609,11 @@
     "name": "Angel's Feather",
     "desc": "When equipped by an Iris Libre or Vichya Dominion ship, restores 3.0% of her max HP 30s after the battle starts. Can only activate once per battle."
   },
+  "60520": {
+    "id": 60520,
+    "name": "Cross Brooch",
+    "desc": "When equipped by a Vanguard ship: if your Flagship is a Vichya Dominion BB or BC, when your Flagship fires her Main Guns: fires an additional special barrage."
+  },
   "6450": {
     "id": 6450,
     "name": "Overheating",
@@ -643,5 +648,10 @@
     "id": 60510,
     "name": "Huan Ch'ang's Fishing Rod",
     "desc": "When equipped by Huan Ch'ang: 15s after the battle starts, throws a fishing tackle forward, creating a special area that lasts 10s. Ships within this area take 5.0% less DMG from the enemy."
+  },
+  "60530": {
+    "id": 60530,
+    "name": "Ascension Box",
+    "desc": "If your Flagship is a BB, BC, or BBV: decreases that ship's Main Gun Spread Angle by 2."
   }
 }
