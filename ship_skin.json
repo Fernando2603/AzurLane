@@ -48494,7 +48494,7 @@
         "tag": [],
         "illustrator": -1,
         "illustrator2": -1,
-        "voice_actor": -1,
+        "voice_actor": 28,
         "voice_actor2": -1,
         "bgm": null,
         "background": null,
@@ -48562,6 +48562,34 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9702070/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9702070/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9702070/shipyard.png"
+      }
+    }
+  },
+  "970505": {
+    "gid": 970505,
+    "name": "Rodney META",
+    "skins": {
+      "9705050": {
+        "id": 9705050,
+        "gid": 970505,
+        "name": "Rodney META",
+        "type": "Default",
+        "desc": "On behalf of all Rodneys, greetings... You must understand, \"I\" am a physical representation of the concept of \"Rodney.\" \"I\" am no more than that...",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 32,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9705050/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9705050/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9705050/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9705050/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9705050/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9705050/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9705050/shipyard.png"
       }
     }
   }

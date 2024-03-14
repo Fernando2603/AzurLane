@@ -10499,7 +10499,7 @@
     "id": 29681,
     "type": 1,
     "name": "EX Barrage - Kirov I",
-    "desc": "Activates EX Barrage - Kirov I every 12 times the Main /Guns are fired.",
+    "desc": "Activates EX Barrage - Kirov I every 12 times the Main Guns are fired.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/29680.png",
     "max_level": 1
   },
@@ -10507,7 +10507,7 @@
     "id": 29682,
     "type": 1,
     "name": "EX Barrage - Kirov II",
-    "desc": "Activates EX Barrage - Kirov II every 8 times the Main /Guns are fired.",
+    "desc": "Activates EX Barrage - Kirov II every 8 times the Main Guns are fired.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/29680.png",
     "max_level": 1
   },
@@ -14149,6 +14149,62 @@
     "name": "Flickering Light - Pamiat' Merkuria II",
     "desc": "[Operation Siren]\nEvery 8 times this ship fires her Main Guns: fires a special barrage. If this ship has the Glory of the Past buff: improves this barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 5.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801120.png",
+    "max_level": 1
+  },
+  "801130": {
+    "id": 801130,
+    "type": 3,
+    "name": "My Phantoms",
+    "desc": "When the battle starts: summons Lv.10 Phantoms of Rodney on the battlefield that attack enemies (the Phantoms inherit some of this ship's stats; the amount of stats inherited is based on the skill's level). Every 12s: all present Rodneys fire a Lv.10 special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801130.png",
+    "max_level": 10
+  },
+  "801140": {
+    "id": 801140,
+    "type": 3,
+    "name": "Rodney's Prayer",
+    "desc": "When the battle starts: increases this ship's FP, AA, and RLD by 15.0%. When one of this ship's Phantoms is sunk: increases this ship's DMG dealt by 8.0% until the battle ends (can be stacked up to 2 times).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801140.png",
+    "max_level": 10
+  },
+  "801150": {
+    "id": 801150,
+    "type": 1,
+    "name": "Demise's Arrival",
+    "desc": "When this ship fires her Main Guns: 80.0% chance to fire a Lv.10 special barrage (DMG is based on the skill's level). When one of this ship's Phantoms is sunk: recovers 5.0% of this ship's max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801150.png",
+    "max_level": 10
+  },
+  "801161": {
+    "id": 801161,
+    "type": 1,
+    "name": "Framework of Logic - Rodney",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 5.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801160.png",
+    "max_level": 1
+  },
+  "801162": {
+    "id": 801162,
+    "type": 1,
+    "name": "Framework of Logic - Rodney",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 8.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801160.png",
+    "max_level": 1
+  },
+  "801165": {
+    "id": 801165,
+    "type": 1,
+    "name": "Framework of Logic - Rodney",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 5.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801160.png",
+    "max_level": 1
+  },
+  "801167": {
+    "id": 801167,
+    "type": 1,
+    "name": "Framework of Logic - Rodney",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 8.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801160.png",
     "max_level": 1
   },
   "902220": {
