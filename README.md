@@ -34,7 +34,7 @@ Azur Lane Resources
 - [list of missing voiceline audio](/docs/MISSING_VOICELINE.md)
 
 ## Repository Size
-Repository contains 48331 files with a size of 8.17 GB (8767353244 B).
+Repository contains 48338 files with a size of 8.17 GB (8770991438 B).
 
 ### Audio
 Contains 33544 files with a size of 3.36 GB (3609128400 B).
@@ -46,10 +46,10 @@ Contains 33544 files with a size of 3.36 GB (3609128400 B).
   Contains 1825 skins voiceline, 33172 files with a size of 2.58 GB (2771332857 B).
 
 ### Images
-Contains 14731 files with a size of 4.77 GB (5118146046 B).
+Contains 14738 files with a size of 4.77 GB (5121781139 B).
 
 - **Background:**
-  Contains 87 files with a size of 55.60 MB (58295911 B).
+  Contains 88 files with a size of 56.21 MB (58941623 B).
 
 - **Equipment:**
   Contains 1094 files with a size of 12.37 MB (12971605 B).
@@ -61,20 +61,20 @@ Contains 14731 files with a size of 4.77 GB (5118146046 B).
   Contains 1287 files with a size of 27.77 MB (29116293 B).
 
 - **Skins:**
-  Contains 1840 skins, 11758 files with a size of 4.65 GB (4988633084 B).
+  Contains 1841 skins, 11764 files with a size of 4.65 GB (4991622465 B).
 
   - **painting:**
-    Contains 2558 files with a size of 4.36 GB (4680583637 B).
+    Contains 2559 files with a size of 4.36 GB (4683407760 B).
   - **banner:**
-    Contains 1840 files with a size of 53.06 MB (55635852 B).
+    Contains 1841 files with a size of 53.09 MB (55664819 B).
   - **chibi:**
-    Contains 1840 files with a size of 61.58 MB (64569096 B).
+    Contains 1841 files with a size of 61.61 MB (64607352 B).
   - **icon:**
-    Contains 1840 files with a size of 37.38 MB (39200744 B).
+    Contains 1841 files with a size of 37.40 MB (39220923 B).
   - **qicon:**
-    Contains 1840 files with a size of 28.95 MB (30359112 B).
+    Contains 1841 files with a size of 28.97 MB (30375147 B).
   - **shipyard:**
-    Contains 1840 files with a size of 112.81 MB (118284643 B).
+    Contains 1841 files with a size of 112.86 MB (118346464 B).
 
 > [!NOTE]
 > Assets without auto-update are not included.
