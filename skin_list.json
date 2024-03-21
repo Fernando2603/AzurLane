@@ -864,7 +864,7 @@
     "id": 131171,
     "gid": 10117,
     "name": "Sleepageddon",
-    "type": "Others",
+    "type": "Rpg Adventure",
     "desc": "Zzzzz... Good night... Laffey, is leveling up... Huh? Commander? Where'd all the monsters go...?",
     "tag": [
       "bg"
@@ -9936,7 +9936,7 @@
     "id": 201217,
     "gid": 20121,
     "name": "A Legend is Born?!",
-    "type": "Others",
+    "type": "Rpg Adventure",
     "desc": "*pant* *pant*... I finally got it! The legendary hero's... Ah, d-don't worry about it! This thing might look a bit weird, but my ATK stat has indeed gone up!",
     "tag": [
       "bg"
@@ -17189,7 +17189,7 @@
     "id": 331055,
     "gid": 30105,
     "name": "Dynamic Kick!",
-    "type": "Others",
+    "type": "Rpg Adventure",
     "desc": "Ultimate Ability: Dynamic Kick! ...Oh, I used my skill on the wrong target. Sorry, can we try that again?",
     "tag": [
       "bg"
@@ -27640,7 +27640,7 @@
     "id": 431232,
     "gid": 40123,
     "name": "Upgrade Failure?!",
-    "type": "Others",
+    "type": "Rpg Adventure",
     "desc": "N-no way... I lost the gear I worked so hard for because the upgrade failed, and now I'm completely out of gold... Ugh, I'm going to have to go farm the dungeon all over again...",
     "tag": [
       "bg"
@@ -28181,7 +28181,7 @@
     "id": 401466,
     "gid": 40146,
     "name": "The Bard of Hamelin",
-    "type": "24",
+    "type": "Rpg Adventure",
     "desc": "Hm? You are following us because you're drawn to the sound of my flute? Ah... Then in exchange for accompanying you on this journey, tell me your story.",
     "tag": [
       "bg"

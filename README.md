@@ -34,7 +34,7 @@ Azur Lane Resources
 - [list of missing voiceline audio](/docs/MISSING_VOICELINE.md)
 
 ## Repository Size
-Repository contains 48338 files with a size of 8.17 GB (8770991438 B).
+Repository contains 48338 files with a size of 8.17 GB (8770997569 B).
 
 ### Audio
 Contains 33544 files with a size of 3.36 GB (3609128400 B).
