@@ -6719,6 +6719,70 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17680.png",
     "max_level": 10
   },
+  "17690": {
+    "id": 17690,
+    "type": 3,
+    "name": "Service Mode",
+    "desc": "When the battle starts, if your Flagship is a CV or CVL: fires a Lv.10 special barrage when your Flagship launches an airstrike (DMG is based on the skill's level). Decreases this ship's DMG taken by 15.0% and, once per battle, when this ship has taken DMG equal to 25.0% of her max HP: restores 8.0% of her max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17690.png",
+    "max_level": 10
+  },
+  "17700": {
+    "id": 17700,
+    "type": 1,
+    "name": "Slayer Mode",
+    "desc": "Every 3 times this ship fires her Main Guns: 70% chance to increase this ship's FP, TRP, ACC, and EVA by 25.0% for 10s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17700.png",
+    "max_level": 10
+  },
+  "17730": {
+    "id": 17730,
+    "type": 1,
+    "name": "It's Cleaning Time!",
+    "desc": "Every 20 times this ship fires her Main Guns: fires a Lv.10 special barrage (DMG is based on the skill's level). The first time this barrage fires: increases this ship's Main Gun Crit Rate by 15.0%; the second time it fires: increases this ship's Main Gun Crit DMG by 15.0%; both of these effects last until the battle ends. Every 2 times this barrage fires: performs a Lv.10 special slashing attack (range is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17730.png",
+    "max_level": 10
+  },
+  "17740": {
+    "id": 17740,
+    "type": 3,
+    "name": "Every Last Speck!",
+    "desc": "Increases this ship's FP and TRP by 12.0%. 15s after the battle starts: 70% chance to increase a random enemy's DMG taken by 15.0% (prioritizes humanoid enemies) and performs a sonar scan, revealing enemy SSs; both these effects last 8s. If these two effects do not activate: instead decreases this ship's DMG taken by 15.0% for 8s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17740.png",
+    "max_level": 10
+  },
+  "17750": {
+    "id": 17750,
+    "type": 2,
+    "name": "Inverted Harmony",
+    "desc": "When the battle starts: deploys a shield (lasts 10.0s) that can negate up to 5 enemy torpedoes, increases this ship's Evasion Rate by 5.0%, and gives this ship the Harmony buff. When the battle starts, if there are 3 ships afloat in your Vanguard and this ship is in the frontmost position, when this ship fires her Main Guns: performs Tuning. If Tuning succeeds, the rearmost ship in your Vanguard gains the Harmony buff; if Tuning fails: the center ship in your Vanguard recovers 1.5% of her max HP. Initially Tuning has a 25.0% chance to succeed, and when it fails, the probability that it will succeed next time increases by 25.0%. When Tuning succeeds, it will not be performed again for the rest of the battle.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17750.png",
+    "max_level": 10
+  },
+  "17760": {
+    "id": 17760,
+    "type": 1,
+    "name": "Victory's Consonance",
+    "desc": "Increases this ship's FP and EVA by 10.0%. When this ship fires her Main Guns: all allies with the Harmony buff fire a Lv.10 special barrage (DMG is based on the skill's level and the FP stat of the ship firing the barrage).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17760.png",
+    "max_level": 10
+  },
+  "17790": {
+    "id": 17790,
+    "type": 3,
+    "name": "Suppressive Fire Order",
+    "desc": "When the battle starts: increases your Vanguard's FP by 10.0%. When the fleet this ship is in has the Adequate Ammo buff: increases this ship's DMG dealt by 15.0%. When this ship fires a wave of torpedoes: fires a Lv.10 special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17790.png",
+    "max_level": 10
+  },
+  "17800": {
+    "id": 17800,
+    "type": 2,
+    "name": "Fit to Serve!",
+    "desc": "When the battle starts: decreases this ship's torpedo DMG taken by 10.0%. Once per battle, when this ship's HP falls below 50.0% as a result of DMG taken: deploys a barrier that can negate up to 7.0% of this ship's max HP in DMG.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17800.png",
+    "max_level": 10
+  },
   "18010": {
     "id": 18010,
     "type": 1,
@@ -11295,6 +11359,22 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30200.png",
     "max_level": 1
   },
+  "30211": {
+    "id": 30211,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Nubian once every 24 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30210.png",
+    "max_level": 1
+  },
+  "30212": {
+    "id": 30212,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Nubian once every 16 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30210.png",
+    "max_level": 1
+  },
   "101010": {
     "id": 101010,
     "type": 3,
@@ -14205,6 +14285,54 @@
     "name": "Framework of Logic - Rodney",
     "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 8.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801160.png",
+    "max_level": 1
+  },
+  "801170": {
+    "id": 801170,
+    "type": 1,
+    "name": "Neverending Night's Kiss",
+    "desc": "Every 15 times this ship's Main Guns hit the same enemy: inflicts the Neverending Night's Kiss status on that enemy, increasing this ship's DMG dealt to them by 6.0%. Increases this ship's torpedo Crit Rate by 10.0%. When this ship's torpedoes hit an enemy with the Neverending Night's Kiss status: restores this ship's HP equal to 8.0% of that hit's DMG and removes the Neverending Night's Kiss status.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801170.png",
+    "max_level": 10
+  },
+  "801180": {
+    "id": 801180,
+    "type": 1,
+    "name": "Everlasting Flowers",
+    "desc": "Every 20s: fires a Lv.10 special barrage. This barrage always deals Crit DMG against enemies with the Neverending Night's Kiss status, then removes the status.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801180.png",
+    "max_level": 10
+  },
+  "801191": {
+    "id": 801191,
+    "type": 1,
+    "name": "Ashen Might - Vampire",
+    "desc": "Every 15 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801190.png",
+    "max_level": 1
+  },
+  "801192": {
+    "id": 801192,
+    "type": 1,
+    "name": "Ashen Might - Vampire",
+    "desc": "Every 10 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801190.png",
+    "max_level": 1
+  },
+  "801195": {
+    "id": 801195,
+    "type": 1,
+    "name": "Ashen Might - Vampire",
+    "desc": "[Operation Siren]\nEvery 15 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 2.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801190.png",
+    "max_level": 1
+  },
+  "801197": {
+    "id": 801197,
+    "type": 1,
+    "name": "Ashen Might - Vampire",
+    "desc": "[Operation Siren]\nEvery 10 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 6.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801190.png",
     "max_level": 1
   },
   "902220": {

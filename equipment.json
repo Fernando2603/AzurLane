@@ -87439,5 +87439,112 @@
         "anti_siren": 1
       }
     }
+  },
+  "150280": {
+    "name": "RPG Adventure Interface",
+    "desc": "Onward – to adventures in a fantasy world!",
+    "label": [
+      "DEV"
+    ],
+    "rarity": 5,
+    "nationality": 0,
+    "type": 10,
+    "skill": {
+      "60540": {
+        "id": 60540,
+        "name": "RPG Adventure Interface",
+        "desc": "Grants a strange power during battle."
+      }
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150280.png",
+    "stats": {
+      "1": {
+        "id": 150280,
+        "level": 1,
+        "enhance": "+0",
+        "durability": 250
+      },
+      "2": {
+        "id": 150281,
+        "level": 2,
+        "enhance": "+1",
+        "durability": 280
+      },
+      "3": {
+        "id": 150282,
+        "level": 3,
+        "enhance": "+2",
+        "durability": 310
+      },
+      "4": {
+        "id": 150283,
+        "level": 4,
+        "enhance": "+3",
+        "durability": 340
+      },
+      "5": {
+        "id": 150284,
+        "level": 5,
+        "enhance": "+4",
+        "durability": 370
+      },
+      "6": {
+        "id": 150285,
+        "level": 6,
+        "enhance": "+5",
+        "durability": 400
+      },
+      "7": {
+        "id": 150286,
+        "level": 7,
+        "enhance": "+6",
+        "durability": 430
+      },
+      "8": {
+        "id": 150287,
+        "level": 8,
+        "enhance": "+7",
+        "durability": 460
+      },
+      "9": {
+        "id": 150288,
+        "level": 9,
+        "enhance": "+8",
+        "durability": 490
+      },
+      "10": {
+        "id": 150289,
+        "level": 10,
+        "enhance": "+9",
+        "durability": 520
+      },
+      "11": {
+        "id": 150290,
+        "level": 11,
+        "enhance": "+10",
+        "durability": 550
+      },
+      "12": {
+        "id": 150291,
+        "level": 12,
+        "enhance": "+11",
+        "durability": 580,
+        "anti_siren": 1
+      },
+      "13": {
+        "id": 150292,
+        "level": 13,
+        "enhance": "+12",
+        "durability": 610,
+        "anti_siren": 2
+      },
+      "14": {
+        "id": 150293,
+        "level": 14,
+        "enhance": "+13",
+        "durability": 640,
+        "anti_siren": 3
+      }
+    }
   }
 }

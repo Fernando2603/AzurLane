@@ -653,5 +653,10 @@
     "id": 60530,
     "name": "Ascension Box",
     "desc": "If your Flagship is a BB, BC, or BBV: decreases that ship's Main Gun Spread Angle by 2."
+  },
+  "60540": {
+    "id": 60540,
+    "name": "RPG Adventure Interface",
+    "desc": "Grants a strange power during battle."
   }
 }

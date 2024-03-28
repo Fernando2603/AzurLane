@@ -2335,6 +2335,14 @@
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/doa_story3.ogg"
   },
+  "story-mmorpg": {
+    "title": "从零开始的魔王讨伐之旅_G",
+    "size": 2068453,
+    "duration": 103.00371882086168,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-mmorpg.ogg"
+  },
   "theme-sakuraholyplace": {
     "title": "神木之殇_eden5th06",
     "size": 1851918,
