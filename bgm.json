@@ -247,6 +247,14 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/hunhe-battle.ogg"
   },
+  "story-battle-16bit-sfc": {
+    "title": "AZ6_M2_SFC_20240126",
+    "size": 1166204,
+    "duration": 63.40266666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-battle-16bit-sfc.ogg"
+  },
   "main-chunjie-pv": {
     "title": "main-chunjie-pv",
     "size": 3243222,
@@ -518,6 +526,14 @@
     "bitrate": 160.0,
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-boss-deepecho.ogg"
+  },
+  "login-20240401us": {
+    "title": "24年美服愚人节-热烈的碧海决斗者",
+    "size": 2022592,
+    "duration": 102.42133333333334,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/login-20240401us.ogg"
   },
   "story-thehierophantv": {
     "title": "Listen to my voice_eden5th05",
@@ -1374,6 +1390,14 @@
     "bitrate": 160.0,
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/beverly_short_inst.ogg"
+  },
+  "story-battle-16bit": {
+    "title": "AZ6_M2_20240126",
+    "size": 1361134,
+    "duration": 63.89333333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-battle-16bit.ogg"
   },
   "story-antarctica-serious": {
     "title": "晦暗明星_G",
@@ -2502,6 +2526,14 @@
     "bitrate": 160.0,
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-siren-centraltower.ogg"
+  },
+  "login-20240401jp": {
+    "title": "AZ6_M6_2mix_20240220",
+    "size": 2177345,
+    "duration": 120.02133333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/login-20240401jp.ogg"
   },
   "theme-designshipvi": {
     "title": "隶｡蛻剃ｺ取悴譚･_G",

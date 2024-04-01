@@ -66,6 +66,28 @@
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/100010/shipyard.png"
   },
   {
+    "id": 100011,
+    "gid": 10001,
+    "name": "Prototype Advanced Weaponry (Prop)",
+    "type": "Others",
+    "desc": "Puriiin! The savior of the fleet disembarks, wielding a heaven-piercing drill in hand, purin! Heheh! I bet you're trembling with excitement at my latest and greatest work outfit, purin!",
+    "tag": [],
+    "illustrator": 1,
+    "illustrator2": -1,
+    "voice_actor": 72,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/176.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/100011/painting.png",
+    "painting_n": null,
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/100011/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/100011/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/100011/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/100011/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/100011/shipyard.png"
+  },
+  {
     "id": 100020,
     "gid": 10002,
     "name": "Specialized Bulin Custom MKIII",

@@ -34,19 +34,19 @@ Azur Lane Resources
 - [list of missing voiceline audio](/docs/MISSING_VOICELINE.md)
 
 ## Repository Size
-Repository contains 48707 files with a size of 8.26 GB (8864240914 B).
+Repository contains 48733 files with a size of 8.27 GB (8876270231 B).
 
 ### Audio
-Contains 33803 files with a size of 3.39 GB (3638628094 B).
+Contains 33823 files with a size of 3.40 GB (3646811524 B).
 
 - **BGM:**
-  Contains 373 files with a size of 800.96 MB (839863996 B).
+  Contains 377 files with a size of 807.37 MB (846591271 B).
 
 - **Voiceline:**
-  Contains 1837 skins voiceline, 33430 files with a size of 2.61 GB (2798764098 B).
+  Contains 1838 skins voiceline, 33446 files with a size of 2.61 GB (2800220253 B).
 
 ### Images
-Contains 14848 files with a size of 4.83 GB (5185226126 B).
+Contains 14854 files with a size of 4.83 GB (5189052167 B).
 
 - **Background:**
   Contains 92 files with a size of 59.29 MB (62167301 B).
@@ -61,20 +61,20 @@ Contains 14848 files with a size of 4.83 GB (5185226126 B).
   Contains 1299 files with a size of 28.03 MB (29389706 B).
 
 - **Skins:**
-  Contains 1855 skins, 11857 files with a size of 4.70 GB (5051555366 B).
+  Contains 1856 skins, 11863 files with a size of 4.71 GB (5055381407 B).
 
   - **painting:**
-    Contains 2582 files with a size of 4.42 GB (4740652851 B).
+    Contains 2583 files with a size of 4.42 GB (4744289736 B).
   - **banner:**
-    Contains 1855 files with a size of 53.50 MB (56098632 B).
+    Contains 1856 files with a size of 53.53 MB (56134564 B).
   - **chibi:**
-    Contains 1855 files with a size of 62.38 MB (65405489 B).
+    Contains 1856 files with a size of 62.42 MB (65447633 B).
   - **icon:**
-    Contains 1855 files with a size of 37.69 MB (39523784 B).
+    Contains 1856 files with a size of 37.71 MB (39546410 B).
   - **qicon:**
-    Contains 1855 files with a size of 29.19 MB (30603467 B).
+    Contains 1856 files with a size of 29.20 MB (30621235 B).
   - **shipyard:**
-    Contains 1855 files with a size of 113.75 MB (119271143 B).
+    Contains 1856 files with a size of 113.81 MB (119341829 B).
 
 > [!NOTE]
 > Assets without auto-update are not included.
