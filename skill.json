@@ -6747,7 +6747,7 @@
     "id": 17740,
     "type": 3,
     "name": "Every Last Speck!",
-    "desc": "Increases this ship's FP and TRP by 12.0%. 15s after the battle starts: 70% chance to increase a random enemy's DMG taken by 15.0% (prioritizes humanoid enemies) and performs a sonar scan, revealing enemy SSs; both these effects last 8s. If these two effects do not activate: instead decreases this ship's DMG taken by 15.0% for 8s.",
+    "desc": "Increases this ship's FP and TRP by 12.0%. Every 15s: 70% chance to increase a random enemy's DMG taken from this ship by 15.0% (prioritizes humanoid enemies) and performs a sonar scan, revealing enemy SSs; both these effects last 8s. If these two effects do not activate: instead decreases this ship's DMG taken by 15.0% for 8s.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17740.png",
     "max_level": 10
   },
