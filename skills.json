@@ -14687,6 +14687,14 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/12940.png",
     "max_level": 10
   },
+  "1013000": {
+    "id": 1013000,
+    "type": 1,
+    "name": "Cavalier of the Ether+",
+    "desc": "Once guaranteed 3s after the battle starts, and with a 70.0% chance every 15s: fires a Lv.10 improved special barrage (DMG is based on the skill's level) that inflicts the Cavalier's Fire and Ice ailment to enemies hit for 6s. When a ship in your Vanguard hits an enemy with this ailment, her DMG dealt is increased by 20.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/13000.png",
+    "max_level": 10
+  },
   "1013270": {
     "id": 1013270,
     "type": 1,
@@ -14925,6 +14933,14 @@
     "name": "Torpedo Squadron - Sendai",
     "desc": "During battle, every 5 times this ship takes DMG: decreases this ship's DMG taken by 10.0% until the battle ends (can be stacked up to 2 times). Once per battle, when this ship's HP falls below 35.0% as a result of DMG taken: restores 8.0% of this ship's max HP. While this ship is afloat: increases your DDs' and CLs' TRP and RLD by 15.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/1090.png",
+    "max_level": 10
+  },
+  "1090250": {
+    "id": 1090250,
+    "type": 3,
+    "name": "Torpedo Command - Comet",
+    "desc": "Increases all your DDs' TRP by 15.0% (does not stack with the skill \"Torpedo Command\"). When this ship fires her Main Guns: fires a Lv.10 special barrage (DMG is based on the skill's level and this ship's TRP stat).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/1010.png",
     "max_level": 10
   }
 }
