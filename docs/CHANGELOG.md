@@ -1,3 +1,13 @@
+## Patch 4.5.11
+<details>
+  <summary>20 April 2024</summary>
+  
+  - add [docs/SHIP.md](./SHIP.md)
+  - add `ship.json` (prototype only)
+  - add `ship_wrapper.json`
+  - change `skill.json` description from `lv10` desc into `lv1 (lv10)` desc
+</details>
+
 ## Patch 4.5.10
 <details>
   <summary>17 February 2024</summary>

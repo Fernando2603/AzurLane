@@ -604,6 +604,21 @@
     "name": "Ninjutsu Scroll",
     "desc": "When equipped by a Senran Kagura collab character: 30s after the battle starts, fires a special barrage from your Vanguard's frontmost ship (DMG is based on the FP stat of the ship equipping this gear; if equipped by a Senran Kagura submarine: performs this special barrage at the start of the battle instead)."
   },
+  "60560": {
+    "id": 60560,
+    "name": "Harmony μ Ticket",
+    "desc": "Changes the BGM when equipped. If multiple gear which change the BGM are equipped at the same time, the one in effect will be chosen randomly."
+  },
+  "60570": {
+    "id": 60570,
+    "name": "Alizarin Support Towel",
+    "desc": "When the battle starts: the ship equipping this gear gains 3.0% increased FP, TRP, AVI, and RLD for 15s."
+  },
+  "60580": {
+    "id": 60580,
+    "name": "Cyanidin Support Towel",
+    "desc": "When the battle starts: deploys a barrier (lasts 15s) that can negate DMG equal to 2.0% max HP of the ship equipping this gear."
+  },
   "6970": {
     "id": 6970,
     "name": "Angel's Feather",

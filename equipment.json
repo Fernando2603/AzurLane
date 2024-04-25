@@ -76744,6 +76744,341 @@
       }
     }
   },
+  "89740": {
+    "name": "Harmony μ Ticket",
+    "desc": "Link your heart with those around you and let the passion resonate!",
+    "label": [
+      "DEV"
+    ],
+    "rarity": 5,
+    "nationality": 0,
+    "type": 10,
+    "skill": {
+      "60560": {
+        "id": 60560,
+        "name": "Harmony μ Ticket",
+        "desc": "Changes the BGM when equipped. If multiple gear which change the BGM are equipped at the same time, the one in effect will be chosen randomly."
+      }
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89740.png",
+    "stats": {
+      "1": {
+        "id": 89740,
+        "level": 1,
+        "enhance": "+0",
+        "antiaircraft": 14,
+        "hit": 15
+      },
+      "2": {
+        "id": 89741,
+        "level": 2,
+        "enhance": "+1",
+        "antiaircraft": 16,
+        "hit": 16
+      },
+      "3": {
+        "id": 89742,
+        "level": 3,
+        "enhance": "+2",
+        "antiaircraft": 18,
+        "hit": 17
+      },
+      "4": {
+        "id": 89743,
+        "level": 4,
+        "enhance": "+3",
+        "antiaircraft": 20,
+        "hit": 18
+      },
+      "5": {
+        "id": 89744,
+        "level": 5,
+        "enhance": "+4",
+        "antiaircraft": 22,
+        "hit": 19
+      },
+      "6": {
+        "id": 89745,
+        "level": 6,
+        "enhance": "+5",
+        "antiaircraft": 24,
+        "hit": 20
+      },
+      "7": {
+        "id": 89746,
+        "level": 7,
+        "enhance": "+6",
+        "antiaircraft": 26,
+        "hit": 22
+      },
+      "8": {
+        "id": 89747,
+        "level": 8,
+        "enhance": "+7",
+        "antiaircraft": 28,
+        "hit": 24
+      },
+      "9": {
+        "id": 89748,
+        "level": 9,
+        "enhance": "+8",
+        "antiaircraft": 30,
+        "hit": 26
+      },
+      "10": {
+        "id": 89749,
+        "level": 10,
+        "enhance": "+9",
+        "antiaircraft": 32,
+        "hit": 28
+      },
+      "11": {
+        "id": 89750,
+        "level": 11,
+        "enhance": "+10",
+        "antiaircraft": 35,
+        "hit": 30
+      },
+      "12": {
+        "id": 89751,
+        "level": 12,
+        "enhance": "+11",
+        "antiaircraft": 38,
+        "hit": 32,
+        "anti_siren": 1
+      },
+      "13": {
+        "id": 89752,
+        "level": 13,
+        "enhance": "+12",
+        "antiaircraft": 41,
+        "hit": 34,
+        "anti_siren": 2
+      },
+      "14": {
+        "id": 89753,
+        "level": 14,
+        "enhance": "+13",
+        "antiaircraft": 44,
+        "hit": 36,
+        "anti_siren": 3
+      }
+    }
+  },
+  "89760": {
+    "name": "Alizarin Support Towel",
+    "desc": "A towel dyed in Alizarin's signature color. Useful both at a concert and in your day-to-day life!",
+    "label": [
+      "DEV"
+    ],
+    "rarity": 5,
+    "nationality": 0,
+    "type": 10,
+    "skill": {
+      "60570": {
+        "id": 60570,
+        "name": "Alizarin Support Towel",
+        "desc": "When the battle starts: the ship equipping this gear gains 3.0% increased FP, TRP, AVI, and RLD for 15s."
+      }
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89760.png",
+    "stats": {
+      "1": {
+        "id": 89760,
+        "level": 1,
+        "enhance": "+0",
+        "durability": 250
+      },
+      "2": {
+        "id": 89761,
+        "level": 2,
+        "enhance": "+1",
+        "durability": 280
+      },
+      "3": {
+        "id": 89762,
+        "level": 3,
+        "enhance": "+2",
+        "durability": 310
+      },
+      "4": {
+        "id": 89763,
+        "level": 4,
+        "enhance": "+3",
+        "durability": 340
+      },
+      "5": {
+        "id": 89764,
+        "level": 5,
+        "enhance": "+4",
+        "durability": 370
+      },
+      "6": {
+        "id": 89765,
+        "level": 6,
+        "enhance": "+5",
+        "durability": 400
+      },
+      "7": {
+        "id": 89766,
+        "level": 7,
+        "enhance": "+6",
+        "durability": 430
+      },
+      "8": {
+        "id": 89767,
+        "level": 8,
+        "enhance": "+7",
+        "durability": 460
+      },
+      "9": {
+        "id": 89768,
+        "level": 9,
+        "enhance": "+8",
+        "durability": 490
+      },
+      "10": {
+        "id": 89769,
+        "level": 10,
+        "enhance": "+9",
+        "durability": 520
+      },
+      "11": {
+        "id": 89770,
+        "level": 11,
+        "enhance": "+10",
+        "durability": 550
+      },
+      "12": {
+        "id": 89771,
+        "level": 12,
+        "enhance": "+11",
+        "durability": 580,
+        "anti_siren": 1
+      },
+      "13": {
+        "id": 89772,
+        "level": 13,
+        "enhance": "+12",
+        "durability": 610,
+        "anti_siren": 2
+      },
+      "14": {
+        "id": 89773,
+        "level": 14,
+        "enhance": "+13",
+        "durability": 640,
+        "anti_siren": 3
+      }
+    }
+  },
+  "89780": {
+    "name": "Cyanidin Support Towel",
+    "desc": "A towel dyed in Cyanidin's signature color. Useful both at a concert and in your day-to-day life!",
+    "label": [
+      "DEV"
+    ],
+    "rarity": 5,
+    "nationality": 0,
+    "type": 10,
+    "skill": {
+      "60580": {
+        "id": 60580,
+        "name": "Cyanidin Support Towel",
+        "desc": "When the battle starts: deploys a barrier (lasts 15s) that can negate DMG equal to 2.0% max HP of the ship equipping this gear."
+      }
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89780.png",
+    "stats": {
+      "1": {
+        "id": 89780,
+        "level": 1,
+        "enhance": "+0",
+        "durability": 250
+      },
+      "2": {
+        "id": 89781,
+        "level": 2,
+        "enhance": "+1",
+        "durability": 280
+      },
+      "3": {
+        "id": 89782,
+        "level": 3,
+        "enhance": "+2",
+        "durability": 310
+      },
+      "4": {
+        "id": 89783,
+        "level": 4,
+        "enhance": "+3",
+        "durability": 340
+      },
+      "5": {
+        "id": 89784,
+        "level": 5,
+        "enhance": "+4",
+        "durability": 370
+      },
+      "6": {
+        "id": 89785,
+        "level": 6,
+        "enhance": "+5",
+        "durability": 400
+      },
+      "7": {
+        "id": 89786,
+        "level": 7,
+        "enhance": "+6",
+        "durability": 430
+      },
+      "8": {
+        "id": 89787,
+        "level": 8,
+        "enhance": "+7",
+        "durability": 460
+      },
+      "9": {
+        "id": 89788,
+        "level": 9,
+        "enhance": "+8",
+        "durability": 490
+      },
+      "10": {
+        "id": 89789,
+        "level": 10,
+        "enhance": "+9",
+        "durability": 520
+      },
+      "11": {
+        "id": 89790,
+        "level": 11,
+        "enhance": "+10",
+        "durability": 550
+      },
+      "12": {
+        "id": 89791,
+        "level": 12,
+        "enhance": "+11",
+        "durability": 580,
+        "anti_siren": 1
+      },
+      "13": {
+        "id": 89792,
+        "level": 13,
+        "enhance": "+12",
+        "durability": 610,
+        "anti_siren": 2
+      },
+      "14": {
+        "id": 89793,
+        "level": 14,
+        "enhance": "+13",
+        "durability": 640,
+        "anti_siren": 3
+      }
+    }
+  },
   "90000": {
     "name": "Single 130mm Mle 1924 Naval Gun",
     "desc": "No description",
