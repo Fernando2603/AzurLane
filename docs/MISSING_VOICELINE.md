@@ -120,70 +120,42 @@
 | 114 | 40303 | Prinz Eugen | 403030 | Prinz Eugen | Default | couple_encourage4 |
 | 115 | 40305 | Admiral Graf Spee | 403050 | Admiral Graf Spee | Default | headtouch |
 | 116 | 40311 | Yorck | 403110 | Yorck | Default | main7_ex |
-| 117 | 40314 | Friedrich Carl | 403140 | Friedrich Carl | Default | battle |
-| 118 | 40314 | Friedrich Carl | 403140 | Friedrich Carl | Default | couple_encourage1 |
-| 119 | 40314 | Friedrich Carl | 403140 | Friedrich Carl | Default | detail |
-| 120 | 40314 | Friedrich Carl | 403140 | Friedrich Carl | Default | expedition |
-| 121 | 40314 | Friedrich Carl | 403140 | Friedrich Carl | Default | feeling1 |
-| 122 | 40314 | Friedrich Carl | 403140 | Friedrich Carl | Default | feeling2 |
-| 123 | 40314 | Friedrich Carl | 403140 | Friedrich Carl | Default | feeling3 |
-| 124 | 40314 | Friedrich Carl | 403140 | Friedrich Carl | Default | feeling4 |
-| 125 | 40314 | Friedrich Carl | 403140 | Friedrich Carl | Default | feeling5 |
-| 126 | 40314 | Friedrich Carl | 403140 | Friedrich Carl | Default | headtouch |
-| 127 | 40314 | Friedrich Carl | 403140 | Friedrich Carl | Default | home |
-| 128 | 40314 | Friedrich Carl | 403140 | Friedrich Carl | Default | hp_warning |
-| 129 | 40314 | Friedrich Carl | 403140 | Friedrich Carl | Default | login |
-| 130 | 40314 | Friedrich Carl | 403140 | Friedrich Carl | Default | lose |
-| 131 | 40314 | Friedrich Carl | 403140 | Friedrich Carl | Default | mail |
-| 132 | 40314 | Friedrich Carl | 403140 | Friedrich Carl | Default | main1 |
-| 133 | 40314 | Friedrich Carl | 403140 | Friedrich Carl | Default | main2 |
-| 134 | 40314 | Friedrich Carl | 403140 | Friedrich Carl | Default | main3 |
-| 135 | 40314 | Friedrich Carl | 403140 | Friedrich Carl | Default | mission |
-| 136 | 40314 | Friedrich Carl | 403140 | Friedrich Carl | Default | mission_complete |
-| 137 | 40314 | Friedrich Carl | 403140 | Friedrich Carl | Default | profile |
-| 138 | 40314 | Friedrich Carl | 403140 | Friedrich Carl | Default | propose |
-| 139 | 40314 | Friedrich Carl | 403140 | Friedrich Carl | Default | skill |
-| 140 | 40314 | Friedrich Carl | 403140 | Friedrich Carl | Default | touch |
-| 141 | 40314 | Friedrich Carl | 403140 | Friedrich Carl | Default | touch2 |
-| 142 | 40314 | Friedrich Carl | 403140 | Friedrich Carl | Default | unlock |
-| 143 | 40314 | Friedrich Carl | 403140 | Friedrich Carl | Default | upgrade |
-| 144 | 40314 | Friedrich Carl | 403140 | Friedrich Carl | Default | win_mvp |
-| 145 | 40502 | Tirpitz | 405020 | Tirpitz | Default | couple_encourage1 |
-| 146 | 40812 | U-1206 | 408120 | U-1206 | Default | main4_ex |
-| 147 | 40812 | U-1206 | 408120 | U-1206 | Default | main6_ex |
-| 148 | 50202 | Ning Hai | 502027 | Hectic Kitchen | Maid | couple_encourage1 |
-| 149 | 50203 | Ping Hai | 502037 | Lively Banquet Preparations | Maid | couple_encourage1 |
-| 150 | 50205 | Chao Ho | 502050 | Chao Ho | Default | feeling1_ex |
-| 151 | 50205 | Chao Ho | 502050 | Chao Ho | Default | mail_ex |
-| 152 | 50209 | Chi An | 502090 | Chi An | Default | profile |
-| 153 | 60105 | Libeccio | 601050 | Libeccio | Default | couple_encourage1 |
-| 154 | 60106 | Nicoloso da Recco | 601060 | Nicoloso da Recco | Default | main3_ex |
-| 155 | 70202 | Pamiat' Merkuria | 702020 | Pamiat' Merkuria | Default | couple_encourage1 |
-| 156 | 90101 | Le Mars | 901010 | Le Mars | Default | profile |
-| 157 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | battle |
-| 158 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | detail |
-| 159 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | expedition |
-| 160 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | feeling1 |
-| 161 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | feeling2 |
-| 162 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | feeling3 |
-| 163 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | feeling4 |
-| 164 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | feeling5 |
-| 165 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | home |
-| 166 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | hp_warning |
-| 167 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | login |
-| 168 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | lose |
-| 169 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | mail |
-| 170 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | main1 |
-| 171 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | main2 |
-| 172 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | main3 |
-| 173 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | mission |
-| 174 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | mission_complete |
-| 175 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | profile |
-| 176 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | propose |
-| 177 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | skill |
-| 178 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | touch |
-| 179 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | touch2 |
-| 180 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | unlock |
-| 181 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | upgrade |
-| 182 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | win_mvp |
-| 183 | 1070003 | Iori Minase | 10700031 | A Little Evening Secret | Summer Fest | headtouch |
+| 117 | 40502 | Tirpitz | 405020 | Tirpitz | Default | couple_encourage1 |
+| 118 | 40812 | U-1206 | 408120 | U-1206 | Default | main4_ex |
+| 119 | 40812 | U-1206 | 408120 | U-1206 | Default | main6_ex |
+| 120 | 50202 | Ning Hai | 502027 | Hectic Kitchen | Maid | couple_encourage1 |
+| 121 | 50203 | Ping Hai | 502037 | Lively Banquet Preparations | Maid | couple_encourage1 |
+| 122 | 50205 | Chao Ho | 502050 | Chao Ho | Default | feeling1_ex |
+| 123 | 50205 | Chao Ho | 502050 | Chao Ho | Default | mail_ex |
+| 124 | 50209 | Chi An | 502090 | Chi An | Default | profile |
+| 125 | 60105 | Libeccio | 601050 | Libeccio | Default | couple_encourage1 |
+| 126 | 60106 | Nicoloso da Recco | 601060 | Nicoloso da Recco | Default | main3_ex |
+| 127 | 70202 | Pamiat' Merkuria | 702020 | Pamiat' Merkuria | Default | couple_encourage1 |
+| 128 | 90101 | Le Mars | 901010 | Le Mars | Default | profile |
+| 129 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | battle |
+| 130 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | detail |
+| 131 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | expedition |
+| 132 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | feeling1 |
+| 133 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | feeling2 |
+| 134 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | feeling3 |
+| 135 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | feeling4 |
+| 136 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | feeling5 |
+| 137 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | home |
+| 138 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | hp_warning |
+| 139 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | login |
+| 140 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | lose |
+| 141 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | mail |
+| 142 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | main1 |
+| 143 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | main2 |
+| 144 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | main3 |
+| 145 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | mission |
+| 146 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | mission_complete |
+| 147 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | profile |
+| 148 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | propose |
+| 149 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | skill |
+| 150 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | touch |
+| 151 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | touch2 |
+| 152 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | unlock |
+| 153 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | upgrade |
+| 154 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | win_mvp |
+| 155 | 1070003 | Iori Minase | 10700031 | A Little Evening Secret | Summer Fest | headtouch |
