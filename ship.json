@@ -31234,7 +31234,8 @@
     "class": "Unknown",
     "nationality": 1,
     "obtain": [
-      "Event: Fledgling Wings!"
+      "Event: Fledgling Wings!",
+      "Special Construction"
     ],
     "type": 7,
     "rarity": 4,
@@ -53450,7 +53451,8 @@
     "class": "Unknown",
     "nationality": 2,
     "obtain": [
-      "Event: Little Royal Knight"
+      "Event: Little Royal Knight",
+      "Heavy Ship Construction"
     ],
     "type": 4,
     "rarity": 4,
@@ -60067,7 +60069,8 @@
     "class": "Unknown",
     "nationality": 2,
     "obtain": [
-      "Event: Dreams of Love and Peace"
+      "Event: Dreams of Love and Peace",
+      "Special Construction"
     ],
     "type": 7,
     "rarity": 4,
@@ -87414,7 +87417,8 @@
     "class": "Unknown",
     "nationality": 3,
     "obtain": [
-      "Event: Young Tactician's Learning Log"
+      "Event: Young Tactician's Learning Log",
+      "Heavy Ship Construction"
     ],
     "type": 4,
     "rarity": 4,

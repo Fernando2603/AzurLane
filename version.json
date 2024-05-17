@@ -1,5 +1,5 @@
 {
-  "REPOSITORY": "4.5.11",
+  "REPOSITORY": "4.5.12",
   "EN": "7.1.583",
   "CV": "482",
   "L2D": "533",
@@ -7,5 +7,6 @@
   "BGM": "13",
   "CIPHER": "28",
   "MANGA": "37",
-  "PAINTING": "110"
+  "PAINTING": "110",
+  "DORM": null
 }

@@ -14671,6 +14671,14 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/10610.png",
     "max_level": 10
   },
+  "1010660": {
+    "id": 1010660,
+    "type": 1,
+    "name": "Sniper+",
+    "desc": "Every $1s: fires a $2 barrage that deals guaranteed Crit DMG to a random enemy, then fires this same barrage from your Flagship (barrage DMG is based on the skill's level and Scharnhorst's and your Flagship's FP stat, respectively; your Detection Gauge is not affected by this barrage).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/10660.png",
+    "max_level": 10
+  },
   "1010670": {
     "id": 1010670,
     "type": 1,
@@ -14701,6 +14709,14 @@
     "name": "The Nick+",
     "desc": "When this ship fires her Main Guns: 5.0% chance to increase this ship's EVA and DMG dealt by 16.0% (40.0%) and decrease her aircraft DMG taken by 16.0% (40.0%) for 8s; additionally, decreases the SPD of a random enemy by 5.0% (15.0%) for 8s.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/10750.png",
+    "max_level": 10
+  },
+  "1010980": {
+    "id": 1010980,
+    "type": 3,
+    "name": "AA Protection+",
+    "desc": "While this ship is afloat: decreases your Main Fleet's DMG taken from aircraft by 5% (15%). When a ship in your fleet attacks with a Long Range AA Gun: every ship in your Vanguard recovers 1.0% (5.0%) of their max HP and this ship fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level; 10s cooldown between activations).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/10980.png",
     "max_level": 10
   },
   "1011120": {
