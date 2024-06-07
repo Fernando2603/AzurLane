@@ -67,95 +67,79 @@
 | 61 | 20703 | Illustrious | 207030 | Illustrious | Default | couple_encourage2 |
 | 62 | 21301 | Erebus | 213010 | Erebus | Default | couple_encourage4 |
 | 63 | 21302 | Terror | 213020 | Terror | Default | couple_encourage2 |
-| 64 | 29902 | Monarch | 299023 | Detective Arriving on the Scene | Special Exercise | battle |
-| 65 | 29902 | Monarch | 299023 | Detective Arriving on the Scene | Special Exercise | detail |
-| 66 | 29902 | Monarch | 299023 | Detective Arriving on the Scene | Special Exercise | feeling5 |
-| 67 | 29902 | Monarch | 299023 | Detective Arriving on the Scene | Special Exercise | headtouch |
-| 68 | 29902 | Monarch | 299023 | Detective Arriving on the Scene | Special Exercise | home |
-| 69 | 29902 | Monarch | 299023 | Detective Arriving on the Scene | Special Exercise | login |
-| 70 | 29902 | Monarch | 299023 | Detective Arriving on the Scene | Special Exercise | lose |
-| 71 | 29902 | Monarch | 299023 | Detective Arriving on the Scene | Special Exercise | mail |
-| 72 | 29902 | Monarch | 299023 | Detective Arriving on the Scene | Special Exercise | main1 |
-| 73 | 29902 | Monarch | 299023 | Detective Arriving on the Scene | Special Exercise | main2 |
-| 74 | 29902 | Monarch | 299023 | Detective Arriving on the Scene | Special Exercise | main3 |
-| 75 | 29902 | Monarch | 299023 | Detective Arriving on the Scene | Special Exercise | main4 |
-| 76 | 29902 | Monarch | 299023 | Detective Arriving on the Scene | Special Exercise | skill |
-| 77 | 29902 | Monarch | 299023 | Detective Arriving on the Scene | Special Exercise | touch |
-| 78 | 29902 | Monarch | 299023 | Detective Arriving on the Scene | Special Exercise | touch2 |
-| 79 | 29902 | Monarch | 299023 | Detective Arriving on the Scene | Special Exercise | unlock |
-| 80 | 30105 | Ayanami | 331056 | Disarming Deep Blue | Party Dress | detail |
-| 81 | 30114 | Yuudachi | 301140 | Yuudachi | Default | couple_encourage1 |
-| 82 | 30114 | Yuudachi | 301140 | Yuudachi | Default | couple_encourage2 |
-| 83 | 30115 | Shigure | 301150 | Shigure | Default | couple_encourage1 |
-| 84 | 30115 | Shigure | 301150 | Shigure | Default | couple_encourage2 |
-| 85 | 30115 | Shigure | 301151 | Attack, I-490! | Swimsuits | touch |
-| 86 | 30118 | Shiranui | 301180 | Shiranui | Default | couple_encourage1 |
-| 87 | 30118 | Shiranui | 301189 | Shiranui (Retrofit) | Retrofit | couple_encourage1 |
-| 88 | 30126 | Yuugure | 301262 | Twilight Blossom | Spring Festival | feeling5 |
-| 89 | 30154 | Kiyonami | 301540 | Kiyonami | Default | couple_encourage1 |
-| 90 | 30212 | Sendai | 302120 | Sendai | Default | couple_encourage3 |
-| 91 | 30302 | Kako | 303029 | Kako (Retrofit) | Retrofit | main1 |
-| 92 | 30307 | Myoukou | 303070 | Myoukou | Default | headtouch |
-| 93 | 30701 | Akagi | 307012 | Plum and Snow | New Year Kimono | main2 |
-| 94 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | battle |
-| 95 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | detail |
-| 96 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | expedition |
-| 97 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | feeling5 |
-| 98 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | home |
-| 99 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | login |
-| 100 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | lose |
-| 101 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | main1 |
-| 102 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | main2 |
-| 103 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | main3 |
-| 104 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | touch |
-| 105 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | touch2 |
-| 106 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | unlock |
-| 107 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | win_mvp |
-| 108 | 30705 | Shoukaku | 307050 | Shoukaku | Default | couple_encourage3 |
-| 109 | 30707 | Taihou | 307073 | Enraptured Companion | Race Queen | couple_encourage1 |
-| 110 | 30802 | I-26 | 308022 | Shortly Before the Fireworks | Summer Fest | touch |
-| 111 | 40101 | Z1 | 401010 | Leberecht Maass (Z1) | Default | couple_encourage2 |
-| 112 | 40123 | Z23 | 401230 | Z23 | Default | couple_encourage1 |
-| 113 | 40123 | Z23 | 401231 | Philosophy Sensei | Others | main3 |
-| 114 | 40303 | Prinz Eugen | 403030 | Prinz Eugen | Default | couple_encourage4 |
-| 115 | 40305 | Admiral Graf Spee | 403050 | Admiral Graf Spee | Default | headtouch |
-| 116 | 40311 | Yorck | 403110 | Yorck | Default | main7_ex |
-| 117 | 40502 | Tirpitz | 405020 | Tirpitz | Default | couple_encourage1 |
-| 118 | 40812 | U-1206 | 408120 | U-1206 | Default | main4_ex |
-| 119 | 40812 | U-1206 | 408120 | U-1206 | Default | main6_ex |
-| 120 | 50202 | Ning Hai | 502027 | Hectic Kitchen | Maid | couple_encourage1 |
-| 121 | 50203 | Ping Hai | 502037 | Lively Banquet Preparations | Maid | couple_encourage1 |
-| 122 | 50205 | Chao Ho | 502050 | Chao Ho | Default | feeling1_ex |
-| 123 | 50205 | Chao Ho | 502050 | Chao Ho | Default | mail_ex |
-| 124 | 50209 | Chi An | 502090 | Chi An | Default | profile |
-| 125 | 60105 | Libeccio | 601050 | Libeccio | Default | couple_encourage1 |
-| 126 | 60106 | Nicoloso da Recco | 601060 | Nicoloso da Recco | Default | main3_ex |
-| 127 | 70202 | Pamiat' Merkuria | 702020 | Pamiat' Merkuria | Default | couple_encourage1 |
-| 128 | 90101 | Le Mars | 901010 | Le Mars | Default | profile |
-| 129 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | battle |
-| 130 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | detail |
-| 131 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | expedition |
-| 132 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | feeling1 |
-| 133 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | feeling2 |
-| 134 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | feeling3 |
-| 135 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | feeling4 |
-| 136 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | feeling5 |
-| 137 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | home |
-| 138 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | hp_warning |
-| 139 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | login |
-| 140 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | lose |
-| 141 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | mail |
-| 142 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | main1 |
-| 143 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | main2 |
-| 144 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | main3 |
-| 145 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | mission |
-| 146 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | mission_complete |
-| 147 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | profile |
-| 148 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | propose |
-| 149 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | skill |
-| 150 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | touch |
-| 151 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | touch2 |
-| 152 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | unlock |
-| 153 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | upgrade |
-| 154 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | win_mvp |
-| 155 | 1070003 | Iori Minase | 10700031 | A Little Evening Secret | Summer Fest | headtouch |
+| 64 | 30105 | Ayanami | 331056 | Disarming Deep Blue | Party Dress | detail |
+| 65 | 30114 | Yuudachi | 301140 | Yuudachi | Default | couple_encourage1 |
+| 66 | 30114 | Yuudachi | 301140 | Yuudachi | Default | couple_encourage2 |
+| 67 | 30115 | Shigure | 301150 | Shigure | Default | couple_encourage1 |
+| 68 | 30115 | Shigure | 301150 | Shigure | Default | couple_encourage2 |
+| 69 | 30115 | Shigure | 301151 | Attack, I-490! | Swimsuits | touch |
+| 70 | 30118 | Shiranui | 301180 | Shiranui | Default | couple_encourage1 |
+| 71 | 30118 | Shiranui | 301189 | Shiranui (Retrofit) | Retrofit | couple_encourage1 |
+| 72 | 30126 | Yuugure | 301262 | Twilight Blossom | Spring Festival | feeling5 |
+| 73 | 30154 | Kiyonami | 301540 | Kiyonami | Default | couple_encourage1 |
+| 74 | 30212 | Sendai | 302120 | Sendai | Default | couple_encourage3 |
+| 75 | 30302 | Kako | 303029 | Kako (Retrofit) | Retrofit | main1 |
+| 76 | 30307 | Myoukou | 303070 | Myoukou | Default | headtouch |
+| 77 | 30701 | Akagi | 307012 | Plum and Snow | New Year Kimono | main2 |
+| 78 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | battle |
+| 79 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | detail |
+| 80 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | expedition |
+| 81 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | feeling5 |
+| 82 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | home |
+| 83 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | login |
+| 84 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | lose |
+| 85 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | main1 |
+| 86 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | main2 |
+| 87 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | main3 |
+| 88 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | touch |
+| 89 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | touch2 |
+| 90 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | unlock |
+| 91 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | win_mvp |
+| 92 | 30705 | Shoukaku | 307050 | Shoukaku | Default | couple_encourage3 |
+| 93 | 30707 | Taihou | 307073 | Enraptured Companion | Race Queen | couple_encourage1 |
+| 94 | 30802 | I-26 | 308022 | Shortly Before the Fireworks | Summer Fest | touch |
+| 95 | 40101 | Z1 | 401010 | Leberecht Maass (Z1) | Default | couple_encourage2 |
+| 96 | 40123 | Z23 | 401230 | Z23 | Default | couple_encourage1 |
+| 97 | 40123 | Z23 | 401231 | Philosophy Sensei | Others | main3 |
+| 98 | 40303 | Prinz Eugen | 403030 | Prinz Eugen | Default | couple_encourage4 |
+| 99 | 40305 | Admiral Graf Spee | 403050 | Admiral Graf Spee | Default | headtouch |
+| 100 | 40311 | Yorck | 403110 | Yorck | Default | main7_ex |
+| 101 | 40502 | Tirpitz | 405020 | Tirpitz | Default | couple_encourage1 |
+| 102 | 40812 | U-1206 | 408120 | U-1206 | Default | main4_ex |
+| 103 | 40812 | U-1206 | 408120 | U-1206 | Default | main6_ex |
+| 104 | 50202 | Ning Hai | 502027 | Hectic Kitchen | Maid | couple_encourage1 |
+| 105 | 50203 | Ping Hai | 502037 | Lively Banquet Preparations | Maid | couple_encourage1 |
+| 106 | 50205 | Chao Ho | 502050 | Chao Ho | Default | feeling1_ex |
+| 107 | 50205 | Chao Ho | 502050 | Chao Ho | Default | mail_ex |
+| 108 | 50209 | Chi An | 502090 | Chi An | Default | profile |
+| 109 | 60105 | Libeccio | 601050 | Libeccio | Default | couple_encourage1 |
+| 110 | 60106 | Nicoloso da Recco | 601060 | Nicoloso da Recco | Default | main3_ex |
+| 111 | 70202 | Pamiat' Merkuria | 702020 | Pamiat' Merkuria | Default | couple_encourage1 |
+| 112 | 90101 | Le Mars | 901010 | Le Mars | Default | profile |
+| 113 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | battle |
+| 114 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | detail |
+| 115 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | expedition |
+| 116 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | feeling1 |
+| 117 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | feeling2 |
+| 118 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | feeling3 |
+| 119 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | feeling4 |
+| 120 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | feeling5 |
+| 121 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | home |
+| 122 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | hp_warning |
+| 123 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | login |
+| 124 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | lose |
+| 125 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | mail |
+| 126 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | main1 |
+| 127 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | main2 |
+| 128 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | main3 |
+| 129 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | mission |
+| 130 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | mission_complete |
+| 131 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | profile |
+| 132 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | propose |
+| 133 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | skill |
+| 134 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | touch |
+| 135 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | touch2 |
+| 136 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | unlock |
+| 137 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | upgrade |
+| 138 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | win_mvp |
+| 139 | 1070003 | Iori Minase | 10700031 | A Little Evening Secret | Summer Fest | headtouch |

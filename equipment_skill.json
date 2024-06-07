@@ -404,6 +404,11 @@
     "name": "Additional Anti-Air Weaponry",
     "desc": "When equipped by a Vanguard ship: the ship gains a special AA Gun during battle (only one special AA Gun may be active at a time)."
   },
+  "60600": {
+    "id": 60600,
+    "name": "Twin 80mm Type 98 High-Angle Gun Mount",
+    "desc": "When equipped by a Sakura Empire Vanguard ship: increases this ship's FP by 5.0%. When this ship fires her AA guns: halves this FP buff for 3s."
+  },
   "6370": {
     "id": 6370,
     "name": "Aviation Submarine Specialization",
@@ -678,5 +683,10 @@
     "id": 60550,
     "name": "Echoes of Relinquished Time",
     "desc": "When equipped to Akagi: increases this ship's DMG dealt by 12.0%; the first time this ship launches an airstrike during battle: increases her Detection Gauge value by an additional 50; 45 seconds after the battle starts, this ship loses 300 HP, and her Detection Gauge value will be reset to 0."
+  },
+  "60590": {
+    "id": 60590,
+    "name": "Enigmata \"D\"",
+    "desc": "A curious machine that periodically emits a strange sound during battle."
   }
 }

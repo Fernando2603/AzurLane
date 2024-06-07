@@ -1,3 +1,14 @@
+## Patch 4.6.12
+<details>
+  <summary>07 June 2024</summary>
+  
+  - bump unity@2018 into unity@2020
+  - open [AzurAssets](https://github.com/Fernando2603/AzurAssets) into public repository (this only contains raw extracted assets from EN server)
+  - update datamine scripts to adapt new painting structure
+  - **Note**: actions still down so auto-update are disabled (will fix it later after 1 or 2 weeks after all scripts are stable)
+</details>
+
+
 ## Patch 4.5.12
 <details>
   <summary>17 May 2024</summary>

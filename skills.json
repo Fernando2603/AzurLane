@@ -6903,6 +6903,46 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17930.png",
     "max_level": 10
   },
+  "17940": {
+    "id": 17940,
+    "type": 1,
+    "name": "Cleaver of All Sin",
+    "desc": "Every 12s: performs a Lv.1 (Lv.10) special slashing attack on 1 random enemy; if that enemy did not sink, additionally performs a Lv.1 (Lv.10) special stabbing attack on the enemy (DMG is based on the skill's level). These attacks prioritize humanoid enemies. Inflicts the Slashed status to enemies hit by these attacks for 12s, increasing their DMG taken from submarine, surface, and aircraft torpedoes by 1.5% (6.0%). When the stabbing attack activates, if Mogador is NOT affected by Burn, the attack deals guaranteed Crit DMG and she gains the Axe of Judgment status for 2.5s, granting the following buffs:\n1) Decreases her ramming DMG taken by 80.0%;\n2) She cannot take more than 5.0% of her max HP in DMG at once; if she takes this much DMG, she evades all enemy shells and cannot take ramming DMG until the buff wears off.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17940.png",
+    "max_level": 10
+  },
+  "17950": {
+    "id": 17950,
+    "type": 2,
+    "name": "Harder! Faster! Stronger!",
+    "desc": "When this ship has Iris Libre or Vichya Dominion gear equipped: increases this ship's FP by 5.0% (15.0%) of her base EVA (the total of her base stats + gear). Increases this ship's Evasion Rate by 1.5% (6.0%). When this ship takes DMG, if the enemy that hit her has SPD no higher than her: deploys a barrier (only 1 can be active at a time) that can negate DMG equal to up to 20.0% of the DMG taken from that attack. If this shield is destroyed: 50.0% (100.0%) chance to immediately fire this ship's Main Guns and restore 10 HP (3s cooldown between activations).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17950.png",
+    "max_level": 10
+  },
+  "17960": {
+    "id": 17960,
+    "type": 3,
+    "name": "Drown in the Fragrance",
+    "desc": "Increases this ship's ACC by 1.0% (10.0%). Every 12s: performs a radar scan, revealing enemy SSs for 8s and decreases this ship's Burn duration by 3 (6)s. While this ship is NOT affected by Burn, when this ship hits an enemy with the Slashed, Burn, or Flooding status: 50.0% (100.0%) chance to immediately fire this ship's Main Guns (2s cooldown between activations).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17960.png",
+    "max_level": 10
+  },
+  "17970": {
+    "id": 17970,
+    "type": 1,
+    "name": "Big Seven - Colorado",
+    "desc": "When this ship fires her Main Guns: 40.0% (70.0%) chance to fire a Lv.1 (Lv.10) special barrage forward (DMG is based on the skill's level). Once per battle, when the HP of any other ship in your Main Fleet falls below 50.0% as a result of DMG taken: fires this special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/10320.png",
+    "max_level": 10
+  },
+  "17980": {
+    "id": 17980,
+    "type": 3,
+    "name": "The Light of Glory Yet Shines",
+    "desc": "Increases this ship's FP and AA by 4.5% (12.0%); if there are other BBs in your fleet, further increases FP and ACC by 4.5% (12.0%). When the HP of any other BB in your fleet falls below 40.0% as a result of DMG taken: deploys a barrier around that ship that can negate up to 5.0% (15.0%) of her max HP in DMG and increases her FP by 1.0% (10.0%) (this effect can only activate once per ship).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17980.png",
+    "max_level": 10
+  },
   "18010": {
     "id": 18010,
     "type": 1,
@@ -11559,6 +11599,38 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30250.png",
     "max_level": 1
   },
+  "30261": {
+    "id": 30261,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Mogador once every 24 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30260.png",
+    "max_level": 1
+  },
+  "30262": {
+    "id": 30262,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Mogador once every 16 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30260.png",
+    "max_level": 1
+  },
+  "30271": {
+    "id": 30271,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Brennus once every 12 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30270.png",
+    "max_level": 1
+  },
+  "30272": {
+    "id": 30272,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Brennus once every 8 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30270.png",
+    "max_level": 1
+  },
   "101010": {
     "id": 101010,
     "type": 3,
@@ -12806,6 +12878,94 @@
     "desc": "Increases this ship's LCK by 9. When this ship's Main or Secondary Gun hits an enemy: 10.0% chance to decrease that enemy's DMG dealt by 5.0% for 5s (10s cooldown between activations).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/110190.png",
     "max_level": 1
+  },
+  "150000": {
+    "id": 150000,
+    "type": 2,
+    "name": "Sword of Final Judgment",
+    "desc": "When the battle starts, summons 6 Swords of Judgment around this ship that can negate up to 7 enemy shells each. Once per battle, when the HP of a ship in your fleet falls below 50.0% as a result of DMG taken: performs a Lv.1 (Lv.10) special slashing attack (DMG is based on the skill's level; if there is another Iris Libre or Vichya Dominion ship in your fleet when this attack activates: improves this attack).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150000.png",
+    "max_level": 10
+  },
+  "150010": {
+    "id": 150010,
+    "type": 3,
+    "name": "Sword of a New Era",
+    "desc": "When the battle starts: grants this ship the Allegro status, increasing this ship's DMG dealt by 5.0% (15.0%). Every 20s:\n1) If there are any Swords of Judgment around this ship: removes all Swords of Judgment and fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level and the number of swords deleted). 2) If there are no Swords of Judgment around this ship: grants this ship the Lento status, decreasing this ship's DMG taken by 5.0% (15.0%). This ship regains the Allegro status after 20s. 5s after either one of the above two effects activates: summons 6 Swords of Judgment.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150010.png",
+    "max_level": 10
+  },
+  "150020": {
+    "id": 150020,
+    "type": 1,
+    "name": "Attack Command: Holy Judgment",
+    "desc": "When this ship fires her Main Guns: inflicts Lv.1 (Lv.10) Holy Judgment on a random enemy. While this ship is afloat, 16s after a fleet this ship is NOT in enters a battle: activates Lv.1 (Lv.10) Holy Judgment. When Lv.1 (Lv.10) Holy Judgment activates, the following occurs: 1) For 10s, the target takes 4.5% (12.0%) more DMG; 2) Fires a Lv.1 (Lv.10) special barrage that inflicts a special Burn ailment to enemies hit for 30s (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150020.png",
+    "max_level": 10
+  },
+  "150030": {
+    "id": 150030,
+    "type": 3,
+    "name": "Combat Protocol: Divine Sanction",
+    "desc": "Increases this ship's FP by 5.0% (15.0%). When this ship hits an enemy with her Secondary Guns, or when an Iris Libre or Vichya Dominion Vanguard ship in your fleet hits an enemy with her Main Guns: gains 1 stack of Divine Sanction; when 12 stacks are reached, improves the effect of Holy Judgment in the following ways: 1) The increased DMG taken debuff lasts until the battle ends rather than 10s;\n2) When a target is chosen for the DMG taken debuff, enemies which do not have a similar debuff applied will be prioritized.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150030.png",
+    "max_level": 10
+  },
+  "150040": {
+    "id": 150040,
+    "type": 2,
+    "name": "Emotional Overflow: Critical Flashpoint",
+    "desc": "While this ship is afloat: increases the cannon, torpedo, and aircraft Crit Rate of all your Iris Libre and Vichya Dominion ships on the map by 3.5% (8.0%). Once per battle, when the HP of a ship in your fleet falls below 30.0% as a result of DMG taken: performs a special attack; restores that ship's HP by 1.0% (3.0%) for each hit scored by this attack (up to 5 times).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150040.png",
+    "max_level": 10
+  },
+  "150050": {
+    "id": 150050,
+    "type": 3,
+    "name": "Ace of Roses!",
+    "desc": "Increases this ship's Main Gun and torpedo efficiency by 10.0% (20.0%). 3s after the battle starts, and every 20s after that: targets a random enemy; for 10s, increases DMG dealt against enemies with that enemy's Armor Type by 15.0% (30.0%). When sortied with another Le Hardi-class ship: the above effect is also granted to a random Le Hardi-class ship in your fleet.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150050.png",
+    "max_level": 10
+  },
+  "150060": {
+    "id": 150060,
+    "type": 2,
+    "name": "The Most Elegant Curtain Call!",
+    "desc": "Increases this ship's EVA by 10.0% (20.0%). If there is a BB or BC in your Main Fleet: decreases this ship's and that BB's or BC's DMG taken by 1.0% (10.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150060.png",
+    "max_level": 10
+  },
+  "150070": {
+    "id": 150070,
+    "type": 1,
+    "name": "It's Pretty Heavy... Isn't It?",
+    "desc": "Increases this ship's DMG dealt to DDs by 5.0% (15.0%). Every 8 times this ship fires her Main Guns: for 4s, increases this ship's FP, TRP, and ACC by 15.0% (30.0%), but decreases her SPD by 10.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150070.png",
+    "max_level": 10
+  },
+  "150080": {
+    "id": 150080,
+    "type": 2,
+    "name": "As Long As I Can Hold On...",
+    "desc": "Every 20s: 40.0% (70.0%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level; decreases the SPD of enemies hit by this barrage by 10.0% for 10s). When this ship takes DMG: 50.0% chance to decrease this ship's DMG taken by 10.0% (20.0%) for 10s (this buff cannot reactivate during its active duration). When sortied with another Le Hardi-class ship: the above effect is also granted to a random Le Hardi-class ship in your fleet.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150080.png",
+    "max_level": 10
+  },
+  "150120": {
+    "id": 150120,
+    "type": 1,
+    "name": "Symphony Rehearsal",
+    "desc": "Increases this ship's FP by 5.0% (15.0%). When this ship takes DMG, or when an enemy gets within a certain range of her: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level; 15s cooldown between activations).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150120.png",
+    "max_level": 10
+  },
+  "150130": {
+    "id": 150130,
+    "type": 3,
+    "name": "Youthful Chorale",
+    "desc": "Increases this ship's AA by 5.0% (15.0%). When this ship fires her Main Guns: 40.0% (70.0%) chance for all your Little ships to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level and the AA stat of the ship firing the barrage).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150130.png",
+    "max_level": 10
   },
   "800010": {
     "id": 800010,
@@ -14517,6 +14677,110 @@
     "name": "Ashen Might - Vampire",
     "desc": "[Operation Siren]\nEvery 10 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 6.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801190.png",
+    "max_level": 1
+  },
+  "801200": {
+    "id": 801200,
+    "type": 1,
+    "name": "Keeper of the Grimoire",
+    "desc": "Increases this ship's FP and AVI by 5.0% (15.0%). 5s after this ship launches an airstrike: 40.0% (70.0%) chance to fire a Lv.1 (Lv.10) special barrage and launch a Lv.1 (Lv.10) special airstrike (DMG is based on the skill's level); if this effect does not activate, its activation chance becomes 100.0% the next time this ship launches an airstrike.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801200.png",
+    "max_level": 10
+  },
+  "801210": {
+    "id": 801210,
+    "type": 2,
+    "name": "Holy Tempest's Descension",
+    "desc": "When the battle starts: increases this ship's Detection Gauge value by 15. Every time this ship sinks 2 enemies during battle: this ship recovers 1.0% (2.0%) of her max HP (up to 5 times per battle). Every 30s, or when this ship sinks 4 enemies: summons a Lv.1 (Lv.10) tornado (lasts 5s) that decreases enemies' SPD (SPD debuff's strength is based on the skill's level; up to 3 tornadoes can be summoned per battle). Once per battle, when this ship's HP falls below 40.0% as a result of DMG taken: sets this ship's Detection Gauge value to 0 and recovers 15.0% (25.0%) of her max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801210.png",
+    "max_level": 10
+  },
+  "801220": {
+    "id": 801220,
+    "type": 3,
+    "name": "Sacrament's Empowering Rite",
+    "desc": "Increases this ship's DMG dealt by 1.0% (10.0%) and decreases the loading time of her first airstrike by 20.0%. Activates one of the following 2 effects based on what weapon this ship has equipped in her Secondary Weapon slot: 1) Main Gun: increases this weapon's Detection Range and Range and increases its efficiency by 15.0% (30.0%). Improves the special cannon barrage fired by the skill \"Keeper of the Grimoire.\" Every 10s: fires a Lv.1 (Lv.10) special cannon barrage (DMG is based on the skill's level).\n2): Dive Bomber: further decreases the loading time of this ship's first airstrike by 15.0% (30.0%). Improves the special airstrike fired by the skill \"Keeper of the Grimoire.\"",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801220.png",
+    "max_level": 10
+  },
+  "801231": {
+    "id": 801231,
+    "type": 1,
+    "name": "Flickering Light - Béarn",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 3.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801230.png",
+    "max_level": 1
+  },
+  "801232": {
+    "id": 801232,
+    "type": 1,
+    "name": "Flickering Light - Béarn",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 8.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801230.png",
+    "max_level": 1
+  },
+  "801235": {
+    "id": 801235,
+    "type": 1,
+    "name": "Flickering Light - Béarn",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 3.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801230.png",
+    "max_level": 1
+  },
+  "801237": {
+    "id": 801237,
+    "type": 1,
+    "name": "Flickering Light - Béarn",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 8.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801230.png",
+    "max_level": 1
+  },
+  "801240": {
+    "id": 801240,
+    "type": 1,
+    "name": "Hellward Bladepoint",
+    "desc": "Every 15s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). Enemies hit by this barrage take 5.0% (15.0%) more cannon and torpedo DMG from Foch META.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801240.png",
+    "max_level": 10
+  },
+  "801250": {
+    "id": 801250,
+    "type": 3,
+    "name": "Unrelenting Warbringer",
+    "desc": "Increases this ship's FP by 5.0% (15.0%). When the fleet this ship is in sinks an enemy fleet: decreases this ship's DMG taken by 1.5% (6.0%) for the rest of the sortie (can be stacked up to 3 times). Decreases the DMG penalty on this ship from the Out of Ammo debuff by 15.0% (30.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801250.png",
+    "max_level": 10
+  },
+  "801261": {
+    "id": 801261,
+    "type": 3,
+    "name": "Cinders of Hope - Foch",
+    "desc": "Every 9 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801260.png",
+    "max_level": 1
+  },
+  "801262": {
+    "id": 801262,
+    "type": 3,
+    "name": "Cinders of Hope - Foch",
+    "desc": "Every 6 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801260.png",
+    "max_level": 1
+  },
+  "801265": {
+    "id": 801265,
+    "type": 3,
+    "name": "Cinders of Hope - Foch",
+    "desc": "[Operation Siren]\nEvery 9 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 2.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801260.png",
+    "max_level": 1
+  },
+  "801267": {
+    "id": 801267,
+    "type": 3,
+    "name": "Cinders of Hope - Foch",
+    "desc": "[Operation Siren]\nEvery 6 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 6.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801260.png",
     "max_level": 1
   },
   "902220": {
