@@ -1,3 +1,12 @@
+## Patch 4.6.13
+<details>
+  <summary>18 June 2024</summary>
+  
+  - enable auto-update
+  - upgrade python 3.10 into 3.11
+</details>
+
+
 ## Patch 4.6.12
 <details>
   <summary>07 June 2024</summary>

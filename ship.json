@@ -49322,7 +49322,8 @@
     "class": "Emerald Class",
     "nationality": 2,
     "obtain": [
-      "Event: Angel of the Iris"
+      "Event: Angel of the Iris",
+      "Light ship Construction"
     ],
     "type": 2,
     "rarity": 4,
@@ -146171,7 +146172,8 @@
     "class": "Le Fantasque Class ",
     "nationality": 9,
     "obtain": [
-      "Event: Angel of the Iris"
+      "Event: Angel of the Iris",
+      "Light Ship Construction"
     ],
     "type": 1,
     "rarity": 5,
@@ -146898,7 +146900,8 @@
     "class": "Suffren-Class",
     "nationality": 9,
     "obtain": [
-      "Event: The Flame-Touched Dagger"
+      "Event: The Flame-Touched Dagger",
+      "Heavy Ship Construction"
     ],
     "type": 3,
     "rarity": 4,
@@ -148288,7 +148291,8 @@
     "class": "Joffre Class",
     "nationality": 9,
     "obtain": [
-      "Event: Angel of the Iris"
+      "Event: Angel of the Iris",
+      "Special Construction"
     ],
     "type": 7,
     "rarity": 5,
@@ -154038,7 +154042,7 @@
       ],
       [
         "Improve Cinders of Hope - Foch",
-        "Tornado efficiency +15%"
+        "Torpedo efficiency +15%"
       ]
     ],
     "equipment": {
@@ -154235,6 +154239,255 @@
       "801250": {
         "id": 801250,
         "parent": 801250,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      }
+    }
+  },
+  {
+    "id": 30035,
+    "gid": 970304,
+    "cid": 3,
+    "sid": [
+      9703041,
+      9703042,
+      9703043,
+      9703044
+    ],
+    "name": "Wichita META",
+    "codename": "Wichita.META",
+    "class": "Wichita META",
+    "nationality": 97,
+    "obtain": [
+      "META Lab - Coordinate Analysis"
+    ],
+    "type": 3,
+    "rarity": 5,
+    "armor": 1,
+    "hexagon": [
+      "A",
+      "E",
+      "E",
+      "C",
+      "C",
+      "B"
+    ],
+    "share_group": [],
+    "breakout": [
+      [
+        "Unlock Ashen Might - Wichita",
+        "Main gun efficiency +5%"
+      ],
+      [
+        "Main gun base +1",
+        "Main gun efficiency +10%"
+      ],
+      [
+        "Improve Ashen Might - Wichita",
+        "All weapons' efficiency +5%"
+      ]
+    ],
+    "equipment": {
+      "1": {
+        "default": 102,
+        "slot": 1,
+        "type": [
+          3
+        ],
+        "mount": 2,
+        "preload": 0,
+        "efficiency": 1.3
+      },
+      "2": {
+        "default": 100,
+        "slot": 2,
+        "type": [
+          1
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 0.55
+      },
+      "3": {
+        "default": 104,
+        "slot": 3,
+        "type": [
+          6
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1.05
+      },
+      "4": {
+        "default": null,
+        "slot": 4,
+        "type": [
+          10
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      },
+      "5": {
+        "default": null,
+        "slot": 5,
+        "type": [
+          10
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      }
+    },
+    "base": {
+      "9703041": {
+        "health": 662,
+        "firepower": 54,
+        "torpedo": 0,
+        "antiair": 43,
+        "aviation": 0,
+        "reload": 69,
+        "accuracy": 35,
+        "evasion": 7,
+        "speed": 26,
+        "luck": 70,
+        "asw": 0
+      },
+      "9703042": {
+        "health": 823,
+        "firepower": 67,
+        "torpedo": 0,
+        "antiair": 54,
+        "aviation": 0,
+        "reload": 69,
+        "accuracy": 35,
+        "evasion": 7,
+        "speed": 26,
+        "luck": 70,
+        "asw": 0
+      },
+      "9703043": {
+        "health": 1146,
+        "firepower": 94,
+        "torpedo": 0,
+        "antiair": 75,
+        "aviation": 0,
+        "reload": 69,
+        "accuracy": 35,
+        "evasion": 7,
+        "speed": 26,
+        "luck": 70,
+        "asw": 0
+      },
+      "9703044": {
+        "health": 1630,
+        "firepower": 134,
+        "torpedo": 0,
+        "antiair": 107,
+        "aviation": 0,
+        "reload": 69,
+        "accuracy": 35,
+        "evasion": 7,
+        "speed": 26,
+        "luck": 70,
+        "asw": 0
+      }
+    },
+    "growth": {
+      "9703041": {
+        "health": 11389,
+        "firepower": 727,
+        "torpedo": 0,
+        "antiair": 588,
+        "aviation": 0,
+        "reload": 478,
+        "accuracy": 528,
+        "evasion": 284,
+        "speed": 0,
+        "luck": 0,
+        "asw": 0
+      },
+      "9703042": {
+        "health": 11389,
+        "firepower": 727,
+        "torpedo": 0,
+        "antiair": 588,
+        "aviation": 0,
+        "reload": 478,
+        "accuracy": 528,
+        "evasion": 284,
+        "speed": 0,
+        "luck": 0,
+        "asw": 0
+      },
+      "9703043": {
+        "health": 11389,
+        "firepower": 727,
+        "torpedo": 0,
+        "antiair": 588,
+        "aviation": 0,
+        "reload": 478,
+        "accuracy": 528,
+        "evasion": 284,
+        "speed": 0,
+        "luck": 0,
+        "asw": 0
+      },
+      "9703044": {
+        "health": 11389,
+        "firepower": 727,
+        "torpedo": 0,
+        "antiair": 588,
+        "aviation": 0,
+        "reload": 478,
+        "accuracy": 528,
+        "evasion": 284,
+        "speed": 0,
+        "luck": 0,
+        "asw": 0
+      }
+    },
+    "enhance": {
+      "health": 645,
+      "antiair": 42,
+      "accuracy": 34,
+      "evasion": 7,
+      "firepower": 54,
+      "reload": 51
+    },
+    "skill": {
+      "801301": {
+        "id": 801301,
+        "parent": 801301,
+        "upgrade": 801302,
+        "downgrade": null,
+        "requirement": "Limit Break 1"
+      },
+      "801302": {
+        "id": 801302,
+        "parent": 801301,
+        "upgrade": null,
+        "downgrade": 801301,
+        "requirement": "Limit Break 3"
+      },
+      "801270": {
+        "id": 801270,
+        "parent": 801270,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "801280": {
+        "id": 801280,
+        "parent": 801280,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "801290": {
+        "id": 801290,
+        "parent": 801290,
         "upgrade": null,
         "downgrade": null,
         "requirement": "Default"

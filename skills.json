@@ -14783,6 +14783,62 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801260.png",
     "max_level": 1
   },
+  "801270": {
+    "id": 801270,
+    "type": 1,
+    "name": "Honed Through Adversity",
+    "desc": "Increases this ship's RLD and ACC by 5.0% (15.0%). When this ship's HP falls below 50.0%, the lower her HP is: increases this ship's FP (up to 10.0% (50.0%)).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801270.png",
+    "max_level": 10
+  },
+  "801280": {
+    "id": 801280,
+    "type": 1,
+    "name": "Decisiveness From Despair",
+    "desc": "When this ship fires her Main Guns: 15.0% (25.0%) chance to fire again (can only activate once every second). When this ship's HP falls below 50.0%, the lower her HP is: increases the activation chance of this skill (up to 60.0% (75.0%)).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801280.png",
+    "max_level": 10
+  },
+  "801290": {
+    "id": 801290,
+    "type": 1,
+    "name": "Eleventh Hour",
+    "desc": "When this ship's HP falls below 50.0%, the lower her HP is: increases her DMG dealt (up to 10.0% (50.0%)). Once per battle, when this ship takes DMG that would sink her: this ship does not sink and evades all attacks for 8s; when this effect activates, this ship deploys a Lv.1 (Lv.10) Council-Style MK XIII Orbital Cannon and attacks with it (DMG is based on the skill's level). When this effect wears off, this ship recovers 10.0% (20.0%) of her max HP and all of her skills are negated until the battle ends.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801290.png",
+    "max_level": 10
+  },
+  "801301": {
+    "id": 801301,
+    "type": 1,
+    "name": "Ashen Might - Wichita I",
+    "desc": "Every 12 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801300.png",
+    "max_level": 1
+  },
+  "801302": {
+    "id": 801302,
+    "type": 1,
+    "name": "Ashen Might - Wichita II",
+    "desc": "While this ship's HP is above 50.0%, every 8 times this ship fires her Main Guns: reduces this ship's current HP by 5.0% and fires a special barrage with 20.0% increased Crit Rate; when this ship's HP falls below 50.0%, every 4 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801300.png",
+    "max_level": 1
+  },
+  "801305": {
+    "id": 801305,
+    "type": 1,
+    "name": "Ashen Might - Wichita I",
+    "desc": "[Operation Siren]\nEvery 12 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 3.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801300.png",
+    "max_level": 1
+  },
+  "801307": {
+    "id": 801307,
+    "type": 1,
+    "name": "Ashen Might - Wichita II",
+    "desc": "[Operation Siren]\nWhile this ship's HP is above 50.0%, every 8 times this ship fires her Main Guns: reduces this ship's current HP by 5.0% and fires a special barrage with 20.0% increased Crit Rate; when this ship's HP falls below 50.0%, every 4 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 8.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801300.png",
+    "max_level": 1
+  },
   "902220": {
     "id": 902220,
     "type": 2,
@@ -14797,6 +14853,14 @@
     "name": "Chevalier's Sabre+",
     "desc": "Increases this ship's TRP by 10.0% (20.0%) and, every 15s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). If your Vanguard consists of only Iris Libre and/or Vichya Dominion ships, every 20s: 75.0% chance to increase your fleet's DMG dealt by 5.0% (25.0%) for 10s (does not stack with the same effect).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/5080.png",
+    "max_level": 10
+  },
+  "1010090": {
+    "id": 1010090,
+    "type": 3,
+    "name": "I Am No. 1!+",
+    "desc": "When this ship fires her AA Guns: 15.0% chance to increase your fleet's AA by 30% (50%) for 8s. When this ship fires her Main Guns: fires a Lv.1 (Lv.10) star barrage that ignores enemy shields (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/10090.png",
     "max_level": 10
   },
   "1010100": {
@@ -14991,6 +15055,14 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/11120.png",
     "max_level": 10
   },
+  "1011170": {
+    "id": 1011170,
+    "type": 1,
+    "name": "Allies of Justice+",
+    "desc": "When sortied with Sheffield: increases this ship's EVA by 5% (15%) and increases this ship's and Sheffield's FP and TRP by 5% (15%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/11170.png",
+    "max_level": 10
+  },
   "1011360": {
     "id": 1011360,
     "type": 3,
@@ -15111,6 +15183,14 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/12160.png",
     "max_level": 10
   },
+  "1012320": {
+    "id": 1012320,
+    "type": 1,
+    "name": "Poisonous Sting+",
+    "desc": "Every 10 times this ship's Main Guns hit the same enemy: increases that enemy's DMG taken from your Vanguard by 4.5% (12.0%) for 5s and fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). When this ship sinks an enemy: increases this ship's FP, ACC, and AA by 1.5% (6.0%) until the battle ends (can be stacked up to 4 times).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/12320.png",
+    "max_level": 10
+  },
   "1012350": {
     "id": 1012350,
     "type": 1,
@@ -15205,6 +15285,14 @@
     "name": "Treasure of the Loyal Protector+",
     "desc": "Increases this ship's Evasion Rate by 2.5% (7.0%). Once per battle, when this ship's HP falls below 50.0% as a result of DMG taken: restores 3.5% (8.0%) of this ship's max HP; also once per battle, when this ship's HP falls below 35.0% as a result of DMG taken: restores 3.5% (8.0%) of this ship's max HP.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17270.png",
+    "max_level": 10
+  },
+  "1019080": {
+    "id": 1019080,
+    "type": 2,
+    "name": "Specialized Armor+",
+    "desc": "Decreases this ship's DMG taken from AP ammo by 15% (30%). When this ship fires her Main Guns: increases this ship's DMG dealt by 5.0% (15.0%) for 8s. Increases the activation chance of the skill \"A Legend's Inheritance\" or \"A Legend's Inheritance+\" by 30.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19080.png",
     "max_level": 10
   },
   "1090010": {
@@ -15405,6 +15493,14 @@
     "name": "Torpedo Command - Comet",
     "desc": "Increases all your DDs' TRP by 5% (15%) (does not stack with the skill \"Torpedo Command\"). When this ship fires her Main Guns: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level and this ship's TRP stat).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/1010.png",
+    "max_level": 10
+  },
+  "1090260": {
+    "id": 1090260,
+    "type": 1,
+    "name": "Quick Reload - Spence",
+    "desc": "Every 20s: 40.0% (70.0%) chance to increase this ship's RLD by 20.0% (40.0%). When this ship takes DMG: fires a Lv.1 (Lv.10) special barrage and increases this ship's TRP and ACC by 1.0% (5.0%) for 10s (15s cooldown between activations; DMG is based on the skill's level; buff can be stacked up to 3 times).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/2000.png",
     "max_level": 10
   }
 }

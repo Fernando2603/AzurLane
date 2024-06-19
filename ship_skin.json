@@ -43106,7 +43106,7 @@
         "illustrator2": -1,
         "voice_actor": 396,
         "voice_actor2": -1,
-        "bgm": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-7 .ogg",
+        "bgm": null,
         "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/173.png",
         "background2": null,
         "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/501052/painting.png",
@@ -50940,6 +50940,34 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9703030/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9703030/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9703030/shipyard.png"
+      }
+    }
+  },
+  "970304": {
+    "gid": 970304,
+    "name": "Wichita META",
+    "skins": {
+      "9703040": {
+        "id": 9703040,
+        "gid": 970304,
+        "name": "Wichita META",
+        "type": "Default",
+        "desc": "You the Commander? Alright, say no more. Take me into battle and I guarantee ya won't be let down!",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 24,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9703040/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9703040/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9703040/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9703040/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9703040/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9703040/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9703040/shipyard.png"
       }
     }
   }
