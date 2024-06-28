@@ -9199,6 +9199,22 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/20300.png",
     "max_level": 1
   },
+  "23611": {
+    "id": 23611,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Type VIIA immediately after entering the battle.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/20300.png",
+    "max_level": 1
+  },
+  "23612": {
+    "id": 23612,
+    "type": 1,
+    "name": "All Out Assault Ⅱ",
+    "desc": "Activates All Out Assault II: Type VIIA immediately after entering the battle.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/20300.png",
+    "max_level": 1
+  },
   "24011": {
     "id": 24011,
     "type": 1,
@@ -11631,6 +11647,22 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30270.png",
     "max_level": 1
   },
+  "30281": {
+    "id": 30281,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Every 15 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30280.png",
+    "max_level": 1
+  },
+  "30282": {
+    "id": 30282,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Every 10 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30280.png",
+    "max_level": 1
+  },
   "101010": {
     "id": 101010,
     "type": 3,
@@ -12965,6 +12997,62 @@
     "name": "Youthful Chorale",
     "desc": "Increases this ship's AA by 5.0% (15.0%). When this ship fires her Main Guns: 40.0% (70.0%) chance for all your Little ships to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level and the AA stat of the ship firing the barrage).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150130.png",
+    "max_level": 10
+  },
+  "150140": {
+    "id": 150140,
+    "type": 1,
+    "name": "Muspel-Piercing Spear",
+    "desc": "Increases this ship's FP and RLD by 5.0% (15.0%).\nWhen this ship fires her Main Guns: 50.0% (80.0%) chance to fire a Lv.1 (Lv.10) special barrage I (DMG is based on the skill's level); enemies hit by this barrage are inflicted with the following debuff: inflicts a special Burn ailment lasting 5s, inflicting 150 DMG every second and spreading this Burn to 1 other enemy (excluding the enemy afflicted by it) once every second.\nThis Burn can be reinflicted to reset its duration, but its DMG cannot stack.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150140.png",
+    "max_level": 10
+  },
+  "150150": {
+    "id": 150150,
+    "type": 3,
+    "name": "Rune of Omniscience",
+    "desc": "Increases this ship's DMG dealt to Light Armor enemies by 5.0% (15.0%).\nEvery 16s: 40.0% (70.0%) chance to fire a Lv.1 (Lv.10) special barrage II (DMG is based on the skill's level). Once per battle, when this barrage scores a total of 3 hits: increases this ship's Crit Rate and Crit DMG by 15.0% (25.0%) until the battle ends.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150150.png",
+    "max_level": 10
+  },
+  "150160": {
+    "id": 150160,
+    "type": 1,
+    "name": "Emojistorm",
+    "desc": "If this ship has an Iron Blood weapon equipped: increases this ship's torpedo efficiency by 1.0% (10.0%). During battle, every 2 times this ship's All Out Assault skill activates: fires a Lv.1 (Lv.10) special torpedo barrage (DMG is based on the skill's level and this ship's TRP stat).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150160.png",
+    "max_level": 10
+  },
+  "150170": {
+    "id": 150170,
+    "type": 3,
+    "name": "Heartbroken Wings",
+    "desc": "Increases this ship's FP and TRP by 5.0% (15.0%). As long as there are Light Armor enemies within 45 units of this ship: decreases this ship's DMG taken by 5.0% (15.0%) and increases her DMG dealt to those Light Armor enemies by 5.0% (20.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150170.png",
+    "max_level": 10
+  },
+  "150180": {
+    "id": 150180,
+    "type": 1,
+    "name": "Eternal Demon-Eye",
+    "desc": "Every 20s after the battle starts: 70.0% chance to increase this ship's FP, TRP, and ACC by 15.0% (30.0%) for 10s. If this buff does not activate: decreases all enemies' FP, TRP, and SPD by 1.0% (10.0%) for 10s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150180.png",
+    "max_level": 10
+  },
+  "150190": {
+    "id": 150190,
+    "type": 2,
+    "name": "Rebel for Justice!",
+    "desc": "When the battle starts, decreases this ship's DMG taken from DD cannons and torpedoes by 1.0% (10.0%). Once per battle, when this ship's HP falls below 60.0% as a result of DMG taken: decreases this ship's DMG taken by 1.0% (10.0%) until the battle ends and increases this ship's AA, ASW, and EVA by 15.0% (30.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150190.png",
+    "max_level": 10
+  },
+  "150200": {
+    "id": 150200,
+    "type": 1,
+    "name": "Danger From Below!",
+    "desc": "Increases this boat's DMG dealt to enemies with the Flooding ailment by 4.0% (10.0%). 3s after the battle starts: this boat moves a set distance forward and deploys 2 Lv.1 (Lv.10) sea mines (DMG is based on the skill's level), then returns to her original position. Enemies that come into contact with the sea mines are inflicted with the Flooding status, taking DMG continuously over 18s (DMG is based on the skill's level and this boat's TRP stat); if the enemy is a BB: decreases that enemy's SPD by 20.0% for 18s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150200.png",
     "max_level": 10
   },
   "800010": {

@@ -103637,6 +103637,248 @@
     }
   },
   {
+    "id": 651,
+    "gid": 40143,
+    "cid": 1,
+    "sid": [
+      401431,
+      401432,
+      401433,
+      401434
+    ],
+    "name": "Z43",
+    "codename": "KMS Z43",
+    "class": "Type 1936B",
+    "nationality": 4,
+    "obtain": [
+      "Event: Welcome to Little Academy"
+    ],
+    "type": 1,
+    "rarity": 4,
+    "armor": 1,
+    "hexagon": [
+      "C",
+      "A",
+      "E",
+      "A",
+      "B",
+      "D"
+    ],
+    "share_group": [],
+    "breakout": [
+      [
+        "Unlock All Out Assault",
+        "AA gun efficiency +5%"
+      ],
+      [
+        "Torpedo base +1",
+        "Torpedo preload +1",
+        "Main gun efficiency +10%"
+      ],
+      [
+        "Improve All Out Assault",
+        "All weapons' efficiency +5%"
+      ]
+    ],
+    "equipment": {
+      "1": {
+        "default": 100,
+        "slot": 1,
+        "type": [
+          1
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1.45
+      },
+      "2": {
+        "default": 107,
+        "slot": 2,
+        "type": [
+          5
+        ],
+        "mount": 2,
+        "preload": 1,
+        "efficiency": 1.25
+      },
+      "3": {
+        "default": 104,
+        "slot": 3,
+        "type": [
+          6
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1.25
+      },
+      "4": {
+        "default": null,
+        "slot": 4,
+        "type": [
+          10,
+          14
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      },
+      "5": {
+        "default": null,
+        "slot": 5,
+        "type": [
+          10,
+          14
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      }
+    },
+    "base": {
+      "401431": {
+        "health": 340,
+        "firepower": 16,
+        "torpedo": 84,
+        "antiair": 34,
+        "aviation": 0,
+        "reload": 77,
+        "accuracy": 68,
+        "evasion": 59,
+        "speed": 43.2,
+        "luck": 36,
+        "asw": 50
+      },
+      "401432": {
+        "health": 423,
+        "firepower": 20,
+        "torpedo": 105,
+        "antiair": 42,
+        "aviation": 0,
+        "reload": 77,
+        "accuracy": 68,
+        "evasion": 59,
+        "speed": 43.2,
+        "luck": 36,
+        "asw": 62
+      },
+      "401433": {
+        "health": 589,
+        "firepower": 28,
+        "torpedo": 147,
+        "antiair": 59,
+        "aviation": 0,
+        "reload": 77,
+        "accuracy": 68,
+        "evasion": 59,
+        "speed": 43.2,
+        "luck": 36,
+        "asw": 87
+      },
+      "401434": {
+        "health": 838,
+        "firepower": 39,
+        "torpedo": 209,
+        "antiair": 84,
+        "aviation": 0,
+        "reload": 77,
+        "accuracy": 68,
+        "evasion": 59,
+        "speed": 43.2,
+        "luck": 36,
+        "asw": 124
+      }
+    },
+    "growth": {
+      "401431": {
+        "health": 9550,
+        "firepower": 219,
+        "torpedo": 1031,
+        "antiair": 741,
+        "aviation": 0,
+        "reload": 534,
+        "accuracy": 1050,
+        "evasion": 1090,
+        "speed": 0,
+        "luck": 0,
+        "asw": 568
+      },
+      "401432": {
+        "health": 9550,
+        "firepower": 219,
+        "torpedo": 1031,
+        "antiair": 741,
+        "aviation": 0,
+        "reload": 534,
+        "accuracy": 1050,
+        "evasion": 1090,
+        "speed": 0,
+        "luck": 0,
+        "asw": 568
+      },
+      "401433": {
+        "health": 9550,
+        "firepower": 219,
+        "torpedo": 1031,
+        "antiair": 741,
+        "aviation": 0,
+        "reload": 534,
+        "accuracy": 1050,
+        "evasion": 1090,
+        "speed": 0,
+        "luck": 0,
+        "asw": 568
+      },
+      "401434": {
+        "health": 9550,
+        "firepower": 219,
+        "torpedo": 1031,
+        "antiair": 741,
+        "aviation": 0,
+        "reload": 534,
+        "accuracy": 1050,
+        "evasion": 1090,
+        "speed": 0,
+        "luck": 0,
+        "asw": 568
+      }
+    },
+    "enhance": {
+      "firepower": 16,
+      "torpedo": 84,
+      "reload": 57
+    },
+    "skill": {
+      "150180": {
+        "id": 150180,
+        "parent": 150180,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "150190": {
+        "id": 150190,
+        "parent": 150190,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "23051": {
+        "id": 23051,
+        "parent": 23051,
+        "upgrade": 23052,
+        "downgrade": null,
+        "requirement": "Limit Break 1"
+      },
+      "23052": {
+        "id": 23052,
+        "parent": 23051,
+        "upgrade": null,
+        "downgrade": 23051,
+        "requirement": "Limit Break 3"
+      }
+    }
+  },
+  {
     "id": 267,
     "gid": 40146,
     "cid": 1,
@@ -103876,6 +104118,248 @@
         "parent": 29211,
         "upgrade": null,
         "downgrade": 29211,
+        "requirement": "Limit Break 3"
+      }
+    }
+  },
+  {
+    "id": 649,
+    "gid": 40147,
+    "cid": 1,
+    "sid": [
+      401471,
+      401472,
+      401473,
+      401474
+    ],
+    "name": "Z47",
+    "codename": "KMS Z47",
+    "class": "Type 1936C",
+    "nationality": 4,
+    "obtain": [
+      "Event: Welcome to Little Academy"
+    ],
+    "type": 1,
+    "rarity": 5,
+    "armor": 1,
+    "hexagon": [
+      "C",
+      "A",
+      "E",
+      "B",
+      "A",
+      "C"
+    ],
+    "share_group": [],
+    "breakout": [
+      [
+        "Unlock All Out Assault",
+        "AA gun efficiency +5%"
+      ],
+      [
+        "Torpedo base +1",
+        "Torpedo preload +1",
+        "Main gun efficiency +10%"
+      ],
+      [
+        "Improve All Out Assault",
+        "AA gun efficiency +15%"
+      ]
+    ],
+    "equipment": {
+      "1": {
+        "default": 100,
+        "slot": 1,
+        "type": [
+          1
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1.6
+      },
+      "2": {
+        "default": 107,
+        "slot": 2,
+        "type": [
+          5
+        ],
+        "mount": 2,
+        "preload": 1,
+        "efficiency": 1.2
+      },
+      "3": {
+        "default": 104,
+        "slot": 3,
+        "type": [
+          6
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1.4
+      },
+      "4": {
+        "default": null,
+        "slot": 4,
+        "type": [
+          10,
+          14
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      },
+      "5": {
+        "default": null,
+        "slot": 5,
+        "type": [
+          10,
+          14
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      }
+    },
+    "base": {
+      "401471": {
+        "health": 433,
+        "firepower": 17,
+        "torpedo": 86,
+        "antiair": 48,
+        "aviation": 0,
+        "reload": 80,
+        "accuracy": 65,
+        "evasion": 56,
+        "speed": 43.2,
+        "luck": 50,
+        "asw": 54
+      },
+      "401472": {
+        "health": 539,
+        "firepower": 21,
+        "torpedo": 107,
+        "antiair": 60,
+        "aviation": 0,
+        "reload": 80,
+        "accuracy": 65,
+        "evasion": 56,
+        "speed": 43.2,
+        "luck": 50,
+        "asw": 67
+      },
+      "401473": {
+        "health": 750,
+        "firepower": 30,
+        "torpedo": 150,
+        "antiair": 83,
+        "aviation": 0,
+        "reload": 80,
+        "accuracy": 65,
+        "evasion": 56,
+        "speed": 43.2,
+        "luck": 50,
+        "asw": 94
+      },
+      "401474": {
+        "health": 1066,
+        "firepower": 43,
+        "torpedo": 214,
+        "antiair": 118,
+        "aviation": 0,
+        "reload": 80,
+        "accuracy": 65,
+        "evasion": 56,
+        "speed": 43.2,
+        "luck": 50,
+        "asw": 134
+      }
+    },
+    "growth": {
+      "401471": {
+        "health": 11619,
+        "firepower": 241,
+        "torpedo": 1046,
+        "antiair": 1036,
+        "aviation": 0,
+        "reload": 559,
+        "accuracy": 1001,
+        "evasion": 1031,
+        "speed": 0,
+        "luck": 0,
+        "asw": 607
+      },
+      "401472": {
+        "health": 11619,
+        "firepower": 241,
+        "torpedo": 1046,
+        "antiair": 1036,
+        "aviation": 0,
+        "reload": 559,
+        "accuracy": 1001,
+        "evasion": 1031,
+        "speed": 0,
+        "luck": 0,
+        "asw": 607
+      },
+      "401473": {
+        "health": 11619,
+        "firepower": 241,
+        "torpedo": 1046,
+        "antiair": 1036,
+        "aviation": 0,
+        "reload": 559,
+        "accuracy": 1001,
+        "evasion": 1031,
+        "speed": 0,
+        "luck": 0,
+        "asw": 607
+      },
+      "401474": {
+        "health": 11619,
+        "firepower": 241,
+        "torpedo": 1046,
+        "antiair": 1036,
+        "aviation": 0,
+        "reload": 559,
+        "accuracy": 1001,
+        "evasion": 1031,
+        "speed": 0,
+        "luck": 0,
+        "asw": 607
+      }
+    },
+    "enhance": {
+      "firepower": 17,
+      "torpedo": 85,
+      "reload": 60
+    },
+    "skill": {
+      "150160": {
+        "id": 150160,
+        "parent": 150160,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "150170": {
+        "id": 150170,
+        "parent": 150170,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "30281": {
+        "id": 30281,
+        "parent": 30281,
+        "upgrade": 30282,
+        "downgrade": null,
+        "requirement": "Limit Break 1"
+      },
+      "30282": {
+        "id": 30282,
+        "parent": 30281,
+        "upgrade": null,
+        "downgrade": 30281,
         "requirement": "Limit Break 3"
       }
     }
@@ -110913,6 +111397,233 @@
     }
   },
   {
+    "id": 648,
+    "gid": 40406,
+    "cid": 1,
+    "sid": [
+      404061,
+      404062,
+      404063,
+      404064
+    ],
+    "name": "Alvitr",
+    "codename": "KMS Alvitr",
+    "class": "O Class",
+    "nationality": 4,
+    "obtain": [
+      "Event: Welcome to Little Academy"
+    ],
+    "type": 4,
+    "rarity": 5,
+    "armor": 3,
+    "hexagon": [
+      "A",
+      "C",
+      "E",
+      "D",
+      "C",
+      "A"
+    ],
+    "share_group": [],
+    "breakout": [
+      [
+        "Main gun base +1",
+        "Main gun efficiency +5%"
+      ],
+      [
+        "Secondary Gun base +2",
+        "Main gun efficiency +10%"
+      ],
+      [
+        "Main gun base +1",
+        "Main gun efficiency +15%"
+      ]
+    ],
+    "equipment": {
+      "1": {
+        "default": 103,
+        "slot": 1,
+        "type": [
+          4
+        ],
+        "mount": 3,
+        "preload": 0,
+        "efficiency": 1.4
+      },
+      "2": {
+        "default": 101,
+        "slot": 2,
+        "type": [
+          1,
+          2
+        ],
+        "mount": 3,
+        "preload": 0,
+        "efficiency": 2
+      },
+      "3": {
+        "default": 100,
+        "slot": 3,
+        "type": [
+          6,
+          21
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      },
+      "4": {
+        "default": null,
+        "slot": 4,
+        "type": [
+          10
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      },
+      "5": {
+        "default": null,
+        "slot": 5,
+        "type": [
+          10
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      }
+    },
+    "base": {
+      "404061": {
+        "health": 1235,
+        "firepower": 71,
+        "torpedo": 44,
+        "antiair": 59,
+        "aviation": 0,
+        "reload": 61,
+        "accuracy": 21,
+        "evasion": 10,
+        "speed": 33.5,
+        "luck": 50,
+        "asw": 0
+      },
+      "404062": {
+        "health": 1536,
+        "firepower": 89,
+        "torpedo": 55,
+        "antiair": 73,
+        "aviation": 0,
+        "reload": 61,
+        "accuracy": 21,
+        "evasion": 10,
+        "speed": 33.5,
+        "luck": 50,
+        "asw": 0
+      },
+      "404063": {
+        "health": 2139,
+        "firepower": 124,
+        "torpedo": 77,
+        "antiair": 102,
+        "aviation": 0,
+        "reload": 61,
+        "accuracy": 21,
+        "evasion": 10,
+        "speed": 33.5,
+        "luck": 50,
+        "asw": 0
+      },
+      "404064": {
+        "health": 3043,
+        "firepower": 177,
+        "torpedo": 110,
+        "antiair": 145,
+        "aviation": 0,
+        "reload": 61,
+        "accuracy": 21,
+        "evasion": 10,
+        "speed": 33.5,
+        "luck": 50,
+        "asw": 0
+      }
+    },
+    "growth": {
+      "404061": {
+        "health": 33265,
+        "firepower": 910,
+        "torpedo": 615,
+        "antiair": 1253,
+        "aviation": 0,
+        "reload": 426,
+        "accuracy": 337,
+        "evasion": 250,
+        "speed": 0,
+        "luck": 0,
+        "asw": 0
+      },
+      "404062": {
+        "health": 33265,
+        "firepower": 910,
+        "torpedo": 615,
+        "antiair": 1253,
+        "aviation": 0,
+        "reload": 426,
+        "accuracy": 337,
+        "evasion": 250,
+        "speed": 0,
+        "luck": 0,
+        "asw": 0
+      },
+      "404063": {
+        "health": 33265,
+        "firepower": 910,
+        "torpedo": 615,
+        "antiair": 1253,
+        "aviation": 0,
+        "reload": 426,
+        "accuracy": 337,
+        "evasion": 250,
+        "speed": 0,
+        "luck": 0,
+        "asw": 0
+      },
+      "404064": {
+        "health": 33265,
+        "firepower": 910,
+        "torpedo": 615,
+        "antiair": 1253,
+        "aviation": 0,
+        "reload": 426,
+        "accuracy": 337,
+        "evasion": 250,
+        "speed": 0,
+        "luck": 0,
+        "asw": 0
+      }
+    },
+    "enhance": {
+      "firepower": 71,
+      "torpedo": 44,
+      "reload": 46
+    },
+    "skill": {
+      "150140": {
+        "id": 150140,
+        "parent": 150140,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "150150": {
+        "id": 150150,
+        "parent": 150150,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      }
+    }
+  },
+  {
     "id": 250,
     "gid": 40501,
     "cid": 1,
@@ -116568,6 +117279,245 @@
         "parent": 23311,
         "upgrade": null,
         "downgrade": 23311,
+        "requirement": "Limit Break 3"
+      }
+    }
+  },
+  {
+    "id": 650,
+    "gid": 40813,
+    "cid": 1,
+    "sid": [
+      408131,
+      408132,
+      408133,
+      408134
+    ],
+    "name": "U-31",
+    "codename": "KMS U-31",
+    "class": "Type VIIA",
+    "nationality": 4,
+    "obtain": [
+      "Event: Welcome to Little Academy"
+    ],
+    "type": 8,
+    "rarity": 4,
+    "armor": 1,
+    "hexagon": [
+      "D",
+      "S",
+      "E",
+      "D",
+      "E",
+      "D"
+    ],
+    "share_group": [],
+    "breakout": [
+      [
+        "Unlock All Out Assault",
+        "Torpedo efficiency +5%"
+      ],
+      [
+        "Torpedo base +1",
+        "Improve Hunting Range"
+      ],
+      [
+        "Improve All Out Assault",
+        "Torpedo efficiency +10%"
+      ]
+    ],
+    "equipment": {
+      "1": {
+        "default": 140,
+        "slot": 1,
+        "type": [
+          13
+        ],
+        "mount": 2,
+        "preload": 0,
+        "efficiency": 1.25
+      },
+      "2": {
+        "default": 140,
+        "slot": 2,
+        "type": [
+          13
+        ],
+        "mount": 2,
+        "preload": 0,
+        "efficiency": 1.2
+      },
+      "3": {
+        "default": 100,
+        "slot": 3,
+        "type": [
+          1
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 0.85
+      },
+      "4": {
+        "default": null,
+        "slot": 4,
+        "type": [
+          10
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      },
+      "5": {
+        "default": null,
+        "slot": 5,
+        "type": [
+          10
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      }
+    },
+    "base": {
+      "408131": {
+        "health": 188,
+        "firepower": 8,
+        "torpedo": 98,
+        "antiair": 0,
+        "aviation": 0,
+        "reload": 32,
+        "accuracy": 57,
+        "evasion": 7,
+        "speed": 18,
+        "luck": 32,
+        "asw": 0
+      },
+      "408132": {
+        "health": 234,
+        "firepower": 10,
+        "torpedo": 122,
+        "antiair": 0,
+        "aviation": 0,
+        "reload": 32,
+        "accuracy": 57,
+        "evasion": 7,
+        "speed": 18,
+        "luck": 32,
+        "asw": 0
+      },
+      "408133": {
+        "health": 325,
+        "firepower": 14,
+        "torpedo": 171,
+        "antiair": 0,
+        "aviation": 0,
+        "reload": 32,
+        "accuracy": 57,
+        "evasion": 7,
+        "speed": 18,
+        "luck": 32,
+        "asw": 0
+      },
+      "408134": {
+        "health": 463,
+        "firepower": 21,
+        "torpedo": 244,
+        "antiair": 0,
+        "aviation": 0,
+        "reload": 32,
+        "accuracy": 57,
+        "evasion": 7,
+        "speed": 18,
+        "luck": 32,
+        "asw": 0
+      }
+    },
+    "growth": {
+      "408131": {
+        "health": 5344,
+        "firepower": 117,
+        "torpedo": 1175,
+        "antiair": 0,
+        "aviation": 0,
+        "reload": 223,
+        "accuracy": 842,
+        "evasion": 239,
+        "speed": 0,
+        "luck": 0,
+        "asw": 0
+      },
+      "408132": {
+        "health": 5344,
+        "firepower": 117,
+        "torpedo": 1175,
+        "antiair": 0,
+        "aviation": 0,
+        "reload": 223,
+        "accuracy": 842,
+        "evasion": 239,
+        "speed": 0,
+        "luck": 0,
+        "asw": 0
+      },
+      "408133": {
+        "health": 5344,
+        "firepower": 117,
+        "torpedo": 1175,
+        "antiair": 0,
+        "aviation": 0,
+        "reload": 223,
+        "accuracy": 842,
+        "evasion": 239,
+        "speed": 0,
+        "luck": 0,
+        "asw": 0
+      },
+      "408134": {
+        "health": 5344,
+        "firepower": 117,
+        "torpedo": 1175,
+        "antiair": 0,
+        "aviation": 0,
+        "reload": 223,
+        "accuracy": 842,
+        "evasion": 239,
+        "speed": 0,
+        "luck": 0,
+        "asw": 0
+      }
+    },
+    "enhance": {
+      "firepower": 8,
+      "torpedo": 97,
+      "reload": 24
+    },
+    "skill": {
+      "150200": {
+        "id": 150200,
+        "parent": 150200,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "3611": {
+        "id": 3611,
+        "parent": 3611,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "23611": {
+        "id": 23611,
+        "parent": 23611,
+        "upgrade": 23612,
+        "downgrade": null,
+        "requirement": "Limit Break 1"
+      },
+      "23612": {
+        "id": 23612,
+        "parent": 23611,
+        "upgrade": null,
+        "downgrade": 23611,
         "requirement": "Limit Break 3"
       }
     }

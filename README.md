@@ -34,47 +34,47 @@ Azur Lane Resources
 - [list of missing voiceline audio](/docs/MISSING_VOICELINE.md)
 
 ## Repository Size
-Repository contains 50218 files with a size of 8.65 GB (9289603670 B).
+Repository contains 50516 files with a size of 8.68 GB (9316383761 B).
 
 ### Audio
-Contains 34896 files with a size of 3.54 GB (3798632363 B).
+Contains 35129 files with a size of 3.56 GB (3822223282 B).
 
 - **BGM:**
   Contains 392 files with a size of 843.75 MB (884738023 B).
 
 - **Voiceline:**
-  Contains 1889 skins voiceline, 34504 files with a size of 2.71 GB (2913894340 B).
+  Contains 1900 skins voiceline, 34737 files with a size of 2.74 GB (2937485259 B).
 
 ### Images
-Contains 15261 files with a size of 5.06 GB (5432795827 B).
+Contains 15326 files with a size of 5.06 GB (5435738218 B).
 
 - **Background:**
-  Contains 96 files with a size of 60.92 MB (63876356 B).
+  Contains 97 files with a size of 61.58 MB (64568907 B).
 
 - **Equipment:**
-  Contains 1106 files with a size of 12.52 MB (13133342 B).
+  Contains 1107 files with a size of 12.54 MB (13147659 B).
 
 - **Meowfficer:**
   Contains 16 characters, 24 skills, and 91 talents assets with a total of 163 files and a combined size of 7.86 MB (8238566 B).
 
 - **Skills:**
-  Contains 1346 files with a size of 29.06 MB (30470838 B).
+  Contains 1354 files with a size of 29.24 MB (30655540 B).
 
 - **Skins:**
-  Contains 1904 skins, 12208 files with a size of 4.93 GB (5296186138 B).
+  Contains 1915 skins, 12263 files with a size of 4.93 GB (5298236959 B).
 
   - **painting:**
     Contains 2688 files with a size of 4.63 GB (4976303900 B).
   - **banner:**
-    Contains 1904 files with a size of 55.00 MB (57669134 B).
+    Contains 1915 files with a size of 55.31 MB (57999328 B).
   - **chibi:**
-    Contains 1904 files with a size of 64.65 MB (67791406 B).
+    Contains 1915 files with a size of 65.26 MB (68428444 B).
   - **icon:**
-    Contains 1904 files with a size of 38.71 MB (40590175 B).
+    Contains 1915 files with a size of 38.93 MB (40819745 B).
   - **qicon:**
-    Contains 1904 files with a size of 29.96 MB (31417894 B).
+    Contains 1915 files with a size of 30.13 MB (31594433 B).
   - **shipyard:**
-    Contains 1904 files with a size of 116.74 MB (122413629 B).
+    Contains 1915 files with a size of 117.39 MB (123091109 B).
 
 > [!NOTE]
 > Assets without auto-update are not included.

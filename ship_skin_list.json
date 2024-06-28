@@ -1432,6 +1432,30 @@
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/101265/shipyard.png"
       },
       {
+        "id": 101266,
+        "gid": 10126,
+        "name": "After-School Good Girl",
+        "type": "School Girl",
+        "desc": "School's out... Hmm, what do we do now? ...Go out and play? (Eldridge eyes you questioningly.)",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 54,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/509.png",
+        "background2": null,
+        "painting": null,
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/101266/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/101266/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/101266/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/101266/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/101266/shipyard.png"
+      },
+      {
         "id": 101268,
         "gid": 10126,
         "name": "Afternoon Worship in the Woods",
@@ -8728,6 +8752,31 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/205073/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/205073/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/205073/shipyard.png"
+      },
+      {
+        "id": 205074,
+        "gid": 20507,
+        "name": "The Chic Counselor",
+        "type": "On The Job",
+        "desc": "Thou hast come. Welcome to my Athenaeum, young Odysseus. Today, thou shalt receive Duke of York's instruction – now, come forth, take a seat, and hearken to my teachings.",
+        "tag": [
+          "bg",
+          "dynamic"
+        ],
+        "illustrator": 14,
+        "illustrator2": 19,
+        "voice_actor": 79,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/169.png",
+        "background2": null,
+        "painting": null,
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/205074/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/205074/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/205074/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/205074/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/205074/shipyard.png"
       }
     ]
   },
@@ -9484,6 +9533,31 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/207036/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/207036/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/207036/shipyard.png"
+      },
+      {
+        "id": 207037,
+        "gid": 20703,
+        "name": "Our Private \"Study\" Session",
+        "type": "On The Job",
+        "desc": "Oh, Commander? It's a pleasure to see you. Umm, I'm currently going over some... \"extracurricular studies.\" If you have some time to spare, would you mind joining me?",
+        "tag": [
+          "live2d",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 6,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/109.png",
+        "background2": null,
+        "painting": null,
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/207037/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/207037/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/207037/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/207037/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/207037/shipyard.png"
       },
       {
         "id": 207038,
@@ -33589,6 +33663,32 @@
         "shared": "20703"
       },
       {
+        "id": 207037,
+        "gid": 20703,
+        "name": "Our Private \"Study\" Session",
+        "type": "On The Job",
+        "desc": "Oh, Commander? It's a pleasure to see you. Umm, I'm currently going over some... \"extracurricular studies.\" If you have some time to spare, would you mind joining me?",
+        "tag": [
+          "live2d",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 6,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/109.png",
+        "background2": null,
+        "painting": null,
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/207037/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/207037/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/207037/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/207037/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/207037/shipyard.png",
+        "shared": "20703"
+      },
+      {
         "id": 207038,
         "gid": 20703,
         "name": "Morning Star of Love and Hope",
@@ -44801,6 +44901,213 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/405060/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/405060/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/405060/shipyard.png"
+      }
+    ]
+  },
+  {
+    "gid": 40406,
+    "name": "Alvitr",
+    "skins": [
+      {
+        "id": 404060,
+        "gid": 40406,
+        "name": "Alvitr",
+        "type": "Default",
+        "desc": "O-class battlecruiser – Alvitr.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 415,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": null,
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/404060/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/404060/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/404060/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/404060/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/404060/shipyard.png"
+      },
+      {
+        "id": 404061,
+        "gid": 40406,
+        "name": "Muspel's Torrid Secrets",
+        "type": "On The Job",
+        "desc": "Oh, Commander. You may have noticed that the air conditioner is busted. I surmised from its volume levels that it was at its limit, but now that it's broken... life has become a struggle.",
+        "tag": [
+          "bg",
+          "dynamic"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 415,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/169.png",
+        "background2": null,
+        "painting": null,
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/404061/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/404061/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/404061/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/404061/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/404061/shipyard.png"
+      }
+    ]
+  },
+  {
+    "gid": 40147,
+    "name": "Z47",
+    "skins": [
+      {
+        "id": 401470,
+        "gid": 40147,
+        "name": "Z47",
+        "type": "Default",
+        "desc": "Type 1936C destroyer – Z47.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 401,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": null,
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401470/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401470/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401470/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401470/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401470/shipyard.png"
+      },
+      {
+        "id": 401471,
+        "gid": 40147,
+        "name": "Young-Again Filter",
+        "type": "School Girl",
+        "desc": "Mandy, you getting distracted? No looking around on my watch. I've put down my phone for once, and I want you to only look at me while we're on the see-saw.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 401,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": null,
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401471/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401471/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401471/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401471/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401471/shipyard.png"
+      }
+    ]
+  },
+  {
+    "gid": 40813,
+    "name": "U-31",
+    "skins": [
+      {
+        "id": 408130,
+        "gid": 40813,
+        "name": "U-31",
+        "type": "Default",
+        "desc": "Type VIIA submarine – U-31.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 364,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": null,
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/408130/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/408130/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/408130/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/408130/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/408130/shipyard.png"
+      },
+      {
+        "id": 408131,
+        "gid": 40813,
+        "name": "Let's Go Home",
+        "type": "School Girl",
+        "desc": "Why I didn't leave after classes were over? 'Cause I wanted to wait for you to come pick me up, duh! And I waited a looong time! Heehee, now that we're alone... maybe we could do something fun together!",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 364,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/185.png",
+        "background2": null,
+        "painting": null,
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/408131/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/408131/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/408131/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/408131/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/408131/shipyard.png"
+      }
+    ]
+  },
+  {
+    "gid": 40143,
+    "name": "Z43",
+    "skins": [
+      {
+        "id": 401430,
+        "gid": 40143,
+        "name": "Z43",
+        "type": "Default",
+        "desc": "Type 1936B destroyer – Z43.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 276,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": null,
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401430/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401430/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401430/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401430/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401430/shipyard.png"
+      },
+      {
+        "id": 401431,
+        "gid": 40143,
+        "name": "A Secret Base For Two",
+        "type": "School Girl",
+        "desc": "Why can't I wrap this damn bandage... Hnnngh! Ow, ow, ouch! ...Huh? Comma–A-Augur of Destiny, help me! My magic-suppressing bandages have taken on a mind of their own...!",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 276,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/509.png",
+        "background2": null,
+        "painting": null,
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401431/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401431/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401431/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401431/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/401431/shipyard.png"
       }
     ]
   },
