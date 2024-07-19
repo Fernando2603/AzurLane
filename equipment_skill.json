@@ -374,6 +374,11 @@
     "name": "Jolly Rogers",
     "desc": "Increases your entire fleet's AA by 5.0% for 8s when the Carrier using this aircraft launches an Airstrike."
   },
+  "60610": {
+    "id": 60610,
+    "name": "Prototype F8F Bearcat (Float)",
+    "desc": "When the wearer is a DD and launches an airstrike: summons 3 additional Prototype F8F Bearcats (Float)."
+  },
   "6320": {
     "id": 6320,
     "name": "Turning Point",

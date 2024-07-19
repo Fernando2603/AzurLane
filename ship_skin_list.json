@@ -37320,6 +37320,30 @@
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/502073/shipyard.png"
       },
       {
+        "id": 502074,
+        "gid": 50207,
+        "name": "Baker of Heart into Sweets",
+        "type": "Spring Festival",
+        "desc": "Welcome back, Commander. I made some tasty pastries for you. ...Huh? You want the one in my chest? Th-that doesn't count.",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 301,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/127.png",
+        "background2": null,
+        "painting": null,
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/502074/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/502074/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/502074/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/502074/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/502074/shipyard.png"
+      },
+      {
         "id": 502078,
         "gid": 50207,
         "name": "Luan-Feng's Everlasting Duet",
@@ -50295,6 +50319,146 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/999021/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/999021/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/999021/shipyard.png"
+      }
+    ]
+  },
+  {
+    "gid": 19905,
+    "name": "Halford",
+    "skins": [
+      {
+        "id": 199050,
+        "gid": 19905,
+        "name": "Halford",
+        "type": "Default",
+        "desc": "Fletcher-class destroyer – Halford.",
+        "tag": [],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 416,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": null,
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199050/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199050/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199050/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199050/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199050/shipyard.png"
+      }
+    ]
+  },
+  {
+    "gid": 39907,
+    "name": "Daisen",
+    "skins": [
+      {
+        "id": 399070,
+        "gid": 39907,
+        "name": "Daisen",
+        "type": "Default",
+        "desc": "Battleship – Daisen.",
+        "tag": [],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 417,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": null,
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399070/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399070/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399070/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399070/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399070/shipyard.png"
+      }
+    ]
+  },
+  {
+    "gid": 69902,
+    "name": "Napoli",
+    "skins": [
+      {
+        "id": 699020,
+        "gid": 69902,
+        "name": "Napoli",
+        "type": "Default",
+        "desc": "Heavy cruiser – Napoli.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 189,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": null,
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/699020/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/699020/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/699020/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/699020/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/699020/shipyard.png"
+      }
+    ]
+  },
+  {
+    "gid": 79902,
+    "name": "Admiral Nakhimov",
+    "skins": [
+      {
+        "id": 799020,
+        "gid": 79902,
+        "name": "Admiral Nakhimov",
+        "type": "Default",
+        "desc": "Aircraft carrier – Admiral Nakhimov.",
+        "tag": [],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 296,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": null,
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/799020/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/799020/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/799020/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/799020/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/799020/shipyard.png"
+      }
+    ]
+  },
+  {
+    "gid": 89904,
+    "name": "Bayard",
+    "skins": [
+      {
+        "id": 899040,
+        "gid": 89904,
+        "name": "Bayard",
+        "type": "Default",
+        "desc": "Light cruiser – Bayard.",
+        "tag": [],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 418,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": null,
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/899040/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/899040/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/899040/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/899040/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/899040/shipyard.png"
       }
     ]
   },

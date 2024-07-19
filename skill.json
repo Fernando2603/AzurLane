@@ -7775,6 +7775,94 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19760.png",
     "max_level": 10
   },
+  "19770": {
+    "id": 19770,
+    "type": 3,
+    "name": "The Dauntless Exemplar",
+    "desc": "Decreases this ship's torpedo DMG taken by 5.0% (15.0%). Every 10s, this ship gains the Exemplary Knight status: for 5s, increases this ship's SPD by 20.0%, EVA by 10.0% (20.0%), and Evasion Rate by 5.0% (15.0%), and fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19770.png",
+    "max_level": 10
+  },
+  "19780": {
+    "id": 19780,
+    "type": 1,
+    "name": "Blade of Iris Aspirations",
+    "desc": "Increases this ship's FP and RLD by 5.0% (15.0%). The lower this ship's current HP is, the more DMG she deals (up to 15.0% more DMG). Once per battle, when this ship's HP falls below 50.0% as a result of DMG taken: for 5s, this ship evades all attacks; when this effect activates, decreases the ACC of all enemies present on the battlefield by 5.0% (15.0%) until the battle ends.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19780.png",
+    "max_level": 10
+  },
+  "19790": {
+    "id": 19790,
+    "type": 1,
+    "name": "Nocturnal Judgment",
+    "desc": "When the battle starts, if this ship has Eagle Union gear equipped: increases this ship's AVI by 10.0% (20.0%). Every 15s: targets a random enemy (humanoid enemies are prioritized) and decreases that enemy's EVA by 4.0% (10.0%) for 6s and launches a Lv.1 (Lv.10) seaplane attack (DMG is based on the skill's level). If this seaplane hits the random enemy targeted by this skill: increases that enemy's cannon DMG taken by 8.0% for 6s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19790.png",
+    "max_level": 10
+  },
+  "19800": {
+    "id": 19800,
+    "type": 3,
+    "name": "Pedigree of Perfection",
+    "desc": "Increases this ship's EVA by 15.0% (30.0%). If this ship does NOT have a Seaplane equipped: increases this ship's TRP and AA by 5.0% (15.0%), decreases her DMG taken by 4.5% (12.0%), and, every 15s, fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).\nIf this ship has a Seaplane equipped, activates the following effects:1) When this ship launches an odd number of airstrikes: deploys a smokescreen (lasts 5s) that increases Evasion Rate by 20.0% (40.0%) for all your ships in it (does not stack with other smokescreen skills);2) When this ship launches an even number of airstrikes: restores 4.0% of this ship's max HP and extinguishes any Burn this ship is afflicted with.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19800.png",
+    "max_level": 10
+  },
+  "19810": {
+    "id": 19810,
+    "type": 1,
+    "name": "Destructive Connection: Peak Load Crash",
+    "desc": "Increases this ship's AVI and ACC by 5.0% (15.0%) and Crit Rate by 10.0% (20.0%). When this ship launches an airstrike: launches an additional Lv.1 (Lv.10) special airstrike (DMG is based on the skill's level); 1.5s after this effect activates, inflicts the Crashed debuff to all enemies on the battlefield, decreasing their SPD by 60.0% for 5s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19810.png",
+    "max_level": 10
+  },
+  "19820": {
+    "id": 19820,
+    "type": 3,
+    "name": "Vulnerability Exploit: Security Breach",
+    "desc": "When this ship launches an airstrike: targets a random enemy (prioritizes humanoid enemies) and decreases that enemy's AA and EVA by 5.0% for 6s and increases their DMG taken by 5.0%.\nEnemies with a SPD-decreasing debuff inflicted by another Northern Parliament ship's skill in your fleet gain the Enfeebled debuff; when an enemy with the Enfeebled debuff is inflicted with the Crashed status, their SPD is set to 0 for 2.5s.\nIncreases this ship's Crit DMG against enemies with the Enfeebled debuff by 20.0% (40.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19820.png",
+    "max_level": 10
+  },
+  "19830": {
+    "id": 19830,
+    "type": 2,
+    "name": "Authorization Module: Trusted Certificate",
+    "desc": "Increases this ship's AA and EVA by 5.0% (15.0%). Every 25s after the battle starts: for 5s, increases this ship's Detection Gauge recovery speed by 2.\nOnce per battle, when this ship's HP falls below 40.0% as a result of DMG taken: sets this ship's Detection Gauge to 0 and any Burn DMG this ship takes for the next 8s is set to 0; this effect does not extinguish an active Burn.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19830.png",
+    "max_level": 10
+  },
+  "19840": {
+    "id": 19840,
+    "type": 1,
+    "name": "Requiem Aeternam",
+    "desc": "During battle, this ship uses a special Lv.1 (Lv.2) Secondary Gun (fires once every second; barrage pattern is based on the skill's level). Increases this ship's FP and EVA by 1.0% (10.0%). While there is an enemy within 40 units of this ship: this ship's Main Guns, Secondary Guns, and special Secondary Gun all ignore enemy shields.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19840.png",
+    "max_level": 10
+  },
+  "19850": {
+    "id": 19850,
+    "type": 2,
+    "name": "Caelum Imbrialis",
+    "desc": "When the battle starts, and every 20s: deploys a smokescreen (lasts 5s) that increases Evasion Rate by 20.0% (40.0%) for all your ships in it (does not stack with other smokescreen skills). After the above effect activates: for 5s, creates an exhaust smokescreen (lasts 1s) every 0.5s that increases Napoli's Evasion Rate by 20.0% (40.0%) and Secondary Gun efficiency by 50.0% (100.0%) (this does not affect her special Secondary Gun) while she is inside the smokescreen; other smokescreen skills do not affect Napoli during the active duration.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19850.png",
+    "max_level": 10
+  },
+  "19860": {
+    "id": 19860,
+    "type": 1,
+    "name": "Causality Anchor",
+    "desc": "When the battle starts: increases this ship's FP and TRP by 10.0% (20.0%). When this ship fires her Main Guns: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) and alternatingly activates one of these two effects: 1) Inflicts a special Burn ailment to enemies hit by the special barrage, lasting 15s; 2) When firing the special barrage, also fires a Lv.1 (Lv.10) torpedo barrage (DMG is based on the skill's level); If this ship has a Sakura Empire Anti-Air Gun equipped, the above effects activate in the opposite order. When this ship's HP falls below 30.0% as a result of DMG taken: when this skill activates, both effects 1 and 2 will activate simultaneously until the battle ends.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19860.png",
+    "max_level": 10
+  },
+  "19870": {
+    "id": 19870,
+    "type": 3,
+    "name": "Blessings and Purity",
+    "desc": "When this ship's Main Guns finish loading: launches a recon plane and targets the enemy furthest from this ship, increasing this ship's DMG dealt to that enemy by 10.0% (20.0%) for 10s.\nIf the recon plane launched by this skill is shot down: restores 3.5% (8.0%) of your Vanguard's max HP. Once per battle, when 2 recon planes launched by this skill have been shot down, also restores 5.0% max HP for the ship in your Vanguard with the lowest current HP percentage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19870.png",
+    "max_level": 10
+  },
   "20011": {
     "id": 20011,
     "type": 1,
@@ -11663,6 +11751,54 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30280.png",
     "max_level": 1
   },
+  "30291": {
+    "id": 30291,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Bayard once every 12 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30290.png",
+    "max_level": 1
+  },
+  "30292": {
+    "id": 30292,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Bayard once every 8 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30290.png",
+    "max_level": 1
+  },
+  "30301": {
+    "id": 30301,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Halford once every 15 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30300.png",
+    "max_level": 1
+  },
+  "30302": {
+    "id": 30302,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Halford once every 10 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30300.png",
+    "max_level": 1
+  },
+  "30311": {
+    "id": 30311,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Napoli once every 12 times the Main Guns are fired. Activates a level 1 special torpedo barrage every 10 times this ship's special Secondary Gun is fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30310.png",
+    "max_level": 1
+  },
+  "30312": {
+    "id": 30312,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Napoli once every 8 times the Main Guns are fired. Activates a level 2 special torpedo barrage every 10 times this ship's special Secondary Gun is fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30310.png",
+    "max_level": 1
+  },
   "101010": {
     "id": 101010,
     "type": 3,
@@ -15207,6 +15343,14 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/11540.png",
     "max_level": 10
   },
+  "1011590": {
+    "id": 1011590,
+    "type": 3,
+    "name": "Airspace Dominance+",
+    "desc": "When the battle starts, if there are 3 or more Royal Navy ships in your fleet: increases this ship's DMG dealt by 4.0% (10.0%). When this ship launches an airstrike: increases your Main Fleet's AVI by 5% (15%) and FP by 4.0% (10.0%) for 8s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/11590.png",
+    "max_level": 10
+  },
   "1011620": {
     "id": 1011620,
     "type": 1,
@@ -15589,6 +15733,14 @@
     "name": "Quick Reload - Spence",
     "desc": "Every 20s: 40.0% (70.0%) chance to increase this ship's RLD by 20.0% (40.0%). When this ship takes DMG: fires a Lv.1 (Lv.10) special barrage and increases this ship's TRP and ACC by 1.0% (5.0%) for 10s (15s cooldown between activations; DMG is based on the skill's level; buff can be stacked up to 3 times).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/2000.png",
+    "max_level": 10
+  },
+  "1090270": {
+    "id": 1090270,
+    "type": 3,
+    "name": "Tactical Command – Leipzig",
+    "desc": "Increases your Cruisers' FP, TRP, and RLD by 1% (10%) (does not stack with similar Tactical Command skills). When the battle starts: increases this ship's TRP and AA by 15% (25%), and fires a Lv.1 (Lv.10) special barrage every 15s (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/1050.png",
     "max_level": 10
   }
 }
