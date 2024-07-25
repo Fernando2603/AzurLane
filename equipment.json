@@ -90097,5 +90097,98 @@
         "anti_siren": 1
       }
     }
+  },
+  "150340": {
+    "name": "Limited-Edition Joint Exercise Coin",
+    "desc": "A limited-edition coin created in collaboration between the Sardegna Empire and Iris Orthodoxy. It was given only to their most distinguished guests.",
+    "label": [
+      "DEV"
+    ],
+    "rarity": 4,
+    "nationality": 0,
+    "type": 10,
+    "skill": {
+      "60650": {
+        "id": 60650,
+        "name": "Limited-Edition Joint Exercise Coin",
+        "desc": "Decreases the ship equipping this item's cannon DMG taken from Sardegna Empire, Iris Libre, and Vichya Dominion ships by 3.0%."
+      }
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150340.png",
+    "stats": {
+      "1": {
+        "id": 150340,
+        "level": 1,
+        "enhance": "+0",
+        "durability": 200
+      },
+      "2": {
+        "id": 150341,
+        "level": 2,
+        "enhance": "+1",
+        "durability": 230
+      },
+      "3": {
+        "id": 150342,
+        "level": 3,
+        "enhance": "+2",
+        "durability": 260
+      },
+      "4": {
+        "id": 150343,
+        "level": 4,
+        "enhance": "+3",
+        "durability": 290
+      },
+      "5": {
+        "id": 150344,
+        "level": 5,
+        "enhance": "+4",
+        "durability": 320
+      },
+      "6": {
+        "id": 150345,
+        "level": 6,
+        "enhance": "+5",
+        "durability": 350
+      },
+      "7": {
+        "id": 150346,
+        "level": 7,
+        "enhance": "+6",
+        "durability": 380
+      },
+      "8": {
+        "id": 150347,
+        "level": 8,
+        "enhance": "+7",
+        "durability": 410
+      },
+      "9": {
+        "id": 150348,
+        "level": 9,
+        "enhance": "+8",
+        "durability": 440
+      },
+      "10": {
+        "id": 150349,
+        "level": 10,
+        "enhance": "+9",
+        "durability": 470
+      },
+      "11": {
+        "id": 150350,
+        "level": 11,
+        "enhance": "+10",
+        "durability": 500
+      },
+      "12": {
+        "id": 150351,
+        "level": 12,
+        "enhance": "+11",
+        "durability": 530,
+        "anti_siren": 1
+      }
+    }
   }
 }

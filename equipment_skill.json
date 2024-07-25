@@ -693,5 +693,10 @@
     "id": 60590,
     "name": "Enigmata \"D\"",
     "desc": "A curious machine that periodically emits a strange sound during battle."
+  },
+  "60650": {
+    "id": 60650,
+    "name": "Limited-Edition Joint Exercise Coin",
+    "desc": "Decreases the ship equipping this item's cannon DMG taken from Sardegna Empire, Iris Libre, and Vichya Dominion ships by 3.0%."
   }
 }

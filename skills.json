@@ -11799,6 +11799,22 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30310.png",
     "max_level": 1
   },
+  "30321": {
+    "id": 30321,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: L'Audacieux once every 15 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30320.png",
+    "max_level": 1
+  },
+  "30322": {
+    "id": 30322,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: L'Audacieux once every 10 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30320.png",
+    "max_level": 1
+  },
   "101010": {
     "id": 101010,
     "type": 3,
@@ -13189,6 +13205,54 @@
     "name": "Danger From Below!",
     "desc": "Increases this boat's DMG dealt to enemies with the Flooding ailment by 4.0% (10.0%). 3s after the battle starts: this boat moves a set distance forward and deploys 2 Lv.1 (Lv.10) sea mines (DMG is based on the skill's level), then returns to her original position. Enemies that come into contact with the sea mines are inflicted with the Flooding status, taking DMG continuously over 18s (DMG is based on the skill's level and this boat's TRP stat); if the enemy is a BB: decreases that enemy's SPD by 20.0% for 18s.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150200.png",
+    "max_level": 10
+  },
+  "150210": {
+    "id": 150210,
+    "type": 1,
+    "name": "Office Clerk's Fury",
+    "desc": "Increases this ship's FP and RLD by 1.0% (10.0%). Every 20s: 40.0% (70.0%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level; if this barrage does not activate, instead restores 1.0% (5.0%) of this ship's max HP).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150210.png",
+    "max_level": 10
+  },
+  "150220": {
+    "id": 150220,
+    "type": 3,
+    "name": "Keenly Rational",
+    "desc": "When the battle starts: increases this ship's ACC, EVA, and AA by 4.0% (10.0%) for 50s. 50s after the battle starts: increases this ship's DMG dealt by 10.0%, but increases her DMG taken by 8.0% until the battle ends.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150220.png",
+    "max_level": 10
+  },
+  "150230": {
+    "id": 150230,
+    "type": 1,
+    "name": "Eight Virtues Charge",
+    "desc": "When the battle starts, if there are 2 or more Iris Libre or Vichya Dominion ships in your fleet: increases this ship's Crit Rate and Crit DMG by 5.0% (15.0%). Every 10s: activates Eight Virtues Charge, increasing all present enemies' DMG taken from your DDs' cannons by 10.0% (20.0%) for 5s, and increases this ship's FP and TRP by 4.5% (12.0%) until the battle ends (this effect can stack up to 5 times). Every 2 times that Eight Virtues Charge activates: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) and, for 10s, increases the RLD and ACC of your Iris Libre and Vichya Dominion Vanguard ships by 15.0% (30.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150230.png",
+    "max_level": 10
+  },
+  "150240": {
+    "id": 150240,
+    "type": 2,
+    "name": "The Chevalier is Here",
+    "desc": "When the battle starts: increases this ship's EVA by 15.0% (30.0%) and decreases her DMG taken from HE ammo by 10.0% (20.0%). Once per battle, when the HP of any Iris Libre or Vichya Dominion Vanguard ship in your fleet falls below 60.0% as a result of DMG taken: increases this ship's AA and ASW by 15.0% (30.0%) until the battle ends; once per battle, when the HP of a ship meeting those same criteria falls below 30.0%: restores 4.0% (10.0%) of that ship's max HP and deploys a smokescreen (lasts 5s) that increases Evasion Rate by 20.0% (40.0%) for all your ships in it (does not stack with other smokescreen skills).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150240.png",
+    "max_level": 10
+  },
+  "150250": {
+    "id": 150250,
+    "type": 1,
+    "name": "Variations on Judgment",
+    "desc": "Decreases the loading time of this ship's first Main Gun salvo by 30.0% (50.0%). Every 20s: 40.0% (70.0%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level; this barrage's activation chance increases by 15.0% for every Vichya Dominion ship in your fleet other than this ship, cappped at 30.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150250.png",
+    "max_level": 10
+  },
+  "150260": {
+    "id": 150260,
+    "type": 3,
+    "name": "Bravery Bestowed",
+    "desc": "Increases this ship's FP and ACC by 5.0% (15.0%) and increases your Vichya Dominion Vanguard ships' FP and AA by 1.0% (10.0%). Enemies hit by this ship's Main Guns take 5.0% increases cannon and aircraft DMG from your Vichya Dominion ships for 6s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150260.png",
     "max_level": 10
   },
   "800010": {
@@ -15061,6 +15125,54 @@
     "name": "Ashen Might - Wichita II",
     "desc": "[Operation Siren]\nWhile this ship's HP is above 50.0%, every 8 times this ship fires her Main Guns: reduces this ship's current HP by 5.0% and fires a special barrage with 20.0% increased Crit Rate; when this ship's HP falls below 50.0%, every 4 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 8.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801300.png",
+    "max_level": 1
+  },
+  "801320": {
+    "id": 801320,
+    "type": 1,
+    "name": "Secluded Spiritflame",
+    "desc": "When the battle starts: increases the TRP of DDs in your Vanguard by 5.0% (15.0%). When this ship fires her torpedoes: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801320.png",
+    "max_level": 10
+  },
+  "801330": {
+    "id": 801330,
+    "type": 2,
+    "name": "Kasumi's Protection",
+    "desc": "During battle, decreases this ship's DMG taken by 1.0% (10.0%). Once per battle, when the HP of any other ship in your Vanguard falls below 10.0% as a result of DMG taken: this ship evades all attacks for 8s and, every second for the duration of this effect, restores 1.0% of that ship's max HP (if multiple ships meet the criteria at the same time, a random one is chosen for this effect); after this effect ends, if that ship's HP is still below 12.0%: restores 1.5% (5.0%) of that ship's max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801330.png",
+    "max_level": 10
+  },
+  "801341": {
+    "id": 801341,
+    "type": 1,
+    "name": "Framework of Logic - Kasumi",
+    "desc": "Every 15 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801340.png",
+    "max_level": 1
+  },
+  "801342": {
+    "id": 801342,
+    "type": 1,
+    "name": "Framework of Logic - Kasumi",
+    "desc": "Every 10 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801340.png",
+    "max_level": 1
+  },
+  "801345": {
+    "id": 801345,
+    "type": 1,
+    "name": "Framework of Logic - Kasumi",
+    "desc": "[Operation Siren]\nEvery 15 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 2.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801340.png",
+    "max_level": 1
+  },
+  "801347": {
+    "id": 801347,
+    "type": 1,
+    "name": "Framework of Logic - Kasumi",
+    "desc": "[Operation Siren]\nEvery 10 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 6.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801340.png",
     "max_level": 1
   },
   "902220": {
