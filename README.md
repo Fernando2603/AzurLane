@@ -23,6 +23,20 @@ Azur Lane Resources
 > [!NOTE]
 > The dataset itself doesn't have version control, but it sync with the current game version.
 
+
+## Future Changes
+**Reminder Upcoming Update from Patch [4.4.8](/docs/CHANGELOG.md#patch-448) that will be applied in 2025**
+We would like to inform you that the following update is scheduled to be applied in mid-January 2025.
+- `skins.json`, `skills.json`, `equip_icon.json` removal.
+- `images/skills` folder will be renamed to `images/skill`.
+- `images/skins` folder will be renamed to `images/skin`.
+- `audio/voicelines` folder will be renamed to `audio/voiceline`.
+- remove commit history
+- remove all branch
+
+We anticipate that the update process will be completed in 1~7 days or before February 2025. Please note that during this update period, all automatic updates will be temporarily disabled until the process is fully completed.
+
+
 ## Docs
 - [CHANGELOG](/docs/CHANGELOG.md)
 - [BGM](/docs/BGM.md)
@@ -34,47 +48,47 @@ Azur Lane Resources
 - [list of missing voiceline audio](/docs/MISSING_VOICELINE.md)
 
 ## Repository Size
-Repository contains 51112 files with a size of 8.76 GB (9409462076 B).
+Repository contains 50529 files with a size of 18.36 GB (19713782426 B).
 
 ### Audio
-Contains 35592 files with a size of 3.61 GB (3877216775 B).
+Contains 35592 files with a size of 3.61 GB (3877029329 B).
 
 - **BGM:**
   Contains 394 files with a size of 848.36 MB (889566545 B).
 
 - **Voiceline:**
-  Contains 1916 skins voiceline, 35198 files with a size of 2.78 GB (2987650230 B).
+  Contains 1916 skins voiceline, 35198 files with a size of 2.78 GB (2987462784 B).
 
 ### Images
-Contains 15459 files with a size of 5.10 GB (5473025765 B).
+Contains 14849 files with a size of 5.44 GB (5840077284 B).
 
 - **Background:**
   Contains 98 files with a size of 62.08 MB (65093837 B).
 
 - **Equipment:**
-  Contains 1114 files with a size of 12.63 MB (13244040 B).
+  Contains 486 files with a size of 6.85 MB (7180273 B).
 
 - **Meowfficer:**
   Contains 16 characters, 24 skills, and 91 talents assets with a total of 163 files and a combined size of 7.86 MB (8238566 B).
 
 - **Skills:**
-  Contains 1378 files with a size of 29.76 MB (31208991 B).
+  Contains 1354 files with a size of 29.25 MB (30667810 B).
 
 - **Skins:**
-  Contains 1933 skins, 12364 files with a size of 4.97 GB (5334349744 B).
+  Contains 1933 skins, 12410 files with a size of 5.32 GB (5708022355 B).
 
   - **painting:**
-    Contains 2699 files with a size of 4.67 GB (5009070751 B).
+    Contains 2745 files with a size of 5.01 GB (5382737606 B).
   - **banner:**
-    Contains 1933 files with a size of 55.82 MB (58528913 B).
+    Contains 1933 files with a size of 55.82 MB (58534200 B).
   - **chibi:**
-    Contains 1933 files with a size of 66.22 MB (69433837 B).
+    Contains 1933 files with a size of 66.21 MB (69427629 B).
   - **icon:**
-    Contains 1933 files with a size of 39.30 MB (41203805 B).
+    Contains 1933 files with a size of 39.30 MB (41205669 B).
   - **qicon:**
-    Contains 1933 files with a size of 30.41 MB (31883840 B).
+    Contains 1933 files with a size of 30.41 MB (31884742 B).
   - **shipyard:**
-    Contains 1933 files with a size of 118.47 MB (124228598 B).
+    Contains 1933 files with a size of 118.48 MB (124232509 B).
 
 > [!NOTE]
 > Assets without auto-update are not included.

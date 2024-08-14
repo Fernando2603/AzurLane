@@ -1,3 +1,14 @@
+## Patch 4.6.14
+<details>
+  <summary>14 Auguest 2024</summary>
+  
+  - improve painting extraction script
+  - re-extract all painting asset
+  - sort `bgm.json` and `bgm_link.json` by key
+  - force parse all painting asset to stage all unstagged update by local machine
+</details>
+
+
 ## Patch 4.6.13
 <details>
   <summary>18 June 2024</summary>
