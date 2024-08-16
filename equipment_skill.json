@@ -698,5 +698,10 @@
     "id": 60650,
     "name": "Limited-Edition Joint Exercise Coin",
     "desc": "Decreases the ship equipping this item's cannon DMG taken from Sardegna Empire, Iris Libre, and Vichya Dominion ships by 3.0%."
+  },
+  "60660": {
+    "id": 60660,
+    "name": "Fargo Direct Drone",
+    "desc": "15s after the battle starts: deploys a Fargo Direct Drone."
   }
 }

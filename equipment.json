@@ -90190,5 +90190,126 @@
         "anti_siren": 1
       }
     }
+  },
+  "150360": {
+    "name": "Fargo Direct Drone",
+    "desc": "A mass-produced, speedy cargo drone. It boasts excellent navigational ability and reliability.",
+    "label": [
+      "DEV"
+    ],
+    "rarity": 5,
+    "nationality": 1,
+    "type": 10,
+    "skill": {
+      "60660": {
+        "id": 60660,
+        "name": "Fargo Direct Drone",
+        "desc": "15s after the battle starts: deploys a Fargo Direct Drone."
+      }
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150360.png",
+    "stats": {
+      "1": {
+        "id": 150360,
+        "level": 1,
+        "enhance": "+0",
+        "cannon": 15,
+        "antiaircraft": 8
+      },
+      "2": {
+        "id": 150361,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 16,
+        "antiaircraft": 8
+      },
+      "3": {
+        "id": 150362,
+        "level": 3,
+        "enhance": "+2",
+        "cannon": 17,
+        "antiaircraft": 9
+      },
+      "4": {
+        "id": 150363,
+        "level": 4,
+        "enhance": "+3",
+        "cannon": 18,
+        "antiaircraft": 10
+      },
+      "5": {
+        "id": 150364,
+        "level": 5,
+        "enhance": "+4",
+        "cannon": 19,
+        "antiaircraft": 11
+      },
+      "6": {
+        "id": 150365,
+        "level": 6,
+        "enhance": "+5",
+        "cannon": 20,
+        "antiaircraft": 12
+      },
+      "7": {
+        "id": 150366,
+        "level": 7,
+        "enhance": "+6",
+        "cannon": 21,
+        "antiaircraft": 13
+      },
+      "8": {
+        "id": 150367,
+        "level": 8,
+        "enhance": "+7",
+        "cannon": 22,
+        "antiaircraft": 14
+      },
+      "9": {
+        "id": 150368,
+        "level": 9,
+        "enhance": "+8",
+        "cannon": 23,
+        "antiaircraft": 16
+      },
+      "10": {
+        "id": 150369,
+        "level": 10,
+        "enhance": "+9",
+        "cannon": 24,
+        "antiaircraft": 18
+      },
+      "11": {
+        "id": 150370,
+        "level": 11,
+        "enhance": "+10",
+        "cannon": 25,
+        "antiaircraft": 20
+      },
+      "12": {
+        "id": 150371,
+        "level": 12,
+        "enhance": "+11",
+        "cannon": 26,
+        "antiaircraft": 22,
+        "anti_siren": 1
+      },
+      "13": {
+        "id": 150372,
+        "level": 13,
+        "enhance": "+12",
+        "cannon": 27,
+        "antiaircraft": 24,
+        "anti_siren": 2
+      },
+      "14": {
+        "id": 150373,
+        "level": 14,
+        "enhance": "+13",
+        "cannon": 28,
+        "antiaircraft": 26,
+        "anti_siren": 3
+      }
+    }
   }
 }

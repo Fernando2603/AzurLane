@@ -7167,6 +7167,30 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19610.png",
     "max_level": 10
   },
+  "18620": {
+    "id": 18620,
+    "type": 1,
+    "name": "Tormentor of the Weak+",
+    "desc": "Increases this ship's Crit Rate by 5.0% (15.0%) and Crit DMG by 15.0% (30.0%).\nEvery 20s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); increases this ship's DMG dealt by 5.0% (15.0%) to enemies hit by this barrage; if this ship has a CL Main Gun equipped: increases this ship's Main Gun efficiency by 1.0% (10.0%), reduces the activation interval of this special barrage to 10s, and fires this barrage once 3s after the battle starts.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19690.png",
+    "max_level": 10
+  },
+  "18730": {
+    "id": 18730,
+    "type": 1,
+    "name": "Apotheosis: Flourishing Assault+",
+    "desc": "Every 20s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). When this ship fires her 2nd Main Gun volley: randomly marks 1 enemy target. This ship deals 4.5% (12.0%) increased DMG to the marked enemy; when that enemy is sunk, Flandre's next Main Gun volley will activate this effect again.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/18730.png",
+    "max_level": 10
+  },
+  "18760": {
+    "id": 18760,
+    "type": 2,
+    "name": "Divine Presence+",
+    "desc": "When the battle starts: this ship gains a Lv.1 (Lv.10) special AA Gun (DMG is based on the skill's level). Increases the efficiency of this ship's 1st weapon slot by 15.0% and the efficiency of her 3rd weapon slot by 30.0%.\nEvery 10s, or when a ship in your fleet fires her AA Gun: increases your Vanguard's AA by 1.5% (6.0%) (stacks up to 3 times). When this effect activates 3 times, activates the following effects:\n1) Restores 4.0% of your Vanguard's max HP;\n2) The ship in your fleet with the lowest current HP percentage restores 4.0% of her max HP over 8s;\n3) Shimanto's DMG taken decreases by 8.0% (18.0%) until the battle ends;\n4) Deploys 2 shields that can negate up to 6 enemy shells as well as 2 shields that can negate up to 2 enemy torpedoes; these shields last 10s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19760.png",
+    "max_level": 10
+  },
   "19000": {
     "id": 19000,
     "type": 1,
@@ -9831,6 +9855,14 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/29020.png",
     "max_level": 1
   },
+  "29023": {
+    "id": 29023,
+    "type": 1,
+    "name": "All Out Assault III",
+    "desc": "Activates All Out Assault III: Eldridge once every 10 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/29020.png",
+    "max_level": 1
+  },
   "29031": {
     "id": 29031,
     "type": 1,
@@ -11815,6 +11847,22 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30320.png",
     "max_level": 1
   },
+  "30331": {
+    "id": 30331,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Fargo once every 15 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30330.png",
+    "max_level": 1
+  },
+  "30332": {
+    "id": 30332,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Fargo once every 10 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30330.png",
+    "max_level": 1
+  },
   "101010": {
     "id": 101010,
     "type": 3,
@@ -13253,6 +13301,110 @@
     "name": "Bravery Bestowed",
     "desc": "Increases this ship's FP and ACC by 5.0% (15.0%) and increases your Vichya Dominion Vanguard ships' FP and AA by 1.0% (10.0%). Enemies hit by this ship's Main Guns take 5.0% increases cannon and aircraft DMG from your Vichya Dominion ships for 6s.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150260.png",
+    "max_level": 10
+  },
+  "150270": {
+    "id": 150270,
+    "type": 3,
+    "name": "Fast and Reliable Drone Transport",
+    "desc": "Decreases this ship's DMG taken by 5.0% (15.0%). Every 20s: uses a drone to drop cargo. When your Vanguard enters the cargo's pickup range, the cargo will be received, restoring 1.0% (2.0%) of the max HP of the ship with the lowest current HP percentage in your Vanguard. The cargo disappears after 15s if not picked up.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150270.png",
+    "max_level": 10
+  },
+  "150280": {
+    "id": 150280,
+    "type": 1,
+    "name": "Emotionalization Module",
+    "desc": "Increases this ship's FP and ACC by 5.0% (15.0%). Every 15s: 40.0% (70.0%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). While this ship is afloat: increases your Flagship's FP and AVI by 3.5% (8.0%) and decreases her DMG taken by 1.0% (5.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150280.png",
+    "max_level": 10
+  },
+  "150290": {
+    "id": 150290,
+    "type": 1,
+    "name": "Followup Combo",
+    "desc": "Increases this ship's FP by 5.0% (15.0%). When this ship fires her Main Guns: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).\nWhen this ship's Main Guns or the special shell fired by the skill Defensive Stance hits an enemy: inflicts one stack of the Followup Combo debuff. Each stack of Followup Combo increases that enemy's cannon DMG taken from Indiana by 5.0% (can be stacked up to 4 times).\n30s after the battle starts, or when an enemy reaches the maximum of 4 stacks of Followup Combo: fires a powerful Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). This powerful barrage fires again every 30s after its first activation.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150290.png",
+    "max_level": 10
+  },
+  "150300": {
+    "id": 150300,
+    "type": 2,
+    "name": "Defensive Stance",
+    "desc": "Increases this ship's AA by 5.0% (15.0%) and decreases her DMG taken by 5.0% (15.0%).\nWhen this ship fires her Main Guns, the following effects activate: 1) 5s later, deploys a shield (lasts 2s) around your frontmost Vanguard ship that can negate up to 3 enemy shells;\n2) When this shield is destroyed or when it expires: fires a Lv.1 (Lv.10) special shell (DMG is based on the skill's level);\n3) 1.5s after this shell is fired, redeploys the above shield around your frontmost Vanguard ship;\n4) The shield can be deployed up to 3 times in total; the number of times it can be redeployed resets when this ship fires her Main Guns.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150300.png",
+    "max_level": 10
+  },
+  "150310": {
+    "id": 150310,
+    "type": 2,
+    "name": "Operation Rainbow+",
+    "desc": "Increases this ship's SPD by 10. When this ship takes DMG: 15.0% chance to launch a Lv.1 (Lv.10) special attack (DMG is based on the skill's level) and, for 5.0 (10.0)s, your Vanguard evades all attacks.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/10050.png",
+    "max_level": 10
+  },
+  "150320": {
+    "id": 150320,
+    "type": 1,
+    "name": "Max Voltage!",
+    "desc": "When the battle starts, increases this ship's AA by 15.0% (25.0%). When your Flagship fires her Main Guns or launches an airstrike: targets one random enemy and performs a Lv.1 (Lv.10) special electric attack (DMG is based on the skill's level; 5s cooldown between activations; decreases the target's SPD by 60.0% during the attack and for 2s after the attack ends).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150320.png",
+    "max_level": 10
+  },
+  "150330": {
+    "id": 150330,
+    "type": 1,
+    "name": "Firestarter's Shredders",
+    "desc": "Every 10s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). This barrage inflicts the Burn ailment to enemies hit.\nIf your Flagship is a BB, BC, or BBV: when your Flagship fires her Main Guns, applies the Shred debuff to Burning enemies, inflicting Armor Break to them for 6s and dealing 72 DMG every second.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150330.png",
+    "max_level": 10
+  },
+  "150340": {
+    "id": 150340,
+    "type": 2,
+    "name": "Tipsy Wind-Breaker",
+    "desc": "When the battle starts, increases this ship's EVA by 5.0% (15.0%) and gives her a Lv.1 (Lv.10) special AA Gun. Once per battle, when this ship's HP falls below 30.0% as a result of DMG taken: deploys a barrier (lasts 5s) that can negate DMG equal to up to 3.0% of this ship's max HP. If this barrier is destroyed: restores 1.5% (6.0%) of this ship's max HP; if this barrier expires: instead increases this ship's FP and AA by 5.0% (15.0%) until the battle ends.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150340.png",
+    "max_level": 10
+  },
+  "150350": {
+    "id": 150350,
+    "type": 2,
+    "name": "From Chrysalis to Butterfly",
+    "desc": "During battle, when any other ship in your fleet takes DMG: 30.0% chance to increase this ship's FP, AA, and TRP by 1.5% (5%) (can be stacked up to 5 times); for every two enemy aircraft shot down within your fleet's Anti-Air Gun range, decreases this ship's DMG taken by 2.0% until the battle ends (can be stacked up to 4 times).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150350.png",
+    "max_level": 10
+  },
+  "150360": {
+    "id": 150360,
+    "type": 2,
+    "name": "Float Like a Butterfly, Sting Like a Bee",
+    "desc": "When the battle starts, and with a 15.0% (30.0%) chance every 15s: deploys a smokescreen (lasts 5s) that increases Evasion Rate by 20.0% (40.0%) for all your ships in it (does not stack with other smokescreen skills). When this ship deploys a smokescreen: increases your Vanguard's TRP by 5.0% (15.0%) for 10s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150360.png",
+    "max_level": 10
+  },
+  "150370": {
+    "id": 150370,
+    "type": 2,
+    "name": "Salted Herring Mealkit",
+    "desc": "Increases this boat's TRP by 1.0% (10.0%) and increases her DMG dealt to DDs and transport ships by 1.0% (10.0%). When the battle starts: 50.0% (80.0%) chance to restore 3.5% (8.0%) of the max HP of a random surface ship in your fleet and increase that ship's EVA by 1.0% (5.0%) and SPD by 3 for 20s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150370.png",
+    "max_level": 10
+  },
+  "150380": {
+    "id": 150380,
+    "type": 1,
+    "name": "You'd Better Keep Your Distance",
+    "desc": "When this boat resurfaces: fires a Lv.1 (Lv.10) special torpedo barrage (DMG is based on the skill's level), then has a 40.0% (70.0%) chance to fire a special cannon barrage (DMG is based on the skill's level); if this cannon barrage activates, decreases this boat's surface fighting duration by 1s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150380.png",
+    "max_level": 10
+  },
+  "150390": {
+    "id": 150390,
+    "type": 3,
+    "name": "Fast and Reliable Drone Transport",
+    "desc": "法戈超额占用",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150270.png",
     "max_level": 10
   },
   "800010": {
@@ -15591,6 +15743,14 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/13270.png",
     "max_level": 10
   },
+  "1013550": {
+    "id": 1013550,
+    "type": 1,
+    "name": "The Smiling Sawfish+",
+    "desc": "Increases this boat's TRP by 4.0% (10.0%) and Torpedo Crit Rate by 10.0% (20.0%). At the beginning of battle, fires a Lv.1 (Lv.10) torpedo barrage (pattern and DMG are based on the skill's level); if there are other ships afloat in your Submarine Fleet, this barrage's pattern is further improved.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/13550.png",
+    "max_level": 10
+  },
   "1017160": {
     "id": 1017160,
     "type": 1,
@@ -15853,6 +16013,14 @@
     "name": "Tactical Command – Leipzig",
     "desc": "Increases your Cruisers' FP, TRP, and RLD by 1% (10%) (does not stack with similar Tactical Command skills). When the battle starts: increases this ship's TRP and AA by 15% (25%), and fires a Lv.1 (Lv.10) special barrage every 15s (DMG is based on the skill's level).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/1050.png",
+    "max_level": 10
+  },
+  "1090280": {
+    "id": 1090280,
+    "type": 1,
+    "name": "Quick Takeoff - Long Island",
+    "desc": "When this ship launches an airstrike: 5% (15%) chance for the next airstrike to become available immediately. Every 20s: 40% (70%) chance to launch a Lv.1 (Lv.10) special airstrike (DMG is based on the skill's level; if this ship has Eagle Union gear equipped: improves this airstrike).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/3000.png",
     "max_level": 10
   }
 }

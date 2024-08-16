@@ -49,47 +49,47 @@ We anticipate that the update process will be completed in 1~7 days or before Fe
 - [list of missing voiceline audio](/docs/MISSING_VOICELINE.md)
 
 ## Repository Size
-Repository contains 50529 files with a size of 18.36 GB (19713782426 B).
+Repository contains 51705 files with a size of 18.25 GB (19594149946 B).
 
 ### Audio
-Contains 35592 files with a size of 3.61 GB (3877029329 B).
+Contains 35978 files with a size of 3.66 GB (3932065915 B).
 
 - **BGM:**
-  Contains 394 files with a size of 848.36 MB (889566545 B).
+  Contains 402 files with a size of 864.35 MB (906331722 B).
 
 - **Voiceline:**
-  Contains 1916 skins voiceline, 35198 files with a size of 2.78 GB (2987462784 B).
+  Contains 1933 skins voiceline, 35576 files with a size of 2.82 GB (3025734193 B).
 
 ### Images
-Contains 14849 files with a size of 5.44 GB (5840077284 B).
+Contains 15637 files with a size of 5.52 GB (5931101950 B).
 
 - **Background:**
   Contains 98 files with a size of 62.08 MB (65093837 B).
 
 - **Equipment:**
-  Contains 486 files with a size of 6.85 MB (7180273 B).
+  Contains 1115 files with a size of 13.09 MB (13722890 B).
 
 - **Meowfficer:**
   Contains 16 characters, 24 skills, and 91 talents assets with a total of 163 files and a combined size of 7.86 MB (8238566 B).
 
 - **Skills:**
-  Contains 1354 files with a size of 29.25 MB (30667810 B).
+  Contains 1391 files with a size of 30.05 MB (31511965 B).
 
 - **Skins:**
-  Contains 1933 skins, 12410 files with a size of 5.32 GB (5708022355 B).
+  Contains 1950 skins, 12528 files with a size of 5.39 GB (5791644105 B).
 
   - **painting:**
-    Contains 2745 files with a size of 5.01 GB (5382737606 B).
+    Contains 2778 files with a size of 5.09 GB (5463201625 B).
   - **banner:**
-    Contains 1933 files with a size of 55.82 MB (58534200 B).
+    Contains 1950 files with a size of 56.34 MB (59077751 B).
   - **chibi:**
-    Contains 1933 files with a size of 66.21 MB (69427629 B).
+    Contains 1950 files with a size of 67.07 MB (70325063 B).
   - **icon:**
-    Contains 1933 files with a size of 39.30 MB (41205669 B).
+    Contains 1950 files with a size of 39.64 MB (41568533 B).
   - **qicon:**
-    Contains 1933 files with a size of 30.41 MB (31884742 B).
+    Contains 1950 files with a size of 30.67 MB (32155187 B).
   - **shipyard:**
-    Contains 1933 files with a size of 118.48 MB (124232509 B).
+    Contains 1950 files with a size of 119.51 MB (125315946 B).
 
 > [!NOTE]
 > Assets without auto-update are not included.

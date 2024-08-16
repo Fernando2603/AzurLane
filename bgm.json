@@ -295,6 +295,22 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-deepecho2.ogg"
   },
+  "battle-donghuang-static": {
+    "title": "蝗帶ｵｷ貂ｸ鮴兩AL",
+    "size": 1826711,
+    "duration": 92.04390022675737,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-donghuang-static.ogg"
+  },
+  "battle-eagleunion": {
+    "title": "鮖ｰ蜃ｻ髟ｿ遨ｺ_AL",
+    "size": 2180036,
+    "duration": 111.45578231292517,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-eagleunion.ogg"
+  },
   "battle-executor-type1": {
     "title": "world_07",
     "size": 2612847,
@@ -406,6 +422,14 @@
     "bitrate": 160.0,
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-nep2.ogg"
+  },
+  "battle-newwind": {
+    "title": "霑主髄譁ｰ鬟酸PX",
+    "size": 2466531,
+    "duration": 127.03637188208617,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-newwind.ogg"
   },
   "battle-pacific": {
     "title": "10",
@@ -2135,6 +2159,14 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-french2.ogg"
   },
+  "story-island-soft": {
+    "title": "帕克菲克洋诸岛风光_PX",
+    "size": 2302966,
+    "duration": 115.42639455782313,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-island-soft.ogg"
+  },
   "story-italy": {
     "title": "AL005_ItalyStory1",
     "size": 1250789,
@@ -2182,6 +2214,14 @@
     "bitrate": 160.0,
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-maystorm.ogg"
+  },
+  "story-memory-grief": {
+    "title": "褪色的琉璃_PX",
+    "size": 1885887,
+    "duration": 100.01066666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-memory-grief.ogg"
   },
   "story-midgard": {
     "title": "story-midgard",
@@ -2399,6 +2439,14 @@
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-sooth.ogg"
   },
+  "story-richang-westdaily": {
+    "title": "鄒取恪蜈ｭ蜻ｨ蟷ｴ荳ｻ鬚俶峇_90sINST_EN",
+    "size": 1893423,
+    "duration": 90.00533333333334,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-westdaily.ogg"
+  },
   "story-roma-inside": {
     "title": "bgm-story-roma-inside",
     "size": 2433964,
@@ -2575,6 +2623,14 @@
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-designfleet.ogg"
   },
+  "theme-designfleet-vii": {
+    "title": "环帕克菲克洋联合计划_AL",
+    "size": 1785970,
+    "duration": 87.7946485260771,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-designfleet-vii.ogg"
+  },
   "theme-designshipvi": {
     "title": "隶｡蛻剃ｺ取悴譚･_G",
     "size": 1585363,
@@ -2582,6 +2638,14 @@
     "bitrate": 160.0,
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-designshipvi.ogg"
+  },
+  "theme-donghuang": {
+    "title": "髞ｦ扈｣螻ｱ豐ｳ_AL",
+    "size": 2423653,
+    "duration": 121.1849433106576,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-donghuang.ogg"
   },
   "theme-elizabeth-andmeta": {
     "title": "髯帑ｸ狗噪闕｣蜈雲4th05",
