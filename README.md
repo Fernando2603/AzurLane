@@ -49,7 +49,7 @@ We anticipate that the update process will be completed in 1~7 days or before Fe
 - [list of missing voiceline audio](/docs/MISSING_VOICELINE.md)
 
 ## Repository Size
-Repository contains 51705 files with a size of 18.25 GB (19594149946 B).
+Repository contains 51675 files with a size of 9.24 GB (9924751048 B).
 
 ### Audio
 Contains 35978 files with a size of 3.66 GB (3932065915 B).
@@ -61,7 +61,7 @@ Contains 35978 files with a size of 3.66 GB (3932065915 B).
   Contains 1933 skins voiceline, 35576 files with a size of 2.82 GB (3025734193 B).
 
 ### Images
-Contains 15637 files with a size of 5.52 GB (5931101950 B).
+Contains 15637 files with a size of 5.52 GB (5931141920 B).
 
 - **Background:**
   Contains 98 files with a size of 62.08 MB (65093837 B).
@@ -76,18 +76,18 @@ Contains 15637 files with a size of 5.52 GB (5931101950 B).
   Contains 1391 files with a size of 30.05 MB (31511965 B).
 
 - **Skins:**
-  Contains 1950 skins, 12528 files with a size of 5.39 GB (5791644105 B).
+  Contains 1950 skins, 12528 files with a size of 5.39 GB (5791684075 B).
 
   - **painting:**
     Contains 2778 files with a size of 5.09 GB (5463201625 B).
   - **banner:**
     Contains 1950 files with a size of 56.34 MB (59077751 B).
   - **chibi:**
-    Contains 1950 files with a size of 67.07 MB (70325063 B).
+    Contains 1950 files with a size of 67.10 MB (70362799 B).
   - **icon:**
     Contains 1950 files with a size of 39.64 MB (41568533 B).
   - **qicon:**
-    Contains 1950 files with a size of 30.67 MB (32155187 B).
+    Contains 1950 files with a size of 30.67 MB (32157421 B).
   - **shipyard:**
     Contains 1950 files with a size of 119.51 MB (125315946 B).
 

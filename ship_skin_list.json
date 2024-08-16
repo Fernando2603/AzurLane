@@ -43547,7 +43547,7 @@
         "illustrator2": -1,
         "voice_actor": 396,
         "voice_actor2": -1,
-        "bgm": null,
+        "bgm": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-7 .ogg",
         "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/173.png",
         "background2": null,
         "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/501052/painting.png",
