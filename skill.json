@@ -13407,6 +13407,22 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150270.png",
     "max_level": 10
   },
+  "150400": {
+    "id": 150400,
+    "type": 3,
+    "name": "I'll Share My Luck With You, Chirp!",
+    "desc": "Every 10s: launches a Lv.1 (Lv.10) special airstrike (DMG is based on the skill's level). When this ship launches an airstrike, the following effects activate:\n1) Restores HP 3 times over 3 seconds; the first 2 restore the HP of the lowest current HP percentage ship in your Vanguard while the third restores the HP of a random ship in your Vanguard. The HP restored is an amount equal to 1.0% (5.0%) of Zuihou's max HP.\n2) Restores the HP of the ship with the lowest current HP percentage in your Main Fleet 3 times. This effect can only activate once every second and the HP restores is an amount equal to 1.0% (2.0%) of the target's max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150400.png",
+    "max_level": 10
+  },
+  "150410": {
+    "id": 150410,
+    "type": 3,
+    "name": "Phoenix Tender",
+    "desc": "Increases your SSs' DMG dealt by 1.0% (10.0%). When your Submarine Fleet arrives at the battlefield: decreases your Submarine Fleet's DMG taken by 10.0% (20.0%) until the battle ends. When this ship finishes loading an airstrike: increases your Main Fleet's DMG dealt by 3.5% (8.0%) for 8s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150410.png",
+    "max_level": 10
+  },
   "800010": {
     "id": 800010,
     "type": 1,

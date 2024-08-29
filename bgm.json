@@ -2247,6 +2247,14 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-musicanniversary-gorgeous.ogg"
   },
+  "story-nailuo-theme": {
+    "title": "螂郁誠荵区ｸ垣AL",
+    "size": 2464937,
+    "duration": 138.39092970521543,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-nailuo-theme.ogg"
+  },
   "story-nepu1": {
     "title": "nepu_024_Let's Bake The Cookie!",
     "size": 3103318,
@@ -2262,6 +2270,14 @@
     "bitrate": 160.0,
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-nepu2.ogg"
+  },
+  "story-newsakura": {
+    "title": "譁ｰ逕滉ｹ矩｣酸PX",
+    "size": 2145679,
+    "duration": 112.81066666666666,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-newsakura.ogg"
   },
   "story-niceship-soft": {
     "title": "假日邮轮_G",
@@ -2782,6 +2798,14 @@
     "bitrate": 160.0,
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-midgard-hunting.ogg"
+  },
+  "theme-misaka": {
+    "title": "蜀帷･樒噪蜀ｳ諢柔AL",
+    "size": 2309025,
+    "duration": 123.78557823129252,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-misaka.ogg"
   },
   "theme-musashi-inside": {
     "title": "bgm-theme-musashi-inside",

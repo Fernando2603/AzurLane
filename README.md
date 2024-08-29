@@ -49,22 +49,22 @@ We anticipate that the update process will be completed in 1~7 days or before Fe
 - [list of missing voiceline audio](/docs/MISSING_VOICELINE.md)
 
 ## Repository Size
-Repository contains 51675 files with a size of 9.24 GB (9924751048 B).
+Repository contains 51750 files with a size of 9.27 GB (9950237262 B).
 
 ### Audio
-Contains 35978 files with a size of 3.66 GB (3932065915 B).
+Contains 36036 files with a size of 3.67 GB (3944408513 B).
 
 - **BGM:**
-  Contains 402 files with a size of 864.35 MB (906331722 B).
+  Contains 405 files with a size of 870.94 MB (913251363 B).
 
 - **Voiceline:**
-  Contains 1933 skins voiceline, 35576 files with a size of 2.82 GB (3025734193 B).
+  Contains 1935 skins voiceline, 35631 files with a size of 2.82 GB (3031157150 B).
 
 ### Images
-Contains 15637 files with a size of 5.52 GB (5931141920 B).
+Contains 15654 files with a size of 5.54 GB (5945903938 B).
 
 - **Background:**
-  Contains 98 files with a size of 62.08 MB (65093837 B).
+  Contains 99 files with a size of 63.67 MB (66762427 B).
 
 - **Equipment:**
   Contains 1115 files with a size of 13.09 MB (13722890 B).
@@ -73,23 +73,23 @@ Contains 15637 files with a size of 5.52 GB (5931141920 B).
   Contains 16 characters, 24 skills, and 91 talents assets with a total of 163 files and a combined size of 7.86 MB (8238566 B).
 
 - **Skills:**
-  Contains 1391 files with a size of 30.05 MB (31511965 B).
+  Contains 1393 files with a size of 30.09 MB (31553235 B).
 
 - **Skins:**
-  Contains 1950 skins, 12528 files with a size of 5.39 GB (5791684075 B).
+  Contains 1952 skins, 12542 files with a size of 5.41 GB (5804736233 B).
 
   - **painting:**
-    Contains 2778 files with a size of 5.09 GB (5463201625 B).
+    Contains 2782 files with a size of 5.10 GB (5475869171 B).
   - **banner:**
-    Contains 1950 files with a size of 56.34 MB (59077751 B).
+    Contains 1952 files with a size of 56.41 MB (59145433 B).
   - **chibi:**
-    Contains 1950 files with a size of 67.10 MB (70362799 B).
+    Contains 1952 files with a size of 67.21 MB (70470166 B).
   - **icon:**
-    Contains 1950 files with a size of 39.64 MB (41568533 B).
+    Contains 1952 files with a size of 39.68 MB (41612604 B).
   - **qicon:**
-    Contains 1950 files with a size of 30.67 MB (32157421 B).
+    Contains 1952 files with a size of 30.70 MB (32191275 B).
   - **shipyard:**
-    Contains 1950 files with a size of 119.51 MB (125315946 B).
+    Contains 1952 files with a size of 119.64 MB (125447584 B).
 
 > [!NOTE]
 > Assets without auto-update are not included.

@@ -90195,6 +90195,7 @@
     "name": "Fargo Direct Drone",
     "desc": "A mass-produced, speedy cargo drone. It boasts excellent navigational ability and reliability.",
     "label": [
+      "USS",
       "DEV"
     ],
     "rarity": 5,

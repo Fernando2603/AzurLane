@@ -93323,6 +93323,233 @@
     }
   },
   {
+    "id": 221,
+    "gid": 30604,
+    "cid": 1,
+    "sid": [
+      306041,
+      306042,
+      306043,
+      306044
+    ],
+    "name": "Zuihou",
+    "codename": "IJN Zuihō",
+    "class": "Shouhou Class",
+    "nationality": 3,
+    "obtain": [
+      "Event: Whence Flowers Bear No Fruit"
+    ],
+    "type": 6,
+    "rarity": 5,
+    "armor": 2,
+    "hexagon": [
+      "E",
+      "E",
+      "A",
+      "D",
+      "B",
+      "C"
+    ],
+    "share_group": [],
+    "breakout": [
+      [
+        "All Torpedo Bombers +1",
+        "Fighter efficiency +5%"
+      ],
+      [
+        "Hangar capacity +1",
+        "All Fighters +1",
+        "Fighter efficiency +10%"
+      ],
+      [
+        "All aircraft +1",
+        "Torpedo Bomber efficiency +10%"
+      ]
+    ],
+    "equipment": {
+      "1": {
+        "default": 117,
+        "slot": 1,
+        "type": [
+          7
+        ],
+        "mount": 3,
+        "preload": 0,
+        "efficiency": 1.4
+      },
+      "2": {
+        "default": 118,
+        "slot": 2,
+        "type": [
+          8
+        ],
+        "mount": 3,
+        "preload": 0,
+        "efficiency": 1.4
+      },
+      "3": {
+        "default": 104,
+        "slot": 3,
+        "type": [
+          6
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 0.8
+      },
+      "4": {
+        "default": null,
+        "slot": 4,
+        "type": [
+          10,
+          15
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      },
+      "5": {
+        "default": null,
+        "slot": 5,
+        "type": [
+          10,
+          15
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      }
+    },
+    "base": {
+      "306041": {
+        "health": 763,
+        "firepower": 0,
+        "torpedo": 0,
+        "antiair": 49,
+        "aviation": 58,
+        "reload": 72,
+        "accuracy": 28,
+        "evasion": 19,
+        "speed": 28,
+        "luck": 55,
+        "asw": 22
+      },
+      "306042": {
+        "health": 949,
+        "firepower": 0,
+        "torpedo": 0,
+        "antiair": 61,
+        "aviation": 72,
+        "reload": 72,
+        "accuracy": 28,
+        "evasion": 19,
+        "speed": 28,
+        "luck": 55,
+        "asw": 27
+      },
+      "306043": {
+        "health": 1321,
+        "firepower": 0,
+        "torpedo": 0,
+        "antiair": 85,
+        "aviation": 101,
+        "reload": 72,
+        "accuracy": 28,
+        "evasion": 19,
+        "speed": 28,
+        "luck": 55,
+        "asw": 38
+      },
+      "306044": {
+        "health": 1879,
+        "firepower": 0,
+        "torpedo": 0,
+        "antiair": 122,
+        "aviation": 144,
+        "reload": 72,
+        "accuracy": 28,
+        "evasion": 19,
+        "speed": 28,
+        "luck": 55,
+        "asw": 54
+      }
+    },
+    "growth": {
+      "306041": {
+        "health": 20793,
+        "firepower": 0,
+        "torpedo": 0,
+        "antiair": 1072,
+        "aviation": 769,
+        "reload": 498,
+        "accuracy": 447,
+        "evasion": 397,
+        "speed": 0,
+        "luck": 0,
+        "asw": 269
+      },
+      "306042": {
+        "health": 20793,
+        "firepower": 0,
+        "torpedo": 0,
+        "antiair": 1072,
+        "aviation": 769,
+        "reload": 498,
+        "accuracy": 447,
+        "evasion": 397,
+        "speed": 0,
+        "luck": 0,
+        "asw": 269
+      },
+      "306043": {
+        "health": 20793,
+        "firepower": 0,
+        "torpedo": 0,
+        "antiair": 1072,
+        "aviation": 769,
+        "reload": 498,
+        "accuracy": 447,
+        "evasion": 397,
+        "speed": 0,
+        "luck": 0,
+        "asw": 269
+      },
+      "306044": {
+        "health": 20793,
+        "firepower": 0,
+        "torpedo": 0,
+        "antiair": 1072,
+        "aviation": 769,
+        "reload": 498,
+        "accuracy": 447,
+        "evasion": 397,
+        "speed": 0,
+        "luck": 0,
+        "asw": 269
+      }
+    },
+    "enhance": {
+      "aviation": 57,
+      "reload": 53
+    },
+    "skill": {
+      "150400": {
+        "id": 150400,
+        "parent": 150400,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "150410": {
+        "id": 150410,
+        "parent": 150410,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      }
+    }
+  },
+  {
     "id": 222,
     "gid": 30605,
     "cid": 1,
@@ -128034,7 +128261,8 @@
     "class": "Maestrale Class",
     "nationality": 6,
     "obtain": [
-      "Event: Daedalian Hymn "
+      "Event: Daedalian Hymn ",
+      "Light Ship Construction"
     ],
     "type": 1,
     "rarity": 4,
@@ -128276,7 +128504,8 @@
     "class": "Maestrale Class",
     "nationality": 6,
     "obtain": [
-      "Event: Daedalian Hymn "
+      "Event: Daedalian Hymn ",
+      "Light Ship Construction"
     ],
     "type": 1,
     "rarity": 4,
@@ -128518,7 +128747,8 @@
     "class": "Navigatori Class",
     "nationality": 6,
     "obtain": [
-      "Event: Daedalian Hymn "
+      "Event: Daedalian Hymn ",
+      "Light Ship Construction"
     ],
     "type": 1,
     "rarity": 4,
@@ -129728,7 +129958,8 @@
     "class": "Duca degli Abruzzi Class",
     "nationality": 6,
     "obtain": [
-      "Event: Daedalian Hymn "
+      "Event: Daedalian Hymn ",
+      "Light Ship Construction"
     ],
     "type": 2,
     "rarity": 5,
@@ -131656,7 +131887,8 @@
     "class": "Vittorio Veneto Class",
     "nationality": 6,
     "obtain": [
-      "Event: Daedalian Hymn "
+      "Event: Daedalian Hymn ",
+      "Heavy Ship Construction"
     ],
     "type": 5,
     "rarity": 5,
@@ -133023,7 +133255,8 @@
     "class": "Aquila Class",
     "nationality": 6,
     "obtain": [
-      "Event: Daedalian Hymn "
+      "Event: Daedalian Hymn ",
+      "Special Ship Construction"
     ],
     "type": 7,
     "rarity": 5,
@@ -133483,7 +133716,8 @@
     "class": "Brin Class",
     "nationality": 6,
     "obtain": [
-      "Event: Daedalian Hymn "
+      "Event: Daedalian Hymn ",
+      "Merit Shop"
     ],
     "type": 8,
     "rarity": 4,
