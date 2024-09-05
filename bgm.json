@@ -3015,6 +3015,14 @@
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-theloversvi.ogg"
   },
+  "theme-themagiciani": {
+    "title": "仲裁者麦纪莎_G",
+    "size": 1757670,
+    "duration": 89.42004535147392,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-themagiciani.ogg"
+  },
   "theme-thetowerxvi": {
     "title": "仲裁者托瓦_6th4",
     "size": 1921383,

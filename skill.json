@@ -15343,6 +15343,62 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801340.png",
     "max_level": 1
   },
+  "801350": {
+    "id": 801350,
+    "type": 3,
+    "name": "The Flowers Bloom and Fall",
+    "desc": "Increases this ship's FP and ACC by 5.0% (15.0%) and further increases this ship's FP and ACC by 1.5% (5.0%) for each Sakura Empire ship in your fleet (can be stacked up to 2 times), and applies the following buff to these Sakura Empire ships:\nOnce per battle, when this ship has lost a total of 25.0% of her HP in one battle: deploys a barrier (lasts 6s; can negate DMG equal to 1.5% (5.0%) of the recipient's max HP).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801350.png",
+    "max_level": 10
+  },
+  "801360": {
+    "id": 801360,
+    "type": 2,
+    "name": "The Moon Waxes and Wanes",
+    "desc": "When the battle starts, grants the Waxing Moon buff to a random ship in your Vanguard, increasing that ship's FP and TRP by 1.0% (10.0%) and, when that ship's HP is restored, restores an additional 1.0% of that ship's max HP. When the HP restoration effect of this buff activates, the buff is removed and, if Nagato META is afloat, is reapplied to a random ship in your Vanguard.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801360.png",
+    "max_level": 10
+  },
+  "801370": {
+    "id": 801370,
+    "type": 1,
+    "name": "The Rain Weaves and Disperses",
+    "desc": "When this ship fires her Main Guns: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). This barrage has 2 variants; the one fired is chosen at random. When the battle starts, if there are no other Sakura Empire ships in your fleet: improves this barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801370.png",
+    "max_level": 10
+  },
+  "801381": {
+    "id": 801381,
+    "type": 3,
+    "name": "Smoldering Core - Nagato I",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 3.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801380.png",
+    "max_level": 1
+  },
+  "801382": {
+    "id": 801382,
+    "type": 3,
+    "name": "Smoldering Core - Nagato II",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 8.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801380.png",
+    "max_level": 1
+  },
+  "801385": {
+    "id": 801385,
+    "type": 3,
+    "name": "Smoldering Core - Nagato I",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 3.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801380.png",
+    "max_level": 1
+  },
+  "801387": {
+    "id": 801387,
+    "type": 3,
+    "name": "Smoldering Core - Nagato II",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 8.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801380.png",
+    "max_level": 1
+  },
   "902220": {
     "id": 902220,
     "type": 2,
@@ -15599,6 +15655,14 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/11440.png",
     "max_level": 10
   },
+  "1011490": {
+    "id": 1011490,
+    "type": 1,
+    "name": "Frontal Fire+",
+    "desc": "When this ship fires her Main Guns: 40.0% (70.0%) chance to fire a frontal barrage (DMG and barrage pattern are based on the skill's level; this barrage is guaranteed to fire after this ship's first Main Gun volley); when this barrage fires, treats the fleet to a random handmade confection, applying 1 of the following 3 buffs for 8s and restoring 1.0% (5.0%) of all targets' max HP:\n1) Donuts: increases the FP, Crit Rate, and Crit DMG of this ship and a random ship in your Vanguard by 1.0% (10.0%);\n2) Mont Blancs: increases the FP and RLD of this ship and a random other ship in your Main Fleet by 1.0% (10.0%);\n3) Macarons: increases the FP and ACC of this ship and a random surface ship in your fleet by 1.0% (10.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/11490.png",
+    "max_level": 10
+  },
   "1011500": {
     "id": 1011500,
     "type": 1,
@@ -15743,6 +15807,14 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/12940.png",
     "max_level": 10
   },
+  "1012990": {
+    "id": 1012990,
+    "type": 3,
+    "name": "Trajectory Marking+",
+    "desc": "Increases the Main Gun efficiency of all Northern Parliament DDs in your fleet by 4.0% (10.0%) and increases their ACC by 5.0% (15.0%). When Snezhinka is summoned via the skill The Blue Cruiser: doubles its active duration and the power of its barrages, and increases this ship's Evasion Rate by 4.0% while the summon is active.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/12990.png",
+    "max_level": 10
+  },
   "1013000": {
     "id": 1013000,
     "type": 1,
@@ -15805,6 +15877,14 @@
     "name": "Treasure of the Loyal Protector+",
     "desc": "Increases this ship's Evasion Rate by 2.5% (7.0%). Once per battle, when this ship's HP falls below 50.0% as a result of DMG taken: restores 3.5% (8.0%) of this ship's max HP; also once per battle, when this ship's HP falls below 35.0% as a result of DMG taken: restores 3.5% (8.0%) of this ship's max HP.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17270.png",
+    "max_level": 10
+  },
+  "1019060": {
+    "id": 1019060,
+    "type": 1,
+    "name": "Flash of Lightning+",
+    "desc": "When this ship fires her torpedoes: 50.0% (100.0%) chance to fire a Lv.1 (Lv.10) improved special barrage (DMG is based on the skill's level). After this barrage fires: this ship evades all attacks for 1.5s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19060.png",
     "max_level": 10
   },
   "1019080": {
@@ -16037,6 +16117,22 @@
     "name": "Quick Takeoff - Long Island",
     "desc": "When this ship launches an airstrike: 5% (15%) chance for the next airstrike to become available immediately. Every 20s: 40% (70%) chance to launch a Lv.1 (Lv.10) special airstrike (DMG is based on the skill's level; if this ship has Eagle Union gear equipped: improves this airstrike).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/3000.png",
+    "max_level": 10
+  },
+  "1090290": {
+    "id": 1090290,
+    "type": 1,
+    "name": "Double Torpedo - Shiranui",
+    "desc": "Increases this ship's torpedo Crit DMG by 10.0% (20.0%). When this ship fires her torpedoes: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) and, with a 15.0% (30.0%) chance, fires another wave of torpedoes (10s cooldown between activations). Perhaps something surprising will happen with this equipped?",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/2050.png",
+    "max_level": 10
+  },
+  "1090310": {
+    "id": 1090310,
+    "type": 1,
+    "name": "Full Firepower - Exeter",
+    "desc": "Once when the battle starts, and with a 30.0% (60.0%) chance every 20s after that: increases this ship's FP by 20.0% (40.0%) for 10s and fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). If this barrage hits the same enemy 4 times: inflicts Armor Break to that enemy for 6s; when this debuff expires, resets the hit counter to 0.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/2010.png",
     "max_level": 10
   }
 }

@@ -93334,7 +93334,7 @@
     ],
     "name": "Zuihou",
     "codename": "IJN Zuihō",
-    "class": "Shouhou Class",
+    "class": "Zuihou Class ",
     "nationality": 3,
     "obtain": [
       "Event: Whence Flowers Bear No Fruit"
@@ -161703,6 +161703,259 @@
       "801150": {
         "id": 801150,
         "parent": 801150,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      }
+    }
+  },
+  {
+    "id": 30037,
+    "gid": 970506,
+    "cid": 3,
+    "sid": [
+      9705061,
+      9705062,
+      9705063,
+      9705064
+    ],
+    "name": "Nagato META",
+    "codename": "Nagato.META",
+    "class": "Nagato META",
+    "nationality": 97,
+    "obtain": [
+      "META Lab - Coordinate Analysis"
+    ],
+    "type": 5,
+    "rarity": 5,
+    "armor": 3,
+    "hexagon": [
+      "S",
+      "E",
+      "E",
+      "D",
+      "D",
+      "B"
+    ],
+    "share_group": [],
+    "breakout": [
+      [
+        "Unlock Smoldering Core - Nagato",
+        "Main gun base +1",
+        "Main gun efficiency +5%"
+      ],
+      [
+        "Secondary Gun base +2",
+        "Main gun efficiency +10%"
+      ],
+      [
+        "Improve Smoldering Core - Nagato",
+        "Main gun base +1",
+        "Main gun efficiency +15%"
+      ]
+    ],
+    "equipment": {
+      "1": {
+        "default": 103,
+        "slot": 1,
+        "type": [
+          4
+        ],
+        "mount": 3,
+        "preload": 0,
+        "efficiency": 1.35
+      },
+      "2": {
+        "default": 101,
+        "slot": 2,
+        "type": [
+          1,
+          2
+        ],
+        "mount": 3,
+        "preload": 0,
+        "efficiency": 2.1
+      },
+      "3": {
+        "default": 104,
+        "slot": 3,
+        "type": [
+          6,
+          21
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1.1
+      },
+      "4": {
+        "default": null,
+        "slot": 4,
+        "type": [
+          10
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      },
+      "5": {
+        "default": null,
+        "slot": 5,
+        "type": [
+          10
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      }
+    },
+    "base": {
+      "9705061": {
+        "health": 1345,
+        "firepower": 82,
+        "torpedo": 0,
+        "antiair": 34,
+        "aviation": 0,
+        "reload": 54,
+        "accuracy": 17,
+        "evasion": 6,
+        "speed": 25,
+        "luck": 71,
+        "asw": 0
+      },
+      "9705062": {
+        "health": 1673,
+        "firepower": 102,
+        "torpedo": 0,
+        "antiair": 42,
+        "aviation": 0,
+        "reload": 54,
+        "accuracy": 17,
+        "evasion": 6,
+        "speed": 25,
+        "luck": 71,
+        "asw": 0
+      },
+      "9705063": {
+        "health": 2329,
+        "firepower": 143,
+        "torpedo": 0,
+        "antiair": 59,
+        "aviation": 0,
+        "reload": 54,
+        "accuracy": 17,
+        "evasion": 6,
+        "speed": 25,
+        "luck": 71,
+        "asw": 0
+      },
+      "9705064": {
+        "health": 3314,
+        "firepower": 204,
+        "torpedo": 0,
+        "antiair": 84,
+        "aviation": 0,
+        "reload": 54,
+        "accuracy": 17,
+        "evasion": 6,
+        "speed": 25,
+        "luck": 71,
+        "asw": 0
+      }
+    },
+    "growth": {
+      "9705061": {
+        "health": 25474,
+        "firepower": 1011,
+        "torpedo": 0,
+        "antiair": 463,
+        "aviation": 0,
+        "reload": 375,
+        "accuracy": 295,
+        "evasion": 209,
+        "speed": 0,
+        "luck": 0,
+        "asw": 0
+      },
+      "9705062": {
+        "health": 25474,
+        "firepower": 1011,
+        "torpedo": 0,
+        "antiair": 463,
+        "aviation": 0,
+        "reload": 375,
+        "accuracy": 295,
+        "evasion": 209,
+        "speed": 0,
+        "luck": 0,
+        "asw": 0
+      },
+      "9705063": {
+        "health": 25474,
+        "firepower": 1011,
+        "torpedo": 0,
+        "antiair": 463,
+        "aviation": 0,
+        "reload": 375,
+        "accuracy": 295,
+        "evasion": 209,
+        "speed": 0,
+        "luck": 0,
+        "asw": 0
+      },
+      "9705064": {
+        "health": 25474,
+        "firepower": 1011,
+        "torpedo": 0,
+        "antiair": 463,
+        "aviation": 0,
+        "reload": 375,
+        "accuracy": 295,
+        "evasion": 209,
+        "speed": 0,
+        "luck": 0,
+        "asw": 0
+      }
+    },
+    "enhance": {
+      "health": 1312,
+      "antiair": 33,
+      "accuracy": 17,
+      "evasion": 5,
+      "firepower": 84,
+      "reload": 40
+    },
+    "skill": {
+      "801381": {
+        "id": 801381,
+        "parent": 801381,
+        "upgrade": 801382,
+        "downgrade": null,
+        "requirement": "Limit Break 1"
+      },
+      "801382": {
+        "id": 801382,
+        "parent": 801381,
+        "upgrade": null,
+        "downgrade": 801381,
+        "requirement": "Limit Break 3"
+      },
+      "801350": {
+        "id": 801350,
+        "parent": 801350,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "801360": {
+        "id": 801360,
+        "parent": 801360,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "801370": {
+        "id": 801370,
+        "parent": 801370,
         "upgrade": null,
         "downgrade": null,
         "requirement": "Default"

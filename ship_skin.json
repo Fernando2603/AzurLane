@@ -3430,7 +3430,7 @@
         "id": 105099,
         "gid": 10509,
         "name": "Colorado (Retrofit)",
-        "type": "Default",
+        "type": "Retrofit",
         "desc": "You called, and I returned stronger, fiercer, and more complete. Now I await your orders. On my name as a Big Seven, I swear to decimate anyone who stands in your way.",
         "tag": [],
         "illustrator": -1,
@@ -3532,7 +3532,7 @@
         "id": 105119,
         "gid": 10511,
         "name": "West Virginia (Retrofit)",
-        "type": "Default",
+        "type": "Retrofit",
         "desc": "West Virginia, completing retrofit. Back when I joined the fleet, I said I'd show you my strength – now, after you've made me this much stronger, I feel humbled. Once more, Commander, my strength is yours.",
         "tag": [],
         "illustrator": -1,
@@ -6348,7 +6348,7 @@
         "id": 201235,
         "gid": 20123,
         "name": "Night Princess's Festive Feast",
-        "type": "Default",
+        "type": "Christmas",
         "desc": "Why do thee look so astonished? Thou promised to have this Christmas dinner with me. Is it that thou would rather offer me fresh blood than a feast? I certainly wouldn't object to that!",
         "tag": [
           "dynamicbg"
@@ -8484,7 +8484,7 @@
         "id": 205039,
         "gid": 20503,
         "name": "Nelson (Retrofit)",
-        "type": "Default",
+        "type": "Retrofit",
         "desc": "H-hey, are you sleeping all day, or what? My retrofit is all done. Hmph, you might've widened the gap between us, but... I'm gonna keep on pushing my limits! Got it?",
         "tag": [],
         "illustrator": 1,
@@ -19678,6 +19678,30 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301323/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301323/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301323/shipyard.png"
+      },
+      "301324": {
+        "id": 301324,
+        "gid": 30132,
+        "name": "Cotton Candy Dreams",
+        "type": "Dreamland Park",
+        "desc": "Comainder, you gotta keep up! We still have to eat cake and hot dogs, ride the teacups, go to the haunted house, and... what else was there? Hehe, anyway, let's hold hands and get going!♪",
+        "tag": [
+          "dynamicbg"
+        ],
+        "illustrator": 34,
+        "illustrator2": -1,
+        "voice_actor": 49,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/182.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301324/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301324/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301324/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301324/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301324/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301324/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/301324/shipyard.png"
       },
       "301329": {
         "id": 301329,
@@ -37593,7 +37617,7 @@
         "id": 502078,
         "gid": 50207,
         "name": "Luan-Feng's Everlasting Duet",
-        "type": "Default",
+        "type": "Oath",
         "desc": "\"Dragon-shaped jade comb in hand, tied is her hair with gold ribbons and phoenix's hairpin\" ...Thank you for waiting for me, Commander. Long have I dreamt for this moment to come true... Please allow me to remain by your side forevermore. N-now then, I believe the next thing for us to do is... c-consumate... *blushes*",
         "tag": [],
         "illustrator": -1,
@@ -52250,6 +52274,34 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9701060/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9701060/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9701060/shipyard.png"
+      }
+    }
+  },
+  "970506": {
+    "gid": 970506,
+    "name": "Nagato META",
+    "skins": {
+      "9705060": {
+        "id": 9705060,
+        "gid": 970506,
+        "name": "Nagato META",
+        "type": "Default",
+        "desc": "I am Nagato, Guardian Fox of the \"Sakura Empire\". Tell me, why have you summoned me? For power? Or for a wish you would like to have granted?",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 11,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9705060/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9705060/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9705060/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9705060/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9705060/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9705060/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9705060/shipyard.png"
       }
     }
   }
