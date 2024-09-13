@@ -13475,7 +13475,7 @@
     "id": 150460,
     "type": 3,
     "name": "From Plans Laid, Eternity Arrayed",
-    "desc": "Increases this ship's AVI by 5.0% (15.0%). While this ship is afloat: increases the DMG dealt by your submarines' torpedoes, surface ships' torpedoes, and aircrafts' torpedoes by 5.0% (15.0%), and decreases the enemy's FP, TRP, AVI, AA, and EVA by 1.0% (3.0%); each stack of Phoenix Flame on the enemy applies another instance of this debuff to that enemy.",
+    "desc": "Increases this ship's AVI by 5.0% (15.0%). While this ship is afloat: increases the torpedo DMG dealt by your Sakura Empire ships (including submarines' torpedoes, surface ships' torpedoes, and aircrafts' torpedoes) by 5.0% (15.0%), and decreases the enemy's FP, TRP, AVI, AA, and EVA by 1.0% (3.0%); each stack of Phoenix Flame on the enemy applies another instance of this debuff to that enemy.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150460.png",
     "max_level": 10
   },
