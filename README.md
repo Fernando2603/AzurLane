@@ -49,22 +49,22 @@ We anticipate that the update process will be completed in 1~7 days or before Fe
 - [list of missing voiceline audio](/docs/MISSING_VOICELINE.md)
 
 ## Repository Size
-Repository contains 51808 files with a size of 9.28 GB (9968632670 B).
+Repository contains 52265 files with a size of 9.41 GB (10101582992 B).
 
 ### Audio
-Contains 36075 files with a size of 3.68 GB (3950312394 B).
+Contains 36412 files with a size of 3.73 GB (4002117944 B).
 
 - **BGM:**
-  Contains 406 files with a size of 872.62 MB (915009033 B).
+  Contains 415 files with a size of 887.88 MB (931007697 B).
 
 - **Voiceline:**
-  Contains 1937 skins voiceline, 35669 files with a size of 2.83 GB (3035303361 B).
+  Contains 1952 skins voiceline, 35997 files with a size of 2.86 GB (3071110247 B).
 
 ### Images
-Contains 15673 files with a size of 5.55 GB (5958315635 B).
+Contains 15793 files with a size of 5.62 GB (6039061687 B).
 
 - **Background:**
-  Contains 100 files with a size of 65.39 MB (68563590 B).
+  Contains 101 files with a size of 65.99 MB (69196201 B).
 
 - **Equipment:**
   Contains 1115 files with a size of 13.09 MB (13722890 B).
@@ -73,23 +73,23 @@ Contains 15673 files with a size of 5.55 GB (5958315635 B).
   Contains 16 characters, 24 skills, and 91 talents assets with a total of 163 files and a combined size of 7.86 MB (8238566 B).
 
 - **Skills:**
-  Contains 1397 files with a size of 30.18 MB (31643850 B).
+  Contains 1413 files with a size of 30.52 MB (32007474 B).
 
 - **Skins:**
-  Contains 1954 skins, 12556 files with a size of 5.42 GB (5815256152 B).
+  Contains 1969 skins, 12659 files with a size of 5.49 GB (5895005969 B).
 
   - **painting:**
-    Contains 2786 files with a size of 5.11 GB (5486038041 B).
+    Contains 2814 files with a size of 5.18 GB (5563131461 B).
   - **banner:**
-    Contains 1954 files with a size of 56.45 MB (59193889 B).
+    Contains 1969 files with a size of 56.88 MB (59645466 B).
   - **chibi:**
-    Contains 1954 files with a size of 67.31 MB (70578975 B).
+    Contains 1969 files with a size of 67.96 MB (71259527 B).
   - **icon:**
-    Contains 1954 files with a size of 39.72 MB (41652931 B).
+    Contains 1969 files with a size of 40.03 MB (41977477 B).
   - **qicon:**
-    Contains 1954 files with a size of 30.73 MB (32224681 B).
+    Contains 1969 files with a size of 30.97 MB (32476127 B).
   - **shipyard:**
-    Contains 1954 files with a size of 119.75 MB (125567635 B).
+    Contains 1969 files with a size of 120.65 MB (126515911 B).
 
 > [!NOTE]
 > Assets without auto-update are not included.

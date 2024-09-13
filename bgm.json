@@ -431,6 +431,14 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-newwind.ogg"
   },
+  "battle-nightmare-theme": {
+    "title": "众魂汇聚之地_AL",
+    "size": 2080731,
+    "duration": 108.04244897959184,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-nightmare-theme.ogg"
+  },
   "battle-pacific": {
     "title": "10",
     "size": 2578069,
@@ -1303,6 +1311,14 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/login_us_0401.ogg"
   },
+  "logo-amagi": {
+    "title": "闍咲ｺ｢蜊ｰ雎｡_AZ",
+    "size": 413194,
+    "duration": 21.504,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/logo-amagi.ogg"
+  },
   "main": {
     "title": "BGM-荳ｻ逡碁擇17-5-12",
     "size": 1256977,
@@ -2031,6 +2047,14 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-afterrain-soft.ogg"
   },
+  "story-amagi-up": {
+    "title": "苏醒的苍红之炎_AL",
+    "size": 1302804,
+    "duration": 60.116462585034014,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-amagi-up.ogg"
+  },
   "story-antarctica-serious": {
     "title": "晦暗明星_G",
     "size": 1726087,
@@ -2127,6 +2151,22 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-expo-lastday.ogg"
   },
+  "story-fantasyland-light": {
+    "title": "梦幻乐园的梦幻天空_AL",
+    "size": 1543081,
+    "duration": 70.05460317460317,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-fantasyland-light.ogg"
+  },
+  "story-fantasyland-summer": {
+    "title": "梦幻乐园的缤纷海滩_GK_PV",
+    "size": 1791658,
+    "duration": 88.51446712018141,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-fantasyland-summer.ogg"
+  },
   "story-finalbattle-unity": {
     "title": "凡人的伟业_eden4th13",
     "size": 2958428,
@@ -2134,6 +2174,14 @@
     "bitrate": 160.0,
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-finalbattle-unity.ogg"
+  },
+  "story-flowerdust-soft": {
+    "title": "汇聚于此岸之尘_PX",
+    "size": 1971523,
+    "duration": 133.35466666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-flowerdust-soft.ogg"
   },
   "story-french": {
     "title": "bgm-story-french",
@@ -2567,6 +2615,22 @@
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-akagi-inside.ogg"
   },
+  "theme-akagi-meta": {
+    "title": "燃烧的彼岸花_AL",
+    "size": 2108634,
+    "duration": 108.3675283446712,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-akagi-meta.ogg"
+  },
+  "theme-amagi-cv": {
+    "title": "苍红的新生_PX",
+    "size": 2213700,
+    "duration": 120.27936507936508,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-amagi-cv.ogg"
+  },
   "theme-antarctica": {
     "title": "雪境迷踪_G",
     "size": 1782891,
@@ -2830,6 +2894,14 @@
     "bitrate": 160.0,
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-musashi-outside.ogg"
+  },
+  "theme-nagato-meta": {
+    "title": "蠕｡迢千噪蜀帛漢_shade",
+    "size": 2573339,
+    "duration": 121.2778231292517,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-nagato-meta.ogg"
   },
   "theme-objectx-spread": {
     "title": "拟态物",

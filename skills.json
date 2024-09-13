@@ -11863,6 +11863,22 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30330.png",
     "max_level": 1
   },
+  "30341": {
+    "id": 30341,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Watarase once every 12 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30340.png",
+    "max_level": 1
+  },
+  "30342": {
+    "id": 30342,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Watarase once every 8 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30340.png",
+    "max_level": 1
+  },
   "101010": {
     "id": 101010,
     "type": 3,
@@ -13421,6 +13437,102 @@
     "name": "Phoenix Tender",
     "desc": "Increases your SSs' DMG dealt by 1.0% (10.0%). When your Submarine Fleet arrives at the battlefield: decreases your Submarine Fleet's DMG taken by 10.0% (20.0%) until the battle ends. When this ship finishes loading an airstrike: increases your Main Fleet's DMG dealt by 3.5% (8.0%) for 8s.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150410.png",
+    "max_level": 10
+  },
+  "150420": {
+    "id": 150420,
+    "type": 1,
+    "name": "Wavesplitter's Edge",
+    "desc": "Increases this ship's RLD and ACC by 5.0% (15.0%). When the battle starts, if your Flagship is a Sakura Empire ship: increases this ship's DMG dealt by 5.0% (15.0%). When your Flagship launches an airstrike or fires her Main Guns: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level; 5s cooldown between activations).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150420.png",
+    "max_level": 10
+  },
+  "150430": {
+    "id": 150430,
+    "type": 3,
+    "name": "Amidst Flowing Shadows",
+    "desc": "Increases this ship's Evasion Rate by 4.0% (10.0%). When an enemy gets within 30 units of this ship: fires a Lv.1 (Lv.10) special barrage at that enemy (DMG is based on the skill's level; 10s cooldown between activations). Once per battle, when this ship has taken DMG a total of 8 times in one battle: restores 1.0% (5.0%) of this ship's max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150430.png",
+    "max_level": 10
+  },
+  "150440": {
+    "id": 150440,
+    "type": 1,
+    "name": "Final Bound",
+    "desc": "Increases this ship's FP by 10.0% (20.0%). When the shells of a BB or BC in your fleet hits an enemy: increases this ship's ACC by 4.5% (12.0%) for 6s and fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level; 20s cooldown between activations; enemies hit have their EVA decreased by 10.0% for 6s).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150440.png",
+    "max_level": 10
+  },
+  "150450": {
+    "id": 150450,
+    "type": 1,
+    "name": "Big Seven - Maryland",
+    "desc": "When this ship fires her Main Guns: 40.0% (70.0%) chance to fire a Lv.1 (Lv.10) frontal special barrage (DMG is based on the skill's level). Once per battle, when the HP of a BB or BC in your fleet falls below 50.0% as a result of DMG taken: fires the aforementioned special barrage and decreases that ship's aircraft DMG taken by 15.0% for 10s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150450.png",
+    "max_level": 10
+  },
+  "150460": {
+    "id": 150460,
+    "type": 3,
+    "name": "From Plans Laid, Eternity Arrayed",
+    "desc": "Increases this ship's AVI by 5.0% (15.0%). While this ship is afloat: increases the DMG dealt by your submarines' torpedoes, surface ships' torpedoes, and aircrafts' torpedoes by 5.0% (15.0%), and decreases the enemy's FP, TRP, AVI, AA, and EVA by 1.0% (3.0%); each stack of Phoenix Flame on the enemy applies another instance of this debuff to that enemy.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150460.png",
+    "max_level": 10
+  },
+  "150470": {
+    "id": 150470,
+    "type": 1,
+    "name": "From Advantage Seized, Victory Bequeathed",
+    "desc": "Increases this ship's DMG dealt to the enemy the further away they are from her (up to 8.0% (18.0%) more DMG). When this ship launches an airstrike: launches a Lv.1 (Lv.10) special airstrike (DMG is based on the skill's level and this ship's AVI stat).\nWhile this ship is afloat, 15s after a fleet this ship is NOT in enters a battle: launches a Lv.1 (Lv.10) supporting attack (DMG is based on the skill's level and this ship's AVI stat).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150470.png",
+    "max_level": 10
+  },
+  "150475": {
+    "id": 150475,
+    "type": 1,
+    "name": "破一役以破全局-跨队效果",
+    "desc": "",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150470.png",
+    "max_level": 10
+  },
+  "150480": {
+    "id": 150480,
+    "type": 3,
+    "name": "From Phoenixes Sistren, Flames Given",
+    "desc": "Every 12s: 50.0% (100.0%) chance to fire a Lv.1 (Lv.10) Phoenix Flame special barrage (DMG is based on the skill's level and this ship's AVI stat). For each Sakura Empire ship in your fleet (excluding this ship): decreases this barrage's activation interval by 1s; inflicts the Phoenix Flame status to enemies hit, increasing their Burn DMG taken by 5.0% (15.0%) for each stack of Phoenix Flame (the Phoenix Flame status can only be applied once every 5s, and stacks up to 2 times). When sortied with Akagi or Kaga: decreases the loading time of this ship's first airstrike by 20.0% (50.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150480.png",
+    "max_level": 10
+  },
+  "150490": {
+    "id": 150490,
+    "type": 3,
+    "name": "White Rabbit's Fortune",
+    "desc": "Increases this ship's TRP and RLD by 5.0% (20.0%). Every 5s: 45.0% (75.0%) chance to fire a Lv.1 (Lv.10) special torpedo barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150490.png",
+    "max_level": 10
+  },
+  "150500": {
+    "id": 150500,
+    "type": 2,
+    "name": "Three-Tranquilities Formation",
+    "desc": "5s after the battle starts: lays Lv.1 (Lv.10) sea mines that damage the enemy (DMG is based on the skill's level). Once per battle, when this ship's HP falls below 20.0% as a result of DMG taken: restores 5.0% (15.0%) of this ship's max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150500.png",
+    "max_level": 10
+  },
+  "150510": {
+    "id": 150510,
+    "type": 1,
+    "name": "Waves of Bitter Cold",
+    "desc": "15s after the battle starts, and every 20s after that: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). Enemies hit by this barrage take 1.0% (10.0%) increased torpedo DMG from this ship for 8s. When this ship's torpedoes hit an enemy: decreases that",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150510.png",
+    "max_level": 10
+  },
+  "150520": {
+    "id": 150520,
+    "type": 3,
+    "name": "Chasing Brisk Waves",
+    "desc": "Increases this ship's TRP and EVA by 5.0% (15.0%). When this ship fires her torpedoes: 15.0% (30.0%) chance to fire another wave of torpedoes.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150520.png",
     "max_level": 10
   },
   "800010": {
@@ -15397,6 +15509,62 @@
     "name": "Smoldering Core - Nagato II",
     "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 8.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801380.png",
+    "max_level": 1
+  },
+  "801390": {
+    "id": 801390,
+    "type": 1,
+    "name": "Skysieging Slash",
+    "desc": "Increases this ship's FP and RLD by 5.0% (15.0%). Every 20s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); when this special barrage activates, if there are 2 or more enemies present on the battlefield, additionally performs a Lv.1 (Lv.10) slashing barrage (DMG is based on the skill's level); if this slashing barrage is not activated through this effect, this DMG of this ship's next Main Gun volley is increased by 10.0% (20.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801390.png",
+    "max_level": 10
+  },
+  "801400": {
+    "id": 801400,
+    "type": 3,
+    "name": "Shadowscattering Shimmer",
+    "desc": "Every 20s: 40.0% (70.0%) chance to activate Shimmer, redirecting 20.0% (50.0%) of the DMG that would be dealt to your Main Fleet to this ship and reducing said DMG by 10.0% (20.0%), lasting for 10s. Additionally, decreases the Evasion Rate of one random enemy by 4.0% (10.0%). If Shimmer fails to activate, instead increases the EVA and RLD of your Vanguard by 5.0% (15.0%) for 10s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801400.png",
+    "max_level": 10
+  },
+  "801410": {
+    "id": 801410,
+    "type": 2,
+    "name": "Bravery Begets Boons",
+    "desc": "Reduces the DMG this ship takes from HE ammo and Burning by 5.0% (15.0%), and reduces the DMG all your other Main Fleet ships take by 4.0% (10.0%). Once per battle, when this ship's HP falls below 30.0% as a result of DMG taken: restores 3.5% (8.0%) of this ship's max HP, and increases her AA and EVA by 5.0% (15.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801410.png",
+    "max_level": 10
+  },
+  "801421": {
+    "id": 801421,
+    "type": 3,
+    "name": "Cinders of Hope - Hiei I",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG dealt by 5.0%",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801420.png",
+    "max_level": 1
+  },
+  "801422": {
+    "id": 801422,
+    "type": 3,
+    "name": "Cinders of Hope - Hiei II",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG dealt by 8.0%",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801420.png",
+    "max_level": 1
+  },
+  "801425": {
+    "id": 801425,
+    "type": 3,
+    "name": "Cinders of Hope - Hiei I",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG dealt by 5.0%",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801420.png",
+    "max_level": 1
+  },
+  "801427": {
+    "id": 801427,
+    "type": 3,
+    "name": "Cinders of Hope - Hiei II",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG dealt by 8.0%",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801420.png",
     "max_level": 1
   },
   "902220": {
