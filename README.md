@@ -49,19 +49,19 @@ We anticipate that the update process will be completed in 1~7 days or before Fe
 - [list of missing voiceline audio](/docs/MISSING_VOICELINE.md)
 
 ## Repository Size
-Repository contains 52265 files with a size of 9.41 GB (10101710109 B).
+Repository contains 52453 files with a size of 9.46 GB (10152309184 B).
 
 ### Audio
-Contains 36412 files with a size of 3.73 GB (4002117944 B).
+Contains 36544 files with a size of 3.74 GB (4015705070 B).
 
 - **BGM:**
   Contains 415 files with a size of 887.88 MB (931007697 B).
 
 - **Voiceline:**
-  Contains 1952 skins voiceline, 35997 files with a size of 2.86 GB (3071110247 B).
+  Contains 1961 skins voiceline, 36129 files with a size of 2.87 GB (3084697373 B).
 
 ### Images
-Contains 15793 files with a size of 5.62 GB (6039061646 B).
+Contains 15849 files with a size of 5.66 GB (6075924855 B).
 
 - **Background:**
   Contains 101 files with a size of 65.99 MB (69196201 B).
@@ -76,20 +76,20 @@ Contains 15793 files with a size of 5.62 GB (6039061646 B).
   Contains 1413 files with a size of 30.52 MB (32007433 B).
 
 - **Skins:**
-  Contains 1969 skins, 12659 files with a size of 5.49 GB (5895005969 B).
+  Contains 1977 skins, 12715 files with a size of 5.52 GB (5931869178 B).
 
   - **painting:**
-    Contains 2814 files with a size of 5.18 GB (5563131461 B).
+    Contains 2830 files with a size of 5.21 GB (5598589343 B).
   - **banner:**
-    Contains 1969 files with a size of 56.88 MB (59645466 B).
+    Contains 1977 files with a size of 57.11 MB (59884055 B).
   - **chibi:**
-    Contains 1969 files with a size of 67.96 MB (71259527 B).
+    Contains 1977 files with a size of 68.31 MB (71631561 B).
   - **icon:**
-    Contains 1969 files with a size of 40.03 MB (41977477 B).
+    Contains 1977 files with a size of 40.19 MB (42146755 B).
   - **qicon:**
-    Contains 1969 files with a size of 30.97 MB (32476127 B).
+    Contains 1977 files with a size of 31.10 MB (32614881 B).
   - **shipyard:**
-    Contains 1969 files with a size of 120.65 MB (126515911 B).
+    Contains 1977 files with a size of 121.12 MB (127002583 B).
 
 > [!NOTE]
 > Assets without auto-update are not included.

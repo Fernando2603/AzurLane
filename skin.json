@@ -5632,6 +5632,31 @@
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103244/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103244/shipyard.png"
   },
+  "103245": {
+    "id": 103245,
+    "gid": 10324,
+    "name": "Pillowed Counseling",
+    "type": "Dreamland Park",
+    "desc": "Hold still, Commander! You gotta relax in this position or else I can't do my thing. Take it easy and let me handle them weary bones. Alright, from your hands to your arms, then to your neck and shoulders, time to press down!",
+    "tag": [
+      "dynamic",
+      "bg"
+    ],
+    "illustrator": -1,
+    "illustrator2": -1,
+    "voice_actor": 134,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/180.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103245/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103245/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103245/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103245/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103245/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103245/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/103245/shipyard.png"
+  },
   "103248": {
     "id": 103248,
     "gid": 10324,
@@ -11887,6 +11912,31 @@
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/202101/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/202101/shipyard.png"
   },
+  "202102": {
+    "id": 202102,
+    "gid": 20210,
+    "name": "Violet Enrapturement",
+    "type": "Dreamland Park",
+    "desc": "Commander, please sit properly when you're riding the carousel, and refrain from haphazardly bouncing up and down... Why am I holding a whip, you ask? Why, as a trainer, it is my duty to instruct you on the proper usage of fairgrounds equipment.",
+    "tag": [
+      "dynamic",
+      "dynamicbg"
+    ],
+    "illustrator": 20,
+    "illustrator2": -1,
+    "voice_actor": 108,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/182.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/202102/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/202102/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/202102/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/202102/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/202102/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/202102/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/202102/shipyard.png"
+  },
   "202110": {
     "id": 202110,
     "gid": 20211,
@@ -12624,6 +12674,31 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/202203/icon.png",
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/202203/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/202203/shipyard.png"
+  },
+  "202204": {
+    "id": 202204,
+    "gid": 20220,
+    "name": "Rabbit of Paradise",
+    "type": "Dreamland Park",
+    "desc": "To you, Honourable Master, I dedicate this dance of paradise. It is something I have spent a great deal of time practicing... I do hope that it is to your liking.",
+    "tag": [
+      "live2d",
+      "dynamicbg"
+    ],
+    "illustrator": 1,
+    "illustrator2": -1,
+    "voice_actor": 169,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/159.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/202204/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/202204/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/202204/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/202204/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/202204/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/202204/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/202204/shipyard.png"
   },
   "202210": {
     "id": 202210,
@@ -25586,6 +25661,31 @@
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/305101/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/305101/shipyard.png"
   },
+  "305102": {
+    "id": 305102,
+    "gid": 30510,
+    "name": "The Purple Rabbit's Marksmanship",
+    "type": "Dreamland Park",
+    "desc": "...Hmph. Hitting such a target is but an easy feat for me... Commander, tell me which prize you want. I'll win it, along with all the other ones I've been asked to get.",
+    "tag": [
+      "live2d",
+      "dynamicbg"
+    ],
+    "illustrator": -1,
+    "illustrator2": -1,
+    "voice_actor": 64,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/181.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/305102/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/305102/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/305102/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/305102/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/305102/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/305102/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/305102/shipyard.png"
+  },
   "305108": {
     "id": 305108,
     "gid": 30510,
@@ -26230,6 +26330,30 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/306062/icon.png",
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/306062/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/306062/shipyard.png"
+  },
+  "306063": {
+    "id": 306063,
+    "gid": 30606,
+    "name": "The Dragon Slides In!",
+    "type": "Dreamland Park",
+    "desc": "Milooord! *splash*... Heheh, behold the amusement park's crown jewel – the Meandering Megamanjuu Dragon Slide! If that's too long, it's also known as the Manjuu Octopus Slide. Personally, though, I think the former name is cooler!",
+    "tag": [
+      "dynamicbg"
+    ],
+    "illustrator": 24,
+    "illustrator2": -1,
+    "voice_actor": 163,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/181.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/306063/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/306063/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/306063/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/306063/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/306063/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/306063/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/306063/shipyard.png"
   },
   "306070": {
     "id": 306070,
@@ -28165,6 +28289,31 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/319013/icon.png",
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/319013/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/319013/shipyard.png"
+  },
+  "319014": {
+    "id": 319014,
+    "gid": 31901,
+    "name": "Fresh and Sweet",
+    "type": "Dreamland Park",
+    "desc": "W-welcome... A bottle of milk is just as good after swimming in the pool as it is after bathing in a hot spring... Umm, should I really be wearing this? You seem to be blushing, Commander...",
+    "tag": [
+      "dynamic",
+      "dynamicbg"
+    ],
+    "illustrator": -1,
+    "illustrator2": -1,
+    "voice_actor": 243,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/181.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/319014/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/319014/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/319014/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/319014/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/319014/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/319014/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/319014/shipyard.png"
   },
   "399010": {
     "id": 399010,
@@ -33790,6 +33939,30 @@
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499071/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499071/shipyard.png"
   },
+  "499072": {
+    "id": 499072,
+    "gid": 49907,
+    "name": "Midnight Pearl",
+    "type": "Dreamland Park",
+    "desc": "You're late! I've been waiting ages for you! ...We never agreed to meet tonight? If I say we did, then we did! Anyway, you should feel bad! That's obvious!",
+    "tag": [
+      "bg"
+    ],
+    "illustrator": 1,
+    "illustrator2": -1,
+    "voice_actor": 328,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/180.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499072/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499072/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499072/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499072/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499072/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499072/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/499072/shipyard.png"
+  },
   "499080": {
     "id": 499080,
     "gid": 49908,
@@ -35485,6 +35658,30 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/519011/icon.png",
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/519011/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/519011/shipyard.png"
+  },
+  "519012": {
+    "id": 519012,
+    "gid": 51901,
+    "name": "Undercover or Uncovered?!",
+    "type": "Dreamland Park",
+    "desc": "Umm... Alright, time to take a photo in the on-set mirror and send it to Commander... And there. Just as Commander said, it'd be disastrous if my new swimsuit's design were to get leaked... B-but if I don't do this, our plans will totally be ruined!",
+    "tag": [
+      "bg"
+    ],
+    "illustrator": -1,
+    "illustrator2": -1,
+    "voice_actor": 353,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/145.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/519012/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/519012/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/519012/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/519012/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/519012/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/519012/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/519012/shipyard.png"
   },
   "599010": {
     "id": 599010,
@@ -42592,7 +42789,7 @@
     "gid": 970405,
     "name": "Hiei META",
     "type": "Default",
-    "desc": "unknown",
+    "desc": "Battlecruiser Hiei, at your service. What shall we do next, Commander? I am ready to patrol or head into battle, so let us sortie at your earliest convenience.",
     "tag": [],
     "illustrator": -1,
     "illustrator2": -1,

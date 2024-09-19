@@ -13523,7 +13523,7 @@
     "id": 150510,
     "type": 1,
     "name": "Waves of Bitter Cold",
-    "desc": "15s after the battle starts, and every 20s after that: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). Enemies hit by this barrage take 1.0% (10.0%) increased torpedo DMG from this ship for 8s. When this ship's torpedoes hit an enemy: decreases that",
+    "desc": "15s after the battle starts, and every 20s after that: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). Enemies hit by this barrage take 1.0% (10.0%) increased torpedo DMG from this ship for 8s. When this ship's torpedoes hit an enemy: decreases that enemy's SPD by 20.0% (40.0%) for 5s.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150510.png",
     "max_level": 10
   },
