@@ -49,19 +49,19 @@ We anticipate that the update process will be completed in 1~7 days or before Fe
 - [list of missing voiceline audio](/docs/MISSING_VOICELINE.md)
 
 ## Repository Size
-Repository contains 52453 files with a size of 9.46 GB (10152309173 B).
+Repository contains 52601 files with a size of 9.50 GB (10201055822 B).
 
 ### Audio
-Contains 36544 files with a size of 3.74 GB (4015705070 B).
+Contains 36647 files with a size of 3.75 GB (4030014700 B).
 
 - **BGM:**
-  Contains 415 files with a size of 887.88 MB (931007697 B).
+  Contains 417 files with a size of 891.26 MB (934559007 B).
 
 - **Voiceline:**
-  Contains 1961 skins voiceline, 36129 files with a size of 2.87 GB (3084697373 B).
+  Contains 1967 skins voiceline, 36230 files with a size of 2.88 GB (3095455693 B).
 
 ### Images
-Contains 15849 files with a size of 5.66 GB (6075924855 B).
+Contains 15894 files with a size of 5.69 GB (6110243392 B).
 
 - **Background:**
   Contains 101 files with a size of 65.99 MB (69196201 B).
@@ -73,23 +73,23 @@ Contains 15849 files with a size of 5.66 GB (6075924855 B).
   Contains 16 characters, 24 skills, and 91 talents assets with a total of 163 files and a combined size of 7.86 MB (8238566 B).
 
 - **Skills:**
-  Contains 1413 files with a size of 30.52 MB (32007433 B).
+  Contains 1416 files with a size of 30.59 MB (32075728 B).
 
 - **Skins:**
-  Contains 1977 skins, 12715 files with a size of 5.52 GB (5931869178 B).
+  Contains 1983 skins, 12757 files with a size of 5.56 GB (5966114902 B).
 
   - **painting:**
-    Contains 2830 files with a size of 5.21 GB (5598589343 B).
+    Contains 2842 files with a size of 5.24 GB (5631729467 B).
   - **banner:**
-    Contains 1977 files with a size of 57.11 MB (59884055 B).
+    Contains 1983 files with a size of 57.29 MB (60069569 B).
   - **chibi:**
-    Contains 1977 files with a size of 68.31 MB (71631561 B).
+    Contains 1983 files with a size of 68.61 MB (71941752 B).
   - **icon:**
-    Contains 1977 files with a size of 40.19 MB (42146755 B).
+    Contains 1983 files with a size of 40.31 MB (42269610 B).
   - **qicon:**
-    Contains 1977 files with a size of 31.10 MB (32614881 B).
+    Contains 1983 files with a size of 31.20 MB (32716893 B).
   - **shipyard:**
-    Contains 1977 files with a size of 121.12 MB (127002583 B).
+    Contains 1983 files with a size of 121.49 MB (127387611 B).
 
 > [!NOTE]
 > Assets without auto-update are not included.

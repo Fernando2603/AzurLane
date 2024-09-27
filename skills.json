@@ -15567,6 +15567,54 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801420.png",
     "max_level": 1
   },
+  "801430": {
+    "id": 801430,
+    "type": 1,
+    "name": "Harken, the Din of Destruction",
+    "desc": "Every 20s: 40.0% (70.0%) chance to launch a Lv.1 (Lv.10) special airstrike; if this airstrike does not launch, instead performs a Lv.1 (Lv.10) special attack (DMG of both of these attacks is based on the skill's level and this ship's AVI stat).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801430.png",
+    "max_level": 10
+  },
+  "801440": {
+    "id": 801440,
+    "type": 3,
+    "name": "Resound, the Refrain of Reversal",
+    "desc": "When this ship finishes loading an airstrike: increases your CVs' AVI by 5.0% (15.0%) for 8s; each time this effect activates, increases this ship's AVI and AA by 5.0% until the battle ends (can stack up to 3 times).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801440.png",
+    "max_level": 10
+  },
+  "801451": {
+    "id": 801451,
+    "type": 3,
+    "name": "Smoldering Core - Houshou I",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 2.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801450.png",
+    "max_level": 1
+  },
+  "801452": {
+    "id": 801452,
+    "type": 3,
+    "name": "Smoldering Core - Houshou II",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 6.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801450.png",
+    "max_level": 1
+  },
+  "801455": {
+    "id": 801455,
+    "type": 3,
+    "name": "Smoldering Core - Houshou I",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 2.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801450.png",
+    "max_level": 1
+  },
+  "801457": {
+    "id": 801457,
+    "type": 3,
+    "name": "Smoldering Core - Houshou II",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 6.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801450.png",
+    "max_level": 1
+  },
   "902220": {
     "id": 902220,
     "type": 2,

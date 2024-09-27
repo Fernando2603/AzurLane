@@ -9391,7 +9391,7 @@
   },
   "3720": {
     "name": "12-Pounder Long Gun",
-    "desc": "No description",
+    "desc": "A medium-sized cannon. Capable of firing a wide range of shells, it strikes fear into the hearts of your foes.",
     "label": [
       "MOT",
       "SF",
@@ -9550,7 +9550,7 @@
   },
   "3740": {
     "name": "Round Shot",
-    "desc": "No description",
+    "desc": "Show your strength and courage and crush the opponent!",
     "label": [
       "MOT",
       "DEV"
@@ -9656,7 +9656,7 @@
   },
   "3760": {
     "name": "Sail Components",
-    "desc": "No description",
+    "desc": "Hoist sails! The Seven Seas shall be ours!",
     "label": [
       "MOT",
       "DEV"

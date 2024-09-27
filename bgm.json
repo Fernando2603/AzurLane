@@ -2527,6 +2527,14 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-roma-outside.ogg"
   },
+  "story-room-sirius": {
+    "title": "story-room-sirius",
+    "size": 1843433,
+    "duration": 91.5330612244898,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-room-sirius.ogg"
+  },
   "story-startravel": {
     "title": "譏滄龍鬟樣ｩｰ_AL",
     "size": 1861224,
@@ -2943,6 +2951,14 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-roma-image.ogg"
   },
+  "theme-room-rosy": {
+    "title": "theme-room-rosy",
+    "size": 1707877,
+    "duration": 91.88136054421769,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-room-rosy.ogg"
+  },
   "theme-royalknights-battle": {
     "title": "theme-royalknights-battle騎士団進撃",
     "size": 1937887,
@@ -2969,7 +2985,7 @@
   },
   "theme-seaandsun-image": {
     "title": "起航的冒险者_2nd1",
-    "size": 1675968,
+    "size": 1676004,
     "duration": 90.00533333333334,
     "bitrate": 160.0,
     "sample_rate": 48000,
