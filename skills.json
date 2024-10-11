@@ -15823,6 +15823,14 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/10980.png",
     "max_level": 10
   },
+  "1011000": {
+    "id": 1011000,
+    "type": 1,
+    "name": "Courageous Shelling+",
+    "desc": "Increases this ship's FP by 5.0% (15.0%). Every 20s: 40.0% (70.0%) chance to fire a Lv.1 (Lv.10) powerful barrage. 10s after the battle starts, and every 20s after that: fires a Lv.1 (Lv.10) arcing barrage; the activation chance for the next powerful barrage increases by 30.0% and its power is increased if any of the targets hit by the arcing barrage meets one of the following conditions: 1) The target hit is a BB or a BC;\n2) The target hit is sunk within 3s;\nThe DMG of both these barrages is based on the skill's level.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/11000.png",
+    "max_level": 10
+  },
   "1011120": {
     "id": 1011120,
     "type": 1,
@@ -16349,6 +16357,14 @@
     "name": "Full Firepower - Exeter",
     "desc": "Once when the battle starts, and with a 30.0% (60.0%) chance every 20s after that: increases this ship's FP by 20.0% (40.0%) for 10s and fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). If this barrage hits the same enemy 4 times: inflicts Armor Break to that enemy for 6s; when this debuff expires, resets the hit counter to 0.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/2010.png",
+    "max_level": 10
+  },
+  "1090320": {
+    "id": 1090320,
+    "type": 2,
+    "name": "Emergency Maneuvers - Bulldog",
+    "desc": "Every 20s: 20.0% (40.0%) chance for this ship to evade all attacks for 6s. 3s after the battle starts, and every 15s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); when this barrage activates, increases this ship's FP and TRP by 1.0% (5.0%) until the battle ends (can be stacked up to 3 times).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/4070.png",
     "max_level": 10
   }
 }
