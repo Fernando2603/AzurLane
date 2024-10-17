@@ -109055,7 +109055,8 @@
     "class": "M Class",
     "nationality": 4,
     "obtain": [
-      "Event: Tower of Transcendence"
+      "Event: Tower of Transcendence",
+      "Light ship Construction"
     ],
     "type": 2,
     "rarity": 5,
@@ -111944,7 +111945,8 @@
     "class": "P Class ",
     "nationality": 4,
     "obtain": [
-      "Event: Tower of Transcendence"
+      "Event: Tower of Transcendence",
+      "Heavy Ship Construction"
     ],
     "type": 3,
     "rarity": 5,
@@ -115235,7 +115237,9 @@
     "class": "Ulrich von Hutten",
     "nationality": 4,
     "obtain": [
-      "Event: Tower of Transcendence"
+      "Event: Tower of Transcendence",
+      "Heavy/Special Construction",
+      "UR Exchange"
     ],
     "type": 5,
     "rarity": 6,
@@ -116392,7 +116396,8 @@
     "class": "Jade Class",
     "nationality": 4,
     "obtain": [
-      "Event: Tower of Transcendence"
+      "Event: Tower of Transcendence",
+      "Special Construction"
     ],
     "type": 6,
     "rarity": 4,
@@ -120182,7 +120187,8 @@
     "class": "Type VIIC",
     "nationality": 4,
     "obtain": [
-      "Event: Tower of Transcendence"
+      "Event: Tower of Transcendence",
+      "Merit Shop"
     ],
     "type": 8,
     "rarity": 4,
