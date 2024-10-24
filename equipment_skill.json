@@ -703,5 +703,20 @@
     "id": 60660,
     "name": "Fargo Direct Drone",
     "desc": "15s after the battle starts: deploys a Fargo Direct Drone."
+  },
+  "60680": {
+    "id": 60680,
+    "name": "Chest Full of Treasure",
+    "desc": "When the battle starts: spawns a treasure chest. While this treasure chest is on the battlefield: every 5s, a random ship in your fleet recovers 10 HP."
+  },
+  "60700": {
+    "id": 60700,
+    "name": "Grapeshot",
+    "desc": "During battle, decreases the RLD and ACC of enemies within 30 units of the wearer by 3.5%."
+  },
+  "60720": {
+    "id": 60720,
+    "name": "Rum Keg",
+    "desc": "Once per battle, when the wearer has taken a total of 5.0% of her max HP in DMG: for 15s, decreases the wearer's ACC by 1.0% and increases her DMG dealt by 5.0%."
   }
 }

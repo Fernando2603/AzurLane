@@ -2207,6 +2207,14 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-french2.ogg"
   },
+  "story-ghostnight-fascinsting": {
+    "title": "幽灵洋馆奇妙夜_AL",
+    "size": 1367772,
+    "duration": 68.26666666666667,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-ghostnight-fascinsting.ogg"
+  },
   "story-island-soft": {
     "title": "帕克菲克洋诸岛风光_PX",
     "size": 2302966,
@@ -2278,6 +2286,14 @@
     "bitrate": 160.0,
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-midgard.ogg"
+  },
+  "story-mirrorheart-mystic": {
+    "title": "髟應ｸｭ荵句ｿダshade",
+    "size": 3295847,
+    "duration": 163.0273015873016,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-mirrorheart-mystic.ogg"
   },
   "story-mmorpg": {
     "title": "从零开始的魔王讨伐之旅_G",
@@ -2559,6 +2575,22 @@
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-temepest-2.ogg"
   },
+  "story-tempest-light": {
+    "title": "蛻ｺ遐ｴ鬟取垓荵倶ｺｺ_AL",
+    "size": 1402599,
+    "duration": 69.33478458049886,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-tempest-light.ogg"
+  },
+  "story-tempest-marching": {
+    "title": "遨ｿ雜企｣朱岑荵倶ｺｺ_AL",
+    "size": 1188791,
+    "duration": 57.608707482993196,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-tempest-marching.ogg"
+  },
   "story-thehierophantv": {
     "title": "Listen to my voice_eden5th05",
     "size": 1991242,
@@ -2774,6 +2806,14 @@
     "bitrate": 160.0,
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-frederick.ogg"
+  },
+  "theme-ganjisawai": {
+    "title": "风雨祭祀之舞_AL",
+    "size": 2731766,
+    "duration": 131.6107029478458,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-ganjisawai.ogg"
   },
   "theme-haitian-soft-loop": {
     "title": "荳晁ｷｯ蠑･髻ｳ_Y_loop",

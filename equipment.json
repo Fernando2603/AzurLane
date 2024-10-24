@@ -90312,5 +90312,327 @@
         "anti_siren": 3
       }
     }
+  },
+  "150380": {
+    "name": "Chest Full of Treasure",
+    "desc": "A chest filled with gold and gems!",
+    "label": [
+      "MOT",
+      "DEV"
+    ],
+    "rarity": 5,
+    "nationality": 96,
+    "type": 10,
+    "skill": {
+      "60680": {
+        "id": 60680,
+        "name": "Chest Full of Treasure",
+        "desc": "When the battle starts: spawns a treasure chest. While this treasure chest is on the battlefield: every 5s, a random ship in your fleet recovers 10 HP."
+      }
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150380.png",
+    "stats": {
+      "1": {
+        "id": 150380,
+        "level": 1,
+        "enhance": "+0",
+        "durability": 250,
+        "reload": 3
+      },
+      "2": {
+        "id": 150381,
+        "level": 2,
+        "enhance": "+1",
+        "durability": 280,
+        "reload": 3
+      },
+      "3": {
+        "id": 150382,
+        "level": 3,
+        "enhance": "+2",
+        "durability": 310,
+        "reload": 4
+      },
+      "4": {
+        "id": 150383,
+        "level": 4,
+        "enhance": "+3",
+        "durability": 340,
+        "reload": 5
+      },
+      "5": {
+        "id": 150384,
+        "level": 5,
+        "enhance": "+4",
+        "durability": 370,
+        "reload": 6
+      },
+      "6": {
+        "id": 150385,
+        "level": 6,
+        "enhance": "+5",
+        "durability": 400,
+        "reload": 6
+      },
+      "7": {
+        "id": 150386,
+        "level": 7,
+        "enhance": "+6",
+        "durability": 430,
+        "reload": 7
+      },
+      "8": {
+        "id": 150387,
+        "level": 8,
+        "enhance": "+7",
+        "durability": 460,
+        "reload": 8
+      },
+      "9": {
+        "id": 150388,
+        "level": 9,
+        "enhance": "+8",
+        "durability": 490,
+        "reload": 9
+      },
+      "10": {
+        "id": 150389,
+        "level": 10,
+        "enhance": "+9",
+        "durability": 520,
+        "reload": 9
+      },
+      "11": {
+        "id": 150390,
+        "level": 11,
+        "enhance": "+10",
+        "durability": 550,
+        "reload": 10
+      },
+      "12": {
+        "id": 150391,
+        "level": 12,
+        "enhance": "+11",
+        "durability": 580,
+        "reload": 11,
+        "anti_siren": 1
+      },
+      "13": {
+        "id": 150392,
+        "level": 13,
+        "enhance": "+12",
+        "durability": 610,
+        "reload": 12,
+        "anti_siren": 2
+      },
+      "14": {
+        "id": 150393,
+        "level": 14,
+        "enhance": "+13",
+        "durability": 640,
+        "reload": 13,
+        "anti_siren": 3
+      }
+    }
+  },
+  "150400": {
+    "name": "Grapeshot",
+    "desc": "A special shell designed with lethality in mind. A must-have for capturing other vessels.",
+    "label": [
+      "MOT",
+      "DEV"
+    ],
+    "rarity": 4,
+    "nationality": 96,
+    "type": 10,
+    "skill": {
+      "60700": {
+        "id": 60700,
+        "name": "Grapeshot",
+        "desc": "During battle, decreases the RLD and ACC of enemies within 30 units of the wearer by 3.5%."
+      }
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150400.png",
+    "stats": {
+      "1": {
+        "id": 150400,
+        "level": 1,
+        "enhance": "+0",
+        "cannon": 14,
+        "hit": 4
+      },
+      "2": {
+        "id": 150401,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 16,
+        "hit": 4
+      },
+      "3": {
+        "id": 150402,
+        "level": 3,
+        "enhance": "+2",
+        "cannon": 18,
+        "hit": 5
+      },
+      "4": {
+        "id": 150403,
+        "level": 4,
+        "enhance": "+3",
+        "cannon": 20,
+        "hit": 5
+      },
+      "5": {
+        "id": 150404,
+        "level": 5,
+        "enhance": "+4",
+        "cannon": 22,
+        "hit": 6
+      },
+      "6": {
+        "id": 150405,
+        "level": 6,
+        "enhance": "+5",
+        "cannon": 24,
+        "hit": 7
+      },
+      "7": {
+        "id": 150406,
+        "level": 7,
+        "enhance": "+6",
+        "cannon": 26,
+        "hit": 7
+      },
+      "8": {
+        "id": 150407,
+        "level": 8,
+        "enhance": "+7",
+        "cannon": 28,
+        "hit": 8
+      },
+      "9": {
+        "id": 150408,
+        "level": 9,
+        "enhance": "+8",
+        "cannon": 30,
+        "hit": 8
+      },
+      "10": {
+        "id": 150409,
+        "level": 10,
+        "enhance": "+9",
+        "cannon": 32,
+        "hit": 9
+      },
+      "11": {
+        "id": 150410,
+        "level": 11,
+        "enhance": "+10",
+        "cannon": 35,
+        "hit": 10
+      },
+      "12": {
+        "id": 150411,
+        "level": 12,
+        "enhance": "+11",
+        "cannon": 38,
+        "hit": 10,
+        "anti_siren": 1
+      }
+    }
+  },
+  "150420": {
+    "name": "Rum Keg",
+    "desc": "An intoxicating beverage that lets you forget about the troubles of the pirate life.",
+    "label": [
+      "MOT",
+      "DEV"
+    ],
+    "rarity": 4,
+    "nationality": 96,
+    "type": 10,
+    "skill": {
+      "60720": {
+        "id": 60720,
+        "name": "Rum Keg",
+        "desc": "Once per battle, when the wearer has taken a total of 5.0% of her max HP in DMG: for 15s, decreases the wearer's ACC by 1.0% and increases her DMG dealt by 5.0%."
+      }
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150420.png",
+    "stats": {
+      "1": {
+        "id": 150420,
+        "level": 1,
+        "enhance": "+0",
+        "durability": 200
+      },
+      "2": {
+        "id": 150421,
+        "level": 2,
+        "enhance": "+1",
+        "durability": 230
+      },
+      "3": {
+        "id": 150422,
+        "level": 3,
+        "enhance": "+2",
+        "durability": 260
+      },
+      "4": {
+        "id": 150423,
+        "level": 4,
+        "enhance": "+3",
+        "durability": 290
+      },
+      "5": {
+        "id": 150424,
+        "level": 5,
+        "enhance": "+4",
+        "durability": 320
+      },
+      "6": {
+        "id": 150425,
+        "level": 6,
+        "enhance": "+5",
+        "durability": 350
+      },
+      "7": {
+        "id": 150426,
+        "level": 7,
+        "enhance": "+6",
+        "durability": 380
+      },
+      "8": {
+        "id": 150427,
+        "level": 8,
+        "enhance": "+7",
+        "durability": 410
+      },
+      "9": {
+        "id": 150428,
+        "level": 9,
+        "enhance": "+8",
+        "durability": 440
+      },
+      "10": {
+        "id": 150429,
+        "level": 10,
+        "enhance": "+9",
+        "durability": 470
+      },
+      "11": {
+        "id": 150430,
+        "level": 11,
+        "enhance": "+10",
+        "durability": 500
+      },
+      "12": {
+        "id": 150431,
+        "level": 12,
+        "enhance": "+11",
+        "durability": 530,
+        "anti_siren": 1
+      }
+    }
   }
 }

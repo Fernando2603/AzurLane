@@ -1266,5 +1266,81 @@
       142,
       5121
     ]
+  },
+  {
+    "id": 960041,
+    "name": "Every",
+    "rarity": "Super Rare",
+    "type": [],
+    "slot": null,
+    "timer": null,
+    "nationality": 96,
+    "stats": {
+      "command": 60,
+      "support": 33,
+      "tactic": 67
+    },
+    "skill": {
+      "name": "Fantastical Plunder",
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/96004.png",
+      "level": {
+        "1": {
+          "id": 960043,
+          "desc": "Once per battle, when the HP of a ship in your fleet falls below 30.0% as a result of DMG taken: restores 5.0% of that ship's HP.",
+          "opsi": "Once per battle, when the HP of a ship in your fleet falls below 30.0% as a result of DMG taken: restores 5.0% of that ship's HP."
+        }
+      }
+    },
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/960041/image.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/960041/icon.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/960041/banner.png",
+    "talent": [
+      5161,
+      831,
+      832,
+      151,
+      833,
+      5101,
+      152,
+      5131
+    ]
+  },
+  {
+    "id": 960051,
+    "name": "Roberts",
+    "rarity": "Elite",
+    "type": [],
+    "slot": null,
+    "timer": null,
+    "nationality": 96,
+    "stats": {
+      "command": 59,
+      "support": 31,
+      "tactic": 42
+    },
+    "skill": {
+      "name": "Honor Among Thieves",
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/96005.png",
+      "level": {
+        "1": {
+          "id": 960053,
+          "desc": "When assigned to a fleet with Royal Fortune: when the battle starts, fires a special barrage.",
+          "opsi": "When assigned to a fleet with Royal Fortune: when the battle starts, fires a special barrage."
+        }
+      }
+    },
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/960000/image.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/960000/icon.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/960000/banner.png",
+    "talent": [
+      5091,
+      901,
+      902,
+      141,
+      903,
+      5111,
+      142,
+      5131
+    ]
   }
 ]

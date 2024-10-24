@@ -292,6 +292,66 @@
     "available": true
   },
   {
+    "id": 151,
+    "group_id": 15,
+    "name": "Azure Sea Affinity - Rookie",
+    "desc": "Your whole fleet gains 3 FP, TRP, and AVI.",
+    "stats": [
+      {
+        "apply": [],
+        "stats": "Firepower",
+        "value": 3,
+        "type": "value"
+      },
+      {
+        "apply": [],
+        "stats": "Torpedo",
+        "value": 3,
+        "type": "value"
+      },
+      {
+        "apply": [],
+        "stats": "Aviation",
+        "value": 3,
+        "type": "value"
+      }
+    ],
+    "level": 2,
+    "next": 152,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/zhanlie_paoji_1.png",
+    "available": true
+  },
+  {
+    "id": 152,
+    "group_id": 15,
+    "name": "Azure Sea Affinity - Ace",
+    "desc": "Your whole fleet gains 6 FP, TRP, and AVI.",
+    "stats": [
+      {
+        "apply": [],
+        "stats": "Firepower",
+        "value": 6,
+        "type": "value"
+      },
+      {
+        "apply": [],
+        "stats": "Torpedo",
+        "value": 6,
+        "type": "value"
+      },
+      {
+        "apply": [],
+        "stats": "Aviation",
+        "value": 6,
+        "type": "value"
+      }
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/zhanlie_paoji_2.png",
+    "available": true
+  },
+  {
     "id": 201,
     "group_id": 20,
     "name": "Torpedo Rookie - Submarines",
@@ -1864,6 +1924,60 @@
     "level": 3,
     "next": 0,
     "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/zhanlie_one_3.png",
+    "available": true
+  },
+  {
+    "id": 831,
+    "group_id": 83,
+    "name": "Tempesta Lookout - Rookie",
+    "desc": "Your whole fleet gains 1 ACC.",
+    "stats": [
+      {
+        "apply": [],
+        "stats": "ACC",
+        "value": 1,
+        "type": "value"
+      }
+    ],
+    "level": 1,
+    "next": 832,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/teshu_one_1.png",
+    "available": true
+  },
+  {
+    "id": 832,
+    "group_id": 83,
+    "name": "Tempesta Lookout - Adept",
+    "desc": "Your whole fleet gains 2 ACC.",
+    "stats": [
+      {
+        "apply": [],
+        "stats": "ACC",
+        "value": 2,
+        "type": "value"
+      }
+    ],
+    "level": 2,
+    "next": 833,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/teshu_one_2.png",
+    "available": true
+  },
+  {
+    "id": 833,
+    "group_id": 83,
+    "name": "Tempesta's Eyes",
+    "desc": "Your whole fleet gains 3 ACC.",
+    "stats": [
+      {
+        "apply": [],
+        "stats": "ACC",
+        "value": 3,
+        "type": "value"
+      }
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/teshu_one_3.png",
     "available": true
   },
   {
@@ -3751,6 +3865,36 @@
         ],
         "stats": "Evasion",
         "value": 5,
+        "type": "value"
+      }
+    ],
+    "level": 1,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/special_one.png",
+    "available": true
+  },
+  {
+    "id": 5161,
+    "group_id": 516,
+    "name": "Ready for Battle",
+    "desc": "Your BBs, BCs, and IXMs gain 20 FP and your CVs gain 20 AVI.",
+    "stats": [
+      {
+        "apply": [
+          "BB",
+          "BC",
+          "IXM"
+        ],
+        "stats": "Firepower",
+        "value": 20,
+        "type": "value"
+      },
+      {
+        "apply": [
+          "CV"
+        ],
+        "stats": "Aviation",
+        "value": 20,
         "type": "value"
       }
     ],

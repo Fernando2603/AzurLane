@@ -11879,6 +11879,70 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30340.png",
     "max_level": 1
   },
+  "30351": {
+    "id": 30351,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Amity once every 28 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30350.png",
+    "max_level": 1
+  },
+  "30352": {
+    "id": 30352,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Amity once every 40 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30350.png",
+    "max_level": 1
+  },
+  "30361": {
+    "id": 30361,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Fancy once every 30 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30360.png",
+    "max_level": 1
+  },
+  "30362": {
+    "id": 30362,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Fancy once every 20 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30360.png",
+    "max_level": 1
+  },
+  "30371": {
+    "id": 30371,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Dolphin once every 28 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30370.png",
+    "max_level": 1
+  },
+  "30372": {
+    "id": 30372,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Dolphin once every 40 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30370.png",
+    "max_level": 1
+  },
+  "30381": {
+    "id": 30381,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Portsmouth Adventure once every 22 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30380.png",
+    "max_level": 1
+  },
+  "30382": {
+    "id": 30382,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Portsmouth Adventure once every 30 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30380.png",
+    "max_level": 1
+  },
   "101010": {
     "id": 101010,
     "type": 3,
@@ -13243,7 +13307,7 @@
     "id": 150170,
     "type": 3,
     "name": "Heartbroken Wings",
-    "desc": "Increases this ship's FP and TRP by 5.0% (15.0%). As long as there are Light Armor enemies within 45 units of this ship: decreases this ship's DMG taken by 5.0% (15.0%) and increases her DMG dealt to those Light Armor enemies by 5.0% (20.0%).",
+    "desc": "Increases this ship's FP and TRP by 5.0% (15.0%). As long as there are Light Armor enemies within 45 units of this ship: decreases this ship's DMG taken by 5.0% (15.0%) and increases her DMG dealt to those Light Armor enemies by 10.0% (20.0%).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150170.png",
     "max_level": 10
   },
@@ -13533,6 +13597,86 @@
     "name": "Chasing Brisk Waves",
     "desc": "Increases this ship's TRP and EVA by 5.0% (15.0%). When this ship fires her torpedoes: 15.0% (30.0%) chance to fire another wave of torpedoes.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150520.png",
+    "max_level": 10
+  },
+  "150530": {
+    "id": 150530,
+    "type": 3,
+    "name": "Invitation to Drowning Dreams",
+    "desc": "Decreases this ship's SPD by 10.0%. Enemies attacking this ship take 3.5% (8.0%) more DMG for 3s. Every 10 times this ship is attacked: restores 4.0% (10.0%) of this ship's max HP and fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); this effect can activate up to 3 times per battle. When this special barrage fires: for 10s, when this ship is attacked, it will not count toward the hits taken tally.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150530.png",
+    "max_level": 10
+  },
+  "150540": {
+    "id": 150540,
+    "type": 2,
+    "name": "A Void Dance",
+    "desc": "Increases this ship's FP by 5.0% (15.0%) and decreases her DMG taken by 15.0% (30.0%) until the battle ends. Once per battle, 5s after this ship's HP falls below 40.0% as a result of DMG taken, or 60s after this ship enters the battle: restores 10.0% of this ship's max HP and this ship leaves the battle.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150540.png",
+    "max_level": 10
+  },
+  "150560": {
+    "id": 150560,
+    "type": 1,
+    "name": "Abyssal Baptism",
+    "desc": "Increases this ship's FP and ACC by 5.0% (15.0%). Increases this ship's DMG dealt by 5.0% (15.0%) to enemies whose current HP is below 25.0%. Every 24 times the weapon in this ship's first weapon slot hits the same enemy: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150560.png",
+    "max_level": 10
+  },
+  "150570": {
+    "id": 150570,
+    "type": 3,
+    "name": "Phantom of the Deep",
+    "desc": "When the battle starts: deploys a tentacle barrier that can negate DMG equal to 1.0% (3.0%) of this ship's max HP. When this barrier is destroyed: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) and increases this ship's Evasion Rate by 4.0% (10.0%) for 20s. When this Evasion Rate buff expires: redeploys the aforementioned tentacle barrier.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150570.png",
+    "max_level": 10
+  },
+  "150580": {
+    "id": 150580,
+    "type": 2,
+    "name": "Winds of Purification and Restoration",
+    "desc": "Increases this ship's FP and ACC by 1.0% (10.0%). When this ship fires her Main Guns: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) and recovers 1.0% (3.0%) of this ship's max HP. When the battle starts, if there are 2 or more Tempesta ships afloat in this fleet, this HP recovery effect will also apply to your Vanguard ship with the lowest current HP percentage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150580.png",
+    "max_level": 10
+  },
+  "150590": {
+    "id": 150590,
+    "type": 3,
+    "name": "Guardian of Treasures",
+    "desc": "Every 15s after the battle starts: grants the Treasure Ship's Safeguard buff to a random ship in your fleet (excluding this ship); for 10s, this buff increases that ship's DMG dealt by 4.0% (10.0%) and decreases Ganj-i-Sawai's DMG taken by 10.0% (20.0%). If Ganj-i-Sawai lost less than a total of 15.0% of her max HP as a result of DMG taken while the buff is active: increases the buff recipient's DMG dealt by 2.0% until the battle ends; if Ganj-i-Sawai's total DMG taken exceeds 15.0%, the buff recipient loses 1.0% of her max HP instead. This buff cannot be applied to ships who have lost HP as a result of this skill's effect. Once per battle, if there are no eligible targets for this buff: increases Ganj-i-Sawai's DMG dealt by 4.0% (10.0%) until the battle ends.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150590.png",
+    "max_level": 10
+  },
+  "150600": {
+    "id": 150600,
+    "type": 2,
+    "name": "Dolphin's Echoes",
+    "desc": "During battle, increases this ship's DMG dealt by 1.0% (10.0%). 15s after this ship enters the battle: for 8s, performs a sonar scan, revealing enemy SSs, and decreases your Vanguard's torpedo DMG taken by 5.0% (15.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150600.png",
+    "max_level": 10
+  },
+  "150610": {
+    "id": 150610,
+    "type": 3,
+    "name": "Dolphin's Protection",
+    "desc": "Increases this ship's SPD by 3 and EVA and FP by 5.0% (15.0%). When this ship enters the battle, and every 15s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). When the sonar scan performed by the skill [Dolphin's Echoes] activates: restores 4.5% (12.0%) of this ship's max HP every second for 3s. 5s after this ship's current HP falls below 25.0%, or when she has been in battle for 60s: this ship leaves the battlefield.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150610.png",
+    "max_level": 10
+  },
+  "150630": {
+    "id": 150630,
+    "type": 1,
+    "name": "Stormchaser",
+    "desc": "Increases this ship's RLD and ACC by 5.0% (15.0%). Every 5s, or when your Vanguard sinks an enemy: increases this ship's FP by 1.0% (3.0%) until the battle ends; every 7 times this effect activates, this FP buff is removed and this ship fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150630.png",
+    "max_level": 10
+  },
+  "150640": {
+    "id": 150640,
+    "type": 2,
+    "name": "\"Spiritual\" Healing",
+    "desc": "When the battle starts: decreases this ship's DMG taken by 5.0% (15.0%). Every 30s, if a ship in your surface fleet has less than 50.0% of her max HP remaining, grants the Plastered status to the ship in your fleet with the lowest current HP percentage and restores 4.0% of that ship's max HP; the Plastered status lasts 15s and increases the target's FP by 4.0% (10.0%), but decreases her ACC by 15.0% (5.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150640.png",
     "max_level": 10
   },
   "800010": {
@@ -16365,6 +16509,46 @@
     "name": "Emergency Maneuvers - Bulldog",
     "desc": "Every 20s: 20.0% (40.0%) chance for this ship to evade all attacks for 6s. 3s after the battle starts, and every 15s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); when this barrage activates, increases this ship's FP and TRP by 1.0% (5.0%) until the battle ends (can be stacked up to 3 times).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/4070.png",
+    "max_level": 10
+  },
+  "10150530": {
+    "id": 10150530,
+    "type": 3,
+    "name": "Invitation to Drowning Dreams+",
+    "desc": "Decreases this ship's SPD by 10.0%. Enemies attacking this ship take 3.5% (8.0%) more DMG and have their EVA decreased by 4.0% for 4s. Every 10 times this ship is attacked: restores 4.0% (10.0%) of this ship's max HP and fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); this effect can activate up to 3 times per battle. When this special barrage fires: for 5s, when this ship is attacked, it will not count toward the hits taken tally.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150530.png",
+    "max_level": 10
+  },
+  "10150570": {
+    "id": 10150570,
+    "type": 3,
+    "name": "Phantom of the Deep+",
+    "desc": "When the battle starts: deploys a tentacle barrier that can negate DMG equal to 1.0% (5.0%) of this ship's max HP. When this barrier is destroyed: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) and increases this ship's Evasion Rate by 4.0% (10.0%) for 10s. When this Evasion Rate buff expires: redeploys the aforementioned tentacle barrier.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150570.png",
+    "max_level": 10
+  },
+  "10150580": {
+    "id": 10150580,
+    "type": 2,
+    "name": "Winds of Purification and Restoration+",
+    "desc": "Increases this ship's FP and ACC by 1.0% (10.0%) and changes her Armor Type to Medium Armor. When this ship fires her Main Guns: fires a Lv.1 (Lv.10) improved special barrage (barrage pattern and DMG is based on the skill's level) and recovers 1.0% (3.0%) max HP for this ship and your Vanguard ship with the lowest current HP percentage. When the battle starts, if there are 2 or more Tempesta ships afloat in this fleet, this HP recovery effect will apply to this ship and the entire Vanguard.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150580.png",
+    "max_level": 10
+  },
+  "10150600": {
+    "id": 10150600,
+    "type": 2,
+    "name": "Dolphin's Echoes+",
+    "desc": "During battle, increases this ship's DMG dealt by 1.0% (10.0%). 15s after this ship enters the battle: for 8s, performs a sonar scan, revealing enemy SSs and decreasing their ACC by 15.0% (25.0%) for the duration of the scan, and decreases your Vanguard's torpedo DMG taken by 5.0% (15.0%). A random scanned enemy has their DMG taken increased by 3.5% (8.0%) for 8s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150600.png",
+    "max_level": 10
+  },
+  "10150640": {
+    "id": 10150640,
+    "type": 2,
+    "name": "\"Spiritual\" Healing+",
+    "desc": "When the battle starts: decreases this ship's DMG taken by 5.0% (15.0%). Every 20s, if a ship in your surface fleet has less than 50.0% of her max HP remaining, grants the Plastered status to the ship in your fleet with the lowest current HP percentage and restores 4.0% of that ship's max HP; the Plastered status lasts 15s and increases the target's FP, Crit Rate, and Crit DMG by 5.0% (15.0%), but decreases her ACC by 15.0% (5.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150640.png",
     "max_level": 10
   }
 }
