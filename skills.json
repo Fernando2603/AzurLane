@@ -13379,7 +13379,7 @@
     "id": 150260,
     "type": 3,
     "name": "Bravery Bestowed",
-    "desc": "Increases this ship's FP and ACC by 5.0% (15.0%) and increases your Vichya Dominion Vanguard ships' FP and AA by 1.0% (10.0%). Enemies hit by this ship's Main Guns take 5.0% increases cannon and aircraft DMG from your Vichya Dominion ships for 6s.",
+    "desc": "Increases this ship's FP and ACC by 5.0% (15.0%) and increases your Vichya Dominion Vanguard ships' FP and AA by 1.0% (10.0%). Enemies hit by this ship's Main Guns take 5.0% increasesd cannon and aircraft DMG from your Vichya Dominion ships for 6s.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150260.png",
     "max_level": 10
   },
