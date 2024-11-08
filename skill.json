@@ -6946,7 +6946,7 @@
   "18010": {
     "id": 18010,
     "type": 1,
-    "name": "MKV-Class AP Shells 194/160+",
+    "name": "MKV-Class AP Shells+",
     "desc": "Increases this ship's DMG with AP by 20.0% (40.0%).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/18010.png",
     "max_level": 10
@@ -16247,6 +16247,14 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/17270.png",
     "max_level": 10
   },
+  "1019020": {
+    "id": 1019020,
+    "type": 2,
+    "name": "Goddess of the Sea+",
+    "desc": "Increases this ship's Crit Rate by 10.0% (20.0%). Every 10s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) and deploys a barrier (lasts 5s) that can negate DMG equal to 5.0% of this ship's max HP. Once per battle, when this ship's HP falls below 20.0% as a result of DMG taken: restores 15% (25%) of this ship's max HP and increases this ship's RLD by 30.0% until the battle ends.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19020.png",
+    "max_level": 10
+  },
   "1019060": {
     "id": 1019060,
     "type": 1,
@@ -16509,6 +16517,14 @@
     "name": "Emergency Maneuvers - Bulldog",
     "desc": "Every 20s: 20.0% (40.0%) chance for this ship to evade all attacks for 6s. 3s after the battle starts, and every 15s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); when this barrage activates, increases this ship's FP and TRP by 1.0% (5.0%) until the battle ends (can be stacked up to 3 times).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/4070.png",
+    "max_level": 10
+  },
+  "1090330": {
+    "id": 1090330,
+    "type": 3,
+    "name": "Torpedo Command - Shiratsuyu",
+    "desc": "Increases your Vanguard's TRP by 5% (15%) (does not stack with similar skills). Every 5s: fires a Lv.1 (Lv.10) special torpedo barrage (DMG is based on the skill's level and this ship's TRP stat).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/1010.png",
     "max_level": 10
   },
   "10150530": {
