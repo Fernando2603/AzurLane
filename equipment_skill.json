@@ -718,5 +718,40 @@
     "id": 60720,
     "name": "Rum Keg",
     "desc": "Once per battle, when the wearer has taken a total of 5.0% of her max HP in DMG: for 15s, decreases the wearer's ACC by 1.0% and increases her DMG dealt by 5.0%."
+  },
+  "60730": {
+    "id": 60730,
+    "name": "Bubbly-Boily Chef",
+    "desc": "Every 20s: restores 1.0% of the wearer's max HP (can activate up to 3 times per battle)."
+  },
+  "60740": {
+    "id": 60740,
+    "name": "Sales Boosta-Bot",
+    "desc": "When the battle starts: increases the wearer's ACC by 3.5% for 50s."
+  },
+  "60750": {
+    "id": 60750,
+    "name": "Sneaky-Stealthy Prowler",
+    "desc": "Once per battle, when the wearer has taken DMG equal to a total of 25.0% of her max HP: the wearer enters Stealth mode and evades all attacks for 1.5s."
+  },
+  "60760": {
+    "id": 60760,
+    "name": "All Work, All Play Robot",
+    "desc": "Every 20s: increases the wearer's DMG dealt just a little bit (can activate up to 3 times per battle)."
+  },
+  "60770": {
+    "id": 60770,
+    "name": "Speedy Sprouty Botanist",
+    "desc": "Might make the enemy grow a little bigger."
+  },
+  "60780": {
+    "id": 60780,
+    "name": "Spooky Scary Specter",
+    "desc": "When the wearer fires her Main Guns: makes the mood kinda spooky."
+  },
+  "60790": {
+    "id": 60790,
+    "name": "More-y Glory Aura Booster",
+    "desc": "The wearer emits a special, charismatic aura during battle."
   }
 }

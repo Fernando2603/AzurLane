@@ -2503,6 +2503,14 @@
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-quiet.ogg"
   },
+  "story-richang-refreshing": {
+    "title": "譛ｬ譌･17ﾂｰC_AL",
+    "size": 1601327,
+    "duration": 75.44163265306122,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-refreshing.ogg"
+  },
   "story-richang-relax": {
     "title": "BZM_28",
     "size": 1263080,
@@ -2510,6 +2518,14 @@
     "bitrate": 160.0,
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-relax.ogg"
+  },
+  "story-richang-rosy-short": {
+    "title": "霑ｷ荵ｱ遘区律_AL",
+    "size": 1049709,
+    "duration": 53.19691609977324,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-rosy-short.ogg"
   },
   "story-richang-sooth": {
     "title": "BZM_29",
@@ -3278,6 +3294,38 @@
     "bitrate": 160.0,
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-yixian-soft-loop.ogg"
+  },
+  "tl-battle": {
+    "title": "天真爛漫!オトメ冥利☆",
+    "size": 4715064,
+    "duration": 230.78312925170067,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/tl-battle.ogg"
+  },
+  "tl-battle-inst": {
+    "title": "天真爛漫!オトメ冥利☆ (Instrumental)",
+    "size": 4752995,
+    "duration": 231.7815873015873,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/tl-battle-inst.ogg"
+  },
+  "tl-theme-1": {
+    "title": "縺昴＠縺ｦ蜷帙→諱九ｒ縺吶ｋ",
+    "size": 6029307,
+    "duration": 285.67510204081634,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/tl-theme-1.ogg"
+  },
+  "tl-theme-2": {
+    "title": "Beyond The Darkness",
+    "size": 4566301,
+    "duration": 222.58648526077098,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/tl-theme-2.ogg"
   },
   "us20200401": {
     "title": "Azur Lane remix demo3",

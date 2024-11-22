@@ -13191,6 +13191,158 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/110190.png",
     "max_level": 1
   },
+  "111010": {
+    "id": 111010,
+    "type": 2,
+    "name": "Go Go Vacuum-Kun!",
+    "desc": "Increases this ship's EVA by 5.0% (15.0%). Every 4 times this ship fires her Main Guns: summons Go Go Vacuum-kun, decreasing this ship's DMG taken by 4.5% (12.0%) for 8s. Go Go Vacuum-kun draws in nearby enemies; affected enemies have their FP, TRP, and AA decreased by 5.0% for 8s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/111010.png",
+    "max_level": 10
+  },
+  "111020": {
+    "id": 111020,
+    "type": 1,
+    "name": "Almighty Fighting Inventorator!",
+    "desc": "Increases this ship's FP and ACC by 1.0% (10.0%). Every 20s after the battle starts: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) and decreases the AA by 1.0% (3.0%) and ACC by 5.0% (15.0%) for 8s for all on-field enemies at the time of activation. 3s after this effect activates: decreases this ship's AA by 1.0% for 1s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/111020.png",
+    "max_level": 10
+  },
+  "111030": {
+    "id": 111030,
+    "type": 1,
+    "name": "Almighty Fighting Inventorator!+",
+    "desc": "Increases this ship's FP and ACC by 5.0% (15.0%). Every 20s after the battle starts: fires an improved Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) and decreases the AA by 1.5% (5.0%) and ACC by 5.0% (15.0%) for 8s for all on-field enemies at the time of activation. 3s after this effect activates: decreases this ship's AA by 1.0% for 1s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/111020.png",
+    "max_level": 10
+  },
+  "111040": {
+    "id": 111040,
+    "type": 1,
+    "name": "Alien Animal Friend",
+    "desc": "Increases this ship's TRP and ACC by 5.0% (15.0%). Every 10 times this ship fires her Main Guns: summons an alien animal friend and fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). Enemies hit by this special barrage take 10.0% more torpedo DMG from this ship.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/111040.png",
+    "max_level": 10
+  },
+  "111050": {
+    "id": 111050,
+    "type": 3,
+    "name": "Overpowering Will",
+    "desc": "When this ship is attacked: 4.0% (10.0%) chance to increase this ship's Evasion Rate by 3.5% (8.0%) for 5s (8s cooldown between activations). Once per battle, when this ship's HP falls below 30.0% as a result of DMG taken: restores 10.0% (20.0%) of this ship's max HP and increases her EVA by 5.0% (15.0%) until the battle ends.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/111050.png",
+    "max_level": 10
+  },
+  "111060": {
+    "id": 111060,
+    "type": 1,
+    "name": "Alien Animal Friend+",
+    "desc": "Increases this ship's TRP and ACC by 5.0% (15.0%). Every 10 times this ship fires her Main Guns: summons an alien animal friend and fires a Lv.1 (Lv.10) special barrage (improved; DMG is based on the skill's level). Enemies hit by this special barrage take 10.0% more torpedo DMG from this ship.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/111040.png",
+    "max_level": 10
+  },
+  "111070": {
+    "id": 111070,
+    "type": 1,
+    "name": "Alien Plant Friend",
+    "desc": "Increases this ship's FP by 5.0% (15.0%). Every 8 times this ship fires her Main Guns: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). When the battle starts, and every 20s: summons an alien plant friend. The alien plant friend persists on the field for 15s and attacks enemies using its own equipment; its stats change based on Momo's stats and the skill's level.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/111070.png",
+    "max_level": 10
+  },
+  "111080": {
+    "id": 111080,
+    "type": 1,
+    "name": "Alien Plant Friend+",
+    "desc": "Increases this ship's FP and TRP by 5.0% (15.0%). Every 8 times this ship fires her Main Guns: fires a Lv.1 (Lv.10) special barrage (improved; DMG is based on the skill's level). When the battle starts, and every 20s: summons an alien plant friend. The alien plant friend persists on the field for 15s and attacks enemies using its own equipment; its stats change based on Momo's stats and the skill's level. Once per battle, when this ship's HP falls below 15.0% (35.0%) as a result of DMG taken: fires a Lv.1 (Lv.10) special barrage (improved; DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/111070.png",
+    "max_level": 10
+  },
+  "111090": {
+    "id": 111090,
+    "type": 3,
+    "name": "Secret Schemes",
+    "desc": "Decreases this ship's DMG taken by 1.0% (10.0%). If this ship is the frontmost ship of your Vanguard: increases this ship's AA and EVA by 1.0% (10.0%); if NOT the frontmost ship, increases RLD and ACC by 1.0% (10.0%).\nWhen the battle starts, and every 10s: picks one random other ally without the Plan Execution status and increases their EVA by 1.5% (5.0%) for 8s, then gives that ally the Plan Execution status afterward.\nEvery 20s: for 10s, increases your fleet's DMG dealt by 1.5% (5.0%) and grants Momo and all allies with the Plan Execution status the following buffs:\n1) If the recipient is in your Vanguard, restores 1.0% (2.0%) of the recipient's max HP and increases her FP and TRP by 1.5% (5.0%);\n2) If the recipient is in your Main Fleet: restores 1.0% (2.0%) of the recipient's max HP and increases her FP and AVI by 1.5% (5.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/111090.png",
+    "max_level": 10
+  },
+  "111100": {
+    "id": 111100,
+    "type": 1,
+    "name": "Armament Swap",
+    "desc": "Increases this ship's Main Gun efficiency by 1.0% (10.0%). When this ship fires her Main Guns, selects 1 random enemy and activates one of the following effects based on the enemy's Armor Type:\n1) Light Armor: fires a Lv.1 (Lv.10) special high-explosive shell barrage (DMG is based on the skill's level);\n2) Medium or Heavy Armor: fires a Lv.1 (Lv.10) armor-piercing shell special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/111100.png",
+    "max_level": 10
+  },
+  "111110": {
+    "id": 111110,
+    "type": 1,
+    "name": "Armament Swap+",
+    "desc": "Increases this ship's Main Gun efficiency by 10.0% (20.0%). When this ship fires her Main Guns, selects 1 random enemy and activates one of the following effects based on the enemy's Armor Type:\n1) Light Armor: fires a Lv.1 (Lv.10) special high-explosive shell barrage (DMG is based on the skill's level) that decreases the SPD of enemies hit by 20.0% for 6s (does not stack with similar effects);\n2) Medium or Heavy Armor: fires a Lv.1 (Lv.10) armor-piercing shell special barrage (DMG is based on the skill's level) that increases the cannon DMG taken of enemies hit by 5.0% for 6s (does not stack with similar effects).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/111100.png",
+    "max_level": 10
+  },
+  "111120": {
+    "id": 111120,
+    "type": 2,
+    "name": "I Love Taiyaki!",
+    "desc": "Increases this ship's FP and ACC by 5.0% (15.0%). 30s after the battle starts, and the first time each battle when this ship's HP falls below 50.0% as a result of DMG taken, activates the following effects: 1) Restores 3.5% (8.0%) of this ship's max HP;\n2) Increases this ship's EVA and AA by 5.0% (15.0%) until the battle ends (can only activate once per battle).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/111120.png",
+    "max_level": 10
+  },
+  "111130": {
+    "id": 111130,
+    "type": 2,
+    "name": "Love Concealed",
+    "desc": "When the battle starts: marks the ally (excluding this ship) with the lowest current HP percentage and restores 5.0% of her max HP. The recipient of this effect has her DMG taken decreased by 3.5% (8.0%) until the battle ends and, once per battle, if her HP falls below 20.0% as a result of DMG taken: restores 1.0% (10.0%) of the recipient's HP. When a recipient of this skill receives healing from any source other than this skill: removes the mark.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/111130.png",
+    "max_level": 10
+  },
+  "111140": {
+    "id": 111140,
+    "type": 2,
+    "name": "Love Concealed+",
+    "desc": "When the battle starts: marks the ally (excluding this ship) with the lowest current HP percentage and restores 5.0% of her max HP. The recipient of this effect has her DMG taken decreased by 3.5% (8.0%) until the battle ends and, once per battle, if her HP falls below 20.0% as a result of DMG taken: restores 1.0% (10.0%) of the recipient's HP. Once per battle, when a recipient of this skill receives healing from any source other than this skill: increases the recipient's DMG dealt by 5.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/111130.png",
+    "max_level": 10
+  },
+  "111150": {
+    "id": 111150,
+    "type": 1,
+    "name": "Be Still, My Heart!",
+    "desc": "When this ship fires her Main Guns: 40.0% (70.0%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). Once per battle, when this ship's HP falls below 80.0% as a result of DMG taken, or when an enemy gets within 80 units of this ship, this ship gains the following buffs until the battle ends: 1) Decreases the loading time of this ship's Main Guns by 20.0%, decreases her Main Guns' DMG dealt by 10.0%, and increases the activation chance of the above special barrage by 30.0%;\n2) When this ship fires her Main Guns: throws an emergency fire extinguisher that inflicts Armor Break on the enemy hit.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/111150.png",
+    "max_level": 10
+  },
+  "111160": {
+    "id": 111160,
+    "type": 1,
+    "name": "Scandalous!",
+    "desc": "Every 20 (10)s: 40% (70%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). If the ruler shells from this barrage hit the same enemy 3 times: inflicts Armor Break to that enemy and increases their aircraft DMG taken by 5.0% until the battle ends; when the handcuff shells from this barrage hit an enemy: decreases that enemy's SPD by 15.0% for 3s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/111160.png",
+    "max_level": 10
+  },
+  "111170": {
+    "id": 111170,
+    "type": 1,
+    "name": "Scandalous!+",
+    "desc": "Every 20 (10)s: 70% (100%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). If the ruler shells from this barrage hit the same enemy 3 times: inflicts Armor Break to that enemy and increases their aircraft DMG taken by 5.0% until the battle ends; when the handcuff shells from this barrage hit an enemy: decreases that enemy's SPD by 15.0% for 3s. When this skill has inflicted Armor Break 3 times or more: increases this ship's AVI by 1.0% (10.0%) until the battle ends.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/111160.png",
+    "max_level": 10
+  },
+  "111180": {
+    "id": 111180,
+    "type": 3,
+    "name": "Overbearing Outside, Softie Inside",
+    "desc": "Increases this ship's AA by 1.0% (10.0%) and decreases your Vanguard's DMG taken by 1.0% (5.0%). When any other ship in your fleet is attacked: 30.0% chance to launch a Lv.1 (Lv.10) special airstrike (DMG is based on the skill's level; 20s cooldown between activations).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/111180.png",
+    "max_level": 10
+  },
+  "111230": {
+    "id": 111230,
+    "type": 1,
+    "name": "Living Weapon",
+    "desc": "Every 30s: performs a slashing attack.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/111100.png",
+    "max_level": 10
+  },
   "150000": {
     "id": 150000,
     "type": 2,
@@ -14043,7 +14195,7 @@
     "id": 800291,
     "type": 3,
     "name": "Cinders of Hope - Gneisenau I",
-    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or boss fleets: increases this ship's Crit DMG by 5.0%",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG by 5.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800290.png",
     "max_level": 1
   },
@@ -14051,7 +14203,7 @@
     "id": 800292,
     "type": 3,
     "name": "Cinders of Hope - Gneisenau II",
-    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or boss fleets: increases this ship's Crit DMG by 8.0%.",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG by 8.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800290.png",
     "max_level": 1
   },
@@ -14059,7 +14211,7 @@
     "id": 800295,
     "type": 3,
     "name": "Cinders of Hope - Gneisenau I",
-    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or boss fleets: increases this ship's Crit DMG by 5.0%",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG by 5.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800250.png",
     "max_level": 1
   },
@@ -14067,7 +14219,7 @@
     "id": 800297,
     "type": 3,
     "name": "Cinders of Hope - Gneisenau II",
-    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or boss fleets: increases this ship's Crit DMG by 8.0%.",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG by 8.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800290.png",
     "max_level": 1
   },
@@ -14691,7 +14843,7 @@
     "id": 800741,
     "type": 3,
     "name": "Cinders of Hope - Queen Elizabeth",
-    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG dealt by 5.0%.",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG by 5.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800740.png",
     "max_level": 1
   },
@@ -14699,7 +14851,7 @@
     "id": 800742,
     "type": 3,
     "name": "Cinders of Hope - Queen Elizabeth",
-    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG dealt by 8.0%.",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG by 8.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800740.png",
     "max_level": 1
   },
@@ -14707,7 +14859,7 @@
     "id": 800745,
     "type": 3,
     "name": "Cinders of Hope - Queen Elizabeth",
-    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG dealt by 5.0%.",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG by 5.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800740.png",
     "max_level": 1
   },
@@ -14715,7 +14867,7 @@
     "id": 800747,
     "type": 3,
     "name": "Cinders of Hope - Queen Elizabeth",
-    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG dealt by 8.0%.",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG by 8.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/800740.png",
     "max_level": 1
   },
@@ -15683,7 +15835,7 @@
     "id": 801421,
     "type": 3,
     "name": "Cinders of Hope - Hiei I",
-    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG dealt by 5.0%",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG by 5.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801420.png",
     "max_level": 1
   },
@@ -15691,7 +15843,7 @@
     "id": 801422,
     "type": 3,
     "name": "Cinders of Hope - Hiei II",
-    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG dealt by 8.0%",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG by 8.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801420.png",
     "max_level": 1
   },
@@ -15699,7 +15851,7 @@
     "id": 801425,
     "type": 3,
     "name": "Cinders of Hope - Hiei I",
-    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG dealt by 5.0%",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG by 5.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801420.png",
     "max_level": 1
   },
@@ -15707,7 +15859,7 @@
     "id": 801427,
     "type": 3,
     "name": "Cinders of Hope - Hiei II",
-    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG dealt by 8.0%",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG by 8.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801420.png",
     "max_level": 1
   },
@@ -15757,6 +15909,54 @@
     "name": "Smoldering Core - Houshou II",
     "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 6.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801450.png",
+    "max_level": 1
+  },
+  "801460": {
+    "id": 801460,
+    "type": 1,
+    "name": "Veni, Vidi, Vici!",
+    "desc": "Every 18s: 40.0% (70.0%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). Increases this ship's DMG dealt by 4.0% (10.0%) against enemies hit by this barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801460.png",
+    "max_level": 10
+  },
+  "801470": {
+    "id": 801470,
+    "type": 1,
+    "name": "Conqueror of the Empire",
+    "desc": "Increases this ship's FP and RLD by 4.0% (10.0%). Decreases the DMG-reducing effect of the Out of Ammo debuff by 5.0% (15.0%). Once per battle, when this ship's HP falls below 60.0% as a result of DMG taken: increases this ship's DMG dealt by 4.0% (10.0%) until the battle ends.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801470.png",
+    "max_level": 10
+  },
+  "801481": {
+    "id": 801481,
+    "type": 3,
+    "name": "Cinders of Hope - Giulio Cesare I",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG by 5.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801480.png",
+    "max_level": 1
+  },
+  "801482": {
+    "id": 801482,
+    "type": 3,
+    "name": "Cinders of Hope - Giulio Cesare II",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG by 8.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801480.png",
+    "max_level": 1
+  },
+  "801485": {
+    "id": 801485,
+    "type": 3,
+    "name": "Cinders of Hope - Giulio Cesare I",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG by 5.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801480.png",
+    "max_level": 1
+  },
+  "801487": {
+    "id": 801487,
+    "type": 3,
+    "name": "Cinders of Hope - Giulio Cesare II",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG by 8.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801480.png",
     "max_level": 1
   },
   "902220": {

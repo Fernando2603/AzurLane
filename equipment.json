@@ -90634,5 +90634,824 @@
         "anti_siren": 1
       }
     }
+  },
+  "150440": {
+    "name": "Bubbly-Boily Chef",
+    "desc": "Cooks tasty food at a molecular level!",
+    "label": [
+      "DEV"
+    ],
+    "rarity": 5,
+    "nationality": 111,
+    "type": 10,
+    "skill": {
+      "60730": {
+        "id": 60730,
+        "name": "Bubbly-Boily Chef",
+        "desc": "Every 20s: restores 1.0% of the wearer's max HP (can activate up to 3 times per battle)."
+      }
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150440.png",
+    "stats": {
+      "1": {
+        "id": 150440,
+        "level": 1,
+        "enhance": "+0",
+        "durability": 200,
+        "luck": 1
+      },
+      "2": {
+        "id": 150441,
+        "level": 2,
+        "enhance": "+1",
+        "durability": 230,
+        "luck": 1
+      },
+      "3": {
+        "id": 150442,
+        "level": 3,
+        "enhance": "+2",
+        "durability": 260,
+        "luck": 1
+      },
+      "4": {
+        "id": 150443,
+        "level": 4,
+        "enhance": "+3",
+        "durability": 290,
+        "luck": 1
+      },
+      "5": {
+        "id": 150444,
+        "level": 5,
+        "enhance": "+4",
+        "durability": 320,
+        "luck": 1
+      },
+      "6": {
+        "id": 150445,
+        "level": 6,
+        "enhance": "+5",
+        "durability": 350,
+        "luck": 1
+      },
+      "7": {
+        "id": 150446,
+        "level": 7,
+        "enhance": "+6",
+        "durability": 380,
+        "luck": 1
+      },
+      "8": {
+        "id": 150447,
+        "level": 8,
+        "enhance": "+7",
+        "durability": 410,
+        "luck": 1
+      },
+      "9": {
+        "id": 150448,
+        "level": 9,
+        "enhance": "+8",
+        "durability": 440,
+        "luck": 1
+      },
+      "10": {
+        "id": 150449,
+        "level": 10,
+        "enhance": "+9",
+        "durability": 470,
+        "luck": 1
+      },
+      "11": {
+        "id": 150450,
+        "level": 11,
+        "enhance": "+10",
+        "durability": 500,
+        "luck": 2
+      },
+      "12": {
+        "id": 150451,
+        "level": 12,
+        "enhance": "+11",
+        "durability": 530,
+        "luck": 2,
+        "anti_siren": 1
+      },
+      "13": {
+        "id": 150452,
+        "level": 13,
+        "enhance": "+12",
+        "durability": 560,
+        "luck": 2,
+        "anti_siren": 2
+      },
+      "14": {
+        "id": 150453,
+        "level": 14,
+        "enhance": "+13",
+        "durability": 590,
+        "luck": 2,
+        "anti_siren": 3
+      }
+    }
+  },
+  "150460": {
+    "name": "Sales Boosta-Bot",
+    "desc": "Reads customers' minds and hearts. It might backfire if you use it for evil!",
+    "label": [
+      "DEV"
+    ],
+    "rarity": 5,
+    "nationality": 111,
+    "type": 10,
+    "skill": {
+      "60740": {
+        "id": 60740,
+        "name": "Sales Boosta-Bot",
+        "desc": "When the battle starts: increases the wearer's ACC by 3.5% for 50s."
+      }
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150460.png",
+    "stats": {
+      "1": {
+        "id": 150460,
+        "level": 1,
+        "enhance": "+0",
+        "dodge": 6,
+        "hit": 16
+      },
+      "2": {
+        "id": 150461,
+        "level": 2,
+        "enhance": "+1",
+        "dodge": 7,
+        "hit": 16
+      },
+      "3": {
+        "id": 150462,
+        "level": 3,
+        "enhance": "+2",
+        "dodge": 7,
+        "hit": 17
+      },
+      "4": {
+        "id": 150463,
+        "level": 4,
+        "enhance": "+3",
+        "dodge": 8,
+        "hit": 18
+      },
+      "5": {
+        "id": 150464,
+        "level": 5,
+        "enhance": "+4",
+        "dodge": 9,
+        "hit": 19
+      },
+      "6": {
+        "id": 150465,
+        "level": 6,
+        "enhance": "+5",
+        "dodge": 10,
+        "hit": 20
+      },
+      "7": {
+        "id": 150466,
+        "level": 7,
+        "enhance": "+6",
+        "dodge": 11,
+        "hit": 21
+      },
+      "8": {
+        "id": 150467,
+        "level": 8,
+        "enhance": "+7",
+        "dodge": 12,
+        "hit": 22
+      },
+      "9": {
+        "id": 150468,
+        "level": 9,
+        "enhance": "+8",
+        "dodge": 13,
+        "hit": 23
+      },
+      "10": {
+        "id": 150469,
+        "level": 10,
+        "enhance": "+9",
+        "dodge": 14,
+        "hit": 24
+      },
+      "11": {
+        "id": 150470,
+        "level": 11,
+        "enhance": "+10",
+        "dodge": 15,
+        "hit": 25
+      },
+      "12": {
+        "id": 150471,
+        "level": 12,
+        "enhance": "+11",
+        "dodge": 16,
+        "hit": 26,
+        "anti_siren": 1
+      },
+      "13": {
+        "id": 150472,
+        "level": 13,
+        "enhance": "+12",
+        "dodge": 17,
+        "hit": 27,
+        "anti_siren": 2
+      },
+      "14": {
+        "id": 150473,
+        "level": 14,
+        "enhance": "+13",
+        "dodge": 18,
+        "hit": 28,
+        "anti_siren": 3
+      }
+    }
+  },
+  "150480": {
+    "name": "Sneaky-Stealthy Prowler",
+    "desc": "Erases your presence entirely! Just don't use it too much, or else...",
+    "label": [
+      "DEV"
+    ],
+    "rarity": 5,
+    "nationality": 111,
+    "type": 10,
+    "skill": {
+      "60750": {
+        "id": 60750,
+        "name": "Sneaky-Stealthy Prowler",
+        "desc": "Once per battle, when the wearer has taken DMG equal to a total of 25.0% of her max HP: the wearer enters Stealth mode and evades all attacks for 1.5s."
+      }
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150480.png",
+    "stats": {
+      "1": {
+        "id": 150480,
+        "level": 1,
+        "enhance": "+0",
+        "dodge": 13,
+        "speed": 1
+      },
+      "2": {
+        "id": 150481,
+        "level": 2,
+        "enhance": "+1",
+        "dodge": 14,
+        "speed": 1
+      },
+      "3": {
+        "id": 150482,
+        "level": 3,
+        "enhance": "+2",
+        "dodge": 15,
+        "speed": 1
+      },
+      "4": {
+        "id": 150483,
+        "level": 4,
+        "enhance": "+3",
+        "dodge": 16,
+        "speed": 2
+      },
+      "5": {
+        "id": 150484,
+        "level": 5,
+        "enhance": "+4",
+        "dodge": 17,
+        "speed": 2
+      },
+      "6": {
+        "id": 150485,
+        "level": 6,
+        "enhance": "+5",
+        "dodge": 18,
+        "speed": 2
+      },
+      "7": {
+        "id": 150486,
+        "level": 7,
+        "enhance": "+6",
+        "dodge": 20,
+        "speed": 3
+      },
+      "8": {
+        "id": 150487,
+        "level": 8,
+        "enhance": "+7",
+        "dodge": 22,
+        "speed": 3
+      },
+      "9": {
+        "id": 150488,
+        "level": 9,
+        "enhance": "+8",
+        "dodge": 24,
+        "speed": 4
+      },
+      "10": {
+        "id": 150489,
+        "level": 10,
+        "enhance": "+9",
+        "dodge": 26,
+        "speed": 4
+      },
+      "11": {
+        "id": 150490,
+        "level": 11,
+        "enhance": "+10",
+        "dodge": 28,
+        "speed": 5
+      },
+      "12": {
+        "id": 150491,
+        "level": 12,
+        "enhance": "+11",
+        "dodge": 30,
+        "speed": 5,
+        "anti_siren": 1
+      },
+      "13": {
+        "id": 150492,
+        "level": 13,
+        "enhance": "+12",
+        "dodge": 32,
+        "speed": 5,
+        "anti_siren": 2
+      },
+      "14": {
+        "id": 150493,
+        "level": 14,
+        "enhance": "+13",
+        "dodge": 34,
+        "speed": 5,
+        "anti_siren": 3
+      }
+    }
+  },
+  "150500": {
+    "name": "All Work, All Play Robot",
+    "desc": "Suppresses fatigue AND makes you feel like you're having fun! Perfect for overtime.",
+    "label": [
+      "DEV"
+    ],
+    "rarity": 5,
+    "nationality": 111,
+    "type": 10,
+    "skill": {
+      "60760": {
+        "id": 60760,
+        "name": "All Work, All Play Robot",
+        "desc": "Every 20s: increases the wearer's DMG dealt just a little bit (can activate up to 3 times per battle)."
+      }
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150500.png",
+    "stats": {
+      "1": {
+        "id": 150500,
+        "level": 1,
+        "enhance": "+0",
+        "hit": 10,
+        "cannon": 6
+      },
+      "2": {
+        "id": 150501,
+        "level": 2,
+        "enhance": "+1",
+        "hit": 11,
+        "cannon": 7
+      },
+      "3": {
+        "id": 150502,
+        "level": 3,
+        "enhance": "+2",
+        "hit": 13,
+        "cannon": 8
+      },
+      "4": {
+        "id": 150503,
+        "level": 4,
+        "enhance": "+3",
+        "hit": 14,
+        "cannon": 9
+      },
+      "5": {
+        "id": 150504,
+        "level": 5,
+        "enhance": "+4",
+        "hit": 16,
+        "cannon": 10
+      },
+      "6": {
+        "id": 150505,
+        "level": 6,
+        "enhance": "+5",
+        "hit": 17,
+        "cannon": 11
+      },
+      "7": {
+        "id": 150506,
+        "level": 7,
+        "enhance": "+6",
+        "hit": 19,
+        "cannon": 12
+      },
+      "8": {
+        "id": 150507,
+        "level": 8,
+        "enhance": "+7",
+        "hit": 20,
+        "cannon": 13
+      },
+      "9": {
+        "id": 150508,
+        "level": 9,
+        "enhance": "+8",
+        "hit": 22,
+        "cannon": 14
+      },
+      "10": {
+        "id": 150509,
+        "level": 10,
+        "enhance": "+9",
+        "hit": 23,
+        "cannon": 15
+      },
+      "11": {
+        "id": 150510,
+        "level": 11,
+        "enhance": "+10",
+        "hit": 25,
+        "cannon": 17
+      },
+      "12": {
+        "id": 150511,
+        "level": 12,
+        "enhance": "+11",
+        "hit": 26,
+        "cannon": 18,
+        "anti_siren": 1
+      },
+      "13": {
+        "id": 150512,
+        "level": 13,
+        "enhance": "+12",
+        "hit": 28,
+        "cannon": 19,
+        "anti_siren": 2
+      },
+      "14": {
+        "id": 150513,
+        "level": 14,
+        "enhance": "+13",
+        "hit": 29,
+        "cannon": 20,
+        "anti_siren": 3
+      }
+    }
+  },
+  "150520": {
+    "name": "Speedy Sprouty Botanist",
+    "desc": "Shoots a beam that makes the target grow fast!",
+    "label": [
+      "DEV"
+    ],
+    "rarity": 5,
+    "nationality": 111,
+    "type": 10,
+    "skill": {
+      "60770": {
+        "id": 60770,
+        "name": "Speedy Sprouty Botanist",
+        "desc": "Might make the enemy grow a little bigger."
+      }
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150520.png",
+    "stats": {
+      "1": {
+        "id": 150520,
+        "level": 1,
+        "enhance": "+0",
+        "cannon": 10
+      },
+      "2": {
+        "id": 150521,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 12
+      },
+      "3": {
+        "id": 150522,
+        "level": 3,
+        "enhance": "+2",
+        "cannon": 14
+      },
+      "4": {
+        "id": 150523,
+        "level": 4,
+        "enhance": "+3",
+        "cannon": 16
+      },
+      "5": {
+        "id": 150524,
+        "level": 5,
+        "enhance": "+4",
+        "cannon": 18
+      },
+      "6": {
+        "id": 150525,
+        "level": 6,
+        "enhance": "+5",
+        "cannon": 20
+      },
+      "7": {
+        "id": 150526,
+        "level": 7,
+        "enhance": "+6",
+        "cannon": 22
+      },
+      "8": {
+        "id": 150527,
+        "level": 8,
+        "enhance": "+7",
+        "cannon": 24
+      },
+      "9": {
+        "id": 150528,
+        "level": 9,
+        "enhance": "+8",
+        "cannon": 26
+      },
+      "10": {
+        "id": 150529,
+        "level": 10,
+        "enhance": "+9",
+        "cannon": 28
+      },
+      "11": {
+        "id": 150530,
+        "level": 11,
+        "enhance": "+10",
+        "cannon": 30
+      },
+      "12": {
+        "id": 150531,
+        "level": 12,
+        "enhance": "+11",
+        "cannon": 32,
+        "anti_siren": 1
+      },
+      "13": {
+        "id": 150532,
+        "level": 13,
+        "enhance": "+12",
+        "cannon": 34,
+        "anti_siren": 2
+      },
+      "14": {
+        "id": 150533,
+        "level": 14,
+        "enhance": "+13",
+        "cannon": 35,
+        "anti_siren": 3
+      }
+    }
+  },
+  "150540": {
+    "name": "Spooky Scary Specter",
+    "desc": "Monitors the user's emotions to regularly create the vibe of a thriller flick!",
+    "label": [
+      "DEV"
+    ],
+    "rarity": 5,
+    "nationality": 111,
+    "type": 10,
+    "skill": {
+      "60780": {
+        "id": 60780,
+        "name": "Spooky Scary Specter",
+        "desc": "When the wearer fires her Main Guns: makes the mood kinda spooky."
+      }
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150540.png",
+    "stats": {
+      "1": {
+        "id": 150540,
+        "level": 1,
+        "enhance": "+0",
+        "cannon": 18,
+        "hit": 4
+      },
+      "2": {
+        "id": 150541,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 20,
+        "hit": 4
+      },
+      "3": {
+        "id": 150542,
+        "level": 3,
+        "enhance": "+2",
+        "cannon": 23,
+        "hit": 5
+      },
+      "4": {
+        "id": 150543,
+        "level": 4,
+        "enhance": "+3",
+        "cannon": 26,
+        "hit": 5
+      },
+      "5": {
+        "id": 150544,
+        "level": 5,
+        "enhance": "+4",
+        "cannon": 28,
+        "hit": 6
+      },
+      "6": {
+        "id": 150545,
+        "level": 6,
+        "enhance": "+5",
+        "cannon": 31,
+        "hit": 7
+      },
+      "7": {
+        "id": 150546,
+        "level": 7,
+        "enhance": "+6",
+        "cannon": 34,
+        "hit": 7
+      },
+      "8": {
+        "id": 150547,
+        "level": 8,
+        "enhance": "+7",
+        "cannon": 36,
+        "hit": 8
+      },
+      "9": {
+        "id": 150548,
+        "level": 9,
+        "enhance": "+8",
+        "cannon": 39,
+        "hit": 8
+      },
+      "10": {
+        "id": 150549,
+        "level": 10,
+        "enhance": "+9",
+        "cannon": 42,
+        "hit": 9
+      },
+      "11": {
+        "id": 150550,
+        "level": 11,
+        "enhance": "+10",
+        "cannon": 45,
+        "hit": 10
+      },
+      "12": {
+        "id": 150551,
+        "level": 12,
+        "enhance": "+11",
+        "cannon": 47,
+        "hit": 10,
+        "anti_siren": 1
+      },
+      "13": {
+        "id": 150552,
+        "level": 13,
+        "enhance": "+12",
+        "cannon": 50,
+        "hit": 11,
+        "anti_siren": 2
+      },
+      "14": {
+        "id": 150553,
+        "level": 14,
+        "enhance": "+13",
+        "cannon": 53,
+        "hit": 11,
+        "anti_siren": 3
+      }
+    }
+  },
+  "150560": {
+    "name": "More-y Glory Aura Booster",
+    "desc": "Gives you an intense royal aura. It works for people who aren't royalty, too!",
+    "label": [
+      "DEV"
+    ],
+    "rarity": 5,
+    "nationality": 111,
+    "type": 10,
+    "skill": {
+      "60790": {
+        "id": 60790,
+        "name": "More-y Glory Aura Booster",
+        "desc": "The wearer emits a special, charismatic aura during battle."
+      }
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150560.png",
+    "stats": {
+      "1": {
+        "id": 150560,
+        "level": 1,
+        "enhance": "+0",
+        "durability": 250
+      },
+      "2": {
+        "id": 150561,
+        "level": 2,
+        "enhance": "+1",
+        "durability": 280
+      },
+      "3": {
+        "id": 150562,
+        "level": 3,
+        "enhance": "+2",
+        "durability": 310
+      },
+      "4": {
+        "id": 150563,
+        "level": 4,
+        "enhance": "+3",
+        "durability": 340
+      },
+      "5": {
+        "id": 150564,
+        "level": 5,
+        "enhance": "+4",
+        "durability": 370
+      },
+      "6": {
+        "id": 150565,
+        "level": 6,
+        "enhance": "+5",
+        "durability": 400
+      },
+      "7": {
+        "id": 150566,
+        "level": 7,
+        "enhance": "+6",
+        "durability": 430
+      },
+      "8": {
+        "id": 150567,
+        "level": 8,
+        "enhance": "+7",
+        "durability": 460
+      },
+      "9": {
+        "id": 150568,
+        "level": 9,
+        "enhance": "+8",
+        "durability": 490
+      },
+      "10": {
+        "id": 150569,
+        "level": 10,
+        "enhance": "+9",
+        "durability": 520
+      },
+      "11": {
+        "id": 150570,
+        "level": 11,
+        "enhance": "+10",
+        "durability": 550
+      },
+      "12": {
+        "id": 150571,
+        "level": 12,
+        "enhance": "+11",
+        "durability": 580,
+        "anti_siren": 1
+      },
+      "13": {
+        "id": 150572,
+        "level": 13,
+        "enhance": "+12",
+        "durability": 610,
+        "anti_siren": 2
+      },
+      "14": {
+        "id": 150573,
+        "level": 14,
+        "enhance": "+13",
+        "durability": 640,
+        "anti_siren": 3
+      }
+    }
   }
 }

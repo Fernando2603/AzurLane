@@ -49,47 +49,47 @@ We anticipate that the update process will be completed in 1~7 days or before Fe
 - [list of missing voiceline audio](/docs/MISSING_VOICELINE.md)
 
 ## Repository Size
-Repository contains 53009 files with a size of 9.60 GB (10312829708 B).
+Repository contains 53522 files with a size of 9.73 GB (10444440763 B).
 
 ### Audio
-Contains 36946 files with a size of 3.79 GB (4073031847 B).
+Contains 37325 files with a size of 3.84 GB (4123272550 B).
 
 - **BGM:**
-  Contains 422 files with a size of 900.79 MB (944545782 B).
+  Contains 428 files with a size of 922.45 MB (967260485 B).
 
 - **Voiceline:**
-  Contains 1979 skins voiceline, 36524 files with a size of 2.91 GB (3128486065 B).
+  Contains 1994 skins voiceline, 36897 files with a size of 2.94 GB (3156012065 B).
 
 ### Images
-Contains 16003 files with a size of 5.75 GB (6178498696 B).
+Contains 16137 files with a size of 5.83 GB (6259446940 B).
 
 - **Background:**
-  Contains 102 files with a size of 65.46 MB (68636037 B).
+  Contains 103 files with a size of 66.13 MB (69339428 B).
 
 - **Equipment:**
-  Contains 1118 files with a size of 13.13 MB (13765035 B).
+  Contains 1125 files with a size of 13.22 MB (13866382 B).
 
 - **Meowfficer:**
   Contains 17 characters, 26 skills, and 91 talents assets with a total of 168 files and a combined size of 8.80 MB (9231640 B).
 
 - **Skills:**
-  Contains 1430 files with a size of 30.90 MB (32398960 B).
+  Contains 1445 files with a size of 31.23 MB (32742048 B).
 
 - **Skins:**
-  Contains 1996 skins, 12843 files with a size of 5.62 GB (6033571919 B).
+  Contains 2012 skins, 12954 files with a size of 5.69 GB (6113372337 B).
 
   - **painting:**
-    Contains 2863 files with a size of 5.31 GB (5696464680 B).
+    Contains 2894 files with a size of 5.38 GB (5772584808 B).
   - **banner:**
-    Contains 1996 files with a size of 57.73 MB (60529610 B).
+    Contains 2012 files with a size of 58.29 MB (61119596 B).
   - **chibi:**
-    Contains 1996 files with a size of 69.42 MB (72797342 B).
+    Contains 2012 files with a size of 70.25 MB (73658359 B).
   - **icon:**
-    Contains 1996 files with a size of 40.58 MB (42552476 B).
+    Contains 2012 files with a size of 41.00 MB (42987764 B).
   - **qicon:**
-    Contains 1996 files with a size of 31.41 MB (32937913 B).
+    Contains 2012 files with a size of 31.72 MB (33255810 B).
   - **shipyard:**
-    Contains 1996 files with a size of 122.35 MB (128289898 B).
+    Contains 2012 files with a size of 123.75 MB (129766000 B).
 
 > [!NOTE]
 > Assets without auto-update are not included.
