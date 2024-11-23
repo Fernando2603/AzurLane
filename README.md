@@ -49,7 +49,7 @@ We anticipate that the update process will be completed in 1~7 days or before Fe
 - [list of missing voiceline audio](/docs/MISSING_VOICELINE.md)
 
 ## Repository Size
-Repository contains 53522 files with a size of 9.73 GB (10444440763 B).
+Repository contains 53522 files with a size of 9.73 GB (10444592788 B).
 
 ### Audio
 Contains 37325 files with a size of 3.84 GB (4123272550 B).
