@@ -152,32 +152,4 @@
 | 146 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | unlock |
 | 147 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | upgrade |
 | 148 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | win_mvp |
-| 149 | 970507 | Giulio Cesare META | 9705070 | Giulio Cesare META | Default | battle |
-| 150 | 970507 | Giulio Cesare META | 9705070 | Giulio Cesare META | Default | couple_encourage1 |
-| 151 | 970507 | Giulio Cesare META | 9705070 | Giulio Cesare META | Default | detail |
-| 152 | 970507 | Giulio Cesare META | 9705070 | Giulio Cesare META | Default | expedition |
-| 153 | 970507 | Giulio Cesare META | 9705070 | Giulio Cesare META | Default | feeling1 |
-| 154 | 970507 | Giulio Cesare META | 9705070 | Giulio Cesare META | Default | feeling2 |
-| 155 | 970507 | Giulio Cesare META | 9705070 | Giulio Cesare META | Default | feeling3 |
-| 156 | 970507 | Giulio Cesare META | 9705070 | Giulio Cesare META | Default | feeling4 |
-| 157 | 970507 | Giulio Cesare META | 9705070 | Giulio Cesare META | Default | feeling5 |
-| 158 | 970507 | Giulio Cesare META | 9705070 | Giulio Cesare META | Default | headtouch |
-| 159 | 970507 | Giulio Cesare META | 9705070 | Giulio Cesare META | Default | home |
-| 160 | 970507 | Giulio Cesare META | 9705070 | Giulio Cesare META | Default | hp_warning |
-| 161 | 970507 | Giulio Cesare META | 9705070 | Giulio Cesare META | Default | login |
-| 162 | 970507 | Giulio Cesare META | 9705070 | Giulio Cesare META | Default | lose |
-| 163 | 970507 | Giulio Cesare META | 9705070 | Giulio Cesare META | Default | mail |
-| 164 | 970507 | Giulio Cesare META | 9705070 | Giulio Cesare META | Default | main1 |
-| 165 | 970507 | Giulio Cesare META | 9705070 | Giulio Cesare META | Default | main2 |
-| 166 | 970507 | Giulio Cesare META | 9705070 | Giulio Cesare META | Default | main3 |
-| 167 | 970507 | Giulio Cesare META | 9705070 | Giulio Cesare META | Default | mission |
-| 168 | 970507 | Giulio Cesare META | 9705070 | Giulio Cesare META | Default | mission_complete |
-| 169 | 970507 | Giulio Cesare META | 9705070 | Giulio Cesare META | Default | profile |
-| 170 | 970507 | Giulio Cesare META | 9705070 | Giulio Cesare META | Default | propose |
-| 171 | 970507 | Giulio Cesare META | 9705070 | Giulio Cesare META | Default | skill |
-| 172 | 970507 | Giulio Cesare META | 9705070 | Giulio Cesare META | Default | touch |
-| 173 | 970507 | Giulio Cesare META | 9705070 | Giulio Cesare META | Default | touch2 |
-| 174 | 970507 | Giulio Cesare META | 9705070 | Giulio Cesare META | Default | unlock |
-| 175 | 970507 | Giulio Cesare META | 9705070 | Giulio Cesare META | Default | upgrade |
-| 176 | 970507 | Giulio Cesare META | 9705070 | Giulio Cesare META | Default | win_mvp |
-| 177 | 1070003 | Iori Minase | 10700031 | A Little Evening Secret | Summer Fest | headtouch |
+| 149 | 1070003 | Iori Minase | 10700031 | A Little Evening Secret | Summer Fest | headtouch |

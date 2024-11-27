@@ -180920,7 +180920,7 @@
         "accuracy": 57,
         "evasion": 28,
         "speed": 32,
-        "luck": 78,
+        "luck": 80,
         "asw": 36
       },
       "11100032": {
@@ -180933,7 +180933,7 @@
         "accuracy": 57,
         "evasion": 28,
         "speed": 32,
-        "luck": 78,
+        "luck": 80,
         "asw": 45
       },
       "11100033": {
@@ -180946,7 +180946,7 @@
         "accuracy": 57,
         "evasion": 28,
         "speed": 32,
-        "luck": 78,
+        "luck": 80,
         "asw": 63
       },
       "11100034": {
@@ -180959,7 +180959,7 @@
         "accuracy": 57,
         "evasion": 28,
         "speed": 32,
-        "luck": 78,
+        "luck": 80,
         "asw": 89
       }
     },
