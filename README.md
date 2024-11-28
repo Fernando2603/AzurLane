@@ -15,7 +15,8 @@ Azur Lane Resources
 > Only `EN` server assets are available
 
 > [!CAUTION]
-> This repository is quite large, and it's not recommended to clone it entirely. Instead, consider fetching the JSON file.
+> This repository is quite large, and it's not recommended to clone it entirely.
+> Instead, consider fetching the JSON file or using a [sparse checkout](/docs/SPARSE_CHECKOUT.md).
 
 > [!TIP]
 > The repository will check for updates every day at `23:00 UTC`.
@@ -47,6 +48,7 @@ We anticipate that the update process will be completed in 1~7 days or before Fe
 - [MEOWFFICER](/docs/MEOWFFICER.md)
 - [VOICELINE](/docs/VOICELINE.md)
 - [list of missing voiceline audio](/docs/MISSING_VOICELINE.md)
+- [git sparse-checkout how-to](/docs/SPARSE_CHECKOUT.md)
 
 ## Repository Size
 Repository contains 53550 files with a size of 9.74 GB (10453587541 B).
