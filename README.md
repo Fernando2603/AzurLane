@@ -33,8 +33,8 @@ We would like to inform you that the following update is scheduled to be applied
 - `images/skills` folder will be renamed to `images/skill`.
 - `images/skins` folder will be renamed to `images/skin`.
 - `audio/voicelines` folder will be renamed to `audio/voiceline`.
-- remove commit history
-- remove all branch
+- ~~remove commit history~~)
+- ~~remove all branch~~)
 
 We anticipate that the update process will be completed in 1~7 days or before February 2025. Please note that during this update period, all automatic updates will be temporarily disabled until the process is fully completed.
 
@@ -51,7 +51,7 @@ We anticipate that the update process will be completed in 1~7 days or before Fe
 - [git sparse-checkout how-to](/docs/SPARSE_CHECKOUT.md)
 
 ## Repository Size
-Repository contains 53550 files with a size of 9.74 GB (10453587541 B).
+Repository contains 53551 files with a size of 9.74 GB (10453593738 B).
 
 ### Audio
 Contains 37353 files with a size of 3.84 GB (4125174263 B).
