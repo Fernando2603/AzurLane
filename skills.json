@@ -16471,6 +16471,22 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19080.png",
     "max_level": 10
   },
+  "1019090": {
+    "id": 1019090,
+    "type": 1,
+    "name": "Expert Loader+",
+    "desc": "When this ship fires her Main Guns: increases this ship's FP and RLD by 1.0% (3.5%) (can be stacked up to 12 times). Every 20s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) that makes enemies hit take 4.0% (10.0%) increased DMG from this ship for 10s. Every 2 times this ship fires her Main Guns: changes the ammo type (into HE or AP) of her next 2 volleys; this ship's first and second Main Gun volleys fired will use HE ammo.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19090.png",
+    "max_level": 10
+  },
+  "1019110": {
+    "id": 1019110,
+    "type": 1,
+    "name": "Augmented HE Ammo+",
+    "desc": "Increases this ship's DMG dealt with HE ammo by 15.0% (35.0%). If this ship has a Main Gun that uses HE ammo equipped: increases this ship's Main Gun efficiency and Crit Rate by 10.0% (20.0%) and increases her DMG dealt to enemies with Light and Medium Armor by 5.0% (15.0%). Every 15s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/19110.png",
+    "max_level": 10
+  },
   "1090010": {
     "id": 1090010,
     "type": 3,
@@ -16725,6 +16741,30 @@
     "name": "Torpedo Command - Shiratsuyu",
     "desc": "Increases your Vanguard's TRP by 5% (15%) (does not stack with similar skills). Every 5s: fires a Lv.1 (Lv.10) special torpedo barrage (DMG is based on the skill's level and this ship's TRP stat).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/1010.png",
+    "max_level": 10
+  },
+  "1090340": {
+    "id": 1090340,
+    "type": 1,
+    "name": "Quick Takeoff - Bogue",
+    "desc": "When this ship launches an airstrike: 5% (15%) chance to make the next airstrike available immediately. When this ship launches an airstrike: tosses a Lv.1 (Lv.10) special baseball barrage (DMG is based on the skill's level); if this barrage hits the same enemy 3 times, launches a Lv.1 (Lv.10) pitching attack (DMG is based on the skill's level) against that enemy.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/3000.png",
+    "max_level": 10
+  },
+  "1090350": {
+    "id": 1090350,
+    "type": 1,
+    "name": "Full Firepower - Yuubari",
+    "desc": "Every 20s: deploys one of various Lv.1 (Lv.10) in-development devices (effect is based on the skill's level) and, with a 30.0% (60.0%) chance, increases this ship's FP by 20.0% (40.0%) for 10s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/2010.png",
+    "max_level": 10
+  },
+  "1090360": {
+    "id": 1090360,
+    "type": 3,
+    "name": "Air Support - Houshou",
+    "desc": "When this ship launches an airstrike: increases your CVs' and CVLs' AVI and ACC by 5% (15%) for 8s, then activates the following effect 3 times over 3 seconds:\nThe ship in your Main Fleet with the lowest current HP percentage recovers HP equal to 1.0% (3.5%) of Houshou's max HP.\nIf this effect activates on a CV or CVL, the healing potency is increased by 100.0%, and this ship fires a Lv.1 (Lv.10) special airstrike (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/3040.png",
     "max_level": 10
   },
   "10150530": {
