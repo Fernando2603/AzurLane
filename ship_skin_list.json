@@ -53827,5 +53827,33 @@
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9705070/shipyard.png"
       }
     ]
+  },
+  {
+    "gid": 970705,
+    "name": "Taihou META",
+    "skins": [
+      {
+        "id": 9707050,
+        "gid": 970705,
+        "name": "Taihou META",
+        "type": "Default",
+        "desc": "Finally... Finally, I've met you, my Commander! My thirst has been quenched and the hole in me has been filled! Heehee... Now if you don't mind, I'm going to melt you little by little with my immense love♥",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": -1,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9707050/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9707050/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9707050/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9707050/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9707050/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9707050/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/9707050/shipyard.png"
+      }
+    ]
   }
 ]

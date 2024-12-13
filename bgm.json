@@ -2063,6 +2063,14 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-antarctica-serious.ogg"
   },
+  "story-antix-past": {
+    "title": "陲ｫ驕怜ｿ倡噪闍ｱ髮Юshade",
+    "size": 2043267,
+    "duration": 96.9665306122449,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-antix-past.ogg"
+  },
   "story-battle-16bit": {
     "title": "AZ6_M2_20240126",
     "size": 1361134,
@@ -2214,6 +2222,14 @@
     "bitrate": 160.0,
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-ghostnight-fascinsting.ogg"
+  },
+  "story-ironblood-strong": {
+    "title": "公国的铁与血_shade",
+    "size": 3016030,
+    "duration": 146.8429931972789,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-ironblood-strong.ogg"
   },
   "story-island-soft": {
     "title": "帕克菲克洋诸岛风光_PX",

@@ -51,47 +51,47 @@ We anticipate that the update process will be completed in 1~7 days or before Fe
 - [git sparse-checkout how-to](/docs/SPARSE_CHECKOUT.md)
 
 ## Repository Size
-Repository contains 53551 files with a size of 9.74 GB (10453600160 B).
+Repository contains 53565 files with a size of 9.74 GB (10463561264 B).
 
 ### Audio
-Contains 37353 files with a size of 3.84 GB (4125174263 B).
+Contains 37355 files with a size of 3.85 GB (4130233560 B).
 
 - **BGM:**
-  Contains 428 files with a size of 922.45 MB (967260485 B).
+  Contains 430 files with a size of 927.28 MB (972319782 B).
 
 - **Voiceline:**
   Contains 1995 skins voiceline, 36925 files with a size of 2.94 GB (3157913778 B).
 
 ### Images
-Contains 16137 files with a size of 5.84 GB (6266529308 B).
+Contains 16149 files with a size of 5.84 GB (6271405588 B).
 
 - **Background:**
   Contains 103 files with a size of 66.13 MB (69339428 B).
 
 - **Equipment:**
-  Contains 1125 files with a size of 13.22 MB (13866382 B).
+  Contains 1126 files with a size of 13.24 MB (13878726 B).
 
 - **Meowfficer:**
   Contains 17 characters, 26 skills, and 91 talents assets with a total of 168 files and a combined size of 8.80 MB (9231640 B).
 
 - **Skills:**
-  Contains 1445 files with a size of 31.23 MB (32742048 B).
+  Contains 1449 files with a size of 31.31 MB (32831781 B).
 
 - **Skins:**
-  Contains 2012 skins, 12954 files with a size of 5.70 GB (6120454705 B).
+  Contains 2013 skins, 12961 files with a size of 5.70 GB (6125228908 B).
 
   - **painting:**
-    Contains 2894 files with a size of 5.38 GB (5779667176 B).
+    Contains 2896 files with a size of 5.39 GB (5784272113 B).
   - **banner:**
-    Contains 2012 files with a size of 58.29 MB (61119596 B).
+    Contains 2013 files with a size of 58.31 MB (61143545 B).
   - **chibi:**
-    Contains 2012 files with a size of 70.25 MB (73658359 B).
+    Contains 2013 files with a size of 70.29 MB (73701163 B).
   - **icon:**
-    Contains 2012 files with a size of 41.00 MB (42987764 B).
+    Contains 2013 files with a size of 41.02 MB (43008734 B).
   - **qicon:**
-    Contains 2012 files with a size of 31.72 MB (33255810 B).
+    Contains 2013 files with a size of 31.73 MB (33275654 B).
   - **shipyard:**
-    Contains 2012 files with a size of 123.75 MB (129766000 B).
+    Contains 2013 files with a size of 123.81 MB (129827699 B).
 
 > [!NOTE]
 > Assets without auto-update are not included.

@@ -15959,6 +15959,62 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801480.png",
     "max_level": 1
   },
+  "801490": {
+    "id": 801490,
+    "type": 1,
+    "name": "Spiritshadow Procession",
+    "desc": "When this ship launches an airstrike: additionally launches a Lv.1 (Lv.10) special airstrike and summons a Spiritshadow to assist in battle (special airstrike DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801490.png",
+    "max_level": 10
+  },
+  "801500": {
+    "id": 801500,
+    "type": 3,
+    "name": "Scarlet Denouement",
+    "desc": "Increases this ship's AVI and RLD by 1.0% (10.0%). Whenever this ship finished loading an airstrike while having at least 40.0% HP: decreases this ship's HP by 130, then increases her AVI by 1.0% (4.0%) until the battle ends (can be stacked up to 3 times).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801500.png",
+    "max_level": 10
+  },
+  "801510": {
+    "id": 801510,
+    "type": 1,
+    "name": "Otherworldly Domain",
+    "desc": "Every 10s: fires a Lv.1 (Lv.10) special barrage, inflicting a special Burn ailment on all enemies hit for 8s (barrage DMG is based on the skill's level and this ship's AVI stat); enemies affected by this special Burn ailment have 5.0% reduced FP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801510.png",
+    "max_level": 10
+  },
+  "801521": {
+    "id": 801521,
+    "type": 3,
+    "name": "Flickering Light - Taihou I",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 3.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801520.png",
+    "max_level": 1
+  },
+  "801522": {
+    "id": 801522,
+    "type": 3,
+    "name": "Flickering Light - Taihou II",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 8.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801520.png",
+    "max_level": 1
+  },
+  "801525": {
+    "id": 801525,
+    "type": 3,
+    "name": "Flickering Light - Taihou I",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 3.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801520.png",
+    "max_level": 1
+  },
+  "801527": {
+    "id": 801527,
+    "type": 3,
+    "name": "Flickering Light - Taihou II",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 8.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801520.png",
+    "max_level": 1
+  },
   "902220": {
     "id": 902220,
     "type": 2,

@@ -152,4 +152,31 @@
 | 146 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | unlock |
 | 147 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | upgrade |
 | 148 | 970103 | Hatakaze META | 9701030 | Hatakaze META | Default | win_mvp |
-| 149 | 1070003 | Iori Minase | 10700031 | A Little Evening Secret | Summer Fest | headtouch |
+| 149 | 970705 | Taihou META | 9707050 | Taihou META | Default | battle |
+| 150 | 970705 | Taihou META | 9707050 | Taihou META | Default | detail |
+| 151 | 970705 | Taihou META | 9707050 | Taihou META | Default | expedition |
+| 152 | 970705 | Taihou META | 9707050 | Taihou META | Default | feeling1 |
+| 153 | 970705 | Taihou META | 9707050 | Taihou META | Default | feeling2 |
+| 154 | 970705 | Taihou META | 9707050 | Taihou META | Default | feeling3 |
+| 155 | 970705 | Taihou META | 9707050 | Taihou META | Default | feeling4 |
+| 156 | 970705 | Taihou META | 9707050 | Taihou META | Default | feeling5 |
+| 157 | 970705 | Taihou META | 9707050 | Taihou META | Default | headtouch |
+| 158 | 970705 | Taihou META | 9707050 | Taihou META | Default | home |
+| 159 | 970705 | Taihou META | 9707050 | Taihou META | Default | hp_warning |
+| 160 | 970705 | Taihou META | 9707050 | Taihou META | Default | login |
+| 161 | 970705 | Taihou META | 9707050 | Taihou META | Default | lose |
+| 162 | 970705 | Taihou META | 9707050 | Taihou META | Default | mail |
+| 163 | 970705 | Taihou META | 9707050 | Taihou META | Default | main1 |
+| 164 | 970705 | Taihou META | 9707050 | Taihou META | Default | main2 |
+| 165 | 970705 | Taihou META | 9707050 | Taihou META | Default | main3 |
+| 166 | 970705 | Taihou META | 9707050 | Taihou META | Default | mission |
+| 167 | 970705 | Taihou META | 9707050 | Taihou META | Default | mission_complete |
+| 168 | 970705 | Taihou META | 9707050 | Taihou META | Default | profile |
+| 169 | 970705 | Taihou META | 9707050 | Taihou META | Default | propose |
+| 170 | 970705 | Taihou META | 9707050 | Taihou META | Default | skill |
+| 171 | 970705 | Taihou META | 9707050 | Taihou META | Default | touch |
+| 172 | 970705 | Taihou META | 9707050 | Taihou META | Default | touch2 |
+| 173 | 970705 | Taihou META | 9707050 | Taihou META | Default | unlock |
+| 174 | 970705 | Taihou META | 9707050 | Taihou META | Default | upgrade |
+| 175 | 970705 | Taihou META | 9707050 | Taihou META | Default | win_mvp |
+| 176 | 1070003 | Iori Minase | 10700031 | A Little Evening Secret | Summer Fest | headtouch |

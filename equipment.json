@@ -91453,5 +91453,98 @@
         "anti_siren": 3
       }
     }
+  },
+  "150580": {
+    "name": "Precious Handkerchief",
+    "desc": "A handkerchief that Memphis always keeps with her. She worked hard to embroider her own name onto it.",
+    "label": [
+      "DEV"
+    ],
+    "rarity": 4,
+    "nationality": 1,
+    "type": 10,
+    "skill": {
+      "60800": {
+        "id": 60800,
+        "name": "Memphis' Blues",
+        "desc": "When equipped by a particular character: 20s after the battle starts, deploys a barrier (lasts 20s) around a random ship in your Vanguard that can negate DMG equal to 2.0% max HP."
+      }
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150580.png",
+    "stats": {
+      "1": {
+        "id": 150580,
+        "level": 1,
+        "enhance": "+0",
+        "durability": 200
+      },
+      "2": {
+        "id": 150581,
+        "level": 2,
+        "enhance": "+1",
+        "durability": 230
+      },
+      "3": {
+        "id": 150582,
+        "level": 3,
+        "enhance": "+2",
+        "durability": 260
+      },
+      "4": {
+        "id": 150583,
+        "level": 4,
+        "enhance": "+3",
+        "durability": 290
+      },
+      "5": {
+        "id": 150584,
+        "level": 5,
+        "enhance": "+4",
+        "durability": 320
+      },
+      "6": {
+        "id": 150585,
+        "level": 6,
+        "enhance": "+5",
+        "durability": 350
+      },
+      "7": {
+        "id": 150586,
+        "level": 7,
+        "enhance": "+6",
+        "durability": 380
+      },
+      "8": {
+        "id": 150587,
+        "level": 8,
+        "enhance": "+7",
+        "durability": 410
+      },
+      "9": {
+        "id": 150588,
+        "level": 9,
+        "enhance": "+8",
+        "durability": 440
+      },
+      "10": {
+        "id": 150589,
+        "level": 10,
+        "enhance": "+9",
+        "durability": 470
+      },
+      "11": {
+        "id": 150590,
+        "level": 11,
+        "enhance": "+10",
+        "durability": 500
+      },
+      "12": {
+        "id": 150591,
+        "level": 12,
+        "enhance": "+11",
+        "durability": 530,
+        "anti_siren": 1
+      }
+    }
   }
 }

@@ -753,5 +753,10 @@
     "id": 60790,
     "name": "More-y Glory Aura Booster",
     "desc": "The wearer emits a special, charismatic aura during battle."
+  },
+  "60800": {
+    "id": 60800,
+    "name": "Memphis' Blues",
+    "desc": "When equipped by a particular character: 20s after the battle starts, deploys a barrier (lasts 20s) around a random ship in your Vanguard that can negate DMG equal to 2.0% max HP."
   }
 }

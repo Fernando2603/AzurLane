@@ -166695,6 +166695,258 @@
     }
   },
   {
+    "id": 30041,
+    "gid": 970705,
+    "cid": 3,
+    "sid": [
+      9707051,
+      9707052,
+      9707053,
+      9707054
+    ],
+    "name": "Taihou META",
+    "codename": "Taihō.META",
+    "class": "Taihou META",
+    "nationality": 97,
+    "obtain": [
+      "META Lab - Coordinate Analysis"
+    ],
+    "type": 7,
+    "rarity": 5,
+    "armor": 3,
+    "hexagon": [
+      "E",
+      "E",
+      "S",
+      "B",
+      "B",
+      "S"
+    ],
+    "share_group": [],
+    "breakout": [
+      [
+        "Unlock Flickering Light - Taihou",
+        "All Dive Bombers +1",
+        "Dive Bomber Efficiency +5%"
+      ],
+      [
+        "Hangar Capacity +1",
+        "All Torpedo Bombers +1",
+        "Fighter Efficiency +10%"
+      ],
+      [
+        "Upgrade Flickering Light - Taihou",
+        "All Aircraft +1",
+        "Torpedo Bomber Efficiency +15%"
+      ]
+    ],
+    "equipment": {
+      "1": {
+        "default": 117,
+        "slot": 1,
+        "type": [
+          7
+        ],
+        "mount": 2,
+        "preload": 0,
+        "efficiency": 1.2
+      },
+      "2": {
+        "default": 119,
+        "slot": 2,
+        "type": [
+          9
+        ],
+        "mount": 3,
+        "preload": 0,
+        "efficiency": 1.3
+      },
+      "3": {
+        "default": 118,
+        "slot": 3,
+        "type": [
+          8
+        ],
+        "mount": 3,
+        "preload": 0,
+        "efficiency": 1.4
+      },
+      "4": {
+        "default": null,
+        "slot": 4,
+        "type": [
+          10
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      },
+      "5": {
+        "default": null,
+        "slot": 5,
+        "type": [
+          10
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      }
+    },
+    "base": {
+      "9707051": {
+        "health": 1322,
+        "firepower": 0,
+        "torpedo": 0,
+        "antiair": 61,
+        "aviation": 78,
+        "reload": 45,
+        "accuracy": 21,
+        "evasion": 10,
+        "speed": 33,
+        "luck": 36,
+        "asw": 0
+      },
+      "9707052": {
+        "health": 1645,
+        "firepower": 0,
+        "torpedo": 0,
+        "antiair": 76,
+        "aviation": 97,
+        "reload": 45,
+        "accuracy": 21,
+        "evasion": 10,
+        "speed": 33,
+        "luck": 36,
+        "asw": 0
+      },
+      "9707053": {
+        "health": 2290,
+        "firepower": 0,
+        "torpedo": 0,
+        "antiair": 106,
+        "aviation": 136,
+        "reload": 45,
+        "accuracy": 21,
+        "evasion": 10,
+        "speed": 33,
+        "luck": 36,
+        "asw": 0
+      },
+      "9707054": {
+        "health": 3257,
+        "firepower": 0,
+        "torpedo": 0,
+        "antiair": 151,
+        "aviation": 194,
+        "reload": 45,
+        "accuracy": 21,
+        "evasion": 10,
+        "speed": 33,
+        "luck": 36,
+        "asw": 0
+      }
+    },
+    "growth": {
+      "9707051": {
+        "health": 25040,
+        "firepower": 0,
+        "torpedo": 0,
+        "antiair": 792,
+        "aviation": 970,
+        "reload": 315,
+        "accuracy": 357,
+        "evasion": 270,
+        "speed": 0,
+        "luck": 0,
+        "asw": 0
+      },
+      "9707052": {
+        "health": 25040,
+        "firepower": 0,
+        "torpedo": 0,
+        "antiair": 792,
+        "aviation": 970,
+        "reload": 315,
+        "accuracy": 357,
+        "evasion": 270,
+        "speed": 0,
+        "luck": 0,
+        "asw": 0
+      },
+      "9707053": {
+        "health": 25040,
+        "firepower": 0,
+        "torpedo": 0,
+        "antiair": 792,
+        "aviation": 970,
+        "reload": 315,
+        "accuracy": 357,
+        "evasion": 270,
+        "speed": 0,
+        "luck": 0,
+        "asw": 0
+      },
+      "9707054": {
+        "health": 25040,
+        "firepower": 0,
+        "torpedo": 0,
+        "antiair": 792,
+        "aviation": 970,
+        "reload": 315,
+        "accuracy": 357,
+        "evasion": 270,
+        "speed": 0,
+        "luck": 0,
+        "asw": 0
+      }
+    },
+    "enhance": {
+      "health": 1290,
+      "antiair": 60,
+      "accuracy": 21,
+      "evasion": 10,
+      "aviation": 75,
+      "reload": 33
+    },
+    "skill": {
+      "801521": {
+        "id": 801521,
+        "parent": 801521,
+        "upgrade": 801522,
+        "downgrade": null,
+        "requirement": "Limit Break 1"
+      },
+      "801522": {
+        "id": 801522,
+        "parent": 801521,
+        "upgrade": null,
+        "downgrade": 801521,
+        "requirement": "Limit Break 3"
+      },
+      "801490": {
+        "id": 801490,
+        "parent": 801490,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "801500": {
+        "id": 801500,
+        "parent": 801500,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "801510": {
+        "id": 801510,
+        "parent": 801510,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      }
+    }
+  },
+  {
     "id": 30021,
     "gid": 970801,
     "cid": 3,
