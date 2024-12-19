@@ -51,22 +51,22 @@ We anticipate that the update process will be completed in 1~7 days or before Fe
 - [git sparse-checkout how-to](/docs/SPARSE_CHECKOUT.md)
 
 ## Repository Size
-Repository contains 53565 files with a size of 9.74 GB (10463601554 B).
+Repository contains 54059 files with a size of 9.86 GB (10589843192 B).
 
 ### Audio
-Contains 37355 files with a size of 3.85 GB (4130233560 B).
+Contains 37727 files with a size of 3.89 GB (4173527682 B).
 
 - **BGM:**
-  Contains 430 files with a size of 927.28 MB (972319782 B).
+  Contains 434 files with a size of 933.10 MB (978426510 B).
 
 - **Voiceline:**
-  Contains 1995 skins voiceline, 36925 files with a size of 2.94 GB (3157913778 B).
+  Contains 2010 skins voiceline, 37293 files with a size of 2.98 GB (3195101172 B).
 
 ### Images
-Contains 16149 files with a size of 5.84 GB (6271405588 B).
+Contains 16271 files with a size of 5.92 GB (6353960634 B).
 
 - **Background:**
-  Contains 103 files with a size of 66.13 MB (69339428 B).
+  Contains 104 files with a size of 66.65 MB (69883283 B).
 
 - **Equipment:**
   Contains 1126 files with a size of 13.24 MB (13878726 B).
@@ -75,23 +75,23 @@ Contains 16149 files with a size of 5.84 GB (6271405588 B).
   Contains 17 characters, 26 skills, and 91 talents assets with a total of 168 files and a combined size of 8.80 MB (9231640 B).
 
 - **Skills:**
-  Contains 1449 files with a size of 31.31 MB (32831781 B).
+  Contains 1467 files with a size of 31.70 MB (33243056 B).
 
 - **Skins:**
-  Contains 2013 skins, 12961 files with a size of 5.70 GB (6125228908 B).
+  Contains 2028 skins, 13064 files with a size of 5.78 GB (6206828824 B).
 
   - **painting:**
-    Contains 2896 files with a size of 5.39 GB (5784272113 B).
+    Contains 2924 files with a size of 5.46 GB (5863094613 B).
   - **banner:**
-    Contains 2013 files with a size of 58.31 MB (61143545 B).
+    Contains 2028 files with a size of 58.77 MB (61621503 B).
   - **chibi:**
-    Contains 2013 files with a size of 70.29 MB (73701163 B).
+    Contains 2028 files with a size of 71.02 MB (74465122 B).
   - **icon:**
-    Contains 2013 files with a size of 41.02 MB (43008734 B).
+    Contains 2028 files with a size of 41.30 MB (43310986 B).
   - **qicon:**
-    Contains 2013 files with a size of 31.73 MB (33275654 B).
+    Contains 2028 files with a size of 32.01 MB (33567523 B).
   - **shipyard:**
-    Contains 2013 files with a size of 123.81 MB (129827699 B).
+    Contains 2028 files with a size of 124.71 MB (130769077 B).
 
 > [!NOTE]
 > Assets without auto-update are not included.

@@ -11943,6 +11943,38 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30380.png",
     "max_level": 1
   },
+  "30391": {
+    "id": 30391,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Z52 once every 15 times the Main Guns are fired. Every 2 times this barrage is fired: additionally fires a torpedo barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30390.png",
+    "max_level": 1
+  },
+  "30392": {
+    "id": 30392,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Z52 once every 10 times the Main Guns are fired. Every 2 times this barrage is fired: additionally fires a torpedo barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30390.png",
+    "max_level": 1
+  },
+  "30401": {
+    "id": 30401,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Duisburg once every 12 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30400.png",
+    "max_level": 1
+  },
+  "30402": {
+    "id": 30402,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Duisburg once every 8 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/30400.png",
+    "max_level": 1
+  },
   "101010": {
     "id": 101010,
     "type": 3,
@@ -13829,6 +13861,110 @@
     "name": "\"Spiritual\" Healing",
     "desc": "When the battle starts: decreases this ship's DMG taken by 5.0% (15.0%). Every 30s, if a ship in your surface fleet has less than 50.0% of her max HP remaining, grants the Plastered status to the ship in your fleet with the lowest current HP percentage and restores 4.0% of that ship's max HP; the Plastered status lasts 15s and increases the target's FP by 4.0% (10.0%), but decreases her ACC by 15.0% (5.0%).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150640.png",
+    "max_level": 10
+  },
+  "150650": {
+    "id": 150650,
+    "type": 1,
+    "name": "Tearful Torpedo Tactics",
+    "desc": "When the battle starts, and every 15s: deploys Lv.1 (Lv.10) sea mines (DMG is based on the skill's level). When this ship fires her torpedoes: 15.0% (30.0%) chance to fire another wave of torpedoes.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150650.png",
+    "max_level": 10
+  },
+  "150660": {
+    "id": 150660,
+    "type": 3,
+    "name": "Spirited Defense",
+    "desc": "When this ship equips a Main Gun that fires AP ammo: increases this ship's Main Gun DMG dealt by 1.0% (10.0%) and decreases her DMG taken by 5.0% (15.0%). While this ship is afloat: decreases your BCs' and BBs' DMG taken by 1.0% (10.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150660.png",
+    "max_level": 10
+  },
+  "150670": {
+    "id": 150670,
+    "type": 1,
+    "name": "Thundering Seal",
+    "desc": "Grants this ship the Thunderheart. Every time this ship fires her Main Guns: Thunderheart gains 1 counter. Every time Thunderheart gains 1 counter: performs a Lv.1 (Lv.10) special attack (DMG is based on the skill's level) that inflicts the Thunderseal status on enemies hit. When the topmost ship in your Main Fleet fires her Main Guns or launches an airstrike: removes all Thunderseal statuses; enemies who had their Thunderseal statuses removed by this effect take 1.5% (5.0%) more DMG for 10s (this effect does not stack).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150670.png",
+    "max_level": 10
+  },
+  "150680": {
+    "id": 150680,
+    "type": 3,
+    "name": "Soaring Heart",
+    "desc": "Increases this ship's FP and TRP by 5.0% (15.0%). Every time the Thunderheart gains 3 counters: increases this ship's AA by 1.0% (10.0%) (can be stacked up to 5 times; upon reaching the stack limit, this ship gains a special Anti-Air Gun). While this ship is afloat, for the first 5 battles of each sortie fought by a fleet this ship is NOT in: 25s after the battle starts, launches a supporting barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150680.png",
+    "max_level": 10
+  },
+  "150690": {
+    "id": 150690,
+    "type": 2,
+    "name": "Thunder Guardian",
+    "desc": "Decreases this ship's DMG taken by 5.0% (15.0%). Every time the Thunderheart gains 6 counters: restores 1.0% of this ship's max HP. Every 2 times this HP recovery effect activates, performs a special slashing attack (DMG and range are based on the skill's level). The first 3 times this slashing attack is performed each battle: the ship in your fleet with the lowest current HP percentage recovers 2.0% of her max HP.\nGrants this ship the Flagship Cover skill; while this ship is afloat: decreases your Flagship's DMG taken by 15.0% (25.0%). If there are multiple ships in your fleet with the Flagship Cover skill, only the one with the strongest effect activates.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150690.png",
+    "max_level": 10
+  },
+  "150710": {
+    "id": 150710,
+    "type": 1,
+    "name": "Ornithopter Counterattack",
+    "desc": "When the battle starts, and every 15s: summons a Lv.1 (Lv.10) Pterosaur-model ornithopter that lasts for 12s. The ornithopter fights in the battle (DMG is based on the skill's level) and increases this ship's AA by 5.0% (20.0%) and Evasion Rate by 1.0% (10.0%) for 12s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150710.png",
+    "max_level": 10
+  },
+  "150720": {
+    "id": 150720,
+    "type": 3,
+    "name": "Leisurely Battleplan",
+    "desc": "Increases this ship's FP and TRP by 5.0% (15.0%). Every 20s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). When the fleet this ship is in gains the Out of Ammo debuff: decreases the DMG reduction effect of this debuff by 5.0% (15.0%) for this ship alone.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150720.png",
+    "max_level": 10
+  },
+  "150730": {
+    "id": 150730,
+    "type": 2,
+    "name": "Shocking Shield",
+    "desc": "Every 20s: deploys 2 shields (lasting 6 (8)s) that can negate up to 6 enemy shells. When the battle starts, if there is another Iron Blood ship in your Vanguard: increases your Vanguard's FP by 1.0% (10.0%) and TRP by 1.0% (10.0%) until the battle ends.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150730.png",
+    "max_level": 10
+  },
+  "150740": {
+    "id": 150740,
+    "type": 1,
+    "name": "Simple-Yet-Flashy DIY",
+    "desc": "When this ship fires her torpedoes: 30.0% (50.0%) chance to fire another wave of torpedoes. If this effect does not activate: deploys Lv.1 (Lv.10) sea mines at this ship's current location (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150740.png",
+    "max_level": 10
+  },
+  "150750": {
+    "id": 150750,
+    "type": 1,
+    "name": "Dauntless Wings of the Hero",
+    "desc": "When this ship launches an airstrike: 50.0% (100.0%) chance to launch an additional Lv.1 (Lv.10) special airstrike (DMG is based on the skill's level) that reduces the SPD of enemies hit by 30.0% for 6s; when an afflicted enemy is affected by a pulling effect, the SPD reduction effect is increased to 60.0%. While this ship is afloat, 16s after a fleet this ship is NOT in enters battle: fires a Lv.1 (Lv.10) supporting barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150750.png",
+    "max_level": 10
+  },
+  "150760": {
+    "id": 150760,
+    "type": 1,
+    "name": "Ruinous Blade of the Slayer",
+    "desc": "Every 10s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). If this ship has a CL Main Gun equipped in her third weapon slot: sets that CL Main Gun's Detection Range and Range to 80 (105) and makes its shells penetrate enemy shields. This ship gains a special CA Main Gun. When this CA Main Gun hits the same enemy 8 times: increases that enemy's DMG taken by 8.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150760.png",
+    "max_level": 10
+  },
+  "150770": {
+    "id": 150770,
+    "type": 3,
+    "name": "Immovable Heart of the Juggernaut",
+    "desc": "Increases this ship's AVI and ACC by 5.0% (15.0%). When this ship sinks an enemy while she is Detected: sets this ship's Detection Gauge to 0 (this effect can activate up to 3 times per battle).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150770.png",
+    "max_level": 10
+  },
+  "150780": {
+    "id": 150780,
+    "type": 1,
+    "name": "英勇者的无畏之翼-跨队效果",
+    "desc": "",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/150750.png",
     "max_level": 10
   },
   "800010": {
@@ -16013,6 +16149,62 @@
     "name": "Flickering Light - Taihou II",
     "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 8.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801520.png",
+    "max_level": 1
+  },
+  "801530": {
+    "id": 801530,
+    "type": 3,
+    "name": "Coiling Flames",
+    "desc": "Increases this ship's FP by 5.0% (15.0%). Every 4 times this ship's Main Guns hit the same enemy: inflicts the Coiling Flames status on that enemy. Every 20s: removes all Coiling Flames statuses; when this effect removes the Coiling Flames status on an enemy, decreases that enemy's SPD by 15.0% (30.0%) and EVA by 5.0% for 4s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801530.png",
+    "max_level": 10
+  },
+  "801540": {
+    "id": 801540,
+    "type": 1,
+    "name": "Hot-and-Cold Armaments",
+    "desc": "When the battle starts, and every 20s: deploys 2 shields (lasting 5 (15)s) that can negate up to 6 enemy shells. While a shield created by this effect exists on the field: increases this ship's Evasion Rate by 1.5% (6.0%) and DMG dealt by 5.0% (15.0%). If all shields created by this skill expire or are destroyed: fires a Lv.1 (Lv.10) special barrage that inflicts the Coiling Flames status to enemies hit (barrage DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801540.png",
+    "max_level": 10
+  },
+  "801550": {
+    "id": 801550,
+    "type": 2,
+    "name": "The Grumbling Ally",
+    "desc": "Increases this ship's TRP by 5.0% (15.0%). When the battle starts, if this ship is your frontmost Vanguard ship: when this ship takes DMG, there is a 10.0% (25.0%) chance to halve the DMG received; if this ship is NOT your frontmost Vanguard ship: deploys 2 shields (lasting until the battle ends) that can negate up to 10 enemy shells around your frontmost Vanguard ship.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801550.png",
+    "max_level": 10
+  },
+  "801561": {
+    "id": 801561,
+    "type": 3,
+    "name": "Cinders of Hope - Admiral Hipper I",
+    "desc": "Every 9 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801560.png",
+    "max_level": 1
+  },
+  "801562": {
+    "id": 801562,
+    "type": 3,
+    "name": "Cinders of Hope - Admiral Hipper II",
+    "desc": "Every 6 times this ship fires her Main Guns: fires a special barrage. Inflicts the Coiling Flames status to enemies hit by this barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801560.png",
+    "max_level": 1
+  },
+  "801565": {
+    "id": 801565,
+    "type": 3,
+    "name": "Cinders of Hope - Admiral Hipper I",
+    "desc": "[Operation Siren]\nEvery 9 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 3.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801560.png",
+    "max_level": 1
+  },
+  "801567": {
+    "id": 801567,
+    "type": 3,
+    "name": "Cinders of Hope - Admiral Hipper II",
+    "desc": "[Operation Siren]\nEvery 6 times this ship fires her Main Guns: fires a special barrage. Inflicts the Coiling Flames status to enemies hit by this barrage. When fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 8.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/801560.png",
     "max_level": 1
   },
   "902220": {

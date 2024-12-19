@@ -359,6 +359,14 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-ironblood-brisk.ogg"
   },
+  "battle-ironblood-defence": {
+    "title": "集结抵抗舰队_AL",
+    "size": 973214,
+    "duration": 50.13333333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-ironblood-defence.ogg"
+  },
   "battle-italy": {
     "title": "AL005_ItalyBattle_demo02_1",
     "size": 911183,
@@ -2223,6 +2231,14 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-ghostnight-fascinsting.ogg"
   },
+  "story-ironblood-light": {
+    "title": "理性与秩序之国_AL",
+    "size": 2253370,
+    "duration": 123.11466666666666,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-ironblood-light.ogg"
+  },
   "story-ironblood-strong": {
     "title": "公国的铁与血_shade",
     "size": 3016030,
@@ -2510,6 +2526,14 @@
     "bitrate": 160.0,
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-light.ogg"
+  },
+  "story-richang-partynight": {
+    "title": "貂ｸ謌丈ｹ句､彑AL",
+    "size": 1143755,
+    "duration": 56.384,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-partynight.ogg"
   },
   "story-richang-quiet": {
     "title": "BZM_05",
@@ -3094,6 +3118,14 @@
     "bitrate": 160.0,
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-sovietunion.ogg"
+  },
+  "theme-starbeast": {
+    "title": "星之兽_AL",
+    "size": 1736389,
+    "duration": 91.776,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-starbeast.ogg"
   },
   "theme-starsea-core": {
     "title": "體ｶ豐ｳ荵句ｿダG",
