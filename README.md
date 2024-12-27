@@ -51,19 +51,19 @@ We anticipate that the update process will be completed in 1~7 days or before Fe
 - [git sparse-checkout how-to](/docs/SPARSE_CHECKOUT.md)
 
 ## Repository Size
-Repository contains 54059 files with a size of 9.86 GB (10589974771 B).
+Repository contains 54224 files with a size of 9.92 GB (10646415166 B).
 
 ### Audio
-Contains 37727 files with a size of 3.89 GB (4173527682 B).
+Contains 37836 files with a size of 3.90 GB (4188528121 B).
 
 - **BGM:**
-  Contains 434 files with a size of 933.10 MB (978426510 B).
+  Contains 435 files with a size of 934.78 MB (980190360 B).
 
 - **Voiceline:**
-  Contains 2010 skins voiceline, 37293 files with a size of 2.98 GB (3195101172 B).
+  Contains 2018 skins voiceline, 37401 files with a size of 2.99 GB (3208337761 B).
 
 ### Images
-Contains 16271 files with a size of 5.92 GB (6353960634 B).
+Contains 16327 files with a size of 5.96 GB (6395272295 B).
 
 - **Background:**
   Contains 104 files with a size of 66.65 MB (69883283 B).
@@ -78,20 +78,20 @@ Contains 16271 files with a size of 5.92 GB (6353960634 B).
   Contains 1467 files with a size of 31.70 MB (33243056 B).
 
 - **Skins:**
-  Contains 2028 skins, 13064 files with a size of 5.78 GB (6206828824 B).
+  Contains 2036 skins, 13120 files with a size of 5.82 GB (6248140485 B).
 
   - **painting:**
-    Contains 2924 files with a size of 5.46 GB (5863094613 B).
+    Contains 2940 files with a size of 5.50 GB (5902794053 B).
   - **banner:**
-    Contains 2028 files with a size of 58.77 MB (61621503 B).
+    Contains 2036 files with a size of 59.02 MB (61881830 B).
   - **chibi:**
-    Contains 2028 files with a size of 71.02 MB (74465122 B).
+    Contains 2036 files with a size of 71.52 MB (74989082 B).
   - **icon:**
-    Contains 2028 files with a size of 41.30 MB (43310986 B).
+    Contains 2036 files with a size of 41.47 MB (43480159 B).
   - **qicon:**
-    Contains 2028 files with a size of 32.01 MB (33567523 B).
+    Contains 2036 files with a size of 32.16 MB (33725557 B).
   - **shipyard:**
-    Contains 2028 files with a size of 124.71 MB (130769077 B).
+    Contains 2036 files with a size of 125.19 MB (131269804 B).
 
 > [!NOTE]
 > Assets without auto-update are not included.

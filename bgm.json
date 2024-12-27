@@ -2599,6 +2599,14 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-roma-outside.ogg"
   },
+  "story-room-noshiro": {
+    "title": "story-room-noshiro",
+    "size": 1763850,
+    "duration": 92.74049886621316,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-room-noshiro.ogg"
+  },
   "story-room-sirius": {
     "title": "story-room-sirius",
     "size": 1843433,

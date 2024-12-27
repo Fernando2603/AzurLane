@@ -9600,6 +9600,31 @@
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199050/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199050/shipyard.png"
   },
+  "199051": {
+    "id": 199051,
+    "gid": 19905,
+    "name": "A Special Day with the Bunny Lord",
+    "type": "Bunny Girl",
+    "desc": "\"Welcome, dear guest♪ Right this way~ I'm happy to join you for a treat and chat♪\" ...It was good? Well, obviously. I take my work very seriously!",
+    "tag": [
+      "dynamic",
+      "bg"
+    ],
+    "illustrator": 1,
+    "illustrator2": -1,
+    "voice_actor": 416,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/150.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199051/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199051/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199051/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199051/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199051/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199051/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/199051/shipyard.png"
+  },
   "201010": {
     "id": 201010,
     "gid": 20101,
@@ -23698,6 +23723,30 @@
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303060/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303060/shipyard.png"
   },
+  "303061": {
+    "id": 303061,
+    "gid": 30306,
+    "name": "Premium Prize on the Table",
+    "type": "Bunny Girl",
+    "desc": "Commander, would you like to share a drink... or play a game together? If you win, I'll share some secret intel that you're sure to love.",
+    "tag": [
+      "bg"
+    ],
+    "illustrator": 20,
+    "illustrator2": -1,
+    "voice_actor": 288,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/608.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303061/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303061/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303061/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303061/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303061/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303061/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/303061/shipyard.png"
+  },
   "303070": {
     "id": 303070,
     "gid": 30307,
@@ -27627,6 +27676,31 @@
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/307083/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/307083/shipyard.png"
   },
+  "307084": {
+    "id": 307084,
+    "gid": 30708,
+    "name": "Visions of Fantasy",
+    "type": "Bunny Girl",
+    "desc": "As a flickering, quivering phantasm... Welcome to the dream this one made for you, Commander. Do you like this magic, in which this one appears in an instant?",
+    "tag": [
+      "live2d",
+      "bg"
+    ],
+    "illustrator": -1,
+    "illustrator2": -1,
+    "voice_actor": 192,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/608.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/307084/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/307084/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/307084/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/307084/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/307084/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/307084/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/307084/shipyard.png"
+  },
   "307090": {
     "id": 307090,
     "gid": 30709,
@@ -28948,6 +29022,31 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399070/icon.png",
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399070/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399070/shipyard.png"
+  },
+  "399071": {
+    "id": 399071,
+    "gid": 39907,
+    "name": "Bunny Priestess in Prayer",
+    "type": "Bunny Girl",
+    "desc": "Oh, Commander! You're here earlier than I expected. Ah, I finally get to serve you in this specially made attire, stuffed full of such fantasy and dreams... I'm ever so honored.",
+    "tag": [
+      "dynamic",
+      "bg"
+    ],
+    "illustrator": 1,
+    "illustrator2": -1,
+    "voice_actor": 417,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/160.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399071/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399071/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399071/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399071/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399071/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399071/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/399071/shipyard.png"
   },
   "401010": {
     "id": 401010,
@@ -30861,6 +30960,30 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/402101/icon.png",
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/402101/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/402101/shipyard.png"
+  },
+  "402102": {
+    "id": 402102,
+    "gid": 40210,
+    "name": "The Dark Dragon's Dungeon",
+    "type": "Bunny Girl",
+    "desc": "Hmm... Who knew this stuff was in a warehouse, of all places? Heh, I think this will help quite a bit with disciplining that rigging that gave you so much trouble.",
+    "tag": [
+      "bg"
+    ],
+    "illustrator": -1,
+    "illustrator2": -1,
+    "voice_actor": 362,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/154.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/402102/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/402102/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/402102/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/402102/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/402102/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/402102/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/402102/shipyard.png"
   },
   "402110": {
     "id": 402110,
@@ -37876,6 +37999,31 @@
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/699020/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/699020/shipyard.png"
   },
+  "699021": {
+    "id": 699021,
+    "gid": 69902,
+    "name": "Dreamy Night",
+    "type": "Bunny Girl",
+    "desc": "Commander... Apologies for appearing before you like this. I'll try to get up right at once... Agh... I'm still so dizzy...",
+    "tag": [
+      "live2d",
+      "bg"
+    ],
+    "illustrator": -1,
+    "illustrator2": -1,
+    "voice_actor": 189,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/145.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/699021/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/699021/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/699021/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/699021/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/699021/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/699021/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/699021/shipyard.png"
+  },
   "701020": {
     "id": 701020,
     "gid": 70102,
@@ -39766,6 +39914,31 @@
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/799020/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/799020/shipyard.png"
   },
+  "799021": {
+    "id": 799021,
+    "gid": 79902,
+    "name": "First Time in the Limelight",
+    "type": "Bunny Girl",
+    "desc": "What are you doing on the set, Commander? Here to check on the progress? But won't this spoil your first impression of the final cut? Well, the video is made for you anyways, so consider this a preview.",
+    "tag": [
+      "live2d",
+      "bg"
+    ],
+    "illustrator": 1,
+    "illustrator2": -1,
+    "voice_actor": 296,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/150.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/799021/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/799021/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/799021/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/799021/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/799021/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/799021/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/799021/shipyard.png"
+  },
   "801010": {
     "id": 801010,
     "gid": 80101,
@@ -41114,6 +41287,30 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/899040/icon.png",
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/899040/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/899040/shipyard.png"
+  },
+  "899041": {
+    "id": 899041,
+    "gid": 89904,
+    "name": "The Most Treacherous Trial",
+    "type": "Bunny Girl",
+    "desc": "Welcome, Commander. ...You really don't know what I'm doing? So there are things even you don't know. This is a new means of training knights, you see. Expect ever greater exploits from me.",
+    "tag": [
+      "bg"
+    ],
+    "illustrator": 1,
+    "illustrator2": -1,
+    "voice_actor": 418,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/608.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/899041/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/899041/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/899041/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/899041/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/899041/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/899041/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skins/899041/shipyard.png"
   },
   "901010": {
     "id": 901010,
