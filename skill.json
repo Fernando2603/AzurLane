@@ -16655,6 +16655,22 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/13550.png",
     "max_level": 10
   },
+  "1014070": {
+    "id": 1014070,
+    "type": 3,
+    "name": "Purge Evil+",
+    "desc": "Increases this ship's FP and AA by 15.0% (25.0%), Main Gun efficiency by 5.0% (15.0%), and Anti-Air Gun efficiency by 30.0% (50.0%). Grants this ship a Lv.1 (Lv.10) special Anti-Air Gun (DMG is based on the skill's level). Every 20s: fires a Lv.1 (Lv.10) improved special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/14070.png",
+    "max_level": 10
+  },
+  "1014090": {
+    "id": 1014090,
+    "type": 3,
+    "name": "Cleanse Impurity+",
+    "desc": "Increases this ship's FP, AA, and ASW by 15.0% (25.0%), Main Gun efficiency by 5.0% (15.0%), and Anti-Air Gun efficiency by 15.0% (30.0%). Grants this ship a Lv.1 (Lv.10) special Anti-Air Gun (DMG is based on the skill's level). Every 20s: fires a Lv.1 (Lv.10) improved special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skills/14090.png",
+    "max_level": 10
+  },
   "1017160": {
     "id": 1017160,
     "type": 1,

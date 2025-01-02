@@ -51,7 +51,7 @@ We anticipate that the update process will be completed in 1~7 days or before Fe
 - [git sparse-checkout how-to](/docs/SPARSE_CHECKOUT.md)
 
 ## Repository Size
-Repository contains 54224 files with a size of 9.92 GB (10646415166 B).
+Repository contains 54224 files with a size of 9.92 GB (10646416446 B).
 
 ### Audio
 Contains 37836 files with a size of 3.90 GB (4188528121 B).
