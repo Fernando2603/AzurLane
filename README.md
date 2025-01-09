@@ -51,7 +51,7 @@ We anticipate that the update process will be completed in 1~7 days or before Fe
 - [git sparse-checkout how-to](/docs/SPARSE_CHECKOUT.md)
 
 ## Repository Size
-Repository contains 54224 files with a size of 9.92 GB (10646416446 B).
+Repository contains 54224 files with a size of 9.91 GB (10644951963 B).
 
 ### Audio
 Contains 37836 files with a size of 3.90 GB (4188528121 B).
@@ -63,7 +63,7 @@ Contains 37836 files with a size of 3.90 GB (4188528121 B).
   Contains 2018 skins voiceline, 37401 files with a size of 2.99 GB (3208337761 B).
 
 ### Images
-Contains 16327 files with a size of 5.96 GB (6395272295 B).
+Contains 16327 files with a size of 5.96 GB (6394937333 B).
 
 - **Background:**
   Contains 104 files with a size of 66.65 MB (69883283 B).
@@ -78,10 +78,10 @@ Contains 16327 files with a size of 5.96 GB (6395272295 B).
   Contains 1467 files with a size of 31.70 MB (33243056 B).
 
 - **Skins:**
-  Contains 2036 skins, 13120 files with a size of 5.82 GB (6248140485 B).
+  Contains 2036 skins, 13120 files with a size of 5.82 GB (6247805523 B).
 
   - **painting:**
-    Contains 2940 files with a size of 5.50 GB (5902794053 B).
+    Contains 2940 files with a size of 5.50 GB (5902459091 B).
   - **banner:**
     Contains 2036 files with a size of 59.02 MB (61881830 B).
   - **chibi:**
