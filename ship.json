@@ -3597,7 +3597,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -4941,7 +4941,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -6658,7 +6658,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -6894,7 +6894,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -8767,7 +8767,8 @@
     "nationality": 1,
     "obtain": [
       "Event: Ashen Simulacrum",
-      "Light ship Construction"
+      "Medal Shop (when listed)",
+      "Requisition (random chance)"
     ],
     "type": 1,
     "rarity": 5,
@@ -9010,7 +9011,8 @@
     "nationality": 1,
     "obtain": [
       "Event: Ashen Simulacrum",
-      "Light ship Construction"
+      "Guild Shop",
+      "Requisition (random chance)"
     ],
     "type": 1,
     "rarity": 4,
@@ -11211,7 +11213,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -11447,7 +11449,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -11683,7 +11685,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -12841,7 +12843,7 @@
     ],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -13081,7 +13083,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -13556,7 +13558,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -13790,7 +13792,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -14030,7 +14032,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -14270,7 +14272,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -14981,7 +14983,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -15221,7 +15223,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -15927,7 +15929,8 @@
     "nationality": 1,
     "obtain": [
       "Event: Ashen Simulacrum",
-      "Light ship Construction"
+      "Guild Shop",
+      "Requisition (random chance)"
     ],
     "type": 2,
     "rarity": 4,
@@ -15943,7 +15946,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -16168,7 +16171,8 @@
     "nationality": 1,
     "obtain": [
       "Event: Passionate Polaris",
-      "Light ship Construction"
+      "Guild Shop",
+      "Requisition (random chance)"
     ],
     "type": 2,
     "rarity": 4,
@@ -16186,7 +16190,7 @@
     ],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -16428,7 +16432,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -17151,7 +17155,7 @@
     ],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -17635,7 +17639,7 @@
     ],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -18117,7 +18121,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -18348,7 +18352,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -18583,7 +18587,7 @@
     ],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -18816,7 +18820,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -19051,7 +19055,7 @@
     ],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -20504,7 +20508,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -20742,7 +20746,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -20982,7 +20986,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -21444,7 +21448,8 @@
     "nationality": 1,
     "obtain": [
       "Event: Ashen Simulacrum",
-      "Heavy Ship Construction"
+      "Medal Shop (when listed)",
+      "Requisition (random chance)"
     ],
     "type": 3,
     "rarity": 5,
@@ -21462,7 +21467,7 @@
     ],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -21701,7 +21706,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -21924,7 +21929,8 @@
     "nationality": 1,
     "obtain": [
       "Event: Universe in Unison",
-      "Heavy Ship Construction"
+      "Guild Shop",
+      "Requisition (random chance)"
     ],
     "type": 3,
     "rarity": 4,
@@ -22182,7 +22188,7 @@
     ],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -22420,7 +22426,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -22658,7 +22664,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -26715,7 +26721,8 @@
     "nationality": 1,
     "obtain": [
       "Event: Ashen Simulacrum",
-      "Heavy Ship Construction"
+      "Medal Shop (when listed)",
+      "Requisition (random chance)"
     ],
     "type": 5,
     "rarity": 5,
@@ -33559,7 +33566,8 @@
     "nationality": 1,
     "obtain": [
       "Event: Universe in Unison",
-      "Special Construction"
+      "Guild Shop",
+      "Requisition (random chance)"
     ],
     "type": 8,
     "rarity": 4,
@@ -36786,7 +36794,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -37078,7 +37086,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -37627,7 +37635,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -37864,7 +37872,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -38101,7 +38109,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -38370,7 +38378,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -38639,7 +38647,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -38907,7 +38915,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -39174,7 +39182,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -39441,7 +39449,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -39927,7 +39935,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -40170,7 +40178,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -40673,7 +40681,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -41146,7 +41154,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -41383,7 +41391,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -41620,7 +41628,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -41863,7 +41871,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -42099,7 +42107,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -42335,7 +42343,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -42571,7 +42579,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -43298,7 +43306,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -44052,7 +44060,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -44319,7 +44327,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -44832,7 +44840,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -45078,7 +45086,7 @@
     ],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -45321,7 +45329,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -45565,7 +45573,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -45808,7 +45816,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -47002,7 +47010,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -47239,7 +47247,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -47475,7 +47483,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -47718,7 +47726,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -49009,7 +49017,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -49255,7 +49263,7 @@
     ],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -49497,7 +49505,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -49968,7 +49976,8 @@
     "nationality": 2,
     "obtain": [
       "Event: Universe in Unison",
-      "Light ship Construction"
+      "Medal Shop (when listed)",
+      "Requisition (random chance)"
     ],
     "type": 2,
     "rarity": 5,
@@ -50213,8 +50222,9 @@
     "class": "Arethusa Class",
     "nationality": 2,
     "obtain": [
-      "Event: Lunar New Year Special Missions",
-      "Light ship Construction"
+      "Event: Lunar New Year",
+      "Guild Shop",
+      "Requisition (random chance)"
     ],
     "type": 2,
     "rarity": 4,
@@ -50716,7 +50726,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -50960,7 +50970,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -51445,7 +51455,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -51691,7 +51701,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -51985,7 +51995,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -52277,7 +52287,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -52512,7 +52522,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -52777,7 +52787,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -53010,7 +53020,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -53245,7 +53255,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -53511,7 +53521,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -53782,7 +53792,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -54254,7 +54264,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -61058,7 +61068,8 @@
     "nationality": 2,
     "obtain": [
       "Event: Empyreal Tragicomedy",
-      "Special Construction"
+      "Medal Shop (when listed)",
+      "Requisition (random chance)"
     ],
     "type": 7,
     "rarity": 5,
@@ -65374,7 +65385,8 @@
     "nationality": 3,
     "obtain": [
       "Event: Swirling Cherry Blossoms",
-      "Light ship Construction"
+      "Guild Shop",
+      "Requisition (random chance)"
     ],
     "type": 1,
     "rarity": 4,
@@ -74179,7 +74191,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -74423,7 +74435,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -74660,7 +74672,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -77558,7 +77570,8 @@
     "nationality": 3,
     "obtain": [
       "Event: Swirling Cherry Blossoms",
-      "Light ship Construction"
+      "Guild Shop",
+      "Requisition (random chance)"
     ],
     "type": 1,
     "rarity": 4,
@@ -77876,7 +77889,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -78819,7 +78832,8 @@
     "nationality": 3,
     "obtain": [
       "Event: Swirling Cherry Blossoms",
-      "Light ship Construction"
+      "Medal Shop (when listed)",
+      "Requisition (random chance)"
     ],
     "type": 1,
     "rarity": 5,
@@ -79803,7 +79817,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Torpedo efficiency +5%"
       ],
       [
@@ -82389,7 +82403,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -82654,7 +82668,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -82921,7 +82935,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -83156,7 +83170,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -83383,7 +83397,7 @@
     "nationality": 3,
     "obtain": [
       "Event: Swirling Cherry Blossoms",
-      "Light ship Construction"
+      "Merit Shop"
     ],
     "type": 2,
     "rarity": 5,
@@ -84371,7 +84385,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -84613,7 +84627,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -84878,7 +84892,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -85143,7 +85157,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -85376,7 +85390,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -85610,7 +85624,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -85850,7 +85864,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -86083,7 +86097,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -86350,7 +86364,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -86583,7 +86597,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -86825,7 +86839,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -87067,7 +87081,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -87540,7 +87554,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -87781,7 +87795,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -88023,7 +88037,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -93237,7 +93251,8 @@
     "nationality": 3,
     "obtain": [
       "Event: Swirling Cherry Blossoms",
-      "Heavy Ship Construction"
+      "Medal Shop (when listed)",
+      "Requisition (random chance)"
     ],
     "type": 5,
     "rarity": 5,
@@ -94838,7 +94853,8 @@
     "nationality": 3,
     "obtain": [
       "Event: Swirling Cherry Blossoms",
-      "Special Construction"
+      "Medal Shop (when listed)",
+      "Requisition (random chance)"
     ],
     "type": 6,
     "rarity": 5,
@@ -97630,7 +97646,8 @@
     "nationality": 3,
     "obtain": [
       "Event: Passionate Polaris",
-      "Special Construction"
+      "Medal Shop (when listed)",
+      "Requisition (random chance)"
     ],
     "type": 7,
     "rarity": 5,
@@ -97858,7 +97875,8 @@
     "nationality": 3,
     "obtain": [
       "Event: Universe in Unison",
-      "Special Construction"
+      "Medal Shop (when listed)",
+      "Requisition (random chance)"
     ],
     "type": 7,
     "rarity": 5,
@@ -100932,7 +100950,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -103900,7 +103918,7 @@
         "Torpedo efficiency +10%"
       ],
       [
-        "Improve All Out Assault I",
+        "Improve All Out Assault",
         "All weapons' efficiency +5%"
       ]
     ],
@@ -104142,7 +104160,7 @@
         "Torpedo efficiency +10%"
       ],
       [
-        "Improve All Out Assault I",
+        "Improve All Out Assault",
         "All weapons' efficiency +5%"
       ]
     ],
@@ -105829,7 +105847,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -106562,7 +106580,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -110293,7 +110311,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -111023,7 +111041,7 @@
     ],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -111263,7 +111281,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -111741,7 +111759,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -111976,7 +111994,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -112195,7 +112213,8 @@
     "nationality": 4,
     "obtain": [
       "Event: Passionate Polaris",
-      "Heavy Ship Construction"
+      "Guild Shop",
+      "Requisition (random chance)"
     ],
     "type": 3,
     "rarity": 4,
@@ -112213,7 +112232,7 @@
     ],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -113654,7 +113673,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -120441,7 +120460,9 @@
     "nationality": 4,
     "obtain": [
       "Limited Event: The Enigma and the Shark",
-      "Special Construction"
+      "Requisition (random chance)",
+      "Guild Shop",
+      "Merit Shop"
     ],
     "type": 8,
     "rarity": 4,
@@ -124710,7 +124731,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -125024,7 +125045,9 @@
       501021,
       501022,
       501023,
-      501024
+      501024,
+      520024,
+      521024
     ],
     "name": "Fu Shun",
     "codename": "PRAN Fu Shun",
@@ -125047,7 +125070,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -125060,6 +125083,28 @@
         "All weapons' efficiency +5%"
       ]
     ],
+    "retrofit": {
+      "id": 520024,
+      "level": 85,
+      "bonus": {
+        "health": 165,
+        "torpedo": 80,
+        "equipment_proficiency_1": 0.15,
+        "firepower": 40,
+        "evasion": 30
+      },
+      "skill": 0,
+      "skin": 501029,
+      "armor": 1,
+      "hexagon": [
+        "A",
+        "B",
+        "E",
+        "B",
+        "C",
+        "C"
+      ]
+    },
     "equipment": {
       "1": {
         "default": 100,
@@ -125067,19 +125112,19 @@
         "type": [
           1
         ],
-        "mount": 1,
+        "mount": 2,
         "preload": 0,
-        "efficiency": 1.55
+        "efficiency": 0.85
       },
       "2": {
         "default": 107,
         "slot": 2,
         "type": [
-          5
+          20
         ],
-        "mount": 2,
+        "mount": 1,
         "preload": 1,
-        "efficiency": 1
+        "efficiency": 1.5
       },
       "3": {
         "default": 104,
@@ -125166,6 +125211,32 @@
         "speed": 45.6,
         "luck": 51,
         "asw": 122
+      },
+      "520024": {
+        "health": 904,
+        "firepower": 59,
+        "torpedo": 106,
+        "antiair": 80,
+        "aviation": 0,
+        "reload": 74,
+        "accuracy": 68,
+        "evasion": 61,
+        "speed": 45.6,
+        "luck": 51,
+        "asw": 122
+      },
+      "521024": {
+        "health": 1409,
+        "firepower": 59,
+        "torpedo": 106,
+        "antiair": 80,
+        "aviation": 0,
+        "reload": 74,
+        "accuracy": 68,
+        "evasion": 21,
+        "speed": 45.6,
+        "luck": 51,
+        "asw": 122
       }
     },
     "growth": {
@@ -125220,6 +125291,32 @@
         "speed": 0,
         "luck": 0,
         "asw": 564
+      },
+      "520024": {
+        "health": 10459,
+        "firepower": 328,
+        "torpedo": 590,
+        "antiair": 709,
+        "aviation": 0,
+        "reload": 515,
+        "accuracy": 1045,
+        "evasion": 1132,
+        "speed": 0,
+        "luck": 0,
+        "asw": 564
+      },
+      "521024": {
+        "health": 16299,
+        "firepower": 328,
+        "torpedo": 590,
+        "antiair": 709,
+        "aviation": 0,
+        "reload": 515,
+        "accuracy": 1045,
+        "evasion": 1132,
+        "speed": 0,
+        "luck": 0,
+        "asw": 564
       }
     },
     "enhance": {
@@ -125231,7 +125328,7 @@
       "11050": {
         "id": 11050,
         "parent": 11050,
-        "upgrade": null,
+        "upgrade": 150860,
         "downgrade": null,
         "requirement": "Default"
       },
@@ -125245,9 +125342,37 @@
       "24012": {
         "id": 24012,
         "parent": 24011,
-        "upgrade": null,
+        "upgrade": 30412,
         "downgrade": 24011,
         "requirement": "Limit Break 3"
+      },
+      "150860": {
+        "id": 150860,
+        "parent": 11050,
+        "upgrade": null,
+        "downgrade": 11050,
+        "requirement": "Retrofit"
+      },
+      "30411": {
+        "id": 30411,
+        "parent": 24011,
+        "upgrade": null,
+        "downgrade": 24012,
+        "requirement": "Retrofit"
+      },
+      "150870": {
+        "id": 150870,
+        "parent": 150870,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Retrofit"
+      },
+      "30412": {
+        "id": 30412,
+        "parent": 24011,
+        "upgrade": null,
+        "downgrade": 24012,
+        "requirement": "Retrofit"
       }
     }
   },
@@ -125286,7 +125411,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -125627,7 +125752,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -125948,7 +126073,8 @@
     "class": "Lung Wu Class",
     "nationality": 5,
     "obtain": [
-      "Event: Spring Festive Fiasco"
+      "Event: Spring Festive Fiasco",
+      "Light ship Construction"
     ],
     "type": 1,
     "rarity": 4,
@@ -126189,7 +126315,8 @@
     "class": "Lung Wu Class",
     "nationality": 5,
     "obtain": [
-      "Event: Spring Festive Fiasco"
+      "Event: Spring Festive Fiasco",
+      "Light ship Construction"
     ],
     "type": 1,
     "rarity": 4,
@@ -126430,7 +126557,8 @@
     "class": "Fei Yuen",
     "nationality": 5,
     "obtain": [
-      "Event: Fei Yuen's Spring Adventure"
+      "Event: Fei Yuen's Spring Adventure",
+      "Core Data Shop"
     ],
     "type": 1,
     "rarity": 4,
@@ -126652,6 +126780,488 @@
         "parent": 24061,
         "upgrade": null,
         "downgrade": 24061,
+        "requirement": "Limit Break 3"
+      }
+    }
+  },
+  {
+    "id": 676,
+    "gid": 50108,
+    "cid": 1,
+    "sid": [
+      501081,
+      501082,
+      501083,
+      501084
+    ],
+    "name": "Chang Feng",
+    "codename": "Chang Feng",
+    "class": "Fei Yuen",
+    "nationality": 5,
+    "obtain": [
+      "Event: Spring Fashion Festa"
+    ],
+    "type": 1,
+    "rarity": 4,
+    "armor": 1,
+    "hexagon": [
+      "B",
+      "D",
+      "E",
+      "B",
+      "C",
+      "D"
+    ],
+    "share_group": [],
+    "breakout": [
+      [
+        "Unlock All Out Assault I",
+        "Torpedo efficiency +5%"
+      ],
+      [
+        "Torpedo preload +1",
+        "All weapons' efficiency +5%"
+      ],
+      [
+        "Improve All Out Assault",
+        "All weapons' efficiency +5%"
+      ]
+    ],
+    "equipment": {
+      "1": {
+        "default": 100,
+        "slot": 1,
+        "type": [
+          1
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1.35
+      },
+      "2": {
+        "default": 107,
+        "slot": 2,
+        "type": [
+          5
+        ],
+        "mount": 1,
+        "preload": 1,
+        "efficiency": 1.4
+      },
+      "3": {
+        "default": 104,
+        "slot": 3,
+        "type": [
+          6
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1.05
+      },
+      "4": {
+        "default": null,
+        "slot": 4,
+        "type": [
+          10,
+          14
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      },
+      "5": {
+        "default": null,
+        "slot": 5,
+        "type": [
+          10,
+          14
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      }
+    },
+    "base": {
+      "501081": {
+        "health": 298,
+        "firepower": 19,
+        "torpedo": 40,
+        "antiair": 23,
+        "aviation": 0,
+        "reload": 73,
+        "accuracy": 66,
+        "evasion": 64,
+        "speed": 43.2,
+        "luck": 15,
+        "asw": 30
+      },
+      "501082": {
+        "health": 371,
+        "firepower": 24,
+        "torpedo": 50,
+        "antiair": 29,
+        "aviation": 0,
+        "reload": 73,
+        "accuracy": 66,
+        "evasion": 64,
+        "speed": 43.2,
+        "luck": 15,
+        "asw": 37
+      },
+      "501083": {
+        "health": 516,
+        "firepower": 33,
+        "torpedo": 70,
+        "antiair": 40,
+        "aviation": 0,
+        "reload": 73,
+        "accuracy": 66,
+        "evasion": 64,
+        "speed": 43.2,
+        "luck": 15,
+        "asw": 52
+      },
+      "501084": {
+        "health": 734,
+        "firepower": 47,
+        "torpedo": 99,
+        "antiair": 57,
+        "aviation": 0,
+        "reload": 73,
+        "accuracy": 66,
+        "evasion": 64,
+        "speed": 43.2,
+        "luck": 15,
+        "asw": 74
+      }
+    },
+    "growth": {
+      "501081": {
+        "health": 7388,
+        "firepower": 258,
+        "torpedo": 554,
+        "antiair": 508,
+        "aviation": 0,
+        "reload": 510,
+        "accuracy": 1041,
+        "evasion": 1212,
+        "speed": 0,
+        "luck": 0,
+        "asw": 360
+      },
+      "501082": {
+        "health": 7388,
+        "firepower": 258,
+        "torpedo": 554,
+        "antiair": 508,
+        "aviation": 0,
+        "reload": 510,
+        "accuracy": 1041,
+        "evasion": 1212,
+        "speed": 0,
+        "luck": 0,
+        "asw": 360
+      },
+      "501083": {
+        "health": 7388,
+        "firepower": 258,
+        "torpedo": 554,
+        "antiair": 508,
+        "aviation": 0,
+        "reload": 510,
+        "accuracy": 1041,
+        "evasion": 1212,
+        "speed": 0,
+        "luck": 0,
+        "asw": 360
+      },
+      "501084": {
+        "health": 7388,
+        "firepower": 258,
+        "torpedo": 554,
+        "antiair": 508,
+        "aviation": 0,
+        "reload": 510,
+        "accuracy": 1041,
+        "evasion": 1212,
+        "speed": 0,
+        "luck": 0,
+        "asw": 360
+      }
+    },
+    "enhance": {
+      "firepower": 18,
+      "torpedo": 40,
+      "reload": 55
+    },
+    "skill": {
+      "150790": {
+        "id": 150790,
+        "parent": 150790,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "150800": {
+        "id": 150800,
+        "parent": 150800,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "28231": {
+        "id": 28231,
+        "parent": 28231,
+        "upgrade": 28232,
+        "downgrade": null,
+        "requirement": "Limit Break 1"
+      },
+      "28232": {
+        "id": 28232,
+        "parent": 28231,
+        "upgrade": null,
+        "downgrade": 28231,
+        "requirement": "Limit Break 3"
+      }
+    }
+  },
+  {
+    "id": 677,
+    "gid": 50109,
+    "cid": 1,
+    "sid": [
+      501091,
+      501092,
+      501093,
+      501094
+    ],
+    "name": "Fu Po",
+    "codename": "Fu Po",
+    "class": "Fei Yuen",
+    "nationality": 5,
+    "obtain": [
+      "Event: Spring Fashion Festa"
+    ],
+    "type": 1,
+    "rarity": 4,
+    "armor": 1,
+    "hexagon": [
+      "B",
+      "D",
+      "E",
+      "B",
+      "C",
+      "D"
+    ],
+    "share_group": [],
+    "breakout": [
+      [
+        "Unlock All Out Assault I",
+        "Torpedo efficiency +5%"
+      ],
+      [
+        "Torpedo preload +1",
+        "All weapons' efficiency +5%"
+      ],
+      [
+        "Improve All Out Assault",
+        "All weapons' efficiency +5%"
+      ]
+    ],
+    "equipment": {
+      "1": {
+        "default": 100,
+        "slot": 1,
+        "type": [
+          1
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1.35
+      },
+      "2": {
+        "default": 107,
+        "slot": 2,
+        "type": [
+          5
+        ],
+        "mount": 1,
+        "preload": 1,
+        "efficiency": 1.4
+      },
+      "3": {
+        "default": 104,
+        "slot": 3,
+        "type": [
+          6
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1.05
+      },
+      "4": {
+        "default": null,
+        "slot": 4,
+        "type": [
+          10,
+          14
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      },
+      "5": {
+        "default": null,
+        "slot": 5,
+        "type": [
+          10,
+          14
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      }
+    },
+    "base": {
+      "501091": {
+        "health": 308,
+        "firepower": 18,
+        "torpedo": 40,
+        "antiair": 23,
+        "aviation": 0,
+        "reload": 74,
+        "accuracy": 68,
+        "evasion": 64,
+        "speed": 43.2,
+        "luck": 45,
+        "asw": 32
+      },
+      "501092": {
+        "health": 383,
+        "firepower": 22,
+        "torpedo": 50,
+        "antiair": 29,
+        "aviation": 0,
+        "reload": 74,
+        "accuracy": 68,
+        "evasion": 64,
+        "speed": 43.2,
+        "luck": 45,
+        "asw": 40
+      },
+      "501093": {
+        "health": 533,
+        "firepower": 31,
+        "torpedo": 70,
+        "antiair": 40,
+        "aviation": 0,
+        "reload": 74,
+        "accuracy": 68,
+        "evasion": 64,
+        "speed": 43.2,
+        "luck": 45,
+        "asw": 56
+      },
+      "501094": {
+        "health": 759,
+        "firepower": 44,
+        "torpedo": 99,
+        "antiair": 56,
+        "aviation": 0,
+        "reload": 74,
+        "accuracy": 68,
+        "evasion": 64,
+        "speed": 43.2,
+        "luck": 45,
+        "asw": 80
+      }
+    },
+    "growth": {
+      "501091": {
+        "health": 7642,
+        "firepower": 247,
+        "torpedo": 554,
+        "antiair": 495,
+        "aviation": 0,
+        "reload": 515,
+        "accuracy": 1068,
+        "evasion": 1212,
+        "speed": 0,
+        "luck": 0,
+        "asw": 386
+      },
+      "501092": {
+        "health": 7642,
+        "firepower": 247,
+        "torpedo": 554,
+        "antiair": 495,
+        "aviation": 0,
+        "reload": 515,
+        "accuracy": 1068,
+        "evasion": 1212,
+        "speed": 0,
+        "luck": 0,
+        "asw": 386
+      },
+      "501093": {
+        "health": 7642,
+        "firepower": 247,
+        "torpedo": 554,
+        "antiair": 495,
+        "aviation": 0,
+        "reload": 515,
+        "accuracy": 1068,
+        "evasion": 1212,
+        "speed": 0,
+        "luck": 0,
+        "asw": 386
+      },
+      "501094": {
+        "health": 7642,
+        "firepower": 247,
+        "torpedo": 554,
+        "antiair": 495,
+        "aviation": 0,
+        "reload": 515,
+        "accuracy": 1068,
+        "evasion": 1212,
+        "speed": 0,
+        "luck": 0,
+        "asw": 386
+      }
+    },
+    "enhance": {
+      "firepower": 18,
+      "torpedo": 40,
+      "reload": 55
+    },
+    "skill": {
+      "150880": {
+        "id": 150880,
+        "parent": 150880,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "150890": {
+        "id": 150890,
+        "parent": 150890,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "28261": {
+        "id": 28261,
+        "parent": 28261,
+        "upgrade": 28262,
+        "downgrade": null,
+        "requirement": "Limit Break 1"
+      },
+      "28262": {
+        "id": 28262,
+        "parent": 28261,
+        "upgrade": null,
+        "downgrade": 28261,
         "requirement": "Limit Break 3"
       }
     }
@@ -127524,8 +128134,9 @@
     "class": "Chao Ho Class ",
     "nationality": 5,
     "obtain": [
-      "Event: Lunar New Year Special Missions",
-      "Light ship Construction"
+      "Event: Lunar New Year",
+      "Guild Shop",
+      "Requisition (random chance)"
     ],
     "type": 2,
     "rarity": 4,
@@ -127541,7 +128152,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -127766,8 +128377,9 @@
     "class": "Chao Ho Class ",
     "nationality": 5,
     "obtain": [
-      "Event: Lunar New Year Special Missions",
-      "Light ship Construction"
+      "Event: Lunar New Year",
+      "Guild Shop",
+      "Requisition (random chance)"
     ],
     "type": 2,
     "rarity": 4,
@@ -127783,7 +128395,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -128490,7 +129102,8 @@
     "class": "Chi An",
     "nationality": 5,
     "obtain": [
-      "Event: Spring Festive Fiasco"
+      "Event: Spring Festive Fiasco",
+      "Light ship Construction"
     ],
     "type": 2,
     "rarity": 4,
@@ -128506,7 +129119,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -128717,6 +129330,488 @@
     }
   },
   {
+    "id": 675,
+    "gid": 50210,
+    "cid": 1,
+    "sid": [
+      502101,
+      502102,
+      502103,
+      502104
+    ],
+    "name": "Hai Yung",
+    "codename": "Hai Yung",
+    "class": "Hai Yung Class",
+    "nationality": 5,
+    "obtain": [
+      "Event: Spring Fashion Festa"
+    ],
+    "type": 2,
+    "rarity": 4,
+    "armor": 2,
+    "hexagon": [
+      "C",
+      "C",
+      "E",
+      "C",
+      "D",
+      "C"
+    ],
+    "share_group": [],
+    "breakout": [
+      [
+        "Unlock All Out Assault I",
+        "Main gun efficiency +5%"
+      ],
+      [
+        "Main gun base +1",
+        "Main gun efficiency +10%"
+      ],
+      [
+        "Improve All Out Assault",
+        "Main gun efficiency +15%"
+      ]
+    ],
+    "equipment": {
+      "1": {
+        "default": 101,
+        "slot": 1,
+        "type": [
+          2
+        ],
+        "mount": 2,
+        "preload": 0,
+        "efficiency": 1
+      },
+      "2": {
+        "default": 100,
+        "slot": 2,
+        "type": [
+          1
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 0.9
+      },
+      "3": {
+        "default": 105,
+        "slot": 3,
+        "type": [
+          5
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 0.8
+      },
+      "4": {
+        "default": null,
+        "slot": 4,
+        "type": [
+          10,
+          14
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      },
+      "5": {
+        "default": null,
+        "slot": 5,
+        "type": [
+          10,
+          14
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      }
+    },
+    "base": {
+      "502101": {
+        "health": 513,
+        "firepower": 17,
+        "torpedo": 47,
+        "antiair": 29,
+        "aviation": 0,
+        "reload": 57,
+        "accuracy": 54,
+        "evasion": 25,
+        "speed": 20.75,
+        "luck": 45,
+        "asw": 18
+      },
+      "502102": {
+        "health": 638,
+        "firepower": 21,
+        "torpedo": 59,
+        "antiair": 36,
+        "aviation": 0,
+        "reload": 57,
+        "accuracy": 54,
+        "evasion": 25,
+        "speed": 20.75,
+        "luck": 45,
+        "asw": 23
+      },
+      "502103": {
+        "health": 888,
+        "firepower": 29,
+        "torpedo": 82,
+        "antiair": 50,
+        "aviation": 0,
+        "reload": 57,
+        "accuracy": 54,
+        "evasion": 25,
+        "speed": 20.75,
+        "luck": 45,
+        "asw": 32
+      },
+      "502104": {
+        "health": 1263,
+        "firepower": 42,
+        "torpedo": 116,
+        "antiair": 72,
+        "aviation": 0,
+        "reload": 57,
+        "accuracy": 54,
+        "evasion": 25,
+        "speed": 20.75,
+        "luck": 45,
+        "asw": 45
+      }
+    },
+    "growth": {
+      "502101": {
+        "health": 12716,
+        "firepower": 233,
+        "torpedo": 643,
+        "antiair": 638,
+        "aviation": 0,
+        "reload": 400,
+        "accuracy": 793,
+        "evasion": 451,
+        "speed": 0,
+        "luck": 0,
+        "asw": 226
+      },
+      "502102": {
+        "health": 12716,
+        "firepower": 233,
+        "torpedo": 643,
+        "antiair": 638,
+        "aviation": 0,
+        "reload": 400,
+        "accuracy": 793,
+        "evasion": 451,
+        "speed": 0,
+        "luck": 0,
+        "asw": 226
+      },
+      "502103": {
+        "health": 12716,
+        "firepower": 233,
+        "torpedo": 643,
+        "antiair": 638,
+        "aviation": 0,
+        "reload": 400,
+        "accuracy": 793,
+        "evasion": 451,
+        "speed": 0,
+        "luck": 0,
+        "asw": 226
+      },
+      "502104": {
+        "health": 12716,
+        "firepower": 233,
+        "torpedo": 643,
+        "antiair": 638,
+        "aviation": 0,
+        "reload": 400,
+        "accuracy": 793,
+        "evasion": 451,
+        "speed": 0,
+        "luck": 0,
+        "asw": 226
+      }
+    },
+    "enhance": {
+      "firepower": 17,
+      "torpedo": 46,
+      "reload": 43
+    },
+    "skill": {
+      "150810": {
+        "id": 150810,
+        "parent": 150810,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "150820": {
+        "id": 150820,
+        "parent": 150820,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "28241": {
+        "id": 28241,
+        "parent": 28241,
+        "upgrade": 28242,
+        "downgrade": null,
+        "requirement": "Limit Break 1"
+      },
+      "28242": {
+        "id": 28242,
+        "parent": 28241,
+        "upgrade": null,
+        "downgrade": 28241,
+        "requirement": "Limit Break 3"
+      }
+    }
+  },
+  {
+    "id": 674,
+    "gid": 50301,
+    "cid": 1,
+    "sid": [
+      503011,
+      503012,
+      503013,
+      503014
+    ],
+    "name": "Chien Wu",
+    "codename": "Chien Wu",
+    "class": "Chien Wu",
+    "nationality": 5,
+    "obtain": [
+      "Event: Spring Fashion Festa"
+    ],
+    "type": 3,
+    "rarity": 5,
+    "armor": 2,
+    "hexagon": [
+      "B",
+      "C",
+      "E",
+      "C",
+      "D",
+      "B"
+    ],
+    "share_group": [],
+    "breakout": [
+      [
+        "Unlock All Out Assault I",
+        "Main gun efficiency +5%"
+      ],
+      [
+        "Torpedo base +1",
+        "Torpedo preload +1",
+        "Main gun efficiency +10%"
+      ],
+      [
+        "Improve All Out Assault",
+        "Secondary Gun base +1",
+        "Main gun efficiency +15%"
+      ]
+    ],
+    "equipment": {
+      "1": {
+        "default": 102,
+        "slot": 1,
+        "type": [
+          3
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1.2
+      },
+      "2": {
+        "default": 101,
+        "slot": 2,
+        "type": [
+          2
+        ],
+        "mount": 2,
+        "preload": 0,
+        "efficiency": 1
+      },
+      "3": {
+        "default": 105,
+        "slot": 3,
+        "type": [
+          5
+        ],
+        "mount": 2,
+        "preload": 1,
+        "efficiency": 0.8
+      },
+      "4": {
+        "default": null,
+        "slot": 4,
+        "type": [
+          10
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      },
+      "5": {
+        "default": null,
+        "slot": 5,
+        "type": [
+          10
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      }
+    },
+    "base": {
+      "503011": {
+        "health": 721,
+        "firepower": 27,
+        "torpedo": 47,
+        "antiair": 21,
+        "aviation": 0,
+        "reload": 57,
+        "accuracy": 55,
+        "evasion": 22,
+        "speed": 28,
+        "luck": 54,
+        "asw": 0
+      },
+      "503012": {
+        "health": 897,
+        "firepower": 34,
+        "torpedo": 59,
+        "antiair": 26,
+        "aviation": 0,
+        "reload": 57,
+        "accuracy": 55,
+        "evasion": 22,
+        "speed": 28,
+        "luck": 54,
+        "asw": 0
+      },
+      "503013": {
+        "health": 1248,
+        "firepower": 47,
+        "torpedo": 82,
+        "antiair": 37,
+        "aviation": 0,
+        "reload": 57,
+        "accuracy": 55,
+        "evasion": 22,
+        "speed": 28,
+        "luck": 54,
+        "asw": 0
+      },
+      "503014": {
+        "health": 1776,
+        "firepower": 67,
+        "torpedo": 118,
+        "antiair": 53,
+        "aviation": 0,
+        "reload": 57,
+        "accuracy": 55,
+        "evasion": 22,
+        "speed": 28,
+        "luck": 54,
+        "asw": 0
+      }
+    },
+    "growth": {
+      "503011": {
+        "health": 17871,
+        "firepower": 370,
+        "torpedo": 653,
+        "antiair": 468,
+        "aviation": 0,
+        "reload": 400,
+        "accuracy": 816,
+        "evasion": 395,
+        "speed": 0,
+        "luck": 0,
+        "asw": 0
+      },
+      "503012": {
+        "health": 17871,
+        "firepower": 370,
+        "torpedo": 653,
+        "antiair": 468,
+        "aviation": 0,
+        "reload": 400,
+        "accuracy": 816,
+        "evasion": 395,
+        "speed": 0,
+        "luck": 0,
+        "asw": 0
+      },
+      "503013": {
+        "health": 17871,
+        "firepower": 370,
+        "torpedo": 653,
+        "antiair": 468,
+        "aviation": 0,
+        "reload": 400,
+        "accuracy": 816,
+        "evasion": 395,
+        "speed": 0,
+        "luck": 0,
+        "asw": 0
+      },
+      "503014": {
+        "health": 17871,
+        "firepower": 370,
+        "torpedo": 653,
+        "antiair": 468,
+        "aviation": 0,
+        "reload": 400,
+        "accuracy": 816,
+        "evasion": 395,
+        "speed": 0,
+        "luck": 0,
+        "asw": 0
+      }
+    },
+    "enhance": {
+      "firepower": 26,
+      "torpedo": 47,
+      "reload": 43
+    },
+    "skill": {
+      "150830": {
+        "id": 150830,
+        "parent": 150830,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "150840": {
+        "id": 150840,
+        "parent": 150840,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "28251": {
+        "id": 28251,
+        "parent": 28251,
+        "upgrade": 28252,
+        "downgrade": null,
+        "requirement": "Limit Break 1"
+      },
+      "28252": {
+        "id": 28252,
+        "parent": 28251,
+        "upgrade": null,
+        "downgrade": 28251,
+        "requirement": "Limit Break 3"
+      }
+    }
+  },
+  {
     "id": 621,
     "gid": 50401,
     "cid": 1,
@@ -128731,7 +129826,8 @@
     "class": "Huan Ch'ang",
     "nationality": 5,
     "obtain": [
-      "Event: Spring Festive Fiasco"
+      "Event: Spring Festive Fiasco",
+      "Heavy Ship Construction"
     ],
     "type": 4,
     "rarity": 5,
@@ -129237,7 +130333,8 @@
       506021,
       506022,
       506023,
-      506024
+      506024,
+      506124
     ],
     "name": "Hwah Jah",
     "codename": "Hwah Jah",
@@ -129273,26 +130370,52 @@
         "Aircraft efficiency +10%"
       ]
     ],
+    "retrofit": {
+      "id": 506124,
+      "level": 85,
+      "bonus": {
+        "health": 210,
+        "reload": 20,
+        "equipment_proficiency_3": 0.2,
+        "antiair": 50,
+        "aviation": 60
+      },
+      "skill": 57912,
+      "skin": 506029,
+      "armor": 2,
+      "hexagon": [
+        "D",
+        "E",
+        "A",
+        "C",
+        "C",
+        "C"
+      ]
+    },
     "equipment": {
       "1": {
         "default": 152,
         "slot": 1,
         "type": [
+          7,
           12
         ],
         "mount": 3,
         "preload": 0,
-        "efficiency": 1.4
+        "efficiency": 1.5
       },
       "2": {
         "default": 152,
         "slot": 2,
         "type": [
+          7,
+          8,
+          9,
           12
         ],
         "mount": 3,
         "preload": 0,
-        "efficiency": 1.4
+        "efficiency": 1.5
       },
       "3": {
         "default": 104,
@@ -129379,6 +130502,19 @@
         "speed": 12,
         "luck": 53,
         "asw": 0
+      },
+      "506124": {
+        "health": 1975,
+        "firepower": 0,
+        "torpedo": 0,
+        "antiair": 67,
+        "aviation": 154,
+        "reload": 64,
+        "accuracy": 28,
+        "evasion": 13,
+        "speed": 12,
+        "luck": 53,
+        "asw": 0
       }
     },
     "growth": {
@@ -129433,6 +130569,19 @@
         "speed": 0,
         "luck": 0,
         "asw": 0
+      },
+      "506124": {
+        "health": 21850,
+        "firepower": 0,
+        "torpedo": 0,
+        "antiair": 593,
+        "aviation": 815,
+        "reload": 445,
+        "accuracy": 458,
+        "evasion": 305,
+        "speed": 0,
+        "luck": 0,
+        "asw": 0
       }
     },
     "enhance": {
@@ -129453,6 +130602,13 @@
         "upgrade": null,
         "downgrade": null,
         "requirement": "Default"
+      },
+      "57912": {
+        "id": 57912,
+        "parent": 57912,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Retrofit"
       }
     }
   },
@@ -129471,7 +130627,8 @@
     "class": "Ting An",
     "nationality": 5,
     "obtain": [
-      "Event: Winter Pathfinder"
+      "Event: Spring Blossoms in the Sky",
+      "Core Data Shop"
     ],
     "type": 19,
     "rarity": 4,
@@ -130038,7 +131195,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -130524,7 +131681,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -130767,7 +131924,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -131010,7 +132167,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -131736,7 +132893,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -132720,7 +133877,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -132938,7 +134095,8 @@
     "nationality": 6,
     "obtain": [
       "Event: Empyreal Tragicomedy",
-      "Heavy Ship Construction"
+      "Medal Shop (when listed)",
+      "Requisition (random chance)"
     ],
     "type": 3,
     "rarity": 5,
@@ -132954,7 +134112,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -133177,7 +134335,8 @@
     "nationality": 6,
     "obtain": [
       "Event: Empyreal Tragicomedy",
-      "Heavy Ship Construction"
+      "Medal Shop (when listed)",
+      "Requisition (random chance)"
     ],
     "type": 3,
     "rarity": 5,
@@ -133193,7 +134352,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -133431,7 +134590,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -133671,7 +134830,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -133911,7 +135070,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -135049,7 +136208,8 @@
     "nationality": 6,
     "obtain": [
       "Event: Empyreal Tragicomedy",
-      "Heavy Ship Construction"
+      "Guild Shop",
+      "Requisition (random chance)"
     ],
     "type": 5,
     "rarity": 4,
@@ -137069,7 +138229,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -137312,7 +138472,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -137784,7 +138944,8 @@
     "nationality": 7,
     "obtain": [
       "Event: Universe in Unison",
-      "Light ship Construction"
+      "Medal Shop (when listed)",
+      "Requisition (random chance)"
     ],
     "type": 1,
     "rarity": 5,
@@ -138045,7 +139206,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -138288,7 +139449,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -138531,7 +139692,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -138773,7 +139934,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -139499,7 +140660,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -139978,7 +141139,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -140271,7 +141432,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -140755,7 +141916,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -141481,7 +142642,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -145139,7 +146300,7 @@
     ],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -145383,7 +146544,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -145869,7 +147030,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -147108,7 +148269,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -150469,7 +151630,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -150705,7 +151866,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -150940,7 +152101,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -151175,7 +152336,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -151417,7 +152578,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -153370,7 +154531,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -153611,7 +154772,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -153851,7 +155012,7 @@
     "share_group": [],
     "breakout": [
       [
-        "Unlock All Out Assault",
+        "Unlock All Out Assault I",
         "Main gun efficiency +5%"
       ],
       [
@@ -154981,7 +156142,8 @@
     "nationality": 9,
     "obtain": [
       "Event: Passionate Polaris",
-      "Heavy Ship Construction"
+      "Medal Shop (when listed)",
+      "Requisition (random chance)"
     ],
     "type": 5,
     "rarity": 5,

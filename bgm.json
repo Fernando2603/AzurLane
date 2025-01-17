@@ -2119,6 +2119,14 @@
     "sample_rate": 32000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-china.ogg"
   },
+  "story-chunjie2025-1": {
+    "title": "蜊手｣ｳ蟾ｧ陬∬ｿ取眠譏･_AL",
+    "size": 1749713,
+    "duration": 85.888,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-chunjie2025-1.ogg"
+  },
   "story-clemenceau-judgement": {
     "title": "宣告裁决之日_G",
     "size": 1148183,
@@ -2782,6 +2790,14 @@
     "bitrate": 160.0,
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-camelot-up.ogg"
+  },
+  "theme-china-jianwu": {
+    "title": "蜊手｣ｳ蟾ｧ螻募万莠矩柄_PX",
+    "size": 2572615,
+    "duration": 123.86133333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-china-jianwu.ogg"
   },
   "theme-clemenceau": {
     "title": "Attendre et espﾃｩrer._G",

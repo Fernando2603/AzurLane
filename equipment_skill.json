@@ -758,5 +758,10 @@
     "id": 60800,
     "name": "Memphis' Blues",
     "desc": "When equipped by a particular character: 20s after the battle starts, deploys a barrier (lasts 20s) around a random ship in your Vanguard that can negate DMG equal to 2.0% max HP."
+  },
+  "60810": {
+    "id": 60810,
+    "name": "Fu Po's Flawless Plan",
+    "desc": "When equipped by Fu Po, Fei Yuen, or Fu Shun: increases the wearer's TRP by 5.0%. Once per battle, 30s after the battle starts: restores 2.0% of the wearer's max HP."
   }
 }
