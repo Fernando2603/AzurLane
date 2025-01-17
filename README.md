@@ -25,20 +25,6 @@ Azur Lane Resources
 > The dataset itself doesn't have version control, but it sync with the current game version.
 
 
-## Future Changes
-**Reminder Upcoming Update from Patch [4.4.8](/docs/CHANGELOG.md#patch-448) that will be applied in 2025**
-
-We would like to inform you that the following update is scheduled to be applied in mid-January 2025.
-- `skins.json`, `skills.json`, `equip_icon.json` removal.
-- `images/skills` folder will be renamed to `images/skill`.
-- `images/skins` folder will be renamed to `images/skin`.
-- `audio/voicelines` folder will be renamed to `audio/voiceline`.
-- ~~remove commit history~~)
-- ~~remove all branch~~)
-
-We anticipate that the update process will be completed in 1~7 days or before February 2025. Please note that during this update period, all automatic updates will be temporarily disabled until the process is fully completed.
-
-
 ## Docs
 - [CHANGELOG](/docs/CHANGELOG.md)
 - [BGM](/docs/BGM.md)
