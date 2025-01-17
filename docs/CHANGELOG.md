@@ -1,3 +1,21 @@
+## Patch 5.0.0
+<details>
+  <summary>17 January 2025</summary>
+  
+  - remove:
+    - `skins.json`
+    - `skills.json`
+    - `equip_icon.json`
+    - `voicelines.json`
+    - `voicelinks.json`
+  - rename:
+    - `images/{skins -> skin}`
+    - `images/{skills -> skill}`
+    - `audio/{voicelines -> voiceline}`
+  - fix `skill.json` and `skill_icon.json` failed to build when buffCfg missing from [AzurLaneTools](https://github.com/AzurLaneTools/AzurLaneData), now it will keep the old data till buffCfg is fixed.
+</details>
+
+
 ## Patch 4.6.14
 <details>
   <summary>14 Auguest 2024</summary>
