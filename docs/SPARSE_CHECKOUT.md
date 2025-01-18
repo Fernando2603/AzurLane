@@ -129,10 +129,10 @@ the ID number, and then `add` its folder to the sparse checkout. For example, Ca
 skin has the ID 101039, so we can add it using:
 
 ```
-git sparse-checkout add images/skins/101039 audio/voicelines/101039
+git sparse-checkout add images/skin/101039 audio/voiceline/101039
 ```
 
-(Notice that this will only check out the voice lines specific to that skin; the base voicelines are
+(Notice that this will only check out the voice lines specific to that skin; the base voiceline are
 in the default skin's directory.)
 
 ## Getting updates
@@ -166,7 +166,7 @@ git reset --hard origin/main
 If you use `set`, it will completely replace the existing list of checkout directories:
 
 ```
-git sparse-checkout set audio/bgm images/skins/101039 audio/voicelines/101039
+git sparse-checkout set audio/bgm images/skin/101039 audio/voiceline/101039
 ```
 
 Since this does not include `images/equipment`, it will remove that directory from the list
@@ -183,16 +183,16 @@ Output:
 
 ```
 audio/bgm
-audio/voicelines/101039
-images/skins/101039
+audio/voiceline/101039
+images/skin/101039
 ```
 
 
-The following command replaces Cassin retrofit's skin and voicelines with her default skin and
+The following command replaces Cassin retrofit's skin and voiceline with her default skin and
 lines:
 
 ```
-git sparse-checkout set audio/bgm images/skins/101030 audio/voicelines/101030
+git sparse-checkout set audio/bgm images/skin/101030 audio/voiceline/101030
 ```
 
 > [!IMPORTANT]

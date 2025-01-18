@@ -42,57 +42,54 @@ Currently, the assets available in the skin dataset that can be accessed by key 
   <summary>painting</summary>
 
   <p align="center">
-    <img src="/images/skins/701042/painting.png" alt="painting">
+    <img src="/images/skin/701042/painting.png" alt="painting">
   </p>
 </details>
 <details>
   <summary>painting_n</summary>
 
   <p align="center">
-    <img src="/images/skins/701042/painting_n.png" alt="painting_n">
+    <img src="/images/skin/701042/painting_n.png" alt="painting_n">
   </p>
 </details>
 <details>
   <summary>banner</summary>
 
   <p align="center">
-    <img src="/images/skins/701042/banner.png" alt="banner">
+    <img src="/images/skin/701042/banner.png" alt="banner">
   </p>
 </details>
 <details>
   <summary>chibi</summary>
 
   <p align="center">
-    <img src="/images/skins/701042/chibi.png" alt="chibi">
+    <img src="/images/skin/701042/chibi.png" alt="chibi">
   </p>
 </details>
 <details>
   <summary>icon</summary>
 
   <p align="center">
-    <img src="/images/skins/701042/icon.png" alt="icon">
+    <img src="/images/skin/701042/icon.png" alt="icon">
   </p>
 </details>
 <details>
   <summary>qicon</summary>
 
   <p align="center">
-    <img src="/images/skins/701042/qicon.png" alt="qicon">
+    <img src="/images/skin/701042/qicon.png" alt="qicon">
   </p>
 </details>
 <details>
   <summary>shipyard</summary>
 
   <p align="center">
-    <img src="/images/skins/701042/shipyard.png" alt="shipyard">
+    <img src="/images/skin/701042/shipyard.png" alt="shipyard">
   </p>
 </details>
 
 > [!TIP]
 > The skin dataset is actively maintained, especially in comparison to others. The skin dataset are the reason this repository was initially created, which for syncing with `AzurAPI`. In the early patches, certain features like background music, background images, and complete ship paintings/images weren't included, as `AzurAPI` already covered these aspects. However, `AzurAPI` seems doesn't maintaned anymore these features have been added into the skin dataset.
-
-> [!IMPORTANT]
-> Starting from Patch 4.4.8, the version when these docs were released, `skins.json` won't receive updates anymore and is planned for removal in 2025. It's suggested to use `ship_skin.json` or `ship_skin_list.json` moving forward, as they are upgraded versions of `skins.json` with some minor structural changes explained in the [Data Structure](#data-structure) section.
 
 > [!NOTE]
 > This docs are still incomplete and will updated in the future.

@@ -97,7 +97,7 @@ Refer to [model/const/shiprarity](https://github.com/AzurLaneTools/AzurLaneLuaSc
   "301210": { // Hatsuharu
     "couple_encourage1": {
       "line": "F-follow me!",
-      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/301210/couple_encourage1.ogg",
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301210/couple_encourage1.ogg",
       "type": 0, // ship gid
       "list": [
         30126, // Yuugure
@@ -109,7 +109,7 @@ Refer to [model/const/shiprarity](https://github.com/AzurLaneTools/AzurLaneLuaSc
   "605010": { // Vittorio Veneto
     "couple_encourage1": {
       "line": "It is reassuring to have the backing of such capable allies.",
-      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voicelines/605010/couple_encourage1.ogg",
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/605010/couple_encourage1.ogg",
       "type": 1, // hulltype
       "list": [
         7 // Aircraft Carrier (CV)
