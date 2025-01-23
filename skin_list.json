@@ -6647,6 +6647,31 @@
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105172/shipyard.png"
   },
   {
+    "id": 105173,
+    "gid": 10517,
+    "name": "Dancing in the Moonlight",
+    "type": "Spring Festival",
+    "desc": "Phew... It was really hard to cinch the ending, but I can handle anything! So, honey, did you like it? Hellooo, honey? Aww, are you so mesmerized that you can't speak? Hahaha!",
+    "tag": [
+      "dynamic",
+      "bg"
+    ],
+    "illustrator": -1,
+    "illustrator2": -1,
+    "voice_actor": 273,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/302.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105173/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105173/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105173/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105173/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105173/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105173/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105173/shipyard.png"
+  },
+  {
     "id": 105178,
     "gid": 10517,
     "name": "Snow-White Ceremony",
@@ -14385,6 +14410,30 @@
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/204020/shipyard.png"
   },
   {
+    "id": 204021,
+    "gid": 20402,
+    "name": "Dance of Spring Blooms",
+    "type": "Spring Festival",
+    "desc": "Hey there, Commander! Heheh, where do you think you're going? If you've got a minute, watch me rehearse my sword dance. It's my own original routine, a combination of Dragon Empery swordplay and my own ideas!",
+    "tag": [
+      "bg"
+    ],
+    "illustrator": 11,
+    "illustrator2": -1,
+    "voice_actor": 41,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/157.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/204021/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/204021/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/204021/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/204021/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/204021/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/204021/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/204021/shipyard.png"
+  },
+  {
     "id": 204030,
     "gid": 20403,
     "name": "Hood",
@@ -18850,6 +18899,30 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301131/icon.png",
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301131/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301131/shipyard.png"
+  },
+  {
+    "id": 301132,
+    "gid": 30113,
+    "name": "Thawing Snow, Fireworks Alight",
+    "type": "Spring Festival",
+    "desc": "Owwie, I fell again... Huh? You fell, too? Just because you wanted to help me up? *sniffle*... I'm sorry...",
+    "tag": [
+      "dynamicbg"
+    ],
+    "illustrator": 10,
+    "illustrator2": -1,
+    "voice_actor": 25,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/152.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301132/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301132/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301132/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301132/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301132/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301132/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301132/shipyard.png"
   },
   {
     "id": 301140,
@@ -34422,6 +34495,31 @@
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499032/shipyard.png"
   },
   {
+    "id": 499033,
+    "gid": 49903,
+    "name": "A Blend of Serenity",
+    "type": "Spring Festival",
+    "desc": "Commander, come join me in rest. ...Hm? I look unusually relaxed? This is a rare break, and I don't plan to waste it by being stuffy.",
+    "tag": [
+      "live2d",
+      "bg"
+    ],
+    "illustrator": 1,
+    "illustrator2": -1,
+    "voice_actor": 236,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/302.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499033/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499033/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499033/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499033/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499033/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499033/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499033/shipyard.png"
+  },
+  {
     "id": 499040,
     "gid": 49904,
     "name": "Odin",
@@ -37517,6 +37615,30 @@
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/603042/shipyard.png"
   },
   {
+    "id": 603043,
+    "gid": 60304,
+    "name": "A Brush of Springtime Ink",
+    "type": "Spring Festival",
+    "desc": "Commander? As you can see, I'm putting into practice the calligraphy knowledge you taught me before. The problem is, I can't seem to nail it... Could you watch for a bit and guide me?",
+    "tag": [
+      "bg"
+    ],
+    "illustrator": -1,
+    "illustrator2": -1,
+    "voice_actor": 224,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/302.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/603043/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/603043/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/603043/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/603043/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/603043/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/603043/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/603043/shipyard.png"
+  },
+  {
     "id": 603050,
     "gid": 60305,
     "name": "Bolzano",
@@ -39500,6 +39622,31 @@
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702061/shipyard.png"
   },
   {
+    "id": 702062,
+    "gid": 70206,
+    "name": "Chamber of Fragrance",
+    "type": "Spring Festival",
+    "desc": "Hello there, Comrade Commander~ Come take a deeeep breath of this. Sniiiff... Can you smell this room's fragrance? Hm? You can't tell? Oh. Uh, my incense may have stopped burning.",
+    "tag": [
+      "dynamic",
+      "bg"
+    ],
+    "illustrator": 1,
+    "illustrator2": -1,
+    "voice_actor": 88,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/157.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702062/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702062/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702062/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702062/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702062/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702062/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702062/shipyard.png"
+  },
+  {
     "id": 702070,
     "gid": 70207,
     "name": "Voroshilov",
@@ -40868,6 +41015,30 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802021/icon.png",
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802021/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802021/shipyard.png"
+  },
+  {
+    "id": 802022,
+    "gid": 80202,
+    "name": "Patron Saintess of Celebration",
+    "type": "Spring Festival",
+    "desc": "Oh, Commander, would you like to release a lantern? I hear they're a way to send wishes into the heavens above... May our Lord bless our companions and bring peace and joy to all.",
+    "tag": [
+      "dynamicbg"
+    ],
+    "illustrator": -1,
+    "illustrator2": -1,
+    "voice_actor": 146,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/128.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802022/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802022/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802022/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802022/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802022/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802022/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802022/shipyard.png"
   },
   {
     "id": 802030,
@@ -42886,6 +43057,31 @@
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/905013/shipyard.png"
   },
   {
+    "id": 905014,
+    "gid": 90501,
+    "name": "Springlight Étoiles",
+    "type": "Spring Festival",
+    "desc": "What're you starin' daggers through me for? Are ya that excited about this new outfit? Alright, then feast your eyes on my fashion sense. Yeah, I didn't put it together just for your sake this time – more like to demonstrate my tastes.",
+    "tag": [
+      "live2d",
+      "bg"
+    ],
+    "illustrator": -1,
+    "illustrator2": -1,
+    "voice_actor": 148,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/302.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/905014/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/905014/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/905014/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/905014/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/905014/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/905014/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/905014/shipyard.png"
+  },
+  {
     "id": 905020,
     "gid": 90502,
     "name": "Clemenceau",
@@ -44071,6 +44267,28 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9703050/icon.png",
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9703050/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9703050/shipyard.png"
+  },
+  {
+    "id": 9703060,
+    "gid": 970306,
+    "name": "Bolzano META",
+    "type": "Default",
+    "desc": "I am Bolzano, a knight of the Sardegnia Union. Commander, I await my next task.",
+    "tag": [],
+    "illustrator": -1,
+    "illustrator2": -1,
+    "voice_actor": 335,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": null,
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9703060/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9703060/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9703060/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9703060/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9703060/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9703060/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9703060/shipyard.png"
   },
   {
     "id": 9704010,

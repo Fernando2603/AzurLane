@@ -1527,6 +1527,30 @@
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/qe-ova-15.ogg"
   },
+  "qe-ova-2": {
+    "title": "02_Waltz of Water Ripples",
+    "size": 1819379,
+    "duration": 93.504,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/qe-ova-2.ogg"
+  },
+  "qe-ova-3": {
+    "title": "03_Minuetto",
+    "size": 2492978,
+    "duration": 123.008,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/qe-ova-3.ogg"
+  },
+  "qe-ova-4": {
+    "title": "04_March Scherzando",
+    "size": 2045561,
+    "duration": 107.75466666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/qe-ova-4.ogg"
+  },
   "qe-ova-9": {
     "title": "09_Allegro alla marcia",
     "size": 1527381,
@@ -2798,6 +2822,14 @@
     "bitrate": 160.0,
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-china-jianwu.ogg"
+  },
+  "theme-chunjie2025-2": {
+    "title": "流波卷月_AL",
+    "size": 1196867,
+    "duration": 60.288,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-chunjie2025-2.ogg"
   },
   "theme-clemenceau": {
     "title": "Attendre et espﾃｩrer._G",
