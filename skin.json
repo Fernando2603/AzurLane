@@ -11461,6 +11461,30 @@
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201371/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201371/shipyard.png"
   },
+  "201372": {
+    "id": 201372,
+    "gid": 20137,
+    "name": "The Modern-Day Clumsy Maid Escapade",
+    "type": "Maid",
+    "desc": "Uh, teehee! I was trying to make chocolate, then I slipped for some reason! ...Hang on a minute! How did I slip? Even a modern clumsy maid wouldn't blunder like that... Would she?!",
+    "tag": [
+      "bg"
+    ],
+    "illustrator": -1,
+    "illustrator2": -1,
+    "voice_actor": 402,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/166.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201372/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201372/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201372/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201372/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201372/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201372/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201372/shipyard.png"
+  },
   "202010": {
     "id": 202010,
     "gid": 20201,
@@ -21930,6 +21954,30 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301833/icon.png",
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301833/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301833/shipyard.png"
+  },
+  "301834": {
+    "id": 301834,
+    "gid": 30183,
+    "name": "Heartmelting Warmth",
+    "type": "Casual",
+    "desc": "Commander? You stopped eating. Does it taste too bitter...? Oh no, if you don't like the chocolate I made, I... I-I can still make you happy in other ways!",
+    "tag": [
+      "bg"
+    ],
+    "illustrator": -1,
+    "illustrator2": -1,
+    "voice_actor": 233,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/109.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301834/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301834/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301834/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301834/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301834/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301834/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301834/shipyard.png"
   },
   "301838": {
     "id": 301838,
