@@ -11,11 +11,7 @@
     "nationality": 1,
     "type": 10,
     "skill": {
-      "6000": {
-        "id": 6000,
-        "name": "Beaver Squad",
-        "desc": "Increases your entire fleet's Speed by 20.0%."
-      }
+      "[6000, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/500.png",
     "stats": {
@@ -134,11 +130,7 @@
     "nationality": 1,
     "type": 10,
     "skill": {
-      "6130": {
-        "id": 6130,
-        "name": "Pearl Tears",
-        "desc": "Heals all friendlies for 10.0% of their max HP when the ship with this item sinks."
-      }
+      "[6130, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/520.png",
     "stats": {
@@ -242,11 +234,7 @@
     "nationality": 3,
     "type": 10,
     "skill": {
-      "6170": {
-        "id": 6170,
-        "name": "Cat Potency",
-        "desc": "When equipped by Akashi: increases the potency of all her healing by 20.0%."
-      }
+      "[6170, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/540.png",
     "stats": {
@@ -350,11 +338,7 @@
     "nationality": 5,
     "type": 10,
     "skill": {
-      "6180": {
-        "id": 6180,
-        "name": "Aerial Recon",
-        "desc": "Provides recon from the Ning Hai, decreasing chance of being ambushed by 8% and increases chance to avoid ambushes by 8%. Effect does not stack."
-      }
+      "[6180, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/560.png",
     "stats": {
@@ -444,11 +428,7 @@
     "nationality": 3,
     "type": 10,
     "skill": {
-      "6190": {
-        "id": 6190,
-        "name": "Type 91 Piercing Shell",
-        "desc": "Increases Main Gun Crit DMG by 15.0%."
-      }
+      "[6190, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/580.png",
     "stats": {
@@ -550,11 +530,7 @@
     "nationality": 3,
     "type": 10,
     "skill": {
-      "6200": {
-        "id": 6200,
-        "name": "Type 1 Piercing Shell",
-        "desc": "Increases Main Gun Crit DMG by 25.0%."
-      }
+      "[6200, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/600.png",
     "stats": {
@@ -672,11 +648,7 @@
     "nationality": 1,
     "type": 10,
     "skill": {
-      "6210": {
-        "id": 6210,
-        "name": "Super Heavy Shell",
-        "desc": "Increases Main Gun Crit Rate by 8.0%."
-      }
+      "[6210, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/620.png",
     "stats": {
@@ -780,11 +752,7 @@
     "nationality": 3,
     "type": 10,
     "skill": {
-      "6230": {
-        "id": 6230,
-        "name": "Z Flag",
-        "desc": "Increases Crit Rate by 5.0%. Grants other bonuses when equipped by a certain ship."
-      }
+      "[6230, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/640.png",
     "stats": {
@@ -916,11 +884,7 @@
     "nationality": 1,
     "type": 10,
     "skill": {
-      "6300": {
-        "id": 6300,
-        "name": "High-Octane Fuel",
-        "desc": "Increases the Speed of equipped aircraft, and increases their HP by 140. Effect does not stack."
-      }
+      "[6300, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/660.png",
     "stats": {
@@ -1010,11 +974,7 @@
     "nationality": 2,
     "type": 10,
     "skill": {
-      "6310": {
-        "id": 6310,
-        "name": "Landing Guidance",
-        "desc": "Decreases Airstrike loading time by 4.0%."
-      }
+      "[6310, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/680.png",
     "stats": {
@@ -1104,11 +1064,7 @@
     "nationality": 3,
     "type": 10,
     "skill": {
-      "6360": {
-        "id": 6360,
-        "name": "Delayed Firing",
-        "desc": "Decreases Main Gun Spread Range by 2 for the ship equipping this gear."
-      }
+      "[6360, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/700.png",
     "stats": {
@@ -1199,11 +1155,7 @@
     "nationality": 4,
     "type": 10,
     "skill": {
-      "6410": {
-        "id": 6410,
-        "name": "The Unfulfilled Promise",
-        "desc": "When equipped by U-556: increases the time she can stay in combat after resurfacing by 4s and increases her ASR by 1. When equipped by Bismarck: decreases the effect the Out of Ammo DMG debuff has on the Main Fleet."
-      }
+      "[6410, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/720.png",
     "stats": {
@@ -1407,11 +1359,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "6440": {
-        "id": 6440,
-        "name": "Anti-Siren Tactics Ⅰ",
-        "desc": "The ship equipping this gear takes 6.0% less DMG from Sirens. Does not stack with skills that have similar effect; only the highest source of DMG reduction applies."
-      }
+      "[6440, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/760.png",
     "stats": {
@@ -1512,11 +1460,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "6440": {
-        "id": 6440,
-        "name": "Anti-Siren Tactics Ⅰ",
-        "desc": "The ship equipping this gear takes 6.0% less DMG from Sirens. Does not stack with skills that have similar effect; only the highest source of DMG reduction applies."
-      }
+      "[6440, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/780.png",
     "stats": {
@@ -1618,11 +1562,7 @@
     "nationality": 4,
     "type": 10,
     "skill": {
-      "6560": {
-        "id": 6560,
-        "name": "Improved Hull Design",
-        "desc": "Increases a submarine's Speed by 20.0% and moves it forward another 8 units after it enters battle."
-      }
+      "[6560, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/800.png",
     "stats": {
@@ -1726,11 +1666,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "6740": {
-        "id": 6740,
-        "name": "Frontier Medal",
-        "desc": "[Naval Exercise Gear; only 1 gear of this type will work if multiple are equipped] When equipped by your Flagship: increases the DMG dealt by both sides' CVs and CVLs by 10.0%, and decreases the DMG dealt by both sides' BBs and BCs by 10.0%."
-      }
+      "[6740, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/820.png",
     "stats": {
@@ -1849,11 +1785,7 @@
     "nationality": 1,
     "type": 10,
     "skill": {
-      "6750": {
-        "id": 6750,
-        "name": "Dmg Control (Union)",
-        "desc": "When the ship with this gear equipped is hit by an attack that would otherwise sink it: the ship survives, becomes invulnerable for 8s, and then sinks. Effect only applies to Eagle Union ships."
-      }
+      "[6750, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/840.png",
     "stats": {
@@ -1970,11 +1902,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "6760": {
-        "id": 6760,
-        "name": "Naval Treaty",
-        "desc": "[Naval Exercise Gear; only 1 gear of this type will work if multiple are equipped] When equipped by your Flagship: decreases the DMG dealt by both sides' ships by 15.0%."
-      }
+      "[6760, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/860.png",
     "stats": {
@@ -2093,11 +2021,7 @@
     "nationality": 2,
     "type": 10,
     "skill": {
-      "6770": {
-        "id": 6770,
-        "name": "Pennant of Victory",
-        "desc": "After the battle starts: for 6s, the ship with this gear equipped absorbs 24.0% of the DMG taken by the ship in the frontmost position of your Vanguard."
-      }
+      "[6770, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/880.png",
     "stats": {
@@ -2215,11 +2139,7 @@
     "nationality": 1,
     "type": 10,
     "skill": {
-      "6850": {
-        "id": 6850,
-        "name": "Specialized Tactics - Sakura Empire I",
-        "desc": "The ship equipping this item deals 6% more DMG to Sakura Empire enemies (This effect does not stack, only the highest value applies)."
-      }
+      "[6850, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/940.png",
     "stats": {
@@ -2425,11 +2345,7 @@
     "nationality": 7,
     "type": 10,
     "skill": {
-      "6440": {
-        "id": 6440,
-        "name": "Anti-Siren Tactics Ⅰ",
-        "desc": "The ship equipping this gear takes 6.0% less DMG from Sirens. Does not stack with skills that have similar effect; only the highest source of DMG reduction applies."
-      }
+      "[6440, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/980.png",
     "stats": {
@@ -2530,11 +2446,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "10": {
-        "id": 10,
-        "name": "Repair Ⅰ",
-        "desc": "Recovers 6 HP every 5s. Effect does not stack."
-      }
+      "[10, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/1000.png",
     "stats": {
@@ -2592,11 +2504,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "11": {
-        "id": 11,
-        "name": "Repair Ⅱ",
-        "desc": "Recovers 10 HP every 5s. Effect does not stack."
-      }
+      "[11, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/1000.png",
     "stats": {
@@ -2678,11 +2586,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "12": {
-        "id": 12,
-        "name": "Repair Ⅲ",
-        "desc": "Recovers 15 HP every 5s. Effect does not stack."
-      }
+      "[12, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/1000.png",
     "stats": {
@@ -2786,11 +2690,7 @@
     "nationality": 2,
     "type": 10,
     "skill": {
-      "6960": {
-        "id": 6960,
-        "name": "6CRH AP Shell",
-        "desc": "When equipped by a Royal Navy ship, increases her Main Gun Crit DMG by 30.0%. (Effect does not stack, only the highest buff from an AP Shell takes effect.)."
-      }
+      "[6960, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/1060.png",
     "stats": {
@@ -3092,11 +2992,7 @@
     "nationality": 2,
     "type": 10,
     "skill": {
-      "6280": {
-        "id": 6280,
-        "name": "Aircraft Detection",
-        "desc": "Decreases Ambush chance by 12.0%. Effect does not stack."
-      }
+      "[6280, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/1160.png",
     "stats": {
@@ -3407,11 +3303,7 @@
     "nationality": 1,
     "type": 10,
     "skill": {
-      "6260": {
-        "id": 6260,
-        "name": "Precision Lock-On",
-        "desc": "Decreases the loading time of the first Main Gun Volley by 15.0%."
-      }
+      "[6260, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/1260.png",
     "stats": {
@@ -3528,11 +3420,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "6010": {
-        "id": 6010,
-        "name": "Anti-Torpedo Bulge Ⅰ",
-        "desc": "Decreases DMG taken from Torpedoes by 10.0%. Effect does not stack."
-      }
+      "[6010, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/1300.png",
     "stats": {
@@ -3572,11 +3460,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "6020": {
-        "id": 6020,
-        "name": "Anti-Torpedo Bulge Ⅱ",
-        "desc": "Decreases DMG taken from Torpedoes by 20.0%. Effect does not stack."
-      }
+      "[6020, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/1300.png",
     "stats": {
@@ -3634,11 +3518,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "6030": {
-        "id": 6030,
-        "name": "Anti-Torpedo Bulge Ⅲ",
-        "desc": "Decreases DMG taken from Torpedoes by 30.0%. Effect does not stack."
-      }
+      "[6030, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/1300.png",
     "stats": {
@@ -3998,11 +3878,7 @@
     "nationality": 1,
     "type": 10,
     "skill": {
-      "6040": {
-        "id": 6040,
-        "name": "SG Radar Ⅰ",
-        "desc": "Decreases Ambush chance by 5.0% and increases Ambush evasion chance by 5.0%. Effect does not stack."
-      }
+      "[6040, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/1500.png",
     "stats": {
@@ -4069,11 +3945,7 @@
     "nationality": 1,
     "type": 10,
     "skill": {
-      "6050": {
-        "id": 6050,
-        "name": "SG Radar Ⅱ",
-        "desc": "Decreases Ambush chance by 8.0% and increases Ambush evasion chance by 8.0%. Effect does not stack."
-      }
+      "[6050, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/1500.png",
     "stats": {
@@ -4168,11 +4040,7 @@
     "nationality": 1,
     "type": 10,
     "skill": {
-      "6060": {
-        "id": 6060,
-        "name": "SG Radar Ⅲ",
-        "desc": "Decreases Ambush chance by 12.0% and increases Ambush evasion chance by 12.0%. Effect does not stack."
-      }
+      "[6060, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/1500.png",
     "stats": {
@@ -4594,11 +4462,7 @@
     "nationality": 1,
     "type": 10,
     "skill": {
-      "6270": {
-        "id": 6270,
-        "name": "Powered Evasion",
-        "desc": "Every 20s: 30.0% chance for the ship using this gear to evade all enemy attacks for 2s."
-      }
+      "[6270, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/1760.png",
     "stats": {
@@ -5377,11 +5241,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "6070": {
-        "id": 6070,
-        "name": "Aviation Oil Tank Ⅰ",
-        "desc": "Increases the HP of equipped aircraft by 50. Effect does not stack."
-      }
+      "[6070, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/2100.png",
     "stats": {
@@ -5425,11 +5285,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "6080": {
-        "id": 6080,
-        "name": "Aviation Oil Tank Ⅱ",
-        "desc": "Increases the HP of equipped aircraft by 80. Effect does not stack."
-      }
+      "[6080, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/2100.png",
     "stats": {
@@ -5494,11 +5350,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "6090": {
-        "id": 6090,
-        "name": "Aviation Oil Tank Ⅲ",
-        "desc": "Increases the HP of equipped aircraft by 120. Effect does not stack."
-      }
+      "[6090, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/2100.png",
     "stats": {
@@ -6007,11 +5859,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "6100": {
-        "id": 6100,
-        "name": "Repair Tools Ⅰ",
-        "desc": "Recovers 0.3% of max HP every 15s. Effect does not stack."
-      }
+      "[6100, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/2400.png",
     "stats": {
@@ -6051,11 +5899,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "6110": {
-        "id": 6110,
-        "name": "Repair Tools Ⅱ",
-        "desc": "Recovers 0.6% of max HP every 15s. Effect does not stack."
-      }
+      "[6110, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/2400.png",
     "stats": {
@@ -6113,11 +5957,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "6120": {
-        "id": 6120,
-        "name": "Repair Tools Ⅲ",
-        "desc": "Recovers 1.0% of max HP every 15s. Effect does not stack."
-      }
+      "[6120, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/2400.png",
     "stats": {
@@ -6206,11 +6046,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "6140": {
-        "id": 6140,
-        "name": "Fire Suppressor Ⅰ",
-        "desc": "Decreases Burn DMG taken by 10.0% and chance of catching fire by 10.0%. Effect does not stack."
-      }
+      "[6140, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/2500.png",
     "stats": {
@@ -6250,11 +6086,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "6150": {
-        "id": 6150,
-        "name": "Fire Suppressor Ⅱ",
-        "desc": "Decreases Burn DMG taken by 15.0%, chance of catching fire by 20.0%, and Burn Duration by 3s. Effect does not stack."
-      }
+      "[6150, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/2500.png",
     "stats": {
@@ -6294,11 +6126,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "6160": {
-        "id": 6160,
-        "name": "Fire Suppressor Ⅲ",
-        "desc": "Decreases Burn DMG taken by 20.0%, chance of catching fire by 30.0%, and Burn Duration by 6s. Effect does not stack."
-      }
+      "[6160, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/2500.png",
     "stats": {
@@ -6819,11 +6647,7 @@
     "nationality": 4,
     "type": 10,
     "skill": {
-      "6570": {
-        "id": 6570,
-        "name": "Acoustic Preload",
-        "desc": "When equipped, turns the first wave of torpedoes fired into acoustic torpedoes that deal 5.0% more damage."
-      }
+      "[6570, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/2700.png",
     "stats": {
@@ -7145,11 +6969,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "6620": {
-        "id": 6620,
-        "name": "Basic Sonar T3",
-        "desc": "Decreases the Accuracy of detected enemy submarines by 3.0%. Effect does not stack."
-      }
+      "[6620, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/2900.png",
     "stats": {
@@ -7404,11 +7224,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "6650": {
-        "id": 6650,
-        "name": "Improved Sonar T3",
-        "desc": "Decreases the TRP of detected enemy submarines by 5.0%. Effect does not stack."
-      }
+      "[6650, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/3000.png",
     "stats": {
@@ -7715,11 +7531,7 @@
     "nationality": 4,
     "type": 10,
     "skill": {
-      "6290": {
-        "id": 6290,
-        "name": "Auxiliary Power Source Ⅰ",
-        "desc": "Increases ASR by 1 (2, when fully enhanced) for the submarine using this gear."
-      }
+      "[6290, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/3140.png",
     "stats": {
@@ -7823,11 +7635,7 @@
     "nationality": 3,
     "type": 10,
     "skill": {
-      "6460": {
-        "id": 6460,
-        "name": "VH Armor Plating",
-        "desc": "When equipped by a ship with Heavy armor: decreases its DMG taken from AP ammo by 6.0% and decreases its DMG taken from HE and Normal ammo by 3.0%. When equipped by a ship with an Armor Type other than Heavy: changes its Armor Type to Heavy."
-      }
+      "[6460, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/3200.png",
     "stats": {
@@ -7931,11 +7739,7 @@
     "nationality": 3,
     "type": 10,
     "skill": {
-      "6470": {
-        "id": 6470,
-        "name": "VC Armor Plating",
-        "desc": "When equipped by a ship with Heavy armor: decreases its DMG taken from AP ammo by 4.0% and decreases its DMG taken from HE and Normal ammo by 2.0%."
-      }
+      "[6470, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/3220.png",
     "stats": {
@@ -8025,11 +7829,7 @@
     "nationality": 5,
     "type": 10,
     "skill": {
-      "6480": {
-        "id": 6480,
-        "name": "Crest of the Four Gods",
-        "desc": "When equipped by an An Shan-class ship: increases their Main Gun DMG by 16.0% and improves their All Out Assault."
-      }
+      "[6480, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/3300.png",
     "stats": {
@@ -8133,11 +7933,7 @@
     "nationality": 3,
     "type": 18,
     "skill": {
-      "6590": {
-        "id": 6590,
-        "name": "Gun Components",
-        "desc": "When equipped by Kashino: increases the FP of your Main Fleet and your CBs by 10%."
-      }
+      "[6590, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/3400.png",
     "stats": {
@@ -8240,11 +8036,7 @@
     "nationality": 0,
     "type": 18,
     "skill": {
-      "6660": {
-        "id": 6660,
-        "name": "Aviation Materials",
-        "desc": "When equipped by an AE: increases the AVI of your fleet by 8.0%."
-      }
+      "[6660, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/3500.png",
     "stats": {
@@ -8333,11 +8125,7 @@
     "nationality": 0,
     "type": 18,
     "skill": {
-      "6670": {
-        "id": 6670,
-        "name": "Small-Caliber Gun Parts",
-        "desc": "When equipped by an AE: increases the FP of your Vanguard by 8.0%."
-      }
+      "[6670, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/3520.png",
     "stats": {
@@ -8426,11 +8214,7 @@
     "nationality": 0,
     "type": 18,
     "skill": {
-      "6680": {
-        "id": 6680,
-        "name": "Torpedo Materials",
-        "desc": "When equipped by an AE: increases the TRP of your fleet by 8.0%."
-      }
+      "[6680, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/3540.png",
     "stats": {
@@ -8520,11 +8304,7 @@
     "nationality": 2,
     "type": 10,
     "skill": {
-      "6950": {
-        "id": 6950,
-        "name": "Damaged Speech Manuscript",
-        "desc": "When equipped by a Royal Navy ship, increases her LCK by 3."
-      }
+      "[6950, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/3560.png",
     "stats": {
@@ -8626,11 +8406,7 @@
     "nationality": 2,
     "type": 10,
     "skill": {
-      "6265": {
-        "id": 6265,
-        "name": "Accurate Alignments",
-        "desc": "Decreases the loading time of the user's first Main Gun volley by 15.0% and decreases her Main Gun Spread by 2."
-      }
+      "[6265, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/3580.png",
     "stats": {
@@ -8748,11 +8524,7 @@
     "nationality": 6,
     "type": 10,
     "skill": {
-      "6980": {
-        "id": 6980,
-        "name": "World Expo Invitation",
-        "desc": "If the ship with this gear equipped is NOT from the Sardegna Empire and is sortied with Vittorio Veneto, then: if the ship is in your Vanguard, increases the ship's FP, TRP, and EVA by 10.0%; if the ship is in your Main Fleet, increases the ship's FP, AVI, and ACC by 8.0%."
-      }
+      "[6980, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/3600.png",
     "stats": {
@@ -8854,11 +8626,7 @@
     "nationality": 3,
     "type": 10,
     "skill": {
-      "6990": {
-        "id": 6990,
-        "name": "Boundary-Crossing Permit",
-        "desc": "When equipped by a Sakura Empire ship: when the battle starts, deploys a shield that can absorb up to 100 DMG around the ship equipping this gear."
-      }
+      "[6990, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/3620.png",
     "stats": {
@@ -8960,11 +8728,7 @@
     "nationality": 2,
     "type": 10,
     "skill": {
-      "60100": {
-        "id": 60100,
-        "name": "Royal Navy Operation Report \"A\"",
-        "desc": "When equipped by a Royal Navy ship: increases that ship's Evasion Rate by 5.0%."
-      }
+      "[60100, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/3640.png",
     "stats": {
@@ -9066,11 +8830,7 @@
     "nationality": 2,
     "type": 10,
     "skill": {
-      "60110": {
-        "id": 60110,
-        "name": "Honor of the J-Class",
-        "desc": "When equipped by a J-class DD: increases her DMG dealt to non-Royal Navy enemies by 10.0%."
-      }
+      "[60110, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/3660.png",
     "stats": {
@@ -9559,11 +9319,7 @@
     "nationality": 96,
     "type": 10,
     "skill": {
-      "60120": {
-        "id": 60120,
-        "name": "Round Shot",
-        "desc": "Increases AMO by 1 for the boat equipping this gear (the Submarine Fleet's AMO cap is 6.)"
-      }
+      "[60120, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/3740.png",
     "stats": {
@@ -9765,11 +9521,7 @@
     "nationality": 1,
     "type": 10,
     "skill": {
-      "60290": {
-        "id": 60290,
-        "name": "Realm of Oneiric Snow",
-        "desc": "Creates a snowy landscape when equipped by Anchorage."
-      }
+      "[60290, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/3780.png",
     "stats": {
@@ -9871,11 +9623,7 @@
     "nationality": 5,
     "type": 10,
     "skill": {
-      "60320": {
-        "id": 60320,
-        "name": "Plum-Petal Poetry",
-        "desc": "When equipped by Yat Sen: scatters plum petals in the breeze; for the first 5 battles every sortie: when the battle starts, deploys a barrier (lasts 30s) that can negate up to 5.0% of this ship's max HP in DMG."
-      }
+      "[60320, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/3800.png",
     "stats": {
@@ -9979,11 +9727,7 @@
     "nationality": 5,
     "type": 18,
     "skill": {
-      "60300": {
-        "id": 60300,
-        "name": "Type-Wu Seaplane",
-        "desc": "When equipped by Ting An: increases your Main Fleet's AVI by 10.0% (does not stack with the \"Aviation Materials\" skill)."
-      }
+      "[60300, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/3820.png",
     "stats": {
@@ -10085,11 +9829,7 @@
     "nationality": 7,
     "type": 10,
     "skill": {
-      "60310": {
-        "id": 60310,
-        "name": "Fairy Magic",
-        "desc": "When equipped by a Northern Parliament ship: increases her LCK by 5 and, the first 3 times she takes DMG each battle, that DMG is reduced to 1."
-      }
+      "[60310, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/3840.png",
     "stats": {
@@ -10207,11 +9947,7 @@
     "nationality": 2,
     "type": 10,
     "skill": {
-      "60330": {
-        "id": 60330,
-        "name": "Her Majesty's Top-Secret Itinerary",
-        "desc": "When equipped by Queen Elizabeth: she enters Rest Mode, recovering 3.0% of her max HP when she fires her Main Guns. When equipped by any other Royal Navy ship: with every odd-numbered volley Queen Elizabeth fires, she enters Work Mode, increasing all your Royal Navy ships' DMG dealt by 8.0% for 8s; after this effect ends, Queen Elizabeth enters Rest Mode."
-      }
+      "[60330, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/3860.png",
     "stats": {
@@ -10313,11 +10049,7 @@
     "nationality": 7,
     "type": 10,
     "skill": {
-      "60340": {
-        "id": 60340,
-        "name": "Action Report - Frostfall",
-        "desc": "When equipped by a Northern Parliament ship: increases her LCK by 3."
-      }
+      "[60340, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/3880.png",
     "stats": {
@@ -10419,11 +10151,7 @@
     "nationality": 3,
     "type": 10,
     "skill": {
-      "60350": {
-        "id": 60350,
-        "name": "Watatsumi Research Notes",
-        "desc": "The ship with this gear equipped deals 5.0% more DMG against META ships."
-      }
+      "[60350, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/3900.png",
     "stats": {
@@ -10525,11 +10253,7 @@
     "nationality": 6,
     "type": 10,
     "skill": {
-      "60370": {
-        "id": 60370,
-        "name": "Oasis Barometer",
-        "desc": "A device that forecasts short-term weather changes. Increases the SPD of the ship equipping this gear by 2."
-      }
+      "[60370, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/3920.png",
     "stats": {
@@ -10630,11 +10354,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "60380": {
-        "id": 60380,
-        "name": "Precise Maintenance",
-        "desc": "Increases airstrike DMG by 4.0%, but increases airstrike loading time by 4.0%."
-      }
+      "[60380, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/3940.png",
     "stats": {
@@ -10724,11 +10444,7 @@
     "nationality": 6,
     "type": 10,
     "skill": {
-      "60410": {
-        "id": 60410,
-        "name": "World Expo Commemorative Ticket",
-        "desc": "Increases LCK by 2 when equipped on a ship."
-      }
+      "[60410, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/3960.png",
     "stats": {
@@ -10829,11 +10545,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "60420": {
-        "id": 60420,
-        "name": "Simulation Command",
-        "desc": "When equipped: activates a randomly chosen Command effect every 15s."
-      }
+      "[60420, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/3980.png",
     "stats": {
@@ -11629,6 +11341,151 @@
         "anti_siren": 1,
         "weapon_id": [
           4251
+        ]
+      }
+    }
+  },
+  "4260": {
+    "name": "Fairey Gannet",
+    "desc": null,
+    "label": [
+      "ASA"
+    ],
+    "rarity": 5,
+    "nationality": 2,
+    "type": 15,
+    "skill": {
+      "[60830, 1]": null
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/4260.png",
+    "stats": {
+      "1": {
+        "id": 4260,
+        "level": 1,
+        "enhance": "+0",
+        "antisub": 45,
+        "weapon_id": [
+          4260
+        ]
+      },
+      "2": {
+        "id": 4261,
+        "level": 2,
+        "enhance": "+1",
+        "antisub": 45,
+        "weapon_id": [
+          4261
+        ]
+      },
+      "3": {
+        "id": 4262,
+        "level": 3,
+        "enhance": "+2",
+        "antisub": 45,
+        "weapon_id": [
+          4262
+        ]
+      },
+      "4": {
+        "id": 4263,
+        "level": 4,
+        "enhance": "+3",
+        "antisub": 45,
+        "weapon_id": [
+          4263
+        ]
+      },
+      "5": {
+        "id": 4264,
+        "level": 5,
+        "enhance": "+4",
+        "antisub": 45,
+        "weapon_id": [
+          4264
+        ]
+      },
+      "6": {
+        "id": 4265,
+        "level": 6,
+        "enhance": "+5",
+        "antisub": 45,
+        "weapon_id": [
+          4265
+        ]
+      },
+      "7": {
+        "id": 4266,
+        "level": 7,
+        "enhance": "+6",
+        "antisub": 45,
+        "weapon_id": [
+          4266
+        ]
+      },
+      "8": {
+        "id": 4267,
+        "level": 8,
+        "enhance": "+7",
+        "antisub": 45,
+        "weapon_id": [
+          4267
+        ]
+      },
+      "9": {
+        "id": 4268,
+        "level": 9,
+        "enhance": "+8",
+        "antisub": 45,
+        "weapon_id": [
+          4268
+        ]
+      },
+      "10": {
+        "id": 4269,
+        "level": 10,
+        "enhance": "+9",
+        "antisub": 45,
+        "weapon_id": [
+          4269
+        ]
+      },
+      "11": {
+        "id": 4270,
+        "level": 11,
+        "enhance": "+10",
+        "antisub": 45,
+        "weapon_id": [
+          4270
+        ]
+      },
+      "12": {
+        "id": 4271,
+        "level": 12,
+        "enhance": "+11",
+        "antisub": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          4271
+        ]
+      },
+      "13": {
+        "id": 4272,
+        "level": 13,
+        "enhance": "+12",
+        "antisub": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          4272
+        ]
+      },
+      "14": {
+        "id": 4273,
+        "level": 14,
+        "enhance": "+13",
+        "antisub": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          4273
         ]
       }
     }
@@ -21463,11 +21320,7 @@
     "nationality": 1,
     "type": 4,
     "skill": {
-      "6780": {
-        "id": 6780,
-        "name": "Experimental Gun Barrel",
-        "desc": "When equipped by a ship: increases her Main Gun DMG by 10.0%, but increases her reload time by 35.0% from the 5th shot and onwards."
-      }
+      "[6780, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/14520.png",
     "stats": {
@@ -23131,11 +22984,7 @@
     "nationality": 1,
     "type": 5,
     "skill": {
-      "60360": {
-        "id": 60360,
-        "name": "Mark 35 Torpedo",
-        "desc": "Able to hit underwater enemies (deals 35.0% DMG when hitting underwater enemies)."
-      }
+      "[60360, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/15300.png",
     "stats": {
@@ -23295,11 +23144,7 @@
     "nationality": 1,
     "type": 10,
     "skill": {
-      "6530": {
-        "id": 6530,
-        "name": "PBY Aerial Recon",
-        "desc": "Provides aerial reconnaissance, decreasing Ambush chance by 10.0% and increasing Ambush evasion chance by 10.0%. Effect does not stack."
-      }
+      "[6530, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/15500.png",
     "stats": {
@@ -25409,6 +25254,179 @@
       }
     }
   },
+  "16480": {
+    "name": "Twin 76mm RF Mk 37 Gun Mount",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "ST",
+      "AA"
+    ],
+    "rarity": 6,
+    "nationality": 1,
+    "type": 6,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/16480.png",
+    "stats": {
+      "1": {
+        "id": 16480,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "56<[WAVE]>",
+        "antiaircraft": 50,
+        "hit": 15,
+        "weapon_id": [
+          16480
+        ]
+      },
+      "2": {
+        "id": 16481,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "64<[WAVE]>",
+        "antiaircraft": 50,
+        "hit": 15,
+        "weapon_id": [
+          16481
+        ]
+      },
+      "3": {
+        "id": 16482,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "72<[WAVE]>",
+        "antiaircraft": 50,
+        "hit": 15,
+        "weapon_id": [
+          16482
+        ]
+      },
+      "4": {
+        "id": 16483,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "80<[WAVE]>",
+        "antiaircraft": 50,
+        "hit": 15,
+        "weapon_id": [
+          16483
+        ]
+      },
+      "5": {
+        "id": 16484,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "88<[WAVE]>",
+        "antiaircraft": 50,
+        "hit": 15,
+        "weapon_id": [
+          16484
+        ]
+      },
+      "6": {
+        "id": 16485,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "96<[WAVE]>",
+        "antiaircraft": 50,
+        "hit": 15,
+        "weapon_id": [
+          16485
+        ]
+      },
+      "7": {
+        "id": 16486,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "104<[WAVE]>",
+        "antiaircraft": 50,
+        "hit": 15,
+        "weapon_id": [
+          16486
+        ]
+      },
+      "8": {
+        "id": 16487,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "112<[WAVE]>",
+        "antiaircraft": 50,
+        "hit": 15,
+        "weapon_id": [
+          16487
+        ]
+      },
+      "9": {
+        "id": 16488,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "122<[WAVE]>",
+        "antiaircraft": 50,
+        "hit": 15,
+        "weapon_id": [
+          16488
+        ]
+      },
+      "10": {
+        "id": 16489,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "132<[WAVE]>",
+        "antiaircraft": 50,
+        "hit": 15,
+        "weapon_id": [
+          16489
+        ]
+      },
+      "11": {
+        "id": 16490,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "142<[WAVE]>",
+        "antiaircraft": 50,
+        "hit": 15,
+        "weapon_id": [
+          16490
+        ]
+      },
+      "12": {
+        "id": 16491,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "142<[WAVE]>",
+        "antiaircraft": 50,
+        "hit": 15,
+        "anti_siren": 1,
+        "weapon_id": [
+          16491
+        ]
+      },
+      "13": {
+        "id": 16492,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "142<[WAVE]>",
+        "antiaircraft": 50,
+        "hit": 15,
+        "anti_siren": 2,
+        "weapon_id": [
+          16492
+        ]
+      },
+      "14": {
+        "id": 16493,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "142<[WAVE]>",
+        "antiaircraft": 50,
+        "hit": 15,
+        "anti_siren": 3,
+        "weapon_id": [
+          16493
+        ]
+      }
+    }
+  },
   "17000": {
     "name": "F2A Buffalo",
     "desc": "No description",
@@ -25625,11 +25643,7 @@
     "nationality": 1,
     "type": 7,
     "skill": {
-      "6430": {
-        "id": 6430,
-        "name": "Thach Weave",
-        "desc": "Increases the efficiency of all your Fighters by 4.0%. This buff cannot be stacked; only the strongest buff will take effect."
-      }
+      "[6430, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/17060.png",
     "stats": {
@@ -26485,11 +26499,7 @@
     "nationality": 1,
     "type": 7,
     "skill": {
-      "6250": {
-        "id": 6250,
-        "name": "Jolly Rogers",
-        "desc": "Increases your entire fleet's AA by 5.0% for 8s when the Carrier using this aircraft launches an Airstrike."
-      }
+      "[6250, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/17260.png",
     "stats": {
@@ -27785,11 +27795,7 @@
     "nationality": 1,
     "type": 12,
     "skill": {
-      "60610": {
-        "id": 60610,
-        "name": "Prototype F8F Bearcat (Float)",
-        "desc": "When the wearer is a DD and launches an airstrike: summons 3 additional Prototype F8F Bearcats (Float)."
-      }
+      "[60610, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/17460.png",
     "stats": {
@@ -28138,11 +28144,7 @@
     "nationality": 1,
     "type": 8,
     "skill": {
-      "6320": {
-        "id": 6320,
-        "name": "Turning Point",
-        "desc": "Starting with the second Airstrike from the ship using this aircraft: this aircraft gets replaced by the Grumman TBF Avenger (VT-8 Squadron)."
-      }
+      "[6320, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/18060.png",
     "stats": {
@@ -28545,11 +28547,7 @@
     "nationality": 1,
     "type": 8,
     "skill": {
-      "6790": {
-        "id": 6790,
-        "name": "Battleship Strikeforce",
-        "desc": "Increases DMG against enemy BBs and BCs by 3.0% for the ship equipping this aircraft. When this aircraft hits an enemy BB, BC, or BBV: 60.0% chance to inflict the Flood debuff to them for 9s. Flood DMG is based on the AVI stat of the ship equipping this aircraft."
-      }
+      "[6790, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/18180.png",
     "stats": {
@@ -29029,11 +29027,7 @@
     "nationality": 1,
     "type": 9,
     "skill": {
-      "6240": {
-        "id": 6240,
-        "name": "Focused Bombing",
-        "desc": "Increases the DMG the Carrier using this aircraft deals to enemy CVs and CVLs by 5.0%."
-      }
+      "[6240, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/19060.png",
     "stats": {
@@ -42001,11 +41995,7 @@
     "nationality": 2,
     "type": 8,
     "skill": {
-      "6810": {
-        "id": 6810,
-        "name": "Swordfish (818 Squadron)",
-        "desc": "Decreases the Speed of all enemies hit by this aircraft by 60.0% for 8s."
-      }
+      "[6810, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/28060.png",
     "stats": {
@@ -44078,11 +44068,7 @@
     "nationality": 2,
     "type": 9,
     "skill": {
-      "6830": {
-        "id": 6830,
-        "name": "Armor-piercing Bomb",
-        "desc": "When this aircraft hits an enemy: 24.0% chance to inflict Armor break. Does not stack; only the strongest Armor Break effect applies."
-      }
+      "[6830, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/29300.png",
     "stats": {
@@ -47393,11 +47379,7 @@
     "nationality": 3,
     "type": 2,
     "skill": {
-      "60390": {
-        "id": 60390,
-        "name": "Additional Anti-Air Weaponry",
-        "desc": "When equipped by a Vanguard ship: the ship gains a special AA Gun during battle (only one special AA Gun may be active at a time)."
-      }
+      "[60390, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/32360.png",
     "stats": {
@@ -55312,11 +55294,7 @@
     "nationality": 3,
     "type": 6,
     "skill": {
-      "60600": {
-        "id": 60600,
-        "name": "Twin 80mm Type 98 High-Angle Gun Mount",
-        "desc": "When equipped by a Sakura Empire Vanguard ship: increases this ship's FP by 5.0%. When this ship fires her AA guns: halves this FP buff for 3s."
-      }
+      "[60600, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/36740.png",
     "stats": {
@@ -59693,11 +59671,7 @@
     "nationality": 3,
     "type": 12,
     "skill": {
-      "6370": {
-        "id": 6370,
-        "name": "Aviation Submarine Specialization",
-        "desc": "When equipped by an SSV: increases this aircraft's DMG dealt by 60.0%."
-      }
+      "[6370, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/39300.png",
     "stats": {
@@ -59969,11 +59943,7 @@
     "nationality": 3,
     "type": 9,
     "skill": {
-      "6860": {
-        "id": 6860,
-        "name": "Armor-piercing Bomb",
-        "desc": "When this aircraft hits an enemy: 24.0% chance to inflict Armor break. Does not stack; only the strongest Armor Break effect applies."
-      }
+      "[6860, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/39340.png",
     "stats": {
@@ -62419,11 +62389,7 @@
     "nationality": 4,
     "type": 2,
     "skill": {
-      "60400": {
-        "id": 60400,
-        "name": "Improved Adaptability",
-        "desc": "When equipped by a DD: all the ship's Armor DMG modifiers increase by 15.0%."
-      }
+      "[60400, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/42360.png",
     "stats": {
@@ -70161,6 +70127,165 @@
       }
     }
   },
+  "47200": {
+    "name": "Prototype Carrier-Based FW-190 G-3/R1",
+    "desc": null,
+    "label": [
+      "KMS",
+      "CV",
+      "FT"
+    ],
+    "rarity": 5,
+    "nationality": 4,
+    "type": 7,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/47200.png",
+    "stats": {
+      "1": {
+        "id": 47200,
+        "level": 1,
+        "enhance": "+0",
+        "air": 45,
+        "weapon_id": [
+          47200,
+          84200
+        ]
+      },
+      "2": {
+        "id": 47201,
+        "level": 2,
+        "enhance": "+1",
+        "air": 45,
+        "weapon_id": [
+          47201,
+          84201
+        ]
+      },
+      "3": {
+        "id": 47202,
+        "level": 3,
+        "enhance": "+2",
+        "air": 45,
+        "weapon_id": [
+          47202,
+          84202
+        ]
+      },
+      "4": {
+        "id": 47203,
+        "level": 4,
+        "enhance": "+3",
+        "air": 45,
+        "weapon_id": [
+          47203,
+          84203
+        ]
+      },
+      "5": {
+        "id": 47204,
+        "level": 5,
+        "enhance": "+4",
+        "air": 45,
+        "weapon_id": [
+          47204,
+          84204
+        ]
+      },
+      "6": {
+        "id": 47205,
+        "level": 6,
+        "enhance": "+5",
+        "air": 45,
+        "weapon_id": [
+          47205,
+          84205
+        ]
+      },
+      "7": {
+        "id": 47206,
+        "level": 7,
+        "enhance": "+6",
+        "air": 45,
+        "weapon_id": [
+          47206,
+          84206
+        ]
+      },
+      "8": {
+        "id": 47207,
+        "level": 8,
+        "enhance": "+7",
+        "air": 45,
+        "weapon_id": [
+          47207,
+          84207
+        ]
+      },
+      "9": {
+        "id": 47208,
+        "level": 9,
+        "enhance": "+8",
+        "air": 45,
+        "weapon_id": [
+          47208,
+          84208
+        ]
+      },
+      "10": {
+        "id": 47209,
+        "level": 10,
+        "enhance": "+9",
+        "air": 45,
+        "weapon_id": [
+          47209,
+          84209
+        ]
+      },
+      "11": {
+        "id": 47210,
+        "level": 11,
+        "enhance": "+10",
+        "air": 45,
+        "weapon_id": [
+          47210,
+          84210
+        ]
+      },
+      "12": {
+        "id": 47211,
+        "level": 12,
+        "enhance": "+11",
+        "air": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          47211,
+          84211
+        ]
+      },
+      "13": {
+        "id": 47212,
+        "level": 13,
+        "enhance": "+12",
+        "air": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          47212,
+          84212
+        ]
+      },
+      "14": {
+        "id": 47213,
+        "level": 14,
+        "enhance": "+13",
+        "air": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          47213,
+          84213
+        ]
+      }
+    }
+  },
   "48000": {
     "name": "Ar 195",
     "desc": "No description",
@@ -74031,11 +74156,7 @@
     "nationality": 104,
     "type": 10,
     "skill": {
-      "6380": {
-        "id": 6380,
-        "name": "Random Word Generator",
-        "desc": "A helpful tool for planning. Rumor has it, when the the moon is full, the seas are clear, and the time is right, it will speak to you...?"
-      }
+      "[6380, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89000.png",
     "stats": {
@@ -74152,11 +74273,7 @@
     "nationality": 104,
     "type": 10,
     "skill": {
-      "6390": {
-        "id": 6390,
-        "name": "Pyoko-Pyoko",
-        "desc": "Kizuna AI's headband. It's a flippy-floppy wing-dang-doodle of a honkin' good time that goes on your head."
-      }
+      "[6390, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89020.png",
     "stats": {
@@ -74273,11 +74390,7 @@
     "nationality": 104,
     "type": 10,
     "skill": {
-      "6400": {
-        "id": 6400,
-        "name": "Intelligence Chip",
-        "desc": "A plugin chip that Kizuna AI uses to...? --No talking shit!"
-      }
+      "[6400, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89040.png",
     "stats": {
@@ -74394,11 +74507,7 @@
     "nationality": 105,
     "type": 10,
     "skill": {
-      "6490": {
-        "id": 6490,
-        "name": "Team Emblem",
-        "desc": "When equipped by a Hololive ship: increases their DMG dealt by 3.0%."
-      }
+      "[6490, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89060.png",
     "stats": {
@@ -74515,11 +74624,7 @@
     "nationality": 105,
     "type": 10,
     "skill": {
-      "6500": {
-        "id": 6500,
-        "name": "Gamers Mark",
-        "desc": "Any ship equipping this gear will be treated as part of the Hololive faction."
-      }
+      "[6500, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89080.png",
     "stats": {
@@ -74622,11 +74727,7 @@
     "nationality": 105,
     "type": 10,
     "skill": {
-      "6510": {
-        "id": 6510,
-        "name": "Corn Lantern",
-        "desc": "When equipped by a Hololive ship: decreases their DMG taken by 4.0%."
-      }
+      "[6510, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89100.png",
     "stats": {
@@ -74743,11 +74844,7 @@
     "nationality": 105,
     "type": 10,
     "skill": {
-      "6520": {
-        "id": 6520,
-        "name": "Ankimo",
-        "desc": "When sortieing with a ship equipping this gear: changes the battle background music."
-      }
+      "[6520, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89120.png",
     "stats": {
@@ -74864,11 +74961,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "6710": {
-        "id": 6710,
-        "name": "White-Hot Verheerender",
-        "desc": "When sortieing with a ship equipped with this gear: changes the battle music to Seafarer's Loyalty. The song will be chosen randomly if several types of music-changing gear is used at once."
-      }
+      "[6710, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89140.png",
     "stats": {
@@ -74985,11 +75078,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "6711": {
-        "id": 6711,
-        "name": "Sacred Lumière",
-        "desc": "When sortieing with a ship equipped with this gear: changes the battle music to A Song of Prayer. The song will be chosen randomly if several types of music-changing gear is used at once."
-      }
+      "[6711, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89160.png",
     "stats": {
@@ -75106,11 +75195,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "6712": {
-        "id": 6712,
-        "name": "Resplendent Astrum",
-        "desc": "When sortieing with a ship equipped with this gear: changes the battle music to Blue Spirit. The song will be chosen randomly if several types of music-changing gear is used at once."
-      }
+      "[6712, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89180.png",
     "stats": {
@@ -75227,11 +75312,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "6690": {
-        "id": 6690,
-        "name": "Cosmic Kicks",
-        "desc": "Ships equipped with this are classified as \"µ\" ships."
-      }
+      "[6690, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89200.png",
     "stats": {
@@ -75348,11 +75429,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "6700": {
-        "id": 6700,
-        "name": "Celestial Body",
-        "desc": "Ships equipped with this are classified as \"µ\" ships."
-      }
+      "[6700, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89220.png",
     "stats": {
@@ -75455,11 +75532,7 @@
     "nationality": 106,
     "type": 10,
     "skill": {
-      "6720": {
-        "id": 6720,
-        "name": "Venus Awakening Gem",
-        "desc": "When equipped by a Venus Vacation collab character: increases that ship's DMG dealt by 3.0%."
-      }
+      "[6720, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89240.png",
     "stats": {
@@ -75576,11 +75649,7 @@
     "nationality": 106,
     "type": 10,
     "skill": {
-      "6730": {
-        "id": 6730,
-        "name": "Heart Key",
-        "desc": "When sortieing with a character equipped with this gear: changes the battle music."
-      }
+      "[6730, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89260.png",
     "stats": {
@@ -75697,11 +75766,7 @@
     "nationality": 107,
     "type": 10,
     "skill": {
-      "6880": {
-        "id": 6880,
-        "name": "Shining Bracelet",
-        "desc": "When equipped by a The Idolmaster collab ship: at the start of the battle, for 76s, decreases said ship's DMG taken by 5%."
-      }
+      "[6880, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89280.png",
     "stats": {
@@ -75819,11 +75884,7 @@
     "nationality": 108,
     "type": 10,
     "skill": {
-      "6890": {
-        "id": 6890,
-        "name": "Battle Tracto Max",
-        "desc": "When equipped by Rikka Takarada: improves the attack pattern of her Grid Beam skill, and replaces her Main Gun with a Special Main Gun."
-      }
+      "[6890, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89300.png",
     "stats": {
@@ -75941,11 +76002,7 @@
     "nationality": 108,
     "type": 10,
     "skill": {
-      "6900": {
-        "id": 6900,
-        "name": "Gridman Calibur",
-        "desc": "When equipped by Rikka Takarada: improves the attack pattern of her Slash & Circus skill, and triggers an additional torpedo barrage every 20s."
-      }
+      "[6900, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89320.png",
     "stats": {
@@ -76049,11 +76106,7 @@
     "nationality": 108,
     "type": 10,
     "skill": {
-      "6910": {
-        "id": 6910,
-        "name": "Buster Borr",
-        "desc": "When equipped by Rikka Takarada: improves the attack pattern of her Grid Beam skill, and replaces her Torpedo with a Special Torpedo."
-      }
+      "[6910, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89340.png",
     "stats": {
@@ -76157,11 +76210,7 @@
     "nationality": 108,
     "type": 10,
     "skill": {
-      "6920": {
-        "id": 6920,
-        "name": "Sky Vitter",
-        "desc": "When equipped by Rikka Takarada: improves the attack pattern of her Slash & Circus skill, and replaces her Anti-Air Gun with a Special Anti-Air Gun."
-      }
+      "[6920, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89360.png",
     "stats": {
@@ -76264,11 +76313,7 @@
     "nationality": 108,
     "type": 10,
     "skill": {
-      "6930": {
-        "id": 6930,
-        "name": "Dynamic Cannon",
-        "desc": "Changes the BGM when equipped. If the frontmost ship of your Vanguard is a CL, CA, or CB: launches a special support barrage 12s after the battle starts."
-      }
+      "[6930, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89380.png",
     "stats": {
@@ -76371,11 +76416,7 @@
     "nationality": 108,
     "type": 10,
     "skill": {
-      "6940": {
-        "id": 6940,
-        "name": "Goldburn",
-        "desc": "Changes the BGM when equipped. If the ship with this gear equipped is in your Vanguard or is an SSSS collab character: increases the ship's RLD by 38. If your Flagship is a CV or CVL: launches a special support barrage 25s after the battle starts."
-      }
+      "[6940, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89400.png",
     "stats": {
@@ -76479,11 +76520,7 @@
     "nationality": 109,
     "type": 10,
     "skill": {
-      "60130": {
-        "id": 60130,
-        "name": "Inflict Burns",
-        "desc": "When equipped by Reisalin Stout: 10s after the battle starts, performs an Item attack (DMG is based on the equipping character's FP) that inflicts a special Burn and the Item Mark debuff to enemies hit for 5s. If equipped in the second gear slot: the character equipping this gear gains a special Secondary Gun (attacks from this Secondary Gun are not treated as Item attacks)."
-      }
+      "[60130, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89420.png",
     "stats": {
@@ -76600,11 +76637,7 @@
     "nationality": 109,
     "type": 10,
     "skill": {
-      "60140": {
-        "id": 60140,
-        "name": "Slowdown",
-        "desc": "When equipped by Reisalin Stout: 15s after the battle starts, performs an Item attack (DMG is based on the equipping character's FP) that inflicts the Item Mark debuff to enemies hit for 5s and decreases their SPD by 30.0% for 5s."
-      }
+      "[60140, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89440.png",
     "stats": {
@@ -76708,11 +76741,7 @@
     "nationality": 109,
     "type": 10,
     "skill": {
-      "60150": {
-        "id": 60150,
-        "name": "Senselessness",
-        "desc": "When equipped by Reisalin Stout: 20s after the battle starts, performs an Item attack (DMG is based on the equipping character's FP) that inflicts the Item Mark debuff to enemies hit for 5s and decreases their Crit Rate by 10.0% for 5s. If equipped in the third gear slot: the character equipping this gear gains a special Anti-Air Gun (attacks from this Anti-Air Gun are not treated as Item attacks)."
-      }
+      "[60150, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89460.png",
     "stats": {
@@ -76815,11 +76844,7 @@
     "nationality": 109,
     "type": 10,
     "skill": {
-      "60160": {
-        "id": 60160,
-        "name": "Maximum Wind",
-        "desc": "When equipped by Reisalin Stout: 25s after the battle starts, performs an Item attack (DMG is based on the equipping character's FP) that inflicts the Item Mark debuff to enemies hit for 5s; If \"Grand Bomb,\" \"Crystal Ice Bomb,\" \"Laute Plajig,\" and \"Wirbel Luft\" are all equipped together: increases this ship's FP and TRP by 10.0% and activates \"Core Drive - Four-Star Aurora\" 30s after the battle starts."
-      }
+      "[60160, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89480.png",
     "stats": {
@@ -76936,11 +76961,7 @@
     "nationality": 109,
     "type": 10,
     "skill": {
-      "60250": {
-        "id": 60250,
-        "name": "HP Recovery",
-        "desc": "Once per battle, when equipped by an \"Atelier Ryza\" collab character: 50s after the battle starts, all your \"Atelier Ryza\" collab characters recover 5.0% of their max HP."
-      }
+      "[60250, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89500.png",
     "stats": {
@@ -77043,11 +77064,7 @@
     "nationality": 109,
     "type": 10,
     "skill": {
-      "60240": {
-        "id": 60240,
-        "name": "Evasion Up",
-        "desc": "When equipped by an \"Atelier Ryza\" collab character: when the battle starts, increases all your \"Atelier Ryza\" collab characters' Evasion Rate by 3.0% for 50s. If \"Mystic Robe\" and \"Elixir\" are both equipped together: when the battle starts, activates \"Core Drive - Angelic Embrace\" and deploys barriers around the frontmost ship in your Vanguard (barrier last 20s and can negate DMG equal to 5.0% of the equipping character's max HP)."
-      }
+      "[60240, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89520.png",
     "stats": {
@@ -77164,11 +77181,7 @@
     "nationality": 109,
     "type": 10,
     "skill": {
-      "60210": {
-        "id": 60210,
-        "name": "Soulstealer's Engraving",
-        "desc": "When equipped by an \"Atelier Ryza\" collab character: 30s after the battle starts, deducts 30 HP from this ship and performs an Item attack that inflicts the Item Mark debuff to enemies hit for 5s and decreases their FP, TRP, and AVI by 3.0% for 30s."
-      }
+      "[60210, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89540.png",
     "stats": {
@@ -77271,11 +77284,7 @@
     "nationality": 109,
     "type": 10,
     "skill": {
-      "60220": {
-        "id": 60220,
-        "name": "Infinite Explosion",
-        "desc": "When equipped by an \"Atelier Ryza\" collab character: 40s after the battle starts, performs an Item attack that inflicts the Item Mark debuff to enemies hit for 5s and increases their DMG taken by 5.0% for 10s. If \"Apocalypse\" and \"N/A\" are both equipped together: activates \"Core Drive - Testament Meteor\" 50s after the battle starts."
-      }
+      "[60220, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89560.png",
     "stats": {
@@ -77392,11 +77401,7 @@
     "nationality": 109,
     "type": 10,
     "skill": {
-      "60180": {
-        "id": 60180,
-        "name": "Echoing Seas",
-        "desc": "When equipped by an \"Atelier Ryza\" collab character: 20s after the battle starts, performs an Item attack that inflicts the Item Mark debuff to enemies hit for 5s and decreases their Crit Rate by 10.0% for 5s."
-      }
+      "[60180, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89580.png",
     "stats": {
@@ -77499,11 +77504,7 @@
     "nationality": 109,
     "type": 10,
     "skill": {
-      "60190": {
-        "id": 60190,
-        "name": "Bubbly Prison",
-        "desc": "When equipped by an \"Atelier Ryza\" collab character: 30s after the battle starts, performs an Item attack that inflicts the Item Mark debuff to enemies hit for 5s and decreases their EVA by 10.0% for 5s. If \"Genesis Hammer\" and \"Bubble Bullet\" are both equipped together: 35s after the battle starts, activates \"Core Drive - Gravity Press.\""
-      }
+      "[60190, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89600.png",
     "stats": {
@@ -77620,11 +77621,7 @@
     "nationality": 109,
     "type": 10,
     "skill": {
-      "60270": {
-        "id": 60270,
-        "name": "Glorious Melody",
-        "desc": "Changes the BGM when equipped. If additional gear that changes the BGM is equipped at the same time, only a randomly chosen one will take effect."
-      }
+      "[60270, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89620.png",
     "stats": {
@@ -77741,11 +77738,7 @@
     "nationality": 108,
     "type": 18,
     "skill": {
-      "108340": {
-        "id": 108340,
-        "name": "Crab (With Receipt)",
-        "desc": "When equipped by Princess Hime: increases your SSSS collab characters' FP and TRP by 8.0%."
-      }
+      "[108340, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89640.png",
     "stats": {
@@ -77848,11 +77841,7 @@
     "nationality": 108,
     "type": 18,
     "skill": {
-      "108350": {
-        "id": 108350,
-        "name": "Dragon Figurine",
-        "desc": "When equipped by Princess Hime: increases Princess Hime's, Yume Minami's, Chise Asukagawa's, The 2nd's, and Mujina's FP and AVI by 8.0%."
-      }
+      "[108350, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89660.png",
     "stats": {
@@ -77955,11 +77944,7 @@
     "nationality": 110,
     "type": 10,
     "skill": {
-      "60470": {
-        "id": 60470,
-        "name": "Shinobi Medal",
-        "desc": "Changes the battle music when equipped. If additional gear that changes the battle music is active at the same time, only a randomly chosen one will take effect."
-      }
+      "[60470, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89680.png",
     "stats": {
@@ -78076,11 +78061,7 @@
     "nationality": 110,
     "type": 10,
     "skill": {
-      "60480": {
-        "id": 60480,
-        "name": "Shinobi Attire",
-        "desc": "The ship equipping this gear is treated as a Senran Kagura collab character."
-      }
+      "[60480, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89700.png",
     "stats": {
@@ -78183,11 +78164,7 @@
     "nationality": 110,
     "type": 10,
     "skill": {
-      "60490": {
-        "id": 60490,
-        "name": "Ninjutsu Scroll",
-        "desc": "When equipped by a Senran Kagura collab character: 30s after the battle starts, fires a special barrage from your Vanguard's frontmost ship (DMG is based on the FP stat of the ship equipping this gear; if equipped by a Senran Kagura submarine: performs this special barrage at the start of the battle instead)."
-      }
+      "[60490, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89720.png",
     "stats": {
@@ -78304,11 +78281,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "60560": {
-        "id": 60560,
-        "name": "Harmony μ Ticket",
-        "desc": "Changes the BGM when equipped. If multiple gear which change the BGM are equipped at the same time, the one in effect will be chosen randomly."
-      }
+      "[60560, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89740.png",
     "stats": {
@@ -78425,11 +78398,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "60570": {
-        "id": 60570,
-        "name": "Alizarin Support Towel",
-        "desc": "When the battle starts: the ship equipping this gear gains 3.0% increased FP, TRP, AVI, and RLD for 15s."
-      }
+      "[60570, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89760.png",
     "stats": {
@@ -78532,11 +78501,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "60580": {
-        "id": 60580,
-        "name": "Cyanidin Support Towel",
-        "desc": "When the battle starts: deploys a barrier (lasts 15s) that can negate DMG equal to 2.0% max HP of the ship equipping this gear."
-      }
+      "[60580, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/89780.png",
     "stats": {
@@ -83623,11 +83588,7 @@
     "nationality": 10,
     "type": 10,
     "skill": {
-      "6970": {
-        "id": 6970,
-        "name": "Angel's Feather",
-        "desc": "When equipped by an Iris Libre or Vichya Dominion ship, restores 3.0% of her max HP 30s after the battle starts. Can only activate once per battle."
-      }
+      "[6970, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/51260.png",
     "stats": {
@@ -83745,11 +83706,7 @@
     "nationality": 10,
     "type": 10,
     "skill": {
-      "60520": {
-        "id": 60520,
-        "name": "Cross Brooch",
-        "desc": "When equipped by a Vanguard ship: if your Flagship is a Vichya Dominion BB or BC, when your Flagship fires her Main Guns: fires an additional special barrage."
-      }
+      "[60520, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/51280.png",
     "stats": {
@@ -84054,11 +84011,7 @@
     "nationality": 6,
     "type": 4,
     "skill": {
-      "6450": {
-        "id": 6450,
-        "name": "Overheating",
-        "desc": "Increases the Volley DMG of the ship this gun is equipped to by 10.0%; after firing 2 Volleys, the next Volley will have its reload time increased by 30.0%. This effect will then reset."
-      }
+      "[6450, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/55000.png",
     "stats": {
@@ -86195,6 +86148,144 @@
         "cannon": 5,
         "weapon_id": [
           95563
+        ]
+      }
+    }
+  },
+  "95580": {
+    "name": "Twin 120mm Gun Mount",
+    "desc": "No description",
+    "label": [
+      "RN",
+      "DD",
+      "MG",
+      "AP"
+    ],
+    "rarity": 4,
+    "nationality": 6,
+    "type": 1,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/55560.png",
+    "stats": {
+      "1": {
+        "id": 95580,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "5 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          95580
+        ]
+      },
+      "2": {
+        "id": 95581,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "6 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          95581
+        ]
+      },
+      "3": {
+        "id": 95582,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "7 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          95582
+        ]
+      },
+      "4": {
+        "id": 95583,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "8 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          95583
+        ]
+      },
+      "5": {
+        "id": 95584,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "9 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          95584
+        ]
+      },
+      "6": {
+        "id": 95585,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "10 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          95585
+        ]
+      },
+      "7": {
+        "id": 95586,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "11 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          95586
+        ]
+      },
+      "8": {
+        "id": 95587,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "12 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          95587
+        ]
+      },
+      "9": {
+        "id": 95588,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "13 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          95588
+        ]
+      },
+      "10": {
+        "id": 95589,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "14 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          95589
+        ]
+      },
+      "11": {
+        "id": 95590,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "15 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          95590
+        ]
+      },
+      "12": {
+        "id": 95591,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "15 x 4",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          95591
         ]
       }
     }
@@ -88621,6 +88712,569 @@
       }
     }
   },
+  "96140": {
+    "name": "Triple 305mm Model 1909 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "RN",
+      "BB",
+      "MG"
+    ],
+    "rarity": 3,
+    "nationality": 6,
+    "type": 4,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/56140.png",
+    "stats": {
+      "1": {
+        "id": 96140,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "47 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          96140
+        ]
+      },
+      "2": {
+        "id": 96141,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "51 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          96141
+        ]
+      },
+      "3": {
+        "id": 96142,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "57 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          96142
+        ]
+      },
+      "4": {
+        "id": 96143,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "61 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          96143
+        ]
+      },
+      "5": {
+        "id": 96144,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "67 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          96144
+        ]
+      },
+      "6": {
+        "id": 96145,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "71 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          96145
+        ]
+      },
+      "7": {
+        "id": 96146,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "75 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          96146
+        ]
+      },
+      "8": {
+        "id": 96147,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "75 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          96147
+        ]
+      }
+    }
+  },
+  "96160": {
+    "name": "Twin 381mm Model 1914 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "RN",
+      "BB",
+      "MG",
+      "AP"
+    ],
+    "rarity": 3,
+    "nationality": 6,
+    "type": 4,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/56160.png",
+    "stats": {
+      "1": {
+        "id": 96160,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "42 x 2",
+        "cannon": 12,
+        "weapon_id": [
+          96160
+        ]
+      },
+      "2": {
+        "id": 96161,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "50 x 2",
+        "cannon": 12,
+        "weapon_id": [
+          96161
+        ]
+      },
+      "3": {
+        "id": 96162,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "58 x 2",
+        "cannon": 12,
+        "weapon_id": [
+          96162
+        ]
+      },
+      "4": {
+        "id": 96163,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "66 x 2",
+        "cannon": 12,
+        "weapon_id": [
+          96163
+        ]
+      },
+      "5": {
+        "id": 96164,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "74 x 2",
+        "cannon": 12,
+        "weapon_id": [
+          96164
+        ]
+      },
+      "6": {
+        "id": 96165,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "82 x 2",
+        "cannon": 12,
+        "weapon_id": [
+          96165
+        ]
+      },
+      "7": {
+        "id": 96166,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "90 x 2",
+        "cannon": 12,
+        "weapon_id": [
+          96166
+        ]
+      },
+      "8": {
+        "id": 96167,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "90 x 2",
+        "cannon": 12,
+        "weapon_id": [
+          96167
+        ]
+      }
+    }
+  },
+  "96180": {
+    "name": "Twin 13.2mm Breda Anti-Air Autocannon",
+    "desc": "No description",
+    "label": [
+      "RN",
+      "ST",
+      "AA"
+    ],
+    "rarity": 3,
+    "nationality": 6,
+    "type": 6,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/56180.png",
+    "stats": {
+      "1": {
+        "id": 96180,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "9<[WAVE]>",
+        "antiaircraft": 12,
+        "weapon_id": [
+          96180
+        ]
+      },
+      "2": {
+        "id": 96181,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "10<[WAVE]>",
+        "antiaircraft": 12,
+        "weapon_id": [
+          96181
+        ]
+      },
+      "3": {
+        "id": 96182,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "11<[WAVE]>",
+        "antiaircraft": 12,
+        "weapon_id": [
+          96182
+        ]
+      },
+      "4": {
+        "id": 96183,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "12<[WAVE]>",
+        "antiaircraft": 12,
+        "weapon_id": [
+          96183
+        ]
+      },
+      "5": {
+        "id": 96184,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "13<[WAVE]>",
+        "antiaircraft": 12,
+        "weapon_id": [
+          96184
+        ]
+      },
+      "6": {
+        "id": 96185,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "14<[WAVE]>",
+        "antiaircraft": 12,
+        "weapon_id": [
+          96185
+        ]
+      },
+      "7": {
+        "id": 96186,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "16<[WAVE]>",
+        "antiaircraft": 12,
+        "weapon_id": [
+          96186
+        ]
+      },
+      "8": {
+        "id": 96187,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "16<[WAVE]>",
+        "antiaircraft": 12,
+        "weapon_id": [
+          96187
+        ]
+      }
+    }
+  },
+  "96200": {
+    "name": "65mm Model 1939 Anti-Air Gun",
+    "desc": "No description",
+    "label": [
+      "RN",
+      "ST",
+      "AA"
+    ],
+    "rarity": 4,
+    "nationality": 6,
+    "type": 6,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/56200.png",
+    "stats": {
+      "1": {
+        "id": 96200,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "50<[WAVE]>",
+        "antiaircraft": 25,
+        "weapon_id": [
+          96200
+        ]
+      },
+      "2": {
+        "id": 96201,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "52<[WAVE]>",
+        "antiaircraft": 25,
+        "weapon_id": [
+          96201
+        ]
+      },
+      "3": {
+        "id": 96202,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "54<[WAVE]>",
+        "antiaircraft": 25,
+        "weapon_id": [
+          96202
+        ]
+      },
+      "4": {
+        "id": 96203,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "56<[WAVE]>",
+        "antiaircraft": 25,
+        "weapon_id": [
+          96203
+        ]
+      },
+      "5": {
+        "id": 96204,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "58<[WAVE]>",
+        "antiaircraft": 25,
+        "weapon_id": [
+          96204
+        ]
+      },
+      "6": {
+        "id": 96205,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "60<[WAVE]>",
+        "antiaircraft": 25,
+        "weapon_id": [
+          96205
+        ]
+      },
+      "7": {
+        "id": 96206,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "62<[WAVE]>",
+        "antiaircraft": 25,
+        "weapon_id": [
+          96206
+        ]
+      },
+      "8": {
+        "id": 96207,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "64<[WAVE]>",
+        "antiaircraft": 25,
+        "weapon_id": [
+          96207
+        ]
+      },
+      "9": {
+        "id": 96208,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "66<[WAVE]>",
+        "antiaircraft": 25,
+        "weapon_id": [
+          96208
+        ]
+      },
+      "10": {
+        "id": 96209,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "68<[WAVE]>",
+        "antiaircraft": 25,
+        "weapon_id": [
+          96209
+        ]
+      },
+      "11": {
+        "id": 96210,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "70<[WAVE]>",
+        "antiaircraft": 25,
+        "weapon_id": [
+          96210
+        ]
+      },
+      "12": {
+        "id": 96211,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "70<[WAVE]>",
+        "antiaircraft": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          96211
+        ]
+      }
+    }
+  },
+  "96220": {
+    "name": "Twin 20mm Breda Anti-Air Autocannon",
+    "desc": "No description",
+    "label": [
+      "RN",
+      "ST",
+      "AA"
+    ],
+    "rarity": 4,
+    "nationality": 6,
+    "type": 6,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/56220.png",
+    "stats": {
+      "1": {
+        "id": 96220,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "18<[WAVE]>",
+        "antiaircraft": 25,
+        "weapon_id": [
+          96220
+        ]
+      },
+      "2": {
+        "id": 96221,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "20<[WAVE]>",
+        "antiaircraft": 25,
+        "weapon_id": [
+          96221
+        ]
+      },
+      "3": {
+        "id": 96222,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "22<[WAVE]>",
+        "antiaircraft": 25,
+        "weapon_id": [
+          96222
+        ]
+      },
+      "4": {
+        "id": 96223,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "24<[WAVE]>",
+        "antiaircraft": 25,
+        "weapon_id": [
+          96223
+        ]
+      },
+      "5": {
+        "id": 96224,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "27<[WAVE]>",
+        "antiaircraft": 25,
+        "weapon_id": [
+          96224
+        ]
+      },
+      "6": {
+        "id": 96225,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "30<[WAVE]>",
+        "antiaircraft": 25,
+        "weapon_id": [
+          96225
+        ]
+      },
+      "7": {
+        "id": 96226,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "33<[WAVE]>",
+        "antiaircraft": 25,
+        "weapon_id": [
+          96226
+        ]
+      },
+      "8": {
+        "id": 96227,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "36<[WAVE]>",
+        "antiaircraft": 25,
+        "weapon_id": [
+          96227
+        ]
+      },
+      "9": {
+        "id": 96228,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "39<[WAVE]>",
+        "antiaircraft": 25,
+        "weapon_id": [
+          96228
+        ]
+      },
+      "10": {
+        "id": 96229,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "42<[WAVE]>",
+        "antiaircraft": 25,
+        "weapon_id": [
+          96229
+        ]
+      },
+      "11": {
+        "id": 96230,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "45<[WAVE]>",
+        "antiaircraft": 25,
+        "weapon_id": [
+          96230
+        ]
+      },
+      "12": {
+        "id": 96231,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "45<[WAVE]>",
+        "antiaircraft": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          96231
+        ]
+      }
+    }
+  },
   "150000": {
     "name": "Embroidered Charm Pouch",
     "desc": "No description",
@@ -88632,11 +89286,7 @@
     "nationality": 3,
     "type": 10,
     "skill": {
-      "60430": {
-        "id": 60430,
-        "name": "Embroidered Charm Pouch",
-        "desc": "When equipped by a Sakura Empire ship: increases your Sakura Empire ships' LCK by 1 (does not stack)."
-      }
+      "[60430, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150000.png",
     "stats": {
@@ -88726,11 +89376,7 @@
     "nationality": 96,
     "type": 10,
     "skill": {
-      "60440": {
-        "id": 60440,
-        "name": "Fly the Banner",
-        "desc": "During battle, increases the equipping ship's FP by 5.0% if there is an enemy within a radius of 20 units."
-      }
+      "[60440, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150020.png",
     "stats": {
@@ -89310,11 +89956,7 @@
     "nationality": 96,
     "type": 10,
     "skill": {
-      "60460": {
-        "id": 60460,
-        "name": "Fruit Rations",
-        "desc": "Once per battle, when the ship with this gear's HP falls below 60.0% as a result of DMG taken: restores 5.0% of that ship's max HP."
-      }
+      "[60460, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150160.png",
     "stats": {
@@ -89404,11 +90046,7 @@
     "nationality": 96,
     "type": 10,
     "skill": {
-      "60450": {
-        "id": 60450,
-        "name": "Nautical Telescope",
-        "desc": "Increases ASR by 1 for the boat equipping this gear."
-      }
+      "[60450, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150180.png",
     "stats": {
@@ -89510,11 +90148,7 @@
     "nationality": 1,
     "type": 10,
     "skill": {
-      "60500": {
-        "id": 60500,
-        "name": "Sea of Stars Area B20 Access Pass",
-        "desc": "When equipped by Princeton: 8s after her airstrike finishes loading, launches an interceptive airstrike."
-      }
+      "[60500, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150200.png",
     "stats": {
@@ -89616,11 +90250,7 @@
     "nationality": 5,
     "type": 10,
     "skill": {
-      "60510": {
-        "id": 60510,
-        "name": "Huan Ch'ang's Fishing Rod",
-        "desc": "When equipped by Huan Ch'ang: 15s after the battle starts, throws a fishing tackle forward, creating a special area that lasts 10s. Ships within this area take 5.0% less DMG from the enemy."
-      }
+      "[60510, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150240.png",
     "stats": {
@@ -89721,11 +90351,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "60530": {
-        "id": 60530,
-        "name": "Ascension Box",
-        "desc": "If your Flagship is a BB, BC, or BBV: decreases that ship's Main Gun Spread Angle by 2."
-      }
+      "[60530, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150260.png",
     "stats": {
@@ -89814,11 +90440,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "60540": {
-        "id": 60540,
-        "name": "RPG Adventure Interface",
-        "desc": "Grants a strange power during battle."
-      }
+      "[60540, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150280.png",
     "stats": {
@@ -89922,11 +90544,7 @@
     "nationality": 3,
     "type": 10,
     "skill": {
-      "60550": {
-        "id": 60550,
-        "name": "Echoes of Relinquished Time",
-        "desc": "When equipped to Akagi: increases this ship's DMG dealt by 12.0%; the first time this ship launches an airstrike during battle: increases her Detection Gauge value by an additional 50; 45 seconds after the battle starts, this ship loses 300 HP, and her Detection Gauge value will be reset to 0."
-      }
+      "[60550, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150300.png",
     "stats": {
@@ -90015,11 +90633,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "60590": {
-        "id": 60590,
-        "name": "Enigmata \"D\"",
-        "desc": "A curious machine that periodically emits a strange sound during battle."
-      }
+      "[60590, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150320.png",
     "stats": {
@@ -90108,11 +90722,7 @@
     "nationality": 0,
     "type": 10,
     "skill": {
-      "60650": {
-        "id": 60650,
-        "name": "Limited-Edition Joint Exercise Coin",
-        "desc": "Decreases the ship equipping this item's cannon DMG taken from Sardegna Empire, Iris Libre, and Vichya Dominion ships by 3.0%."
-      }
+      "[60650, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150340.png",
     "stats": {
@@ -90202,11 +90812,7 @@
     "nationality": 1,
     "type": 10,
     "skill": {
-      "60660": {
-        "id": 60660,
-        "name": "Fargo Direct Drone",
-        "desc": "15s after the battle starts: deploys a Fargo Direct Drone."
-      }
+      "[60660, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150360.png",
     "stats": {
@@ -90324,11 +90930,7 @@
     "nationality": 96,
     "type": 10,
     "skill": {
-      "60680": {
-        "id": 60680,
-        "name": "Chest Full of Treasure",
-        "desc": "When the battle starts: spawns a treasure chest. While this treasure chest is on the battlefield: every 5s, a random ship in your fleet recovers 10 HP."
-      }
+      "[60680, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150380.png",
     "stats": {
@@ -90446,11 +91048,7 @@
     "nationality": 96,
     "type": 10,
     "skill": {
-      "60700": {
-        "id": 60700,
-        "name": "Grapeshot",
-        "desc": "During battle, decreases the RLD and ACC of enemies within 30 units of the wearer by 3.5%."
-      }
+      "[60700, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150400.png",
     "stats": {
@@ -90552,11 +91150,7 @@
     "nationality": 96,
     "type": 10,
     "skill": {
-      "60720": {
-        "id": 60720,
-        "name": "Rum Keg",
-        "desc": "Once per battle, when the wearer has taken a total of 5.0% of her max HP in DMG: for 15s, decreases the wearer's ACC by 1.0% and increases her DMG dealt by 5.0%."
-      }
+      "[60720, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150420.png",
     "stats": {
@@ -90645,11 +91239,7 @@
     "nationality": 111,
     "type": 10,
     "skill": {
-      "60730": {
-        "id": 60730,
-        "name": "Bubbly-Boily Chef",
-        "desc": "Every 20s: restores 1.0% of the wearer's max HP (can activate up to 3 times per battle)."
-      }
+      "[60730, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150440.png",
     "stats": {
@@ -90766,11 +91356,7 @@
     "nationality": 111,
     "type": 10,
     "skill": {
-      "60740": {
-        "id": 60740,
-        "name": "Sales Boosta-Bot",
-        "desc": "When the battle starts: increases the wearer's ACC by 3.5% for 50s."
-      }
+      "[60740, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150460.png",
     "stats": {
@@ -90887,11 +91473,7 @@
     "nationality": 111,
     "type": 10,
     "skill": {
-      "60750": {
-        "id": 60750,
-        "name": "Sneaky-Stealthy Prowler",
-        "desc": "Once per battle, when the wearer has taken DMG equal to a total of 25.0% of her max HP: the wearer enters Stealth mode and evades all attacks for 1.5s."
-      }
+      "[60750, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150480.png",
     "stats": {
@@ -91008,11 +91590,7 @@
     "nationality": 111,
     "type": 10,
     "skill": {
-      "60760": {
-        "id": 60760,
-        "name": "All Work, All Play Robot",
-        "desc": "Every 20s: increases the wearer's DMG dealt just a little bit (can activate up to 3 times per battle)."
-      }
+      "[60760, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150500.png",
     "stats": {
@@ -91129,11 +91707,7 @@
     "nationality": 111,
     "type": 10,
     "skill": {
-      "60770": {
-        "id": 60770,
-        "name": "Speedy Sprouty Botanist",
-        "desc": "Might make the enemy grow a little bigger."
-      }
+      "[60770, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150520.png",
     "stats": {
@@ -91236,11 +91810,7 @@
     "nationality": 111,
     "type": 10,
     "skill": {
-      "60780": {
-        "id": 60780,
-        "name": "Spooky Scary Specter",
-        "desc": "When the wearer fires her Main Guns: makes the mood kinda spooky."
-      }
+      "[60780, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150540.png",
     "stats": {
@@ -91357,11 +91927,7 @@
     "nationality": 111,
     "type": 10,
     "skill": {
-      "60790": {
-        "id": 60790,
-        "name": "More-y Glory Aura Booster",
-        "desc": "The wearer emits a special, charismatic aura during battle."
-      }
+      "[60790, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150560.png",
     "stats": {
@@ -91464,11 +92030,7 @@
     "nationality": 1,
     "type": 10,
     "skill": {
-      "60800": {
-        "id": 60800,
-        "name": "Memphis' Blues",
-        "desc": "When equipped by a particular character: 20s after the battle starts, deploys a barrier (lasts 20s) around a random ship in your Vanguard that can negate DMG equal to 2.0% max HP."
-      }
+      "[60800, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150580.png",
     "stats": {
@@ -91558,11 +92120,7 @@
     "nationality": 5,
     "type": 10,
     "skill": {
-      "60810": {
-        "id": 60810,
-        "name": "Fu Po's Flawless Plan",
-        "desc": "When equipped by Fu Po, Fei Yuen, or Fu Shun: increases the wearer's TRP by 5.0%. Once per battle, 30s after the battle starts: restores 2.0% of the wearer's max HP."
-      }
+      "[60810, 1]": null
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150600.png",
     "stats": {
@@ -91637,6 +92195,108 @@
         "level": 12,
         "enhance": "+11",
         "durability": 530,
+        "anti_siren": 1
+      }
+    }
+  },
+  "150620": {
+    "name": "Corona Preferita",
+    "desc": "Marco Polo's second most favorite hat.",
+    "label": [
+      "RN",
+      "DEV"
+    ],
+    "rarity": 4,
+    "nationality": 6,
+    "type": 10,
+    "skill": {
+      "[60820, 1]": null
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150620.png",
+    "stats": {
+      "1": {
+        "id": 150620,
+        "level": 1,
+        "enhance": "+0",
+        "hit": 14,
+        "cannon": 10
+      },
+      "2": {
+        "id": 150621,
+        "level": 2,
+        "enhance": "+1",
+        "hit": 15,
+        "cannon": 11
+      },
+      "3": {
+        "id": 150622,
+        "level": 3,
+        "enhance": "+2",
+        "hit": 17,
+        "cannon": 12
+      },
+      "4": {
+        "id": 150623,
+        "level": 4,
+        "enhance": "+3",
+        "hit": 18,
+        "cannon": 13
+      },
+      "5": {
+        "id": 150624,
+        "level": 5,
+        "enhance": "+4",
+        "hit": 20,
+        "cannon": 14
+      },
+      "6": {
+        "id": 150625,
+        "level": 6,
+        "enhance": "+5",
+        "hit": 21,
+        "cannon": 15
+      },
+      "7": {
+        "id": 150626,
+        "level": 7,
+        "enhance": "+6",
+        "hit": 23,
+        "cannon": 16
+      },
+      "8": {
+        "id": 150627,
+        "level": 8,
+        "enhance": "+7",
+        "hit": 24,
+        "cannon": 17
+      },
+      "9": {
+        "id": 150628,
+        "level": 9,
+        "enhance": "+8",
+        "hit": 25,
+        "cannon": 18
+      },
+      "10": {
+        "id": 150629,
+        "level": 10,
+        "enhance": "+9",
+        "hit": 26,
+        "cannon": 19
+      },
+      "11": {
+        "id": 150630,
+        "level": 11,
+        "enhance": "+10",
+        "hit": 27,
+        "cannon": 20
+      },
+      "12": {
+        "id": 150631,
+        "level": 12,
+        "enhance": "+11",
+        "hit": 28,
+        "cannon": 21,
         "anti_siren": 1
       }
     }

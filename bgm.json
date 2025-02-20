@@ -2175,6 +2175,14 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-concert-delight.ogg"
   },
+  "story-dailyfuture-upspeed": {
+    "title": "蝨ｨ霑呎律譁ｰ譛亥ｼら噪譌ｶ莉｣_shade",
+    "size": 3489891,
+    "duration": 155.9219954648526,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-dailyfuture-upspeed.ogg"
+  },
   "story-darkplan": {
     "title": "髦ｴ隹祇PX",
     "size": 1096422,
@@ -2694,6 +2702,14 @@
     "bitrate": 160.0,
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-thehierophantv.ogg"
+  },
+  "story-theme-sardinia": {
+    "title": "神光照耀下的撒丁尼亚_AL",
+    "size": 2493418,
+    "duration": 129.92,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-theme-sardinia.ogg"
   },
   "story-tiancheng": {
     "title": "AL005_jpStory_fin",
