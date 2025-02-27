@@ -495,6 +495,22 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-seirencleaner-theme.ogg"
   },
+  "battle-shenguang-freely": {
+    "title": "閾ｪ逕ｱ鬩ｰ鬪祇PX",
+    "size": 1973956,
+    "duration": 101.73866666666666,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-shenguang-freely.ogg"
+  },
+  "battle-shenguang-holy": {
+    "title": "驥榊｡第ｭ｣蜈ｸ_AL",
+    "size": 1927248,
+    "duration": 89.344,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-shenguang-holy.ogg"
+  },
   "battle-siren-centraltower": {
     "title": "自律式作战系统_2nd7",
     "size": 1859653,
@@ -526,6 +542,14 @@
     "bitrate": 160.0,
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-temepest-2.ogg"
+  },
+  "battle-thechariotvii": {
+    "title": "螳｡蛻､譛ｺ譚･陲ｭ_PX",
+    "size": 2261414,
+    "duration": 115.37066666666666,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-thechariotvii.ogg"
   },
   "battle-thedevilxv-control": {
     "title": "恶魔的裁决_Eden",
@@ -2199,6 +2223,14 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-dazy-style.ogg"
   },
+  "story-egypt-mystic": {
+    "title": "蟆ｼ鄂玲ｲｳ荵句ｮｴ_AL",
+    "size": 936216,
+    "duration": 42.51733333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-egypt-mystic.ogg"
+  },
   "story-expo-lastday": {
     "title": "盛大的闭幕日_G",
     "size": 1857820,
@@ -2639,6 +2671,14 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-roma-outside.ogg"
   },
+  "story-room-anchorage": {
+    "title": "天真烂漫又好奇_AL",
+    "size": 2551356,
+    "duration": 186.68843537414966,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-room-anchorage.ogg"
+  },
   "story-room-noshiro": {
     "title": "story-room-noshiro",
     "size": 1763850,
@@ -2654,6 +2694,14 @@
     "bitrate": 160.0,
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-room-sirius.ogg"
+  },
+  "story-shenguang-holy": {
+    "title": "樊笼内的神光_AL",
+    "size": 1785723,
+    "duration": 96.02133333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-shenguang-holy.ogg"
   },
   "story-startravel": {
     "title": "譏滄龍鬟樣ｩｰ_AL",
@@ -3238,6 +3286,14 @@
     "bitrate": 160.0,
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-tempest-up.ogg"
+  },
+  "theme-thechariotvii": {
+    "title": "仲裁者提尔瑞特_AL",
+    "size": 2102460,
+    "duration": 101.824,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-thechariotvii.ogg"
   },
   "theme-thedeathxiii": {
     "title": "死神的圆舞曲_eden2th7",

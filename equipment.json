@@ -89275,6 +89275,166 @@
       }
     }
   },
+  "96240": {
+    "name": "Prototype Triple 406mm Model 1940 (Improved) Main Gun Mount",
+    "desc": "The triple 406mm guns that were to be mounted on the type UP41 battleship.",
+    "label": [
+      "RN",
+      "BB",
+      "MG",
+      "SAP"
+    ],
+    "rarity": 6,
+    "nationality": 6,
+    "type": 4,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/56240.png",
+    "stats": {
+      "1": {
+        "id": 96240,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "58 x 3",
+        "cannon": 65,
+        "weapon_id": [
+          96240
+        ]
+      },
+      "2": {
+        "id": 96241,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "69 x 3",
+        "cannon": 65,
+        "weapon_id": [
+          96241
+        ]
+      },
+      "3": {
+        "id": 96242,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "80 x 3",
+        "cannon": 65,
+        "weapon_id": [
+          96242
+        ]
+      },
+      "4": {
+        "id": 96243,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "91 x 3",
+        "cannon": 65,
+        "weapon_id": [
+          96243
+        ]
+      },
+      "5": {
+        "id": 96244,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "102 x 3",
+        "cannon": 65,
+        "weapon_id": [
+          96244
+        ]
+      },
+      "6": {
+        "id": 96245,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "113 x 3",
+        "cannon": 65,
+        "weapon_id": [
+          96245
+        ]
+      },
+      "7": {
+        "id": 96246,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "124 x 3",
+        "cannon": 65,
+        "weapon_id": [
+          96246
+        ]
+      },
+      "8": {
+        "id": 96247,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "135 x 3",
+        "cannon": 65,
+        "weapon_id": [
+          96247
+        ]
+      },
+      "9": {
+        "id": 96248,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "146 x 3",
+        "cannon": 65,
+        "weapon_id": [
+          96248
+        ]
+      },
+      "10": {
+        "id": 96249,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "157 x 3",
+        "cannon": 65,
+        "weapon_id": [
+          96249
+        ]
+      },
+      "11": {
+        "id": 96250,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "168 x 3",
+        "cannon": 65,
+        "weapon_id": [
+          96250
+        ]
+      },
+      "12": {
+        "id": 96251,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "168 x 3",
+        "cannon": 65,
+        "anti_siren": 1,
+        "weapon_id": [
+          96251
+        ]
+      },
+      "13": {
+        "id": 96252,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "168 x 3",
+        "cannon": 65,
+        "anti_siren": 2,
+        "weapon_id": [
+          96252
+        ]
+      },
+      "14": {
+        "id": 96253,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "168 x 3",
+        "cannon": 65,
+        "anti_siren": 3,
+        "weapon_id": [
+          96253
+        ]
+      }
+    }
+  },
   "150000": {
     "name": "Embroidered Charm Pouch",
     "desc": "No description",
