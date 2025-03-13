@@ -55409,5 +55409,33 @@
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9705080/shipyard.png"
       }
     ]
+  },
+  {
+    "gid": 970706,
+    "name": "Hornet META",
+    "skins": [
+      {
+        "id": 9707060,
+        "gid": 970706,
+        "name": "Hornet META",
+        "type": "Default",
+        "desc": "You're the Commander of the fleet? Nice meetin' you! I'm Hornet, the youngest among the Yorktown class. I may not be as amazing as my big sisters, but I'm still pretty capable... probably!",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 24,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9707060/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9707060/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9707060/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9707060/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9707060/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9707060/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9707060/shipyard.png"
+      }
+    ]
   }
 ]
