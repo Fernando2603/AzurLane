@@ -132393,7 +132393,8 @@
     "class": "Capitani Romani Class",
     "nationality": 6,
     "obtain": [
-      "Event: Virtual Tower"
+      "Event: Virtual Tower",
+      "Light ship Construction"
     ],
     "type": 1,
     "rarity": 5,
@@ -135058,7 +135059,8 @@
     "class": "Trento Class",
     "nationality": 6,
     "obtain": [
-      "Event: Virtual Tower"
+      "Event: Virtual Tower",
+      "Heavy Ship Construction"
     ],
     "type": 3,
     "rarity": 4,
@@ -137613,7 +137615,8 @@
     "class": "Vittorio Veneto Class",
     "nationality": 6,
     "obtain": [
-      "Event: Virtual Tower"
+      "Event: Virtual Tower",
+      "Special Ship Construction"
     ],
     "type": 7,
     "rarity": 5,
