@@ -2303,6 +2303,14 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-ghostnight-fascinsting.ogg"
   },
+  "story-hospital-light": {
+    "title": "明亮病房_AL",
+    "size": 956594,
+    "duration": 45.12,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-hospital-light.ogg"
+  },
   "story-ironblood-light": {
     "title": "理性与秩序之国_AL",
     "size": 2253370,
@@ -3014,6 +3022,14 @@
     "bitrate": 160.0,
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-highseasfleet-reborn.ogg"
+  },
+  "theme-hospital-deep": {
+    "title": "豺ｱ隹ｷ譚･螳｢_AL",
+    "size": 623337,
+    "duration": 30.208,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-hospital-deep.ogg"
   },
   "theme-ijndailymeeting": {
     "title": "05_鮮やかな権謀術数",
