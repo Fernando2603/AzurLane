@@ -1311,6 +1311,14 @@
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/login-20240401us.ogg"
   },
+  "login-20250401us": {
+    "title": "25年美服愚人节-决战机甲准备中",
+    "size": 1601884,
+    "duration": 82.304,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/login-20250401us.ogg"
+  },
   "login-jp-20230914": {
     "title": "日服6周年登陆界面主题曲",
     "size": 1975031,
