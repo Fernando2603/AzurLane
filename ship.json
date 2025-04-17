@@ -43512,7 +43512,8 @@
     "class": "J Class",
     "nationality": 2,
     "obtain": [
-      "Event: Pledge of the Radiant Court"
+      "Event: Pledge of the Radiant Court",
+      "Light ship Construction"
     ],
     "type": 1,
     "rarity": 5,
@@ -51417,7 +51418,8 @@
     "class": "Dido Class",
     "nationality": 2,
     "obtain": [
-      "Event: Pledge of the Radiant Court"
+      "Event: Pledge of the Radiant Court",
+      "Merit Shop"
     ],
     "type": 2,
     "rarity": 4,
@@ -58225,7 +58227,8 @@
     "class": "Revenge Class",
     "nationality": 2,
     "obtain": [
-      "Event: Pledge of the Radiant Court"
+      "Event: Pledge of the Radiant Court",
+      "Heavy Ship Construction"
     ],
     "type": 5,
     "rarity": 4,
@@ -58451,7 +58454,9 @@
     "class": "Vanguard",
     "nationality": 2,
     "obtain": [
-      "Event: Pledge of the Radiant Court"
+      "Event: Pledge of the Radiant Court",
+      "Heavy Ship Construction/Special Construction",
+      "UR Exchange"
     ],
     "type": 5,
     "rarity": 6,
@@ -62929,7 +62934,8 @@
     "class": "Illustrious Class",
     "nationality": 2,
     "obtain": [
-      "Event: Pledge of the Radiant Court"
+      "Event: Pledge of the Radiant Court",
+      "Special Construction"
     ],
     "type": 7,
     "rarity": 5,
