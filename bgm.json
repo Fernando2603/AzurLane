@@ -575,6 +575,14 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-torch-theme.ogg"
   },
+  "battle-tulipa": {
+    "title": "魎懆干荳手陸阡謎ｹ区ｭ契AL",
+    "size": 1838818,
+    "duration": 93.09866666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-tulipa.ogg"
+  },
   "battle-ucnf": {
     "title": "豬ｮ遨ｺ謌倩芦_G",
     "size": 1954901,
@@ -2783,6 +2791,22 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-tiancheng.ogg"
   },
+  "story-tulipa": {
+    "title": "譁ｰ闃ｽ遐ｴ蝨滓律_AL",
+    "size": 1825258,
+    "duration": 91.22133333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-tulipa.ogg"
+  },
+  "story-tulipa-pv": {
+    "title": "扬起郁金之旗_PV",
+    "size": 1689352,
+    "duration": 83.28533333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-tulipa-pv.ogg"
+  },
   "story-unzen": {
     "title": "须臾无间_G",
     "size": 1178354,
@@ -3382,6 +3406,14 @@
     "bitrate": 160.0,
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-threat-typev.ogg"
+  },
+  "theme-tulipa": {
+    "title": "郁金盛放之国_AL",
+    "size": 2560425,
+    "duration": 132.39466666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-tulipa.ogg"
   },
   "theme-ucnf-beacon": {
     "title": "深潜式信标_G",
