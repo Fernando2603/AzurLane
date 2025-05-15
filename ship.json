@@ -170909,13 +170909,6 @@
         "upgrade": null,
         "downgrade": null,
         "requirement": "Default"
-      },
-      "801700": {
-        "id": 801700,
-        "parent": 801700,
-        "upgrade": null,
-        "downgrade": null,
-        "requirement": "Default"
       }
     }
   },
