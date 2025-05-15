@@ -1,3 +1,9 @@
+## Patch 5.0.1
+<details>
+  <summary>15 April 2025</summary>
+  - fix repository failed to parse because big update from game optimization.
+</details>
+
 ## Patch 5.0.0
 <details>
   <summary>17 January 2025</summary>

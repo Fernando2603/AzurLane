@@ -3031,6 +3031,14 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-ganjisawai.ogg"
   },
+  "theme-glorious-meta": {
+    "title": "蔷薇的囚徒_AL",
+    "size": 1994299,
+    "duration": 91.776,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-glorious-meta.ogg"
+  },
   "theme-haitian-soft-loop": {
     "title": "荳晁ｷｯ蠑･髻ｳ_Y_loop",
     "size": 2912507,
@@ -3358,6 +3366,14 @@
     "bitrate": 160.0,
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-thedevilxv.ogg"
+  },
+  "theme-theempressiii": {
+    "title": "仲裁者恩普雷斯_shade",
+    "size": 3664886,
+    "duration": 188.6853514739229,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-theempressiii.ogg"
   },
   "theme-thehermitix": {
     "title": "仲裁者赫米忒_RE",
