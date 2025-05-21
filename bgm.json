@@ -1369,7 +1369,7 @@
   },
   "main": {
     "title": "BGM-荳ｻ逡碁擇17-5-12",
-    "size": 1256977,
+    "size": 1257052,
     "duration": 56.726349206349205,
     "bitrate": 160.0,
     "sample_rate": 44100,
@@ -1729,7 +1729,7 @@
   },
   "sailawayjustice": {
     "title": "繧｢繧ｺ繝ｼ繝ｫ繝ｬ繝ｼ繝ｳ_Sail Away Justice_Final mix",
-    "size": 4823949,
+    "size": 4823987,
     "duration": 233.94133333333335,
     "bitrate": 160.0,
     "sample_rate": 48000,
@@ -2367,6 +2367,14 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-lightheven-up.ogg"
   },
+  "story-lion-up": {
+    "title": "霎臥ｿｼ鄙泌､ｩ_PV",
+    "size": 1008984,
+    "duration": 50.45333333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-lion-up.ogg"
+  },
   "story-marcopolo-dream": {
     "title": "虚伪的圣座_eden2nd14",
     "size": 1829698,
@@ -2719,6 +2727,14 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-room-sirius.ogg"
   },
+  "story-royalnavy-serious": {
+    "title": "日不落的远征_PX",
+    "size": 1468145,
+    "duration": 76.37333333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-royalnavy-serious.ogg"
+  },
   "story-shenguang-holy": {
     "title": "樊笼内的神光_AL",
     "size": 1785723,
@@ -2831,6 +2847,22 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-uta.ogg"
   },
+  "story-villaisland-light": {
+    "title": "重建！假日别墅岛_AL",
+    "size": 2919619,
+    "duration": 137.6,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-villaisland-light.ogg"
+  },
+  "story-villaisland-night": {
+    "title": "别墅岛之夜_PV",
+    "size": 1125408,
+    "duration": 55.40266666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-villaisland-night.ogg"
+  },
   "story-worldα-grief": {
     "title": "髦ｴ莠台ｸ狗噪蠕ｮ蜈雲PX",
     "size": 1101601,
@@ -2902,6 +2934,14 @@
     "bitrate": 160.0,
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-bismark-reborn.ogg"
+  },
+  "theme-brokenworld-sad": {
+    "title": "凋零的世界_AL",
+    "size": 2497536,
+    "duration": 132.05333333333334,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-brokenworld-sad.ogg"
   },
   "theme-camelot": {
     "title": "theme-camelot",
@@ -3102,6 +3142,14 @@
     "bitrate": 160.0,
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-lightheven.ogg"
+  },
+  "theme-lion": {
+    "title": "霎臥ｿｼ諷台ｸ棒AL",
+    "size": 1774945,
+    "duration": 93.22666666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-lion.ogg"
   },
   "theme-longgong": {
     "title": "theme-longgong",

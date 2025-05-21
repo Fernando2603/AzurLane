@@ -35965,6 +35965,166 @@
       }
     }
   },
+  "24400": {
+    "name": "Prototype Triple 406mm Mk.II Main Gun Mount",
+    "desc": "The triple 406mm guns that were to be mounted on the Lion-class battleship.",
+    "label": [
+      "HMS",
+      "BB",
+      "MG",
+      "HE"
+    ],
+    "rarity": 6,
+    "nationality": 2,
+    "type": 4,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/24400.png",
+    "stats": {
+      "1": {
+        "id": 24400,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "76 x 3",
+        "cannon": 65,
+        "weapon_id": [
+          24400
+        ]
+      },
+      "2": {
+        "id": 24401,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "84 x 3",
+        "cannon": 65,
+        "weapon_id": [
+          24401
+        ]
+      },
+      "3": {
+        "id": 24402,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "92 x 3",
+        "cannon": 65,
+        "weapon_id": [
+          24402
+        ]
+      },
+      "4": {
+        "id": 24403,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "100 x 3",
+        "cannon": 65,
+        "weapon_id": [
+          24403
+        ]
+      },
+      "5": {
+        "id": 24404,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "108 x 3",
+        "cannon": 65,
+        "weapon_id": [
+          24404
+        ]
+      },
+      "6": {
+        "id": 24405,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "117 x 3",
+        "cannon": 65,
+        "weapon_id": [
+          24405
+        ]
+      },
+      "7": {
+        "id": 24406,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "126 x 3",
+        "cannon": 65,
+        "weapon_id": [
+          24406
+        ]
+      },
+      "8": {
+        "id": 24407,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "135 x 3",
+        "cannon": 65,
+        "weapon_id": [
+          24407
+        ]
+      },
+      "9": {
+        "id": 24408,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "144 x 3",
+        "cannon": 65,
+        "weapon_id": [
+          24408
+        ]
+      },
+      "10": {
+        "id": 24409,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "153 x 3",
+        "cannon": 65,
+        "weapon_id": [
+          24409
+        ]
+      },
+      "11": {
+        "id": 24410,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "162 x 3",
+        "cannon": 65,
+        "weapon_id": [
+          24410
+        ]
+      },
+      "12": {
+        "id": 24411,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "162 x 3",
+        "cannon": 65,
+        "anti_siren": 1,
+        "weapon_id": [
+          24411
+        ]
+      },
+      "13": {
+        "id": 24412,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "162 x 3",
+        "cannon": 65,
+        "anti_siren": 2,
+        "weapon_id": [
+          24412
+        ]
+      },
+      "14": {
+        "id": 24413,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "162 x 3",
+        "cannon": 65,
+        "anti_siren": 3,
+        "weapon_id": [
+          24413
+        ]
+      }
+    }
+  },
   "25000": {
     "name": "533mm Triple Torpedo Mount Mk IX",
     "desc": "No description",
