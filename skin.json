@@ -6393,6 +6393,30 @@
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105092/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105092/shipyard.png"
   },
+  "105093": {
+    "id": 105093,
+    "gid": 10509,
+    "name": "Sunset Cavatina",
+    "type": "Swimsuits",
+    "desc": "You'd rather stay here and watch the sunset with me than bathe with the rest in the sea? You sure you wanna spend your beach day that way? Err, well... I'm fine with it if you are.",
+    "tag": [
+      "bg"
+    ],
+    "illustrator": -1,
+    "illustrator2": -1,
+    "voice_actor": 152,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/179.png",
+    "background2": null,
+    "painting": null,
+    "painting_n": null,
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105093/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105093/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105093/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105093/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105093/shipyard.png"
+  },
   "105099": {
     "id": 105099,
     "gid": 10509,
@@ -6436,6 +6460,30 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105100/icon.png",
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105100/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105100/shipyard.png"
+  },
+  "105102": {
+    "id": 105102,
+    "gid": 10510,
+    "name": "Red-Hot Drummer",
+    "type": "Swimsuits",
+    "desc": "Oh, hey, Commander – you here for a break, too? Relax, I won't rat you out to anyone else. Just kick back and enjoy the fireworks.",
+    "tag": [
+      "bg"
+    ],
+    "illustrator": -1,
+    "illustrator2": -1,
+    "voice_actor": 162,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/149.png",
+    "background2": null,
+    "painting": null,
+    "painting_n": null,
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105102/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105102/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105102/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105102/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105102/shipyard.png"
   },
   "105109": {
     "id": 105109,
@@ -17542,6 +17590,31 @@
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/207054/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/207054/shipyard.png"
   },
+  "207055": {
+    "id": 207055,
+    "gid": 20705,
+    "name": "Anniversary Memories",
+    "type": "Party Dress",
+    "desc": "To both express my eternal love and gratitude to you and celebrate the wonderful days we've spent together, I will be joining in the port's celebration. ...Ahem, Commander? Tell me the next part!",
+    "tag": [
+      "live2d",
+      "bg"
+    ],
+    "illustrator": -1,
+    "illustrator2": -1,
+    "voice_actor": 89,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/107.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/207055/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/207055/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/207055/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/207055/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/207055/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/207055/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/207055/shipyard.png"
+  },
   "207060": {
     "id": 207060,
     "gid": 20706,
@@ -18164,6 +18237,31 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/299023/icon.png",
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/299023/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/299023/shipyard.png"
+  },
+  "299024": {
+    "id": 299024,
+    "gid": 29902,
+    "name": "Sovereign of the Beach",
+    "type": "Swimsuits",
+    "desc": "Whew... Surely now one can argue that I'm \"enjoying the beach,\" yes? ...Still not enough? I am laying my exposed self bare before you – what more is there I need to do?",
+    "tag": [
+      "live2d",
+      "bg"
+    ],
+    "illustrator": 1,
+    "illustrator2": -1,
+    "voice_actor": 104,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/106.png",
+    "background2": null,
+    "painting": null,
+    "painting_n": null,
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/299024/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/299024/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/299024/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/299024/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/299024/shipyard.png"
   },
   "299030": {
     "id": 299030,
@@ -22892,6 +22990,30 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301891/icon.png",
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301891/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301891/shipyard.png"
+  },
+  "301892": {
+    "id": 301892,
+    "gid": 30189,
+    "name": "Luxurious Celebration Time",
+    "type": "Party Dress",
+    "desc": "You said anything's fine as long as I think it's good, right? Well, tadah! I'm going to give you a delectable, delicious drink! Watch closely now!",
+    "tag": [
+      "bg"
+    ],
+    "illustrator": -1,
+    "illustrator2": -1,
+    "voice_actor": 376,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/135.png",
+    "background2": null,
+    "painting": null,
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301892/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301892/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301892/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301892/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301892/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301892/shipyard.png"
   },
   "301900": {
     "id": 301900,
@@ -32803,6 +32925,31 @@
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403141/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403141/shipyard.png"
   },
+  "403142": {
+    "id": 403142,
+    "gid": 40314,
+    "name": "Tender Summer Care",
+    "type": "Swimsuits",
+    "desc": "Are you ready, my beloved little one? I'm giving you all of me, so apply your love – the sunscreen – ever so thoroughly, so gently, please.",
+    "tag": [
+      "live2d",
+      "bg"
+    ],
+    "illustrator": -1,
+    "illustrator2": -1,
+    "voice_actor": 175,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/106.png",
+    "background2": null,
+    "painting": null,
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403142/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403142/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403142/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403142/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403142/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403142/shipyard.png"
+  },
   "403150": {
     "id": 403150,
     "gid": 40315,
@@ -32824,6 +32971,28 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403150/icon.png",
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403150/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403150/shipyard.png"
+  },
+  "403160": {
+    "id": 403160,
+    "gid": 40316,
+    "name": "Little Ägir",
+    "type": "Default",
+    "desc": "Large cruiser – Ägir.",
+    "tag": [],
+    "illustrator": -1,
+    "illustrator2": -1,
+    "voice_actor": 21,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": null,
+    "background2": null,
+    "painting": null,
+    "painting_n": null,
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403160/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403160/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403160/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403160/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403160/shipyard.png"
   },
   "404010": {
     "id": 404010,
@@ -36139,6 +36308,30 @@
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/501081/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/501081/shipyard.png"
   },
+  "501082": {
+    "id": 501082,
+    "gid": 50108,
+    "name": "A Sky Blue Eclipsing Jade",
+    "type": "Spring Festival",
+    "desc": "Commander, this is the new Ru-ware tea set I just purchased. Absolutely beautiful, isn't it? We have a custom to bring out the best things for those you care about, which is why I decided to invite you~♪",
+    "tag": [
+      "bg"
+    ],
+    "illustrator": -1,
+    "illustrator2": -1,
+    "voice_actor": 397,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/190.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/501082/painting.png",
+    "painting_n": null,
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/501082/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/501082/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/501082/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/501082/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/501082/shipyard.png"
+  },
   "501090": {
     "id": 501090,
     "gid": 50109,
@@ -36788,6 +36981,31 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502042/icon.png",
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502042/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502042/shipyard.png"
+  },
+  "502043": {
+    "id": 502043,
+    "gid": 50204,
+    "name": "Blue Waves, Limpid Summer",
+    "type": "Swimsuits",
+    "desc": "Heehee, if it isn't the Commander. Your timing is perfect~ I was thinking I might take a break here... While you're here, why don't you rest in the pool with me?",
+    "tag": [
+      "dynamic",
+      "bg"
+    ],
+    "illustrator": 21,
+    "illustrator2": -1,
+    "voice_actor": 260,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/117.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502043/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502043/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502043/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502043/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502043/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502043/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502043/shipyard.png"
   },
   "502050": {
     "id": 502050,
@@ -41062,6 +41280,30 @@
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705041/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705041/shipyard.png"
   },
+  "705042": {
+    "id": 705042,
+    "gid": 70504,
+    "name": "Ripples and a Fluttering Veil",
+    "type": "Swimsuits",
+    "desc": "Haha! Did you not expect this to be our rendezvous spot? Oh please, even I wish to unwind in the sand sometimes. Since you're here, accepting my invitation, won't you keep me company to kill some time, Comrade?",
+    "tag": [
+      "bg"
+    ],
+    "illustrator": 1,
+    "illustrator2": -1,
+    "voice_actor": 106,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/106.png",
+    "background2": null,
+    "painting": null,
+    "painting_n": null,
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705042/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705042/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705042/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705042/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705042/shipyard.png"
+  },
   "705050": {
     "id": 705050,
     "gid": 70505,
@@ -45234,6 +45476,28 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9701060/icon.png",
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9701060/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9701060/shipyard.png"
+  },
+  "9701070": {
+    "id": 9701070,
+    "gid": 970107,
+    "name": "Grenville META",
+    "type": "Default",
+    "desc": "I'm Royal Navy destroyer Grenville, returning to the battlefield in META form. Long ago, I... No, that's all in the past now. Just give me a chance, Commander. I swear to keep the fleet safe this time.",
+    "tag": [],
+    "illustrator": -1,
+    "illustrator2": -1,
+    "voice_actor": 62,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": null,
+    "background2": null,
+    "painting": null,
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9701070/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9701070/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9701070/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9701070/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9701070/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9701070/shipyard.png"
   },
   "9702010": {
     "id": 9702010,

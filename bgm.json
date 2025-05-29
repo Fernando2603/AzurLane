@@ -2847,6 +2847,14 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-uta.ogg"
   },
+  "story-villaisland-daliy": {
+    "title": "别墅岛的假日_PV",
+    "size": 1519771,
+    "duration": 71.936,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-villaisland-daliy.ogg"
+  },
   "story-villaisland-light": {
     "title": "重建！假日别墅岛_AL",
     "size": 2919619,
