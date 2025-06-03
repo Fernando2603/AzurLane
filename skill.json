@@ -835,7 +835,7 @@
     "id": 10040,
     "type": 3,
     "name": "31-Knot Burke",
-    "desc": "When this ship fires its Main Guns: 4.0% chance to increase the Speed of your entire fleet and increase the EVA of your Vanguard by 20.0% (40.0%) for 8s.",
+    "desc": "When this ship fires her weapons: 4.0% chance to increase the SPD of your entire fleet and increase the EVA of your Vanguard by 20.0% (40.0%) for 8s.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/10040.png",
     "max_level": 10
   },
@@ -1011,7 +1011,7 @@
     "id": 10260,
     "type": 1,
     "name": "Armageddon Cannon",
-    "desc": "When this ship fires its Main or Secondary Guns: 20.0% chance to increase this ship's FP by 20.0% (40.0%) for 8s.",
+    "desc": "When this ship fires her weapons: 20.0% chance to increase this ship's FP by 20.0% (40.0%) for 8s.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/10260.png",
     "max_level": 10
   },
@@ -7898,8 +7898,8 @@
   "20012": {
     "id": 20012,
     "type": 1,
-    "name": "All Out Assault Ⅱ",
-    "desc": "Activates All Out Assault Ⅱ: Farragut Class once every 10 times the Main Guns are fired.",
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Farragut Class once every 10 times the Main Guns are fired.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/20000.png",
     "max_level": 1
   },
@@ -9491,15 +9491,15 @@
     "id": 25021,
     "type": 1,
     "name": "All Out Assault I",
-    "desc": "Activates All-Out Assault I: Alfredo Oriana-class every 15 times the Main Guns are fired.",
+    "desc": "Activates All Out Assault I: Alfredo Oriani-class once every 15 times the Main Guns are fired.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/20000.png",
     "max_level": 1
   },
   "25022": {
     "id": 25022,
     "type": 1,
-    "name": "All Out Assault Ⅱ",
-    "desc": "Activates All-Out Assault Ⅱ: Alfredo Oriana-class every 10 times the Main Guns are fired.",
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Alfredo Oriani-class once every 10 times the Main Guns are fired.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/20000.png",
     "max_level": 1
   },
@@ -9821,6 +9821,86 @@
     "name": "All Out Assault Ⅱ",
     "desc": "Activates All Out Assault II: Suffren-class once every 6 times the Main Guns are fired.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/20200.png",
+    "max_level": 1
+  },
+  "28231": {
+    "id": 28231,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Chang Feng once every 15 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/20000.png",
+    "max_level": 1
+  },
+  "28232": {
+    "id": 28232,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Chang Feng once every 10 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/20000.png",
+    "max_level": 1
+  },
+  "28241": {
+    "id": 28241,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Hai Yung once every 18 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/20100.png",
+    "max_level": 1
+  },
+  "28242": {
+    "id": 28242,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Hai Yung once every 12 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/20100.png",
+    "max_level": 1
+  },
+  "28251": {
+    "id": 28251,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Chien Wu once every 9 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/20200.png",
+    "max_level": 1
+  },
+  "28252": {
+    "id": 28252,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Chien Wu once every 6 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/20200.png",
+    "max_level": 1
+  },
+  "28261": {
+    "id": 28261,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Fu Po once every 15 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/20000.png",
+    "max_level": 1
+  },
+  "28262": {
+    "id": 28262,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Fu Po once every 10 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/20000.png",
+    "max_level": 1
+  },
+  "28271": {
+    "id": 28271,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Alberto di Giussano-class once every 12 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/20100.png",
+    "max_level": 1
+  },
+  "28272": {
+    "id": 28272,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Alberto di Giussano-class once every 8 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/20100.png",
     "max_level": 1
   },
   "29011": {
@@ -11975,6 +12055,118 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30400.png",
     "max_level": 1
   },
+  "30411": {
+    "id": 30411,
+    "type": 1,
+    "name": "All Out Assault III",
+    "desc": "Activates All Out Assault III: Anshan Class once every 16 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/20000.png",
+    "max_level": 1
+  },
+  "30412": {
+    "id": 30412,
+    "type": 1,
+    "name": "All Out Assault III",
+    "desc": "Activates All Out Assault III: Anshan Class every time this ship launches a Missile attack.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/20000.png",
+    "max_level": 1
+  },
+  "30421": {
+    "id": 30421,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Maggiore Baracca when entering the battle.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30420.png",
+    "max_level": 1
+  },
+  "30422": {
+    "id": 30422,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Maggiore Baracca when entering the battle.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30420.png",
+    "max_level": 1
+  },
+  "30431": {
+    "id": 30431,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Santa Fe once every 15 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30430.png",
+    "max_level": 1
+  },
+  "30432": {
+    "id": 30432,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Santa Fe once every 10 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30430.png",
+    "max_level": 1
+  },
+  "30441": {
+    "id": 30441,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: De Zeven Provinciën once every 15 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30440.png",
+    "max_level": 1
+  },
+  "30442": {
+    "id": 30442,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: De Zeven Provinciën once every 10 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30440.png",
+    "max_level": 1
+  },
+  "30451": {
+    "id": 30451,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Little Anchorage once every 12 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/20200.png",
+    "max_level": 1
+  },
+  "30452": {
+    "id": 30452,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Little Anchorage once every 8 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/20200.png",
+    "max_level": 1
+  },
+  "30461": {
+    "id": 30461,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Cleopatra once every 15 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30460.png",
+    "max_level": 1
+  },
+  "30462": {
+    "id": 30462,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Cleopatra once every 10 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30460.png",
+    "max_level": 1
+  },
+  "30471": {
+    "id": 30471,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Trafalgar once every 15 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30470.png",
+    "max_level": 1
+  },
+  "30472": {
+    "id": 30472,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Trafalgar once every 10 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30470.png",
+    "max_level": 1
+  },
   "101010": {
     "id": 101010,
     "type": 3,
@@ -13967,6 +14159,438 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/150750.png",
     "max_level": 10
   },
+  "150790": {
+    "id": 150790,
+    "type": 1,
+    "name": "Strict and Rigorous",
+    "desc": "Increases this ship's TRP by 10.0% (20.0%); if there is another Dragon Empery ship in the same fleet, increases this ship's DMG dealt by 1.0% (10.0%). Every 20s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level), increases this ship's Crit Rate by 10.0% for 10s, and deploys a shield (lasting 10s) for other Chang Feng-class DDs, blocking up to 6 enemy shells but decreasing the shielded ship's SPD by 1.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/150790.png",
+    "max_level": 10
+  },
+  "150800": {
+    "id": 150800,
+    "type": 2,
+    "name": "Spring Cleaning",
+    "desc": "Decreases Dragon Empery ships' DMG taken by 1.5% (5.0%) and shortens the Burn duration inflicted on them by 2s. If a ship in your Vanguard is Burning: cleanses normal Burn ailments from all ships in your Vanguard, launches a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level), and increases the LCK of all ships in your Vanguard by 1 (10) for 9s. This effect has a 15s cooldown.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/150800.png",
+    "max_level": 10
+  },
+  "150810": {
+    "id": 150810,
+    "type": 1,
+    "name": "Emergency Measures",
+    "desc": "Increases this ship's FP and RLD by 5.0% (15.0%). Every 15s: 40.0% (70.0%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) that decreases the SPD of enemies hit by 20.0% for 8s (this effect does not stack).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/150810.png",
+    "max_level": 10
+  },
+  "150820": {
+    "id": 150820,
+    "type": 3,
+    "name": "Effortless Crisis Response",
+    "desc": "Increases this ship's SPD by 8 and EVA and AA by 10.0% (20.0%). Once per battle, when this ship's HP falls below 75.0% as a result of DMG taken: restores 1.0% (5.0%) of your Vanguard's max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/150820.png",
+    "max_level": 10
+  },
+  "150830": {
+    "id": 150830,
+    "type": 1,
+    "name": "Insurmountable Seamstress",
+    "desc": "Increases this ship's FP and ACC by 5.0% (15.0%). Once per battle, when this ship sinks an enemy: increases this ship's SPD by 10 until the battle ends. Every 4 times this ship fires her Secondary Weapon: increases this ship's DMG dealt by 1.0% (4.0%) (can stack up to 3 times) and fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). Enemies hit by this barrage take 3.5% (8.0%) increased DMG from Dragon Empery ships for 10s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/150830.png",
+    "max_level": 10
+  },
+  "150840": {
+    "id": 150840,
+    "type": 2,
+    "name": "Dressed for Success",
+    "desc": "When the battle starts: decreases this ship's torpedo DMG taken by 10.0% (20.0%), increases her EVA by 10.0% (20.0%), and deploys a barrier (lasting 15s) that can negate DMG equal to 1.0% (5.0%) of this ship's max HP. Once per battle, when this ship's HP falls below 50.0% as a result of DMG taken: increases this ship's Evasion Rate by 1.0% (10.0%) and deploys a barrier (lasting 15s) that can negate DMG equal to 5.0% (15.0%) of this ship's max HP. Once per ship per battle, when the HP of any other ship in your Vanguard drops below 50.0% as a result of DMG taken: grants that ship 2 shields (lasting 15s) that can negate up to 10 enemy shells. If a Dragon Empery ship gains this shield: decreases that ship's and this ship's DMG taken by 1.0% (10.0%) until the battle ends (this DMG decreasing effect does not stack on this ship).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/150840.png",
+    "max_level": 10
+  },
+  "150850": {
+    "id": 150850,
+    "type": 1,
+    "name": "Intoxicating Beauty",
+    "desc": "If there is another CV, CVL, or Dragon Empery ship in the same fleet (excluding this ship): increases the efficiency of this ship's first and second gear slots by 4.0% (10.0%). 10s after the battle starts and 5s after this ship readies an airstrike: launches a Lv.1 (Lv.10) special airstrike (DMG is based on the skill's level) that reduces the SPD of enemies hit by 20.0% for 10s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/150850.png",
+    "max_level": 10
+  },
+  "150860": {
+    "id": 150860,
+    "type": 1,
+    "name": "Rezkiy Assault+",
+    "desc": "Increases the Crit Rate of this ship's Main Gun and Missiles by 5.0% (20.0%), and increases this ship's FP, TRP, and RLD by 4.5% (12.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/11050.png",
+    "max_level": 10
+  },
+  "150865": {
+    "id": 150865,
+    "type": 1,
+    "name": "抚顺4鞍山剑气彩蛋",
+    "desc": "抚顺4鞍山剑气彩蛋",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/11050.png",
+    "max_level": 1
+  },
+  "150870": {
+    "id": 150870,
+    "type": 1,
+    "name": "Zhuque's Flamebinds",
+    "desc": "Provides 1 Missile Strike charge. Decreases this ship's Burn DMG taken by 50.0% (80.0%) and decreases the duration of Burns by 3s. Every 15s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) that inflicts a special Burn ailment to enemies hit, causing them to take 102 DMG per second for 15s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/150870.png",
+    "max_level": 10
+  },
+  "150880": {
+    "id": 150880,
+    "type": 1,
+    "name": "Fu Po's \"Masterstroke\"",
+    "desc": "Increases this ship's TRP by 1.0% (10.0%). Every 20s: 70.0% chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level; if there is another Dragon Empery ship in your fleet, the barrage's activation chance increases to 100.0%). When this barrage fires, selects 1 random enemy and applies 1 of the following debuffs to them, lasting 8s: 1) Decreases FP and TRP by 10.0%; 2) Decreases AA and EVA by 10.0%; 3) Inflicts a special Armor Break.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/150880.png",
+    "max_level": 10
+  },
+  "150890": {
+    "id": 150890,
+    "type": 3,
+    "name": "Blast Off Into the Future",
+    "desc": "When the battle starts: lights a firecracker; 15s after this, there is a 40.0% (70.0%) chance to set off a bianpao. The bianpao inflicts a special Burn ailment to your Vanguard for 8s; ships with this Burn have their Crit Rate increased by 10.0% and take 1 DMG every 2s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/150890.png",
+    "max_level": 10
+  },
+  "150900": {
+    "id": 150900,
+    "type": 3,
+    "name": "Combat Analysis Complete!",
+    "desc": "Decreases this ship's DMG taken by 5.0% (15.0%). When the battle starts: increases your Vanguard's DMG dealt by 1.0% (10.0%) for 30s; after 30s, deploys barriers (lasting until the battle ends) around every ship in your Vanguard, each able to negate DMG equal to 1.0% (3.0%) of the max HP of its respective ship.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/150900.png",
+    "max_level": 10
+  },
+  "150910": {
+    "id": 150910,
+    "type": 1,
+    "name": "Strict Flower of Sardegna",
+    "desc": "Increases this ship's FP, TRP, and EVA by 5.0% (15.0%). When this ship fires her torpedoes: 40.0% (70.0%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/150910.png",
+    "max_level": 10
+  },
+  "150920": {
+    "id": 150920,
+    "type": 1,
+    "name": "Odi Barbare",
+    "desc": "When this ship fires her torpedoes: 40.0% (70.0%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). When this barrage activates: for 6s, increases your fleet's RLD by 1.0% (5.0%) and DMG dealt by 5.0%; if it does NOT activate, increases the activation chance to 100.0% the next time this ship fires her torpedoes. Inflicts a special Burn ailment for 9s on enemies hit by this barrage (Burn DMG is based on this ship's TRP stat).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/150920.png",
+    "max_level": 10
+  },
+  "150930": {
+    "id": 150930,
+    "type": 3,
+    "name": "Il Canto di Marzo",
+    "desc": "During battle, every 9 times this ship takes DMG: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). When this barrage activates: for 9s, increases your Vanguard's EVA by 5.0% (10.0%) and SPD by 3 (DMG suffered during this effect's uptime does not count; counter resets after the effect ends). The first time this barrage activates each battle: restores 3.0% of your Vanguard's max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/150930.png",
+    "max_level": 10
+  },
+  "150940": {
+    "id": 150940,
+    "type": 3,
+    "name": "Jet-Black Dedication",
+    "desc": "Increases this ship's FP and ACC by 1.0% (10.0%).\nWhenever a ship in your Main Fleet ship or the frontmost ship of your Vanguard hits an enemy with the weapon equipped in that ship's first slot: 50% chance to apply 1 stack of Jet-Black Paint to the enemy hit (each weapon that triggers this effect can only apply 1 stack of Jet-Black Paint to the same target every 5s); for each stack of Jet-Black Paint applied, the affected enemy's SPD is reduced by 5.0%, lasting for 10s (can be stacked up to 3 times, subsequent applications of Jet-Black Paint will refresh this duration).\nWhen an enemy accumulates 3 stacks of Jet-Black Paint, that enemy will receive Artist's Dedication, increasing their DMG taken by 1.5% (6.0%) for 10s. If the attacker is a Sardegna Empire ship: further increases the DMG dealt by 1.5% (6.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/150940.png",
+    "max_level": 10
+  },
+  "150950": {
+    "id": 150950,
+    "type": 2,
+    "name": "Pearlescent Blessing",
+    "desc": "Reduces this ship's shelling DMG taken by 15.0% (25.0%).\nWhenever a ship in your fleet accumulates DMG taken equal to 20.0% of her Max HP: that ship gains 1 stack of Pearlescent Paint. If an allied ship sinks an enemy ship with the Jet-Black Paint debuff, that ship receives Pearlescent Paint stacks equal to the number of Jet-Black Paint applied to the defeated enemy.\nAs long as Raffaello remains afloat, each time an ally gains Pearlescent Paint, that ship gains a barrier that can negate DMG equal to 1.0% of Raffaello's Max HP, lasting for the duration of Pearlescent Paint (Pearlescent Paint stacks up to 3 times, and lasts for 10s. The barrier does not stack. Subsequent applications of Pearlescent Paint will refresh the duration of the barrier).\nWhen a ship in your fleet accumulates 3 stacks of Pearlescent Paint, that ship receives Artist's Blessing, increasing her DMG dealt by 1.5% (6.0%) for 10s; additionally, gives Raffaello 1 stack of Pearlescent Paint. If the recipient of Artist's Blessing is a Sardegna Empire ship: further increases that ship's DMG dealt by 1.5% (6.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/150950.png",
+    "max_level": 10
+  },
+  "150960": {
+    "id": 150960,
+    "type": 1,
+    "name": "Apex Artist",
+    "desc": "While this ship is afloat, whenever a fleet that this ship is NOT in enters battle for the first three times of each sortie: fires a Lv.1 (Lv.10) special barrage 20s after the battle starts (DMG is based on the skill's level).\nWhen this ship fires her Main Guns: 50.0% (100.0%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). When this barrage activates, the following effects take place based on if Jet-Black Paint and Pearlescent Paint are currently applied on the battlefield:\nIf any allies are affected by Pearlescent Paint, restores 2.0% of Raffaello's Max HP to the ship with the lowest current percentage of HP. If any allies are affected by Artist's Blessing, this effect will activate 3 more times (target is determined independently for each activation);\nIf any enemies are affected by Jet-Black Paint, the Crit Rate of this special barrage is increased by 50.0% and the barrage is improved. If any enemies are affected by Artist's Dedication, additionally increases the Crit DMG of this barrage by 20.0%, and further improves the special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/150960.png",
+    "max_level": 10
+  },
+  "150967": {
+    "id": 150967,
+    "type": 1,
+    "name": "超级艺术家-跨队效果",
+    "desc": "",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/150960.png",
+    "max_level": 10
+  },
+  "150980": {
+    "id": 150980,
+    "type": 1,
+    "name": "Thrill-Seeker",
+    "desc": "Increases this boat's ACC and Torpedo Crit DMG by 1.0% (10.0%). During battle, whenever this boat deals DMG with her torpedoes or receives DMG: 15.0% (30.0%) chance to gain 3.0% increased TRP (can be stacked up to 7 times), and additionally gaining 1 stack of this effect every 4s. When this effect reaches 7 stacks, fires a Lv.1 (Lv.10) special torpedo barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/150980.png",
+    "max_level": 10
+  },
+  "150990": {
+    "id": 150990,
+    "type": 3,
+    "name": "Born Adventurer",
+    "desc": "Increases this boat's DMG dealt by 1.5% (5.0%), increased by an additional 1.5% (5.0%) when this boat's HP falls beneath 80.0%, lasting until she leaves the battle. Every 5s after entering the battle: if this boat's HP is greater than 30.0%, deducts her HP equal to 3.0% of her max HP to fire a Lv.1 (Lv.10) special torpedo barrage (DMG is based on the skill's level).\nOnce per battle, when this boat falls below 30.0% max HP as a result of DMG taken: restores 25.0% of this boat's max HP and increases her Evasion Rate by 15.0% (25.0%) for 10s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/150990.png",
+    "max_level": 10
+  },
+  "151000": {
+    "id": 151000,
+    "type": 1,
+    "name": "Rule of Cool!",
+    "desc": "When the battle starts, if this ship is the frontmost ship in your Vanguard: increases this ship's TRP and ACC by 5.0% and decreases her DMG taken by 6.0% until the battle ends. When the battle starts, for each other ship in your Vanguard: increases this ship's RLD by 3.5% (8.0%) and DMG dealt by 1.5% (5.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151000.png",
+    "max_level": 10
+  },
+  "151010": {
+    "id": 151010,
+    "type": 2,
+    "name": "Bad Girls in the House!",
+    "desc": "While this ship is afloat: decreases the Burn duration of your Main Fleet by 3s. Whenever 2 enemy aircraft are shot down within your fleet's Anti-Air Gun range: increases this ship's FP and AA by 6.0% until the battle ends (can stack up to 3 times); when the max stack is achieved, additionally decreases your CVs' and CVLs' DMG taken by 5.0% (15.0%) (does not stack with similar skills like Carrier Escort).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151010.png",
+    "max_level": 10
+  },
+  "151020": {
+    "id": 151020,
+    "type": 1,
+    "name": "Sea-Air Strike",
+    "desc": "Increases this ship's FP and AA by 5.0% (15.0%). While this ship is afloat: decreases your Main Fleet's Burn DMG taken by 5.0% (15.0%). Whenever an enemy aircraft is shot down within your fleet's Anti-Air Gun range: for 8s, increases this ship's FP and AA by 4.5% (12.0%) (cannot be stacked).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151020.png",
+    "max_level": 10
+  },
+  "151030": {
+    "id": 151030,
+    "type": 3,
+    "name": "Glorious Advance",
+    "desc": "Every 12s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). With a 100% chance 10s after the battle starts, and with a 20.0% (40.0%) chance every 20s after that: deploys a flare for 10s; enemy ships within the flare have their Evasion Rate decreased by 25.0% (does not stack with other flare skills; prioritizes throwing the flare at the nearest enemy).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151030.png",
+    "max_level": 10
+  },
+  "151040": {
+    "id": 151040,
+    "type": 2,
+    "name": "Restorative Cocoon",
+    "desc": "Increases this ship's FP by 5.0% (15.0%). When this ship fires her torpedoes: deploys a shield (lasting 5s; 10s cooldown between activations) that can negate up to 5 (10) enemy shells; while this shield is deployed, the ship in your Vanguard with the lowest current HP percentage recovers 1.0% of her max HP every second.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151040.png",
+    "max_level": 10
+  },
+  "151050": {
+    "id": 151050,
+    "type": 3,
+    "name": "Exploring a New World",
+    "desc": "When the battle starts: launches a recon plane. Every time this ship sinks an enemy: decreases her DMG taken by 1.0% (5.0%) until the battle ends and increases her Main Gun efficiency by 1.0% (10.0%) (both of these buffs can stack up to 3 times).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151050.png",
+    "max_level": 10
+  },
+  "151060": {
+    "id": 151060,
+    "type": 1,
+    "name": "BIG BEN",
+    "desc": "When the battle starts, if there is another Eagle Union ship in your Main Fleet: increases this ship's aircraft DMG dealt by 1.0% (10.0%). When this ship launches an airstrike: launches an additional Lv.1 (Lv.10) airstrike using special aircraft (DMG is based on the skill's level) that inflict a special Flooding ailment to enemies hit with its torpedoes; when launching this airstrike, if there is an enemy BB, CV, or CVL on the battlefield: improves this airstrike.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151060.png",
+    "max_level": 10
+  },
+  "151070": {
+    "id": 151070,
+    "type": 2,
+    "name": "Flame-Bathed Miracle",
+    "desc": "Increases this ship's AVI by 1.0% (10.0%).\nWith a 100% chance when this ship finishes loading an airstrike, and a 15.0% (30.0%) chance when this ship takes DMG: this ship gains a special Burn that lasts 15s and deals a fixed 13 DMG every second, but does not increase her Detection Gauge.\nWhile this ship is inflicted with a Burn (including special Burns), her DMG taken is decreased by 1.0% (10.0%) and her EVA and ACC increase by 1.0% (10.0%). If this ship is Burning due to this skill's effect: additionally increases this ship's AVI by 1.0% (10.0%) and aircraft DMG dealt by 1.0% (10.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151070.png",
+    "max_level": 10
+  },
+  "151080": {
+    "id": 151080,
+    "type": 3,
+    "name": "Pixiedust Storm",
+    "desc": "Increases this ship's FP and ACC by 10.0% (20.0%). Every 20s: 40.0% (70.0%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); if this barrage did not activate, instead decreases this ship's DMG taken by 10.0% (20.0%) for 10s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151080.png",
+    "max_level": 10
+  },
+  "151090": {
+    "id": 151090,
+    "type": 3,
+    "name": "Welkin Blessing",
+    "desc": "Increases this ship's AA by 10.0% (20.0%). When an enemy aircraft is shot down within your fleet's Anti-Air Gun range: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level; 10s cooldown between activations) and restores HP equal to 1.0% (3.0%) to the ship in your fleet with the current lowest HP percentage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151090.png",
+    "max_level": 10
+  },
+  "151100": {
+    "id": 151100,
+    "type": 1,
+    "name": "Genius's Intuition",
+    "desc": "Increases this ship's FP and EVA by 5.0% (15.0%). Every 15 times this ship fires her Main Guns: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151100.png",
+    "max_level": 10
+  },
+  "151110": {
+    "id": 151110,
+    "type": 3,
+    "name": "I am Mad Scientist!",
+    "desc": "Every 12s: deploys a Lv.1 (Lv.10) special invention. The invention's effect improves with the skill's level.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151110.png",
+    "max_level": 10
+  },
+  "151120": {
+    "id": 151120,
+    "type": 3,
+    "name": "Raging Polar Bear of the Distant Sea",
+    "desc": "Increases this ship's FP by 5.0% (15.0%). When this ship fires her Main Guns: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) and, for 10s, tanks 50.0% of the DMG taken of a random ship in your Vanguard while decreasing the tanked DMG by 10.0% (20.0%).\nOnce per threshold, when this ship's HP drops below 90.0%/80.0%/70.0%: increases this ship's and your Vanguard's RLD and ACC by 3.5% (8.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151120.png",
+    "max_level": 10
+  },
+  "151130": {
+    "id": 151130,
+    "type": 2,
+    "name": "Lullaby of the Snowy Plains",
+    "desc": "Every 20s: the ship with the lowest current HP percentage in your Surface Fleet recovers 1.0% (5.0%) of her max HP; every time this effect activates: 5s after the activation, if a ship in your Surface Fleet is at 50.0% or less HP, this effect activates again.\nOnce per battle, when the HP of a ship in your Surface Fleet falls below 50.0% as a result of DMG taken: increases your Surface Fleet's AA and EVA by 1.0% (10.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151130.png",
+    "max_level": 10
+  },
+  "151140": {
+    "id": 151140,
+    "type": 2,
+    "name": "Peek-a-Boom!",
+    "desc": "Increases this ship's EVA by 5.0% (15.0%). When this ship fires her torpedoes: increases this ship's FP by 5.0% (15.0%) for 15s, performs a Lv.1 (Lv.10) special attack (DMG is based on the skill's level), and deploys a smokescreen that increases Evasion Rate by 20.0% (40.0%) for all your ships in it. Does not stack with other smokescreen skills. Smokescreen lasts 5s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151140.png",
+    "max_level": 10
+  },
+  "151150": {
+    "id": 151150,
+    "type": 3,
+    "name": "To My Abyssal Kingdom!",
+    "desc": "When there is an enemy within 35 units of this ship: performs a Lv.1 (Lv.10) special slashing attack that inflicts Armor Break on enemies hit (DMG is based on the skill's level; 20s cooldown between activations); if there is no such enemy, instead increases this ship's Crit Rate by 1.5% (5.0%) and decreases her DMG taken by 1.5% (5.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151150.png",
+    "max_level": 10
+  },
+  "151160": {
+    "id": 151160,
+    "type": 1,
+    "name": "Sweet-Toothed Awful Jawful",
+    "desc": "While this ship does not have the Out of Ammo debuff: increases this ship's EVA by 5.0% (10.0%). Every 8 times this ship fires her Main Guns: restores 1.0% of this ship's max HP and fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) that decreases the SPD of enemies hit by 10.0% (15.0%) for 5s. If this ship has a large-caliber Main Gun equipped, the above shots fired requirement decreases to 4.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151160.png",
+    "max_level": 10
+  },
+  "151170": {
+    "id": 151170,
+    "type": 3,
+    "name": "The Flawless Hunt",
+    "desc": "Increases this ship's FP, TRP, and ACC by 5.0% (15.0%). Every 15s: 40.0% (70.0%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); sets the SPD of enemies hit by the arcing shells of this barrage to 0 for 0.5s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151170.png",
+    "max_level": 10
+  },
+  "151180": {
+    "id": 151180,
+    "type": 3,
+    "name": "Crimson Killmark",
+    "desc": "When the battle starts: marks a random enemy. Increases this ship's DMG dealt against the enemy marked by this skill's effect by 10.0% (20.0%) and decreases her DMG taken from that enemy by 4.0% (10.0%). When the marked enemy is sunk: marks a different random enemy and recovers 1.0% (3.0%) of this ship's max HP (this HP restoration effect can activate up to 3 times per battle).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151180.png",
+    "max_level": 10
+  },
+  "151190": {
+    "id": 151190,
+    "type": 1,
+    "name": "Glowworm Assault",
+    "desc": "Every 20s: 50.0% (100.0%) chance to perform a Lv.1 (Lv.10) headbutt on the enemy with the lowest HP and shorten the reload time of this ship's mid-reload torpedoes by 3s. 3s after Glowworm Assault activates, the following takes effect:\n1) If this ship sustained DMG equal to or exceeding 8.0% of her max HP during the above effect, she evades DMG taken from enemy shells and ramming the enemy for 2s;\n2) If this ship sunk an enemy: restores 4.0% (10.0%) of this ship's max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151190.png",
+    "max_level": 10
+  },
+  "151200": {
+    "id": 151200,
+    "type": 2,
+    "name": "Stop! Right! There!",
+    "desc": "When the battle starts: increases this ship's FP, TRP, and ASW by 1.0% (10.0%) and deploys 3 barricades (lasting 60s) on the battlefield that can negate up to 12 enemy shells.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151200.png",
+    "max_level": 10
+  },
+  "151210": {
+    "id": 151210,
+    "type": 3,
+    "name": "Dogged Pursuit",
+    "desc": "Every 15s: 45.0% (75.0%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); enemies hit by this barrage take 12.0% more shelling damage from your Vanguard's DDs and CLs for 5s (effect does not stack); if this barrage does not activate, instead performs a sonar scan, revealing enemy SSs for 8s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151210.png",
+    "max_level": 10
+  },
+  "151220": {
+    "id": 151220,
+    "type": 1,
+    "name": "Worldgorging Lionflame",
+    "desc": "When this ship fires her Main Guns: 50.0% (100.0%) chance to fire a Lv.1 (Lv.10) special barrage II (DMG is based on the skill's level). When the battle starts, and every 15s after that: fires a Lv.1 (Lv.10) special barrage I that inflicts Lionflame on all enemies hit (DMG is based on the skill's level).\nEnemies affected by Lionflame take DMG once every 3s (DMG is based on Lion's FP and the skill's level), and enemies sunk while under the effect of Lionflame will cause the effect to spread to the nearest enemy.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151220.png",
+    "max_level": 10
+  },
+  "151230": {
+    "id": 151230,
+    "type": 3,
+    "name": "Thus Moves the King",
+    "desc": "Increases this ship's FP and ACC by 5.0% (15.0%), increases this ship's shelling damage by 3.5% (8.0%), and increases the DMG dealt to enemies affected by Lionflame by 10.0%. When this ships attacks an enemy affected by Lionflame: increases this ship's Crit Rate by 1.0% (10.0%) and Crit DMG by 10.0% (20.0%).\nWhen a fleet this ship is NOT in starts its 1st, 2nd, or 3rd battles of a sortie: as long as this ship is still afloat, fires a Lv.1 (Lv.10) support barrage 18s after the start of battle (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151230.png",
+    "max_level": 10
+  },
+  "151240": {
+    "id": 151240,
+    "type": 2,
+    "name": "Aegis of the Realm",
+    "desc": "Increases this ship's EVA by 5.0% (15.0%). Decreases this ship's DMG taken by 1.0% (10.0%) for each enemy on the battlefield affected by Lionflame (stacks up to 3 times). When this ship would take torpedo DMG: reduces that attack's Crit Rate by 5.0% (15.0%) and Crit DMG by 10.0% (30.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151240.png",
+    "max_level": 10
+  },
+  "151250": {
+    "id": 151250,
+    "type": 1,
+    "name": "Upon This Blade, Shall Victory be Inscribed",
+    "desc": "Increases this ship's FP and ACC by 1.0% (10.0%). When this ship fires her Main Guns: alternates between using Lv.1 (Lv.10) Heroic Will and Lv.1 (Lv.10) Fearless Spirit (DMG is based on the skill's level).\nHeroic Will: unleashes a red sword shockwave that decreases the AA of enemies hit by 2.0% for 3s;\nFearless Spirit: unleashes a blue sword shockwave that decreases the SPD of enemies hit by 15.0% for 3s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151250.png",
+    "max_level": 10
+  },
+  "151260": {
+    "id": 151260,
+    "type": 2,
+    "name": "Upon This Corpus, Shall Irradiance Adorn",
+    "desc": "Increases this ship's AA by 5.0% (15.0%). When your Flagship performs an arcing Main Gun attack: restores 5.0% of Trafalgar's max HP and creates a Luminous Domain on the battlefield; surface enemies present in the Luminous Domain gain the Luminous debuff (decreases their Evasion Rate by 1.0% (10.0%) and decreases their DMG dealt to Trafalgar by 5.0% (15.0%)) for 10s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151260.png",
+    "max_level": 10
+  },
+  "151270": {
+    "id": 151270,
+    "type": 3,
+    "name": "By This Power, Shall Duty be Done",
+    "desc": "Increases this ship's Main Gun efficiency by 5.0% (15.0%). Increases your Royal Navy ships' FP, TRP, and AVI by 1.0% (10.0%). While this ship is afloat, when a fleet this ship is NOT in starts a battle: increases the FP, TRP, and AA of your Royal Navy ships in that fleet by 1.0% (10.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151270.png",
+    "max_level": 10
+  },
+  "151280": {
+    "id": 151280,
+    "type": 1,
+    "name": "Sun God's Radiance",
+    "desc": "Increases this ship's Main Gun and torpedo efficiency by 10.0% (20.0%). When the battle starts: increases this ship's Crit Rate by 3.5% (8.0%) for each ship in your Vanguard (can stack up to 3 times). Every 20s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); the shells of this barrage inflict a 15.0% ACC debuff for 10s on enemies hit and the torpedoes inflict a 10.0% SPD debuff for 10s on enemies hit.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151280.png",
+    "max_level": 10
+  },
+  "151290": {
+    "id": 151290,
+    "type": 3,
+    "name": "Guidance of the Stars",
+    "desc": "Increases this ship's EVA by 5.0% (15.0%). When the battle starts: decreases your fleet's aircraft DMG taken by 1.0% (5.0%); if there is another Royal Navy ship in your fleet, further decreases the aircraft DMG taken by 1.0% (5.0%). Every 10s: this ship performs a horoscope reading, increasing the FP or TRP of your Royal Navy Vanguard ships by 4.5% (12.0%) for 8s, then picks a random enemy and decreases that enemy's FP or TRP (based on which of the above two stats was chosen) by 3.5% (8.0%) for 8s; when this effect activates, if there are 2 or more surface enemies present, this effect activates an additional time.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151290.png",
+    "max_level": 10
+  },
+  "250011": {
+    "id": 250011,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Admiralen class once every 15 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/20000.png",
+    "max_level": 1
+  },
+  "250012": {
+    "id": 250012,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Admiralen class once every 10 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/20000.png",
+    "max_level": 1
+  },
   "800010": {
     "id": 800010,
     "type": 1,
@@ -14667,7 +15291,7 @@
     "id": 800531,
     "type": 1,
     "name": "Flickering Light - Trento",
-    "desc": "Every 9 times this ship fires her Main Guns: fires a special barrage.",
+    "desc": "Activates All Out Assault every 9 times the Main Guns are fired.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/800530.png",
     "max_level": 1
   },
@@ -14675,7 +15299,7 @@
     "id": 800532,
     "type": 1,
     "name": "Flickering Light - Trento",
-    "desc": "Every 6 times this ship fires her Main Guns: fires a special barrage.",
+    "desc": "Activates All Out Assault every 6 times the Main Guns are fired.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/800530.png",
     "max_level": 1
   },
@@ -15187,7 +15811,7 @@
     "id": 800881,
     "type": 3,
     "name": "Cinders of Hope - Algérie I",
-    "desc": "Every 9 times this ship fires her Main Guns: fires a special barrage.",
+    "desc": "Activates All Out Assault every 9 times the Main Guns are fired.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/800880.png",
     "max_level": 1
   },
@@ -15195,7 +15819,7 @@
     "id": 800882,
     "type": 3,
     "name": "Cinders of Hope - Algérie II",
-    "desc": "Every 6 times this ship fires her Main Guns: fires a special barrage.",
+    "desc": "Activates All Out Assault every 6 times the Main Guns are fired.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/800880.png",
     "max_level": 1
   },
@@ -15203,7 +15827,7 @@
     "id": 800885,
     "type": 3,
     "name": "Cinders of Hope - Algérie I",
-    "desc": "[Operation Siren]\nEvery 9 times this ship fires her Main Guns: fires a special barrage. Decreases this ship's DMG taken by 3.0% when fighting humanoid Siren fleets or Boss fleets.",
+    "desc": "[Operation Siren]\nActivates All-Out Assault I every 9 times the Main Guns are fired. When fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 3.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/800880.png",
     "max_level": 1
   },
@@ -15211,7 +15835,7 @@
     "id": 800887,
     "type": 3,
     "name": "Cinders of Hope - Algérie II",
-    "desc": "[Operation Siren]\nEvery 6 times this ship fires her Main Guns: fires a special barrage. Decreases this ship's DMG taken by 8.0% when fighting humanoid Siren fleets or Boss fleets.",
+    "desc": "[Operation Siren]\nActivates All-Out Assault II every 6 times the Main Guns are fired. When fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 8.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/800880.png",
     "max_level": 1
   },
@@ -15755,7 +16379,7 @@
     "id": 801261,
     "type": 3,
     "name": "Cinders of Hope - Foch",
-    "desc": "Every 9 times this ship fires her Main Guns: fires a special barrage.",
+    "desc": "Activates All Out Assault every 9 times the Main Guns are fired.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801260.png",
     "max_level": 1
   },
@@ -15763,7 +16387,7 @@
     "id": 801262,
     "type": 3,
     "name": "Cinders of Hope - Foch",
-    "desc": "Every 6 times this ship fires her Main Guns: fires a special barrage.",
+    "desc": "Activates All Out Assault every 6 times the Main Guns are fired.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801260.png",
     "max_level": 1
   },
@@ -16179,7 +16803,7 @@
     "id": 801561,
     "type": 3,
     "name": "Cinders of Hope - Admiral Hipper I",
-    "desc": "Every 9 times this ship fires her Main Guns: fires a special barrage.",
+    "desc": "Activates All Out Assault every 9 times the Main Guns are fired.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801560.png",
     "max_level": 1
   },
@@ -16195,7 +16819,7 @@
     "id": 801565,
     "type": 3,
     "name": "Cinders of Hope - Admiral Hipper I",
-    "desc": "[Operation Siren]\nEvery 9 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 3.0%.",
+    "desc": "[Operation Siren]\nActivates All-Out Assault I every 9 times the Main Guns are fired. When fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 3.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801560.png",
     "max_level": 1
   },
@@ -16205,6 +16829,310 @@
     "name": "Cinders of Hope - Admiral Hipper II",
     "desc": "[Operation Siren]\nEvery 6 times this ship fires her Main Guns: fires a special barrage. Inflicts the Coiling Flames status to enemies hit by this barrage. When fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 8.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801560.png",
+    "max_level": 1
+  },
+  "801570": {
+    "id": 801570,
+    "type": 1,
+    "name": "Flame and Fulminance",
+    "desc": "When this ship is attacked: 1.0% (10.0%) chance to activate a special slash attack (inflicts Armor Break to enemies hit; can only be triggered once every 10s). Every 15s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) that inflicts a special Burn ailment to enemies hit, dealing 50 DMG every 1.5s for 8s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801570.png",
+    "max_level": 10
+  },
+  "801580": {
+    "id": 801580,
+    "type": 3,
+    "name": "The Lone Knight",
+    "desc": "Increases this ship's FP by 5.0% (15.0%) and RLD by 10.0% (30.0%). If your Vanguard consists only of this ship when the battle starts: increases this ship's EVA by 4.0% (10.0%) and AA by 10.0% (20.0%). The first time this ship's HP falls below 25.0% as a result of DMG taken: restores 4.0% (10.0%) HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801580.png",
+    "max_level": 10
+  },
+  "801591": {
+    "id": 801591,
+    "type": 3,
+    "name": "Cinders of Hope - Bolzano I",
+    "desc": "Activates All Out Assault every 9 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801590.png",
+    "max_level": 1
+  },
+  "801592": {
+    "id": 801592,
+    "type": 3,
+    "name": "Cinders of Hope - Bolzano II",
+    "desc": "Activates All Out Assault every 6 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801590.png",
+    "max_level": 1
+  },
+  "801595": {
+    "id": 801595,
+    "type": 3,
+    "name": "Cinders of Hope - Bolzano I",
+    "desc": "[Operation Siren]\nActivates All-Out Assault I every 9 times the Main Guns are fired. When fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 3.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801590.png",
+    "max_level": 1
+  },
+  "801597": {
+    "id": 801597,
+    "type": 3,
+    "name": "Cinders of Hope - Bolzano II",
+    "desc": "[Operation Siren]\nActivates All-Out Assault II every 6 times the Main Guns are fired. When fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 8.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801590.png",
+    "max_level": 1
+  },
+  "801600": {
+    "id": 801600,
+    "type": 1,
+    "name": "Shadow of Eternal Night",
+    "desc": "When this ship fires her Main Guns: 50.0% (100.0%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); enemies hit by this barrage have their ACC reduced by 5.0% (15.0%) for 8s. Increases the DMG taken by enemies within a defensive zone around this ship by 10.0% (20.0%), and additionally triggers a Lv.1 (Lv.10) special barrage whenever an enemy enters this defensive zone (DMG is based on the skill's level; can only activate once every 15s).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801600.png",
+    "max_level": 10
+  },
+  "801610": {
+    "id": 801610,
+    "type": 3,
+    "name": "Banner of Eternal Night",
+    "desc": "Increases this ship's FP and ACC by 5.0% (15.0%). When this ship fires her Main Guns: increases this ship's Crit Rate by 4.5% (12.0%) and reduces the DMG taken by your Vanguard by 10.0% (20.0%) for 5s. At the start of battle, if another META ship is present in the same fleet: increases this ship's DMG dealt by 1.0% (10.0%) until the battle ends.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801610.png",
+    "max_level": 10
+  },
+  "801620": {
+    "id": 801620,
+    "type": 2,
+    "name": "Veil of Eternal Night",
+    "desc": "Reduces the first 2 (4) instance(s) of DMG this ship takes by 30.0% (60.0%) during each battle. The first time this ship's HP falls beneath 40.0% HP as a result of DMG taken, restores HP equal to 10.0% (20.0%) of this ship's max HP, and reduces her DMG taken by 1.0% (10.0%) until the end of battle.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801620.png",
+    "max_level": 10
+  },
+  "801631": {
+    "id": 801631,
+    "type": 3,
+    "name": "Cinders of Hope - Andrea Doria I",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 3.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801630.png",
+    "max_level": 1
+  },
+  "801632": {
+    "id": 801632,
+    "type": 3,
+    "name": "Cinders of Hope - Andrea Doria II",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 8.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801630.png",
+    "max_level": 1
+  },
+  "801635": {
+    "id": 801635,
+    "type": 3,
+    "name": "Cinders of Hope - Andrea Doria I",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 3.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801630.png",
+    "max_level": 1
+  },
+  "801637": {
+    "id": 801637,
+    "type": 3,
+    "name": "Cinders of Hope - Andrea Doria II",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 8.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801630.png",
+    "max_level": 1
+  },
+  "801640": {
+    "id": 801640,
+    "type": 1,
+    "name": "Torching Strike",
+    "desc": "Every 5s: performs a Lv.1 (Lv.10) special bombing (DMG is based on the skill's level) that inflicts a special Burn for 5s to enemies hit. This Burn inflicts 150 DMG every second and decreases the target's AA by 3.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801640.png",
+    "max_level": 10
+  },
+  "801650": {
+    "id": 801650,
+    "type": 3,
+    "name": "Shadowed Dreams",
+    "desc": "Increases this ship's AVI and ACC by 1.0% (10.0%). When this ship finished preparing an airstrike: launches a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); every time this barrage hits an enemy: increases this ship's AVI and ACC by 2.0% (can be stacked up to 5 times; improves this barrage upon reaching max stacks).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801650.png",
+    "max_level": 10
+  },
+  "801660": {
+    "id": 801660,
+    "type": 2,
+    "name": "Operation Ghost",
+    "desc": "Every 18s: deploys a shield (lasting 10s) capable of negating up to 8 enemy shells around the frontmost ship of your Vanguard. When the battle starts: decreases this ship's DMG taken by 1.5% (5.0%); when the shield effect of this skill activates, further decreases this ship's DMG taken by 1.5% (5.0%) (DMG reduction effect can be stacked up to 4 times).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801660.png",
+    "max_level": 10
+  },
+  "801671": {
+    "id": 801671,
+    "type": 1,
+    "name": "Ashen Might - Hornet I",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 5.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801670.png",
+    "max_level": 1
+  },
+  "801672": {
+    "id": 801672,
+    "type": 1,
+    "name": "Ashen Might - Hornet II",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 8.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801670.png",
+    "max_level": 1
+  },
+  "801675": {
+    "id": 801675,
+    "type": 1,
+    "name": "Ashen Might - Hornet I",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 5.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801670.png",
+    "max_level": 1
+  },
+  "801677": {
+    "id": 801677,
+    "type": 1,
+    "name": "Ashen Might - Hornet II",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 8.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801670.png",
+    "max_level": 1
+  },
+  "801680": {
+    "id": 801680,
+    "type": 1,
+    "name": "Threat Elimination Order",
+    "desc": "Increases this ship's FP and ACC by 5.0% (15.0%). When this ship fires her Main Guns: 40.0% (70.0%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) with a 50.0% increased Crit Rate.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801680.png",
+    "max_level": 10
+  },
+  "801690": {
+    "id": 801690,
+    "type": 2,
+    "name": "Emergency Defense System",
+    "desc": "Increases this ship's EVA by 5.0% (15.0%). When this ship takes DMG: 10.0% (20.0%) chance to reduce that DMG by 50.0%. Once per battle, when this ship's HP falls below 30.0% as a result of DMG taken: restores 10.0% (20.0%) of this ship's max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801690.png",
+    "max_level": 10
+  },
+  "801701": {
+    "id": 801701,
+    "type": 1,
+    "name": "Ashen Might - Nevada I",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 2.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801700.png",
+    "max_level": 1
+  },
+  "801702": {
+    "id": 801702,
+    "type": 1,
+    "name": "Ashen Might - Nevada II",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 6.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801700.png",
+    "max_level": 1
+  },
+  "801705": {
+    "id": 801705,
+    "type": 1,
+    "name": "Ashen Might - Nevada I",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 2.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801700.png",
+    "max_level": 1
+  },
+  "801707": {
+    "id": 801707,
+    "type": 1,
+    "name": "Ashen Might - Nevada II",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 6.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801700.png",
+    "max_level": 1
+  },
+  "801710": {
+    "id": 801710,
+    "type": 1,
+    "name": "Uncompromising Duty",
+    "desc": "When any other ship in your Vanguard is attacked: fires a Lv.1 (Lv.10) special barrage I (DMG is based on the skill's level; 10s cooldown between activations). This barrage can only fire 2 times per battle, after which the following applies instead: every 10s, fires a Lv.1 (Lv.10) special barrage II (DMG is based on the skill's level).\nOnce per battle, if there is another ship in your Vanguard when this ship's HP falls below 20.0% as a result of DMG taken: for 6s, this ship evades all attacks and her DMG dealt is increased by 8.0% until the battle ends.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801710.png",
+    "max_level": 10
+  },
+  "801720": {
+    "id": 801720,
+    "type": 1,
+    "name": "Gunfire Blitz",
+    "desc": "Increases your DDs' FP by 5.0% (15.0%). When this ship fires her Main Guns: she gains a stack of Bullets (can be stacked up to 12 times). When this ship fires her torpedoes: fires an amount of special shells equal to the number of Bullets, then resets the stack; enemies hit by a special shell take 50 fixed DMG and have their cannon DMG taken increased by 1.0% and DMG dealt reduced by 1.0% (can be stacked up to 12 times; both effects last 6s).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801720.png",
+    "max_level": 10
+  },
+  "801741": {
+    "id": 801741,
+    "type": 3,
+    "name": "Cinders of Hope - Grenville I",
+    "desc": "Every 15 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801740.png",
+    "max_level": 1
+  },
+  "801742": {
+    "id": 801742,
+    "type": 3,
+    "name": "Cinders of Hope - Grenville II",
+    "desc": "Every 10 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801740.png",
+    "max_level": 1
+  },
+  "801745": {
+    "id": 801745,
+    "type": 3,
+    "name": "Cinders of Hope - Grenville I",
+    "desc": "[Operation Siren]\nEvery 15 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 2.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801740.png",
+    "max_level": 1
+  },
+  "801747": {
+    "id": 801747,
+    "type": 3,
+    "name": "Cinders of Hope - Grenville II",
+    "desc": "[Operation Siren]\nEvery 10 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 6.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801740.png",
+    "max_level": 1
+  },
+  "801750": {
+    "id": 801750,
+    "type": 2,
+    "name": "Glory of Days Bygone",
+    "desc": "When this ship launches an airstrike: for 8s, decreases your Vanguard's DMG taken by 5.0% (15.0%) and increases their DMG dealt by 5.0% (15.0%) (does not stack with the skills Fleet Carrier or Air Cover).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801750.png",
+    "max_level": 10
+  },
+  "801760": {
+    "id": 801760,
+    "type": 1,
+    "name": "Glorious Forevermore",
+    "desc": "When this ship launches an airstrike: 70.0% chance to launch a Lv.1 (Lv.10) special airstrike (DMG is based on the skill's level). When the battle starts: increases this ship's AVI by 5.0% (15.0%); if there are 3 ships afloat in your Vanguard, the above airstrike's activation chance becomes 100.0% and this ship's ACC increases by 5.0% (15.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801760.png",
+    "max_level": 10
+  },
+  "801770": {
+    "id": 801770,
+    "type": 3,
+    "name": "Rosen Mark",
+    "desc": "When the battle starts, this ship and your Vanguard gain the Rosen Mark status; every 15s, another random ship in your Main Fleet also gains the Rosen Mark status.\nWhen a ship with the Rosen Mark status takes DMG equal to or exceeding 1.5% of that ship's max HP, Thorned Reprisal activates, dealing DMG equal to 5.0% of the DMG that ship took to the enemy closest to her.\nAdditionally, once per battle each, the following effects activate based on the number of Thorned Reprisal activations:\n1) 5: increases this ship's DMG dealt by 1.0% (10.0%);\n2) 10: launches the special airstrike Lv.1 (Lv.10) listed in the skill Glorious Forevermore (DMG is based on that skill's level);\n3) 20: after this ship launches an airstrike, the next airstrike becomes available immediately ;\n4) 30: sets this ship's Detection Gauge to 0;\n5) 40: restores HP equal to 3.5% (8.0%) of this ship's max HP for all your ships that have the Rosen Mark status.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801770.png",
+    "max_level": 10
+  },
+  "801781": {
+    "id": 801781,
+    "type": 3,
+    "name": "Cinders of Hope - Glorious I",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 3.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801780.png",
+    "max_level": 1
+  },
+  "801782": {
+    "id": 801782,
+    "type": 3,
+    "name": "Cinders of Hope - Glorious II",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 8.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801780.png",
+    "max_level": 1
+  },
+  "801785": {
+    "id": 801785,
+    "type": 3,
+    "name": "Cinders of Hope - Glorious I",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 3.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801780.png",
     "max_level": 1
   },
   "902220": {
@@ -16261,6 +17189,14 @@
     "name": "Javelin Raid+",
     "desc": "Every 5s: fires a Lv.1 (Lv.10) special shell and, with a 20.0% chance, increases this ship's EVA by 30.0% (60.0%) for 8s (special shell DMG is based on the skill's level and this ship's TRP stat; EVA buff does not stack). Every 4 times this skill activates in the same battle: improves the special shell. If the special shell deals DMG to an enemy: increases its DMG by 1.0% (10.0%).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/10250.png",
+    "max_level": 10
+  },
+  "1010260": {
+    "id": 1010260,
+    "type": 1,
+    "name": "Armageddon Cannon+",
+    "desc": "When this ship fires her weapons: 20.0% chance to increase this ship's FP by 30.0% (60.0%) and Crit Rate by 15.0% (30.0%) for 8s and fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/10260.png",
     "max_level": 10
   },
   "1010290": {
@@ -16407,6 +17343,14 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/10750.png",
     "max_level": 10
   },
+  "1010960": {
+    "id": 1010960,
+    "type": 3,
+    "name": "Special Lead Ship+",
+    "desc": "Increases your DDs' FP and EVA by 15% (30.0%) and TRP by 10.0% (20.0%) and increases this ship's torpedo Crit DMG by 1.0% (10.0%). When this ship fires her torpedoes: 20.0% (50.0%) chance to fire another wave of torpedoes. Every 15s: fires a Lv.1 (Lv.10) barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/10960.png",
+    "max_level": 10
+  },
   "1010980": {
     "id": 1010980,
     "type": 3,
@@ -16429,6 +17373,14 @@
     "name": "Victorious Song+",
     "desc": "Increases this ship's DMG dealt to BBs by 10.0% (20.0%) and decreases her volley DMG received by 10.0% (20.0%). Increases your CVs' and CVLs' DMG dealt to BBs by 5.0% (10.0%) and increases your Flagship's DMG dealt to BBs by 5.0%. When this ship's airstrike finishes loading: increases this ship's AVI by 4.0% (10.0%) (can be stacked up to 2 times).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/11120.png",
+    "max_level": 10
+  },
+  "1011150": {
+    "id": 1011150,
+    "type": 1,
+    "name": "Counterattack of the Barents Sea+",
+    "desc": "Increases this ship's Main Gun Crit Rate by 4.5% (12.0%) and Crit DMG by 30.0%. When the battle starts: restores 4.0% (10.0%) of this ship's max HP and increases this ship's FP and TRP by 4.5% (12.0%). When this ship fires her torpedoes: 50.0% (100.0%) chance to fire another wave of torpedoes. Every 20s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/11150.png",
     "max_level": 10
   },
   "1011170": {
@@ -16501,6 +17453,14 @@
     "name": "Final Shot+",
     "desc": "Every 20s, fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). While this ship is equipping the Quadruple 380mm Main Gun (Mle 1935): increases this ship's Main Gun Crit Rate by 10.0% (30.0%) and Main Gun Crit DMG by 20.0% (50.0%).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/11540.png",
+    "max_level": 10
+  },
+  "1011560": {
+    "id": 1011560,
+    "type": 1,
+    "name": "2,700 Pounds of Justice+",
+    "desc": "During battle, changes this ship's Main Gun ammunition type to Super-Heavy AP. When this ship's Main Guns hit an enemy, the DMG dealt to the enemy is increased based on the distance from this ship (up to 20.0% (50.0%)). When this ship fires her Main Guns: 20.0% (50.0%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/11560.png",
     "max_level": 10
   },
   "1011590": {
@@ -16591,6 +17551,22 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/12350.png",
     "max_level": 10
   },
+  "1012400": {
+    "id": 1012400,
+    "type": 3,
+    "name": "Great Shark's Bite+",
+    "desc": "Increases this boat's TRP and ACC by 5.0% (15.0%). When not sortied as the Flagship of your Submarine Fleet: after getting into position, this boat keeps advancing for 18s, then returns to a specific position.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/12400.png",
+    "max_level": 10
+  },
+  "1012480": {
+    "id": 1012480,
+    "type": 1,
+    "name": "APsolute Ammunition+",
+    "desc": "This ship's Main Gun ammo type changes to Lv.1 (Lv.10) Special AP (DMG increase is based on the skill's level). When this Special AP hits an enemy: 1.0% (3.5%) chance to inflict that enemy with Weakness Exposed; Weakness Exposed lasts for 8s and increases that enemy's shelling DMG received by 8.0%.\n15s after the battle starts, and every 20s after that: this ship gains a stealth mode, evading all enemy attacks for 3s; when this mode ends: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) that inflicts the Weakness Exposed debuff to enemies hit.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/1012480.png",
+    "max_level": 10
+  },
   "1012600": {
     "id": 1012600,
     "type": 1,
@@ -16637,6 +17613,22 @@
     "name": "Cavalier of the Ether+",
     "desc": "Once guaranteed 3s after the battle starts, and with a 40.0% (70.0%) chance every 15s: fires a Lv.1 (Lv.10) improved special barrage (DMG is based on the skill's level) that inflicts the Cavalier's Fire and Ice ailment to enemies hit for 6s. When a ship in your Vanguard hits an enemy with this ailment, her DMG dealt is increased by 5.0% (20.0%).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/13000.png",
+    "max_level": 10
+  },
+  "1013020": {
+    "id": 1013020,
+    "type": 1,
+    "name": "Lod Obstrel+",
+    "desc": "When the battle starts, if there is another Northern Parliament ship in your fleet: increases this ship's Crit Rate by 5.0% (10.0%) and Crit DMG by 10.0% (20.0%). When this ship fires her Main Guns: increases this ship's FP by 7.5% (can be stacked up to 2 times) and, with a 45.0% (75.0%) chance, fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); after this FP buff has activated 2 times, the barrage's activation chance increases by 25.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/13020.png",
+    "max_level": 10
+  },
+  "1013050": {
+    "id": 1013050,
+    "type": 1,
+    "name": "Long Live the Revolution!+",
+    "desc": "When this ship fires her Main Guns: increases your Northern Parliament ships' FP, TRP, AVI, AA, and RLD by 8.0% (18.0%) for 12s. If this ship has the Triple 305mm M1907 Main Gun Mount equipped: increases this ship's Main Gun efficiency by 60.0% (90.0%) and decreases the reload time of this ship's first 4 Main Gun volleys by 20.0% (35.0%) and increases her Main Gun's DMG dealt against Medium and Heavy Armor enemies by 5.0% (15.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/13050.png",
     "max_level": 10
   },
   "1013270": {
@@ -17029,6 +18021,30 @@
     "name": "Air Support - Houshou",
     "desc": "When this ship launches an airstrike: increases your CVs' and CVLs' AVI and ACC by 5% (15%) for 8s, then activates the following effect 3 times over 3 seconds:\nThe ship in your Main Fleet with the lowest current HP percentage recovers HP equal to 1.0% (3.5%) of Houshou's max HP.\nIf this effect activates on a CV or CVL, the healing potency is increased by 100.0%, and this ship fires a Lv.1 (Lv.10) special airstrike (DMG is based on the skill's level).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/3040.png",
+    "max_level": 10
+  },
+  "1090380": {
+    "id": 1090380,
+    "type": 1,
+    "name": "Double Torpedo - Atago",
+    "desc": "Increases this ship's FP by 5.0% (15.0%). When this ship fires her torpedoes: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) and, with a 50.0% (100.0%) chance, fires another wave of torpedoes. Further increases the HE Ammo DMG boosting effect of the skill \"Arsonist\" by 15.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/2050.png",
+    "max_level": 10
+  },
+  "1090390": {
+    "id": 1090390,
+    "type": 2,
+    "name": "Anti-Air Mode - Columbia",
+    "desc": "When this ship fires her Anti-Air Guns: 25.0% chance to increase this ship's AA by 20.0% (40.0%) for 3s. Every 20s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/4090.png",
+    "max_level": 10
+  },
+  "1090400": {
+    "id": 1090400,
+    "type": 1,
+    "name": "Full Firepower - Köln",
+    "desc": "Every 20s: 50.0% (80.0%) chance to increase this ship's FP by 20.0% (40.0%) for 10s; when this effect activates: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level; barrage pattern is determined at random).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/2010.png",
     "max_level": 10
   },
   "10150530": {

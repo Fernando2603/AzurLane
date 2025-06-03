@@ -1,3 +1,9 @@
+## Patch 5.0.2
+<details>
+  <summary>03 June 2025</summary>
+  - fix skill failed to parse.
+</details>
+
 ## Patch 5.0.1
 <details>
   <summary>15 April 2025</summary>
