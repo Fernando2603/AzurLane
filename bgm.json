@@ -447,6 +447,14 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-nightmare-theme.ogg"
   },
+  "battle-ods-onstage": {
+    "title": "维序展开_PX",
+    "size": 1703291,
+    "duration": 76.65066666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-ods-onstage.ogg"
+  },
   "battle-pacific": {
     "title": "10",
     "size": 2578069,
@@ -734,6 +742,22 @@
     "bitrate": 160.0,
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/blueocean-image.ogg"
+  },
+  "brs-1": {
+    "title": "ブラック★ロックシューター",
+    "size": 5871629,
+    "duration": 293.01260770975057,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/brs-1.ogg"
+  },
+  "brs-1-inst": {
+    "title": "ブラック★ロックシューター_Inst",
+    "size": 5602232,
+    "duration": 304.9386666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/brs-1-inst.ogg"
   },
   "bsm-1": {
     "title": "b1-11_始まりの災厄",
