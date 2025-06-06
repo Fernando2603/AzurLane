@@ -46130,6 +46130,179 @@
       }
     }
   },
+  "31300": {
+    "name": "Twin 127mm Gun Mount (Type D)",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "DD",
+      "MG",
+      "HE"
+    ],
+    "rarity": 5,
+    "nationality": 3,
+    "type": 1,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/31300.png",
+    "stats": {
+      "1": {
+        "id": 31300,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "6 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          31300
+        ]
+      },
+      "2": {
+        "id": 31301,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          31301
+        ]
+      },
+      "3": {
+        "id": 31302,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "7 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          31302
+        ]
+      },
+      "4": {
+        "id": 31303,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "8 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          31303
+        ]
+      },
+      "5": {
+        "id": 31304,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "9 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          31304
+        ]
+      },
+      "6": {
+        "id": 31305,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "10 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          31305
+        ]
+      },
+      "7": {
+        "id": 31306,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "11 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          31306
+        ]
+      },
+      "8": {
+        "id": 31307,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "12 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          31307
+        ]
+      },
+      "9": {
+        "id": 31308,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "13 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          31308
+        ]
+      },
+      "10": {
+        "id": 31309,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "14 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          31309
+        ]
+      },
+      "11": {
+        "id": 31310,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "15 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "weapon_id": [
+          31310
+        ]
+      },
+      "12": {
+        "id": 31311,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "15 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "anti_siren": 1,
+        "weapon_id": [
+          31311
+        ]
+      },
+      "13": {
+        "id": 31312,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "15 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "anti_siren": 2,
+        "weapon_id": [
+          31312
+        ]
+      },
+      "14": {
+        "id": 31313,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "15 x 6",
+        "cannon": 30,
+        "antiaircraft": 15,
+        "anti_siren": 3,
+        "weapon_id": [
+          31313
+        ]
+      }
+    }
+  },
   "32000": {
     "name": "Single 140mm Naval Gun",
     "desc": "No description",
@@ -83942,6 +84115,585 @@
         "enhance": "+11",
         "durability": 371,
         "anti_siren": 1
+      }
+    }
+  },
+  "91300": {
+    "name": "PL.10",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "CV",
+      "TB"
+    ],
+    "rarity": 3,
+    "nationality": 8,
+    "type": 8,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/51300.png",
+    "stats": {
+      "1": {
+        "id": 91300,
+        "level": 1,
+        "enhance": "+0",
+        "air": 12,
+        "weapon_id": [
+          91300
+        ]
+      },
+      "2": {
+        "id": 91301,
+        "level": 2,
+        "enhance": "+1",
+        "air": 12,
+        "weapon_id": [
+          91301
+        ]
+      },
+      "3": {
+        "id": 91302,
+        "level": 3,
+        "enhance": "+2",
+        "air": 12,
+        "weapon_id": [
+          91302
+        ]
+      },
+      "4": {
+        "id": 91303,
+        "level": 4,
+        "enhance": "+3",
+        "air": 12,
+        "weapon_id": [
+          91303
+        ]
+      },
+      "5": {
+        "id": 91304,
+        "level": 5,
+        "enhance": "+4",
+        "air": 12,
+        "weapon_id": [
+          91304
+        ]
+      },
+      "6": {
+        "id": 91305,
+        "level": 6,
+        "enhance": "+5",
+        "air": 12,
+        "weapon_id": [
+          91305
+        ]
+      },
+      "7": {
+        "id": 91306,
+        "level": 7,
+        "enhance": "+6",
+        "air": 12,
+        "weapon_id": [
+          91306
+        ]
+      },
+      "8": {
+        "id": 91307,
+        "level": 8,
+        "enhance": "+7",
+        "air": 12,
+        "weapon_id": [
+          91307
+        ]
+      }
+    }
+  },
+  "91320": {
+    "name": "V-156-F",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "CV",
+      "DB"
+    ],
+    "rarity": 4,
+    "nationality": 8,
+    "type": 9,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/51320.png",
+    "stats": {
+      "1": {
+        "id": 91320,
+        "level": 1,
+        "enhance": "+0",
+        "air": 25,
+        "weapon_id": [
+          91320
+        ]
+      },
+      "2": {
+        "id": 91321,
+        "level": 2,
+        "enhance": "+1",
+        "air": 25,
+        "weapon_id": [
+          91321
+        ]
+      },
+      "3": {
+        "id": 91322,
+        "level": 3,
+        "enhance": "+2",
+        "air": 25,
+        "weapon_id": [
+          91322
+        ]
+      },
+      "4": {
+        "id": 91323,
+        "level": 4,
+        "enhance": "+3",
+        "air": 25,
+        "weapon_id": [
+          91323
+        ]
+      },
+      "5": {
+        "id": 91324,
+        "level": 5,
+        "enhance": "+4",
+        "air": 25,
+        "weapon_id": [
+          91324
+        ]
+      },
+      "6": {
+        "id": 91325,
+        "level": 6,
+        "enhance": "+5",
+        "air": 25,
+        "weapon_id": [
+          91325
+        ]
+      },
+      "7": {
+        "id": 91326,
+        "level": 7,
+        "enhance": "+6",
+        "air": 25,
+        "weapon_id": [
+          91326
+        ]
+      },
+      "8": {
+        "id": 91327,
+        "level": 8,
+        "enhance": "+7",
+        "air": 25,
+        "weapon_id": [
+          91327
+        ]
+      },
+      "9": {
+        "id": 91328,
+        "level": 9,
+        "enhance": "+8",
+        "air": 25,
+        "weapon_id": [
+          91328
+        ]
+      },
+      "10": {
+        "id": 91329,
+        "level": 10,
+        "enhance": "+9",
+        "air": 25,
+        "weapon_id": [
+          91329
+        ]
+      },
+      "11": {
+        "id": 91330,
+        "level": 11,
+        "enhance": "+10",
+        "air": 25,
+        "weapon_id": [
+          91330
+        ]
+      },
+      "12": {
+        "id": 91331,
+        "level": 12,
+        "enhance": "+11",
+        "air": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          91331
+        ]
+      }
+    }
+  },
+  "91340": {
+    "name": "LN.401",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "CV",
+      "DB"
+    ],
+    "rarity": 5,
+    "nationality": 8,
+    "type": 9,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/51340.png",
+    "stats": {
+      "1": {
+        "id": 91340,
+        "level": 1,
+        "enhance": "+0",
+        "air": 45,
+        "weapon_id": [
+          91340
+        ]
+      },
+      "2": {
+        "id": 91341,
+        "level": 2,
+        "enhance": "+1",
+        "air": 45,
+        "weapon_id": [
+          91341
+        ]
+      },
+      "3": {
+        "id": 91342,
+        "level": 3,
+        "enhance": "+2",
+        "air": 45,
+        "weapon_id": [
+          91342
+        ]
+      },
+      "4": {
+        "id": 91343,
+        "level": 4,
+        "enhance": "+3",
+        "air": 45,
+        "weapon_id": [
+          91343
+        ]
+      },
+      "5": {
+        "id": 91344,
+        "level": 5,
+        "enhance": "+4",
+        "air": 45,
+        "weapon_id": [
+          91344
+        ]
+      },
+      "6": {
+        "id": 91345,
+        "level": 6,
+        "enhance": "+5",
+        "air": 45,
+        "weapon_id": [
+          91345
+        ]
+      },
+      "7": {
+        "id": 91346,
+        "level": 7,
+        "enhance": "+6",
+        "air": 45,
+        "weapon_id": [
+          91346
+        ]
+      },
+      "8": {
+        "id": 91347,
+        "level": 8,
+        "enhance": "+7",
+        "air": 45,
+        "weapon_id": [
+          91347
+        ]
+      },
+      "9": {
+        "id": 91348,
+        "level": 9,
+        "enhance": "+8",
+        "air": 45,
+        "weapon_id": [
+          91348
+        ]
+      },
+      "10": {
+        "id": 91349,
+        "level": 10,
+        "enhance": "+9",
+        "air": 45,
+        "weapon_id": [
+          91349
+        ]
+      },
+      "11": {
+        "id": 91350,
+        "level": 11,
+        "enhance": "+10",
+        "air": 45,
+        "weapon_id": [
+          91350
+        ]
+      },
+      "12": {
+        "id": 91351,
+        "level": 12,
+        "enhance": "+11",
+        "air": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          91351
+        ]
+      },
+      "13": {
+        "id": 91352,
+        "level": 13,
+        "enhance": "+12",
+        "air": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          91352
+        ]
+      },
+      "14": {
+        "id": 91353,
+        "level": 14,
+        "enhance": "+13",
+        "air": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          91353
+        ]
+      }
+    }
+  },
+  "91360": {
+    "name": "Late.299",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "CV",
+      "TB"
+    ],
+    "rarity": 4,
+    "nationality": 8,
+    "type": 8,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/51360.png",
+    "stats": {
+      "1": {
+        "id": 91360,
+        "level": 1,
+        "enhance": "+0",
+        "air": 25,
+        "weapon_id": [
+          91360
+        ]
+      },
+      "2": {
+        "id": 91361,
+        "level": 2,
+        "enhance": "+1",
+        "air": 25,
+        "weapon_id": [
+          91361
+        ]
+      },
+      "3": {
+        "id": 91362,
+        "level": 3,
+        "enhance": "+2",
+        "air": 25,
+        "weapon_id": [
+          91362
+        ]
+      },
+      "4": {
+        "id": 91363,
+        "level": 4,
+        "enhance": "+3",
+        "air": 25,
+        "weapon_id": [
+          91363
+        ]
+      },
+      "5": {
+        "id": 91364,
+        "level": 5,
+        "enhance": "+4",
+        "air": 25,
+        "weapon_id": [
+          91364
+        ]
+      },
+      "6": {
+        "id": 91365,
+        "level": 6,
+        "enhance": "+5",
+        "air": 25,
+        "weapon_id": [
+          91365
+        ]
+      },
+      "7": {
+        "id": 91366,
+        "level": 7,
+        "enhance": "+6",
+        "air": 25,
+        "weapon_id": [
+          91366
+        ]
+      },
+      "8": {
+        "id": 91367,
+        "level": 8,
+        "enhance": "+7",
+        "air": 25,
+        "weapon_id": [
+          91367
+        ]
+      },
+      "9": {
+        "id": 91368,
+        "level": 9,
+        "enhance": "+8",
+        "air": 25,
+        "weapon_id": [
+          91368
+        ]
+      },
+      "10": {
+        "id": 91369,
+        "level": 10,
+        "enhance": "+9",
+        "air": 25,
+        "weapon_id": [
+          91369
+        ]
+      },
+      "11": {
+        "id": 91370,
+        "level": 11,
+        "enhance": "+10",
+        "air": 25,
+        "weapon_id": [
+          91370
+        ]
+      },
+      "12": {
+        "id": 91371,
+        "level": 12,
+        "enhance": "+11",
+        "air": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          91371
+        ]
+      }
+    }
+  },
+  "91380": {
+    "name": "LGL.32",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "CV",
+      "FT"
+    ],
+    "rarity": 3,
+    "nationality": 8,
+    "type": 7,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/51380.png",
+    "stats": {
+      "1": {
+        "id": 91380,
+        "level": 1,
+        "enhance": "+0",
+        "air": 12,
+        "weapon_id": [
+          91380,
+          88020
+        ]
+      },
+      "2": {
+        "id": 91381,
+        "level": 2,
+        "enhance": "+1",
+        "air": 12,
+        "weapon_id": [
+          91381,
+          88021
+        ]
+      },
+      "3": {
+        "id": 91382,
+        "level": 3,
+        "enhance": "+2",
+        "air": 12,
+        "weapon_id": [
+          91382,
+          88022
+        ]
+      },
+      "4": {
+        "id": 91383,
+        "level": 4,
+        "enhance": "+3",
+        "air": 12,
+        "weapon_id": [
+          91383,
+          88023
+        ]
+      },
+      "5": {
+        "id": 91384,
+        "level": 5,
+        "enhance": "+4",
+        "air": 12,
+        "weapon_id": [
+          91384,
+          88024
+        ]
+      },
+      "6": {
+        "id": 91385,
+        "level": 6,
+        "enhance": "+5",
+        "air": 12,
+        "weapon_id": [
+          91385,
+          88025
+        ]
+      },
+      "7": {
+        "id": 91386,
+        "level": 7,
+        "enhance": "+6",
+        "air": 12,
+        "weapon_id": [
+          91386,
+          88026
+        ]
+      },
+      "8": {
+        "id": 91387,
+        "level": 8,
+        "enhance": "+7",
+        "air": 12,
+        "weapon_id": [
+          91387,
+          88027
+        ]
       }
     }
   },

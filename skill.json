@@ -13567,6 +13567,54 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/111100.png",
     "max_level": 10
   },
+  "112010": {
+    "id": 112010,
+    "type": 1,
+    "name": "Transcend Worlds - Limit Released",
+    "desc": "Increases this ship's Main Gun efficiency by 1.0% (10.0%). When this ship finishes loading her Main Guns: this ship enters the Limit Released state, increasing her FP, ACC, and RLD by 5.0% (15.0%) for 10s. When this ship fires her Main Guns: increases this ship's Main Gun Crit Rate by 5.0% (15.0%) for 5s and fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). Every even-numbered time this ship fires her Main Guns: additionally fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/112010.png",
+    "max_level": 10
+  },
+  "112020": {
+    "id": 112020,
+    "type": 1,
+    "name": "Transcend Worlds - Limit Released+",
+    "desc": "Increases this ship's Main Gun efficiency by 1.0% (10.0%). When this ship finishes loading her Main Guns: this ship enters the Limit Released state, increasing her FP, ACC, and RLD by 5.0% (15.0%) for 10s. When this ship fires her Main Guns: increases this ship's Main Gun Crit Rate by 1.0% (10.0%) for 5s and fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). Every even-numbered time this ship fires her Main Guns: additionally fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/112010.png",
+    "max_level": 10
+  },
+  "112030": {
+    "id": 112030,
+    "type": 2,
+    "name": "Heart of Faith",
+    "desc": "When this ship is NOT in the Limit Released state: increases this ship's AA by 1.0% (10.0%) and decreases her DMG taken by 1.0% (10.0%). When this ship is in the Limit Released state: increases this ship's EVA and Evasion Rate by 1.0% (10.0%) and increases her DMG dealt and DMG taken by 1.5% (5.0%). Once per battle, when this ship's HP falls below 20.0% (50.0%) as a result of DMG taken: restores 15.0% of this ship's max HP and this ship enters the Limit Released state.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/112030.png",
+    "max_level": 10
+  },
+  "112050": {
+    "id": 112050,
+    "type": 1,
+    "name": "Death's Domain - Imprisoning Chains",
+    "desc": "Increases this ship's AVI and ACC by 5.0% (15.0%). Every 20s: launches a Lv.1 (Lv.10) special airstrike (DMG is based on the skill's level) that decreases the SPD of enemies hit by 15.0% for 10s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/112050.png",
+    "max_level": 10
+  },
+  "112060": {
+    "id": 112060,
+    "type": 1,
+    "name": "Trial of Death",
+    "desc": "During battle, when this ship's HP is below 50.0%: increases this ship's AVI by 1.0% (10.0%). Every 10s: fires a Lv.1 (Lv.10) special barrage I (DMG is based on the skill's level); enemies hit by barrage I's scythe-shaped shells take 3.5% (8.0%) more DMG from this ship for 5s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/112060.png",
+    "max_level": 10
+  },
+  "112070": {
+    "id": 112070,
+    "type": 1,
+    "name": "Trial of Death+",
+    "desc": "During battle, when this ship's HP is below 70.0%: increases this ship's AVI by 1.0% (10.0%). Every 10s: fires a Lv.1 (Lv.10) special barrage I (DMG is based on the skill's level); enemies hit by barrage I's scythe-shaped shells take 3.5% (8.0%) more DMG from this ship for 5s. Every 20s: fires a Lv.1 (Lv.10) special barrage II (DMG is based on the skill's level) that decreases the SPD of enemies hit by 15.0% for 10s. Once per battle, when this ship takes DMG that would sink her: this ship does not sink, and for 5 (15)s, she evades all attacks.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/112060.png",
+    "max_level": 10
+  },
   "150000": {
     "id": 150000,
     "type": 2,
@@ -17133,6 +17181,62 @@
     "name": "Cinders of Hope - Glorious I",
     "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 3.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801780.png",
+    "max_level": 1
+  },
+  "801800": {
+    "id": 801800,
+    "type": 1,
+    "name": "Nitouryuu - Sunset Glow",
+    "desc": "Every 15s: fires a Lv.1 (Lv.10) special barrage I (DMG is based on the skill's level and this ship's TRP stat); once per barrage, if this barrage hits an enemy: fires a Lv.1 (Lv.10) special barrage II. This skill's barrages inflict a special Burn status on enemies hit for 5s, during which their SPD is decreased by 30.0% and they take 100 fixed DMG every second.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801800.png",
+    "max_level": 10
+  },
+  "801810": {
+    "id": 801810,
+    "type": 1,
+    "name": "Followed by Bloody Shadows",
+    "desc": "When this ship fires her torpedoes: increases this ship's FP and TRP by 1.0% (10.0%) until the battle ends (can be stacked up to 2 times) and summons a Lv.1 (Lv.10) Bloody Shadow that exists up to 10s (the Bloody Shadow's stats are based on this ship's stats and the skill's level); the Bloody Shadow acts independently and attacks using its own weapons.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801810.png",
+    "max_level": 10
+  },
+  "801820": {
+    "id": 801820,
+    "type": 3,
+    "name": "The Roamer's Blade",
+    "desc": "Increases this ship's Evasion Rate by 3.5% (8.0%) and DMG dealt to Cruisers by 5.0% (15.0%). Increases the DMG dealt of this ship's equipped torpedoes against Light and Medium Armor enemies by 5.0% (15.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801820.png",
+    "max_level": 10
+  },
+  "801831": {
+    "id": 801831,
+    "type": 1,
+    "name": "Smoldering Core - Kawakaze I",
+    "desc": "Every 15 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801830.png",
+    "max_level": 1
+  },
+  "801832": {
+    "id": 801832,
+    "type": 1,
+    "name": "Smoldering Core - Kawakaze II",
+    "desc": "Every 10 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801830.png",
+    "max_level": 1
+  },
+  "801835": {
+    "id": 801835,
+    "type": 1,
+    "name": "Smoldering Core - Kawakaze I",
+    "desc": "[Operation Siren]\nEvery 15 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG by 5.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801830.png",
+    "max_level": 1
+  },
+  "801837": {
+    "id": 801837,
+    "type": 1,
+    "name": "Smoldering Core - Kawakaze II",
+    "desc": "[Operation Siren]\nEvery 10 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG by 8.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801830.png",
     "max_level": 1
   },
   "902220": {
