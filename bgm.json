@@ -2735,6 +2735,22 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-room-anchorage.ogg"
   },
+  "story-room-bar": {
+    "title": "螳ｿ闊堺ｼ鷹隆蜷ｧ_shade",
+    "size": 2421699,
+    "duration": 116.3784126984127,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-room-bar.ogg"
+  },
+  "story-room-newjersey": {
+    "title": "黑龙懒洋洋_AL",
+    "size": 3010234,
+    "duration": 174.6140589569161,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-room-newjersey.ogg"
+  },
   "story-room-noshiro": {
     "title": "story-room-noshiro",
     "size": 1763850,

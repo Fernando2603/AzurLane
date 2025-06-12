@@ -2322,7 +2322,7 @@
   "11870": {
     "id": 11870,
     "type": 1,
-    "name": "Divine Marksman+",
+    "name": "Divine Marksman ®",
     "desc": "10s after the battle begins and every $1s after that: fires a special guaranteed Critical Hit barrage ($2 ammo; barrage DMG is based on the skill's level) towards the enemy farthest away from this ship. When your Royal Navy ships automatically fire their Main Guns, they have a higher chance of targetting the enemy hit by this barrage. The first time each battle the barrage is fired, its damage is increased by $3.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/11870.png",
     "max_level": 10
@@ -13571,7 +13571,7 @@
     "id": 112010,
     "type": 1,
     "name": "Transcend Worlds - Limit Released",
-    "desc": "Increases this ship's Main Gun efficiency by 1.0% (10.0%). When this ship finishes loading her Main Guns: 40% (70%) chance to enter the Limit Released state, increasing her FP, ACC, and RLD by 5.0% (15.0%) for 10s. When this ship fires her Main Guns: increases this ship's Main Gun Crit Rate by 5.0% (15.0%) for 5s and, if this ship is in the Limit Released state, fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+    "desc": "Increases this ship's Main Gun efficiency by 1.0% (10.0%). When this ship finishes loading her Main Guns: this ship enters the Limit Released state, increasing her FP, ACC, and RLD by 5.0% (15.0%) for 10s. When this ship fires her Main Guns: increases this ship's Main Gun Crit Rate by 5.0% (15.0%) for 5s and fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). Every even-numbered time this ship fires her Main Guns: additionally fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/112010.png",
     "max_level": 10
   },
@@ -17247,6 +17247,14 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/4050.png",
     "max_level": 1
   },
+  "902310": {
+    "id": 902310,
+    "type": 3,
+    "name": "A Royal's Glory",
+    "desc": "Increases the wearer's ACC by 10.0% and Main Gun Crit DMG by 15.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/10310.png",
+    "max_level": 1
+  },
   "1005080": {
     "id": 1005080,
     "type": 1,
@@ -17309,6 +17317,14 @@
     "name": "Royal Navy's Glory+",
     "desc": "When this ship fires her Main Guns: 70.0% (100.0%) chance to fire an improved forward-facing special barrage (DMG is based on the skill's level) and increase your Main Fleet's RLD by 20.0% (40.0%) for 8s.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/10290.png",
+    "max_level": 10
+  },
+  "1010310": {
+    "id": 1010310,
+    "type": 1,
+    "name": "Divine Marksman+",
+    "desc": "Every 35 (15)s: fires a Lv.1 (Lv.10) special barrage that deals guaranteed Critical DMG at the enemy furthest from this ship (DMG is based on the skill's level).\n5s after the battle starts, and every 35 (15)s after that: this ship performs a Lv.1 (Lv.10) attack with her royal sword (DMG is based on the skill's level; prioritizes humanoid enemies) that inflicts the Marksman's Target status on enemies hit; increases Warspite's DMG dealt to enemies with the Marksman's Target status by 12.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/10310.png",
     "max_level": 10
   },
   "1010340": {
@@ -17447,6 +17463,14 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/10750.png",
     "max_level": 10
   },
+  "1010880": {
+    "id": 1010880,
+    "type": 1,
+    "name": "Lucky Lou+",
+    "desc": "Every 20s: 50.0% (100.0%) chance to increase this ship's FP, RLD, and EVA by 10.0% (30.0%) for 8s and fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). Every 25s: 30.0% (60.0%) chance to inflict the Radar Designated status on all enemies on the battlefield for 10s; decreases your Vanguard's shelling DMG taken from enemies inflicted with the Radar Designated status by 10.0% (20.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/10880.png",
+    "max_level": 10
+  },
   "1010960": {
     "id": 1010960,
     "type": 3,
@@ -17493,6 +17517,14 @@
     "name": "Allies of Justice+",
     "desc": "When sortied with Sheffield: increases this ship's EVA by 5% (15%) and increases this ship's and Sheffield's FP and TRP by 5% (15%).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/11170.png",
+    "max_level": 10
+  },
+  "1011250": {
+    "id": 1011250,
+    "type": 3,
+    "name": "Leyte Gulf's Blitz+",
+    "desc": "Increases this ship's FP by 5.0% (15.0%). Every 20s: 70.0% (100.0%) chance to increase your Cruisers' FP and TRP by 5.0% (20.0%) for 10s and fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/11250.png",
     "max_level": 10
   },
   "1011360": {
@@ -17607,6 +17639,14 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/11710.png",
     "max_level": 10
   },
+  "1011870": {
+    "id": 1011870,
+    "type": 1,
+    "name": "Divine Marksman (R)+",
+    "desc": "Increases this ship's Main Gun efficiency by 1.0% (10.0%).\n10s after the battle starts, and every 35 (15)s after that: fires a Lv.1 (Lv.10) Divine Marksman barrage that deals guaranteed Critical DMG at the enemy furthest from this ship (improved barrage; DMG is based on the skill's level); each battle, the first time this barrage activates: increases its DMG dealt by 80% (130%), and increases the probability that your Royal Navy Main Fleet ships will target the hit enemy with their auto-aimed fire.\n5s after the battle starts, and every 35 (15)s after that: this ship performs a Lv.1 (Lv.10) attack with her royal sword (DMG is based on the skill's level; prioritizes humanoid enemies) that inflicts the Marksman's Target status on enemies hit; increases Warspite's DMG dealt to enemies with the Marksman's Target status by 12.0%.\nWhen this ship's Divine Marksman barrage activates, if there is an enemy with the Marksman's Target status on the battlefield: fires another Divine Marksman barrage, prioritizing said enemy.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/10310.png",
+    "max_level": 10
+  },
   "1011900": {
     "id": 1011900,
     "type": 1,
@@ -17621,6 +17661,14 @@
     "name": "Observer of the Sky and Sea+",
     "desc": "10s after the battle starts: deploys an F6F recon plane and, every 6s, increases this ship's ACC by 2.5% (7.0%) and DMG dealt by 5.0% (15.0%) (can stack up to 3 times). If this recon plane is shot down: fires a special airstrike (DMG is based on the skill's level).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/11940.png",
+    "max_level": 10
+  },
+  "1011960": {
+    "id": 1011960,
+    "type": 1,
+    "name": "The Star of Fjord+",
+    "desc": "Increases this ship's torpedo efficiency by 10.0% (20.0%). Each battle, the first 3 times this ship fires her torpedoes: additionally fires a Lv.1 (Lv.10) improved special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/11960.png",
     "max_level": 10
   },
   "1011970": {
@@ -17749,6 +17797,14 @@
     "name": "The Smiling Sawfish+",
     "desc": "Increases this boat's TRP by 4.0% (10.0%) and Torpedo Crit Rate by 10.0% (20.0%). At the beginning of battle, fires a Lv.1 (Lv.10) torpedo barrage (pattern and DMG are based on the skill's level); if there are other ships afloat in your Submarine Fleet, this barrage's pattern is further improved.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/13550.png",
+    "max_level": 10
+  },
+  "1013880": {
+    "id": 1013880,
+    "type": 1,
+    "name": "Iron Blood Falcon+",
+    "desc": "When this ship launches an airstrike: 50.0% (100.0%) chance to launch an additional Torpedo Bomber airstrike (DMG is based on the skill's level); when this effect activates, sets the SPD of all enemies to 0 for 3s. Increases your Iron Blood ships' DMG dealt to enemies with 0 SPD by 10.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/13880.png",
     "max_level": 10
   },
   "1014070": {
