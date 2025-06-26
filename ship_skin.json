@@ -3489,7 +3489,7 @@
         "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/179.png",
         "background2": null,
         "painting": null,
-        "painting_n": null,
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105093/painting_n.png",
         "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105093/banner.png",
         "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105093/chibi.png",
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105093/icon.png",
@@ -35499,6 +35499,30 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/408101/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/408101/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/408101/shipyard.png"
+      },
+      "408102": {
+        "id": 408102,
+        "gid": 40810,
+        "name": "Keeping Peace in the Streets",
+        "type": "Special Exercise",
+        "desc": "There ya are, Partner! I'm tellin' ya, these punks running around the port are getting bolder and bolder. It's time someone cracked down on 'em! Anyway, I'll handle this stuff like usual – you go and do your thing, Partner.",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 256,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/529.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/408102/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/408102/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/408102/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/408102/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/408102/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/408102/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/408102/shipyard.png"
       }
     }
   },
@@ -39507,6 +39531,30 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/607021/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/607021/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/607021/shipyard.png"
+      },
+      "607022": {
+        "id": 607022,
+        "gid": 60702,
+        "name": "Drunken Drowsy Dreamer",
+        "type": "On The Job",
+        "desc": "Ugh... I don't wanna work... I don't wanna work... I don't wanna work... Commander? Finished your overtime shift? Great timing... Come and drink with me!",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 309,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/190.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/607022/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/607022/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/607022/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/607022/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/607022/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/607022/shipyard.png"
       }
     }
   },
@@ -49480,6 +49528,164 @@
       }
     }
   },
+  "40407": {
+    "gid": 40407,
+    "name": "Admiral Zenker",
+    "skins": {
+      "404070": {
+        "id": 404070,
+        "gid": 40407,
+        "name": "Admiral Zenker",
+        "type": "Default",
+        "desc": "Type 1928 battlecruiser – Admiral Zenker.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 460,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": null,
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/404070/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/404070/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/404070/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/404070/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/404070/shipyard.png"
+      },
+      "404071": {
+        "id": 404071,
+        "gid": 40407,
+        "name": "Fun with...Interrogations?",
+        "type": "Special Exercise",
+        "desc": "You want me to spill the beans? Heh. Hate to disappoint you... Phew... Did that sound good? I thought up other responses I could try, too.",
+        "tag": [
+          "live2d",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 460,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/131.png",
+        "background2": null,
+        "painting": null,
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/404071/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/404071/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/404071/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/404071/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/404071/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/404071/shipyard.png"
+      }
+    }
+  },
+  "40814": {
+    "gid": 40814,
+    "name": "U-552",
+    "skins": {
+      "408140": {
+        "id": 408140,
+        "gid": 40814,
+        "name": "U-552",
+        "type": "Default",
+        "desc": "Type VIIC submarine – U-552.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 461,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/408140/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/408140/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/408140/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/408140/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/408140/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/408140/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/408140/shipyard.png"
+      },
+      "408141": {
+        "id": 408141,
+        "gid": 40814,
+        "name": "Special Sightseeing Service",
+        "type": "Special Exercise",
+        "desc": "Ahem... Excuse me, since you've come aboard on our special sightseeing tour, please do try to keep up with me. Rest assured, this bus is perfectly safe and I can promise you a good time.",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 461,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/170.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/408141/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/408141/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/408141/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/408141/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/408141/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/408141/shipyard.png"
+      }
+    }
+  },
+  "40113": {
+    "gid": 40113,
+    "name": "Z13",
+    "skins": {
+      "401130": {
+        "id": 401130,
+        "gid": 40113,
+        "name": "Z13",
+        "type": "Default",
+        "desc": "Type 1934A destroyer – Z13.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 462,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": null,
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/401130/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/401130/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/401130/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/401130/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/401130/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/401130/shipyard.png"
+      },
+      "401131": {
+        "id": 401131,
+        "gid": 40113,
+        "name": "Strategic Date Solution",
+        "type": "On The Job",
+        "desc": "...Yes, I know I'm on the clock, but taking productive breaks helps raise your working efficiency afterward! You should take one, too – come sit and kill time wi– Ahem! I mean, come sit and have a break with me!",
+        "tag": [
+          "live2d",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 462,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/185.png",
+        "background2": null,
+        "painting": null,
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/401131/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/401131/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/401131/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/401131/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/401131/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/401131/shipyard.png"
+      }
+    }
+  },
   "40316": {
     "gid": 40316,
     "name": "Little Ägir",
@@ -52945,6 +53151,30 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/299012/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/299012/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/299012/shipyard.png"
+      },
+      "299013": {
+        "id": 299013,
+        "gid": 29901,
+        "name": "Officer Bunneptune Is on the Case!",
+        "type": "Special Exercise",
+        "desc": "Step aside, officer comin' through! Oh, here already, advisor? Did you find any good clues? ...No? Heheh, watch and see how the pros do it!",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 103,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/154.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/299013/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/299013/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/299013/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/299013/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/299013/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/299013/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/299013/shipyard.png"
       }
     }
   },
@@ -53728,6 +53958,31 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/399041/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/399041/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/399041/shipyard.png"
+      },
+      "399042": {
+        "id": 399042,
+        "gid": 39904,
+        "name": "Career Counseling for the Groom",
+        "type": "On The Job",
+        "desc": "Graduation is approaching, and that means it's time for career counseling. Do you want to be a great general who wins with impossible tactics, or a leader beloved by all the port? Which will it be, Commander? Or... Heehee, I already know your plan.",
+        "tag": [
+          "live2d",
+          "bg"
+        ],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 175,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/602.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/399042/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/399042/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/399042/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/399042/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/399042/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/399042/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/399042/shipyard.png"
       },
       "399048": {
         "id": 399048,

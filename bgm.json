@@ -303,6 +303,14 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-donghuang-static.ogg"
   },
+  "battle-dos-onstage": {
+    "title": "维序展开_PX",
+    "size": 1703291,
+    "duration": 76.65066666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-dos-onstage.ogg"
+  },
   "battle-eagleunion": {
     "title": "鮖ｰ蜃ｻ髟ｿ遨ｺ_AL",
     "size": 2180036,
@@ -2782,6 +2790,14 @@
     "bitrate": 160.0,
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-shenguang-holy.ogg"
+  },
+  "story-spycity-fashion": {
+    "title": "霑ｷ蠖ｩ驛ｽ蟶り｡悟勘_PV",
+    "size": 1515709,
+    "duration": 75.072,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-spycity-fashion.ogg"
   },
   "story-startravel": {
     "title": "譏滄龍鬟樣ｩｰ_AL",

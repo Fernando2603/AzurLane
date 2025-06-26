@@ -12167,6 +12167,22 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30470.png",
     "max_level": 1
   },
+  "30481": {
+    "id": 30481,
+    "type": 1,
+    "name": "All Out Assault – U-552 I",
+    "desc": "When this boat leaves the battle: activates All Out Assault – U-552 I, firing a special barrage that is guaranteed to critically hit. If another Iron Blood submarine is in the same fleet: improves this barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30480.png",
+    "max_level": 1
+  },
+  "30482": {
+    "id": 30482,
+    "type": 1,
+    "name": "All Out Assault – U-552 II",
+    "desc": "When this boat leaves the battle: activates All Out Assault – U-552 II, firing a special barrage that is guaranteed to critically hit. If another Iron Blood submarine is in the same fleet: improves this barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30480.png",
+    "max_level": 1
+  },
   "101010": {
     "id": 101010,
     "type": 3,
@@ -14621,6 +14637,54 @@
     "name": "Guidance of the Stars",
     "desc": "Increases this ship's EVA by 5.0% (15.0%). When the battle starts: decreases your fleet's aircraft DMG taken by 1.0% (5.0%); if there is another Royal Navy ship in your fleet, further decreases the aircraft DMG taken by 1.0% (5.0%). Every 10s: this ship performs a horoscope reading, increasing the FP or TRP of your Royal Navy Vanguard ships by 4.5% (12.0%) for 8s, then picks a random enemy and decreases that enemy's FP or TRP (based on which of the above two stats was chosen) by 3.5% (8.0%) for 8s; when this effect activates, if there are 2 or more surface enemies present, this effect activates an additional time.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151290.png",
+    "max_level": 10
+  },
+  "151320": {
+    "id": 151320,
+    "type": 1,
+    "name": "Threshold Computation",
+    "desc": "Increases this ship's FP and RLD by 5.0% (15.0%). When this ship's Main Guns finish loading: delivers a judgment, activating one of the following effects based on the number of enemies present on the battlefield:\n1) 2 or more: fires a Lv.1 (Lv.10) special barrage I (DMG is based on the skill's level);\n2) 1 or fewer: fires a Lv.1 (Lv.10) special barrage II (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151320.png",
+    "max_level": 10
+  },
+  "151330": {
+    "id": 151330,
+    "type": 3,
+    "name": "Concordance Formulation",
+    "desc": "During battle, decreases this ship's DMG taken by 5.0% (15.0%) and increases her DMG dealt by 4.0% (10.0%). When the battle starts, if this ship is the Flagship: increases your Vanguard's EVA and RLD by 3.5% (8.0%) and your Main Fleet's FP and ACC by 3.5% (8.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151330.png",
+    "max_level": 10
+  },
+  "151340": {
+    "id": 151340,
+    "type": 1,
+    "name": "Bespoke Tactics!",
+    "desc": "When the battle starts, and every 15s: triggers Torpedo Tactics, activating 1 of the following effects at random: 1) Increases this ship's TRP by 10.0% (20.0%) for 15s; 2) Increases this ship's TRP by 15.0% (30.0%) for 15s; 3) Increases this ship's TRP by 20.0% (50.0%) for 15s.\nEvery 20s: fires a Lv.1 (Lv.10) special torpedo barrage (DMG is based on the skill's level and which of the Torpedo Tactics activated).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151340.png",
+    "max_level": 10
+  },
+  "151350": {
+    "id": 151350,
+    "type": 2,
+    "name": "Consultant's Gotta Strut!",
+    "desc": "Decreases this ship's shelling DMG taken by 1.0% (10.0%). Once per battle, when this ship's HP falls below 50.0% as a result of DMG taken: deploys a barrier (lasting until the battle ends) that can negate DMG equal to 1.0% (10.0%) of this ship's max HP. When this barrier is destroyed: increases this ship's EVA by 5.0% (15.0%) until the battle ends.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151350.png",
+    "max_level": 10
+  },
+  "151360": {
+    "id": 151360,
+    "type": 1,
+    "name": "Roter Teufel",
+    "desc": "When the battle starts: this boat will surface for 10s and perform surface attacks during this duration, after which she will dive and leave the battle (gains 100% SPD while leaving battle). During these surface attacks: this boat takes 20% (60%) reduced DMG and launches a Lv.1 (Lv.10) special barrage every 3s (DMG is based on the skill's level); enemies hit by this barrage take 10.0% more DMG from this boat for 10s (does not stack).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151360.png",
+    "max_level": 10
+  },
+  "151370": {
+    "id": 151370,
+    "type": 1,
+    "name": "Wolf Pack Tactics - U-552",
+    "desc": "Increases the DMG this boat deals to Light Armor enemies by 4% (10%). Additionally increases this boat's TRP and EVA by 1.5% (5.0%) for every Iron Blood submarine in the fleet.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151370.png",
     "max_level": 10
   },
   "250011": {
