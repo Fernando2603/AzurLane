@@ -21147,6 +21147,166 @@
       }
     }
   },
+  "14480": {
+    "name": "Prototype Triple 406mm/45 MK7 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "BB",
+      "MG",
+      "AP"
+    ],
+    "rarity": 5,
+    "nationality": 1,
+    "type": 4,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/14480.png",
+    "stats": {
+      "1": {
+        "id": 14480,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "71 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          14480
+        ]
+      },
+      "2": {
+        "id": 14481,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "81 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          14481
+        ]
+      },
+      "3": {
+        "id": 14482,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "91 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          14482
+        ]
+      },
+      "4": {
+        "id": 14483,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "99 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          14483
+        ]
+      },
+      "5": {
+        "id": 14484,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "109 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          14484
+        ]
+      },
+      "6": {
+        "id": 14485,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "119 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          14485
+        ]
+      },
+      "7": {
+        "id": 14486,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "129 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          14486
+        ]
+      },
+      "8": {
+        "id": 14487,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "139 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          14487
+        ]
+      },
+      "9": {
+        "id": 14488,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "147 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          14488
+        ]
+      },
+      "10": {
+        "id": 14489,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "157 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          14489
+        ]
+      },
+      "11": {
+        "id": 14490,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "167 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          14490
+        ]
+      },
+      "12": {
+        "id": 14491,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "167 x 3",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          14491
+        ]
+      },
+      "13": {
+        "id": 14492,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "167 x 3",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          14492
+        ]
+      },
+      "14": {
+        "id": 14493,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "167 x 3",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          14493
+        ]
+      }
+    }
+  },
   "14500": {
     "name": "Prototype Twin 457mm Mk A Main Gun Mount",
     "desc": "No description",
@@ -64979,6 +65139,166 @@
       }
     }
   },
+  "44320": {
+    "name": "Prototype Quadruple 305mm SKC39 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "KMS",
+      "BB",
+      "MG",
+      "AP"
+    ],
+    "rarity": 6,
+    "nationality": 4,
+    "type": 4,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/44320.png",
+    "stats": {
+      "1": {
+        "id": 44320,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "59 x 4",
+        "cannon": 65,
+        "weapon_id": [
+          44320
+        ]
+      },
+      "2": {
+        "id": 44321,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "65 x 4",
+        "cannon": 65,
+        "weapon_id": [
+          44321
+        ]
+      },
+      "3": {
+        "id": 44322,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "69 x 4",
+        "cannon": 65,
+        "weapon_id": [
+          44322
+        ]
+      },
+      "4": {
+        "id": 44323,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "75 x 4",
+        "cannon": 65,
+        "weapon_id": [
+          44323
+        ]
+      },
+      "5": {
+        "id": 44324,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "79 x 4",
+        "cannon": 65,
+        "weapon_id": [
+          44324
+        ]
+      },
+      "6": {
+        "id": 44325,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "83 x 4",
+        "cannon": 65,
+        "weapon_id": [
+          44325
+        ]
+      },
+      "7": {
+        "id": 44326,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "89 x 4",
+        "cannon": 65,
+        "weapon_id": [
+          44326
+        ]
+      },
+      "8": {
+        "id": 44327,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "93 x 4",
+        "cannon": 65,
+        "weapon_id": [
+          44327
+        ]
+      },
+      "9": {
+        "id": 44328,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "99 x 4",
+        "cannon": 65,
+        "weapon_id": [
+          44328
+        ]
+      },
+      "10": {
+        "id": 44329,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "103 x 4",
+        "cannon": 65,
+        "weapon_id": [
+          44329
+        ]
+      },
+      "11": {
+        "id": 44330,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "107 x 4",
+        "cannon": 65,
+        "weapon_id": [
+          44330
+        ]
+      },
+      "12": {
+        "id": 44331,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "107 x 4",
+        "cannon": 65,
+        "anti_siren": 1,
+        "weapon_id": [
+          44331
+        ]
+      },
+      "13": {
+        "id": 44332,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "107 x 4",
+        "cannon": 65,
+        "anti_siren": 2,
+        "weapon_id": [
+          44332
+        ]
+      },
+      "14": {
+        "id": 44333,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "107 x 4",
+        "cannon": 65,
+        "anti_siren": 3,
+        "weapon_id": [
+          44333
+        ]
+      }
+    }
+  },
   "44400": {
     "name": "Prototype Triple 305mm SK C/39 Main Gun",
     "desc": "No description",
@@ -65135,6 +65455,166 @@
         "anti_siren": 3,
         "weapon_id": [
           44413
+        ]
+      }
+    }
+  },
+  "44420": {
+    "name": "Prototype Triple 283mm/54.5 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "HNLMS",
+      "CA",
+      "MG",
+      "HE"
+    ],
+    "rarity": 5,
+    "nationality": 11,
+    "type": 11,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/44420.png",
+    "stats": {
+      "1": {
+        "id": 44420,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "40 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          44420
+        ]
+      },
+      "2": {
+        "id": 44421,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "46 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          44421
+        ]
+      },
+      "3": {
+        "id": 44422,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "50 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          44422
+        ]
+      },
+      "4": {
+        "id": 44423,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "56 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          44423
+        ]
+      },
+      "5": {
+        "id": 44424,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "60 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          44424
+        ]
+      },
+      "6": {
+        "id": 44425,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "64 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          44425
+        ]
+      },
+      "7": {
+        "id": 44426,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "70 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          44426
+        ]
+      },
+      "8": {
+        "id": 44427,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "74 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          44427
+        ]
+      },
+      "9": {
+        "id": 44428,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "80 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          44428
+        ]
+      },
+      "10": {
+        "id": 44429,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "84 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          44429
+        ]
+      },
+      "11": {
+        "id": 44430,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "88 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          44430
+        ]
+      },
+      "12": {
+        "id": 44431,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "88 x 3",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          44431
+        ]
+      },
+      "13": {
+        "id": 44432,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "88 x 3",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          44432
+        ]
+      },
+      "14": {
+        "id": 44433,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "88 x 3",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          44433
         ]
       }
     }
@@ -74475,6 +74955,166 @@
         "anti_siren": 3,
         "weapon_id": [
           85633
+        ]
+      }
+    }
+  },
+  "85640": {
+    "name": "Prototype Triple 180mm B-1-P Model 1932 (Impr.) Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "SN",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 5,
+    "nationality": 7,
+    "type": 2,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/85640.png",
+    "stats": {
+      "1": {
+        "id": 85640,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "27 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85640
+        ]
+      },
+      "2": {
+        "id": 85641,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "27 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85641
+        ]
+      },
+      "3": {
+        "id": 85642,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "28 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85642
+        ]
+      },
+      "4": {
+        "id": 85643,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "29 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85643
+        ]
+      },
+      "5": {
+        "id": 85644,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "30 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85644
+        ]
+      },
+      "6": {
+        "id": 85645,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "31 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85645
+        ]
+      },
+      "7": {
+        "id": 85646,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "32 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85646
+        ]
+      },
+      "8": {
+        "id": 85647,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "33 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85647
+        ]
+      },
+      "9": {
+        "id": 85648,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "34 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85648
+        ]
+      },
+      "10": {
+        "id": 85649,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "35 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85649
+        ]
+      },
+      "11": {
+        "id": 85650,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "36 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85650
+        ]
+      },
+      "12": {
+        "id": 85651,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "36 x 3",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          85651
+        ]
+      },
+      "13": {
+        "id": 85652,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "36 x 3",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          85652
+        ]
+      },
+      "14": {
+        "id": 85653,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "36 x 3",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          85653
         ]
       }
     }
@@ -90343,6 +90983,325 @@
         "anti_siren": 3,
         "weapon_id": [
           96253
+        ]
+      }
+    }
+  },
+  "96260": {
+    "name": "Prototype Sextuple 20mm Scotti Model 1941 Anti-Air Gun",
+    "desc": "No description",
+    "label": [
+      "RN",
+      "ST",
+      "AA"
+    ],
+    "rarity": 5,
+    "nationality": 6,
+    "type": 6,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/56260.png",
+    "stats": {
+      "1": {
+        "id": 96260,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "49<[WAVE]>",
+        "antiaircraft": 45,
+        "weapon_id": [
+          96260
+        ]
+      },
+      "2": {
+        "id": 96261,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "55<[WAVE]>",
+        "antiaircraft": 45,
+        "weapon_id": [
+          96261
+        ]
+      },
+      "3": {
+        "id": 96262,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "61<[WAVE]>",
+        "antiaircraft": 45,
+        "weapon_id": [
+          96262
+        ]
+      },
+      "4": {
+        "id": 96263,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "67<[WAVE]>",
+        "antiaircraft": 45,
+        "weapon_id": [
+          96263
+        ]
+      },
+      "5": {
+        "id": 96264,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "76<[WAVE]>",
+        "antiaircraft": 45,
+        "weapon_id": [
+          96264
+        ]
+      },
+      "6": {
+        "id": 96265,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "85<[WAVE]>",
+        "antiaircraft": 45,
+        "weapon_id": [
+          96265
+        ]
+      },
+      "7": {
+        "id": 96266,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "94<[WAVE]>",
+        "antiaircraft": 45,
+        "weapon_id": [
+          96266
+        ]
+      },
+      "8": {
+        "id": 96267,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "103<[WAVE]>",
+        "antiaircraft": 45,
+        "weapon_id": [
+          96267
+        ]
+      },
+      "9": {
+        "id": 96268,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "112<[WAVE]>",
+        "antiaircraft": 45,
+        "weapon_id": [
+          96268
+        ]
+      },
+      "10": {
+        "id": 96269,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "121<[WAVE]>",
+        "antiaircraft": 45,
+        "weapon_id": [
+          96269
+        ]
+      },
+      "11": {
+        "id": 96270,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "130<[WAVE]>",
+        "antiaircraft": 45,
+        "weapon_id": [
+          96270
+        ]
+      },
+      "12": {
+        "id": 96271,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "130<[WAVE]>",
+        "antiaircraft": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          96271
+        ]
+      },
+      "13": {
+        "id": 96272,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "130<[WAVE]>",
+        "antiaircraft": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          96272
+        ]
+      },
+      "14": {
+        "id": 96273,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "130<[WAVE]>",
+        "antiaircraft": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          96273
+        ]
+      }
+    }
+  },
+  "96280": {
+    "name": "Prototype Quadruple 533mm Si 270 Torpedo Mount",
+    "desc": "No description",
+    "label": [
+      "RN",
+      "ST",
+      "TP",
+      "DUO-DUO"
+    ],
+    "rarity": 5,
+    "nationality": 6,
+    "type": 5,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/56280.png",
+    "stats": {
+      "1": {
+        "id": 96280,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "55 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96280
+        ]
+      },
+      "2": {
+        "id": 96281,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "63 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96281
+        ]
+      },
+      "3": {
+        "id": 96282,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "71 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96282
+        ]
+      },
+      "4": {
+        "id": 96283,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "79 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96283
+        ]
+      },
+      "5": {
+        "id": 96284,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "87 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96284
+        ]
+      },
+      "6": {
+        "id": 96285,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "95 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96285
+        ]
+      },
+      "7": {
+        "id": 96286,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "103 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96286
+        ]
+      },
+      "8": {
+        "id": 96287,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "111 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96287
+        ]
+      },
+      "9": {
+        "id": 96288,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "119 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96288
+        ]
+      },
+      "10": {
+        "id": 96289,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "127 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96289
+        ]
+      },
+      "11": {
+        "id": 96290,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "135 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          96290
+        ]
+      },
+      "12": {
+        "id": 96291,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "135 x 4",
+        "torpedo": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          96291
+        ]
+      },
+      "13": {
+        "id": 96292,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "135 x 4",
+        "torpedo": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          96292
+        ]
+      },
+      "14": {
+        "id": 96293,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "135 x 4",
+        "torpedo": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          96293
         ]
       }
     }

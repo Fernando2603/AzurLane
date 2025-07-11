@@ -7887,6 +7887,86 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/19870.png",
     "max_level": 10
   },
+  "19890": {
+    "id": 19890,
+    "type": 1,
+    "name": "Ultimatum: Flügelsturm",
+    "desc": "10s after the battle starts, and every 20s after that: fires a Lv.1 (Lv.10) special barrage I (DMG is based on the skill's level) that increases this ship's DMG dealt by 3.5% (8.0%) against enemies hit by the barrage.\nWhen this ship fires her Main Guns: fires a Lv.1 (Lv.10) special barrage II (DMG is based on the skill's level) and applies the following effects to a randomly chosen enemy for 8s:\n1) Increases this ship's Crit Rate by 1.0% (10.0%) and Crit DMG dealt by 10.0% (20.0%) when hitting that enemy;\n2) Increases that enemy's DMG taken by 1.0% (5.0%). If that enemy is affected by a pulling effect: further increases their DMG taken by 1.0% (5.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/19890.png",
+    "max_level": 10
+  },
+  "19900": {
+    "id": 19900,
+    "type": 3,
+    "name": "Origination: Principia Reconstruction",
+    "desc": "Increases this ship's FP and ACC by 5.0% (15.0%), decreases this ship's Main Gun Spread by 0.5 (5), and increases her DMG modifier against Heavy Armor enemies by 5.0% (15.0%). When there is another Iron Blood ship in your Main Fleet: increases this ship's RLD by 5.0% (15.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/19900.png",
+    "max_level": 10
+  },
+  "19910": {
+    "id": 19910,
+    "type": 2,
+    "name": "Overlimit: Unbreakable Barrier",
+    "desc": "Increases this ship's EVA and AA by 5.0% (15.0%). While this ship's HP is above 50.0%: tanks 50.0% of the DMG received by your Flagship (does not apply if this ship is your Flagship); once per battle, when this ship's HP falls below 50.0% as a result of DMG taken: this ship evades all attacks for 3s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/19910.png",
+    "max_level": 10
+  },
+  "19920": {
+    "id": 19920,
+    "type": 1,
+    "name": "Starfall",
+    "desc": "During battle, a Lv.1 (Lv.10) Bombing Raid periodically becomes available. The Bombing Raid will strike a designated area, and a Lv.1 (Lv.10) special attack will be performed alongside it (Bombing Raid's and special attack's DMG dealt is based on the skill's level and the level of the Bombing Raid). Both of these attacks inflict a special Burn ailment for 9s to enemies hit, applying the following effects:\n1) DMG taken from HE shells increases by 5.0%;\n2) Affected enemies take 349 DMG every 3s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/19920.png",
+    "max_level": 10
+  },
+  "19930": {
+    "id": 19930,
+    "type": 3,
+    "name": "Nature's Blessing",
+    "desc": "Increases this ship's ACC and EVA by 5.0% (15.0%) and decreases her shelling DMG taken by 1.0% (10.0%). When the 2nd and 3rd Bombing Raids activate: restores HP equal to 3.0% of their max HP to this ship as well as the ship in your fleet with the current lowest HP and increases your fleet's AA by 1.0% (10.0%) until the battle ends (can be stacked up to 2 times).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/19930.png",
+    "max_level": 10
+  },
+  "19940": {
+    "id": 19940,
+    "type": 1,
+    "name": "Spiritual Echoes",
+    "desc": "Every 4 times this ship fires her Main Guns: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). If this ship has a large-caliber Main Gun equipped: increases this ship's Main Gun and Secondary Gun efficiency by 5.0% (15.0%) and changes the special barrage's pattern; if this ship does NOT have one equipped, this ship's Main Guns instead ignore enemy shields.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/19940.png",
+    "max_level": 10
+  },
+  "19950": {
+    "id": 19950,
+    "type": 2,
+    "name": "Ambrosial Arc's Moonhaze",
+    "desc": "When this ship fires her torpedoes: deploys Lv.1 (Lv.10) Exhaust Haze and deploys another instance of it every 0.5s for 3s. Exhaust Haze lasts for 1s, and its effect only applies to Vittorio Cuniberti; while she is inside the Exhaust Haze, her Evasion Rate is increased by 20.0% (40.0%).\nEvery time this ship deploys Exhaust Haze: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). Every 15 times this barrage scores a hit: restores 1.5% of this ship's max HP and fires a Lv.1 (Lv.10) special wave of torpedoes (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/19950.png",
+    "max_level": 10
+  },
+  "19960": {
+    "id": 19960,
+    "type": 3,
+    "name": "Insight Upon a Starry Night",
+    "desc": "Increases this ship's FP and TRP by 5.0% (15.0%) and decreases her shelling DMG taken by 1.0% (10.0%) from enemies slower than her. While Vittorio Cuniberti is within Exhaust Haze, her FP and TRP is increased by 10.0% (30.0%), but she cannot receive the effects of Smokescreen skills.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/19960.png",
+    "max_level": 10
+  },
+  "19980": {
+    "id": 19980,
+    "type": 1,
+    "name": "Chargeburst",
+    "desc": "When this ship fires her Main Guns, the final volley prioritizes humanoid enemies. Every 8s: gives this ship 1 stack of Charge (can be stacked up to 3 times); increases her AA by 1.5% (6.0%) for each stack she has.\nWhen this ship fires her Main Guns: spends all Charge and increases this ship's FP by 1.5% (6.0%) for 5s per each Charge spent and fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); when this effect activates, the following effects apply for 5s based on the number of Charge stacks spent:\n1) 1+ spent: increases this ship's Main Gun Crit Rate by 5.0% (15.0%);\n2) 2+ spent: increases this ship's DMG dealt by 1.0% (10.0%);\n3) 3 spent: improves the special barrage and increases this ship's Crit DMG by 5.0% (15.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/19980.png",
+    "max_level": 10
+  },
+  "19990": {
+    "id": 19990,
+    "type": 2,
+    "name": "Bladebreaker's Bastion",
+    "desc": "Increases this ship's ACC and RLD by 1.0% (10.0%) and decreases this ship's torpedo DMG taken by 10.0% (20.0%). During battle, when this ship takes DMG: 1.0% (10.0%) chance to decreases that DMG instance by 70.0%. When this ship's HP falls below 50.0%: deploys a barrier (lasting 5s; 20s cooldown between activations) that can negate DMG equal to 1.0% (10.0%) of this ship's max HP; increases this ship's EVA by 1.0% (10.0%) while this shield exists.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/19990.png",
+    "max_level": 10
+  },
   "20011": {
     "id": 20011,
     "type": 1,
@@ -12183,6 +12263,38 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30480.png",
     "max_level": 1
   },
+  "30491": {
+    "id": 30491,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Vittorio Cuniberti once every 15 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30490.png",
+    "max_level": 1
+  },
+  "30492": {
+    "id": 30492,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Vittorio Cuniberti once every 10 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30490.png",
+    "max_level": 1
+  },
+  "30501": {
+    "id": 30501,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Dmitri Donskoi once every 15 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30500.png",
+    "max_level": 1
+  },
+  "30502": {
+    "id": 30502,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Dmitri Donskoi once every 10 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30500.png",
+    "max_level": 1
+  },
   "101010": {
     "id": 101010,
     "type": 3,
@@ -14685,6 +14797,22 @@
     "name": "Wolf Pack Tactics - U-552",
     "desc": "Increases the DMG this boat deals to Light Armor enemies by 4% (10%). Additionally increases this boat's TRP and EVA by 1.5% (5.0%) for every Iron Blood submarine in the fleet.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151370.png",
+    "max_level": 10
+  },
+  "190000": {
+    "id": 190000,
+    "type": 3,
+    "name": "Steelsurge Concerto",
+    "desc": "When the battle starts, if this ship has a Main Gun equipped that fires AP ammo: increases this ship's Crit Rate and Crit DMG by 5.0% (15.0%) and Main Gun efficiency by 1.0% (10.0%). When the battle starts: randomly selects a BB or BC in your fleet and gives her the Concerted Strike status; when the ship with this status fires her Main Guns, Dmitri Donskoi fires a Lv.1 (Lv.10) AP barrage (DMG is based on the skill's level) and inflicts the Pierced Mark status (lasting 5s; increases AP DMG taken by 5.0%) on all enemies on the battlefield (does not stack). Increases this ship's DMG dealt against enemies with the Pierced Mark status by 10.0% (20.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/190000.png",
+    "max_level": 10
+  },
+  "190010": {
+    "id": 190010,
+    "type": 2,
+    "name": "Winter Survival Rules",
+    "desc": "When the battle starts, if this ship is NOT the frontmost ship of your Vanguard: decreases this ship's shelling DMG taken by 5.0% (15.0%) and increases her EVA by 5.0% (15.0%). Every 10s after the battle starts: increases this ship's FP by 1.5% (5.0%) and AA by 1.0% (10.0%) (can be stacked up to 3 times). Once per battle, when this ship's HP falls below 50.0%: this ship evades all attacks for 5s and recovers 10.0% of her max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/190010.png",
     "max_level": 10
   },
   "250011": {
@@ -17527,6 +17655,14 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/10750.png",
     "max_level": 10
   },
+  "1010790": {
+    "id": 1010790,
+    "type": 3,
+    "name": "Fifth Carrier Division+",
+    "desc": "Increases this ship's AVI by 12.0% (30.0%) and ACC by 10.0% (20.0%). When sortied with Zuikaku: increases this ship's and Zuikaku's DMG dealt by 3.5% (8.0%) and decreases their DMG taken by 1.0% (10.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/10790.png",
+    "max_level": 10
+  },
   "1010880": {
     "id": 1010880,
     "type": 1,
@@ -18268,6 +18404,14 @@
     "type": 1,
     "name": "Full Firepower - Köln",
     "desc": "Every 20s: 50.0% (80.0%) chance to increase this ship's FP by 20.0% (40.0%) for 10s; when this effect activates: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level; barrage pattern is determined at random).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/2010.png",
+    "max_level": 10
+  },
+  "1090420": {
+    "id": 1090420,
+    "type": 1,
+    "name": "Full Firepower - Grozny",
+    "desc": "Increases this ship's TRP and Main Gun and torpedo efficiency by 5% (15%). Every 20s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) and, with a 70.0% (100.0%) chance, increases this ship's FP by 20.0% (40.0%) for 10s.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/2010.png",
     "max_level": 10
   },
