@@ -112791,7 +112791,8 @@
     "class": "Dresden-class & Königsberg Class",
     "nationality": 4,
     "obtain": [
-      "Event: Rondo at Rainbow's End"
+      "Event: Rondo at Rainbow's End",
+      "Light ship Construction"
     ],
     "type": 2,
     "rarity": 5,
@@ -113034,7 +113035,8 @@
     "class": "Pillau Class",
     "nationality": 4,
     "obtain": [
-      "Event: Rondo at Rainbow's End"
+      "Event: Rondo at Rainbow's End",
+      "Light ship Construction"
     ],
     "type": 2,
     "rarity": 4,
@@ -115923,7 +115925,8 @@
     "class": "Roon Class",
     "nationality": 4,
     "obtain": [
-      "Event: Rondo at Rainbow's End"
+      "Event: Rondo at Rainbow's End",
+      "Heavy Ship Construction"
     ],
     "type": 3,
     "rarity": 4,
@@ -117802,7 +117805,8 @@
     "class": "Seydlitz",
     "nationality": 4,
     "obtain": [
-      "Event: Rondo at Rainbow's End"
+      "Event: Rondo at Rainbow's End",
+      "Heavy Ship Construction"
     ],
     "type": 4,
     "rarity": 5,
@@ -118037,7 +118041,8 @@
     "class": "Derfflinger Class",
     "nationality": 4,
     "obtain": [
-      "Event: Rondo at Rainbow's End"
+      "Event: Rondo at Rainbow's End",
+      "Heavy Ship Construction"
     ],
     "type": 4,
     "rarity": 5,
@@ -119662,7 +119667,8 @@
     "class": "Helgoland Class",
     "nationality": 4,
     "obtain": [
-      "Event: Rondo at Rainbow's End"
+      "Event: Rondo at Rainbow's End",
+      "Merit Shop"
     ],
     "type": 5,
     "rarity": 4,
@@ -128319,40 +128325,40 @@
     },
     "growth": {
       "499101": {
-        "health": 0,
-        "firepower": 0,
-        "torpedo": 0,
-        "antiair": 0,
+        "health": 45699,
+        "firepower": 2058,
+        "torpedo": 1245,
+        "antiair": 1051,
         "aviation": 0,
-        "reload": 0,
-        "accuracy": 0,
-        "evasion": 0,
+        "reload": 426,
+        "accuracy": 324,
+        "evasion": 240,
         "speed": 0,
         "luck": 0,
         "asw": 0
       },
       "499102": {
-        "health": 0,
-        "firepower": 0,
-        "torpedo": 0,
-        "antiair": 0,
+        "health": 45699,
+        "firepower": 2058,
+        "torpedo": 1245,
+        "antiair": 1051,
         "aviation": 0,
-        "reload": 0,
-        "accuracy": 0,
-        "evasion": 0,
+        "reload": 426,
+        "accuracy": 324,
+        "evasion": 240,
         "speed": 0,
         "luck": 0,
         "asw": 0
       },
       "499103": {
-        "health": 0,
-        "firepower": 0,
-        "torpedo": 0,
-        "antiair": 0,
+        "health": 45699,
+        "firepower": 2058,
+        "torpedo": 1245,
+        "antiair": 1051,
         "aviation": 0,
-        "reload": 0,
-        "accuracy": 0,
-        "evasion": 0,
+        "reload": 426,
+        "accuracy": 324,
+        "evasion": 240,
         "speed": 0,
         "luck": 0,
         "asw": 0
