@@ -3782,5 +3782,157 @@
     "bitrate": 160.0,
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/xinnong-4.ogg"
+  },
+  "yumia-1": {
+    "title": "BGM_001_FM01_FOREST_01_A",
+    "size": 2883760,
+    "duration": 151.57333333333332,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/yumia-1.ogg"
+  },
+  "yumia-20": {
+    "title": "BGM_020_FM20_ROTTENSEA_03_A",
+    "size": 1652578,
+    "duration": 91.41333333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/yumia-20.ogg"
+  },
+  "yumia-28": {
+    "title": "BGM_028_FM28_METALS_02_A",
+    "size": 2692927,
+    "duration": 144.128,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/yumia-28.ogg"
+  },
+  "yumia-43": {
+    "title": "BGM_043_FM43_FRONTLINE01_A",
+    "size": 2398112,
+    "duration": 120.98133333333334,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/yumia-43.ogg"
+  },
+  "yumia-44": {
+    "title": "BGM_044_FM44_FRONTLINE01_B",
+    "size": 1453486,
+    "duration": 79.18933333333334,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/yumia-44.ogg"
+  },
+  "yumia-46": {
+    "title": "BGM_046_FM46_ATELIER_01",
+    "size": 3471175,
+    "duration": 165.12,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/yumia-46.ogg"
+  },
+  "yumia-49": {
+    "title": "BGM_049_BT01_NORMAL_01",
+    "size": 1939996,
+    "duration": 92.8,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/yumia-49.ogg"
+  },
+  "yumia-51": {
+    "title": "BGM_051_BT03_NORMAL_03",
+    "size": 1686694,
+    "duration": 77.73866666666666,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/yumia-51.ogg"
+  },
+  "yumia-53": {
+    "title": "BGM_053_BT05_BOSS_USUALLY_01",
+    "size": 1725396,
+    "duration": 86.656,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/yumia-53.ogg"
+  },
+  "yumia-61": {
+    "title": "BGM_061_EV01_MAINTHEME_01",
+    "size": 2209365,
+    "duration": 118.18666666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/yumia-61.ogg"
+  },
+  "yumia-7": {
+    "title": "BGM_007_FM07_FOREST_02_A",
+    "size": 1418584,
+    "duration": 85.09866666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/yumia-7.ogg"
+  },
+  "yumia-70": {
+    "title": "BGM_070_EV10_DEPARTURE_01",
+    "size": 1918365,
+    "duration": 92.608,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/yumia-70.ogg"
+  },
+  "yumia-79": {
+    "title": "BGM_079_EV19_YUMIA_01",
+    "size": 1657864,
+    "duration": 88.96,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/yumia-79.ogg"
+  },
+  "yumia-81": {
+    "title": "BGM_081_EV21_ISRA_01",
+    "size": 1509399,
+    "duration": 80.256,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/yumia-81.ogg"
+  },
+  "yumia-83": {
+    "title": "BGM_083_EV23_NINA_01",
+    "size": 1913927,
+    "duration": 98.77333333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/yumia-83.ogg"
+  },
+  "yumia-84": {
+    "title": "BGM_084_EV24_LENJA_01",
+    "size": 2048828,
+    "duration": 106.41066666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/yumia-84.ogg"
+  },
+  "yumia-az-battle": {
+    "title": "冷泠雨_AL",
+    "size": 1801115,
+    "duration": 85.93066666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/yumia-az-battle.ogg"
+  },
+  "yumia-az-story": {
+    "title": "天际之塔的大冒险_AL",
+    "size": 2913490,
+    "duration": 141.61066666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/yumia-az-story.ogg"
+  },
+  "yumia-az-theme-pv": {
+    "title": "交汇于天际之塔_AL_PV",
+    "size": 1668496,
+    "duration": 77.73866666666666,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/yumia-az-theme-pv.ogg"
   }
 }

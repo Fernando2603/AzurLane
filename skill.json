@@ -13743,6 +13743,126 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/112060.png",
     "max_level": 10
   },
+  "112090": {
+    "id": 112090,
+    "type": 1,
+    "name": "Alchemy of Taboo and Hope",
+    "desc": "Every 10s: randomly selects and activates 1 random effect among this ship's equipped Items and performs a Lv.1 (Lv.10) Snipe attack against a random enemy (DMG is based on the skill's level); if there is an enemy within 65 units of this ship when this effect activates, instead performs Lv.1 (Lv.10) Rapid Fire against the closest enemy to this ship (DMG is based on the skill's level) and inflicts Armor Break on the enemy hit.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/112090.png",
+    "max_level": 10
+  },
+  "112100": {
+    "id": 112100,
+    "type": 3,
+    "name": "The Alchemist of Memories",
+    "desc": "Increases this ship's AVI and ACC by 5.0% (15.0%). When this ship launches an airstrike or performs a special attack: gains 1 stack of Mana Flow (can be stacked up to 10 times); when the effect of an Atelier Yumia collab character's equipped Item activates: spends 1 stack of Mana Flow and improves that Item's effect. When this ship performs a special attack: synthesizes ammunition for the special attack based on the Armor Type of the target.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/112100.png",
+    "max_level": 10
+  },
+  "112110": {
+    "id": 112110,
+    "type": 1,
+    "name": "One Step Toward Tomorrow",
+    "desc": "Every 5s: uses Lv.1 (Lv.10) Piercing Arts or Strike Arts against a random enemy (DMG is based on the skill's level). When the effect of an Atelier Yumia collab character's equipped Item activates: accumulates 25.0% Environmental Mana.\nWhen Environmental Mana is at 50.0% or higher, or when this ship is in the Mana Surge status: every time this ship performs a special attack, additionally performs Synthesize (improves the special attack and gains 1 stack of Mana Flow).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/112110.png",
+    "max_level": 10
+  },
+  "112130": {
+    "id": 112130,
+    "type": 1,
+    "name": "One Step Toward Tomorrow+",
+    "desc": "Every 5s: uses Lv.1 (Lv.10) Piercing Arts or Strike Arts against a random enemy (DMG is based on the skill's level). When the effect of an Atelier Yumia collab character's equipped Item activates: accumulates 25.0% Environmental Mana.\nWhen Environmental Mana is at 50.0% or higher, or when this ship is in the Mana Surge status: every time this ship performs a special attack, additionally performs Synthesize (improves the special attack and gains 1 stack of Mana Flow).\nWhen this ship launches an airstrike while in the Mana Surge status: additionally spends all stacks of Mana Flow and activates a Lv.1 (Lv.10) Maximized Mana Surge - Requiem Trigger (DMG is based on the skill's level and the number of Mana Flow stacks consumed; pattern is based on the number of Mana Flow stacks consumed), then dispells the Mana Surge status on this ship.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/112110.png",
+    "max_level": 10
+  },
+  "112150": {
+    "id": 112150,
+    "type": 1,
+    "name": "Time Compression",
+    "desc": "When the effect of Yumia Liessfeldt's equipped Item activates: decreases the time until all of this ship's next special attacks by 2s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/112110.png",
+    "max_level": 1
+  },
+  "112180": {
+    "id": 112180,
+    "type": 1,
+    "name": "Welleks's Assault",
+    "desc": "Increases this ship's RLD and ACC by 5.0% (15.0%). Every 10 times this ship fires her Main Guns, if there is an enemy within 30 units of this ship: performs a Lv.1 (Lv.10) Spinning Edge attack (DMG is based on the skill's level); if there is no such enemy, instead performs a Lv.1 (Lv.10) Wide Slash attack (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/112180.png",
+    "max_level": 10
+  },
+  "112190": {
+    "id": 112190,
+    "type": 3,
+    "name": "Pride of the Welleks's",
+    "desc": "When this ship fires her Main Guns: accumulates 2.0% Environmental Mana; when this ship fires her Main Guns with 10.0% or more Environmental Mana: spends 10.0% Environmental Mana and gains 1 stack of Throwing Dagger (can be stacked up to 5 times).\nIncreases this ship's FP, TRP, and EVA by 1.0% (3.0%) for each stack of Throwing Dagger this ship has. Every 20s, when this ship is in the Mana Surge status: spends all stacks of Throwing Dagger to activate a Lv.1 (Lv.10) Maximized Mana Surge - Lionhearted (DMG is based on the skill's level), dispels the Mana Surge status, and, for 15s, increases this ship's DMG dealt to enemies below 10.0% HP by 4.0% (10.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/112190.png",
+    "max_level": 10
+  },
+  "112200": {
+    "id": 112200,
+    "type": 3,
+    "name": "Pride of the Welleks's+",
+    "desc": "When this ship fires her Main Guns: accumulates 2.0% Environmental Mana; when this ship fires her Main Guns with 10.0% or more Environmental Mana: spends 10.0% Environmental Mana and gains 1 stack of Throwing Dagger (can be stacked up to 5 times).\nIncreases this ship's FP, TRP, and EVA by 1.0% (4.0%) for each stack of Throwing Dagger she has. Every 20s, when this ship is in the Mana Surge status: spends all stacks of Throwing Dagger to activate a Lv.1 (Lv.10) Maximized Mana Surge - Lionhearted (DMG is based on the skill's level), dispels the Mana Surge status, and, for 15s, increases this ship's DMG dealt to enemies below 30.0% HP by 4.0% (10.0%); gains 1 stack of Throwing Dagger for each enemy sunk during this effect's duration.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/112190.png",
+    "max_level": 10
+  },
+  "112210": {
+    "id": 112210,
+    "type": 1,
+    "name": "Hellion Mantis",
+    "desc": "When the battle starts: gains 3 stacks of Throwing Dagger. During battle, decreases this ship's DMG taken by 5.0%. When this ship sinks an enemy: increases this ship's RLD by 3.0% (can be stacked up to 5 times).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/112180.png",
+    "max_level": 1
+  },
+  "112220": {
+    "id": 112220,
+    "type": 1,
+    "name": "Blazing Trigger",
+    "desc": "Increases this ship's FP by 1.0% (10.0%). Every 5s, or when this ship's Main Guns finish loading: accumulates 10.0% Environmental Mana. When this ship fires her Main Guns: 40% (70%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); if there is an enemy within 65 units when this effect activates: changes the barrage fired. Every 20s: fires a powerful Lv.1 (Lv.10) slashing barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/112220.png",
+    "max_level": 10
+  },
+  "112230": {
+    "id": 112230,
+    "type": 3,
+    "name": "Mercenary's Combat Techniques",
+    "desc": "Every time this ship's Main Guns finish loading: gains 2 stacks of Battle Rate (can be stacked up to 10 times). Increases this ship's ACC and Main Gun Crit Rate by 1.0% (2.0%) for every stack of Battle Rate she has. When this ship has 5 or more stacks of Battle Rate: multiplies the Environmental Mana accumulated by the skill Blazing Trigger by 1.5. When another ship in your fleet scores a hit with her Main Guns or Secondary Guns: 5.0% (15.0%) chance for Nina to additionally gain 1 stack of Battle Rate; if said ship is an Atelier Yumia collab character, the action chance of this effect increases to 15.0% (35.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/112230.png",
+    "max_level": 10
+  },
+  "112240": {
+    "id": 112240,
+    "type": 1,
+    "name": "Blazing Trigger+",
+    "desc": "Increases this ship's FP and RLD by 1.0% (10.0%). Every 5s, or when this ship's Main Guns finish loading: accumulates 10.0% Environmental Mana. When this ship fires her Main Guns: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); if there is an enemy within 65 units when this effect activates: changes the barrage fired. Every 20s: fires a powerful Lv.1 (Lv.10) slashing barrage (DMG is based on the skill's level); when this barrage fires, if this ship is in the Mana Surge status: instead activates a Lv.1 (Lv.10) Maximized Mana Surge - Zero Chance (DMG is based on the skill's level), then dispells the Mana Surge status on this ship.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/112220.png",
+    "max_level": 10
+  },
+  "112270": {
+    "id": 112270,
+    "type": 1,
+    "name": "Knights Can Be Maidens Too",
+    "desc": "Increases this ship's FP by 1.0% (10.0%). Every 5s: fires a Lv.1 (Lv.10) special barrage and accumulates 15.0% Environmental Mana (DMG is based on the skill's level); if there is no enemy within 35 units of this ship when firing, the barrage fired is changed.\nInflicts 3 stacks of Break Symbol on all the enemies on the battlefield; when this ship's special barrage or Maximized Mana Surge hits an enemy: removes 1 stack of Break Symbol from the enemy; when an enemy's Break Symbol stack is reduced to 0: inflicts a special Armor Break status on that enemy for 3s, after which the enemy's Break Symbol stack is reset to 3.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/112270.png",
+    "max_level": 10
+  },
+  "112280": {
+    "id": 112280,
+    "type": 3,
+    "name": "Alber's Assistance",
+    "desc": "Every 3 times this ship fires her Main Guns: gains 1 stack of Alber's Assistance (can be stacked up to 3 times); increases this ship's FP by 3.5% (8.0%) for each stack of Alber's Assistance she has. When the Alber's Assistance stack reaches 3: activates a Lv.1 (Lv.10) special attack, Isolation (DMG is based on the skill's level), and resets the stack to 0 after 2s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/112280.png",
+    "max_level": 10
+  },
+  "112290": {
+    "id": 112290,
+    "type": 3,
+    "name": "Alber's Assistance+",
+    "desc": "Every 3 times this ship fires her Main Guns: gains 1 stack of Alber's Assistance (can be stacked up to 3 times); increases this ship's FP and TRP by 3.5% (8.0%) for each stack of Alber's Assistance she has. When the Alber's Assistance stack reaches 3: activates a Lv.1 (Lv.10) special attack, Isolation (DMG is based on the skill's level), and resets the stack to 0 after 2s. When this ship is in the Mana Surge status: instead of Isolation, activates a Lv.1 (Lv.10) Maximized Mana Surge - Heartbreaker (DMG is based on the skill's level) and dispels the Mana Surge status.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/112280.png",
+    "max_level": 10
+  },
   "150000": {
     "id": 150000,
     "type": 2,
@@ -17429,6 +17549,54 @@
     "name": "Smoldering Core - Kawakaze II",
     "desc": "[Operation Siren]\nEvery 10 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's Crit DMG by 8.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801830.png",
+    "max_level": 1
+  },
+  "801840": {
+    "id": 801840,
+    "type": 1,
+    "name": "The Dessert Demon's Temptation",
+    "desc": "When this ship fires her Main Guns: 40.0% (70.0%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); enemies hit by this barrage have their SPD decreased by 30.0% and EVA by 3.0% for 8s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801840.png",
+    "max_level": 10
+  },
+  "801850": {
+    "id": 801850,
+    "type": 3,
+    "name": "Templar's Presence",
+    "desc": "Increases this ship's FP and ACC by 5.0% (15.0%). Every 20s: decreases the FP of all enemies on the battlefield by 1.0% (5.0%) for 8s; if this debuff was applied to 2 enemies or more at once: restores this ship's HP and the HP of a random ship in your Vanguard by 3.5% (8.0%) of their max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801850.png",
+    "max_level": 10
+  },
+  "801861": {
+    "id": 801861,
+    "type": 3,
+    "name": "Cinders of Hope - Dunkerque",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 3.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801860.png",
+    "max_level": 1
+  },
+  "801862": {
+    "id": 801862,
+    "type": 3,
+    "name": "Cinders of Hope - Dunkerque",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 8.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801860.png",
+    "max_level": 1
+  },
+  "801865": {
+    "id": 801865,
+    "type": 3,
+    "name": "Cinders of Hope - Dunkerque",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 3.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801860.png",
+    "max_level": 1
+  },
+  "801867": {
+    "id": 801867,
+    "type": 3,
+    "name": "Cinders of Hope - Dunkerque",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 8.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801860.png",
     "max_level": 1
   },
   "902220": {

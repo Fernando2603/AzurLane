@@ -94510,5 +94510,769 @@
         "anti_siren": 1
       }
     }
+  },
+  "150680": {
+    "name": "Granshine",
+    "desc": "A large sword wrapped in rainbow light. It's imbued with every sort of power imaginable.",
+    "label": [
+      "DEV",
+      "GRANSHINE"
+    ],
+    "rarity": 5,
+    "nationality": 113,
+    "type": 10,
+    "skill": {
+      "[60860, 1]": null
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150680.png",
+    "stats": {
+      "1": {
+        "id": 150680,
+        "level": 1,
+        "enhance": "+0",
+        "antiaircraft": 40
+      },
+      "2": {
+        "id": 150681,
+        "level": 2,
+        "enhance": "+1",
+        "antiaircraft": 41
+      },
+      "3": {
+        "id": 150682,
+        "level": 3,
+        "enhance": "+2",
+        "antiaircraft": 42
+      },
+      "4": {
+        "id": 150683,
+        "level": 4,
+        "enhance": "+3",
+        "antiaircraft": 43
+      },
+      "5": {
+        "id": 150684,
+        "level": 5,
+        "enhance": "+4",
+        "antiaircraft": 44
+      },
+      "6": {
+        "id": 150685,
+        "level": 6,
+        "enhance": "+5",
+        "antiaircraft": 45
+      },
+      "7": {
+        "id": 150686,
+        "level": 7,
+        "enhance": "+6",
+        "antiaircraft": 46
+      },
+      "8": {
+        "id": 150687,
+        "level": 8,
+        "enhance": "+7",
+        "antiaircraft": 48
+      },
+      "9": {
+        "id": 150688,
+        "level": 9,
+        "enhance": "+8",
+        "antiaircraft": 50
+      },
+      "10": {
+        "id": 150689,
+        "level": 10,
+        "enhance": "+9",
+        "antiaircraft": 52
+      },
+      "11": {
+        "id": 150690,
+        "level": 11,
+        "enhance": "+10",
+        "antiaircraft": 55
+      },
+      "12": {
+        "id": 150691,
+        "level": 12,
+        "enhance": "+11",
+        "antiaircraft": 58,
+        "anti_siren": 1
+      },
+      "13": {
+        "id": 150692,
+        "level": 13,
+        "enhance": "+12",
+        "antiaircraft": 60,
+        "anti_siren": 2
+      },
+      "14": {
+        "id": 150693,
+        "level": 14,
+        "enhance": "+13",
+        "antiaircraft": 65,
+        "anti_siren": 3
+      }
+    }
+  },
+  "150700": {
+    "name": "Superior Grimoire",
+    "desc": "A grimoire with immense wind power trapped within its pages. Opening it unleashes its full force.",
+    "label": [
+      "DEV"
+    ],
+    "rarity": 5,
+    "nationality": 113,
+    "type": 10,
+    "skill": {
+      "[60870, 1]": null
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150700.png",
+    "stats": {
+      "1": {
+        "id": 150700,
+        "level": 1,
+        "enhance": "+0",
+        "air": 40
+      },
+      "2": {
+        "id": 150701,
+        "level": 2,
+        "enhance": "+1",
+        "air": 46
+      },
+      "3": {
+        "id": 150702,
+        "level": 3,
+        "enhance": "+2",
+        "air": 52
+      },
+      "4": {
+        "id": 150703,
+        "level": 4,
+        "enhance": "+3",
+        "air": 58
+      },
+      "5": {
+        "id": 150704,
+        "level": 5,
+        "enhance": "+4",
+        "air": 64
+      },
+      "6": {
+        "id": 150705,
+        "level": 6,
+        "enhance": "+5",
+        "air": 70
+      },
+      "7": {
+        "id": 150706,
+        "level": 7,
+        "enhance": "+6",
+        "air": 76
+      },
+      "8": {
+        "id": 150707,
+        "level": 8,
+        "enhance": "+7",
+        "air": 82
+      },
+      "9": {
+        "id": 150708,
+        "level": 9,
+        "enhance": "+8",
+        "air": 88
+      },
+      "10": {
+        "id": 150709,
+        "level": 10,
+        "enhance": "+9",
+        "air": 94
+      },
+      "11": {
+        "id": 150710,
+        "level": 11,
+        "enhance": "+10",
+        "air": 100
+      },
+      "12": {
+        "id": 150711,
+        "level": 12,
+        "enhance": "+11",
+        "air": 106,
+        "anti_siren": 1
+      },
+      "13": {
+        "id": 150712,
+        "level": 13,
+        "enhance": "+12",
+        "air": 112,
+        "anti_siren": 2
+      },
+      "14": {
+        "id": 150713,
+        "level": 14,
+        "enhance": "+13",
+        "air": 118,
+        "anti_siren": 3
+      }
+    }
+  },
+  "150720": {
+    "name": "Endemeteo",
+    "desc": "Its double-ended blade flickers with the power of both fire and lightning. Those who master its use can wield both elemental powers readily.",
+    "label": [
+      "DEV"
+    ],
+    "rarity": 5,
+    "nationality": 113,
+    "type": 10,
+    "skill": {
+      "[60880, 1]": null
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150720.png",
+    "stats": {
+      "1": {
+        "id": 150720,
+        "level": 1,
+        "enhance": "+0",
+        "air": 18,
+        "dodge": 2
+      },
+      "2": {
+        "id": 150721,
+        "level": 2,
+        "enhance": "+1",
+        "air": 22,
+        "dodge": 2
+      },
+      "3": {
+        "id": 150722,
+        "level": 3,
+        "enhance": "+2",
+        "air": 26,
+        "dodge": 3
+      },
+      "4": {
+        "id": 150723,
+        "level": 4,
+        "enhance": "+3",
+        "air": 30,
+        "dodge": 3
+      },
+      "5": {
+        "id": 150724,
+        "level": 5,
+        "enhance": "+4",
+        "air": 34,
+        "dodge": 3
+      },
+      "6": {
+        "id": 150725,
+        "level": 6,
+        "enhance": "+5",
+        "air": 39,
+        "dodge": 4
+      },
+      "7": {
+        "id": 150726,
+        "level": 7,
+        "enhance": "+6",
+        "air": 43,
+        "dodge": 4
+      },
+      "8": {
+        "id": 150727,
+        "level": 8,
+        "enhance": "+7",
+        "air": 47,
+        "dodge": 4
+      },
+      "9": {
+        "id": 150728,
+        "level": 9,
+        "enhance": "+8",
+        "air": 51,
+        "dodge": 5
+      },
+      "10": {
+        "id": 150729,
+        "level": 10,
+        "enhance": "+9",
+        "air": 55,
+        "dodge": 5
+      },
+      "11": {
+        "id": 150730,
+        "level": 11,
+        "enhance": "+10",
+        "air": 60,
+        "dodge": 6
+      },
+      "12": {
+        "id": 150731,
+        "level": 12,
+        "enhance": "+11",
+        "air": 65,
+        "dodge": 6,
+        "anti_siren": 1
+      },
+      "13": {
+        "id": 150732,
+        "level": 13,
+        "enhance": "+12",
+        "air": 68,
+        "dodge": 6,
+        "anti_siren": 2
+      },
+      "14": {
+        "id": 150733,
+        "level": 14,
+        "enhance": "+13",
+        "air": 77,
+        "dodge": 7,
+        "anti_siren": 3
+      }
+    }
+  },
+  "150740": {
+    "name": "Panacea Sphere",
+    "desc": "A crystal ball that projects an image of a field of flowers beneath a blue sky. It can heal all the beholder's wounds.",
+    "label": [
+      "DEV"
+    ],
+    "rarity": 5,
+    "nationality": 113,
+    "type": 10,
+    "skill": {
+      "[60890, 1]": null
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150740.png",
+    "stats": {
+      "1": {
+        "id": 150740,
+        "level": 1,
+        "enhance": "+0",
+        "durability": 100,
+        "speed": 1
+      },
+      "2": {
+        "id": 150741,
+        "level": 2,
+        "enhance": "+1",
+        "durability": 130,
+        "speed": 1
+      },
+      "3": {
+        "id": 150742,
+        "level": 3,
+        "enhance": "+2",
+        "durability": 160,
+        "speed": 1
+      },
+      "4": {
+        "id": 150743,
+        "level": 4,
+        "enhance": "+3",
+        "durability": 190,
+        "speed": 1
+      },
+      "5": {
+        "id": 150744,
+        "level": 5,
+        "enhance": "+4",
+        "durability": 220,
+        "speed": 2
+      },
+      "6": {
+        "id": 150745,
+        "level": 6,
+        "enhance": "+5",
+        "durability": 250,
+        "speed": 2
+      },
+      "7": {
+        "id": 150746,
+        "level": 7,
+        "enhance": "+6",
+        "durability": 280,
+        "speed": 2
+      },
+      "8": {
+        "id": 150747,
+        "level": 8,
+        "enhance": "+7",
+        "durability": 310,
+        "speed": 3
+      },
+      "9": {
+        "id": 150748,
+        "level": 9,
+        "enhance": "+8",
+        "durability": 340,
+        "speed": 3
+      },
+      "10": {
+        "id": 150749,
+        "level": 10,
+        "enhance": "+9",
+        "durability": 370,
+        "speed": 3
+      },
+      "11": {
+        "id": 150750,
+        "level": 11,
+        "enhance": "+10",
+        "durability": 400,
+        "speed": 4
+      },
+      "12": {
+        "id": 150751,
+        "level": 12,
+        "enhance": "+11",
+        "durability": 424,
+        "speed": 4,
+        "anti_siren": 1
+      },
+      "13": {
+        "id": 150752,
+        "level": 13,
+        "enhance": "+12",
+        "durability": 448,
+        "speed": 4,
+        "anti_siren": 2
+      },
+      "14": {
+        "id": 150753,
+        "level": 14,
+        "enhance": "+13",
+        "durability": 472,
+        "speed": 4,
+        "anti_siren": 3
+      }
+    }
+  },
+  "150760": {
+    "name": "Enfer Cube",
+    "desc": "A cube containing an ancient, horrifying monster. You'd be smart to not try to break the seal.",
+    "label": [
+      "DEV"
+    ],
+    "rarity": 5,
+    "nationality": 113,
+    "type": 10,
+    "skill": {
+      "[60900, 1]": null
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150760.png",
+    "stats": {
+      "1": {
+        "id": 150760,
+        "level": 1,
+        "enhance": "+0",
+        "hit": 14,
+        "dodge": 6
+      },
+      "2": {
+        "id": 150761,
+        "level": 2,
+        "enhance": "+1",
+        "hit": 16,
+        "dodge": 6
+      },
+      "3": {
+        "id": 150762,
+        "level": 3,
+        "enhance": "+2",
+        "hit": 18,
+        "dodge": 7
+      },
+      "4": {
+        "id": 150763,
+        "level": 4,
+        "enhance": "+3",
+        "hit": 20,
+        "dodge": 8
+      },
+      "5": {
+        "id": 150764,
+        "level": 5,
+        "enhance": "+4",
+        "hit": 22,
+        "dodge": 9
+      },
+      "6": {
+        "id": 150765,
+        "level": 6,
+        "enhance": "+5",
+        "hit": 24,
+        "dodge": 10
+      },
+      "7": {
+        "id": 150766,
+        "level": 7,
+        "enhance": "+6",
+        "hit": 26,
+        "dodge": 11
+      },
+      "8": {
+        "id": 150767,
+        "level": 8,
+        "enhance": "+7",
+        "hit": 28,
+        "dodge": 12
+      },
+      "9": {
+        "id": 150768,
+        "level": 9,
+        "enhance": "+8",
+        "hit": 30,
+        "dodge": 13
+      },
+      "10": {
+        "id": 150769,
+        "level": 10,
+        "enhance": "+9",
+        "hit": 32,
+        "dodge": 14
+      },
+      "11": {
+        "id": 150770,
+        "level": 11,
+        "enhance": "+10",
+        "hit": 35,
+        "dodge": 15
+      },
+      "12": {
+        "id": 150771,
+        "level": 12,
+        "enhance": "+11",
+        "hit": 38,
+        "dodge": 16,
+        "anti_siren": 1
+      },
+      "13": {
+        "id": 150772,
+        "level": 13,
+        "enhance": "+12",
+        "hit": 41,
+        "dodge": 17,
+        "anti_siren": 2
+      },
+      "14": {
+        "id": 150773,
+        "level": 14,
+        "enhance": "+13",
+        "hit": 44,
+        "dodge": 18,
+        "anti_siren": 3
+      }
+    }
+  },
+  "150780": {
+    "name": "Heavenly Armillary",
+    "desc": "An armillary sphere with the power of regeneration. Its healing power lies within the jewel in the center.",
+    "label": [
+      "DEV"
+    ],
+    "rarity": 5,
+    "nationality": 113,
+    "type": 10,
+    "skill": {
+      "[60910, 1]": null
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150780.png",
+    "stats": {
+      "1": {
+        "id": 150780,
+        "level": 1,
+        "enhance": "+0",
+        "durability": 250
+      },
+      "2": {
+        "id": 150781,
+        "level": 2,
+        "enhance": "+1",
+        "durability": 280
+      },
+      "3": {
+        "id": 150782,
+        "level": 3,
+        "enhance": "+2",
+        "durability": 310
+      },
+      "4": {
+        "id": 150783,
+        "level": 4,
+        "enhance": "+3",
+        "durability": 340
+      },
+      "5": {
+        "id": 150784,
+        "level": 5,
+        "enhance": "+4",
+        "durability": 370
+      },
+      "6": {
+        "id": 150785,
+        "level": 6,
+        "enhance": "+5",
+        "durability": 400
+      },
+      "7": {
+        "id": 150786,
+        "level": 7,
+        "enhance": "+6",
+        "durability": 430
+      },
+      "8": {
+        "id": 150787,
+        "level": 8,
+        "enhance": "+7",
+        "durability": 460
+      },
+      "9": {
+        "id": 150788,
+        "level": 9,
+        "enhance": "+8",
+        "durability": 490
+      },
+      "10": {
+        "id": 150789,
+        "level": 10,
+        "enhance": "+9",
+        "durability": 520
+      },
+      "11": {
+        "id": 150790,
+        "level": 11,
+        "enhance": "+10",
+        "durability": 550
+      },
+      "12": {
+        "id": 150791,
+        "level": 12,
+        "enhance": "+11",
+        "durability": 580,
+        "anti_siren": 1
+      },
+      "13": {
+        "id": 150792,
+        "level": 13,
+        "enhance": "+12",
+        "durability": 610,
+        "anti_siren": 2
+      },
+      "14": {
+        "id": 150793,
+        "level": 14,
+        "enhance": "+13",
+        "durability": 640,
+        "anti_siren": 3
+      }
+    }
+  },
+  "150800": {
+    "name": "Flammi",
+    "desc": "An odd device that assists with surveys. It's super-high-spec and brimming with features, according to itself.",
+    "label": [
+      "DEV"
+    ],
+    "rarity": 5,
+    "nationality": 113,
+    "type": 10,
+    "skill": {
+      "[60920, 1]": null
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150800.png",
+    "stats": {
+      "1": {
+        "id": 150800,
+        "level": 1,
+        "enhance": "+0",
+        "durability": 250
+      },
+      "2": {
+        "id": 150801,
+        "level": 2,
+        "enhance": "+1",
+        "durability": 280
+      },
+      "3": {
+        "id": 150802,
+        "level": 3,
+        "enhance": "+2",
+        "durability": 310
+      },
+      "4": {
+        "id": 150803,
+        "level": 4,
+        "enhance": "+3",
+        "durability": 340
+      },
+      "5": {
+        "id": 150804,
+        "level": 5,
+        "enhance": "+4",
+        "durability": 370
+      },
+      "6": {
+        "id": 150805,
+        "level": 6,
+        "enhance": "+5",
+        "durability": 400
+      },
+      "7": {
+        "id": 150806,
+        "level": 7,
+        "enhance": "+6",
+        "durability": 430
+      },
+      "8": {
+        "id": 150807,
+        "level": 8,
+        "enhance": "+7",
+        "durability": 460
+      },
+      "9": {
+        "id": 150808,
+        "level": 9,
+        "enhance": "+8",
+        "durability": 490
+      },
+      "10": {
+        "id": 150809,
+        "level": 10,
+        "enhance": "+9",
+        "durability": 520
+      },
+      "11": {
+        "id": 150810,
+        "level": 11,
+        "enhance": "+10",
+        "durability": 550
+      },
+      "12": {
+        "id": 150811,
+        "level": 12,
+        "enhance": "+11",
+        "durability": 580,
+        "anti_siren": 1
+      },
+      "13": {
+        "id": 150812,
+        "level": 13,
+        "enhance": "+12",
+        "durability": 610,
+        "anti_siren": 2
+      },
+      "14": {
+        "id": 150813,
+        "level": 14,
+        "enhance": "+13",
+        "durability": 640,
+        "anti_siren": 3
+      }
+    }
   }
 }
