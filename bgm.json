@@ -2328,9 +2328,9 @@
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-french.ogg"
   },
   "story-french1": {
-    "title": "破碎之光_RN",
-    "size": 2873375,
-    "duration": 138.48380952380953,
+    "title": "bgm-story-french1",
+    "size": 1994472,
+    "duration": 94.22657596371882,
     "bitrate": 160.0,
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-french1.ogg"
@@ -2696,8 +2696,8 @@
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-relax.ogg"
   },
   "story-richang-rosy-short": {
-    "title": "霑ｷ荵ｱ遘区律_AL",
-    "size": 1049709,
+    "title": "bgm-story-richang-rosy-short",
+    "size": 1049713,
     "duration": 53.19691609977324,
     "bitrate": 160.0,
     "sample_rate": 44100,
