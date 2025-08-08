@@ -17615,6 +17615,14 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/10310.png",
     "max_level": 1
   },
+  "902320": {
+    "id": 902320,
+    "type": 3,
+    "name": "Fast Loading Crew",
+    "desc": "Main Gun efficiency +15.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/14340.png",
+    "max_level": 1
+  },
   "1005080": {
     "id": 1005080,
     "type": 1,
@@ -17805,6 +17813,14 @@
     "name": "Iron Blood Hawk+",
     "desc": "When this ship launches an airstrike: launches an additional Lv.1 (Lv.10) airstrike. If this ship has at least 1 Iron Blood aircraft equipped: increases the efficiency of all of this ship's aircraft gear slots by 15.0% (30.0%).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/10690.png",
+    "max_level": 10
+  },
+  "1010720": {
+    "id": 1010720,
+    "type": 2,
+    "name": "Guarding Shield+",
+    "desc": "Increases this ship's FP and ACC by 10.0% (20.0%) and the TRP and Main Gun efficiency of your Admiral Hipper-class CAs by 4.0% (10.0%). Every 30s: deploys 2 rotating shields (lasting 5 (15)s) that can negate up to 10 enemy shells. Every 20s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/10720.png",
     "max_level": 10
   },
   "1010730": {
@@ -18189,6 +18205,14 @@
     "name": "Cleanse Impurity+",
     "desc": "Increases this ship's FP, AA, and ASW by 15.0% (25.0%), Main Gun efficiency by 5.0% (15.0%), and Anti-Air Gun efficiency by 15.0% (30.0%). Grants this ship a Lv.1 (Lv.10) special Anti-Air Gun (DMG is based on the skill's level). Every 20s: fires a Lv.1 (Lv.10) improved special barrage (DMG is based on the skill's level).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/14090.png",
+    "max_level": 10
+  },
+  "1014340": {
+    "id": 1014340,
+    "type": 1,
+    "name": "Halo of Flames+",
+    "desc": "Increases this ship's FP, AA, EVA, and ACC by 5.0% (15.0%) and increases her DMG dealt to Light and Medium Armor enemies by 5.0% (15.0%). When this ship fires her torpedoes: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/14340.png",
     "max_level": 10
   },
   "1017160": {
