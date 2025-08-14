@@ -50,19 +50,19 @@
 | 44 | 20229 | Penelope | 202290 | Penelope | Default | feeling1_ex |
 | 45 | 20301 | London | 203010 | London | Default | couple_encourage2 |
 | 46 | 20301 | London | 203010 | London | Default | couple_encourage3 |
-| 47 | 20401 | Renown | 204011 | Graceful Royal Pride | Spring Festival | battle |
-| 48 | 20401 | Renown | 204011 | Graceful Royal Pride | Spring Festival | detail |
-| 49 | 20401 | Renown | 204011 | Graceful Royal Pride | Spring Festival | expedition |
-| 50 | 20401 | Renown | 204011 | Graceful Royal Pride | Spring Festival | feeling5 |
-| 51 | 20401 | Renown | 204011 | Graceful Royal Pride | Spring Festival | home |
-| 52 | 20401 | Renown | 204011 | Graceful Royal Pride | Spring Festival | login |
-| 53 | 20401 | Renown | 204011 | Graceful Royal Pride | Spring Festival | mail |
-| 54 | 20401 | Renown | 204011 | Graceful Royal Pride | Spring Festival | main1 |
-| 55 | 20401 | Renown | 204011 | Graceful Royal Pride | Spring Festival | main2 |
-| 56 | 20401 | Renown | 204011 | Graceful Royal Pride | Spring Festival | main3 |
-| 57 | 20401 | Renown | 204011 | Graceful Royal Pride | Spring Festival | touch |
-| 58 | 20401 | Renown | 204011 | Graceful Royal Pride | Spring Festival | touch2 |
-| 59 | 20401 | Renown | 204011 | Graceful Royal Pride | Spring Festival | unlock |
+| 47 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | battle |
+| 48 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | detail |
+| 49 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | expedition |
+| 50 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | feeling5 |
+| 51 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | home |
+| 52 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | login |
+| 53 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | mail |
+| 54 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | main1 |
+| 55 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | main2 |
+| 56 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | main3 |
+| 57 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | touch |
+| 58 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | touch2 |
+| 59 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | unlock |
 | 60 | 20503 | Nelson | 205030 | Nelson | Default | couple_encourage3 |
 | 61 | 20703 | Illustrious | 207030 | Illustrious | Default | couple_encourage2 |
 | 62 | 21301 | Erebus | 213010 | Erebus | Default | couple_encourage4 |
@@ -75,7 +75,7 @@
 | 69 | 30115 | Shigure | 301151 | Attack, I-490! | Swimsuits | touch |
 | 70 | 30118 | Shiranui | 301180 | Shiranui | Default | couple_encourage1 |
 | 71 | 30118 | Shiranui | 301189 | Shiranui (Retrofit) | Retrofit | couple_encourage1 |
-| 72 | 30126 | Yuugure | 301262 | Twilight Blossom | Spring Festival | feeling5 |
+| 72 | 30126 | Yuugure | 301262 | Twilight Blossom | Empery'S Fineries | feeling5 |
 | 73 | 30154 | Kiyonami | 301540 | Kiyonami | Default | couple_encourage1 |
 | 74 | 30212 | Sendai | 302120 | Sendai | Default | couple_encourage3 |
 | 75 | 30302 | Kako | 303029 | Kako (Retrofit) | Retrofit | main1 |

@@ -831,7 +831,7 @@
         "id": 101173,
         "gid": 10117,
         "name": "White Rabbit Welcomes the Spring",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Have a happy and auspicious New Year? Uh.... can I go now...? I'm feeling a bit sleepy, so can I go back to sleep?",
         "tag": [
           "live2d",
@@ -902,7 +902,7 @@
         "id": 101176,
         "gid": 10117,
         "name": "Bunny Idol @Unmotivated",
-        "type": "Shining Stars",
+        "type": "Shining Star",
         "desc": "\"Laffey came from Planet Bunny...\" Umm, I forgot that line Benson told me to say... In any case, everyone, please give me lots of support... Actually, just a little support is fine... Uhh, I have to do it again with more motivation?",
         "tag": [
           "dynamicbg"
@@ -1216,7 +1216,7 @@
         "id": 101253,
         "gid": 10125,
         "name": "Hammanyan Pawnch!",
-        "type": "Shining Stars",
+        "type": "Shining Star",
         "desc": "Ughh... These gloves are so heavy and the dress is too revealing. Why on earth did I decide to put these on... I can't show myself to Yorktown like this!",
         "tag": [
           "dynamicbg"
@@ -1436,7 +1436,7 @@
         "id": 101264,
         "gid": 10126,
         "name": "Kitty Idol",
-        "type": "Shining Stars",
+        "type": "Shining Star",
         "desc": "Eldridge and kitties, idol mode... Commander, you like...?",
         "tag": [
           "live2d",
@@ -1759,6 +1759,31 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/102053/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/102053/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/102053/shipyard.png"
+      },
+      "102054": {
+        "id": 102054,
+        "gid": 10205,
+        "name": "Basking in the Cypress' Warmth",
+        "type": "Hot Springs",
+        "desc": "Eek! C-Commander? Um, I'm fine! Nothing's wrong, I just tripped on– Wait, why did the smart glass turn off?! Oh nooo!",
+        "tag": [
+          "dynamic",
+          "bg"
+        ],
+        "illustrator": 7,
+        "illustrator2": -1,
+        "voice_actor": 34,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/109.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/102054/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/102054/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/102054/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/102054/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/102054/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/102054/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/102054/shipyard.png"
       },
       "102058": {
         "id": 102058,
@@ -2410,7 +2435,7 @@
         "id": 103262,
         "gid": 10326,
         "name": "Comfy Crane Amidst the Clouds",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Phew... This getup does help me get into the festival mood. It looks nice, and it's supremely comfortable, but I can't shake this embarrassment... Huh? Commander? When did you get here?",
         "tag": [
           "bg"
@@ -2996,7 +3021,7 @@
         "id": 103162,
         "gid": 10316,
         "name": "Black Ace",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "Heya, you here to watch the game? Heh, heavy cruiser Baltimore, the passerby solver of troubles, here to play it cool!",
         "tag": [
           "dynamicbg"
@@ -3292,7 +3317,7 @@
         "id": 105031,
         "gid": 10503,
         "name": "The Keystone General",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Halt! Who are you?! ...Oh, it's you, Commander. I briefly mistook you for a spy there. Why are you here? To spectate? Or, God forbid, to gather intel on my army?",
         "tag": [
           "bg"
@@ -3344,7 +3369,7 @@
         "id": 105041,
         "gid": 10504,
         "name": "Enchantress from Afar",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "I heard these clothes are from the Dragon Empery, but they're a bit... Umm, it's not that I dislike them, but the thought of you seeing me in them is rather embarrassing... B-but it's not like I'm going to start crying...",
         "tag": [
           "dynamicbg"
@@ -3624,7 +3649,7 @@
         "id": 105112,
         "gid": 10511,
         "name": "Scenic Rhapsody",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "Colorado, Maryland, you two ready to rock? Keep your cool! Commander, and everyone in the audience, get ready for the Big Seven's big performance!",
         "tag": [
           "bg"
@@ -3751,7 +3776,7 @@
         "id": 105131,
         "gid": 10513,
         "name": "Jubilant Smile",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Sup, Commander? ...Looking good? I don't think this outfit's anything special... You better not be trying to cozy up to me, or I'll knock your teeth out!",
         "tag": [
           "bg"
@@ -3982,7 +4007,7 @@
         "id": 105173,
         "gid": 10517,
         "name": "Dancing in the Moonlight",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Phew... It was really hard to cinch the ending, but I can handle anything! So, honey, did you like it? Hellooo, honey? Aww, are you so mesmerized that you can't speak? Hahaha!",
         "tag": [
           "dynamic",
@@ -4302,7 +4327,7 @@
         "id": 107021,
         "gid": 10702,
         "name": "The Beauty of Spring",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Hehe… sometimes you can completely change the way people see you with just a simple change in attire. Don't you agree, Commander~? Don’t worry, I'm still your Lexington~",
         "tag": [
           "bg"
@@ -4470,7 +4495,7 @@
         "id": 107036,
         "gid": 10703,
         "name": "Spring's Opening Act!",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Tadaaah! Happy Lunar New Year, Commander! How do you like this fresh new spring look that Sara's rocking? Hope you haven't forgotten our promise to check out the port's spring festival together~ Ready, then? Let's go!",
         "tag": [
           "dynamicbg"
@@ -4830,7 +4855,7 @@
         "id": 107062,
         "gid": 10706,
         "name": "Blooming Peony",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "So this is the traditional attire of the Dragon Empery? Hmm... it fits quite well. Oh? Custom-made bow and arrows… Interesting, let's see how far these arrows can fly.",
         "tag": [
           "bg"
@@ -5015,6 +5040,30 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/137060/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/137060/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/137060/shipyard.png"
+      },
+      "137061": {
+        "id": 137061,
+        "gid": 10706,
+        "name": "Bathing Under Sunny Skies",
+        "type": "Hot Springs",
+        "desc": "Oh, Commander? Sorry you have to see me like this – I overheated a little in the bath... Hm? You smell like nature... It's nice.",
+        "tag": [
+          "live2d"
+        ],
+        "illustrator": 8,
+        "illustrator2": -1,
+        "voice_actor": 31,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/137061/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/137061/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/137061/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/137061/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/137061/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/137061/shipyard.png"
       }
     }
   },
@@ -5094,7 +5143,7 @@
         "id": 107073,
         "gid": 10707,
         "name": "Cheering Justice!",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "Let's keep it up, everyone! One more point, and we can make a comeback!!! ...Hah... *gulp gulp*... Whew~! Thanks a billion for the drink, Commander! And thanks for watching over us as well!",
         "tag": [
           "dynamicbg"
@@ -5796,7 +5845,7 @@
         "id": 201105,
         "gid": 20110,
         "name": "Royal Fanfare",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "C-Commander? Erm... They picked me to be a cheerleader for the Royal Navy team at the sports thing, so I'm practicin' my cheers... D-don't stare at me like that... I'm shy enough... Already...",
         "tag": [
           "bg"
@@ -6020,7 +6069,7 @@
         "id": 201141,
         "gid": 20114,
         "name": "Jokey Adjudicator",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Ahahaha! It is I, Glowworm, the impartial and absolute judge! Any wrongdoers will have me to answer to! Guilty verdicts will result in headbutts!",
         "tag": [
           "dynamicbg"
@@ -6245,7 +6294,7 @@
         "id": 201216,
         "gid": 20121,
         "name": "Energetic Idol @120% Motivation!",
-        "type": "Shining Stars",
+        "type": "Shining Star",
         "desc": "\"Hello, everyone~! I'm Javelin, the new idol who arrived from the Royal Navy! I hope that my songs will be able to bring a smile to everyone's faces, so please take good care of me!\" Hehe, how was that for an introduction, Commander?",
         "tag": [
           "dynamicbg"
@@ -6441,7 +6490,7 @@
         "id": 201231,
         "gid": 20123,
         "name": "The Breath of Spring",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "What do you think of my new outfit? You love it? Or just like it? Haha, your answer is written right on your face. Next... wait, wait, wait! I haven't put my socks on yet!",
         "tag": [
           "bg"
@@ -6512,7 +6561,7 @@
         "id": 201234,
         "gid": 20123,
         "name": "Night Princess Idol",
-        "type": "Shining Stars",
+        "type": "Shining Star",
         "desc": "Feast thine eyes upon Vampire's idol attire... is it not exquisite? Heheh, now thy gaze shall be fixed upon my performance alone~♪",
         "tag": [
           "dynamicbg"
@@ -7180,7 +7229,7 @@
         "id": 202101,
         "gid": 20210,
         "name": "Brilliance in Purple",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Gloucester, light cruiser of the Royal Maids, at your service for the Spring Festival... You say I look displeased? I beg your pardon, it's just... Such holidays are in fact quite busy for the Maids. We have much on our minds. It is none of your concern.",
         "tag": [
           "dynamicbg"
@@ -7333,7 +7382,7 @@
         "id": 202121,
         "gid": 20212,
         "name": "Iridescent Rosa",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Hehe... Master, why are you so stunned from seeing me? I thought you perhaps wanted to see me in a qipao... was I mistaken?",
         "tag": [
           "live2d",
@@ -7605,7 +7654,7 @@
         "id": 202151,
         "gid": 20215,
         "name": "The Tale of Spring",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "I've been preparing for this day for quite some time... Commander, would you like to hear the book I wrote for you?",
         "tag": [
           "bg"
@@ -7653,7 +7702,7 @@
         "id": 202153,
         "gid": 20215,
         "name": "Heritage of Yu City",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "\"Next, Aurora will perform something you've never seen before - traditional Sichuan mask-changing opera!\" Hehe... Commander, I look like the real deal, right?",
         "tag": [
           "live2d",
@@ -8203,7 +8252,7 @@
         "id": 204011,
         "gid": 20401,
         "name": "Graceful Royal Pride",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "This Dragon Empery dress is lovely and graceful, but the slit... Commander? I'm sorry if this is sudden, but... how do you like my dress?",
         "tag": [
           "bg"
@@ -8255,7 +8304,7 @@
         "id": 204021,
         "gid": 20402,
         "name": "Dance of Spring Blooms",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Hey there, Commander! Heheh, where do you think you're going? If you've got a minute, watch me rehearse my sword dance. It's my own original routine, a combination of Dragon Empery swordplay and my own ideas!",
         "tag": [
           "bg"
@@ -8477,7 +8526,7 @@
         "id": 205012,
         "gid": 20501,
         "name": "One Night of the Queen",
-        "type": "Shining Stars",
+        "type": "Shining Star",
         "desc": "Now this is a stage worthy of our majesty! You are not to leave our sight, servant! Let your passions burn for me!",
         "tag": [
           "dynamicbg"
@@ -8525,7 +8574,7 @@
         "id": 205014,
         "gid": 20501,
         "name": "Crown Jewel of the Royal Navy",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Did I hear that you're supposed to give out red envelopes during the Dragon Empery's New Year? This is a fine chance to display the magnanimity of the Queen of the Royal Navy! ...Don't just run off with your gift! Spread the word of my glory, my servant!",
         "tag": [
           "dynamicbg"
@@ -8650,7 +8699,7 @@
         "id": 205022,
         "gid": 20502,
         "name": "Under Pleasure",
-        "type": "Shining Stars",
+        "type": "Shining Star",
         "desc": "We have the finest equipment. Now to turn in a performance worthy of Her Majesty's beauty... Behold, the Royal Stage!",
         "tag": [
           "dynamicbg"
@@ -8844,7 +8893,7 @@
         "id": 205043,
         "gid": 20504,
         "name": "Immaculate Beauty",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Miss Akashi, shall I look at the camera next? Understood. Oh, Commander, I did not expect you to grace us with your presence here as well! Yes, the photoshoot is proceeding smoothly. By the way, is there a favorite pose you'd like to see?",
         "tag": [
           "dynamicbg"
@@ -9373,7 +9422,7 @@
         "id": 206032,
         "gid": 20603,
         "name": "The Gift of Spring",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "This... present... is for you... I hope you like it... What? Me wearing this outfit is the best gift I can give you? Co... Commander!...",
         "tag": [
           "bg"
@@ -9446,7 +9495,7 @@
         "id": 206035,
         "gid": 20603,
         "name": "Angelic Night",
-        "type": "Shining Stars",
+        "type": "Shining Star",
         "desc": "So I'm... an \"idol\" now... I'm not sure how well I'll do... But I'll give it my all...!",
         "tag": [
           "live2d",
@@ -9611,7 +9660,7 @@
         "id": 236032,
         "gid": 20603,
         "name": "Champion of Unicorn",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "Phew... *pant*... Big brother! F-fight on! Seeing you try your very hardest reminds me... that I need to do my best to cheer you on, too!",
         "tag": [
           "bg"
@@ -9976,7 +10025,7 @@
         "id": 207035,
         "gid": 20703,
         "name": "Maiden Lily's Radiance",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "It is my honour to get to wear another faction's garments. However... this traditional Dragon Empery dress feels rather tight around the chest area...",
         "tag": [
           "dynamicbg"
@@ -10148,7 +10197,7 @@
         "id": 207042,
         "gid": 20704,
         "name": "Guidance of the Spring Goddess",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Are you preparing to hold an event for the port? Hehe, sounds like you could use my help. Don't worry, with someone as beautiful as me around, anything you do will surely be blessed with success!",
         "tag": [
           "dynamicbg"
@@ -10399,7 +10448,7 @@
         "id": 207062,
         "gid": 20706,
         "name": "Pungent Plum",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "I heard that the Sakura Empire's traditional attire was really hard to put on... but the Dragon's Empery's outfits are even more... Huh?! Commander, p-please look away!",
         "tag": [
           "live2d",
@@ -10647,7 +10696,7 @@
         "id": 301014,
         "gid": 30101,
         "name": "Fubuki Halation!",
-        "type": "Shining Stars",
+        "type": "Shining Star",
         "desc": "The whole world's going to feel the tremors from my debut! I'm Fubuki, the Special-type idol!",
         "tag": [
           "dynamicbg"
@@ -10693,7 +10742,7 @@
         "id": 301016,
         "gid": 30101,
         "name": "Caught Under the Lights",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "C-Commander?! Aw, shoot... I, uh, can't explain this in just one sentence... Please, just help me!",
         "tag": [],
         "illustrator": 2,
@@ -10915,7 +10964,7 @@
         "id": 301054,
         "gid": 30105,
         "name": "Lunar Demon",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Compared to the way we celebrate New Year in the Sakura Empire, the festivities of the Dragon Empery have a completely different atmosphere... But, I don't really mind the liveliness... Commander, do you like festivals?",
         "tag": [
           "bg"
@@ -10983,7 +11032,7 @@
         "id": 301057,
         "gid": 30105,
         "name": "Low-Key Idol @Confused",
-        "type": "Shining Stars",
+        "type": "Shining Star",
         "desc": "I guess I'm making my idol debut? Um, Javelin and the others are making their debuts, so, I also had to... Commander, what are idols supposed to do normally?",
         "tag": [
           "dynamicbg"
@@ -11124,7 +11173,7 @@
         "id": 331053,
         "gid": 30105,
         "name": "Dynasty Shipgirl",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Rigging, activate!",
         "tag": [
           "dynamicbg"
@@ -11688,7 +11737,7 @@
         "id": 301132,
         "gid": 30113,
         "name": "Thawing Snow, Fireworks Alight",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Owwie, I fell again... Huh? You fell, too? Just because you wanted to help me up? *sniffle*... I'm sorry...",
         "tag": [
           "dynamicbg"
@@ -12028,7 +12077,7 @@
         "id": 301162,
         "gid": 30116,
         "name": "Winter's Snowy Wind",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Wa ha ha~! Did your heart skip a beat from seeing the charming Yukikaze? Hmph... Well, looks like the Dragon Empery girls are setting off firecrackers... let's go join them! Here, make sure to hold on to my hand!",
         "tag": [
           "live2d",
@@ -12645,7 +12694,7 @@
         "id": 301262,
         "gid": 30126,
         "name": "Twilight Blossom",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "The Dragon Empery's New Year celebrations and new outfits are sure to lift everyone's spirits~ My sister will probably love this new dress as well. Commander, what do you think?",
         "tag": [
           "bg"
@@ -12897,7 +12946,7 @@
         "id": 302041,
         "gid": 30204,
         "name": "Spring Breeze Leisure",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Good evening, Commander. This room...? Ah, it's a special Dragon Empery-themed set I bought from Akashi's. It looks pretty snazzy and was on sale, so I picked it up. Ehehe~",
         "tag": [
           "dynamicbg"
@@ -13017,7 +13066,7 @@
         "id": 302054,
         "gid": 30205,
         "name": "Charge, My Trusty Steeds!",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "W-w-woah! W-wait up! You guys are going too fast! I'm gonna fall! I'm gonna faaaaall! You're supposed to carry me in a way that doesn't give me a heart attack!! Commander, something crazy seems to have happened with my cavalry~!!",
         "tag": [
           "bg"
@@ -13931,7 +13980,7 @@
         "id": 303113,
         "gid": 30311,
         "name": "The Lessons of Spring",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Practicing writing is a type of training, isn't it? Commander... do you want to sit down and write with me?",
         "tag": [
           "bg"
@@ -14477,7 +14526,7 @@
         "id": 304022,
         "gid": 30402,
         "name": "Fragrant Red Plum",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "I have to admit, these qipaos from the Dragon Empery are quite elegant... I might sound arrogant saying this, but I feel like this outfit really brings out my charm. Hehe, wouldn't you agree, Commander?",
         "tag": [
           "dynamicbg"
@@ -14725,7 +14774,7 @@
         "id": 304044,
         "gid": 30404,
         "name": "Graceful Ink Incense",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "The Lunar New Year is known for its hustle and bustle, but it's nice to just sit down with a brush and take in the smell of ink. Hey Commander, got any words you want to see rendered in calligraphy?",
         "tag": [
           "dynamicbg"
@@ -14777,7 +14826,7 @@
         "id": 305011,
         "gid": 30501,
         "name": "The Celebration of Spring",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Yamashiro said always dressing like a witch can be a bit old-fashioned, so she gave me a new outfit. That kid... Do you think it looks good on me, Commander?",
         "tag": [
           "bg"
@@ -15305,7 +15354,7 @@
         "id": 305055,
         "gid": 30505,
         "name": "Guardian Fox's Blessed Bonds",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "C-Commander? What brings you here at such a time? I was just... trying to help everyone prepare for the New Year's celebrations... Ngh, why isn't this red string... coming loose at all?",
         "tag": [
           "dynamic",
@@ -16084,7 +16133,7 @@
         "id": 307014,
         "gid": 30701,
         "name": "Dawn-Phoenix's Summons",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "This banquet is my present to you... and your attendance is the greatest reward I could hope for~ Indeed, I shall not grant you leave tonight until you pass out. Ehehe... Ahahaha~♡",
         "tag": [
           "live2d",
@@ -16279,7 +16328,7 @@
         "id": 307025,
         "gid": 30702,
         "name": "Dusk-Simurgh's Vigil",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "What are you doing up here?! Oh, it's you. I thought you went to see my sister? ...You needed a breath of fresh air? That's all fine, but you should return to my sister soon before she does something mad.",
         "tag": [
           "dynamicbg"
@@ -16773,7 +16822,7 @@
         "id": 307072,
         "gid": 30707,
         "name": "Phoenix's Spring Song",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Hehehe, I let Christmas and New Year's slip right by me, that I might use the Dragon Empery's Lunar New Year to capture my Commander's attentions... Oh, My Commander, won't you please enjoy the show I've prepared for you♡",
         "tag": [
           "live2d",
@@ -17404,7 +17453,7 @@
         "id": 401236,
         "gid": 40123,
         "name": "Serious Idol @Acting Manager?!",
-        "type": "Shining Stars",
+        "type": "Shining Star",
         "desc": "Jeez... Javelin's got what it takes, but I'm really concerned about Laffey and Ayanami. Oh well, I guess it's up to me to manage them... Commander, please don't forget to support me too.",
         "tag": [
           "dynamicbg"
@@ -17900,7 +17949,7 @@
         "id": 403021,
         "gid": 40302,
         "name": "High-Altitude Head Over Heels",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "Heheheh☆ You're lagging behind, Commander! Pick up the pace or you'll be left behind! Just kidding~ I'll slow down for you so we can stick together!",
         "tag": [
           "dynamicbg"
@@ -18122,7 +18171,7 @@
         "id": 403036,
         "gid": 40303,
         "name": "Brilliant Touchdown",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "*pant*... Quarterback Prinz Eugen scores a touchdown. I can't believe I'm the one charging in now... Commander, can you bring me water and a towel? I'm getting a little sticky from all this sweat...",
         "tag": [
           "bg",
@@ -18268,7 +18317,7 @@
         "id": 403044,
         "gid": 40304,
         "name": "Lantern-Lit Ruler",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Why are so many people out and about during a holiday? ...That's it! Lowly animal, was it your idea to prepare all this to surprise me...?! Heh... Hehe, that's right, don't you dare disappoint me!",
         "tag": [
           "dynamicbg"
@@ -18390,7 +18439,7 @@
         "id": 403054,
         "gid": 40305,
         "name": "World's♥Cutest",
-        "type": "Shining Stars",
+        "type": "Shining Star",
         "desc": "My sister just wouldn't stop bugging me, so I finally caved and agreed to do this... Anyways, all I have to do is get up on stage and sing, right?",
         "tag": [
           "live2d",
@@ -18443,7 +18492,7 @@
         "id": 404011,
         "gid": 40401,
         "name": "Panther und Pflaume",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "A festival, huh? Going for days without fighting is boring, not to mention not my style. C'mon, Commander, isn't there *something* exciting I can do during this \"Lunar New Year\" festival?",
         "tag": [
           "dynamicbg"
@@ -18771,7 +18820,7 @@
         "id": 405024,
         "gid": 40502,
         "name": "A Vase for the Frost Flower",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "It's all right, I just got here myself. I will say, it's strangely reassuring to know I'm not the only one nervous on this day.",
         "tag": [
           "bg"
@@ -18950,7 +18999,7 @@
         "id": 501021,
         "gid": 50102,
         "name": "The Unbreakable Baozi Heist",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Heh-hey! Just hooked us another baozi~! We're in for one heckuva haul today! ...Eh? Huh, Commander?! Th-this is, uhh... yeah, we're just playing a normal game... totally...",
         "tag": [
           "bg"
@@ -19024,7 +19073,7 @@
         "id": 501031,
         "gid": 50103,
         "name": "The Joy of Spring",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Ta-da! My pajamas are finally finished! Now to snuggle up until I'm all warm! Eh~ Ehhh? But sis, I don't want to get out! Ack, did Tai Yuan purposely make this tail big and thick to make it easier for you?",
         "tag": [
           "bg"
@@ -19048,7 +19097,7 @@
         "id": 501032,
         "gid": 50103,
         "name": "Fortune Arrives in Red",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Commander, hurry up and plug your ears! Th-this isn't a joke! Um... Seriously, that big ol' doozy over there is about to blow!",
         "tag": [
           "dynamicbg"
@@ -19122,7 +19171,7 @@
         "id": 501041,
         "gid": 50104,
         "name": "The Golden Dragon's Festivities",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "O-on behalf of the An Shan class, we wish a prosperous, happy, and healthy new year to Commander, and to everyone here at port... Umm... even though I made this outfit, I feel a bit embarrassed wearing it... Eh? It looks good on me? Um... th-thank you...",
         "tag": [
           "live2d",
@@ -19221,7 +19270,7 @@
         "id": 502011,
         "gid": 50201,
         "name": "Paragon of Celestial Grace",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "I am truly honored to be able to share this wondrous scenery with you on such a festive occasion, Commander. Umm... I'm not just saying that out of courtesy. We rarely get opportunities like this, so I'm somewhat flattered...",
         "tag": [
           "bg",
@@ -19246,7 +19295,7 @@
         "id": 502012,
         "gid": 50201,
         "name": "Pristine Leaves, Rich Warmth",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "I am honored that you could make time in your busy schedule to accept my invitation... Hmm? There's no need to be so formal? Heehee. Well, the tea happens to be ready now, so please sit down next to me~",
         "tag": [
           "bg",
@@ -19389,7 +19438,7 @@
         "id": 502023,
         "gid": 50202,
         "name": "Dragon Sisters! -N",
-        "type": "Shining Stars",
+        "type": "Shining Star",
         "desc": "We haven't had to worry as much about things like food since we joined the fleet, but that doesn't mean we can just throw money around...! Anyway, I'm the older of the \"Dragon Sisters,\" Ning Hai! Great to be here!",
         "tag": [
           "live2d",
@@ -19414,7 +19463,7 @@
         "id": 502024,
         "gid": 50202,
         "name": "Springtime Sojourn",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Commander, what are you spacing out for? Over here! They say that you'll have good fortune if you give this thing a shake!",
         "tag": [
           "bg"
@@ -19602,7 +19651,7 @@
         "id": 502033,
         "gid": 50203,
         "name": "Dragon Sisters! -P",
-        "type": "Shining Stars",
+        "type": "Shining Star",
         "desc": "Big sister says that even though we have some money now, we still have to save as much as we can. Um... Anyway, I'm the younger \"Dragon Sister,\" Ping Hai. Erm... I'm kind of hungry. Do you maybe have something to eat?",
         "tag": [
           "live2d",
@@ -19627,7 +19676,7 @@
         "id": 502034,
         "gid": 50203,
         "name": "Great Gourmet Expedition",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "The Sakura Empire has lots of delicious food that I've never tried before! Yeah! It's a great place!",
         "tag": [
           "bg"
@@ -20053,7 +20102,7 @@
         "id": 401462,
         "gid": 40146,
         "name": "Girls' Relay",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "Through the sweat and tears, striving for your goals. Rejoice in victory, sink within defeat... How fascinating, this \"sports meet\" may be.",
         "tag": [
           "live2d",
@@ -20078,7 +20127,7 @@
         "id": 401463,
         "gid": 40146,
         "name": "Star-Lit★Chocolate",
-        "type": "Shining Stars",
+        "type": "Shining Star",
         "desc": "Dancing beams of light, shimmering on-stage; uplifted voices, joined as one by song... Upon this unknown stage, my heart doth flutter... Yet this sensation, is quite refreshing.",
         "tag": [
           "live2d",
@@ -20103,7 +20152,7 @@
         "id": 401464,
         "gid": 40146,
         "name": "Jianzhi Fantasia",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "\"Jianzhi,\" the art of breathing life into works of cut paper... is a world beyond my imagination. If these decorations are said to usher in blessings... are they akin to a coat-of-arms or a holy seal?",
         "tag": [
           "dynamicbg"
@@ -20277,7 +20326,7 @@
         "id": 301294,
         "gid": 30129,
         "name": "Clumsy Moon Rabbit",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Oh no! Commander, look out! ...Phew. That was really close. Apologies for my clear lack of attentiveness! I shouldn't have been in such a rush to deliver all these mooncakes...",
         "tag": [
           "bg"
@@ -20477,7 +20526,7 @@
         "id": 301323,
         "gid": 30132,
         "name": "Spring Festival Sweets",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "I heard that if I go around telling people \"Happy New Year,\" I can get lots of goodies! Ehehe, I hope they'll give me a bunch of candy!",
         "tag": [
           "dynamicbg"
@@ -21213,7 +21262,7 @@
         "id": 301581,
         "gid": 30158,
         "name": "Sports Festival Preparations",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "It's my turn? Hold on... Umm, could you please not stare at me like that? It's... making me feel uncomfortable.",
         "tag": [
           "bg"
@@ -21237,7 +21286,7 @@
         "id": 301582,
         "gid": 30158,
         "name": "Firecrackers and Steamed Buns",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Mmh... Happy New Year. I'm working on hooking my friends up with these firecrackers... The bun I'm eating? I received it as a thank-you for my efforts.",
         "tag": [
           "dynamicbg"
@@ -21691,7 +21740,7 @@
         "id": 102131,
         "gid": 10213,
         "name": "Blue and White Pottery",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "What do you think of this foreign dress, Commander? *Giggle* ...Perhaps it's rekindled something within you?",
         "tag": [
           "live2d",
@@ -22764,7 +22813,7 @@
         "id": 302213,
         "gid": 30221,
         "name": "Fragrance of the Eastern Snow",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Whew... Oh, are you cold by any chance? I have some hot tea for you if you'd like. If you want someone to chat with, I'd be glad to keep you company.",
         "tag": [
           "dynamicbg"
@@ -22902,6 +22951,30 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302218/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302218/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302218/shipyard.png"
+      },
+      "332210": {
+        "id": 332210,
+        "gid": 30221,
+        "name": "A Dip in the Moonlight",
+        "type": "Hot Springs",
+        "desc": "Basking in the summer night's air and chatting with someone I love, all under the moonlight... Now this is a nice bath. By the way... did you know you dropped your towel?",
+        "tag": [
+          "dynamic"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 147,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/332210/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/332210/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/332210/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/332210/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/332210/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/332210/shipyard.png"
       }
     }
   },
@@ -23337,6 +23410,28 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/102150/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/102150/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/102150/shipyard.png"
+      },
+      "102151": {
+        "id": 102151,
+        "gid": 10215,
+        "name": "Steam Dream",
+        "type": "Hot Springs",
+        "desc": "Aahhh... This is heaven! Hm? Commander, wanna join me? Oh, the bath just felt so good I couldn't help but moan! There's no funny business going on!",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 117,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/102151/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/102151/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/102151/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/102151/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/102151/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/102151/shipyard.png"
       }
     }
   },
@@ -23418,7 +23513,7 @@
         "id": 301633,
         "gid": 30163,
         "name": "Robes of Dancing Clouds",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Commander, thank you for coming to see me. I'm currently rehearsing my program for the Spring Festival performance. I do hope it is to your liking.",
         "tag": [
           "dynamicbg"
@@ -23518,7 +23613,7 @@
         "id": 301643,
         "gid": 30164,
         "name": "Bringer of Fortunes",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Should I hang this \"fortune\" poster here...? Oh, Commander, did ya also want a Spring Festival present from Ooshio here? Just kiddin'~ Hehe, anyway, happy Lunar New Year~",
         "tag": [
           "dynamicbg"
@@ -24131,7 +24226,7 @@
         "id": 408012,
         "gid": 40801,
         "name": "Lantern-Lit Full Moon",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Over here, Commander! I came because you said we were going to go moon-viewing together! I even brought tea and mooncakes.",
         "tag": [
           "dynamicbg"
@@ -24305,7 +24400,7 @@
         "id": 408025,
         "gid": 40802,
         "name": "Hook, Line, and Sinker",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Nice. I've found a legendary luck-bringing carp, like... Oh. I almost had it, too... Sorry, Commander.",
         "tag": [
           "dynamicbg"
@@ -24933,7 +25028,7 @@
         "id": 901013,
         "gid": 90101,
         "name": "Splendorous Debut",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Commander, thanks for coming to pick me up! I don't often get the chance to wear formal clothes, though it is a little hard to move around... Oh, but I can deal with it!",
         "tag": [
           "bg"
@@ -25158,7 +25253,7 @@
         "id": 905014,
         "gid": 90501,
         "name": "Springlight Étoiles",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "What're you starin' daggers through me for? Are ya that excited about this new outfit? Alright, then feast your eyes on my fashion sense. Yeah, I didn't put it together just for your sake this time – more like to demonstrate my tastes.",
         "tag": [
           "live2d",
@@ -25338,7 +25433,7 @@
         "id": 206042,
         "gid": 20604,
         "name": "Sprightly Spring Wind",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "I never imagined you would give me such a splendid dress, Commander... I think it's called a \"qipao...\" is it? I'll try it, revealing though it is. Wh- what do you think...? Do I look... nice?",
         "tag": [
           "bg"
@@ -25439,7 +25534,7 @@
         "id": 107093,
         "gid": 10709,
         "name": "Brush and Ink",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "The Dragon Empery's attire and tools of calligraphy... I see, just wearing this outfit makes me feel more scholarly and artistic! I shall put forth my best effort to prepare for the port's Spring Festival!",
         "tag": [
           "dynamicbg"
@@ -25529,6 +25624,28 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107096/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107096/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107096/shipyard.png"
+      },
+      "107099": {
+        "id": 107099,
+        "gid": 10709,
+        "name": "Essex (Retrofit)",
+        "type": "Retrofit",
+        "desc": "Essex's retrofitting has finished! Now Enterprise will be– No, YOU will be 120% satisfied with me, Commander! Anyway, I, Essex-class aircraft carrier Essex, am at your command!",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 149,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107099/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107099/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107099/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107099/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107099/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107099/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107099/shipyard.png"
       }
     }
   },
@@ -25686,7 +25803,7 @@
         "id": 801033,
         "gid": 80103,
         "name": "Cheering Star",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "Let's go, let's go! Allons-y! Whew... Heehee, you here to watch me rehearse, Commander? Okay, and how was my performance just now? Did that manage to motivate you?",
         "tag": [
           "bg"
@@ -26036,7 +26153,7 @@
         "id": 103132,
         "gid": 10313,
         "name": "eXtreme Games",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "Oh crap! Move outta the way, Commander! Come on, man, look out next time! You'd have gotten hurt if I'd slammed into you!",
         "tag": [
           "dynamicbg"
@@ -26472,7 +26589,7 @@
         "id": 202203,
         "gid": 20220,
         "name": "Azure Horizons",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "I have heard it is part of a maid's duties to dress to her honourable Master's liking over the holidays. Would this outfit happen to... satisfy the honourable Master's wishes?",
         "tag": [
           "dynamicbg"
@@ -26549,7 +26666,7 @@
         "id": 202211,
         "gid": 20221,
         "name": "Eastern Grace",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "As I am but a maid, it is a great honor to be able to wear such a gorgeous outfit… How do I look, Commander? \"Not sure where to start feasting your eyes?\" Oh my... Commander...",
         "tag": [
           "bg"
@@ -26623,7 +26740,7 @@
         "id": 202221,
         "gid": 20222,
         "name": "Rhythm of the Dragon Empery",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "You can feel the profound heritage and culture of the Dragon Empery from all these customs and outfits for the Lunar New Year's Festival… It seems to be ever more necessary to study the traditions and etiquette of this wondrous culture.",
         "tag": [
           "bg"
@@ -26697,7 +26814,7 @@
         "id": 101382,
         "gid": 10138,
         "name": "Style of the East",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "While wearing clothes from the Dragon Empery, I can't help but reminisce about those days... Hehe, Commander, do you prefer me in Empery-style clothes, or Union-style clothes?",
         "tag": [
           "bg"
@@ -26749,7 +26866,7 @@
         "id": 101392,
         "gid": 10139,
         "name": "Eastern Etiquette",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "What's with the weird look, Commander? Ah, I got this outfit while studying abroad in the Dragon Empery. Umm... does it suit me?",
         "tag": [
           "bg"
@@ -26801,7 +26918,7 @@
         "id": 206051,
         "gid": 20605,
         "name": "The Way of the Dragon Empery",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Does this dress from the Dragon Empery not suit me well? Though I was born in the Eagle Union and raised by the Royal Navy, my time in the Dragon Empery also left a deep impression upon me. Why don't we have a chat about their profound culture and tea? Hehe~",
         "tag": [
           "bg"
@@ -27411,7 +27528,9 @@
         "name": "Prairie Knight",
         "type": "Wild West",
         "desc": "I'm still Parzival of the Seas, even on land! Lord Bismarck entrusted me with these goods and I'm gonna keep them safe! Now step up and try your luck, hooligans!",
-        "tag": [],
+        "tag": [
+          "bg"
+        ],
         "illustrator": -1,
         "illustrator2": -1,
         "voice_actor": 38,
@@ -27481,7 +27600,7 @@
         "id": 408052,
         "gid": 40805,
         "name": "New Year's Chemistry",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "In today's chemistry lesson, we'll learn how to make a warming cup of tea and an optional concoction to enhance its flavor! Will you do the honor of taste-testing it, Commander?",
         "tag": [
           "dynamicbg"
@@ -27697,7 +27816,7 @@
         "id": 202232,
         "gid": 20223,
         "name": "Beauty of White Jade",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "I agreed to try on this outfit, but... I know these fancy outfits don't suit me... H-huh, I look gorgeous?! ...Thank you very much. Even if you're just trying to make me feel better, I appreciate it...",
         "tag": [
           "dynamicbg"
@@ -27949,7 +28068,7 @@
         "id": 308042,
         "gid": 30804,
         "name": "Sweet Wine of Celebration",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Commander, Happy Lunar New Year. Would you like some sweet wine to celebrate? Oh, be careful not to drink too much~",
         "tag": [
           "dynamicbg"
@@ -28185,7 +28304,7 @@
         "id": 105201,
         "gid": 10520,
         "name": "Untarnished Silver, Silken Gold",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Hrmm... Lotta orders to work through... Runnin' a Dragon Empery restaurant ain't easy. Hmm? You here for some chow too, Commander? Then how about... I put you ahead in line?",
         "tag": [
           "bg"
@@ -28441,7 +28560,7 @@
         "id": 102232,
         "gid": 10223,
         "name": "Fruitful Snow of an Auspicious Year",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Happy Lunar New Year, Commander. I'm trying out Dragon Empery fashion for a change, though this dress will some getting used to. Hey, uh, do you want to join me under the umbrella? For cover against the snowfall, I mean.",
         "tag": [
           "dynamicbg"
@@ -28591,7 +28710,7 @@
         "id": 101352,
         "gid": 10135,
         "name": "Showy Sports Star",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "Tada! Your favorite tennis superstar, Bache, is right here! ...Hey Commander, you're supposed to cheer for me like you're one of my fans in the stands!",
         "tag": [
           "dynamicbg"
@@ -28668,7 +28787,7 @@
         "id": 202242,
         "gid": 20224,
         "name": "Fair Maid Spring",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "A \"qipao,\" is it? So this legendary dress from the Dragon Empery... Putting it on and enjoying some nostalgic music, makes me... Ahhh... Commander, might we relax like this a bit longer...?",
         "tag": [
           "dynamicbg"
@@ -29251,7 +29370,7 @@
         "id": 408083,
         "gid": 40808,
         "name": "Garnished Supershark",
-        "type": "Shining Stars",
+        "type": "Shining Star",
         "desc": "The horned idol U-110 splashes onto the staaage. I'll sing all the baddies to obliviooon. I'm scaaary. Raaawr. Raaawr♪",
         "tag": [
           "dynamicbg"
@@ -29299,7 +29418,7 @@
         "id": 408085,
         "gid": 40808,
         "name": "Springtime Shark",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "I'm gathering mushrooms, not garlic cloooves. The edible ones are gonna go in a hearty hot pot that'll warm me and my frieeends. Raaawr.",
         "tag": [
           "dynamicbg"
@@ -29531,7 +29650,7 @@
         "id": 307014,
         "gid": 30701,
         "name": "Dawn-Phoenix's Summons",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "This banquet is my present to you... and your attendance is the greatest reward I could hope for~ Indeed, I shall not grant you leave tonight until you pass out. Ehehe... Ahahaha~♡",
         "tag": [
           "live2d",
@@ -30368,7 +30487,7 @@
         "id": 101431,
         "gid": 10143,
         "name": "Spring's Lucky Star",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Halsey Powell is making her debut as your lucky star for the Spring Festival! Commander, if you show me a fun time, you'll be blessed with good luck this year!",
         "tag": [
           "dynamicbg"
@@ -30420,7 +30539,7 @@
         "id": 102251,
         "gid": 10225,
         "name": "Dapper Gangstress",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "We're celebrating an overseas holiday, hence my not-so-casual outfit today. Heheh, what do you think? Looking slick?",
         "tag": [
           "dynamicbg"
@@ -30668,7 +30787,7 @@
         "id": 701024,
         "gid": 70102,
         "name": "Tea Party with Królik",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "*burp*... Now I think I get the appeal of tea. Why is the cup so small, though? Do you have a bigger one on hand, Comrade Commander?",
         "tag": [
           "bg"
@@ -31117,7 +31236,7 @@
         "id": 702043,
         "gid": 70204,
         "name": "High Jump Star",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "...Hmph! Just short of a new personal best, huh? But make no mistake, Comrade Commander. Keep watching me and your patience WILL be rewarded with a breathtaking record!",
         "tag": [
           "bg"
@@ -31550,7 +31669,7 @@
         "id": 107111,
         "gid": 10711,
         "name": "One Intrepid Pitch",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "There's been a lot of inter-port meets recently... But before I can join a team with my other Eagle Union colleagues, I've got to up my game first! So, Commander, mind training with me?",
         "tag": [
           "dynamicbg"
@@ -31602,7 +31721,7 @@
         "id": 103241,
         "gid": 10324,
         "name": "Scorching-Hot Training",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "*pant*... *pant*... Man, it's so sunny today... Commander, or should I say, \"Coach,\" could ya lend me your parasol? I'm starting to feel my brains melting away...",
         "tag": [
           "bg"
@@ -31626,7 +31745,7 @@
         "id": 103242,
         "gid": 10324,
         "name": "Kung Fu Cruiser",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "\"Stop right there, evildoers! You've managed to evade justice all this time, but the hour of judgment is finally upon you!\" ...Hmm, making the perfect flashy debut is pretty tough, isn't it?",
         "tag": [
           "live2d",
@@ -31776,7 +31895,7 @@
         "id": 101441,
         "gid": 10144,
         "name": "Blazing Tennis Battle",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "30 to 15... Next match will be mine, you hear! Oh, Commander, are you here to play a round of tennis?",
         "tag": [
           "live2d",
@@ -31853,7 +31972,7 @@
         "id": 102261,
         "gid": 10226,
         "name": "Biggest Little Cheerleader",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "This really is a huge clash of all the biggest names from all the factions. It's one exciting match after another! I gotta cheer my hardest too. Eagle Union, go get 'em!",
         "tag": [
           "dynamicbg"
@@ -31926,7 +32045,7 @@
         "id": 102264,
         "gid": 10226,
         "name": "Spring's Inspiration",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Check this out, Commander! Hehehe, I added a little firework launcher to my superhero gadgets. Cool, huh? ...Your interest lies more in my new look? But... the firework...",
         "tag": [
           "dynamicbg"
@@ -31978,7 +32097,7 @@
         "id": 108041,
         "gid": 10804,
         "name": "Up-And-Coming Infielder",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "Look out for Bluegill's ultra-reliable defense, Intrepid! Hehehe, Commander, stay here and see the results of Bluegill's special training!",
         "tag": [
           "dynamicbg"
@@ -32030,7 +32149,7 @@
         "id": 106551,
         "gid": 10655,
         "name": "Cheer Squad on Break",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "Phew... Can't train hard if you don't stay hydrated! Oh, Commander, good day! Did you come to watch us practice?",
         "tag": [
           "dynamicbg"
@@ -32082,7 +32201,7 @@
         "id": 102271,
         "gid": 10227,
         "name": "Boxing Girl!",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "After trying out a whole bunch of activities, I settled on joinin' the boxing club in the end. Everyone wants to exercise now and then, right? Come along, Commander, and we'll have a fun workout together~",
         "tag": [],
         "illustrator": -1,
@@ -32126,7 +32245,7 @@
         "id": 102273,
         "gid": 10227,
         "name": "Moongazing on the 29½th",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "The annual moon gazing festival's upon us again~ Ah, so you know a thing or two about the Mid-Autumn Festival, Commander? Then I reckon you know what we're doing tonight, right~? ♡",
         "tag": [
           "dynamicbg"
@@ -32227,7 +32346,7 @@
         "id": 301822,
         "gid": 30182,
         "name": "Blossoming Spring, Resplendent Moon",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "What kinds of flowers should I decorate the office with for the Lunar New Year...? Ugh, I just can't decide! Um, Commander, will you be inspecting the interior? I'll show you around! Phew...",
         "tag": [
           "dynamicbg"
@@ -32327,7 +32446,7 @@
         "id": 301833,
         "gid": 30183,
         "name": "Nestling Up for the Long Nights",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "I wanted to help you relieve some stress, so I thought I would read some folk tales to you... When I mentioned that, Akashi suggested these clothes to me... Wh-what do you think?",
         "tag": [
           "dynamicbg"
@@ -32607,7 +32726,7 @@
         "id": 802022,
         "gid": 80202,
         "name": "Patron Saintess of Celebration",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Oh, Commander, would you like to release a lantern? I hear they're a way to send wishes into the heavens above... May our Lord bless our companions and bring peace and joy to all.",
         "tag": [
           "dynamicbg"
@@ -32759,7 +32878,7 @@
         "id": 902012,
         "gid": 90201,
         "name": "Lush Spring Dreams",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Happy New Year, again! So, you wanna try sharing this \"cross-cupped wine?\" What, it's not a drinking game? Welp, I guess I've still got a whole ton to learn about the Dragon Empery's customs~",
         "tag": [
           "live2d",
@@ -33117,7 +33236,7 @@
         "id": 205093,
         "gid": 20509,
         "name": "Evening Marvels",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Thanks for your patience, love. I've looked forward to this evening's party for a long, long time. Hopefully George, York, and company won't laugh at me after how much effort I've put into this ensemble... What do you think of it, Commander?",
         "tag": [
           "bg"
@@ -33193,7 +33312,7 @@
         "id": 206062,
         "gid": 20606,
         "name": "Spring's Lackadaisical Leisure",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Whew. Lunar New Year... Easy to grasp in various ways. Both the holiday and your tastes, I mean. Heehee.",
         "tag": [
           "live2d",
@@ -33320,7 +33439,7 @@
         "id": 202274,
         "gid": 20227,
         "name": "Pristine Herbalist",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "How are you feeling, Commander? Hehe, I'm not wearing my usual nurse's gown right now, but I suppose this isn't much different~",
         "tag": [
           "dynamicbg"
@@ -33668,7 +33787,7 @@
         "id": 408092,
         "gid": 40809,
         "name": "How Heavy Are Those Barbells?",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "Mmgh... Guh... Ahhh! These things are heavier than they look... Oh, there you are. You work out too, do ya? Feel free to join me if you've not just come to tease me.",
         "tag": [
           "bg"
@@ -33945,7 +34064,7 @@
         "id": 306082,
         "gid": 30608,
         "name": "Mosaic of Blending Colors",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "I had this outfit custom-made just for today... Do you like it, Commander? Um, that's good then... (*whispers*) Booyah.",
         "tag": [
           "bg"
@@ -34303,7 +34422,7 @@
         "id": 307072,
         "gid": 30707,
         "name": "Phoenix's Spring Song",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Hehehe, I let Christmas and New Year's slip right by me, that I might use the Dragon Empery's Lunar New Year to capture my Commander's attentions... Oh, My Commander, won't you please enjoy the show I've prepared for you♡",
         "tag": [
           "live2d",
@@ -34743,7 +34862,7 @@
         "id": 103162,
         "gid": 10316,
         "name": "Black Ace",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "Heya, you here to watch the game? Heh, heavy cruiser Baltimore, the passerby solver of troubles, here to play it cool!",
         "tag": [
           "dynamicbg"
@@ -34921,7 +35040,7 @@
         "id": 499012,
         "gid": 49901,
         "name": "Viridescent Lullaby",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "It's so nice getting away from the bustling party hall and being alone with you, Commander. I'm eager to see what we'll do now as your idea of a... \"break\"~",
         "tag": [
           "live2d",
@@ -34941,6 +35060,31 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499012/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499012/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499012/shipyard.png",
+        "shared": "49901"
+      },
+      "499018": {
+        "id": 499018,
+        "gid": 49901,
+        "name": "The Abyssal Embrace",
+        "type": "Oath",
+        "desc": "Commander? You've not only filled the void in my heart, but also wholly embraced my fervid feelings... Ah, you really make me want to do things... Unforgivable things, like opening my heart for you.",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 109,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/135.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499018/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499018/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499018/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499018/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499018/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499018/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499018/shipyard.png",
         "shared": "49901"
       }
     }
@@ -35046,7 +35190,7 @@
         "id": 207035,
         "gid": 20703,
         "name": "Maiden Lily's Radiance",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "It is my honour to get to wear another faction's garments. However... this traditional Dragon Empery dress feels rather tight around the chest area...",
         "tag": [
           "dynamicbg"
@@ -35351,7 +35495,7 @@
         "id": 407033,
         "gid": 40703,
         "name": "Lustrous Jade of the Golden House",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Heheheh, it may be a new year, but don't forget to be punctual. Just as you've refurnished this study into a Dragon Empery style, I've changed clothes to match. This little book club is just for the two of us, and I mean to suit the mood.",
         "tag": [
           "bg"
@@ -35805,7 +35949,7 @@
         "id": 401242,
         "gid": 40124,
         "name": "The Devil on the Court",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "Heh heh... As expected, you couldn't even last for a second! Winning too easily takes all the fun out of it... You, the mortal over there, I'll give you the honor of being my next opponent!",
         "tag": [
           "bg"
@@ -36138,7 +36282,7 @@
         "id": 408111,
         "gid": 40811,
         "name": "Spring Festival Scheme",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Happy Lunar New Year. Have you cooked up a scheme for this year's festival? Hehehe~ I'm of course talking about giving out New Year's gifts and hanging up decorations. I've devised a master plan of my own.",
         "tag": [
           "dynamicbg"
@@ -36162,7 +36306,7 @@
         "id": 408112,
         "gid": 40811,
         "name": "Practice Makes Perfect",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "And for my finishing move... maybe something like this? Heehee. What do your eyes think, Commander?",
         "tag": [],
         "illustrator": -1,
@@ -36212,7 +36356,7 @@
         "id": 502041,
         "gid": 50204,
         "name": "Snowy Pine's Warmth",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Happy New Year, Commander. I've come to deliver you blessings for this coming year... Next, you're going to ask for a red envelope, right? Hehe, just teasing~",
         "tag": [
           "dynamicbg"
@@ -36236,7 +36380,7 @@
         "id": 502042,
         "gid": 50204,
         "name": "Frolicking Flowers, Verse I",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Commander, Happy New Year! Chao Ho and I are preparing for this year's Spring Festival, and as you can see... we're in the middle of a little \"intermission.\" Hehe, don't worry, there's nothing you need to help out with. Just take a seat over there and enjoy the show~",
         "tag": [
           "live2d",
@@ -36314,7 +36458,7 @@
         "id": 502051,
         "gid": 50205,
         "name": "Plum Blossom's Illumination",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Happy New Year, Commander! This red envelope is my gift to you... after all, that's my responsibility as a big sister! Anyway, hurry up and take it!",
         "tag": [
           "dynamicbg"
@@ -36338,7 +36482,7 @@
         "id": 502052,
         "gid": 50205,
         "name": "Frolicking Flowers, Verse II",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Happy... New Year... Commander... Gah, this isn't the time for pleasantries! And you, help me catch the dumb fluffball that ran off with our ornaments! Jeez, why is this happening when I'm in the middle of getting ready for the Spring Festival?!",
         "tag": [
           "live2d",
@@ -36416,7 +36560,7 @@
         "id": 202291,
         "gid": 20229,
         "name": "Ruby-Red Boudoir",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Aurora chose this outfit for me because... the Spring Festival represents a time of celebration in the Dragon Empery, and red is the color that best symbolizes that. What do you think? Does this outfit... make you feel more festive?",
         "tag": [
           "dynamicbg"
@@ -36644,7 +36788,7 @@
         "id": 702062,
         "gid": 70206,
         "name": "Chamber of Fragrance",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Hello there, Comrade Commander~ Come take a deeeep breath of this. Sniiiff... Can you smell this room's fragrance? Hm? You can't tell? Oh. Uh, my incense may have stopped burning.",
         "tag": [
           "dynamic",
@@ -37162,7 +37306,7 @@
         "id": 301852,
         "gid": 30185,
         "name": "Jet Ink, Silver Quills",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Happy New Year to you, Commander. To celebrate the season, I had these garments tailor-made for me, using traditional Dragon Empery clothes as a basis. I don't look... childish, do I?",
         "tag": [
           "dynamicbg"
@@ -37649,7 +37793,7 @@
         "id": 102293,
         "gid": 10229,
         "name": "Jade Mermaid",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Huff... Puff... These Dragon Empery clothes look good on me? It's rather revealing and breezy, and makes me feel self-conscious... but if you like it, I suppose it's fine...",
         "tag": [
           "bg"
@@ -38777,7 +38921,7 @@
         "id": 202301,
         "gid": 20230,
         "name": "Red Chamber of Healing",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "*Pats thighs* Master, you poor thing~ Look how hard you've been working~ Hehe, hurry and come here so that I can pamper you~",
         "tag": [
           "live2d",
@@ -38878,7 +39022,7 @@
         "id": 502071,
         "gid": 50207,
         "name": "Verse-Weaver at the Water's Edge",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "What a serendipitous meeting this is, Commander. I was simply searching for a place where I could leisurely enjoy my poetry manuscript. Since fate has brought both of us here, why don't we accompany each other for a while?",
         "tag": [
           "dynamicbg"
@@ -38951,7 +39095,7 @@
         "id": 502074,
         "gid": 50207,
         "name": "Baker of Heart into Sweets",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Welcome back, Commander. I made some tasty pastries for you. ...Huh? You want the one in my chest? Th-that doesn't count.",
         "tag": [
           "bg"
@@ -39025,7 +39169,7 @@
         "id": 502081,
         "gid": 50208,
         "name": "A Dance Among the Lotuses",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Look, Commander! I've become a goddess from the Dragon Empery's folklore! Hehehe! Let me perform for you a song and dance number I just learned!",
         "tag": [
           "dynamicbg"
@@ -39077,7 +39221,7 @@
         "id": 101491,
         "gid": 10149,
         "name": "Tales from the Empery",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Happy Lunar New Year, Commander! The time's finally come to look into the age-old legends from the Dragon Empery! The truth behind these legends is bound to be as fascinating as the legends themselves!",
         "tag": [
           "dynamicbg"
@@ -39153,7 +39297,7 @@
         "id": 506011,
         "gid": 50601,
         "name": "Vestibule of Wonders",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "You're here, Commander, just as promised. How do you like the atmosphere in here? Hehe, take a seat and enjoy the tea slowly. After all, we have plenty of time~",
         "tag": [
           "dynamicbg"
@@ -39201,7 +39345,7 @@
         "id": 506013,
         "gid": 50601,
         "name": "Sylvan Garden's Embroidery",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Oh, Commander, have you come to see me? Yes, as you can see, I've been studying the art of embroidery– Just like Go, it helps me organize my thoughts and see things from a broader perspective. Why don't you give it a try as well, Commander? Heehee~",
         "tag": [
           "bgm"
@@ -39762,7 +39906,7 @@
         "id": 603043,
         "gid": 60304,
         "name": "A Brush of Springtime Ink",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Commander? As you can see, I'm putting into practice the calligraphy knowledge you taught me before. The problem is, I can't seem to nail it... Could you watch for a bit and guide me?",
         "tag": [
           "bg"
@@ -39939,7 +40083,7 @@
         "id": 404042,
         "gid": 40404,
         "name": "Steaming-Hot Treat",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Om, nom... Hmm. Hey! This is pretty good! I mean, of course it's good – it's Empery cuisine! Commander, open wide and I'll give you a dumpling alley oop. Say \"aah\"!",
         "tag": [
           "bg"
@@ -40167,7 +40311,7 @@
         "id": 402072,
         "gid": 40207,
         "name": "Moonsilver Union",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Welcome, my darling human. Are you looking for something? If it is Emden you seek, you have already found her. \"We, Emden, are before your very eyes.\"",
         "tag": [
           "dynamicbg"
@@ -40290,7 +40434,7 @@
         "id": 402083,
         "gid": 40208,
         "name": "Beauty Beneath the Spring Limelight",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "G-good day, Commander. I'm ready to be your model... Ugh, there's probably going to be an accident if I wish that you'll take cute photos... Better clear my head just to be sure.",
         "tag": [
           "dynamicbg"
@@ -40729,7 +40873,7 @@
         "id": 901132,
         "gid": 90113,
         "name": "Temp in Low Temperatures",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Hmm... Traveling by foot from here would be quickest. Ah... It's snowing. Hmph! A little snow and wind can scarcely faze a noble Templar Knight! I'll be back shortly!",
         "tag": [
           "bg"
@@ -41170,7 +41314,7 @@
         "id": 401161,
         "gid": 40116,
         "name": "Guaranteed Grand Slam!",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "Heh heh! Count your lucky stars, Commander, because you're just in time – to witness the one-and-only Z16 knock this thing right outta the ballpark!",
         "tag": [
           "bg"
@@ -41222,7 +41366,7 @@
         "id": 404051,
         "gid": 40405,
         "name": "Grain-Seizing Grani",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "Hah! This donut now belongs to Brünhilde! Alright, now for the finish line... C-Commander? Sorry, but there's no time for chit-chat... I'll be going now!",
         "tag": [
           "bg"
@@ -41298,7 +41442,7 @@
         "id": 301882,
         "gid": 30188,
         "name": "Blue Sparrow Heralding Spring",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Blue Sparrow Wakatsuki is here! ...Commander, why are you just staring—Oh, no! I'm caught on the curtain... Aaaah!",
         "tag": [
           "bg"
@@ -41550,7 +41694,7 @@
         "id": 206072,
         "gid": 20607,
         "name": "Scent of Spring in the Red Pavilion",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Hand brushing my hair behind my ear, eyes toward the camera... Mm, filming promotional material isn't easy... Commander, will this do?",
         "tag": [
           "live2d",
@@ -41778,7 +41922,7 @@
         "id": 107073,
         "gid": 10707,
         "name": "Cheering Justice!",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "Let's keep it up, everyone! One more point, and we can make a comeback!!! ...Hah... *gulp gulp*... Whew~! Thanks a billion for the drink, Commander! And thanks for watching over us as well!",
         "tag": [
           "dynamicbg"
@@ -42032,7 +42176,7 @@
         "id": 103262,
         "gid": 10326,
         "name": "Comfy Crane Amidst the Clouds",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Phew... This getup does help me get into the festival mood. It looks nice, and it's supremely comfortable, but I can't shake this embarrassment... Huh? Commander? When did you get here?",
         "tag": [
           "bg"
@@ -42158,7 +42302,7 @@
         "id": 101253,
         "gid": 10125,
         "name": "Hammanyan Pawnch!",
-        "type": "Shining Stars",
+        "type": "Shining Star",
         "desc": "Ughh... These gloves are so heavy and the dress is too revealing. Why on earth did I decide to put these on... I can't show myself to Yorktown like this!",
         "tag": [
           "dynamicbg"
@@ -42261,7 +42405,7 @@
         "id": 702051,
         "gid": 70205,
         "name": "Maestro of Sterling Strings",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "...Thus marks the end of this tune. The Dragon Empery has graciously allowed me to perform in their Spring Festival celebration. Are you here to listen, Commander? In that case... How did you like the song? Heehee.",
         "tag": [
           "dynamicbg"
@@ -42313,7 +42457,7 @@
         "id": 206081,
         "gid": 20608,
         "name": "New Year's White Plumage",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Steaming hot manjuu buns, ready to be served! Let us have a big feast then gather rosebuds, Commander. Oh, a \"holiday gathering\" doesn't involve literal gathering?",
         "tag": [
           "bg"
@@ -42365,7 +42509,7 @@
         "id": 506021,
         "gid": 50602,
         "name": "The Festive Undead",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "I am Hwah Jah, now in zombie form. It is an honor to see you– hmm? What's wrong, Commander? Everyone else is getting dressed up for the occasion, so I figured I'd get in on the action too... Is there something wrong with that?",
         "tag": [
           "dynamicbg",
@@ -42440,7 +42584,7 @@
         "id": 519011,
         "gid": 51901,
         "name": "Tender White Jade",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "I see, so this is how you're supposed to knead dough... Hmm? Commander? As you can see, I'm currently trying to make baozi. Would you like to help out?",
         "tag": [
           "bg"
@@ -43650,7 +43794,7 @@
         "id": 902021,
         "gid": 90202,
         "name": "Fighting Angel's Regimen",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "Alright, aim at this part of the ball, and drop my hips... Nngh?! I, I'm alright! The fighting angel, Marseillaise, will not be defeated by this... Hyeep?!",
         "tag": [
           "bg",
@@ -43703,7 +43847,7 @@
         "id": 807021,
         "gid": 80702,
         "name": "Team Stretching",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "Phew... Commander...? Would you like to... hnnngh... stretch with me? Don't worry, it won't hurt. We have plenty of time, so we can take it slow...",
         "tag": [
           "dynamic",
@@ -43781,7 +43925,7 @@
         "id": 803011,
         "gid": 80301,
         "name": "Impulsive Incident",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "Hm? The door's open! ...Commander? Oh, ahaha... Silly me, I should've put up a card with \"occupied\" on it... Then again, I... I guess I don't mind if you're the one who sees me~",
         "tag": [
           "bg"
@@ -43857,7 +44001,7 @@
         "id": 901041,
         "gid": 90104,
         "name": "Reverent Runner",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "Phew... Commander? So the Iris brings us together once again... I-I'm sorry for being so sudden, but... Would you like to join me on my run?",
         "tag": [
           "dynamic",
@@ -43935,7 +44079,7 @@
         "id": 805021,
         "gid": 80502,
         "name": "Paired Exercise",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "Mmh... Pilates may be easy to learn, but it seems difficult to master... Are you still okay, Commander? Me? I-I can keep going...",
         "tag": [
           "bg"
@@ -44039,7 +44183,7 @@
         "id": 905021,
         "gid": 90502,
         "name": "Splendid Breeze",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "The skies are blue and the wind is calm, a perfect day for golfing... Commander? I didn't bring you here just to watch the scenery, you know? Brace yourself, because you're in for a long day with me.",
         "tag": [
           "live2d",
@@ -44716,7 +44860,7 @@
         "id": 101173,
         "gid": 10117,
         "name": "White Rabbit Welcomes the Spring",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Have a happy and auspicious New Year? Uh.... can I go now...? I'm feeling a bit sleepy, so can I go back to sleep?",
         "tag": [
           "live2d",
@@ -44790,7 +44934,7 @@
         "id": 101176,
         "gid": 10117,
         "name": "Bunny Idol @Unmotivated",
-        "type": "Shining Stars",
+        "type": "Shining Star",
         "desc": "\"Laffey came from Planet Bunny...\" Umm, I forgot that line Benson told me to say... In any case, everyone, please give me lots of support... Actually, just a little support is fine... Uhh, I have to do it again with more motivation?",
         "tag": [
           "dynamicbg"
@@ -45227,7 +45371,7 @@
         "id": 504011,
         "gid": 50401,
         "name": "Dance Beneath the Moonlight",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Happy New Year, Commander. Hmm? I look a bit different from usual? Why of course, it's because it was chosen to suit your tastes by none other than Chi An. Even this mask is brand new. I look \"like a fairy from the sacred mountains,\" you say? I wonder... who taught you to say something like that?",
         "tag": [
           "bg",
@@ -45280,7 +45424,7 @@
         "id": 502091,
         "gid": 50209,
         "name": "Lanternlit Stroll",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "May blessings reach you this coming spring. Hm? My outfit? Heehee. Since the ever-so-busy Commander came to see me on this special occasion, I naturally had to put in some effort too– Now then, set aside all your worries, and come enjoy this wonderful evening with me~♪",
         "tag": [
           "dynamicbg"
@@ -45357,7 +45501,7 @@
         "id": 501051,
         "gid": 50105,
         "name": "Ascendant Dragon's Spring Feast",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Happy New Year, Commander... Having that said, the others said they had a surprise for me, but then ended up banning me from the kitchen... I didn't do anything bad, did I? I'm real worried... Can't I at least take a look at what's going on there? Ugh... How about you go check it out in my stead? P-pretty please, Commander!",
         "tag": [
           "live2d",
@@ -45434,7 +45578,7 @@
         "id": 501061,
         "gid": 50106,
         "name": "Prancing Tiger Welcomes the Spring",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Let's usher in the New Year with the sound of gongs and firecrackers~! Whaddya think? Lion dances are pretty awesome, aren't they? So, Commander, who's got more oomph in their dance steps? Me, or Lung Wu? C'mon, hurry up and decide~!",
         "tag": [
           "dynamicbg",
@@ -45487,7 +45631,7 @@
         "id": 501071,
         "gid": 50107,
         "name": "Flying Clouds, Flailing Pranks",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "H-Happy New Year, Commander... Umm, uhh... C-could you please help me down first? ....Waah, I promise I won't have any more \"adventures\" in the kitchen...",
         "tag": [
           "dynamicbg"
@@ -46159,7 +46303,7 @@
         "id": 403036,
         "gid": 40303,
         "name": "Brilliant Touchdown",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "*pant*... Quarterback Prinz Eugen scores a touchdown. I can't believe I'm the one charging in now... Commander, can you bring me water and a towel? I'm getting a little sticky from all this sweat...",
         "tag": [
           "bg",
@@ -46287,7 +46431,7 @@
         "id": 302213,
         "gid": 30221,
         "name": "Fragrance of the Eastern Snow",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Whew... Oh, are you cold by any chance? I have some hot tea for you if you'd like. If you want someone to chat with, I'd be glad to keep you company.",
         "tag": [
           "dynamicbg"
@@ -46430,6 +46574,31 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302218/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302218/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/302218/shipyard.png",
+        "shared": "30221"
+      },
+      "332210": {
+        "id": 332210,
+        "gid": 30221,
+        "name": "A Dip in the Moonlight",
+        "type": "Hot Springs",
+        "desc": "Basking in the summer night's air and chatting with someone I love, all under the moonlight... Now this is a nice bath. By the way... did you know you dropped your towel?",
+        "tag": [
+          "dynamic"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 147,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/332210/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/332210/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/332210/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/332210/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/332210/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/332210/shipyard.png",
         "shared": "30221"
       }
     }
@@ -46643,7 +46812,7 @@
         "id": 801033,
         "gid": 80103,
         "name": "Cheering Star",
-        "type": "Sport Time",
+        "type": "Sports Time",
         "desc": "Let's go, let's go! Allons-y! Whew... Heehee, you here to watch me rehearse, Commander? Okay, and how was my performance just now? Did that manage to motivate you?",
         "tag": [
           "bg"
@@ -46747,7 +46916,7 @@
         "id": 102293,
         "gid": 10229,
         "name": "Jade Mermaid",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Huff... Puff... These Dragon Empery clothes look good on me? It's rather revealing and breezy, and makes me feel self-conscious... but if you like it, I suppose it's fine...",
         "tag": [
           "bg"
@@ -48555,7 +48724,7 @@
         "id": 503011,
         "gid": 50301,
         "name": "Dressed for Just Tonight",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "There's still time. Let's set out once I've finished adjusting my dress... If you have nothing better to do, at least put on some tea.",
         "tag": [
           "None",
@@ -48581,7 +48750,7 @@
         "id": 503012,
         "gid": 50301,
         "name": "Dressed for Just Tonight",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Don't just stare – help me... Look, I meant that in the \"help me balance\" sense... Are you trying to take my shoes off?",
         "tag": [
           "None",
@@ -48635,7 +48804,7 @@
         "id": 502101,
         "gid": 50210,
         "name": "Maple Impressions",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Very well, Commander, I'll leave the photography to you. I entrust you to capture my grace and elegance and record it into memory! Just so you're clear though, th-this is just an outfit that's in vogue... It's not like I chose to wear it for you or anything!",
         "tag": [
           "bg"
@@ -48687,7 +48856,7 @@
         "id": 501081,
         "gid": 50108,
         "name": "Cozy Spring Cleaning",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Oh, Commander~ Please give me a moment; Fei Yuen, Fu Po, and I are still finishing up our spring cleaning. Why don't you come inside for now and have some warm tea?",
         "tag": [
           "bg"
@@ -48711,7 +48880,7 @@
         "id": 501082,
         "gid": 50108,
         "name": "A Sky Blue Eclipsing Jade",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Commander, this is the new Ru-ware tea set I just purchased. Absolutely beautiful, isn't it? We have a custom to bring out the best things for those you care about, which is why I decided to invite you~♪",
         "tag": [
           "bg"
@@ -48763,7 +48932,7 @@
         "id": 501091,
         "gid": 50109,
         "name": "Mischievous Tidings",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Oh... Well, shoot, you found me... Shhhhh! Don't tell anyone that I'm here though! Seriously, Commander, I'm begging you!",
         "tag": [
           "bg"
@@ -49784,6 +49953,268 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403160/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403160/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403160/shipyard.png"
+      }
+    }
+  },
+  "80401": {
+    "gid": 80401,
+    "name": "Masséna",
+    "skins": {
+      "804010": {
+        "id": 804010,
+        "gid": 80401,
+        "name": "Masséna",
+        "type": "Default",
+        "desc": "Type 1913 battlecruiser – Masséna.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 468,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/804010/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/804010/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/804010/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/804010/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/804010/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/804010/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/804010/shipyard.png"
+      },
+      "804011": {
+        "id": 804011,
+        "gid": 80401,
+        "name": "Sweetly Intoxicating Spring",
+        "type": "Hot Springs",
+        "desc": "Commander, this spring has a sweet taste to it. You should try it.",
+        "tag": [
+          "live2d",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 468,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/167.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/804011/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/804011/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/804011/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/804011/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/804011/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/804011/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/804011/shipyard.png"
+      }
+    }
+  },
+  "80601": {
+    "gid": 80601,
+    "name": "Bois Belleau",
+    "skins": {
+      "806010": {
+        "id": 806010,
+        "gid": 80601,
+        "name": "Bois Belleau",
+        "type": "Default",
+        "desc": "Independence-class light aircraft carrier – Bois Belleau.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 469,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/806010/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/806010/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/806010/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/806010/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/806010/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/806010/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/806010/shipyard.png"
+      },
+      "806011": {
+        "id": 806011,
+        "gid": 80601,
+        "name": "Steamy Therapy",
+        "type": "Hot Springs",
+        "desc": "Finished your sacred work? I looked into hot spring therapy a little to help you relax a little. It's the warmest and most pleasant healing method I've ever seen. Would you... come in with me?",
+        "tag": [
+          "None"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 469,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/806011/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/806011/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/806011/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/806011/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/806011/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/806011/shipyard.png"
+      }
+    }
+  },
+  "80303": {
+    "gid": 80303,
+    "name": "Duquesne",
+    "skins": {
+      "803030": {
+        "id": 803030,
+        "gid": 80303,
+        "name": "Duquesne",
+        "type": "Default",
+        "desc": "Duquesne-class heavy cruiser – Duquesne.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 470,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/803030/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/803030/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/803030/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/803030/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/803030/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/803030/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/803030/shipyard.png"
+      },
+      "803031": {
+        "id": 803031,
+        "gid": 80303,
+        "name": "Wetness of a Crimson Night",
+        "type": "Hot Springs",
+        "desc": "This wine bath mustn't be wasted. One must strip off their clothes and submerge themselves deeply in this rich bath of life. Be not so reserved, Commander, just... Huh?! N-no, I would never peek whilst you got changed!",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 470,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/164.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/803031/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/803031/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/803031/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/803031/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/803031/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/803031/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/803031/shipyard.png"
+      }
+    }
+  },
+  "80105": {
+    "gid": 80105,
+    "name": "Le Hardi",
+    "skins": {
+      "801050": {
+        "id": 801050,
+        "gid": 80105,
+        "name": "Le Hardi",
+        "type": "Default",
+        "desc": "Le Hardi-class destroyer – Le Hardi.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 308,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/801050/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/801050/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/801050/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/801050/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/801050/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/801050/shipyard.png"
+      },
+      "801051": {
+        "id": 801051,
+        "gid": 80105,
+        "name": "Sticky Situation",
+        "type": "Hot Springs",
+        "desc": "Gulp, gulp... Ahh! That hits the spot! Cold and refreshing... There's nothing in the world like a glass of cold milk after steaming in the sauna.",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 308,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/191.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/801051/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/801051/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/801051/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/801051/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/801051/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/801051/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/801051/shipyard.png"
+      }
+    }
+  },
+  "80204": {
+    "gid": 80204,
+    "name": "Duguay-Trouin",
+    "skins": {
+      "802040": {
+        "id": 802040,
+        "gid": 80204,
+        "name": "Duguay-Trouin",
+        "type": "Default",
+        "desc": "Duguay-Trouin-class light cruiser – Duguay-Trouin.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 471,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802040/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802040/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802040/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802040/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802040/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802040/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802040/shipyard.png"
+      },
+      "802041": {
+        "id": 802041,
+        "gid": 80204,
+        "name": "Covetous Bathgoer",
+        "type": "Hot Springs",
+        "desc": "Commander, this is where we'll be praying today. Nobody can disturb us here... You already know what to do, I'm sure?",
+        "tag": [
+          "dynamic",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 471,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/167.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802041/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802041/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802041/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802041/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802041/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802041/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802041/shipyard.png"
       }
     }
   },
@@ -53573,7 +54004,7 @@
         "id": 299022,
         "gid": 29902,
         "name": "Black Gerard",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "So, an Eastern outfit this time... Hmph. My nobility is evident regardless of what I wear. However, since you prepared this outfit especially for me, it would be unbecoming of me to not express my gratitude. Thank you.",
         "tag": [
           "bg"
@@ -53723,7 +54154,7 @@
         "id": 399013,
         "gid": 39901,
         "name": "Arrival of Spring",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "The Dragon Empery's \"Spring Festival\" is... filled with fun, liveliness, and pure jubilation. I can feel my true feelings welling up... Maybe, an environment like this would suit me pretty well...",
         "tag": [
           "dynamicbg"
@@ -53875,7 +54306,7 @@
         "id": 499012,
         "gid": 49901,
         "name": "Viridescent Lullaby",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "It's so nice getting away from the bustling party hall and being alone with you, Commander. I'm eager to see what we'll do now as your idea of a... \"break\"~",
         "tag": [
           "live2d",
@@ -53895,6 +54326,30 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499012/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499012/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499012/shipyard.png"
+      },
+      "499018": {
+        "id": 499018,
+        "gid": 49901,
+        "name": "The Abyssal Embrace",
+        "type": "Oath",
+        "desc": "Commander? You've not only filled the void in my heart, but also wholly embraced my fervid feelings... Ah, you really make me want to do things... Unforgivable things, like opening my heart for you.",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 109,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/135.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499018/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499018/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499018/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499018/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499018/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499018/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499018/shipyard.png"
       }
     }
   },
@@ -53953,7 +54408,7 @@
         "id": 899012,
         "gid": 89901,
         "name": "Alluring Administrator",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Commander, regarding your next appointment... Ah, hard work is one of the highest virtues of the Iris's holy knights. On weekdays or vacations, in knights' armor or the Dragon Empery's attire, there can be no pause to my prayer, my training, or my duties as the administrator of your will.",
         "tag": [
           "dynamicbg"
@@ -54279,7 +54734,7 @@
         "id": 399041,
         "gid": 39904,
         "name": "Soft Voice of Spring",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Commander? Oh, I haven't quite finished changing. My hair still needs work... Sorry, would you mind waiting a bit longer?",
         "tag": [
           "live2d",
@@ -54554,7 +55009,7 @@
         "id": 299032,
         "gid": 29903,
         "name": "Cait Sith Crooner",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "I'll sing a song for you, Owner~ Ahem... Wait, I'm not sure I know any Dragon Empery songs, actually...",
         "tag": [
           "live2d",
@@ -54754,7 +55209,7 @@
         "id": 499033,
         "gid": 49903,
         "name": "A Blend of Serenity",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Commander, come join me in rest. ...Hm? I look unusually relaxed? This is a rare break, and I don't plan to waste it by being stuffy.",
         "tag": [
           "live2d",
@@ -54958,7 +55413,7 @@
         "id": 199032,
         "gid": 19903,
         "name": "Moonlit Boat Ride",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Teacher... How are Anchorage's new clothes? Do you like them...? Yeah, I do, too!",
         "tag": [
           "live2d",
@@ -54978,6 +55433,31 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/199032/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/199032/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/199032/shipyard.png"
+      },
+      "199033": {
+        "id": 199033,
+        "gid": 19903,
+        "name": "Sweet Evening Milk",
+        "type": "Home Relaxation",
+        "desc": "Teacher found me...! Anchorage can't sleep... I wanna drink sweet milk... Please?",
+        "tag": [
+          "None",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 59,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/185.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/199033/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/199033/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/199033/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/199033/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/199033/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/199033/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/199033/shipyard.png"
       },
       "199038": {
         "id": 199038,
@@ -55183,7 +55663,7 @@
         "id": 499052,
         "gid": 49905,
         "name": "Golden Dragon Among Auspicious Clouds",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "New decorations, new outfits, and countless preparations to make... Lunar New Year is quite the busy time of year. Go on, see to your duties. I'm well aware how essential you are to this holiday's smooth operation. Just don't keep me waiting all day. Heehee.",
         "tag": [
           "live2d",
@@ -55442,7 +55922,7 @@
         "id": 499071,
         "gid": 49907,
         "name": "The Gate Dragon's Advent",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "Woah, so this is the Dragon Empery's \"Spring Festival\" that I've heard so much about. But, why are they celebrating it in the middle of winter? And you, Commander – why are you helping with such a grandiose... Whuah?! What was that noise?!",
         "tag": [
           "live2d",
@@ -55695,7 +56175,7 @@
         "id": 899032,
         "gid": 89903,
         "name": "Moonlit Night's Spring Vista",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "O Champion, what manner of floral makeup would look best upon my brow? Or, could I perhaps... call upon you to apply it for me? ♪",
         "tag": [
           "live2d",
@@ -55773,7 +56253,7 @@
         "id": 199042,
         "gid": 19904,
         "name": "Springtime Monitoring",
-        "type": "Spring Festival",
+        "type": "Empery'S Fineries",
         "desc": "This suit is a fusion of tradition and modernity. Your feedback would be appreciated... but first, a small issue must be dealt with. May I request your assistance in the matter, Commander?",
         "tag": [
           "dynamic",

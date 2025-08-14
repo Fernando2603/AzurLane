@@ -679,6 +679,30 @@
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-xinnong-image.ogg"
   },
+  "beat-song01": {
+    "title": "bgm-test",
+    "size": 2008196,
+    "duration": 103.50933333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/beat-song01.ogg"
+  },
+  "beat-song02": {
+    "title": "bgm-beat-song02",
+    "size": 8442403,
+    "duration": 429.90933333333334,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/beat-song02.ogg"
+  },
+  "beat-song_intro": {
+    "title": "bgm-beat-song_intro",
+    "size": 127292,
+    "duration": 6.741333333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/beat-song_intro.ogg"
+  },
   "beverly_short_eng": {
     "title": "Beverly_short_eng",
     "size": 2132280,
@@ -2279,6 +2303,14 @@
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-egypt-mystic.ogg"
   },
+  "story-enzecheng-theme": {
+    "title": "奇渊奇境_AL",
+    "size": 2291342,
+    "duration": 119.12533333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-enzecheng-theme.ogg"
+  },
   "story-expo-lastday": {
     "title": "盛大的闭幕日_G",
     "size": 1857820,
@@ -2342,6 +2374,14 @@
     "bitrate": 160.0,
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-french2.ogg"
+  },
+  "story-game-rhythm": {
+    "title": "貂ｯ蛹ｺ蠕句勘_EN",
+    "size": 2008212,
+    "duration": 103.50933333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-game-rhythm.ogg"
   },
   "story-ghostnight-fascinsting": {
     "title": "幽灵洋馆奇妙夜_AL",
@@ -3126,6 +3166,14 @@
     "bitrate": 160.0,
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-frederick.ogg"
+  },
+  "theme-fushun-adventure": {
+    "title": "大家一起大冒险_shade",
+    "size": 2039016,
+    "duration": 101.47120181405896,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-fushun-adventure.ogg"
   },
   "theme-ganjisawai": {
     "title": "风雨祭祀之舞_AL",
