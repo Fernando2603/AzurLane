@@ -65464,7 +65464,7 @@
     "desc": "No description",
     "label": [
       "HNLMS",
-      "CA",
+      "CB",
       "MG",
       "HE"
     ],
@@ -95272,6 +95272,108 @@
         "enhance": "+13",
         "durability": 640,
         "anti_siren": 3
+      }
+    }
+  },
+  "150820": {
+    "name": "Sakuran Summons",
+    "desc": "I hope this letter finds you well, Commander – from Unzen.",
+    "label": [
+      "IJN",
+      "DEV"
+    ],
+    "rarity": 4,
+    "nationality": 3,
+    "type": 10,
+    "skill": {
+      "[60930, 1]": null
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150820.png",
+    "stats": {
+      "1": {
+        "id": 150820,
+        "level": 1,
+        "enhance": "+0",
+        "cannon": 5,
+        "dodge": 6
+      },
+      "2": {
+        "id": 150821,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 5,
+        "dodge": 7
+      },
+      "3": {
+        "id": 150822,
+        "level": 3,
+        "enhance": "+2",
+        "cannon": 6,
+        "dodge": 7
+      },
+      "4": {
+        "id": 150823,
+        "level": 4,
+        "enhance": "+3",
+        "cannon": 6,
+        "dodge": 8
+      },
+      "5": {
+        "id": 150824,
+        "level": 5,
+        "enhance": "+4",
+        "cannon": 7,
+        "dodge": 9
+      },
+      "6": {
+        "id": 150825,
+        "level": 6,
+        "enhance": "+5",
+        "cannon": 7,
+        "dodge": 10
+      },
+      "7": {
+        "id": 150826,
+        "level": 7,
+        "enhance": "+6",
+        "cannon": 8,
+        "dodge": 11
+      },
+      "8": {
+        "id": 150827,
+        "level": 8,
+        "enhance": "+7",
+        "cannon": 9,
+        "dodge": 12
+      },
+      "9": {
+        "id": 150828,
+        "level": 9,
+        "enhance": "+8",
+        "cannon": 10,
+        "dodge": 13
+      },
+      "10": {
+        "id": 150829,
+        "level": 10,
+        "enhance": "+9",
+        "cannon": 11,
+        "dodge": 14
+      },
+      "11": {
+        "id": 150830,
+        "level": 11,
+        "enhance": "+10",
+        "cannon": 12,
+        "dodge": 15
+      },
+      "12": {
+        "id": 150831,
+        "level": 12,
+        "enhance": "+11",
+        "cannon": 13,
+        "dodge": 16,
+        "anti_siren": 1
       }
     }
   }

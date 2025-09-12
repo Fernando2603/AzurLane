@@ -3335,6 +3335,14 @@
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-musashi-outside.ogg"
   },
+  "theme-myisland": {
+    "title": "蜥碁｣取囑髦ｳ荳取ｵｷ蟯媽AL",
+    "size": 1898494,
+    "duration": 96.91733333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-myisland.ogg"
+  },
   "theme-nagato-meta": {
     "title": "蠕｡迢千噪蜀帛漢_shade",
     "size": 2573339,
