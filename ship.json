@@ -169642,6 +169642,258 @@
     }
   },
   {
+    "id": 30051,
+    "gid": 970109,
+    "cid": 3,
+    "sid": [
+      9701091,
+      9701092,
+      9701093,
+      9701094
+    ],
+    "name": "Yuudachi META",
+    "codename": "Yūdachi.META",
+    "class": "Yuudachi META",
+    "nationality": 97,
+    "obtain": [
+      "META Lab - Coordinate Analysis"
+    ],
+    "type": 1,
+    "rarity": 5,
+    "armor": 1,
+    "hexagon": [
+      "C",
+      "S",
+      "E",
+      "A",
+      "D",
+      "D"
+    ],
+    "share_group": [],
+    "breakout": [
+      [
+        "Unlock Ashen Might – Yuudachi",
+        "Torpedo efficiency +5%"
+      ],
+      [
+        "Main gun base +1",
+        "Torpedo preload +1",
+        "Torpedo efficiency +10%"
+      ],
+      [
+        "Improve Ashen Might – Yuudachi",
+        "All weapons' efficiency +5%"
+      ]
+    ],
+    "equipment": {
+      "1": {
+        "default": 100,
+        "slot": 1,
+        "type": [
+          1
+        ],
+        "mount": 2,
+        "preload": 0,
+        "efficiency": 1
+      },
+      "2": {
+        "default": 107,
+        "slot": 2,
+        "type": [
+          5
+        ],
+        "mount": 1,
+        "preload": 1,
+        "efficiency": 1.55
+      },
+      "3": {
+        "default": 104,
+        "slot": 3,
+        "type": [
+          6
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 0.85
+      },
+      "4": {
+        "default": null,
+        "slot": 4,
+        "type": [
+          10,
+          14
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      },
+      "5": {
+        "default": null,
+        "slot": 5,
+        "type": [
+          10,
+          14
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      }
+    },
+    "base": {
+      "9701091": {
+        "health": 295,
+        "firepower": 28,
+        "torpedo": 100,
+        "antiair": 33,
+        "aviation": 0,
+        "reload": 83,
+        "accuracy": 57,
+        "evasion": 72,
+        "speed": 41,
+        "luck": 32,
+        "asw": 49
+      },
+      "9701092": {
+        "health": 367,
+        "firepower": 35,
+        "torpedo": 125,
+        "antiair": 41,
+        "aviation": 0,
+        "reload": 83,
+        "accuracy": 57,
+        "evasion": 72,
+        "speed": 41,
+        "luck": 32,
+        "asw": 61
+      },
+      "9701093": {
+        "health": 511,
+        "firepower": 49,
+        "torpedo": 174,
+        "antiair": 57,
+        "aviation": 0,
+        "reload": 83,
+        "accuracy": 57,
+        "evasion": 72,
+        "speed": 41,
+        "luck": 32,
+        "asw": 86
+      },
+      "9701094": {
+        "health": 726,
+        "firepower": 69,
+        "torpedo": 249,
+        "antiair": 81,
+        "aviation": 0,
+        "reload": 83,
+        "accuracy": 57,
+        "evasion": 72,
+        "speed": 41,
+        "luck": 32,
+        "asw": 122
+      }
+    },
+    "growth": {
+      "9701091": {
+        "health": 5981,
+        "firepower": 349,
+        "torpedo": 1198,
+        "antiair": 446,
+        "aviation": 0,
+        "reload": 577,
+        "accuracy": 767,
+        "evasion": 945,
+        "speed": 0,
+        "luck": 0,
+        "asw": 658
+      },
+      "9701092": {
+        "health": 5981,
+        "firepower": 349,
+        "torpedo": 1198,
+        "antiair": 446,
+        "aviation": 0,
+        "reload": 577,
+        "accuracy": 767,
+        "evasion": 945,
+        "speed": 0,
+        "luck": 0,
+        "asw": 658
+      },
+      "9701093": {
+        "health": 5981,
+        "firepower": 349,
+        "torpedo": 1198,
+        "antiair": 446,
+        "aviation": 0,
+        "reload": 577,
+        "accuracy": 767,
+        "evasion": 945,
+        "speed": 0,
+        "luck": 0,
+        "asw": 658
+      },
+      "9701094": {
+        "health": 5981,
+        "firepower": 349,
+        "torpedo": 1198,
+        "antiair": 446,
+        "aviation": 0,
+        "reload": 577,
+        "accuracy": 767,
+        "evasion": 945,
+        "speed": 0,
+        "luck": 0,
+        "asw": 658
+      }
+    },
+    "enhance": {
+      "health": 288,
+      "antiair": 32,
+      "accuracy": 56,
+      "evasion": 70,
+      "torpedo": 99,
+      "reload": 62
+    },
+    "skill": {
+      "801901": {
+        "id": 801901,
+        "parent": 801901,
+        "upgrade": 801902,
+        "downgrade": null,
+        "requirement": "Limit Break 1"
+      },
+      "801902": {
+        "id": 801902,
+        "parent": 801901,
+        "upgrade": null,
+        "downgrade": 801901,
+        "requirement": "Limit Break 3"
+      },
+      "801870": {
+        "id": 801870,
+        "parent": 801870,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "801880": {
+        "id": 801880,
+        "parent": 801880,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "801890": {
+        "id": 801890,
+        "parent": 801890,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      }
+    }
+  },
+  {
     "id": 30003,
     "gid": 970201,
     "cid": 3,

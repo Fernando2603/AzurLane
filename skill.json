@@ -17775,6 +17775,62 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801860.png",
     "max_level": 1
   },
+  "801870": {
+    "id": 801870,
+    "type": 1,
+    "name": "Burning Claws",
+    "desc": "Every 10s: performs a Lv.1 (Lv.10) special attack on a single random enemy (DMG is based on the skill's level) that inflicts a special Burn to the enemy hit for 10s; this Burn inflicts 610 DMG every 5s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801870.png",
+    "max_level": 10
+  },
+  "801880": {
+    "id": 801880,
+    "type": 3,
+    "name": "Swift Hunt",
+    "desc": "Increases this ship's FP by 5.0% (15.0%) and EVA by 5.0% (20.0%) and increases this ship's DMG dealt to enemies afflicted with Burn by 5.0% (15.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801880.png",
+    "max_level": 10
+  },
+  "801890": {
+    "id": 801890,
+    "type": 2,
+    "name": "Emberlit Constitution",
+    "desc": "When this ship performs the special attack listed in the skill \"Burning Claws\": decreases this ship's DMG taken by 5.0% (20.0%) for 8s. Every 20s, if this ship or an enemy on the battlefield is afflicted with Burn: restores 1.5% (5.0%) of this ship's max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801890.png",
+    "max_level": 10
+  },
+  "801901": {
+    "id": 801901,
+    "type": 3,
+    "name": "Ashen Might - Yuudachi I",
+    "desc": "Every 24 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801900.png",
+    "max_level": 1
+  },
+  "801902": {
+    "id": 801902,
+    "type": 3,
+    "name": "Ashen Might - Yuudachi II",
+    "desc": "Every 16 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801900.png",
+    "max_level": 1
+  },
+  "801905": {
+    "id": 801905,
+    "type": 3,
+    "name": "Ashen Might - Yuudachi I",
+    "desc": "[Operation Siren]\nEvery 24 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 3.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801900.png",
+    "max_level": 1
+  },
+  "801907": {
+    "id": 801907,
+    "type": 3,
+    "name": "Ashen Might - Yuudachi II",
+    "desc": "[Operation Siren]\nEvery 16 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 8.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801900.png",
+    "max_level": 1
+  },
   "902220": {
     "id": 902220,
     "type": 2,
@@ -17798,6 +17854,14 @@
     "desc": "Main Gun efficiency +15.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/14340.png",
     "max_level": 1
+  },
+  "1005070": {
+    "id": 1005070,
+    "type": 2,
+    "name": "Chevalier's Bouclier+",
+    "desc": "Increases this ship's FP by 10.0% (20.0%). Every 15s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). When your Vanguard consists only of Iris Libre and Vichya Dominion ships: every 20s, 75.0% chance to decrease your fleet's DMG taken by 10.0% (30.0%) for 10s (does not stack with similar skills).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/5070.png",
+    "max_level": 10
   },
   "1005080": {
     "id": 1005080,
@@ -17837,6 +17901,14 @@
     "name": "The Strongest Shield+",
     "desc": "10s after the battle starts, and every 20s after that: for 10s, this ship tanks 50.0% of the DMG taken by your Main Fleet and reduces said DMG by 4.0% (10.0%). Afterwards, she recovers HP equal to 20.0% (50.0%) of the DMG tanked and her FP and ACC increases by 4.0% (10.0%) (this buff can be stacked up to 3 times).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/10160.png",
+    "max_level": 10
+  },
+  "1010190": {
+    "id": 1010190,
+    "type": 2,
+    "name": "Vengeance+",
+    "desc": "Increases this ship's AVI by 5.0% (15.0%). Once per battle, when this ship's HP falls below 20.0% as a result of DMG taken: restores 15.0% (25.0%) of this ship's max HP. When this ship takes DMG: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level; 20s cooldown between activations) that increases the DMG taken of enemies hit by 4.5% (12.0%) for 8s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/10190.png",
     "max_level": 10
   },
   "1010250": {
@@ -18079,6 +18151,14 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/11170.png",
     "max_level": 10
   },
+  "1011240": {
+    "id": 1011240,
+    "type": 2,
+    "name": "The Unsinkable Lucky Ship+",
+    "desc": "When this ship takes DMG: 5.0% (25.0%) chance to reduce that instance of DMG taken to 1. When this ship fires her torpedoes: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) that inflicts a special Flooding ailment to enemies hit for 10s, inflicting 179 DMG every second. Once per battle, when this ship takes DMG that would sink her: this ship does not sink, evades all attacks for 1s, and after 1s:\n1) If there are other ships in your Vanguard, another random ship in your Vanguard loses 1 HP while this ship recovers 1.0% (10.0%) of her HP;\n2) If there is no other ships in your Vanguard, this ship instead evades all attacks for 5s, then sinks.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/11240.png",
+    "max_level": 10
+  },
   "1011250": {
     "id": 1011250,
     "type": 3,
@@ -18117,6 +18197,14 @@
     "name": "The Bull of Scapa Flow+",
     "desc": "When this boat's torpedoes hit an enemy: for 5s, if that enemy takes DMG from this boat's torpedoes again, the enemy's DMG taken increases by 20.0% (40.0%); when this boat resurfaces, fires a Lv.1 (Lv.10) special torpedo barrage (DMG is based on the skill's level) and decreases this boat's DMG taken by 15.0% until the battle ends.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/11440.png",
+    "max_level": 10
+  },
+  "1011450": {
+    "id": 1011450,
+    "type": 1,
+    "name": "Firepower Overload+",
+    "desc": "Every 20s: 40.0% (70.0%) chance to increase this ship's FP by 30.0% (50.0%) and RLD by 100.0% (200.0%) for 10s. Every 15s: performs a Lv.1 (Lv.10) Idol's Ultimate Move (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/11450.png",
     "max_level": 10
   },
   "1011490": {
@@ -18437,6 +18525,14 @@
     "name": "Goddess of the Sea+",
     "desc": "Increases this ship's Crit Rate by 10.0% (20.0%). Every 10s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) and deploys a barrier (lasts 5s) that can negate DMG equal to 5.0% of this ship's max HP. Once per battle, when this ship's HP falls below 20.0% as a result of DMG taken: restores 15% (25%) of this ship's max HP and increases this ship's RLD by 30.0% until the battle ends.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/19020.png",
+    "max_level": 10
+  },
+  "1019030": {
+    "id": 1019030,
+    "type": 1,
+    "name": "Monarch's Coercion+",
+    "desc": "Increases this ship's FP and ACC by 1.0% (10.0%). When this ship fires her Main Guns: 50.0% (100.0%) chance to fire an improved Lv.1 (Lv.10) frontal barrage (DMG is based on the skill's level); enemies hit by this improved barrage have their SPD decreased by 30.0% (60.0%) and EVA decreased by 1.0% (10.0%) for 6s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/19030.png",
     "max_level": 10
   },
   "1019060": {
