@@ -9127,6 +9127,22 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/20200.png",
     "max_level": 1
   },
+  "22271": {
+    "id": 22271,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Ibuki Class once every 9 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/20200.png",
+    "max_level": 1
+  },
+  "22272": {
+    "id": 22272,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Ibuki Class once every 6 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/20200.png",
+    "max_level": 1
+  },
   "22311": {
     "id": 22311,
     "type": 1,
@@ -12351,6 +12367,22 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30510.png",
     "max_level": 1
   },
+  "30521": {
+    "id": 30521,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "When this boat's OXY reaches 0 and she resurfaces: activates All Out Assault - I-404 I and decreases this boat's DMG taken by 20.0% for 5s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30520.png",
+    "max_level": 1
+  },
+  "30522": {
+    "id": 30522,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "When this boat's OXY reaches 0 and she resurfaces: activates All Out Assault - I-404 II and decreases this boat's DMG taken by 40.0% for 5s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30520.png",
+    "max_level": 1
+  },
   "101010": {
     "id": 101010,
     "type": 3,
@@ -15077,6 +15109,118 @@
     "name": "Divine Deeds Done Dreamily",
     "desc": "When this ship launches an airstrike: launches an additional Lv.1 (Lv.10) special airstrike (DMG is based on the skill's level). Decreases the loading time of this ship's first 2 airstrikes by 50.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151520.png",
+    "max_level": 10
+  },
+  "151530": {
+    "id": 151530,
+    "type": 3,
+    "name": "Sandalwood Rite",
+    "desc": "Increases this ship's AVI and ACC by 1.0% (10.0%). While this ship is afloat, when a ship in your Vanguard fires her Main Guns: grants Incense to that ship for 5s; ships with Incense take 1.0% (7.0%) less DMG, and when they hit an enemy with their Main Guns: applies Charcoal Smoke to the enemy for 5s. The following effects apply to enemies with Charcoal Smoke based on their Armor Type:\n1) Light and Medium Armor: decreases that enemy's DMG dealt to Hakuhou by 2.0% (14.0%);\n2) Heavy Armor: increases that enemy's DMG taken from Hakuhou by 2.0% (14.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151530.png",
+    "max_level": 10
+  },
+  "151540": {
+    "id": 151540,
+    "type": 1,
+    "name": "Wispwrought Augury",
+    "desc": "When a Sakura Empire ship in your Main Fleet fires her Main Guns or launches an airstrike, activates the following effects in order:\n1) Increases Hakuhou's DMG dealt by 1.0% (7.0%) for 5s (this effect does not stack);\n2) Hakuhou fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level);\n3) Decreases your Main Fleet's Detection Gauge by 3 every second for 5s (this effect does not stack).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151540.png",
+    "max_level": 10
+  },
+  "151550": {
+    "id": 151550,
+    "type": 1,
+    "name": "Smouldering Embrace",
+    "desc": "When this ship has Sakura Empire gear equipped in her first gear slot: increases this ship's AVI by 1.0% (10.0%). When the aircraft in this ship's gear slots hit an enemy: inflicts a special Burn (lasting 15s; inflicts 140 DMG every 0.5s). Additionally, depending on the type of aircraft in this ship's first gear slot, activates one of the following effects:\n1) Torpedo Bomber: increases the efficiency of this ship's first gear slot by 20.0% (50.0%);\n2) Fighter or Dive Bomber: increases this ship's AA by 5.0% (15.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151550.png",
+    "max_level": 10
+  },
+  "151560": {
+    "id": 151560,
+    "type": 2,
+    "name": "Ninja Arts: Shadowless",
+    "desc": "Increases this ship's SPD by 3. When the battle starts, and with a 15.0% (30.0%) chance every 15s: deploys a smokescreen that increases Evasion Rate by 20.0% (40.0%) for all your ships in it. Does not stack with other smokescreen skills. Smokescreen lasts 5s. When this ship enters smokescreen: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level; 15s cooldown between activations).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151560.png",
+    "max_level": 10
+  },
+  "151570": {
+    "id": 151570,
+    "type": 1,
+    "name": "Ninja Arts: Formless",
+    "desc": "Increases this ship's TRP by 5.0% (15.0%). When this ship fires her torpedoes: 4.0% (10.0%) chance to fire another wave of torpedoes. If this effect does not activate: 4.0% (10.0%) chance for it to happen 2s later. If this effect fails to activate twice in a row: 10.0% (20.0%) chance for it to happen 3s later.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151570.png",
+    "max_level": 10
+  },
+  "151580": {
+    "id": 151580,
+    "type": 1,
+    "name": "Brighten the Distant Skies",
+    "desc": "During battle, if your Airspace Control state is not Air Denial or Air Incapability: increases your SSs' and SSVs' Crit Rate by 1.0% (10.0%); if the SS or SSV is from the Sakura Empire, also increases that boat's TRP by 1.0% (10.0%). One time each: when this boat reaches the battlefield, 10s after the battle starts, and when this boat leaves the battlefield: performs an attack with this boat's equipped Seaplanes; after the second attack, I-404 surfaces for 3s and recovers 10 OXY every second, then submerges again.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151580.png",
+    "max_level": 10
+  },
+  "151590": {
+    "id": 151590,
+    "type": 3,
+    "name": "Dancer Upon the Waves",
+    "desc": "Increases this boat's ACC by 5.0% (15.0%). Once per sortie, even if an engaging fleet is outside of your Submarine Fleet's Attack/Support Range, you can request Submarine Support. As long as this boat has not been sunk, when a fleet this boat is NOT in starts a battle, the following effects activate:\n1) When the battle starts, increases your fleet's ACC by 1.0% (10.0%);\n2) Once per battle, 15s after the battle starts: performs a Lv.1 (Lv.10) supporting attack (DMG is based on the skill's level); for 10s, enemies hit by this attack are inflicted with a special Burn (inflicts 404 DMG every 3s) and take 5.0% increased DMG.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151590.png",
+    "max_level": 10
+  },
+  "151610": {
+    "id": 151610,
+    "type": 1,
+    "name": "Words Flow Like Wine",
+    "desc": "Every 6s after the battle starts: this ship gains 1 stack of Poetic Inspiration (can be stacked up 5 times). For each stack, increases this ship's cannon DMG dealt by 1.0% (4.0%). When gaining the 5th stack, increases this ship's Main Gun Crit Rate by 10.0% (20.0%), sets her Secondary Guns' Range and Targeting Range to 95, and after the next time she fires her Main Guns, the loading time of her Main Guns decreases by 20.0% until the battle ends.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151610.png",
+    "max_level": 10
+  },
+  "151620": {
+    "id": 151620,
+    "type": 3,
+    "name": "Banquet of a Hundred Verses",
+    "desc": "When the battle starts, this ship gains the Elegant status and switches between it and the Besotted status every time she fires her Main Guns;\n1) Elegant: increases this ship's and your Vanguard's EVA and AA by 4.5% (12.0%). When gaining the Elegant status: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); enemies hit by this barrage have their ACC decreased by 15.0% for 10s (does not stack with similar effects).\n2) Besotted: increases this ship's and your Vanguard's FP and ACC by 4.5% (12.0%). When gaining the Besotted status: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); enemies hit by this barrage have their FP decreased by 15.0% for 10s (does not stack with similar effects).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151620.png",
+    "max_level": 10
+  },
+  "151630": {
+    "id": 151630,
+    "type": 2,
+    "name": "Steadfast Shiratsuyu",
+    "desc": "Increases this ship's AA by 20.0% (40.0%). While this ship is afloat: decreases your Main Fleet's DMG taken by 3.5% (8.0%).\nWhen this ship is attacked: 15.0% chance to increase this ship's FP and TRP by 1.5% (5.0%) until the battle ends (5s cooldown between activations; can be stacked up to 3 times).\nWhen this ship fires her equipped torpedoes: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) and the ship in your Main Fleet with the lowest current HP percentage recovers 1.5% (5.0%) of her max HP; this effect can only activate once every 10s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151630.png",
+    "max_level": 10
+  },
+  "151640": {
+    "id": 151640,
+    "type": 1,
+    "name": "Span of an Instant",
+    "desc": "10s after the battle starts, and every 20s after that: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); when this ship fires her torpedoes: 40.0% (70.0%) chance to fire a Lv.1 (Lv.10) special torpedo barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151640.png",
+    "max_level": 10
+  },
+  "151650": {
+    "id": 151650,
+    "type": 3,
+    "name": "Momentary Bloom",
+    "desc": "Increases this ship's FP, TRP, and EVA by 5.0% (15.0%). While this ship is afloat, increases your CAs' TRP by 5.0% (15.0%), Torpedo Crit Rate by 4.0% (10.0%), and SPD by 3 (8).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151650.png",
+    "max_level": 10
+  },
+  "151660": {
+    "id": 151660,
+    "type": 3,
+    "name": "Homemade Mystery Hot Pot",
+    "desc": "Increases this ship's EVA by 1.0% (10.0%) and SPD by 3 (8). Every 15s after the battle starts: grants 1 of the following effects at random to a random ship in your fleet, but may also decrease her EVA by 10.0% for 3s at a 10.0% chance:\n1) Increases RLD by 8.0% for 8s;\n2) Increases ACC by 8.0% for 8s;\n3) Deploys a shield (lasting 8s; can negate up to 8 enemy shells);\n4) Restores 1.0% of the recipient's max HP;\n5) Increases TRP by 8.0% for 8s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151660.png",
+    "max_level": 10
+  },
+  "151670": {
+    "id": 151670,
+    "type": 1,
+    "name": "Stream Chases Thunder's Traces",
+    "desc": "Increases this ship's TRP and ACC by 5.0% (15.0%). Every 20s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151670.png",
     "max_level": 10
   },
   "190000": {

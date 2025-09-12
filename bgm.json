@@ -2183,6 +2183,30 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-amagi-up.ogg"
   },
+  "story-amahara-stage1": {
+    "title": "螟ｩ蝓滉ｹ句ｼ廟AL",
+    "size": 1732915,
+    "duration": 90.00533333333334,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-amahara-stage1.ogg"
+  },
+  "story-amahara-stage2": {
+    "title": "莠第ｵｷ螟ｩ蜴歙AL_PV",
+    "size": 1868548,
+    "duration": 91.69066666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-amahara-stage2.ogg"
+  },
+  "story-amahara-stage3": {
+    "title": "螟ｩ蜴溷ｮｴ荵神AL",
+    "size": 2064125,
+    "duration": 97.89866666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-amahara-stage3.ogg"
+  },
   "story-antarctica-serious": {
     "title": "晦暗明星_G",
     "size": 1726087,
@@ -2558,6 +2582,14 @@
     "bitrate": 160.0,
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-niceship-soft.ogg"
+  },
+  "story-ninjacity": {
+    "title": "激战！忍者之城_AL_PV",
+    "size": 2067536,
+    "duration": 98.304,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-ninjacity.ogg"
   },
   "story-nonightcity": {
     "title": "暗金不夜城_G",
@@ -3271,6 +3303,14 @@
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-longgong.ogg"
   },
+  "theme-longgong-another": {
+    "title": "遒ｧ豬ｷ蜈蛾ｳ桎蟷ｻ闊桎_AL",
+    "size": 2978916,
+    "duration": 152.59733333333332,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-longgong-another.ogg"
+  },
   "theme-longgong-loop": {
     "title": "theme-longgong-loop",
     "size": 2411408,
@@ -3630,6 +3670,14 @@
     "bitrate": 160.0,
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-ulrich.ogg"
+  },
+  "theme-umieyuku": {
+    "title": "豬ｷ繧貞ｾ√￥",
+    "size": 5516860,
+    "duration": 264.9173333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-umieyuku.ogg"
   },
   "theme-undead": {
     "title": "不死者的恐怖_shade",
