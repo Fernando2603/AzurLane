@@ -1085,6 +1085,32 @@
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101511/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101511/shipyard.png",
         "shared": "10151"
+      },
+      "101512": {
+        "id": 101512,
+        "gid": 10151,
+        "name": "Lady Laffey's Languid Tour",
+        "type": "Summer Fest",
+        "desc": "Mmm, eepy... The honorable Lady Laffey of the Castle of the Bunnies requires rest... Commander... I mean, Magistrate... Our tour must wait for now...",
+        "tag": [
+          "dynamic",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 35,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/552.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101512/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101512/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101512/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101512/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101512/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101512/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101512/shipyard.png",
+        "shared": "10151"
       }
     }
   },
@@ -8718,6 +8744,30 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/205022/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/205022/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/205022/shipyard.png"
+      },
+      "205023": {
+        "id": 205023,
+        "gid": 20502,
+        "name": "The Grand Old Lady Sunders All",
+        "type": "Ninja Castle",
+        "desc": "Humph! Good, a perfectly halved watermelon. The Sakuran watermelon-splitting technique is surprisingly easy to master... Well met, Commander. Mind delivering these melons to the others for me?",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": 19,
+        "illustrator2": -1,
+        "voice_actor": 28,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/531.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/205023/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/205023/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/205023/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/205023/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/205023/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/205023/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/205023/shipyard.png"
       },
       "205029": {
         "id": 205029,
@@ -29564,6 +29614,31 @@
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/999011/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/999011/shipyard.png",
         "shared": "99901"
+      },
+      "999012": {
+        "id": 999012,
+        "gid": 99901,
+        "name": "Traveling Mood Mechanism",
+        "type": "Summer Fest",
+        "desc": "Mode change to \"traveling with Master\" complete. Travel navigation verified. Master, requesting new destination or observation target.",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 98,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/142.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/999012/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/999012/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/999012/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/999012/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/999012/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/999012/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/999012/shipyard.png",
+        "shared": "99901"
       }
     }
   },
@@ -36753,6 +36828,31 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/703012/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/703012/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/703012/shipyard.png"
+      },
+      "703013": {
+        "id": 703013,
+        "gid": 70301,
+        "name": "Night of Full Moon and Overflowing Love",
+        "type": "Empery'S Fineries",
+        "desc": "I'm not letting my guard down, even when dressed like this. Take your eyes off me for just a moment and I'll escape to the moon. With you, of course, heheh. Someone has to keep pushing you forward, after all.",
+        "tag": [
+          "dynamic",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 113,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/102.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/703013/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/703013/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/703013/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/703013/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/703013/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/703013/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/703013/shipyard.png"
       }
     }
   },
@@ -41199,6 +41299,30 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/603052/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/603052/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/603052/shipyard.png"
+      },
+      "603053": {
+        "id": 603053,
+        "gid": 60305,
+        "name": "A Special Night Just for Us",
+        "type": "Empery'S Fineries",
+        "desc": "I prepared so much for this festival only to run off and hide again on instinct... Oh, Commander?! Um... Are you here to see the fireworks? Or are you here to see... me?",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 335,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/302.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/603053/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/603053/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/603053/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/603053/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/603053/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/603053/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/603053/shipyard.png"
       }
     }
   },
@@ -44355,6 +44479,31 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/303191/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/303191/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/303191/shipyard.png"
+      },
+      "303192": {
+        "id": 303192,
+        "gid": 30319,
+        "name": "Arcane Ninja Knowledge",
+        "type": "Ninja Castle",
+        "desc": "Ah, Commander... What a predicament you've discovered me in. Hoping to put my skills to the test, I attempted to imitate so-called \"ninjutsu.\" No, not the temporary paralysis one – I was trying to use the transformation jutsu.",
+        "tag": [
+          "live2d",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 294,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/190.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/303192/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/303192/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/303192/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/303192/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/303192/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/303192/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/303192/shipyard.png"
       }
     }
   },
@@ -44930,6 +45079,31 @@
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101511/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101511/shipyard.png"
       },
+      "101512": {
+        "id": 101512,
+        "gid": 10151,
+        "name": "Lady Laffey's Languid Tour",
+        "type": "Summer Fest",
+        "desc": "Mmm, eepy... The honorable Lady Laffey of the Castle of the Bunnies requires rest... Commander... I mean, Magistrate... Our tour must wait for now...",
+        "tag": [
+          "dynamic",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 35,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/552.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101512/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101512/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101512/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101512/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101512/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101512/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101512/shipyard.png"
+      },
       "101172": {
         "id": 101172,
         "gid": 10117,
@@ -45227,6 +45401,31 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/118021/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/118021/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/118021/shipyard.png"
+      },
+      "118022": {
+        "id": 118022,
+        "gid": 11802,
+        "name": "The Kunoichi's Dangerous Variety Show",
+        "type": "Ninja Castle",
+        "desc": "Kunoichi Guam, arriving in style! Brought to you live, this episode features a ninja with zero ninjutsu knowledge trying to enter the Commander's room to– Aaahhhh! Owch... This infiltration mechanism's so hard to use... No, wait, Commander, don't stop the camera! Little accidents are just part of a variety show♪",
+        "tag": [
+          "live2d",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 389,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/191.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/118022/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/118022/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/118022/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/118022/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/118022/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/118022/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/118022/shipyard.png"
       }
     }
   },
@@ -47218,6 +47417,31 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/805031/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/805031/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/805031/shipyard.png"
+      },
+      "805032": {
+        "id": 805032,
+        "gid": 80503,
+        "name": "Tipsy Oni on a Sacred Night",
+        "type": "Ninja Castle",
+        "desc": "This one is Battleship Alsace – the Sacramental Blade, the Swordbearing Oni Protector of the Backwoods. One has awaited your arrival. *burp*... Um, pretend that didn't happen, Commander...",
+        "tag": [
+          "live2d",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 405,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/142.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/805032/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/805032/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/805032/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/805032/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/805032/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/805032/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/805032/shipyard.png"
       }
     }
   },
@@ -47348,6 +47572,30 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/803021/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/803021/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/803021/shipyard.png"
+      },
+      "803022": {
+        "id": 803022,
+        "gid": 80302,
+        "name": "Timeless Nocturne",
+        "type": "Summer Fest",
+        "desc": "An encounter under the moonlight – the work of fate, or the very laws of their world? Ah, Swordbearer... Those weren't rehearsed lines, but a simple greeting to you.",
+        "tag": [
+          "dynamicbg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 407,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/143.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/803022/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/803022/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/803022/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/803022/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/803022/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/803022/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/803022/shipyard.png"
       }
     }
   },
@@ -55394,6 +55642,30 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/999011/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/999011/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/999011/shipyard.png"
+      },
+      "999012": {
+        "id": 999012,
+        "gid": 99901,
+        "name": "Traveling Mood Mechanism",
+        "type": "Summer Fest",
+        "desc": "Mode change to \"traveling with Master\" complete. Travel navigation verified. Master, requesting new destination or observation target.",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 98,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/142.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/999012/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/999012/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/999012/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/999012/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/999012/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/999012/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/999012/shipyard.png"
       }
     }
   },

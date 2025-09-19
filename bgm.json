@@ -2999,6 +2999,14 @@
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-villaisland-night.ogg"
   },
+  "story-worldα-brokenlight": {
+    "title": "蠑ｦ荳ｭ蠕ｮ蜈雲AL",
+    "size": 1851551,
+    "duration": 108.39466666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-worldα-brokenlight.ogg"
+  },
   "story-worldα-grief": {
     "title": "髦ｴ莠台ｸ狗噪蠕ｮ蜈雲PX",
     "size": 1101601,
@@ -3230,6 +3238,14 @@
     "bitrate": 160.0,
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-haitian-soft-loop.ogg"
+  },
+  "theme-helena": {
+    "title": "海蓝色的光_AL",
+    "size": 1932789,
+    "duration": 104.27733333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-helena.ogg"
   },
   "theme-highseasfleet": {
     "title": "theme-highseasfleet ",
