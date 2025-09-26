@@ -17975,6 +17975,54 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801900.png",
     "max_level": 1
   },
+  "801910": {
+    "id": 801910,
+    "type": 3,
+    "name": "Strategic Assistance",
+    "desc": "During battle, if your Airspace Control state is not Air Denial or Air Incapability: increases this ship's FP and TRP by 1.0% (10.0%) and increases your frontmost Vanguard ship's FP by 1.0% (10.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801910.png",
+    "max_level": 10
+  },
+  "801920": {
+    "id": 801920,
+    "type": 1,
+    "name": "Offensive Stance",
+    "desc": "If there is a CV or CVL in your fleet: decreases your Main Fleet's DMG taken by 5.0% (10.0%) until the battle ends. When this ship fires her torpedoes: 50.0% (100.0%) chance to fire another wave of torpedoes.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801920.png",
+    "max_level": 10
+  },
+  "801931": {
+    "id": 801931,
+    "type": 3,
+    "name": "Ashen Might - Dewey I",
+    "desc": "Every 15 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801930.png",
+    "max_level": 1
+  },
+  "801932": {
+    "id": 801932,
+    "type": 3,
+    "name": "Ashen Might - Dewey II",
+    "desc": "Every 10 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801930.png",
+    "max_level": 1
+  },
+  "801935": {
+    "id": 801935,
+    "type": 3,
+    "name": "Ashen Might - Dewey I",
+    "desc": "[Operation Siren]\nEvery 15 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 2.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801930.png",
+    "max_level": 1
+  },
+  "801937": {
+    "id": 801937,
+    "type": 3,
+    "name": "Ashen Might - Dewey II",
+    "desc": "[Operation Siren]\nEvery 10 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 6.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801930.png",
+    "max_level": 1
+  },
   "902220": {
     "id": 902220,
     "type": 2,
