@@ -54636,6 +54636,114 @@
       }
     }
   },
+  "1140001": {
+    "gid": 1140001,
+    "name": "Hestia",
+    "skins": {
+      "11400010": {
+        "id": 11400010,
+        "gid": 1140001,
+        "name": "Hestia",
+        "type": "Default",
+        "desc": "I'm Hestia, the Patron Goddess of Hestia Familia, believe it or not! What? That doesn't surprise you at all? Hmm. You're nothing like the kiddos I've seen before.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 157,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400010/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400010/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400010/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400010/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400010/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400010/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400010/shipyard.png"
+      },
+      "11400011": {
+        "id": 11400011,
+        "gid": 1140001,
+        "name": "Godly Vacation!",
+        "type": "Swimsuits",
+        "desc": "Hey-hey, Commander! You're finally here. I've been waiting my butt off! I've already had the full beach experience... Ah, wait, I still have things I wanna do, so do me a solid and stick around!",
+        "tag": [
+          "dynamic",
+          "bg",
+          "bgm"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 157,
+        "voice_actor2": -1,
+        "bgm": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/danmachi-az-story.ogg",
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/539.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400011/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400011/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400011/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400011/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400011/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400011/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400011/shipyard.png"
+      }
+    }
+  },
+  "1140002": {
+    "gid": 1140002,
+    "name": "Ryu Lion",
+    "skins": {
+      "11400020": {
+        "id": 11400020,
+        "gid": 1140002,
+        "name": "Ryu Lion",
+        "type": "Default",
+        "desc": "Who are you? No – Where am I? This doesn't look like Orario. You must be the one who saved me, so thank you. My name is Ryu Lion, and I work as a waitress at the Hostess of Fertility pub in Orario.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 284,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400020/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400020/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400020/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400020/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400020/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400020/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400020/shipyard.png"
+      },
+      "11400021": {
+        "id": 11400021,
+        "gid": 1140002,
+        "name": "Night at the Pub",
+        "type": "Maid",
+        "desc": "W-welcome... Don't stare at me, please. This pub's uniforms are a little revealing, so I'm nervous. I-if you insist, though, I can make time to chat after closing time.",
+        "tag": [
+          "dynamic",
+          "bg",
+          "bgm"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 284,
+        "voice_actor2": -1,
+        "bgm": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/danmachi-az-story.ogg",
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/163.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400021/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400021/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400021/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400021/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400021/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400021/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11400021/shipyard.png"
+      }
+    }
+  },
   "29901": {
     "gid": 29901,
     "name": "Neptune",

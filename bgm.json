@@ -903,6 +903,38 @@
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/cw-story.ogg"
   },
+  "danmachi-1": {
+    "title": "1",
+    "size": 2014316,
+    "duration": 108.92480725623582,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/danmachi-1.ogg"
+  },
+  "danmachi-2": {
+    "title": "2",
+    "size": 2971134,
+    "duration": 157.76,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/danmachi-2.ogg"
+  },
+  "danmachi-3": {
+    "title": "3",
+    "size": 3307244,
+    "duration": 180.33066666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/danmachi-3.ogg"
+  },
+  "danmachi-az-story": {
+    "title": "街巷酒馆_AL",
+    "size": 1922681,
+    "duration": 92.33066666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/danmachi-az-story.ogg"
+  },
   "deepblue-image": {
     "title": "08_月下の戦闘",
     "size": 1860803,

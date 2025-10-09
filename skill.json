@@ -13951,6 +13951,62 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/112280.png",
     "max_level": 10
   },
+  "114010": {
+    "id": 114010,
+    "type": 2,
+    "name": "Falna",
+    "desc": "When the battle starts, and every 20s: for 6s, increases your Vanguard's FP and TRP by 1.0% (10.0%) and increases your Vanguard's and Main Fleet's DMG dealt by 1.0% (5.0%). When this buff ends, all your ships recover 1.0% of their max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/114010.png",
+    "max_level": 10
+  },
+  "114020": {
+    "id": 114020,
+    "type": 3,
+    "name": "Dios Aedes Vesta",
+    "desc": "Every 20s after the battle starts: activates Dios Aedes Vesta; extinguishes any active Burns (excluding special Burns) your Vanguard is afflicted with, recovers 1.0% of your Vanguard's max HP every 1s for 3s, and fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) from a random Vanguard ship with a 10.0% (20.0%) chance to decrease the EVA of enemies hit by 1.0% (5.0%) for 5s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/114020.png",
+    "max_level": 10
+  },
+  "114030": {
+    "id": 114030,
+    "type": 3,
+    "name": "Dios Aedes Vesta+",
+    "desc": "Every 20s after the battle starts: activates Dios Aedes Vesta+; extinguishes any active Burns (excluding special Burns) your Vanguard is afflicted with, recovers 1.0% of your Vanguard's max HP every 1s for 5s, and fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) from a random Vanguard ship that decreases the EVA of enemies hit by 1.0% (5.0%) for 5s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/114020.png",
+    "max_level": 10
+  },
+  "114100": {
+    "id": 114100,
+    "type": 3,
+    "name": "Astraea Record",
+    "desc": "When the battle starts, activates Star Justitory, decreasing this ship's SPD by 10.0% and DMG taken by 10.0% (20.0%) for 10s. When this effect ends, activates Agaris Alvesynth and applies the following effects:\n1) Increases this ship's Crit Rate and Crit DMG by 10.0% (25.0%) and EVA by 10.0% (20.0%);\n2) When this ship fires her Main Guns, she additionally fires Lv.1 (Lv.10) HE shells (DMG is based on the skill's level) that prioritize humanoid enemies;\n3) Every 8 times this ship fires her Main Guns: performs the Lv.1 (Lv.10) special attack Alvelia (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/114100.png",
+    "max_level": 10
+  },
+  "114110": {
+    "id": 114110,
+    "type": 1,
+    "name": "Luminous Wind",
+    "desc": "Increases this ship's FP by 5.0% (15.0%). Every 10s after the battle starts: performs the Lv.1 (Lv.10) special attack Luminous Wind (DMG is based on the skill's level); when performing this attack, if there is an enemy within 45 units of this ship, additionally performs the Lv.1 (Lv.10) special attack Luvia (DMG is based on the skill's level; prioritizes humanoid enemies).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/114110.png",
+    "max_level": 10
+  },
+  "114120": {
+    "id": 114120,
+    "type": 1,
+    "name": "Luminous Wind+",
+    "desc": "Increases this ship's FP by 10.0% (25.0%). Every 10s after the battle starts: performs the Lv.1 (Lv.10) special attack Luminous Wind+ (DMG is based on the skill's level; improves the attack if there are 2 or more enemies present); when performing this attack, if there is an enemy within 45 units of this ship, additionally performs the Lv.1 (Lv.10) special attack Luvia+ (DMG is based on the skill's level; prioritizes humanoid enemies).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/114110.png",
+    "max_level": 10
+  },
+  "114129": {
+    "id": 114129,
+    "type": 3,
+    "name": "Alf's Justitia",
+    "desc": "10s after the battle starts: increases this ship's ACC by 15.0% until the battle ends.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/114110.png",
+    "max_level": 1
+  },
   "150000": {
     "id": 150000,
     "type": 2,
@@ -18551,6 +18607,14 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/12400.png",
     "max_level": 10
   },
+  "1012430": {
+    "id": 1012430,
+    "type": 1,
+    "name": "Lucky A+",
+    "desc": "Increases this ship's EVA and LCK by 3 (12), and decreases torpedo DMG taken by 5.0% (20.0%). Every 20s, 50.0% (100.0%) chance to fire a powerful barrage+ (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/12430.png",
+    "max_level": 10
+  },
   "1012480": {
     "id": 1012480,
     "type": 1,
@@ -19069,6 +19133,14 @@
     "name": "Full Firepower - Grozny",
     "desc": "Increases this ship's TRP and Main Gun and torpedo efficiency by 5% (15%). Every 20s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) and, with a 70.0% (100.0%) chance, increases this ship's FP by 20.0% (40.0%) for 10s.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/2010.png",
+    "max_level": 10
+  },
+  "1090430": {
+    "id": 1090430,
+    "type": 2,
+    "name": "Draw Fire - Myoukou",
+    "desc": "When the battle starts, and every 20s: 50.0% (80.0%) chance to tank 50% of the DMG your Vanguard ships take for 8s (similar skills don't stack); for each other ship in your Vanguard, this ship recovers 1.0% of max HP and DMG taken is decreased by 10.0% for 8s (can be stacked 2 times).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/4040.png",
     "max_level": 10
   },
   "10150530": {
