@@ -660,6 +660,64 @@
     "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/teshu_hangkong_3.png",
     "available": true
   },
+  "321": {
+    "id": 321,
+    "group_id": 32,
+    "name": "Azure Sky Affinity - Rookie",
+    "desc": "Your CVs and CVLs gain 7 AVI and your IXMs gain 7 FP.",
+    "stats": [
+      {
+        "apply": [
+          "CV",
+          "CVL"
+        ],
+        "stats": "Aviation",
+        "value": 7,
+        "type": "value"
+      },
+      {
+        "apply": [
+          "IXM"
+        ],
+        "stats": "Firepower",
+        "value": 7,
+        "type": "value"
+      }
+    ],
+    "level": 2,
+    "next": 322,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/teshu_hangkong_1.png",
+    "available": true
+  },
+  "322": {
+    "id": 322,
+    "group_id": 32,
+    "name": "Azure Sky Affinity - Ace",
+    "desc": "Your CVs and CVLs gain 10 AVI and your IXMs gain 10 FP.",
+    "stats": [
+      {
+        "apply": [
+          "CV",
+          "CVL"
+        ],
+        "stats": "Aviation",
+        "value": 10,
+        "type": "value"
+      },
+      {
+        "apply": [
+          "IXM"
+        ],
+        "stats": "Firepower",
+        "value": 10,
+        "type": "value"
+      }
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/teshu_hangkong_2.png",
+    "available": true
+  },
   "401": {
     "id": 401,
     "group_id": 40,
@@ -1741,6 +1799,66 @@
     "level": 3,
     "next": 0,
     "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/teshu_naijiu_3.png",
+    "available": true
+  },
+  "771": {
+    "id": 771,
+    "group_id": 77,
+    "name": "Rookie Engineer - Vanguard",
+    "desc": "Your Vanguard gains 30 HP.",
+    "stats": [
+      {
+        "apply": [
+          "Vanguard"
+        ],
+        "stats": "Health",
+        "value": 30,
+        "type": "value"
+      }
+    ],
+    "level": 1,
+    "next": 772,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/quzhu_naijiu_1.png",
+    "available": true
+  },
+  "772": {
+    "id": 772,
+    "group_id": 77,
+    "name": "Adept Engineer - Vanguard",
+    "desc": "Your Vanguard gains 42 HP.",
+    "stats": [
+      {
+        "apply": [
+          "Vanguard"
+        ],
+        "stats": "Health",
+        "value": 42,
+        "type": "value"
+      }
+    ],
+    "level": 2,
+    "next": 773,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/quzhu_naijiu_2.png",
+    "available": true
+  },
+  "773": {
+    "id": 773,
+    "group_id": 77,
+    "name": "Ace Engineer - Vanguard",
+    "desc": "Your Vanguard gains 60 HP.",
+    "stats": [
+      {
+        "apply": [
+          "Vanguard"
+        ],
+        "stats": "Health",
+        "value": 60,
+        "type": "value"
+      }
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/quzhu_naijiu_3.png",
     "available": true
   },
   "801": {
@@ -3895,6 +4013,74 @@
         ],
         "stats": "Aviation",
         "value": 20,
+        "type": "value"
+      }
+    ],
+    "level": 1,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/special_one.png",
+    "available": true
+  },
+  "5171": {
+    "id": 5171,
+    "group_id": 517,
+    "name": "A Bold Challenge",
+    "desc": "Your CVs gain 10 AVI and RLD and your IXs gain 15 FP.",
+    "stats": [
+      {
+        "apply": [
+          "CV"
+        ],
+        "stats": "Aviation",
+        "value": 10,
+        "type": "value"
+      },
+      {
+        "apply": [
+          "CV"
+        ],
+        "stats": "Reload",
+        "value": 10,
+        "type": "value"
+      },
+      {
+        "apply": [
+          "IX"
+        ],
+        "stats": "Firepower",
+        "value": 15,
+        "type": "value"
+      }
+    ],
+    "level": 1,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/special_one.png",
+    "available": true
+  },
+  "5181": {
+    "id": 5181,
+    "group_id": 518,
+    "name": "Hoist Sails Again",
+    "desc": "Your CLs, CAs, and IXVs gain 10 FP and 10 RLD.",
+    "stats": [
+      {
+        "apply": [
+          "CL",
+          "CA",
+          "IXV"
+        ],
+        "stats": "Firepower",
+        "value": 10,
+        "type": "value"
+      },
+      {
+        "apply": [
+          "CL",
+          "CA",
+          "IXV"
+        ],
+        "stats": "Reload",
+        "value": 10,
         "type": "value"
       }
     ],

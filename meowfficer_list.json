@@ -1342,5 +1342,81 @@
       142,
       5131
     ]
+  },
+  {
+    "id": 960061,
+    "name": "Teach",
+    "rarity": "Super Rare",
+    "type": [],
+    "slot": null,
+    "timer": null,
+    "nationality": 96,
+    "stats": {
+      "command": 55,
+      "support": 40,
+      "tactic": 67
+    },
+    "skill": {
+      "name": "Unfinished Legend",
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/96006.png",
+      "level": {
+        "1": {
+          "id": 960063,
+          "desc": "When assigned to a fleet with Queen Anne's Revenge: once per battle, when the battle starts, fires a special barrage.",
+          "opsi": "When assigned to a fleet with Queen Anne's Revenge: once per battle, when the battle starts, fires a special barrage."
+        }
+      }
+    },
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/960061/image.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/960061/icon.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/960061/banner.png",
+    "talent": [
+      5171,
+      831,
+      832,
+      321,
+      833,
+      5101,
+      322,
+      5131
+    ]
+  },
+  {
+    "id": 960071,
+    "name": "Bonnet",
+    "rarity": "Elite",
+    "type": [],
+    "slot": null,
+    "timer": null,
+    "nationality": 96,
+    "stats": {
+      "command": 42,
+      "support": 55,
+      "tactic": 37
+    },
+    "skill": {
+      "name": "Tale of the Gentleman Pirate",
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/96007.png",
+      "level": {
+        "1": {
+          "id": 960073,
+          "desc": "Once per battle, when the HP of your Flagship or frontmost Vanguard ship falls below 50.0% as a result of DMG taken: restores 5.0% of that ship's HP.",
+          "opsi": "Once per battle, when the HP of your Flagship or frontmost Vanguard ship falls below 50.0% as a result of DMG taken: restores 5.0% of that ship's HP."
+        }
+      }
+    },
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/960000/image.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/960000/icon.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/character/960000/banner.png",
+    "talent": [
+      5181,
+      771,
+      772,
+      141,
+      773,
+      5111,
+      142,
+      5121
+    ]
   }
 ]

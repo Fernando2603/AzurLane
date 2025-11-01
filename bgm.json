@@ -2943,6 +2943,14 @@
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-temepest-2.ogg"
   },
+  "story-tempest-freedom": {
+    "title": "积蓄自由之光_PV",
+    "size": 1069127,
+    "duration": 51.776,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-tempest-freedom.ogg"
+  },
   "story-tempest-light": {
     "title": "蛻ｺ遐ｴ鬟取垓荵倶ｺｺ_AL",
     "size": 1402599,
@@ -3607,6 +3615,14 @@
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-tempest.ogg"
   },
+  "theme-tempest-light": {
+    "title": "七海赞颂_AL",
+    "size": 1981666,
+    "duration": 99.05066666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-tempest-light.ogg"
+  },
   "theme-tempest-up": {
     "title": "驰骋七海_G",
     "size": 2375682,
@@ -3758,6 +3774,14 @@
     "bitrate": 160.0,
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-underheaven.ogg"
+  },
+  "theme-unknown-undefined": {
+    "title": "forTheNewWorld_AL",
+    "size": 2046219,
+    "duration": 96.02133333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-unknown-undefined.ogg"
   },
   "theme-unzen": {
     "title": "莠台ｸｭ譛我ｻ兩G",

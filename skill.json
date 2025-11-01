@@ -12383,6 +12383,54 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30520.png",
     "max_level": 1
   },
+  "30531": {
+    "id": 30531,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Royal James once every 22 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30530.png",
+    "max_level": 1
+  },
+  "30532": {
+    "id": 30532,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault I: Royal James once every 30 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30530.png",
+    "max_level": 1
+  },
+  "30541": {
+    "id": 30541,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Adventure once every 28 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30540.png",
+    "max_level": 1
+  },
+  "30542": {
+    "id": 30542,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Adventure once every 40 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30540.png",
+    "max_level": 1
+  },
+  "30551": {
+    "id": 30551,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Lyme once every 30 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30550.png",
+    "max_level": 1
+  },
+  "30552": {
+    "id": 30552,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Lyme once every 20 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30550.png",
+    "max_level": 1
+  },
   "101010": {
     "id": 101010,
     "type": 3,
@@ -15277,6 +15325,110 @@
     "name": "Stream Chases Thunder's Traces",
     "desc": "Increases this ship's TRP and ACC by 5.0% (15.0%). Every 20s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151670.png",
+    "max_level": 10
+  },
+  "151680": {
+    "id": 151680,
+    "type": 1,
+    "name": "The Best-Laid Plans go Boom!",
+    "desc": "Increases this ship's FP and ACC by 1.0% (10.0%). 30s after the battle starts: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151680.png",
+    "max_level": 10
+  },
+  "151690": {
+    "id": 151690,
+    "type": 3,
+    "name": "Blessings from the Sea!",
+    "desc": "Decreases this ship's DMG taken by 20.0%. When this ship hits an enemy with the Main Gun weapon in her first Gear Slot: 10.0% chance to decrease that enemy's ACC by 1.0% (10.0%) for 5s. Once per battle, when this ship's HP falls below 50.0% as a result of DMG taken: restores 4.5% (12.0%) of this ship's max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151690.png",
+    "max_level": 10
+  },
+  "151700": {
+    "id": 151700,
+    "type": 2,
+    "name": "Horror From the Deeps",
+    "desc": "When this ship enters the battle: every second for 10s, restores 1.0% (2.0%) of this ship's max HP. 5s after this ship's HP falls below 30.0% as a result of DMG taken, or 60s after this ship enters the battle: this ship leaves the battlefield.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151700.png",
+    "max_level": 10
+  },
+  "151710": {
+    "id": 151710,
+    "type": 2,
+    "name": "Horror From the Deeps+",
+    "desc": "When this ship enters the battle: every second for 10s, restores 1.0% (2.0%) of this ship's max HP and increases this ship's EVA by 1.0% (can be stacked up to 10 times). 5s after this ship's HP falls below 30.0% as a result of DMG taken, or 60s after this ship enters the battle: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level), then this ship leaves the battlefield.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151710.png",
+    "max_level": 10
+  },
+  "151720": {
+    "id": 151720,
+    "type": 1,
+    "name": "Dreams in the Pirate's House",
+    "desc": "When this ship enters the battle: every second for 15s, increases this ship's FP and RLD by 1.0% (can be stacked up to 15 times). Every 15s: this ship becomes immobile for 1s and fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); if this barrage sinks an enemy, additionally performs a Lv.1 (Lv.10) special attack (DMG is based on the skill's level; 15s cooldown between activations; enemies hit by this attack have their SPD decreased by 30.0% for 3s).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151720.png",
+    "max_level": 10
+  },
+  "151740": {
+    "id": 151740,
+    "type": 1,
+    "name": "The Best-Laid Plans go Boom!+",
+    "desc": "Increases this ship's FP and ACC by 1.0% (10.0%). 30s after the battle starts: fires an improved Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) and increases this ship's DMG dealt by 10.0% (20.0%) until the battle ends.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151740.png",
+    "max_level": 10
+  },
+  "151750": {
+    "id": 151750,
+    "type": 1,
+    "name": "The Blackmane Tempesta",
+    "desc": "If this ship is your Flagship: increases your Tempesta ships' FP, ACC, and EVA by 1.0% (10.0%); if she is not your Flagship: increases this ship's FP and EVA by 5.0% (15.0%). When this ship fires her Main Guns: 40.0% (70.0%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); if there is another Tempesta ship in your fleet, increases this barrage's activation chance by 30.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151750.png",
+    "max_level": 10
+  },
+  "151760": {
+    "id": 151760,
+    "type": 3,
+    "name": "Share the Spoils",
+    "desc": "When this ship finishes loading her Main Guns, if there is no enemy with Plunder Target on the battlefield, inflicts Plunder Target to a random enemy (prioritizes humanoid enemies); enemies with Plunder Target have 1.0% (10.0%) decreased EVA and take 1.0% (10.0%) more DMG from Queen Anne's Revenge. When an enemy with Plunder Target is sunk, all your Tempesta ships recover 1.0% (3.0%) of their max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151760.png",
+    "max_level": 10
+  },
+  "151770": {
+    "id": 151770,
+    "type": 1,
+    "name": "Pearl of the Sky, Sapphire of the Sea",
+    "desc": "Increases this ship's FP and RLD by 5.0% (15.0%). When this ship fires her Main Guns: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) that inflicts Pearl Moon to enemies hit. Enemies with Pearl Moon have their ACC decreased by 15.0% until the battle ends (this effect does not stack).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151770.png",
+    "max_level": 10
+  },
+  "151780": {
+    "id": 151780,
+    "type": 3,
+    "name": "Moon's Splendour, Pearl's Shimmer",
+    "desc": "Every odd-numbered time this ship fires her Main Guns: decreases your Vanguard's DMG taken by 4.0% (10.0%) for 8s; every even-numbered time she fires her Main Guns: restores 1.0% (3.0%) of this ship's max HP and inflicts 500 DMG to enemies with the Pearl Moon debuff.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151780.png",
+    "max_level": 10
+  },
+  "151790": {
+    "id": 151790,
+    "type": 1,
+    "name": "Moon's Splendour, Pearl's Shimmer+",
+    "desc": "Increases this ship's FP and RLD by 10.0% (20.0%). 30s after the battle starts: increases this ship's DMG dealt by 5.0% (15.0%) until the battle ends. When this ship fires her Main Guns: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) that inflicts Pearl Moon to enemies hit. Enemies with Pearl Moon have their ACC decreased by 15.0% until the battle ends (this effect does not stack).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151770.png",
+    "max_level": 10
+  },
+  "151800": {
+    "id": 151800,
+    "type": 1,
+    "name": "Judgment of Spear and Sword",
+    "desc": "Increases this ship's FP and ACC by 5.0% (15.0%). Increases this ship's DMG dealt by 10.0% (20.0%) against enemies with less than 25.0% HP. Every 5s: fires a Lv.1 (Lv.10) special shell, and every 20s: fires a Lv.1 (Lv.10) special barrage (DMG of the shell and the barrage is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151800.png",
+    "max_level": 10
+  },
+  "151810": {
+    "id": 151810,
+    "type": 2,
+    "name": "Final Sacrament",
+    "desc": "When the battle starts: increases this ship's EVA by 15.0% (25.0%) and deploys a barrier (lasting 30s) that can negate DMG equal to 5.0% (15.0%) of this ship's max HP. When the battle starts, if there is another Tempesta ship in your fleet: once per battle, when this ship takes DMG that would sink her, this ship does not sink, recovers 10.0% of her max HP, and evades all DMG for 3s; when this effect activates, increases this ship's DMG dealt by 10.0% and decreases her DMG taken by 15.0% until the battle ends.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151810.png",
     "max_level": 10
   },
   "190000": {
@@ -19181,6 +19333,22 @@
     "name": "\"Spiritual\" Healing+",
     "desc": "When the battle starts: decreases this ship's DMG taken by 5.0% (15.0%). Every 20s, if a ship in your surface fleet has less than 50.0% of her max HP remaining, grants the Plastered status to the ship in your fleet with the lowest current HP percentage and restores 4.0% of that ship's max HP; the Plastered status lasts 15s and increases the target's FP, Crit Rate, and Crit DMG by 5.0% (15.0%), but decreases her ACC by 15.0% (5.0%).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/150640.png",
+    "max_level": 10
+  },
+  "10151760": {
+    "id": 10151760,
+    "type": 3,
+    "name": "Share the Spoils+",
+    "desc": "When this ship finishes loading her Main Guns, if there is an enemy with Plunder Target on the battlefield: decreases that enemy's SPD by 20.0% for 5s; if there is no enemy with Plunder Target, inflicts Plunder Target to a random enemy (prioritizes humanoid enemies); enemies with Plunder Target have 1.0% (10.0%) decreased EVA and take 1.0% (10.0%) more DMG from Queen Anne's Revenge. When an enemy with Plunder Target is sunk, all your Tempesta ships recover 1.0% (3.0%) of their max HP and their DMG taken is decreased by 1.0% (3.0%) until the battle ends (this effect can be stacked up to 3 times).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151760.png",
+    "max_level": 10
+  },
+  "10151810": {
+    "id": 10151810,
+    "type": 2,
+    "name": "Final Sacrament+",
+    "desc": "When the battle starts: increases this ship's EVA by 15.0% (25.0%) and DMG dealt against Medium Armor enemies by 1.0% (10.0%) and deploys a barrier (lasting until the battle ends) that can negate DMG equal to 5.0% (15.0%) of this ship's max HP. Once per battle, when this ship takes DMG that would sink her, this ship does not sink, recovers 20.0% of her max HP, and evades all DMG for 5s; when this effect activates, increases this ship's DMG dealt by 10.0% and decreases her DMG taken by 15.0% until the battle ends.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151810.png",
     "max_level": 10
   }
 }

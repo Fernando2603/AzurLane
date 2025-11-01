@@ -21325,6 +21325,30 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301571/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301571/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301571/shipyard.png"
+      },
+      {
+        "id": 301572,
+        "gid": 30157,
+        "name": "Little Steamy Sprite",
+        "type": "Rpg Adventure",
+        "desc": "C-Commander! Over here! Take a seat right here, please! Breathe in, relax... Okay, you're all ready! I'll cleanse you right away!",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 126,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/172.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301572/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301572/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301572/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301572/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301572/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301572/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301572/shipyard.png"
       }
     ]
   },
@@ -39967,6 +39991,30 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/718011/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/718011/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/718011/shipyard.png"
+      },
+      {
+        "id": 718012,
+        "gid": 71801,
+        "name": "Animal Agent",
+        "type": "Rpg Adventure",
+        "desc": "When you said \"special animal costume,\" I was expecting some sort of mascot costume... not whatever this is! B-but don't worry, Comrade Commander! This is no big deal for an agent of the Northern Parliament!",
+        "tag": [
+          "dynamic"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 272,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/718012/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/718012/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/718012/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/718012/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/718012/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/718012/shipyard.png"
       }
     ]
   },
@@ -51005,6 +51053,270 @@
     ]
   },
   {
+    "gid": 960012,
+    "name": "Queen Anne's Revenge",
+    "skins": [
+      {
+        "id": 9600120,
+        "gid": 960012,
+        "name": "Queen Anne's Revenge",
+        "type": "Default",
+        "desc": "Sailing frigate – Queen Anne's Revenge.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 477,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600120/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600120/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600120/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600120/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600120/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600120/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600120/shipyard.png"
+      },
+      {
+        "id": 9600121,
+        "gid": 960012,
+        "name": "Call of the Creeping Embrace",
+        "type": "Rpg Adventure",
+        "desc": "You, lost mortal, have awakened an indescribable supreme being. You will become my retainer and aid me in completing my ritual.",
+        "tag": [
+          "live2d",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 477,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/525.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600121/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600121/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600121/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600121/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600121/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600121/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600121/shipyard.png"
+      }
+    ]
+  },
+  {
+    "gid": 960013,
+    "name": "Lyme",
+    "skins": [
+      {
+        "id": 9600130,
+        "gid": 960013,
+        "name": "Lyme",
+        "type": "Default",
+        "desc": "Sailing frigate – Lyme.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 478,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600130/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600130/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600130/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600130/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600130/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600130/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600130/shipyard.png"
+      },
+      {
+        "id": 9600131,
+        "gid": 960013,
+        "name": "Corrupting Trap",
+        "type": "Rpg Adventure",
+        "desc": "Ugh... Where am I? Why do I feel so weak? Did I... trigger a trap that corrupts its prey? Grgh! Was it you who laid the trap? You will pay for this!",
+        "tag": [
+          "dynamic",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 478,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/194.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600131/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600131/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600131/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600131/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600131/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600131/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600131/shipyard.png"
+      }
+    ]
+  },
+  {
+    "gid": 960014,
+    "name": "Pearl",
+    "skins": [
+      {
+        "id": 9600140,
+        "gid": 960014,
+        "name": "Pearl",
+        "type": "Default",
+        "desc": "Sailing frigate – Pearl.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 479,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600140/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600140/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600140/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600140/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600140/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600140/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600140/shipyard.png"
+      },
+      {
+        "id": 9600141,
+        "gid": 960014,
+        "name": "Fallen Angel in the Dark Castle",
+        "type": "Rpg Adventure",
+        "desc": "Oh sweet hero, you who charged into this forbidden and dangerous castle alone for the sake of your beloved angel... What a scene you've arrived to. The power of potions is really something, isn't it...",
+        "tag": [
+          "None",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 479,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/156.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600141/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600141/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600141/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600141/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600141/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600141/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600141/shipyard.png"
+      }
+    ]
+  },
+  {
+    "gid": 960015,
+    "name": "Royal James",
+    "skins": [
+      {
+        "id": 9600150,
+        "gid": 960015,
+        "name": "Royal James",
+        "type": "Default",
+        "desc": "Sailing frigate – Royal James.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 480,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600150/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600150/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600150/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600150/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600150/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600150/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600150/shipyard.png"
+      },
+      {
+        "id": 9600151,
+        "gid": 960015,
+        "name": "The Forbidden Slurp",
+        "type": "Rpg Adventure",
+        "desc": "Where... am I? Brrr, it's cold... What am I supposed to– Oh, you look pretty warm, stranger. Would you mind... sharing a little of your body heat?",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 480,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/162.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600151/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600151/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600151/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600151/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600151/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600151/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600151/shipyard.png"
+      }
+    ]
+  },
+  {
+    "gid": 960016,
+    "name": "Adventure",
+    "skins": [
+      {
+        "id": 9600160,
+        "gid": 960016,
+        "name": "Adventure",
+        "type": "Default",
+        "desc": "Sailing frigate – Adventure.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 481,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600160/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600160/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600160/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600160/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600160/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600160/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600160/shipyard.png"
+      },
+      {
+        "id": 9600161,
+        "gid": 960016,
+        "name": "Master of the Safe House",
+        "type": "Rpg Adventure",
+        "desc": "There you are... Don't think I didn't notice you skulking around my castle! Can't believe you made it here without triggering my traps... Does that mean I'm not safe here, either?!",
+        "tag": [
+          "dynamic",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 481,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/156.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600161/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600161/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600161/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600161/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600161/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600161/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600161/shipyard.png"
+      }
+    ]
+  },
+  {
     "gid": 1010001,
     "name": "Neptune",
     "skins": [
@@ -55143,6 +55455,31 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/399021/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/399021/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/399021/shipyard.png"
+      },
+      {
+        "id": 399022,
+        "gid": 39902,
+        "name": "Tail-Stirred Cocktail",
+        "type": "Rpg Adventure",
+        "desc": "Finally realized I'm the bartender here? This isn't any ordinary wine, you know. Give it a try, if you're interested. Heheheh...",
+        "tag": [
+          "dynamic",
+          "bg"
+        ],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 108,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/156.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/399022/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/399022/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/399022/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/399022/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/399022/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/399022/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/399022/shipyard.png"
       }
     ]
   },
