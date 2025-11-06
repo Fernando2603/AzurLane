@@ -18591,6 +18591,14 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/11380.png",
     "max_level": 10
   },
+  "1011390": {
+    "id": 1011390,
+    "type": 1,
+    "name": "Silent Hunter+",
+    "desc": "Increases this boat's torpedo DMG dealt by 1.0% (10.0%) and increases her DMG dealt against CVs and CVLs by 5.0% (20.0%). When this boat's torpedoes hit an enemy: 5% (15.0%) chance to inflict Flooding ailment on that enemy for 24s, inflicting DMG every 3s (DMG is based on this ship's TRP stat). If this effect activates again while the Flooding ailment is active, its duration is reset.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/11390.png",
+    "max_level": 10
+  },
   "1011440": {
     "id": 1011440,
     "type": 1,
@@ -18701,6 +18709,14 @@
     "name": "Protector of the North Passage+",
     "desc": "When this ship launches an airstrike: 1) performs a scan, revealing the location of enemy SSs, decreasing their SPD by 40.0%, and increasing their DMG taken by 10.0% for 5 (10)s; 2) launches an additional airstrike consisting of Swordfishes armed with anti-sub and anti-surface torpedoes (DMG is based on the skill's level).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/11900.png",
+    "max_level": 10
+  },
+  "1011910": {
+    "id": 1011910,
+    "type": 1,
+    "name": "Patriotic Spirit+",
+    "desc": "When this ship uses Eagle Union aircraft: increases that aircraft's efficiency by 5.0% (15.0%). When the battle starts: increases your Eagle Union Vanguard ships' AA and EVA by 5.0% (15.0%) and decreases your Eagle Union Main Fleet ships' DMG taken by 5.0% (15.0%). Every 20s: launches a Lv.1 (Lv.10) special airstrike (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/11910.png",
     "max_level": 10
   },
   "1011940": {

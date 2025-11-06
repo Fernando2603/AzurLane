@@ -68224,7 +68224,8 @@
     "class": "Fubuki Class Type I (Fubuki)",
     "nationality": 3,
     "obtain": [
-      "Event: Violet Tempest, Blooming Lycoris"
+      "Event: Violet Tempest, Blooming Lycoris",
+      "Merit Shop"
     ],
     "type": 1,
     "rarity": 4,
@@ -81729,7 +81730,8 @@
     "class": "Akizuki Class",
     "nationality": 3,
     "obtain": [
-      "Event: Violet Tempest, Blooming Lycoris"
+      "Event: Violet Tempest, Blooming Lycoris",
+      "Light ship Construction"
     ],
     "type": 1,
     "rarity": 5,
@@ -86537,7 +86539,8 @@
     "class": "Agano Class",
     "nationality": 3,
     "obtain": [
-      "Event: Violet Tempest, Blooming Lycoris"
+      "Event: Violet Tempest, Blooming Lycoris",
+      "Light ship Construction"
     ],
     "type": 2,
     "rarity": 5,
@@ -89719,7 +89722,8 @@
     "class": "Myoukou Class",
     "nationality": 3,
     "obtain": [
-      "Event: Violet Tempest, Blooming Lycoris"
+      "Event: Violet Tempest, Blooming Lycoris",
+      "Heavy Ship Construction"
     ],
     "type": 3,
     "rarity": 4,
@@ -95714,7 +95718,9 @@
     "class": "Yamato Class",
     "nationality": 3,
     "obtain": [
-      "Event: Violet Tempest, Blooming Lycoris"
+      "Event: Violet Tempest, Blooming Lycoris",
+      "Heavy/Special Construction",
+      "UR Exchange"
     ],
     "type": 5,
     "rarity": 6,
