@@ -4054,6 +4054,31 @@
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105173/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105173/shipyard.png"
       },
+      "105174": {
+        "id": 105174,
+        "gid": 10517,
+        "name": "Black Blur Prelude",
+        "type": "Race Queen",
+        "desc": "There you are, honey! I've got a super-special, super-speedy gift for you before the race! Get over here, aaand... Mwah!",
+        "tag": [
+          "None",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 273,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/132.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105174/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105174/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105174/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105174/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105174/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105174/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/105174/shipyard.png"
+      },
       "105178": {
         "id": 105178,
         "gid": 10517,
@@ -18803,7 +18828,7 @@
         "illustrator": 8,
         "illustrator2": -1,
         "voice_actor": 36,
-        "voice_actor2": -1,
+        "voice_actor2": 482,
         "bgm": null,
         "background": null,
         "background2": null,
@@ -18828,7 +18853,7 @@
         "illustrator": 8,
         "illustrator2": -1,
         "voice_actor": 36,
-        "voice_actor2": -1,
+        "voice_actor2": 482,
         "bgm": null,
         "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/106.png",
         "background2": null,
@@ -18852,7 +18877,7 @@
         "illustrator": 8,
         "illustrator2": -1,
         "voice_actor": 36,
-        "voice_actor2": -1,
+        "voice_actor2": 482,
         "bgm": null,
         "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/115.png",
         "background2": null,
@@ -18876,7 +18901,7 @@
         "illustrator": 8,
         "illustrator2": -1,
         "voice_actor": 36,
-        "voice_actor2": -1,
+        "voice_actor2": 482,
         "bgm": null,
         "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/143.png",
         "background2": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/1102.png",
@@ -18900,7 +18925,7 @@
         "illustrator": -1,
         "illustrator2": -1,
         "voice_actor": 36,
-        "voice_actor2": -1,
+        "voice_actor2": 482,
         "bgm": null,
         "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/157.png",
         "background2": null,
@@ -18911,6 +18936,30 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/405024/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/405024/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/405024/shipyard.png"
+      },
+      "405025": {
+        "id": 405025,
+        "gid": 40502,
+        "name": "Pit Stop Standby",
+        "type": "Race Queen",
+        "desc": "Congratulations on your new record, Commander. This glory alone has given meaning to my time spent waiting. Now, rest assured while I do maintenance on your car.",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 36,
+        "voice_actor2": 482,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/186.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/405025/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/405025/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/405025/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/405025/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/405025/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/405025/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/405025/shipyard.png"
       }
     }
   },
@@ -25744,6 +25793,31 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107096/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107096/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107096/shipyard.png"
+      },
+      "107097": {
+        "id": 107097,
+        "gid": 10709,
+        "name": "Start Line Splash",
+        "type": "Race Queen",
+        "desc": "Don't worry, Commander. I'm making sure your ride is squeaky clean before the race! Check it out – I bet your car is the most dazzling one on the track now.",
+        "tag": [
+          "dynamic",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 149,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/186.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107097/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107097/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107097/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107097/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107097/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107097/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107097/shipyard.png"
       },
       "107099": {
         "id": 107099,
@@ -58024,6 +58098,31 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/799022/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/799022/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/799022/shipyard.png"
+      },
+      "799023": {
+        "id": 799023,
+        "gid": 79902,
+        "name": "Cheerleading Mechanic?",
+        "type": "Race Queen",
+        "desc": "Placing: first. Congratulations on your victory, Commander. I'm glad if my cheerleading played a part... My mechanical skills also played a part, you say? True. Then I guess I'm pretty glad.",
+        "tag": [
+          "dynamic",
+          "bg"
+        ],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 296,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/186.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/799023/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/799023/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/799023/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/799023/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/799023/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/799023/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/799023/shipyard.png"
       }
     }
   },

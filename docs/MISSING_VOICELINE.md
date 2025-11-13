@@ -130,15 +130,33 @@
 | 124 | 40305 | Admiral Graf Spee | 403050 | Admiral Graf Spee | Default | headtouch |
 | 125 | 40311 | Yorck | 403110 | Yorck | Default | main7_ex |
 | 126 | 40502 | Tirpitz | 405020 | Tirpitz | Default | couple_encourage1 |
-| 127 | 40812 | U-1206 | 408120 | U-1206 | Default | main4_ex |
-| 128 | 40812 | U-1206 | 408120 | U-1206 | Default | main6_ex |
-| 129 | 50202 | Ning Hai | 502027 | Hectic Kitchen | Maid | couple_encourage1 |
-| 130 | 50203 | Ping Hai | 502037 | Lively Banquet Preparations | Maid | couple_encourage1 |
-| 131 | 50205 | Chao Ho | 502050 | Chao Ho | Default | feeling1_ex |
-| 132 | 50205 | Chao Ho | 502050 | Chao Ho | Default | mail_ex |
-| 133 | 50209 | Chi An | 502090 | Chi An | Default | profile |
-| 134 | 60105 | Libeccio | 601050 | Libeccio | Default | couple_encourage1 |
-| 135 | 60106 | Nicoloso da Recco | 601060 | Nicoloso da Recco | Default | main3_ex |
-| 136 | 70202 | Pamiat' Merkuria | 702020 | Pamiat' Merkuria | Default | couple_encourage1 |
-| 137 | 90101 | Le Mars | 901010 | Le Mars | Default | profile |
-| 138 | 1070003 | Iori Minase | 10700031 | A Little Evening Secret | Summer Fest | headtouch |
+| 127 | 40502 | Tirpitz | 405020 | Tirpitz | Default | feeling5_ex |
+| 128 | 40502 | Tirpitz | 405020 | Tirpitz | Default | login_ex |
+| 129 | 40502 | Tirpitz | 405020 | Tirpitz | Default | main4_ex |
+| 130 | 40502 | Tirpitz | 405020 | Tirpitz | Default | main5_ex |
+| 131 | 40502 | Tirpitz | 405020 | Tirpitz | Default | main6_ex |
+| 132 | 40502 | Tirpitz | 405020 | Tirpitz | Default | touch_ex |
+| 133 | 40502 | Tirpitz | 405020 | Tirpitz | Default | touch2_ex |
+| 134 | 40502 | Tirpitz | 405025 | Pit Stop Standby | Race Queen | detail |
+| 135 | 40502 | Tirpitz | 405025 | Pit Stop Standby | Race Queen | feeling5 |
+| 136 | 40502 | Tirpitz | 405025 | Pit Stop Standby | Race Queen | home |
+| 137 | 40502 | Tirpitz | 405025 | Pit Stop Standby | Race Queen | login |
+| 138 | 40502 | Tirpitz | 405025 | Pit Stop Standby | Race Queen | main1 |
+| 139 | 40502 | Tirpitz | 405025 | Pit Stop Standby | Race Queen | main2 |
+| 140 | 40502 | Tirpitz | 405025 | Pit Stop Standby | Race Queen | main3 |
+| 141 | 40502 | Tirpitz | 405025 | Pit Stop Standby | Race Queen | touch |
+| 142 | 40502 | Tirpitz | 405025 | Pit Stop Standby | Race Queen | touch2 |
+| 143 | 40502 | Tirpitz | 405025 | Pit Stop Standby | Race Queen | unlock |
+| 144 | 40502 | Tirpitz | 405025 | Pit Stop Standby | Race Queen | win_mvp |
+| 145 | 40812 | U-1206 | 408120 | U-1206 | Default | main4_ex |
+| 146 | 40812 | U-1206 | 408120 | U-1206 | Default | main6_ex |
+| 147 | 50202 | Ning Hai | 502027 | Hectic Kitchen | Maid | couple_encourage1 |
+| 148 | 50203 | Ping Hai | 502037 | Lively Banquet Preparations | Maid | couple_encourage1 |
+| 149 | 50205 | Chao Ho | 502050 | Chao Ho | Default | feeling1_ex |
+| 150 | 50205 | Chao Ho | 502050 | Chao Ho | Default | mail_ex |
+| 151 | 50209 | Chi An | 502090 | Chi An | Default | profile |
+| 152 | 60105 | Libeccio | 601050 | Libeccio | Default | couple_encourage1 |
+| 153 | 60106 | Nicoloso da Recco | 601060 | Nicoloso da Recco | Default | main3_ex |
+| 154 | 70202 | Pamiat' Merkuria | 702020 | Pamiat' Merkuria | Default | couple_encourage1 |
+| 155 | 90101 | Le Mars | 901010 | Le Mars | Default | profile |
+| 156 | 1070003 | Iori Minase | 10700031 | A Little Evening Secret | Summer Fest | headtouch |
