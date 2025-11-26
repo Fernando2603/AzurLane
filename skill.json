@@ -14055,6 +14055,174 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/114110.png",
     "max_level": 1
   },
+  "115010": {
+    "id": 115010,
+    "type": 1,
+    "name": "Halvanhelev",
+    "desc": "When the battle starts, increase this unit's RLD by 5.0% (15.0%). Every 2 times this unit fires her Main Guns: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) that decreases the SPD of enemies hit by 5.0% for 3s (does not stack with similar skills).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/115010.png",
+    "max_level": 10
+  },
+  "115020": {
+    "id": 115020,
+    "type": 2,
+    "name": "Astral Dress - Adonai Melek",
+    "desc": "When the battle starts, and every 30s: deploys a shield (lasting 20s; can negate up to 8 enemy shells) around this unit; if this shield is destroyed during its active duration: immediately performs a Lv.1 (Lv.10) special attack (DMG is based on the skill's level) and increases this unit's EVA by 5.0% (15.0%) for 10s.\nWhile this unit is afloat: decreases your Flagship's DMG taken by 4.0% (10.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/115020.png",
+    "max_level": 10
+  },
+  "115030": {
+    "id": 115030,
+    "type": 1,
+    "name": "Halvanhelev+",
+    "desc": "When the battle starts, increase this unit's FP and RLD by 5.0% (15.0%). Every 2 times this unit fires her Main Guns: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) that decreases the SPD of enemies hit by 1.0% for 3s (does not stack with similar skills).\nAdditionally, whenever this unit takes a total amount of DMG equal to 20.0% of her max HP: performs a Lv.1 (Lv.10) special attack (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/115010.png",
+    "max_level": 10
+  },
+  "115040": {
+    "id": 115040,
+    "type": 3,
+    "name": "Sandalphon",
+    "desc": "During battle, decreases this unit's DMG taken by 8.0%. During battle, every time this unit sinks an enemy: increases this unit's Crit Rate by 8.0% until the battle ends (can be stacked up to 3 times).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/115010.png",
+    "max_level": 1
+  },
+  "115050": {
+    "id": 115050,
+    "type": 1,
+    "name": "Astral Dress - Elohim Gibor",
+    "desc": "When this unit fires her Main Guns: activates an effect corresponding to which of the following modes Angel Camael is in (the mode switches every time the Main Guns are fired):\n1) Camael: fires a Lv.1 (Lv.10) special barrage, then Camael performs an additional Lv.1 (Lv.10) special attack (DMG of both attacks is based on the skill's level). Camael starts the battle in this mode.\n2): Megiddo: fires a Lv.1 (Lv.10) powerful barrage (DMG is based on the skill's level).\nWhen Camael or Megiddo performs either the special attack or the powerful barrage: inflicts a special Burn to enemies hit by the attack for 10s, inflicting DMG once every second (DMG is based on this unit's FP stat).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/115050.png",
+    "max_level": 10
+  },
+  "115060": {
+    "id": 115060,
+    "type": 2,
+    "name": "Efreet's Might",
+    "desc": "During battle, decreases this unit's Burn DMG taken by 1.0% (10.0%) and decreases the duration of Burns on her by 3s. When an enemy gets within a certain range of this unit: decreases this unit's DMG taken by 5.0% (15.0%) for 10s (20s cooldown between activations). Once per battle, when this unit takes DMG that would incapacitate her: this unit does not get incapacitated and evades all DMG for 10s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/115060.png",
+    "max_level": 10
+  },
+  "115070": {
+    "id": 115070,
+    "type": 2,
+    "name": "Efreet's Might+",
+    "desc": "When the battle starts: increases this unit's FP and ACC by 1.0% (10.0%). During battle, decreases this unit's Burn DMG taken by 1.0% (10.0%) and decreases the duration of Burns on her by 3s. When this unit takes DMG, or when an enemy gets within a certain range of her: decreases this unit's DMG taken by 5.0% (15.0%) and increases her AA by 5.0% (15.0%) for 10s (20s cooldown between activations). Once per battle, when this unit takes DMG that would incapacitate her: this unit does not get incapacitated, she evades all DMG for 10s, and she recovers 10.0% (20.0%) of her max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/115060.png",
+    "max_level": 10
+  },
+  "115090": {
+    "id": 115090,
+    "type": 1,
+    "name": "El Kanaph",
+    "desc": "Every 8s after the battle starts: performs a Lv.1 (Lv.10) special attack using either Constrictor or Piercer (the first attack performed will be Constrictor and then switches after each special attack; DMG is based on the skill's level).\nEvery time Constrictor and Piercer have each been used once: 3s later, performs a Lv.1 (Lv.10) special attack using Sky Rider (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/115090.png",
+    "max_level": 10
+  },
+  "115100": {
+    "id": 115100,
+    "type": 3,
+    "name": "Astral Dress - Elohim Sabaoth",
+    "desc": "When the battle starts: increases this unit's FP, TRP, and Main Gun efficiency by 10.0% (20.0%) and deploys a barrier (lasting 20s) that can negate DMG equal to 5.0% of this unit's max HP. If this shield is destroyed, or if its active duration runs out: increases this unit's EVA by 5.0% (15.0%) and RLD and ACC by 10.0% (20.0%) until the battle ends.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/115100.png",
+    "max_level": 10
+  },
+  "115110": {
+    "id": 115110,
+    "type": 1,
+    "name": "El Kanaph+",
+    "desc": "Every 8s after the battle starts: performs an improved Lv.1 (Lv.10) special attack using either Constrictor or Piercer (the first attack performed will be Constrictor and then switches after each special attack; DMG is based on the skill's level).\nWhen either Constrictor or Piercer activate, the following effects are applied:\n1) Constrictor: increases this unit's Main Gun DMG dealt by 5.0% (15.0%) for 12s;\n2) Piercer: increases this unit's Main Gun shell velocity by 5.0% (15.0%) for 12s;\nEvery time Constrictor and Piercer have each been used once: 3s later, performs an improved Lv.1 (Lv.10) special attack using Sky Rider (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/115090.png",
+    "max_level": 10
+  },
+  "115120": {
+    "id": 115120,
+    "type": 1,
+    "name": "Raphael",
+    "desc": "Every 30s after the battle starts: decreases the SPD of all enemies on the battlefield by 10.0% for 5s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/115090.png",
+    "max_level": 1
+  },
+  "115140": {
+    "id": 115140,
+    "type": 1,
+    "name": "Time-Eating Castle",
+    "desc": "Increases this unit's FP by 5.0% (15.0%). When the battle starts, and every 5s: deploy Time-Eating Castle in front of this unit (lasting 3s). Every second that an enemy is present within Time-Eating Castle's effective range, Kurumi Tokisaki gains 1 stack of Time (max stack: 50) and, based on the number of enemies affected by Time-Eating Castle, the next Time-Eating Castle gains the following effects:\n1: decreases the SPD of all enemies within its range by 20.0% (40.0%);\n2: extends its active duration by 1 second;\n3: sets the SPD of all enemies within its range to 0.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/115140.png",
+    "max_level": 10
+  },
+  "115150": {
+    "id": 115150,
+    "type": 2,
+    "name": "Astral Dress - Elohim",
+    "desc": "When the battle starts: creates a Clone on the battlefield. Every 5s: spend 5 stacks of Time to create another Clone; if the Time stack is insufficient, no Clone will be created; up to 3 Clones may exist at the same time.\nClones inherit the current HP value Kurumi Tokisaki had at the time of creation, assist in battle, and perform attacks using a Lv.1 (Lv.10) Augment Module.\nWhen a Clone is destroyed, Kurumi Tokisaki recovers 2.0% of her max HP.\nWhen Kurumi Tokisaki takes DMG that would defeat her, if she has a Clone present, she recovers the Clone with the highest HP and restores HP equal to 50.0% (100.0%) of the Clone's HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/115150.png",
+    "max_level": 10
+  },
+  "115160": {
+    "id": 115160,
+    "type": 2,
+    "name": "Astral Dress - Elohim+",
+    "desc": "When the battle starts: creates a Clone on the battlefield. Every 5s: spend 5 stacks of Time to create another Clone; if the Time stack is insufficient, no Clone will be created; up to 3 Clones may exist at the same time.\nClones inherit the current HP value Kurumi Tokisaki had at the time of creation, assist in battle, and perform attacks using a Lv.1 (Lv.10) Augment Module.\nWhen a Clone takes DMG, this Clone evades all shelling and ramming DMG for 0.5s.\nWhen a Clone is destroyed, Kurumi Tokisaki recovers 2.0% of her max HP.\nWhen Kurumi Tokisaki takes DMG that would defeat her, if she has a Clone present, she recovers the Clone with the highest HP and restores HP equal to 50.0% (100.0%) of the Clone's HP.\nWhen the battle ends, for each Clone on the battlefield, Kurumi Tokisaki gains 5 stacks of Time, then spends all her stacks of Time to recover 5.0% of her max HP for every 5 stacks spent.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/115150.png",
+    "max_level": 10
+  },
+  "115170": {
+    "id": 115170,
+    "type": 1,
+    "name": "Metatron - Kadour",
+    "desc": "When this unit launches an airstrike: increases this unit's DMG dealt by 3.5% (8.0%) for 8s and activates a Lv.1 (Lv.10) Metatron - Kadour (DMG is based on the skill's level); Metatron - Kadour decreases the AA and EVA of enemies hit by 3.0% for 8s.\n10s after the battle starts, and every 20s after that: launches a Lv.1 (Lv.10) aerial barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/115170.png",
+    "max_level": 10
+  },
+  "115180": {
+    "id": 115180,
+    "type": 3,
+    "name": "Metatron - Artelif",
+    "desc": "When the battle starts: increases this unit's AVI and ACC by 5.0% (15.0%). Every 20s after the battle starts: activates a Lv.1 (Lv.10) Metatron - Artelif (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/115180.png",
+    "max_level": 10
+  },
+  "115190": {
+    "id": 115190,
+    "type": 2,
+    "name": "Astral Dress - Ehyeh",
+    "desc": "During battle, decreases this unit's first 2 (4) instance(s) of DMG taken by 30.0% (60.0%). Once per battle, when this unit's HP falls below 50.0% as a result of DMG taken: restores 10.0% (20.0%) of this unit's HP and sets her Detection Gauge value to 0.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/115190.png",
+    "max_level": 10
+  },
+  "115200": {
+    "id": 115200,
+    "type": 1,
+    "name": "Astral Dress - El",
+    "desc": "When the battle starts: increases this unit's AVI and ACC by 5.0% (15.0%). Every 10s after the battle starts: 40.0% (70.0%) chance to summon Zadkiel and perform a Lv.1 (Lv.10) special attack (DMG is based on the skill's level) that decreases the SPD of enemies hit by 15.0% (30.0%) for 6s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/115200.png",
+    "max_level": 10
+  },
+  "115210": {
+    "id": 115210,
+    "type": 1,
+    "name": "Astral Dress - El+",
+    "desc": "When the battle starts: increases this unit's AVI and ACC by 5.0% (15.0%). Every 10s after the battle starts: summons Zadkiel and perform a 40.0% (70.0%) special attack (DMG is based on the skill's level) that decreases the SPD of enemies hit by Lv.1 (Lv.10) for 6s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/115200.png",
+    "max_level": 10
+  },
+  "115220": {
+    "id": 115220,
+    "type": 2,
+    "name": "Shiryon",
+    "desc": "When this unit launches an airstrike: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) and deploys a barrier (lasting 6s) around every unit in your Vanguard that can negate DMG equal to 1.0% (3.0%) of the recipient's HP; if this barrier is destroyed during its active duration: the recipient recovers 3.0% of her max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/115220.png",
+    "max_level": 10
+  },
+  "115250": {
+    "id": 115250,
+    "type": 3,
+    "name": "Metatron - Artelif+",
+    "desc": "When the battle starts: increases this unit's AVI and ACC by 5.0% (15.0%) and increases her DMG dealt against enemies with lower SPD than her by 3.5% (8.0%). Every 20s after the battle starts: activates an improved Lv.1 (Lv.10) Metatron - Artelif (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/115180.png",
+    "max_level": 10
+  },
   "150000": {
     "id": 150000,
     "type": 2,
@@ -18229,6 +18397,54 @@
     "name": "Ashen Might - Dewey II",
     "desc": "[Operation Siren]\nEvery 10 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 6.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801930.png",
+    "max_level": 1
+  },
+  "801940": {
+    "id": 801940,
+    "type": 3,
+    "name": "Unwavering Protector",
+    "desc": "Increases this ship's FP and ACC by 5.0% (15.0%). Every 15s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) and, for 3s, decreases the DMG taken of the ship in your Vanguard with the lowest current HP by 5.0% (20.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801940.png",
+    "max_level": 10
+  },
+  "801950": {
+    "id": 801950,
+    "type": 2,
+    "name": "Tragedy's Ward",
+    "desc": "Increases this ship's AA by 5.0% (15.0%). Once per battle, when a ship in your Vanguard fleet takes DMG that would sink her: that ship does not sink and avoids the DMG; after this, your Vanguard evades all attacks for 2s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801950.png",
+    "max_level": 10
+  },
+  "801961": {
+    "id": 801961,
+    "type": 2,
+    "name": "Framework of Logic - Boise I",
+    "desc": "Every 15 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801960.png",
+    "max_level": 1
+  },
+  "801962": {
+    "id": 801962,
+    "type": 2,
+    "name": "Framework of Logic - Boise II",
+    "desc": "Every 10 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801960.png",
+    "max_level": 1
+  },
+  "801965": {
+    "id": 801965,
+    "type": 2,
+    "name": "Framework of Logic - Boise I",
+    "desc": "[Operation Siren]\nEvery 15 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 2.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801960.png",
+    "max_level": 1
+  },
+  "801967": {
+    "id": 801967,
+    "type": 2,
+    "name": "Framework of Logic - Boise II",
+    "desc": "[Operation Siren]\nEvery 10 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 6.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801960.png",
     "max_level": 1
   },
   "902220": {

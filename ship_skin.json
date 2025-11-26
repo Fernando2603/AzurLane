@@ -27529,6 +27529,30 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/317010/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/317010/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/317010/shipyard.png"
+      },
+      "317011": {
+        "id": 317011,
+        "gid": 31701,
+        "name": "After-School Observations",
+        "type": "Casual",
+        "desc": "So high up... But it's okay, Commander – I have a good sense of balance. Anyway, wanna see what's down there?",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": 14,
+        "illustrator2": -1,
+        "voice_actor": 186,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/105.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/317011/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/317011/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/317011/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/317011/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/317011/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/317011/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/317011/shipyard.png"
       }
     }
   },
@@ -55130,6 +55154,329 @@
       }
     }
   },
+  "1150001": {
+    "gid": 1150001,
+    "name": "Tohka Yatogami",
+    "skins": {
+      "11500010": {
+        "id": 11500010,
+        "gid": 1150001,
+        "name": "Tohka Yatogami",
+        "type": "Default",
+        "desc": "Identify yourself. Are you my enemy? ...Perhaps not. Hmm... Could this be a different world entirely? No wonder I've seen so many unfamiliar things. Regardless, my name is Tohka Yatogami. It's an important name, so you'd best remember it. I suppose I'll be in your world for the time being. On that note... I'm hungry. Do you have anything to eat?",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 148,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500010/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500010/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500010/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500010/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500010/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500010/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500010/shipyard.png"
+      },
+      "11500011": {
+        "id": 11500011,
+        "gid": 1150001,
+        "name": "Break Time",
+        "type": "Swimsuits",
+        "desc": "Hmm? What's the matter? Oh, this? Someone gave it to me to have as a little treat! I won't keep it all to myself, though. I'll share some with you! What would you like? Vanilla? Chocolate? Or strawberry? No, the kinako-flavored one is MINE! But you really want it? Hmm... Maybe just a little...?",
+        "tag": [
+          "dynamic",
+          "bg",
+          "bgm"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 148,
+        "voice_actor2": -1,
+        "bgm": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/dal-az-theme.ogg",
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/168.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500011/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500011/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500011/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500011/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500011/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500011/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500011/shipyard.png"
+      }
+    }
+  },
+  "1150002": {
+    "gid": 1150002,
+    "name": "Origami Tobiichi",
+    "skins": {
+      "11500020": {
+        "id": 11500020,
+        "gid": 1150002,
+        "name": "Origami Tobiichi",
+        "type": "Default",
+        "desc": "Is this... a different world from the one I came from? ...Understood. Panic accomplishes nothing. I will do my utmost to resolve this situation. I am Origami Tobiichi, former AST Master Sergeant. May I ask you to state your affiliation and rank?",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 483,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500020/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500020/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500020/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500020/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500020/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500020/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500020/shipyard.png"
+      },
+      "11500021": {
+        "id": 11500021,
+        "gid": 1150002,
+        "name": "The Spirit of Allure",
+        "type": "Swimsuits",
+        "desc": "What do you think about my swimsuit? As long as you like it, that's all that matters. It is a masterpiece that incorporates the opinions of many different shipgirls. During that time, I was advised that it would be better for it to include *** and ***, but I reluctantly excluded them due to my high levels of situational awareness.",
+        "tag": [
+          "dynamic",
+          "bg",
+          "bgm"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 483,
+        "voice_actor2": -1,
+        "bgm": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/dal-az-theme.ogg",
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/106.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500021/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500021/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500021/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500021/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500021/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500021/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500021/shipyard.png"
+      }
+    }
+  },
+  "1150003": {
+    "gid": 1150003,
+    "name": "Kotori Itsuka",
+    "skins": {
+      "11500030": {
+        "id": 11500030,
+        "gid": 1150003,
+        "name": "Kotori Itsuka",
+        "type": "Default",
+        "desc": "Where the heck am I... I can't get a hold of Fraxinus... Don't tell me, we've crossed a dimensional wall?! In any case, I need to get a handle on the current situation—Oh, got a moment? My name's Kotori. Kotori Itsuka. I'm just a schoolgirl... You'll buy that, right? Sorry, but can I have a moment to speak with you?",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 484,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500030/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500030/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500030/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500030/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500030/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500030/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500030/shipyard.png"
+      },
+      "11500031": {
+        "id": 11500031,
+        "gid": 1150003,
+        "name": "Waterside Goddess",
+        "type": "Swimsuits",
+        "desc": "So, I got changed into my swimsuit and... What? If you have something to say, make sure I can hear it. ...Eh? It's cute and looks good on me and you want to see even more? ...D-don't say embarrassing stuff like that!",
+        "tag": [
+          "dynamic",
+          "bgm"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 484,
+        "voice_actor2": -1,
+        "bgm": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/dal-az-theme.ogg",
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500031/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500031/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500031/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500031/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500031/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500031/shipyard.png"
+      }
+    }
+  },
+  "1150004": {
+    "gid": 1150004,
+    "name": "Yoshino",
+    "skins": {
+      "11500040": {
+        "id": 11500040,
+        "gid": 1150004,
+        "name": "Yoshino",
+        "type": "Default",
+        "desc": "Eh... ah... umm... \"Wooow, what a spectacle. What the heck even happened to us? Where even IS this?\" E-Excuse me...I, I'm Yoshino...and this is...Yoshinon. C-Can we...chat for a bit?",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 485,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500040/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500040/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500040/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500040/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500040/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500040/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500040/shipyard.png"
+      },
+      "11500041": {
+        "id": 11500041,
+        "gid": 1150004,
+        "name": "Secret Base",
+        "type": "Swimsuits",
+        "desc": "Um...I still tend to be a bit shy...when it comes to unfamiliar places. So...is it okay if I stay here...a bit longer? \"You've already done the prep. Now what you need is the courage! Say, Commander, mind giving us a hand over here?\"",
+        "tag": [
+          "dynamic",
+          "bg",
+          "bgm"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 485,
+        "voice_actor2": -1,
+        "bgm": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/dal-az-theme.ogg",
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/106.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500041/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500041/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500041/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500041/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500041/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500041/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500041/shipyard.png"
+      }
+    }
+  },
+  "1150005": {
+    "gid": 1150005,
+    "name": "Kurumi Tokisaki",
+    "skins": {
+      "11500050": {
+        "id": 11500050,
+        "gid": 1150005,
+        "name": "Kurumi Tokisaki",
+        "type": "Default",
+        "desc": "My, my... Now, where exactly might this be? Hmm, I seem to have... crossed into another world without realizing it. Kihihihi... It looks like things are about to get a lot more interesting. Ah, but please disregard that for now. Please allow me to introduce myself first. I am Kurumi Tokisaki. What might your name be?",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 486,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500050/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500050/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500050/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500050/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500050/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500050/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500050/shipyard.png"
+      },
+      "11500051": {
+        "id": 11500051,
+        "gid": 1150005,
+        "name": "Twin Rose",
+        "type": "Swimsuits",
+        "desc": "My, my. It seems that we've been seen, the other \"Me\". \"Indeed. Such a passionate gaze is naturally going to make me feel flushed.\" ...So, how long do you intend to stand there staring?",
+        "tag": [
+          "dynamic",
+          "bg",
+          "bgm"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 486,
+        "voice_actor2": -1,
+        "bgm": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/dal-az-theme.ogg",
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/109.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500051/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500051/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500051/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500051/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500051/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500051/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500051/shipyard.png"
+      }
+    }
+  },
+  "1150006": {
+    "gid": 1150006,
+    "name": "Kaguya Yamai・Yuzuru Yamai",
+    "skins": {
+      "11500060": {
+        "id": 11500060,
+        "gid": 1150006,
+        "name": "Kaguya Yamai・Yuzuru Yamai",
+        "type": "Default",
+        "desc": "Mwahaha! We are the Children of Typhoon who raze everything! Kaguya Yamai, and... \"Concur. Yuzuru Yamai.\" Wait, what? Where are we? \"Confusion. It seems we've wound up in another world.\" S-seriously? Wh-wh-what do we do now, Yuzuru?! \"Composure. Calm down. We should ask someone what is going on. You there, please explain as much as you can.\"",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 487,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500060/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500060/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500060/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500060/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500060/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500060/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500060/shipyard.png"
+      },
+      "11500061": {
+        "id": 11500061,
+        "gid": 1150006,
+        "name": "Blue Ocean Rendezvous",
+        "type": "Swimsuits",
+        "desc": "I now entrust this body of mine to the beautiful flow of the sea god! Come, Commander, and give me your hand! \"Request. Let us hold hands so that we don't get lost in the sea.\" Come on, don't be shy!",
+        "tag": [
+          "dynamic",
+          "bg",
+          "bgm"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 487,
+        "voice_actor2": -1,
+        "bgm": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/dal-az-theme.ogg",
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/539.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500061/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500061/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500061/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500061/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500061/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500061/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11500061/shipyard.png"
+      }
+    }
+  },
   "29901": {
     "gid": 29901,
     "name": "Neptune",
@@ -59771,6 +60118,34 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9701100/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9701100/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9701100/shipyard.png"
+      }
+    }
+  },
+  "970208": {
+    "gid": 970208,
+    "name": "Boise META",
+    "skins": {
+      "9702080": {
+        "id": 9702080,
+        "gid": 970208,
+        "name": "Boise META",
+        "type": "Default",
+        "desc": "Commander, I'm the META Boise... It's my job to give you and your fleet the protection you all need.",
+        "tag": [],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 276,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702080/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702080/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702080/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702080/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702080/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702080/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702080/shipyard.png"
       }
     }
   }

@@ -903,6 +903,30 @@
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/cw-story.ogg"
   },
+  "dal-az-battle": {
+    "title": "Ancient Realm_AL",
+    "size": 1086198,
+    "duration": 52.373333333333335,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/dal-az-battle.ogg"
+  },
+  "dal-az-story-up": {
+    "title": "A.L",
+    "size": 1327369,
+    "duration": 65.62133333333334,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/dal-az-story-up.ogg"
+  },
+  "dal-az-theme": {
+    "title": "Date a Lane_AL",
+    "size": 1997927,
+    "duration": 89.10933333333334,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/dal-az-theme.ogg"
+  },
   "danmachi-1": {
     "title": "1",
     "size": 2014316,
@@ -3222,6 +3246,14 @@
     "bitrate": 160.0,
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-donghuang.ogg"
+  },
+  "theme-dos": {
+    "title": "Dimensional Ordering System_AL",
+    "size": 1903892,
+    "duration": 91.88266666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-dos.ogg"
   },
   "theme-elizabeth-andmeta": {
     "title": "髯帑ｸ狗噪闕｣蜈雲4th05",

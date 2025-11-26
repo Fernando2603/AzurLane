@@ -95611,5 +95611,342 @@
         "anti_siren": 1
       }
     }
+  },
+  "150860": {
+    "name": "Michael",
+    "desc": "An unknown object shaped like a key inlaid with shimmering stars. It perpetually hums with a melody as mysterious as the distant cosmos.",
+    "label": [
+      "DEV"
+    ],
+    "rarity": 5,
+    "nationality": 115,
+    "type": 10,
+    "skill": {
+      "[60950, 1]": null
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150860.png",
+    "stats": {
+      "1": {
+        "id": 150860,
+        "level": 1,
+        "enhance": "+0",
+        "durability": 250
+      },
+      "2": {
+        "id": 150861,
+        "level": 2,
+        "enhance": "+1",
+        "durability": 280
+      },
+      "3": {
+        "id": 150862,
+        "level": 3,
+        "enhance": "+2",
+        "durability": 310
+      },
+      "4": {
+        "id": 150863,
+        "level": 4,
+        "enhance": "+3",
+        "durability": 340
+      },
+      "5": {
+        "id": 150864,
+        "level": 5,
+        "enhance": "+4",
+        "durability": 370
+      },
+      "6": {
+        "id": 150865,
+        "level": 6,
+        "enhance": "+5",
+        "durability": 400
+      },
+      "7": {
+        "id": 150866,
+        "level": 7,
+        "enhance": "+6",
+        "durability": 430
+      },
+      "8": {
+        "id": 150867,
+        "level": 8,
+        "enhance": "+7",
+        "durability": 460
+      },
+      "9": {
+        "id": 150868,
+        "level": 9,
+        "enhance": "+8",
+        "durability": 490
+      },
+      "10": {
+        "id": 150869,
+        "level": 10,
+        "enhance": "+9",
+        "durability": 520
+      },
+      "11": {
+        "id": 150870,
+        "level": 11,
+        "enhance": "+10",
+        "durability": 550
+      },
+      "12": {
+        "id": 150871,
+        "level": 12,
+        "enhance": "+11",
+        "durability": 580,
+        "anti_siren": 1
+      },
+      "13": {
+        "id": 150872,
+        "level": 13,
+        "enhance": "+12",
+        "durability": 610,
+        "anti_siren": 2
+      },
+      "14": {
+        "id": 150873,
+        "level": 14,
+        "enhance": "+13",
+        "durability": 640,
+        "anti_siren": 3
+      }
+    }
+  },
+  "150880": {
+    "name": "Sephira Crystal",
+    "desc": "A Sephira Crystal made from the combined technology of the entire port. It emanates mysterious waves that gently envelop everything around it.",
+    "label": [
+      "DEV"
+    ],
+    "rarity": 5,
+    "nationality": 115,
+    "type": 10,
+    "skill": {
+      "[60960, 1]": null
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150880.png",
+    "stats": {
+      "1": {
+        "id": 150880,
+        "level": 1,
+        "enhance": "+0",
+        "dodge": 13,
+        "speed": 1
+      },
+      "2": {
+        "id": 150881,
+        "level": 2,
+        "enhance": "+1",
+        "dodge": 14,
+        "speed": 1
+      },
+      "3": {
+        "id": 150882,
+        "level": 3,
+        "enhance": "+2",
+        "dodge": 15,
+        "speed": 1
+      },
+      "4": {
+        "id": 150883,
+        "level": 4,
+        "enhance": "+3",
+        "dodge": 16,
+        "speed": 2
+      },
+      "5": {
+        "id": 150884,
+        "level": 5,
+        "enhance": "+4",
+        "dodge": 17,
+        "speed": 2
+      },
+      "6": {
+        "id": 150885,
+        "level": 6,
+        "enhance": "+5",
+        "dodge": 18,
+        "speed": 2
+      },
+      "7": {
+        "id": 150886,
+        "level": 7,
+        "enhance": "+6",
+        "dodge": 20,
+        "speed": 3
+      },
+      "8": {
+        "id": 150887,
+        "level": 8,
+        "enhance": "+7",
+        "dodge": 22,
+        "speed": 3
+      },
+      "9": {
+        "id": 150888,
+        "level": 9,
+        "enhance": "+8",
+        "dodge": 24,
+        "speed": 4
+      },
+      "10": {
+        "id": 150889,
+        "level": 10,
+        "enhance": "+9",
+        "dodge": 26,
+        "speed": 4
+      },
+      "11": {
+        "id": 150890,
+        "level": 11,
+        "enhance": "+10",
+        "dodge": 28,
+        "speed": 5
+      },
+      "12": {
+        "id": 150891,
+        "level": 12,
+        "enhance": "+11",
+        "dodge": 30,
+        "speed": 5,
+        "anti_siren": 1
+      },
+      "13": {
+        "id": 150892,
+        "level": 13,
+        "enhance": "+12",
+        "dodge": 32,
+        "speed": 5,
+        "anti_siren": 2
+      },
+      "14": {
+        "id": 150893,
+        "level": 14,
+        "enhance": "+13",
+        "dodge": 34,
+        "speed": 5,
+        "anti_siren": 3
+      }
+    }
+  },
+  "150900": {
+    "name": "Giant Onigiri",
+    "desc": "Appears to be a perfectly ordinary onigiri. The only difference is that it was made by Tohka Yatogami. Perhaps that has given it some special power.",
+    "label": [
+      "DEV"
+    ],
+    "rarity": 5,
+    "nationality": 115,
+    "type": 10,
+    "skill": {
+      "[60970, 1]": null
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150900.png",
+    "stats": {
+      "1": {
+        "id": 150900,
+        "level": 1,
+        "enhance": "+0",
+        "durability": 100,
+        "speed": 1
+      },
+      "2": {
+        "id": 150901,
+        "level": 2,
+        "enhance": "+1",
+        "durability": 130,
+        "speed": 1
+      },
+      "3": {
+        "id": 150902,
+        "level": 3,
+        "enhance": "+2",
+        "durability": 160,
+        "speed": 1
+      },
+      "4": {
+        "id": 150903,
+        "level": 4,
+        "enhance": "+3",
+        "durability": 190,
+        "speed": 1
+      },
+      "5": {
+        "id": 150904,
+        "level": 5,
+        "enhance": "+4",
+        "durability": 220,
+        "speed": 2
+      },
+      "6": {
+        "id": 150905,
+        "level": 6,
+        "enhance": "+5",
+        "durability": 250,
+        "speed": 2
+      },
+      "7": {
+        "id": 150906,
+        "level": 7,
+        "enhance": "+6",
+        "durability": 280,
+        "speed": 2
+      },
+      "8": {
+        "id": 150907,
+        "level": 8,
+        "enhance": "+7",
+        "durability": 310,
+        "speed": 3
+      },
+      "9": {
+        "id": 150908,
+        "level": 9,
+        "enhance": "+8",
+        "durability": 340,
+        "speed": 3
+      },
+      "10": {
+        "id": 150909,
+        "level": 10,
+        "enhance": "+9",
+        "durability": 370,
+        "speed": 3
+      },
+      "11": {
+        "id": 150910,
+        "level": 11,
+        "enhance": "+10",
+        "durability": 400,
+        "speed": 4
+      },
+      "12": {
+        "id": 150911,
+        "level": 12,
+        "enhance": "+11",
+        "durability": 424,
+        "speed": 4,
+        "anti_siren": 1
+      },
+      "13": {
+        "id": 150912,
+        "level": 13,
+        "enhance": "+12",
+        "durability": 448,
+        "speed": 4,
+        "anti_siren": 2
+      },
+      "14": {
+        "id": 150913,
+        "level": 14,
+        "enhance": "+13",
+        "durability": 472,
+        "speed": 4,
+        "anti_siren": 3
+      }
+    }
   }
 }
