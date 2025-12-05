@@ -95948,5 +95948,107 @@
         "anti_siren": 3
       }
     }
+  },
+  "150920": {
+    "name": "Blue Sea Mystery",
+    "desc": null,
+    "label": [
+      "USS",
+      "DEV"
+    ],
+    "rarity": 4,
+    "nationality": 1,
+    "type": 10,
+    "skill": {
+      "[60980, 1]": null
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/150920.png",
+    "stats": {
+      "1": {
+        "id": 150920,
+        "level": 1,
+        "enhance": "+0",
+        "cannon": 5,
+        "dodge": 6
+      },
+      "2": {
+        "id": 150921,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 5,
+        "dodge": 7
+      },
+      "3": {
+        "id": 150922,
+        "level": 3,
+        "enhance": "+2",
+        "cannon": 6,
+        "dodge": 7
+      },
+      "4": {
+        "id": 150923,
+        "level": 4,
+        "enhance": "+3",
+        "cannon": 6,
+        "dodge": 8
+      },
+      "5": {
+        "id": 150924,
+        "level": 5,
+        "enhance": "+4",
+        "cannon": 7,
+        "dodge": 9
+      },
+      "6": {
+        "id": 150925,
+        "level": 6,
+        "enhance": "+5",
+        "cannon": 7,
+        "dodge": 10
+      },
+      "7": {
+        "id": 150926,
+        "level": 7,
+        "enhance": "+6",
+        "cannon": 8,
+        "dodge": 11
+      },
+      "8": {
+        "id": 150927,
+        "level": 8,
+        "enhance": "+7",
+        "cannon": 9,
+        "dodge": 12
+      },
+      "9": {
+        "id": 150928,
+        "level": 9,
+        "enhance": "+8",
+        "cannon": 10,
+        "dodge": 13
+      },
+      "10": {
+        "id": 150929,
+        "level": 10,
+        "enhance": "+9",
+        "cannon": 11,
+        "dodge": 14
+      },
+      "11": {
+        "id": 150930,
+        "level": 11,
+        "enhance": "+10",
+        "cannon": 12,
+        "dodge": 15
+      },
+      "12": {
+        "id": 150931,
+        "level": 12,
+        "enhance": "+11",
+        "cannon": 13,
+        "dodge": 16,
+        "anti_siren": 1
+      }
+    }
   }
 }

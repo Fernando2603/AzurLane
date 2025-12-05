@@ -18831,6 +18831,14 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/11450.png",
     "max_level": 10
   },
+  "1011470": {
+    "id": 1011470,
+    "type": 3,
+    "name": "Nasty Asty+",
+    "desc": "Increases your New Orleans-class ships' FP by 4.0% (10.0%) and AA and ACC by 5.0% (20.0%). When the battle starts, and every 20s after that: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); enemies hit by this barrage take 1.5% (5.0%) more airstrike DMG from your Eagle Union ships for 6s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/11470.png",
+    "max_level": 10
+  },
   "1011490": {
     "id": 1011490,
     "type": 1,
@@ -19007,6 +19015,14 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/1012480.png",
     "max_level": 10
   },
+  "1012570": {
+    "id": 1012570,
+    "type": 1,
+    "name": "Supporting Wings+",
+    "desc": "Increases this ship's AVI and ACC by 5.0% (15.0%). When this ship has Royal Navy gear equipped, the following effects apply:\n1) Increases this ship's Torpedo Bomber slot efficiency by 5.0% (15.0%);\n2) When the enemy-slowing effect of Don't Move An Inch! activates, the enemy's SPD is slowed for an additional 0.5s at 0 SPD;\n3) When this ship launches an airstrike: 70.0% (100.0%) chance to launch a Lv.1 (Lv.10) special aerial attack using Fairey Albacores; enemies hit by this attack have an 80.0% chance to be inflicted with Flooding ailment for 9s (aerial attack DMG and Flooding DMG are based on the skill's level and this ship's AVI stat).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/12570.png",
+    "max_level": 10
+  },
   "1012600": {
     "id": 1012600,
     "type": 1,
@@ -19023,12 +19039,28 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/12620.png",
     "max_level": 10
   },
+  "1012640": {
+    "id": 1012640,
+    "type": 1,
+    "name": "Sardegnian Coercion+",
+    "desc": "Increases this ship's RLD by 10.0% (20.0%). When this ship fires her Main Guns: 50.0% (80.0%) chance to fire a special barrage (DMG is based on the skill's level); enemies hit by this barrage take 10.0% (20.0%) more DMG from Giulio Cesare until the battle ends (does not stack).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/12640.png",
+    "max_level": 10
+  },
   "1012670": {
     "id": 1012670,
     "type": 3,
     "name": "Fuoco di Copertura!+",
     "desc": "Every 20s, if this ship is in the backmost position of your Vanguard (there must be 2 or more ships afloat in your Vanguard): 70.0% (100.0%) chance to increase this ship's DMG dealt by 5.0% (15.0%) and increase the DMG dealt by the ship in the frontmost position of your Vanguard by 5.0% (15.0%) for 10s. Every 20s: fires a Lv.1 (Lv.10) special barrage.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/12670.png",
+    "max_level": 10
+  },
+  "1012840": {
+    "id": 1012840,
+    "type": 3,
+    "name": "Skyslayer's Edge+",
+    "desc": "Increases this ship's RLD and ACC by 5.0% (15.0%). Increases this ship's DMG dealt to enemy CVs and CVLs by 5.0% (20.0%). Every 10s: 50.0% (80.0%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). While this ship is afloat: increases your Vanguard's TRP by 5.0% (20.0%)$5.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/12840.png",
     "max_level": 10
   },
   "1012940": {
@@ -19093,6 +19125,14 @@
     "name": "Iron Blood Falcon+",
     "desc": "When this ship launches an airstrike: 50.0% (100.0%) chance to launch an additional Torpedo Bomber airstrike (DMG is based on the skill's level); when this effect activates, sets the SPD of all enemies to 0 for 3s. Increases your Iron Blood ships' DMG dealt to enemies with 0 SPD by 10.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/13880.png",
+    "max_level": 10
+  },
+  "1013910": {
+    "id": 1013910,
+    "type": 1,
+    "name": "Sic 'em, Eisen!+",
+    "desc": "When the battle starts, if there is another Iron Blood ship in your fleet: increases this ship's RLD and EVA by 5.0% (15.0%). When this ship fires her Main Guns: 50.0% (80.0%) chance to increase this ship's Main Gun DMG dealt by 50.0% for 3s, and also decrease the SPD of enemies hit by 30.0% for 3s (7s cooldown between activations on this effect).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/13910.png",
     "max_level": 10
   },
   "1014070": {
