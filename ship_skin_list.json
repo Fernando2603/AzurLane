@@ -60148,5 +60148,33 @@
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702080/shipyard.png"
       }
     ]
+  },
+  {
+    "gid": 970708,
+    "name": "Yorktown META",
+    "skins": [
+      {
+        "id": 9707080,
+        "gid": 970708,
+        "name": "Yorktown META",
+        "type": "Default",
+        "desc": "...It's a pleasure to meet you. Or should I say... we meet again. Just keep staring like that, Commander. I want to bask in this calm moment for a while longer...",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 42,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9707080/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9707080/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9707080/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9707080/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9707080/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9707080/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9707080/shipyard.png"
+      }
+    ]
   }
 ]

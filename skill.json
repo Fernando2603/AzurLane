@@ -18447,6 +18447,62 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801960.png",
     "max_level": 1
   },
+  "801970": {
+    "id": 801970,
+    "type": 3,
+    "name": "To Gaze Upon Fate",
+    "desc": "5s after the battle starts, and every 10s after that: inflicts the Observed status on enemies without this status until the battle ends (prioritizes humanoid enemies), decreasing their FP and AVI by 1.5% (5.0%). When this ship's airstrike finishes loading: inflicts the Focused Gaze status against enemies with the Observed status for 10s, decreasing their AA, EVA, and SPD by 1.0% (10.0%). Enemies with Focused Gaze take 4.5% (12.0%) more DMG from \"Yorktown\", but also deal 5.0% more DMG to Yorktown META.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801970.png",
+    "max_level": 10
+  },
+  "801980": {
+    "id": 801980,
+    "type": 2,
+    "name": "To Remember the Past",
+    "desc": "When the battle starts: increases this ship's max Detection Gauge value by 15. When this ship launches an airstrike: launches a special Lv.1 (Lv.10) airstrike (DMG is based on the skill's level) and increases this ship's Detection Gauge recovery by 2 for 5s. Once per battle, when this ship's HP falls below 20.0% as a result of DMG taken: restores 15.0% (25.0%) of this ship's max HP and launches a Lv.1 (Lv.10) special airstrike; if there is an enemy with Focused Gaze when this effect activates, this ship's Detection Gauge value is set to 0.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801980.png",
+    "max_level": 10
+  },
+  "801990": {
+    "id": 801990,
+    "type": 3,
+    "name": "To Witness Life and Death",
+    "desc": "Increases this ship's AVI by 1.0% (10.0%). If your Airspace Control state is not Air Denial or Air Incapability, \"Yorktown\" takes 4.5% (12.0%) less aircraft DMG. Increases the RLD and ACC of all ships with a Framework of Logic skill by 1.0% (10.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801990.png",
+    "max_level": 10
+  },
+  "802001": {
+    "id": 802001,
+    "type": 1,
+    "name": "Framework of Logic - Yorktown I",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases META ships' DMG dealt by 2.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802000.png",
+    "max_level": 1
+  },
+  "802002": {
+    "id": 802002,
+    "type": 1,
+    "name": "Framework of Logic - Yorktown II",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases META ships' DMG dealt by 6.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802000.png",
+    "max_level": 1
+  },
+  "802005": {
+    "id": 802005,
+    "type": 1,
+    "name": "Framework of Logic - Yorktown I",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases META ships' DMG dealt by 2.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802000.png",
+    "max_level": 1
+  },
+  "802007": {
+    "id": 802007,
+    "type": 1,
+    "name": "Framework of Logic - Yorktown II",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases META ships' DMG dealt by 6.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802000.png",
+    "max_level": 1
+  },
   "902220": {
     "id": 902220,
     "type": 2,

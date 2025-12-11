@@ -182365,7 +182365,7 @@
       ],
       [
         "Hangar capacity +1",
-        "All Dive Bombers +1",
+        "Dive Bombers +1",
         "Aircraft efficiency +5%"
       ],
       [
@@ -182826,6 +182826,258 @@
       "801770": {
         "id": 801770,
         "parent": 801770,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      }
+    }
+  },
+  {
+    "id": 30054,
+    "gid": 970708,
+    "cid": 3,
+    "sid": [
+      9707081,
+      9707082,
+      9707083,
+      9707084
+    ],
+    "name": "Yorktown META",
+    "codename": "Yorktown.META",
+    "class": "Yorktown META",
+    "nationality": 97,
+    "obtain": [
+      "META Lab - Coordinate Analysis"
+    ],
+    "type": 7,
+    "rarity": 5,
+    "armor": 2,
+    "hexagon": [
+      "E",
+      "E",
+      "S",
+      "C",
+      "B",
+      "B"
+    ],
+    "share_group": [],
+    "breakout": [
+      [
+        "Unlock Framework of Logic - Yorktown",
+        "All Fighters +1",
+        "Aircraft efficiency +3%"
+      ],
+      [
+        "Hangar capacity +1",
+        "Dive Bombers +1",
+        "Aircraft efficiency +5%"
+      ],
+      [
+        "Improve Framework of Logic - Yorktown",
+        "All aircraft +1",
+        "Aircraft efficiency +7%"
+      ]
+    ],
+    "equipment": {
+      "1": {
+        "default": 109,
+        "slot": 1,
+        "type": [
+          7
+        ],
+        "mount": 3,
+        "preload": 0,
+        "efficiency": 1.35
+      },
+      "2": {
+        "default": 111,
+        "slot": 2,
+        "type": [
+          9
+        ],
+        "mount": 3,
+        "preload": 0,
+        "efficiency": 1.25
+      },
+      "3": {
+        "default": 110,
+        "slot": 3,
+        "type": [
+          8
+        ],
+        "mount": 2,
+        "preload": 0,
+        "efficiency": 1.25
+      },
+      "4": {
+        "default": null,
+        "slot": 4,
+        "type": [
+          10
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      },
+      "5": {
+        "default": null,
+        "slot": 5,
+        "type": [
+          10
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      }
+    },
+    "base": {
+      "9707081": {
+        "health": 1114,
+        "firepower": 0,
+        "torpedo": 0,
+        "antiair": 67,
+        "aviation": 82,
+        "reload": 48,
+        "accuracy": 25,
+        "evasion": 9,
+        "speed": 30,
+        "luck": 39,
+        "asw": 0
+      },
+      "9707082": {
+        "health": 1386,
+        "firepower": 0,
+        "torpedo": 0,
+        "antiair": 83,
+        "aviation": 102,
+        "reload": 48,
+        "accuracy": 25,
+        "evasion": 9,
+        "speed": 30,
+        "luck": 39,
+        "asw": 0
+      },
+      "9707083": {
+        "health": 1929,
+        "firepower": 0,
+        "torpedo": 0,
+        "antiair": 116,
+        "aviation": 143,
+        "reload": 48,
+        "accuracy": 25,
+        "evasion": 9,
+        "speed": 30,
+        "luck": 39,
+        "asw": 0
+      },
+      "9707084": {
+        "health": 2744,
+        "firepower": 0,
+        "torpedo": 0,
+        "antiair": 165,
+        "aviation": 204,
+        "reload": 48,
+        "accuracy": 25,
+        "evasion": 9,
+        "speed": 30,
+        "luck": 39,
+        "asw": 0
+      }
+    },
+    "growth": {
+      "9707081": {
+        "health": 21233,
+        "firepower": 0,
+        "torpedo": 0,
+        "antiair": 848,
+        "aviation": 1011,
+        "reload": 332,
+        "accuracy": 402,
+        "evasion": 291,
+        "speed": 0,
+        "luck": 0,
+        "asw": 0
+      },
+      "9707082": {
+        "health": 21233,
+        "firepower": 0,
+        "torpedo": 0,
+        "antiair": 848,
+        "aviation": 1011,
+        "reload": 332,
+        "accuracy": 402,
+        "evasion": 291,
+        "speed": 0,
+        "luck": 0,
+        "asw": 0
+      },
+      "9707083": {
+        "health": 21233,
+        "firepower": 0,
+        "torpedo": 0,
+        "antiair": 848,
+        "aviation": 1011,
+        "reload": 332,
+        "accuracy": 402,
+        "evasion": 291,
+        "speed": 0,
+        "luck": 0,
+        "asw": 0
+      },
+      "9707084": {
+        "health": 21233,
+        "firepower": 0,
+        "torpedo": 0,
+        "antiair": 848,
+        "aviation": 1011,
+        "reload": 332,
+        "accuracy": 402,
+        "evasion": 291,
+        "speed": 0,
+        "luck": 0,
+        "asw": 0
+      }
+    },
+    "enhance": {
+      "health": 1087,
+      "antiair": 65,
+      "accuracy": 24,
+      "evasion": 9,
+      "aviation": 81,
+      "reload": 36
+    },
+    "skill": {
+      "802001": {
+        "id": 802001,
+        "parent": 802001,
+        "upgrade": 802002,
+        "downgrade": null,
+        "requirement": "Limit Break 1"
+      },
+      "802002": {
+        "id": 802002,
+        "parent": 802001,
+        "upgrade": null,
+        "downgrade": 802001,
+        "requirement": "Limit Break 3"
+      },
+      "801970": {
+        "id": 801970,
+        "parent": 801970,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "801980": {
+        "id": 801980,
+        "parent": 801980,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "801990": {
+        "id": 801990,
+        "parent": 801990,
         "upgrade": null,
         "downgrade": null,
         "requirement": "Default"
