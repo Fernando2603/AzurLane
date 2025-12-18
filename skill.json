@@ -12431,6 +12431,22 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30550.png",
     "max_level": 1
   },
+  "30561": {
+    "id": 30561,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: William D. Porter once every 15 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30560.png",
+    "max_level": 1
+  },
+  "30562": {
+    "id": 30562,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: William D. Porter once every 10 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30560.png",
+    "max_level": 1
+  },
   "101010": {
     "id": 101010,
     "type": 3,
@@ -15599,6 +15615,118 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151810.png",
     "max_level": 10
   },
+  "151820": {
+    "id": 151820,
+    "type": 1,
+    "name": "Fiesta del mar y cielo",
+    "desc": "When a ship in your Main Fleet fires their Main Guns or launches an airstrike: for 8s, increases this ship's FP by 5.0% (10.0%) and increases your Vanguard's RLD by 3.5% (8.0%) (these buffs do not stack; if the condition is met again during its active duration, its duration will only be refreshed); additionally, when this effect activates, there is a 40.0% (70.0%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level; 10s cooldown between activations).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151820.png",
+    "max_level": 10
+  },
+  "151830": {
+    "id": 151830,
+    "type": 2,
+    "name": "Surprising Stamp Rally",
+    "desc": "Increases this ship's AA by 3.5% (8.0%). When an enemy aircraft is shot down within your AA Gun Range: increases your Eagle Union ships' AA by 3.5% (8.0%) for 8s; this effect can only activate once every 8s, and the 4th time that it activates, 1 of the following effects is applied at random:\n1) Restores 6.0% of your whole fleet's HP;\n2) Decreases your whole fleet's DMG taken by 6.0% until the battle ends;\n3) Increases your whole fleet's FP by 6.0% until the battle ends.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151830.png",
+    "max_level": 10
+  },
+  "151840": {
+    "id": 151840,
+    "type": 1,
+    "name": "Risk Elimination",
+    "desc": "3s after the battle starts, and every 20s after that: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). Every time this ship sinks an enemy: increases this ship's FP and TRP by 1.0% (4.0%) (can be stacked up to 5 times).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151840.png",
+    "max_level": 10
+  },
+  "151850": {
+    "id": 151850,
+    "type": 3,
+    "name": "Air Raid Assistance - Clarence K. Bronson",
+    "desc": "Increases this ship's ASW by 5.0% (15.0%). When sortied with another Eagle Union ship: increases this ship's EVA and AA by 5.0% (15.0%) and applies the effects of the skill Air Raid Assistance (while this ship is afloat, increases the airstrike DMG of your CVs and CVLs by 5.0% (15.0%); only the strongest Air Raid Assistance skill applies). Every 15s: performs a sonar scan, revealing enemy SSs for 8s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151850.png",
+    "max_level": 10
+  },
+  "151860": {
+    "id": 151860,
+    "type": 1,
+    "name": "Sea-Top Sprint",
+    "desc": "Every 5s after the battle starts: 50.0% (100.0%) chance for this ship to enter Sprint Mode, increasing her SPD by 20.0% (40.0%) and decreasing her DMG taken by 15.0% (30.0%) for 2s. When Sprint Mode ends: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151860.png",
+    "max_level": 10
+  },
+  "151870": {
+    "id": 151870,
+    "type": 1,
+    "name": "Overnutrition",
+    "desc": "Increases this ship's AVI, RLD, and ACC by 5.0% (15.0%). When this ship launches an airstrike: performs an additional Lv.1 (Lv.10) attack using TBF Avengers (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151870.png",
+    "max_level": 10
+  },
+  "151880": {
+    "id": 151880,
+    "type": 3,
+    "name": "Fresh Milk of Vitality",
+    "desc": "When this ship launches an airstrike: restores HP equal to 3.5% (8.0%) of this ship's max HP for 1 ship in your Vanguard and 1 ship in your Main Fleet (choosing the ships with the lowest percentage HP remaining respectively). When this effect activates: increases the DMG dealt of the healing targets by 4.0% (10.0%) for 5s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151880.png",
+    "max_level": 10
+  },
+  "151890": {
+    "id": 151890,
+    "type": 2,
+    "name": "The Blue Ghost",
+    "desc": "During battle, when this ship has taken DMG totaling to 25.0% of her max HP, or when your Main Fleet's aircraft have shot down a total of 17 enemy aircraft: for 2s, this ship enters the Ghost status, evading all attacks and setting her Detection Gauge value to 0. The following effects additionally activate depending on the number of times this ship has entered the Ghost status:\n1 time: Decreases this ship's torpedo DMG taken by 5.0% (15.0%);\n2 times: Increases this ship's AA by 5.0% (15.0%);\n3 times: Decreases this ship's Burn DMG taken by 5.0% (15.0%);\n4 times: Decreases your Main Fleet's DMG taken by 50.0% (100.0%) when an enemy aircraft reaches it.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151890.png",
+    "max_level": 10
+  },
+  "151900": {
+    "id": 151900,
+    "type": 1,
+    "name": "A Song to Still the Clouds",
+    "desc": "Increases this ship's AVI and ACC by 5.0% (15.0%). If there are 3 or more Eagle Union ships in your fleet: increases this ship's DMG dealt against enemies who have their AA stat debuffed by your ships by 4.5% (12.0%).\nWhen this ship launches an airstrike: additionally launches a Lv.1 (Lv.10) special airstrike (DMG is based on the skill's level) and, for 2 (4)s, decreases the SPD of all enemies on the field by 40.0%; if there is another Eagle Union ship in your Main Fleet, and the enemy affected by this effect has their AA stat debuffed by your ships, that enemy's SPD is set to 0 for the duration of the SPD debuff.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151900.png",
+    "max_level": 10
+  },
+  "151910": {
+    "id": 151910,
+    "type": 3,
+    "name": "A Recitatif to the Songbirds",
+    "desc": "When this ship launches an airstrike: your Lexington-class and Essex-class CVs recover HP equal to 1.0% (5.0%) of their respective max HP (can be activated up to 4 times per battle). Your Lexington-class and Essex-class CVs gain the following buffs during battle:\n1) Increases said ships' DMG dealt against Light Armor enemies by 1.0% (10.0%);\n2) When said ships' airstrikes finish loading, their AA is increased by 1.0% (10.0%) for 5s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151910.png",
+    "max_level": 10
+  },
+  "151920": {
+    "id": 151920,
+    "type": 3,
+    "name": "The Legendary Mess",
+    "desc": "When the battle starts: decreases this ship's LCK by 1 and increases the LCK of all other ships in your Surface Fleet by 1. When this ship fires her torpedoes: fires 1 torpedo at your Flagship and grants your Flagship the Emergency Maneuvers buff for 10s (increases your Flagship's EVA by 5.0% (15.0%) and Evasion Rate by 4.0% (10.0%), and increases the DMG dealt of your Flagship and your Eagle Union ships by 1.0% (10.0%)). When the Emergency Maneuvers buff ends, if your Flagship is still afloat, William D. Porter recovers 3.5% (8.0%) of her max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151920.png",
+    "max_level": 10
+  },
+  "151925": {
+    "id": 151925,
+    "type": 1,
+    "name": "Happy D-跨队",
+    "desc": "跨队效果ID占坑",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151930.png",
+    "max_level": 10
+  },
+  "151930": {
+    "id": 151930,
+    "type": 1,
+    "name": "Happy D",
+    "desc": "Every 5s after the battle starts: fires a Lv.1 (Lv.10) torpedo barrage (DMG is based on the skill's level). Every 2 times this ship fires her Main Guns: performs a Lv.1 (Lv.10) special attack (DMG is based on the skill's level); enemies hit by this attack have their ACC decreased by 3.5% (8.0%) and DMG taken increased by 1.0% (5.0%) for 4s (this debuff also spreads to other enemies that are within 20 units of the affected enemies). 5s after a fleet this ship is NOT in starts a battle, if this ship is afloat: performs a Lv.1 (Lv.10) supporting attack (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151930.png",
+    "max_level": 10
+  },
+  "151940": {
+    "id": 151940,
+    "type": 3,
+    "name": "Inexperienced Patroller",
+    "desc": "Increases this ship's FP, TRP, and AA by 5.0% (15.0%). When the battle starts, if there is another ship in your Vanguard: increases this ship's Anti-Air Gun efficiency by 20.0% (50.0%). Once per battle, when 7 enemy aircraft have been shot down within your AA Gun Range: decreases this ship's DMG taken by 15.0% and increases the AA of your Vanguard by 15.0% (30.0%) until the battle ends. 15s after the battle starts: drops a depth charge, and all your other ships enter the Attention Underwater state (increases ASW by 5.0% (15.0%)) for 50s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151940.png",
+    "max_level": 10
+  },
   "190000": {
     "id": 190000,
     "type": 3,
@@ -18501,6 +18629,62 @@
     "name": "Framework of Logic - Yorktown II",
     "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases META ships' DMG dealt by 6.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802000.png",
+    "max_level": 1
+  },
+  "802010": {
+    "id": 802010,
+    "type": 1,
+    "name": "Battle-Hardened Knight",
+    "desc": "When the battle starts, if there is another CL in your Vanguard: negates the effect of the Out of Ammo debuff and increases this ship's Main Gun and Secondary Gun efficiency by 1.0% (10.0%). Every 20s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) that decreases the SPD of enemies hit by 10.0% for 10s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802010.png",
+    "max_level": 10
+  },
+  "802020": {
+    "id": 802020,
+    "type": 3,
+    "name": "Destroy Command",
+    "desc": "Increases this ship's FP and RLD by 4.5% (12.0%). Every 20s: all enemies present on the battlefield take 5.0% (15.0%) more shelling DMG from your CLs for 8s, and increases the FP of your CLs in your Vanguard with a lower FP stat than this ship by 1.0% (10.0%) for 8s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802020.png",
+    "max_level": 10
+  },
+  "802030": {
+    "id": 802030,
+    "type": 2,
+    "name": "Aero Barricade",
+    "desc": "When an enemy aircraft is shot down within your AA Gun Range: increases this ship's EVA and AA by 1.0% (5.0%) and increases your other CLs' AA by 1.0% (4.0%) (can be stacked up to 3 times). Once per battle, when the HP of any ship in your Main Fleet falls below 50.0% as a result of DMG taken: decreases your Main Fleet's aircraft DMG taken by 10.0% (20.0%) for 10s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802030.png",
+    "max_level": 10
+  },
+  "802041": {
+    "id": 802041,
+    "type": 1,
+    "name": "Ashen Might - Cleveland I",
+    "desc": "Every 15 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802040.png",
+    "max_level": 1
+  },
+  "802042": {
+    "id": 802042,
+    "type": 1,
+    "name": "Ashen Might - Cleveland II",
+    "desc": "Every 10 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802040.png",
+    "max_level": 1
+  },
+  "802045": {
+    "id": 802045,
+    "type": 1,
+    "name": "Ashen Might - Cleveland I",
+    "desc": "[Operation Siren]\nEvery 15 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 3.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802040.png",
+    "max_level": 1
+  },
+  "802047": {
+    "id": 802047,
+    "type": 1,
+    "name": "Ashen Might - Cleveland II",
+    "desc": "[Operation Siren]\nEvery 10 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 8.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802040.png",
     "max_level": 1
   },
   "902220": {

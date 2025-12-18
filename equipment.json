@@ -26808,6 +26808,153 @@
       }
     }
   },
+  "17280": {
+    "name": "F4U (VBF-94 Squadron)",
+    "desc": "The VBF-94 squadron that served with Lexington.",
+    "label": [
+      "USS",
+      "CV",
+      "DB"
+    ],
+    "rarity": 5,
+    "nationality": 1,
+    "type": 9,
+    "skill": {
+      "[61000, 1]": null
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/17280.png",
+    "stats": {
+      "1": {
+        "id": 17280,
+        "level": 1,
+        "enhance": "+0",
+        "air": 45,
+        "weapon_id": [
+          19320
+        ]
+      },
+      "2": {
+        "id": 17281,
+        "level": 2,
+        "enhance": "+1",
+        "air": 45,
+        "weapon_id": [
+          19321
+        ]
+      },
+      "3": {
+        "id": 17282,
+        "level": 3,
+        "enhance": "+2",
+        "air": 45,
+        "weapon_id": [
+          19322
+        ]
+      },
+      "4": {
+        "id": 17283,
+        "level": 4,
+        "enhance": "+3",
+        "air": 45,
+        "weapon_id": [
+          19323
+        ]
+      },
+      "5": {
+        "id": 17284,
+        "level": 5,
+        "enhance": "+4",
+        "air": 45,
+        "weapon_id": [
+          19324
+        ]
+      },
+      "6": {
+        "id": 17285,
+        "level": 6,
+        "enhance": "+5",
+        "air": 45,
+        "weapon_id": [
+          19325
+        ]
+      },
+      "7": {
+        "id": 17286,
+        "level": 7,
+        "enhance": "+6",
+        "air": 45,
+        "weapon_id": [
+          19326
+        ]
+      },
+      "8": {
+        "id": 17287,
+        "level": 8,
+        "enhance": "+7",
+        "air": 45,
+        "weapon_id": [
+          19327
+        ]
+      },
+      "9": {
+        "id": 17288,
+        "level": 9,
+        "enhance": "+8",
+        "air": 45,
+        "weapon_id": [
+          19328
+        ]
+      },
+      "10": {
+        "id": 17289,
+        "level": 10,
+        "enhance": "+9",
+        "air": 45,
+        "weapon_id": [
+          19329
+        ]
+      },
+      "11": {
+        "id": 17290,
+        "level": 11,
+        "enhance": "+10",
+        "air": 45,
+        "weapon_id": [
+          19330
+        ]
+      },
+      "12": {
+        "id": 17291,
+        "level": 12,
+        "enhance": "+11",
+        "air": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          19331
+        ]
+      },
+      "13": {
+        "id": 17292,
+        "level": 13,
+        "enhance": "+12",
+        "air": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          19332
+        ]
+      },
+      "14": {
+        "id": 17293,
+        "level": 14,
+        "enhance": "+13",
+        "air": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          19333
+        ]
+      }
+    }
+  },
   "17300": {
     "name": "F6F Hellcat",
     "desc": "No description",

@@ -2351,6 +2351,14 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-concert-delight.ogg"
   },
+  "story-dailyfuture-soft": {
+    "title": "譌ｧ蝓守噪螟ｩ遨ｺ_PX",
+    "size": 2523707,
+    "duration": 121.06666666666666,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-dailyfuture-soft.ogg"
+  },
   "story-dailyfuture-upspeed": {
     "title": "蝨ｨ霑呎律譁ｰ譛亥ｼら噪譌ｶ莉｣_shade",
     "size": 3489891,
@@ -2366,6 +2374,14 @@
     "bitrate": 160.0,
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-darkplan.ogg"
+  },
+  "story-date-light": {
+    "title": "有你在的世界_PX",
+    "size": 1497050,
+    "duration": 76.82133333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-date-light.ogg"
   },
   "story-dazy-style": {
     "title": "貂ｯ蛹ｺ蝟ｧ蝴｣螟彑G",
@@ -3079,6 +3095,14 @@
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-villaisland-night.ogg"
   },
+  "story-weimu-link": {
+    "title": "天穹乐章_AL",
+    "size": 2213049,
+    "duration": 135.808,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-weimu-link.ogg"
+  },
   "story-worldα-brokenlight": {
     "title": "蠑ｦ荳ｭ蠕ｮ蜈雲AL",
     "size": 1851551,
@@ -3751,6 +3775,14 @@
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-tulipa.ogg"
   },
+  "theme-uc": {
+    "title": "联合理事会_PX",
+    "size": 1691023,
+    "duration": 83.49866666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-uc.ogg"
+  },
   "theme-ucnf-beacon": {
     "title": "深潜式信标_G",
     "size": 1146190,
@@ -3862,6 +3894,14 @@
     "bitrate": 160.0,
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-warmwinter-daily.ogg"
+  },
+  "theme-weimu": {
+    "title": "蟶ｷ蟷穂ｹ矩浹_AL",
+    "size": 1970313,
+    "duration": 106.688,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-weimu.ogg"
   },
   "theme-yixian-pv-loop": {
     "title": "鲜逸如初_G",
