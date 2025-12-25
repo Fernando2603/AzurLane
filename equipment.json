@@ -8943,7 +8943,8 @@
     "label": [
       "MOT",
       "SF",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 96,
@@ -9029,7 +9030,8 @@
     "label": [
       "MOT",
       "SF",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 4,
     "nationality": 96,
@@ -9155,7 +9157,8 @@
     "label": [
       "MOT",
       "SF",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 5,
     "nationality": 96,
@@ -14526,7 +14529,8 @@
     "label": [
       "SN",
       "CL",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 1,
     "nationality": 7,
@@ -14578,7 +14582,8 @@
     "label": [
       "SN",
       "CL",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 2,
     "nationality": 7,
@@ -14634,7 +14639,8 @@
     "label": [
       "SN",
       "CL",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 7,
@@ -14730,7 +14736,8 @@
     "label": [
       "PRAN",
       "CL",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 1,
     "nationality": 5,
@@ -14782,7 +14789,8 @@
     "label": [
       "PRAN",
       "CL",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 2,
     "nationality": 5,
@@ -14838,7 +14846,8 @@
     "label": [
       "PRAN",
       "CL",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 5,
@@ -14934,7 +14943,8 @@
     "label": [
       "SN",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 2,
     "nationality": 7,
@@ -14990,7 +15000,8 @@
     "label": [
       "SN",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 7,
@@ -15374,7 +15385,8 @@
     "label": [
       "FFNF",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 8,
@@ -15567,7 +15579,8 @@
     "label": [
       "USS",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 1,
     "nationality": 1,
@@ -15618,7 +15631,8 @@
     "label": [
       "USS",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 2,
     "nationality": 1,
@@ -15673,7 +15687,8 @@
     "label": [
       "USS",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 1,
@@ -15768,7 +15783,8 @@
     "label": [
       "USS",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 1,
@@ -15863,7 +15879,8 @@
     "label": [
       "USS",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 2,
     "nationality": 1,
@@ -15918,7 +15935,8 @@
     "label": [
       "USS",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 1,
@@ -16277,7 +16295,8 @@
     "label": [
       "USS",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 1,
@@ -16853,7 +16872,8 @@
     "label": [
       "USS",
       "CL",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 1,
     "nationality": 1,
@@ -16905,7 +16925,8 @@
     "label": [
       "USS",
       "CL",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 2,
     "nationality": 1,
@@ -16961,7 +16982,8 @@
     "label": [
       "USS",
       "CL",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 1,
@@ -17057,7 +17079,8 @@
     "label": [
       "USS",
       "CL",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 1,
@@ -17153,7 +17176,8 @@
     "label": [
       "USS",
       "CL",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 2,
     "nationality": 1,
@@ -17209,7 +17233,8 @@
     "label": [
       "USS",
       "CL",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 1,
@@ -19182,7 +19207,8 @@
     "label": [
       "USS",
       "BB",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 1,
     "nationality": 1,
@@ -19623,7 +19649,8 @@
     "label": [
       "USS",
       "BB",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 2,
     "nationality": 1,
@@ -20042,7 +20069,8 @@
     "label": [
       "USS",
       "BB",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 2,
     "nationality": 1,
@@ -20483,7 +20511,8 @@
     "label": [
       "USS",
       "BB",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 4,
     "nationality": 1,
@@ -20620,7 +20649,8 @@
     "label": [
       "USS",
       "BB",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 1,
@@ -30361,7 +30391,8 @@
     "label": [
       "HMS",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 1,
     "nationality": 2,
@@ -30412,7 +30443,8 @@
     "label": [
       "HMS",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 2,
     "nationality": 2,
@@ -30467,7 +30499,8 @@
     "label": [
       "HMS",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 2,
@@ -30562,7 +30595,8 @@
     "label": [
       "HMS",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 1,
     "nationality": 2,
@@ -30613,7 +30647,8 @@
     "label": [
       "HMS",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 2,
     "nationality": 2,
@@ -30668,7 +30703,8 @@
     "label": [
       "HMS",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 2,
@@ -30763,7 +30799,8 @@
     "label": [
       "HMS",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 4,
     "nationality": 2,
@@ -30899,7 +30936,8 @@
     "label": [
       "HMS",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 2,
     "nationality": 2,
@@ -30954,7 +30992,8 @@
     "label": [
       "HMS",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 2,
@@ -31039,7 +31078,8 @@
     "label": [
       "HMS",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 4,
     "nationality": 2,
@@ -31175,7 +31215,8 @@
     "label": [
       "HMS",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 1,
     "nationality": 2,
@@ -31226,7 +31267,8 @@
     "label": [
       "HMS",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 2,
     "nationality": 2,
@@ -31281,7 +31323,8 @@
     "label": [
       "HMS",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 2,
@@ -31376,7 +31419,8 @@
     "label": [
       "HMS",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 2,
     "nationality": 2,
@@ -31431,7 +31475,8 @@
     "label": [
       "HMS",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 2,
@@ -31516,7 +31561,8 @@
     "label": [
       "HMS",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 4,
     "nationality": 2,
@@ -31652,7 +31698,8 @@
     "label": [
       "HMS",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 5,
     "nationality": 2,
@@ -31825,7 +31872,8 @@
     "label": [
       "HMS",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 2,
     "nationality": 2,
@@ -34582,7 +34630,8 @@
     "label": [
       "HMS",
       "BB",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 2,
@@ -35093,7 +35142,8 @@
     "label": [
       "HMS",
       "BB",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 2,
     "nationality": 2,
@@ -35534,7 +35584,8 @@
     "label": [
       "HMS",
       "BB",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 2,
@@ -35620,7 +35671,8 @@
     "label": [
       "HMS",
       "BB",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 4,
     "nationality": 2,
@@ -35746,7 +35798,8 @@
     "label": [
       "HMS",
       "BB",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 5,
     "nationality": 2,
@@ -35905,7 +35958,8 @@
     "label": [
       "HMS",
       "BB",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 2,
@@ -44676,7 +44730,8 @@
     "label": [
       "IJN",
       "BB",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 3,
@@ -44772,7 +44827,8 @@
     "label": [
       "IJN",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 3,
@@ -44864,7 +44920,8 @@
     "label": [
       "IJN",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 4,
     "nationality": 3,
@@ -45000,7 +45057,8 @@
     "label": [
       "IJN",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 5,
     "nationality": 3,
@@ -45172,7 +45230,8 @@
     "label": [
       "IJN",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 4,
     "nationality": 3,
@@ -45481,7 +45540,8 @@
     "label": [
       "IJN",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 1,
     "nationality": 3,
@@ -45532,7 +45592,8 @@
     "label": [
       "IJN",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 2,
     "nationality": 3,
@@ -45587,7 +45648,8 @@
     "label": [
       "IJN",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 3,
@@ -45682,7 +45744,8 @@
     "label": [
       "IJN",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 3,
@@ -45777,7 +45840,8 @@
     "label": [
       "IJN",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 4,
     "nationality": 3,
@@ -45925,7 +45989,8 @@
     "label": [
       "IJN",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 2,
     "nationality": 3,
@@ -45980,7 +46045,8 @@
     "label": [
       "IJN",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 3,
@@ -46202,7 +46268,8 @@
     "label": [
       "IJN",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 3,
@@ -46616,7 +46683,8 @@
     "label": [
       "IJN",
       "CL",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 1,
     "nationality": 3,
@@ -46668,7 +46736,8 @@
     "label": [
       "IJN",
       "CL",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 2,
     "nationality": 3,
@@ -46917,7 +46986,8 @@
     "label": [
       "IJN",
       "CL",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 2,
     "nationality": 3,
@@ -47197,7 +47267,8 @@
     "label": [
       "IJN",
       "CL",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 3,
@@ -47730,7 +47801,8 @@
     "label": [
       "IJN",
       "CL",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 2,
     "nationality": 3,
@@ -49088,7 +49160,8 @@
     "label": [
       "IJN",
       "BB",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 1,
     "nationality": 3,
@@ -49391,7 +49464,8 @@
     "label": [
       "IJN",
       "BB",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 2,
     "nationality": 3,
@@ -50006,7 +50080,8 @@
     "label": [
       "IJN",
       "BB",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 4,
     "nationality": 3,
@@ -50132,7 +50207,8 @@
     "label": [
       "IJN",
       "BB",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 5,
     "nationality": 3,
@@ -64465,7 +64541,8 @@
     "label": [
       "KMS",
       "BB",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 2,
     "nationality": 4,
@@ -64521,7 +64598,8 @@
     "label": [
       "KMS",
       "BB",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 4,
@@ -64607,7 +64685,8 @@
     "label": [
       "KMS",
       "BB",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 4,
     "nationality": 4,
@@ -64744,7 +64823,8 @@
     "label": [
       "KMS",
       "BB",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 4,
@@ -67947,6 +68027,165 @@
         "anti_siren": 3,
         "weapon_id": [
           45453
+        ]
+      }
+    }
+  },
+  "45460": {
+    "name": "G7e (Improved) Submarine Torpedo",
+    "desc": "No description",
+    "label": [
+      "KMS",
+      "SS",
+      "TP"
+    ],
+    "rarity": 6,
+    "nationality": 4,
+    "type": 13,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/45460.png",
+    "stats": {
+      "1": {
+        "id": 45460,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "72 x 2",
+        "torpedo": 65,
+        "weapon_id": [
+          45460
+        ]
+      },
+      "2": {
+        "id": 45461,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "83 x 2",
+        "torpedo": 65,
+        "weapon_id": [
+          45461
+        ]
+      },
+      "3": {
+        "id": 45462,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "93 x 2",
+        "torpedo": 65,
+        "weapon_id": [
+          45462
+        ]
+      },
+      "4": {
+        "id": 45463,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "103 x 2",
+        "torpedo": 65,
+        "weapon_id": [
+          45463
+        ]
+      },
+      "5": {
+        "id": 45464,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "113 x 2",
+        "torpedo": 65,
+        "weapon_id": [
+          45464
+        ]
+      },
+      "6": {
+        "id": 45465,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "125 x 2",
+        "torpedo": 65,
+        "weapon_id": [
+          45465
+        ]
+      },
+      "7": {
+        "id": 45466,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "136 x 2",
+        "torpedo": 65,
+        "weapon_id": [
+          45466
+        ]
+      },
+      "8": {
+        "id": 45467,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "147 x 2",
+        "torpedo": 65,
+        "weapon_id": [
+          45467
+        ]
+      },
+      "9": {
+        "id": 45468,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "159 x 2",
+        "torpedo": 65,
+        "weapon_id": [
+          45468
+        ]
+      },
+      "10": {
+        "id": 45469,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "170 x 2",
+        "torpedo": 65,
+        "weapon_id": [
+          45469
+        ]
+      },
+      "11": {
+        "id": 45470,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "182 x 2",
+        "torpedo": 65,
+        "weapon_id": [
+          45470
+        ]
+      },
+      "12": {
+        "id": 45471,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "182 x 2",
+        "torpedo": 65,
+        "anti_siren": 1,
+        "weapon_id": [
+          45471
+        ]
+      },
+      "13": {
+        "id": 45472,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "182 x 2",
+        "torpedo": 65,
+        "anti_siren": 2,
+        "weapon_id": [
+          45472
+        ]
+      },
+      "14": {
+        "id": 45473,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "182 x 2",
+        "torpedo": 65,
+        "anti_siren": 3,
+        "weapon_id": [
+          45473
         ]
       }
     }
@@ -72099,7 +72338,8 @@
     "label": [
       "SN",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 7,
@@ -72184,7 +72424,8 @@
     "label": [
       "SN",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 5,
     "nationality": 7,
@@ -72428,7 +72669,8 @@
     "label": [
       "SN",
       "CL",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 7,
@@ -73300,7 +73542,8 @@
     "label": [
       "SN",
       "BB",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 7,
@@ -73386,7 +73629,8 @@
     "label": [
       "SN",
       "BB",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 4,
     "nationality": 7,
@@ -74048,7 +74292,8 @@
     "label": [
       "SN",
       "CL",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 7,
@@ -74346,6 +74591,165 @@
         "cannon": 25,
         "weapon_id": [
           85490
+        ]
+      }
+    }
+  },
+  "85500": {
+    "name": "Triple 180mm B-1-P Pattern 1932 Main Gun Mount",
+    "desc": "A triple gun mount developed by the Northern Parliament, boasting excellent range.",
+    "label": [
+      "SN",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 5,
+    "nationality": 7,
+    "type": 2,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/85460.png",
+    "stats": {
+      "1": {
+        "id": 85500,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "24 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85500
+        ]
+      },
+      "2": {
+        "id": 85501,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 45,
+        "weapon_id": [
+          85501
+        ]
+      },
+      "3": {
+        "id": 85502,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "26 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85502
+        ]
+      },
+      "4": {
+        "id": 85503,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "27 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85503
+        ]
+      },
+      "5": {
+        "id": 85504,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "28 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85504
+        ]
+      },
+      "6": {
+        "id": 85505,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "29 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85505
+        ]
+      },
+      "7": {
+        "id": 85506,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "30 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85506
+        ]
+      },
+      "8": {
+        "id": 85507,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "31 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85507
+        ]
+      },
+      "9": {
+        "id": 85508,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "32 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85508
+        ]
+      },
+      "10": {
+        "id": 85509,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "33 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85509
+        ]
+      },
+      "11": {
+        "id": 85510,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "34 x 3",
+        "cannon": 45,
+        "weapon_id": [
+          85510
+        ]
+      },
+      "12": {
+        "id": 85511,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "34 x 3",
+        "cannon": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          85511
+        ]
+      },
+      "13": {
+        "id": 85512,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "34 x 3",
+        "cannon": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          85512
+        ]
+      },
+      "14": {
+        "id": 85513,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "34 x 3",
+        "cannon": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          85513
         ]
       }
     }
@@ -75407,6 +75811,873 @@
         "anti_siren": 3,
         "weapon_id": [
           85653
+        ]
+      }
+    }
+  },
+  "85660": {
+    "name": "Prototype Carrier-Based Su-6",
+    "desc": "No description",
+    "label": [
+      "SN",
+      "CV",
+      "DB"
+    ],
+    "rarity": 5,
+    "nationality": 7,
+    "type": 9,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/85660.png",
+    "stats": {
+      "1": {
+        "id": 85660,
+        "level": 1,
+        "enhance": "+0",
+        "air": 45,
+        "weapon_id": [
+          85660
+        ]
+      },
+      "2": {
+        "id": 85661,
+        "level": 2,
+        "enhance": "+1",
+        "air": 45,
+        "weapon_id": [
+          85661
+        ]
+      },
+      "3": {
+        "id": 85662,
+        "level": 3,
+        "enhance": "+2",
+        "air": 45,
+        "weapon_id": [
+          85662
+        ]
+      },
+      "4": {
+        "id": 85663,
+        "level": 4,
+        "enhance": "+3",
+        "air": 45,
+        "weapon_id": [
+          85663
+        ]
+      },
+      "5": {
+        "id": 85664,
+        "level": 5,
+        "enhance": "+4",
+        "air": 45,
+        "weapon_id": [
+          85664
+        ]
+      },
+      "6": {
+        "id": 85665,
+        "level": 6,
+        "enhance": "+5",
+        "air": 45,
+        "weapon_id": [
+          85665
+        ]
+      },
+      "7": {
+        "id": 85666,
+        "level": 7,
+        "enhance": "+6",
+        "air": 45,
+        "weapon_id": [
+          85666
+        ]
+      },
+      "8": {
+        "id": 85667,
+        "level": 8,
+        "enhance": "+7",
+        "air": 45,
+        "weapon_id": [
+          85667
+        ]
+      },
+      "9": {
+        "id": 85668,
+        "level": 9,
+        "enhance": "+8",
+        "air": 45,
+        "weapon_id": [
+          85668
+        ]
+      },
+      "10": {
+        "id": 85669,
+        "level": 10,
+        "enhance": "+9",
+        "air": 45,
+        "weapon_id": [
+          85669
+        ]
+      },
+      "11": {
+        "id": 85670,
+        "level": 11,
+        "enhance": "+10",
+        "air": 45,
+        "weapon_id": [
+          85670
+        ]
+      },
+      "12": {
+        "id": 85671,
+        "level": 12,
+        "enhance": "+11",
+        "air": 45,
+        "anti_siren": 1,
+        "weapon_id": [
+          85671
+        ]
+      },
+      "13": {
+        "id": 85672,
+        "level": 13,
+        "enhance": "+12",
+        "air": 45,
+        "anti_siren": 2,
+        "weapon_id": [
+          85672
+        ]
+      },
+      "14": {
+        "id": 85673,
+        "level": 14,
+        "enhance": "+13",
+        "air": 45,
+        "anti_siren": 3,
+        "weapon_id": [
+          85673
+        ]
+      }
+    }
+  },
+  "85680": {
+    "name": "Single 180mm B-1-K Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "SN",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "rarity": 4,
+    "nationality": 7,
+    "type": 2,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/85680.png",
+    "stats": {
+      "1": {
+        "id": 85680,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "20 x 1",
+        "cannon": 25,
+        "weapon_id": [
+          85680
+        ]
+      },
+      "2": {
+        "id": 85681,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 25,
+        "weapon_id": [
+          85681
+        ]
+      },
+      "3": {
+        "id": 85682,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "22 x 1",
+        "cannon": 25,
+        "weapon_id": [
+          85682
+        ]
+      },
+      "4": {
+        "id": 85683,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "23 x 1",
+        "cannon": 25,
+        "weapon_id": [
+          85683
+        ]
+      },
+      "5": {
+        "id": 85684,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "24 x 1",
+        "cannon": 25,
+        "weapon_id": [
+          85684
+        ]
+      },
+      "6": {
+        "id": 85685,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "25 x 1",
+        "cannon": 25,
+        "weapon_id": [
+          85685
+        ]
+      },
+      "7": {
+        "id": 85686,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "26 x 1",
+        "cannon": 25,
+        "weapon_id": [
+          85686
+        ]
+      },
+      "8": {
+        "id": 85687,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "27 x 1",
+        "cannon": 25,
+        "weapon_id": [
+          85687
+        ]
+      },
+      "9": {
+        "id": 85688,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "28 x 1",
+        "cannon": 25,
+        "weapon_id": [
+          85688
+        ]
+      },
+      "10": {
+        "id": 85689,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "29 x 1",
+        "cannon": 25,
+        "weapon_id": [
+          85689
+        ]
+      },
+      "11": {
+        "id": 85690,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "30 x 1",
+        "cannon": 25,
+        "weapon_id": [
+          85690
+        ]
+      },
+      "12": {
+        "id": 85691,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "30 x 1",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          85691
+        ]
+      }
+    }
+  },
+  "85700": {
+    "name": "Twin 152mm B-38 MK17 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "SN",
+      "CL",
+      "MG",
+      "HE"
+    ],
+    "rarity": 4,
+    "nationality": 7,
+    "type": 2,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/85700.png",
+    "stats": {
+      "1": {
+        "id": 85700,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "9 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          85700
+        ]
+      },
+      "2": {
+        "id": 85701,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 25,
+        "weapon_id": [
+          85701
+        ]
+      },
+      "3": {
+        "id": 85702,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "10 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          85702
+        ]
+      },
+      "4": {
+        "id": 85703,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "11 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          85703
+        ]
+      },
+      "5": {
+        "id": 85704,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "12 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          85704
+        ]
+      },
+      "6": {
+        "id": 85705,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "13 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          85705
+        ]
+      },
+      "7": {
+        "id": 85706,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "14 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          85706
+        ]
+      },
+      "8": {
+        "id": 85707,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "15 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          85707
+        ]
+      },
+      "9": {
+        "id": 85708,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "16 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          85708
+        ]
+      },
+      "10": {
+        "id": 85709,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "17 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          85709
+        ]
+      },
+      "11": {
+        "id": 85710,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "18 x 4",
+        "cannon": 25,
+        "weapon_id": [
+          85710
+        ]
+      },
+      "12": {
+        "id": 85711,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "18 x 4",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          85711
+        ]
+      }
+    }
+  },
+  "85720": {
+    "name": "Single 130mm Model 1913 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "SN",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 3,
+    "nationality": 7,
+    "type": 1,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/85720.png",
+    "stats": {
+      "1": {
+        "id": 85720,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "5 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          85720
+        ]
+      },
+      "2": {
+        "id": 85721,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "6 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          85721
+        ]
+      },
+      "3": {
+        "id": 85722,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "7 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          85722
+        ]
+      },
+      "4": {
+        "id": 85723,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "8 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          85723
+        ]
+      },
+      "5": {
+        "id": 85724,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "9 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          85724
+        ]
+      },
+      "6": {
+        "id": 85725,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "10 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          85725
+        ]
+      },
+      "7": {
+        "id": 85726,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "11 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          85726
+        ]
+      },
+      "8": {
+        "id": 85727,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "11 x 3",
+        "cannon": 12,
+        "weapon_id": [
+          85727
+        ]
+      }
+    }
+  },
+  "85740": {
+    "name": "Triple 356mm Model 1913 Main Gun Mount",
+    "desc": "No description",
+    "label": [
+      "SN",
+      "BB",
+      "MG",
+      "HE"
+    ],
+    "rarity": 4,
+    "nationality": 7,
+    "type": 4,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/85740.png",
+    "stats": {
+      "1": {
+        "id": 85740,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "56 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          85740
+        ]
+      },
+      "2": {
+        "id": 85741,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "63 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          85741
+        ]
+      },
+      "3": {
+        "id": 85742,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "68 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          85742
+        ]
+      },
+      "4": {
+        "id": 85743,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "75 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          85743
+        ]
+      },
+      "5": {
+        "id": 85744,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "80 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          85744
+        ]
+      },
+      "6": {
+        "id": 85745,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "87 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          85745
+        ]
+      },
+      "7": {
+        "id": 85746,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "92 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          85746
+        ]
+      },
+      "8": {
+        "id": 85747,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "99 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          85747
+        ]
+      },
+      "9": {
+        "id": 85748,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "104 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          85748
+        ]
+      },
+      "10": {
+        "id": 85749,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "111 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          85749
+        ]
+      },
+      "11": {
+        "id": 85750,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "116 x 3",
+        "cannon": 25,
+        "weapon_id": [
+          85750
+        ]
+      },
+      "12": {
+        "id": 85751,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "116 x 3",
+        "cannon": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          85751
+        ]
+      }
+    }
+  },
+  "85760": {
+    "name": "R-5",
+    "desc": "No description",
+    "label": [
+      "SN",
+      "CV",
+      "DB"
+    ],
+    "rarity": 3,
+    "nationality": 7,
+    "type": 9,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/85760.png",
+    "stats": {
+      "1": {
+        "id": 85760,
+        "level": 1,
+        "enhance": "+0",
+        "air": 12,
+        "weapon_id": [
+          85760
+        ]
+      },
+      "2": {
+        "id": 85761,
+        "level": 2,
+        "enhance": "+1",
+        "air": 12,
+        "weapon_id": [
+          85761
+        ]
+      },
+      "3": {
+        "id": 85762,
+        "level": 3,
+        "enhance": "+2",
+        "air": 12,
+        "weapon_id": [
+          85762
+        ]
+      },
+      "4": {
+        "id": 85763,
+        "level": 4,
+        "enhance": "+3",
+        "air": 12,
+        "weapon_id": [
+          85763
+        ]
+      },
+      "5": {
+        "id": 85764,
+        "level": 5,
+        "enhance": "+4",
+        "air": 12,
+        "weapon_id": [
+          85764
+        ]
+      },
+      "6": {
+        "id": 85765,
+        "level": 6,
+        "enhance": "+5",
+        "air": 12,
+        "weapon_id": [
+          85765
+        ]
+      },
+      "7": {
+        "id": 85766,
+        "level": 7,
+        "enhance": "+6",
+        "air": 12,
+        "weapon_id": [
+          85766
+        ]
+      },
+      "8": {
+        "id": 85767,
+        "level": 8,
+        "enhance": "+7",
+        "air": 12,
+        "weapon_id": [
+          85767
+        ]
+      }
+    }
+  },
+  "85780": {
+    "name": "LBSh",
+    "desc": "No description",
+    "label": [
+      "SN",
+      "CV",
+      "DB"
+    ],
+    "rarity": 4,
+    "nationality": 7,
+    "type": 9,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/85780.png",
+    "stats": {
+      "1": {
+        "id": 85780,
+        "level": 1,
+        "enhance": "+0",
+        "air": 25,
+        "weapon_id": [
+          85780
+        ]
+      },
+      "2": {
+        "id": 85781,
+        "level": 2,
+        "enhance": "+1",
+        "air": 25,
+        "weapon_id": [
+          85781
+        ]
+      },
+      "3": {
+        "id": 85782,
+        "level": 3,
+        "enhance": "+2",
+        "air": 25,
+        "weapon_id": [
+          85782
+        ]
+      },
+      "4": {
+        "id": 85783,
+        "level": 4,
+        "enhance": "+3",
+        "air": 25,
+        "weapon_id": [
+          85783
+        ]
+      },
+      "5": {
+        "id": 85784,
+        "level": 5,
+        "enhance": "+4",
+        "air": 25,
+        "weapon_id": [
+          85784
+        ]
+      },
+      "6": {
+        "id": 85785,
+        "level": 6,
+        "enhance": "+5",
+        "air": 25,
+        "weapon_id": [
+          85785
+        ]
+      },
+      "7": {
+        "id": 85786,
+        "level": 7,
+        "enhance": "+6",
+        "air": 25,
+        "weapon_id": [
+          85786
+        ]
+      },
+      "8": {
+        "id": 85787,
+        "level": 8,
+        "enhance": "+7",
+        "air": 25,
+        "weapon_id": [
+          85787
+        ]
+      },
+      "9": {
+        "id": 85788,
+        "level": 9,
+        "enhance": "+8",
+        "air": 25,
+        "weapon_id": [
+          85788
+        ]
+      },
+      "10": {
+        "id": 85789,
+        "level": 10,
+        "enhance": "+9",
+        "air": 25,
+        "weapon_id": [
+          85789
+        ]
+      },
+      "11": {
+        "id": 85790,
+        "level": 11,
+        "enhance": "+10",
+        "air": 25,
+        "weapon_id": [
+          85790
+        ]
+      },
+      "12": {
+        "id": 85791,
+        "level": 12,
+        "enhance": "+11",
+        "air": 25,
+        "anti_siren": 1,
+        "weapon_id": [
+          85791
         ]
       }
     }
@@ -79865,7 +81136,8 @@
     "label": [
       "FFNF",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 1,
     "nationality": 8,
@@ -79916,7 +81188,8 @@
     "label": [
       "FFNF",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 2,
     "nationality": 8,
@@ -79972,7 +81245,8 @@
     "label": [
       "FFNF",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 8,
@@ -80068,7 +81342,8 @@
     "label": [
       "FFNF",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 8,
@@ -80600,7 +81875,8 @@
     "label": [
       "FFNF",
       "CL",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 1,
     "nationality": 8,
@@ -80652,7 +81928,8 @@
     "label": [
       "FFNF",
       "CL",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 2,
     "nationality": 8,
@@ -80964,7 +82241,8 @@
     "label": [
       "FFNF",
       "BB",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 2,
     "nationality": 8,
@@ -81020,7 +82298,8 @@
     "label": [
       "FFNF",
       "BB",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 8,
@@ -81405,7 +82684,8 @@
       "FFNF",
       "BB",
       "MG",
-      "Richelieu"
+      "Richelieu",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 8,
@@ -81778,7 +83058,8 @@
     "label": [
       "FFNF",
       "BB",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 8,
@@ -82035,7 +83316,8 @@
     "label": [
       "FFNF",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 2,
     "nationality": 8,
@@ -82779,7 +84061,8 @@
     "label": [
       "FFNF",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 2,
     "nationality": 8,
@@ -82834,7 +84117,8 @@
     "label": [
       "FFNF",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 8,
@@ -82920,7 +84204,8 @@
     "label": [
       "FFNF",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 4,
     "nationality": 8,
@@ -83057,7 +84342,8 @@
     "label": [
       "FFNF",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 8,
@@ -83155,7 +84441,8 @@
       "FFNF",
       "CL",
       "MG",
-      "AP"
+      "AP",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 8,
@@ -83252,7 +84539,8 @@
       "FFNF",
       "CL",
       "MG",
-      "AP"
+      "AP",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 8,
@@ -85635,7 +86923,8 @@
     "label": [
       "RN",
       "BB",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 6,
@@ -87196,7 +88485,7 @@
       "RN",
       "DD",
       "MG",
-      "AP"
+      "CM"
     ],
     "rarity": 2,
     "nationality": 6,
@@ -87252,7 +88541,7 @@
       "RN",
       "DD",
       "MG",
-      "AP"
+      "CM"
     ],
     "rarity": 3,
     "nationality": 6,
@@ -87338,7 +88627,7 @@
       "RN",
       "DD",
       "MG",
-      "AP"
+      "CM"
     ],
     "rarity": 4,
     "nationality": 6,
@@ -87947,7 +89236,7 @@
       "RN",
       "DD",
       "MG",
-      "AP"
+      "CM"
     ],
     "rarity": 2,
     "nationality": 6,
@@ -88003,7 +89292,7 @@
       "RN",
       "DD",
       "MG",
-      "AP"
+      "CM"
     ],
     "rarity": 4,
     "nationality": 6,
@@ -89477,7 +90766,8 @@
     "label": [
       "RN",
       "DD",
-      "MG"
+      "MG",
+      "SAP"
     ],
     "rarity": 3,
     "nationality": 6,
@@ -90230,7 +91520,8 @@
     "label": [
       "PRAN",
       "DD",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 5,
     "nationality": 5,
@@ -90562,7 +91853,8 @@
     "label": [
       "RN",
       "BB",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 6,
@@ -91784,7 +93076,8 @@
     "label": [
       "MOT",
       "SF",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 3,
     "nationality": 96,
@@ -91870,7 +93163,8 @@
     "label": [
       "MOT",
       "SF",
-      "MG"
+      "MG",
+      "CM"
     ],
     "rarity": 5,
     "nationality": 96,

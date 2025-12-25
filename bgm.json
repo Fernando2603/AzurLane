@@ -2879,6 +2879,14 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-roma-outside.ogg"
   },
+  "story-room-agir": {
+    "title": "豺ｱ貂顔噪譎ｴ螟ｩ_AL",
+    "size": 1746652,
+    "duration": 90.00533333333334,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-room-agir.ogg"
+  },
   "story-room-anchorage": {
     "title": "天真烂漫又好奇_AL",
     "size": 2551356,
@@ -2902,6 +2910,14 @@
     "bitrate": 160.0,
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-room-dance-1.ogg"
+  },
+  "story-room-dance-2": {
+    "title": "舞池旋律2_AL",
+    "size": 953592,
+    "duration": 50.70933333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-room-dance-2.ogg"
   },
   "story-room-newjersey": {
     "title": "黑龙懒洋洋_AL",

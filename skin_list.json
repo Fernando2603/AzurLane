@@ -10601,6 +10601,31 @@
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/199060/shipyard.png"
   },
   {
+    "id": 199061,
+    "gid": 19906,
+    "name": "Late-Night Leisure",
+    "type": "Bunny Girl",
+    "desc": "*yawn*... That's enough rest. It's just you and me tonight... Whatever it is that you want from me, I've stored up enough energy to go all the way.",
+    "tag": [
+      "dynamic",
+      "dynamicbg"
+    ],
+    "illustrator": -1,
+    "illustrator2": -1,
+    "voice_actor": 466,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/161.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/199061/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/199061/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/199061/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/199061/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/199061/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/199061/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/199061/shipyard.png"
+  },
+  {
     "id": 201010,
     "gid": 20101,
     "name": "Amazon",
@@ -32744,6 +32769,31 @@
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/401991/shipyard.png"
   },
   {
+    "id": 401992,
+    "gid": 40199,
+    "name": "The Clumsy Maid is in a Bind!",
+    "type": "Maid",
+    "desc": "Urgh... I can't get them off... Huh?! C-Commander?! When did you get here?! This just, um... It just kind of happened! Help me get loose!",
+    "tag": [
+      "dynamic",
+      "bg"
+    ],
+    "illustrator": -1,
+    "illustrator2": -1,
+    "voice_actor": 364,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/136.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/401992/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/401992/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/401992/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/401992/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/401992/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/401992/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/401992/shipyard.png"
+  },
+  {
     "id": 402010,
     "gid": 40201,
     "name": "Königsberg",
@@ -33651,6 +33701,31 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403036/icon.png",
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403036/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403036/shipyard.png"
+  },
+  {
+    "id": 403037,
+    "gid": 40303,
+    "name": "Between Tipsiness and a Wager",
+    "type": "Bunny Girl",
+    "desc": "You sure seem to be enjoying yourself, Commander. Heehee – what amusing thing will you do next, I wonder? ...Me? Don't pay me any mind. I just want to see what you're like when you're drunk!",
+    "tag": [
+      "None",
+      "bg"
+    ],
+    "illustrator": -1,
+    "illustrator2": -1,
+    "voice_actor": 21,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/145.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403037/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403037/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403037/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403037/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403037/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403037/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403037/shipyard.png"
   },
   {
     "id": 403038,
@@ -35275,8 +35350,7 @@
     "type": "Casual",
     "desc": "This necklace's glimmer and texture in the steam is truly splendid... Oh, Commander. Would you care to come in and share in this scene you've gifted me?",
     "tag": [
-      "dynamic",
-      "bg"
+      "dynamic"
     ],
     "illustrator": -1,
     "illustrator2": -1,
@@ -37393,6 +37467,31 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499100/icon.png",
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499100/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499100/shipyard.png"
+  },
+  {
+    "id": 499101,
+    "gid": 49910,
+    "name": "Branding Witchcraft",
+    "type": "Maid",
+    "desc": "Commander – I mean – Imperator! You've been seeing me far too little as of late, which has left me in a very sour mood. I will punish you by inscribing my seal on your body, so that you'll remember me! Um... How do I do this, again?",
+    "tag": [
+      "None",
+      "bg"
+    ],
+    "illustrator": 1,
+    "illustrator2": -1,
+    "voice_actor": 464,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/156.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499101/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499101/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499101/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499101/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499101/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499101/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499101/shipyard.png"
   },
   {
     "id": 501010,
@@ -41329,6 +41428,30 @@
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/699030/shipyard.png"
   },
   {
+    "id": 699031,
+    "gid": 69903,
+    "name": "On the Habits of Cats",
+    "type": "Maid",
+    "desc": "To study an animal's habits, you must first learn and imitate... B-basically, what I'm doing is imitating how cats do things! Don't read into this!",
+    "tag": [
+      "bg"
+    ],
+    "illustrator": -1,
+    "illustrator2": -1,
+    "voice_actor": 467,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/185.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/699031/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/699031/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/699031/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/699031/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/699031/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/699031/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/699031/shipyard.png"
+  },
+  {
     "id": 701020,
     "gid": 70102,
     "name": "Grozny",
@@ -42500,6 +42623,30 @@
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702051/shipyard.png"
   },
   {
+    "id": 702052,
+    "gid": 70205,
+    "name": "Rainy Day Blues",
+    "type": "Bunny Girl",
+    "desc": "Commander... You smell like rain. Let me warm you. The bandage? It's a part of the service. Take a guess as to how it's used... Heehee.",
+    "tag": [
+      "bg"
+    ],
+    "illustrator": 1,
+    "illustrator2": -1,
+    "voice_actor": 351,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/145.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702052/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702052/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702052/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702052/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702052/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702052/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702052/shipyard.png"
+  },
+  {
     "id": 702060,
     "gid": 70206,
     "name": "Murmansk",
@@ -43631,6 +43778,30 @@
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/799030/shipyard.png"
   },
   {
+    "id": 799031,
+    "gid": 79903,
+    "name": "Bedside Bunny",
+    "type": "Bunny Girl",
+    "desc": "Yoohoo! Welcome, Commander! How do you like your room? Does it make your heart flutter? Hehe, we've got all kinds of services – I can put you to bed with a massage, or do whatever animal role-play you're into... Bunny Dmitri's here to make all your dreams come true!",
+    "tag": [
+      "bg"
+    ],
+    "illustrator": -1,
+    "illustrator2": -1,
+    "voice_actor": 465,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/185.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/799031/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/799031/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/799031/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/799031/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/799031/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/799031/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/799031/shipyard.png"
+  },
+  {
     "id": 801010,
     "gid": 80101,
     "name": "Le Triomphant",
@@ -44369,6 +44540,58 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802031/icon.png",
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802031/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802031/shipyard.png"
+  },
+  {
+    "id": 802032,
+    "gid": 80203,
+    "name": "Milk and Kisses",
+    "type": "Maid",
+    "desc": "It's almost time to wake up, dear guest... Don't open those eyes just yet. Let me use my magic to spirit away that last bit of sleepiness.",
+    "tag": [
+      "None",
+      "dynamic",
+      "bg"
+    ],
+    "illustrator": -1,
+    "illustrator2": -1,
+    "voice_actor": 378,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/185.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802032/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802032/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802032/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802032/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802032/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802032/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802032/shipyard.png"
+  },
+  {
+    "id": 802033,
+    "gid": 80203,
+    "name": "Milk&Kiss",
+    "type": "Maid",
+    "desc": "ASMR触发面占坑",
+    "tag": [
+      "None",
+      "dynamic",
+      "bg"
+    ],
+    "illustrator": -1,
+    "illustrator2": -1,
+    "voice_actor": 378,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/185.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802033/painting.png",
+    "painting_n": null,
+    "banner": null,
+    "chibi": null,
+    "icon": null,
+    "qicon": null,
+    "shipyard": null
   },
   {
     "id": 802040,
@@ -47020,6 +47243,31 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/1199010/icon.png",
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/1199010/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/1199010/shipyard.png"
+  },
+  {
+    "id": 1199011,
+    "gid": 119901,
+    "name": "An Intimate Cleaning",
+    "type": "Maid",
+    "desc": "After all that messing around in the bathroom, it's time to clean myself. Commander, would you please assist me? I'll be still for you, of course. For instance... How about this position, hmm?",
+    "tag": [
+      "None",
+      "bg"
+    ],
+    "illustrator": -1,
+    "illustrator2": -1,
+    "voice_actor": 463,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/116.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/1199011/painting.png",
+    "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/1199011/painting_n.png",
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/1199011/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/1199011/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/1199011/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/1199011/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/1199011/shipyard.png"
   },
   {
     "id": 9600010,
