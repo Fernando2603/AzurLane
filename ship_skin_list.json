@@ -52132,6 +52132,34 @@
     ]
   },
   {
+    "gid": 30194,
+    "name": "Fujinami",
+    "skins": [
+      {
+        "id": 301940,
+        "gid": 30194,
+        "name": "Fujinami",
+        "type": "Default",
+        "desc": "Yuugumo-class destroyer – Fujinami.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 493,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301940/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301940/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301940/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301940/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301940/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301940/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301940/shipyard.png"
+      }
+    ]
+  },
+  {
     "gid": 1010001,
     "name": "Neptune",
     "skins": [

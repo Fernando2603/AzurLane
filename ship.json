@@ -84160,6 +84160,248 @@
     }
   },
   {
+    "id": 723,
+    "gid": 30194,
+    "cid": 1,
+    "sid": [
+      301941,
+      301942,
+      301943,
+      301944
+    ],
+    "name": "Fujinami",
+    "codename": "IJN Fujinami",
+    "class": "Yuugumo Class",
+    "nationality": 3,
+    "obtain": [
+      "Explore Chapter 16-4"
+    ],
+    "type": 1,
+    "rarity": 5,
+    "armor": 1,
+    "hexagon": [
+      "D",
+      "A",
+      "E",
+      "A",
+      "D",
+      "C"
+    ],
+    "share_group": [],
+    "breakout": [
+      [
+        "Unlock All Out Assault",
+        "Torpedo efficiency +5%"
+      ],
+      [
+        "Torpedo base +1",
+        "Torpedo preload +1",
+        "Torpedo efficiency +10%"
+      ],
+      [
+        "Improve All Out Assault",
+        "All weapons' efficiency +5%"
+      ]
+    ],
+    "equipment": {
+      "1": {
+        "default": 100,
+        "slot": 1,
+        "type": [
+          1
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 0.85
+      },
+      "2": {
+        "default": 107,
+        "slot": 2,
+        "type": [
+          5
+        ],
+        "mount": 2,
+        "preload": 1,
+        "efficiency": 1.6
+      },
+      "3": {
+        "default": 104,
+        "slot": 3,
+        "type": [
+          6
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 0.8
+      },
+      "4": {
+        "default": null,
+        "slot": 4,
+        "type": [
+          10,
+          14
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      },
+      "5": {
+        "default": null,
+        "slot": 5,
+        "type": [
+          10,
+          14
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      }
+    },
+    "base": {
+      "301941": {
+        "health": 361,
+        "firepower": 13,
+        "torpedo": 108,
+        "antiair": 29,
+        "aviation": 0,
+        "reload": 82,
+        "accuracy": 73,
+        "evasion": 71,
+        "speed": 42,
+        "luck": 46,
+        "asw": 44
+      },
+      "301942": {
+        "health": 449,
+        "firepower": 16,
+        "torpedo": 135,
+        "antiair": 36,
+        "aviation": 0,
+        "reload": 82,
+        "accuracy": 73,
+        "evasion": 71,
+        "speed": 42,
+        "luck": 46,
+        "asw": 55
+      },
+      "301943": {
+        "health": 625,
+        "firepower": 23,
+        "torpedo": 189,
+        "antiair": 51,
+        "aviation": 0,
+        "reload": 82,
+        "accuracy": 73,
+        "evasion": 71,
+        "speed": 42,
+        "luck": 46,
+        "asw": 77
+      },
+      "301944": {
+        "health": 889,
+        "firepower": 32,
+        "torpedo": 269,
+        "antiair": 72,
+        "aviation": 0,
+        "reload": 82,
+        "accuracy": 73,
+        "evasion": 71,
+        "speed": 42,
+        "luck": 46,
+        "asw": 110
+      }
+    },
+    "growth": {
+      "301941": {
+        "health": 10279,
+        "firepower": 179,
+        "torpedo": 1299,
+        "antiair": 642,
+        "aviation": 0,
+        "reload": 574,
+        "accuracy": 1125,
+        "evasion": 1306,
+        "speed": 0,
+        "luck": 0,
+        "asw": 515
+      },
+      "301942": {
+        "health": 10279,
+        "firepower": 179,
+        "torpedo": 1299,
+        "antiair": 642,
+        "aviation": 0,
+        "reload": 574,
+        "accuracy": 1125,
+        "evasion": 1306,
+        "speed": 0,
+        "luck": 0,
+        "asw": 515
+      },
+      "301943": {
+        "health": 10279,
+        "firepower": 179,
+        "torpedo": 1299,
+        "antiair": 642,
+        "aviation": 0,
+        "reload": 574,
+        "accuracy": 1125,
+        "evasion": 1306,
+        "speed": 0,
+        "luck": 0,
+        "asw": 515
+      },
+      "301944": {
+        "health": 10279,
+        "firepower": 179,
+        "torpedo": 1299,
+        "antiair": 642,
+        "aviation": 0,
+        "reload": 574,
+        "accuracy": 1125,
+        "evasion": 1306,
+        "speed": 0,
+        "luck": 0,
+        "asw": 515
+      }
+    },
+    "enhance": {
+      "firepower": 13,
+      "torpedo": 107,
+      "reload": 62
+    },
+    "skill": {
+      "151960": {
+        "id": 151960,
+        "parent": 151960,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "151970": {
+        "id": 151970,
+        "parent": 151970,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "30571": {
+        "id": 30571,
+        "parent": 30571,
+        "upgrade": 30572,
+        "downgrade": null,
+        "requirement": "Limit Break 1"
+      },
+      "30572": {
+        "id": 30572,
+        "parent": 30571,
+        "upgrade": null,
+        "downgrade": 30571,
+        "requirement": "Limit Break 3"
+      }
+    }
+  },
+  {
     "id": 179,
     "gid": 30201,
     "cid": 1,

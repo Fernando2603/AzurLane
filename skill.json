@@ -12447,6 +12447,22 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30560.png",
     "max_level": 1
   },
+  "30571": {
+    "id": 30571,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Fujinami once every 15 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30570.png",
+    "max_level": 1
+  },
+  "30572": {
+    "id": 30572,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Fujinami once every 10 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30570.png",
+    "max_level": 1
+  },
   "101010": {
     "id": 101010,
     "type": 3,
@@ -15727,6 +15743,22 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151940.png",
     "max_level": 10
   },
+  "151960": {
+    "id": 151960,
+    "type": 2,
+    "name": "Trend Setter",
+    "desc": "When the battle starts: deploys a barrier (lasting 20s) around all your Sakura Empire DDs that can negate DMG equal to 1.0% (5.0%) of their max HP; while this barrier exists, the recipients' TRP increases by 5.0% (10.0%); when this barrier expires, or if it is destroyed due to DMG during its active duration, the recipient recovers 4.0% of her max HP.\nOnce per battle, when this ship takes DMG that would sink her, this ship evades that DMG and the following effect applies: this ship has a 73.0% chance to evade all DMG for 5s; if this effect does not activate, this ship recovers 8.0% of her max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151960.png",
+    "max_level": 10
+  },
+  "151970": {
+    "id": 151970,
+    "type": 1,
+    "name": "Attention Getter",
+    "desc": "When the battle starts, for every Sakura Empire ship in your fleet: increases this ship's DMG dealt by 1.2% (3.0%) and RLD and TRP by 1.0% (5.0%) (can be stacked up to 3 times). Every 15s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). When this ship fires her torpedoes: 15.0% (30.0%) chance to fire another wave of torpedoes; if this effect does not activate, then the next time the special barrage listed in this skill activates, that barrage will be improved (each barrage can be improved up to 3 times).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151970.png",
+    "max_level": 10
+  },
   "190000": {
     "id": 190000,
     "type": 3,
@@ -18783,6 +18815,14 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/10260.png",
     "max_level": 10
   },
+  "1010270": {
+    "id": 1010270,
+    "type": 1,
+    "name": "Final Glory+",
+    "desc": "Increases this ship's RLD by 5.0% (15.0%). After this ship fires her Main Guns: increases the DMG of this ship's next Main Gun volley by 10.0% (20.0%) and, with a 40.0% (70.0%) chance, fires a Lv.1 (Lv.10) frontal barrage (DMG is based on the skill's level). If there is another Royal Navy ship in your fleet, the barrage's activation chance increases by 30.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/10270.png",
+    "max_level": 10
+  },
   "1010290": {
     "id": 1010290,
     "type": 1,
@@ -19397,6 +19437,14 @@
     "name": "Halo of Flames+",
     "desc": "Increases this ship's FP, AA, EVA, and ACC by 5.0% (15.0%) and increases her DMG dealt to Light and Medium Armor enemies by 5.0% (15.0%). When this ship fires her torpedoes: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/14340.png",
+    "max_level": 10
+  },
+  "1014990": {
+    "id": 1014990,
+    "type": 2,
+    "name": "Scorching Combo+",
+    "desc": "Increases this ship's AA by 5.0% (15.0%).\n3s after the battle starts, and with a 70.0% chance every 20s: fires a LV1 (LV10) special barrage (DMG is based on the skill's level) and gives this ship 1 stack of Combo Fire; if this barrage does not activate, this ship gains 2 stacks of Combo Fire; when the fleet this ship is in fights its 2nd and 4th battles in a sortie, this barrage is improved 1 time each.\nCombo Fire has a max stack of 3, and for each stack this ship has of it, her FP and TRP increases by 1.0% (10.0%). When this ship's Combo Fire stack reaches its maximum, the activation chance for this skill's barrage becomes 100.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/14990.png",
     "max_level": 10
   },
   "1017160": {
