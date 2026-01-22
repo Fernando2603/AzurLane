@@ -2791,6 +2791,14 @@
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-9.ogg"
   },
+  "story-richang-fashion-pv": {
+    "title": "蜈牙ｽｱ鬟主ｰ喟PV",
+    "size": 1825459,
+    "duration": 88.448,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-fashion-pv.ogg"
+  },
   "story-richang-flexible": {
     "title": "BZM_24",
     "size": 671624,
@@ -3550,6 +3558,14 @@
     "bitrate": 160.0,
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-partydress.ogg"
+  },
+  "theme-richang-fashion": {
+    "title": "蜈牙ｽｱ蠕句勘_AL",
+    "size": 1791117,
+    "duration": 90.00533333333334,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-richang-fashion.ogg"
   },
   "theme-richard": {
     "title": "theme-richard迢ゆｹｱ縺ｮMETA",

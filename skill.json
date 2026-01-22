@@ -15759,6 +15759,54 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151970.png",
     "max_level": 10
   },
+  "152000": {
+    "id": 152000,
+    "type": 3,
+    "name": "Magistrate of the Empire",
+    "desc": "Increases this ship's FP and EVA by 10.0% (20.0%). When this ship fires her Main Guns: 50.0% (80.0%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152000.png",
+    "max_level": 10
+  },
+  "152010": {
+    "id": 152010,
+    "type": 2,
+    "name": "Binding Verdict",
+    "desc": "During battle, when an enemy gets within a certain range: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) and restores 1.0% (5.0%) of this ship's max HP; this effect has a 5s cooldown between activations and can only activate up to 5 times per battle. If this effect activates 5 times in one battle: decreases this ship's DMG taken by 20.0% until the battle ends.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152010.png",
+    "max_level": 10
+  },
+  "152020": {
+    "id": 152020,
+    "type": 2,
+    "name": "Pain, Pain, Fly Away",
+    "desc": "Once per battle, when any other ship's HP falls below 20.0% as a result of DMG taken, the following effect activates: Ugolino Vivaldi's HP decreases by 1, and that other ship recovers 1.0% (10.0%) of her max HP (if said ship is from the Sardegna Empire, she recovers an additional 5.0% of her max HP); 3s after this effect activates, Ugolino Vivaldi recovers 10.0% of her max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152020.png",
+    "max_level": 10
+  },
+  "152030": {
+    "id": 152030,
+    "type": 3,
+    "name": "Towards Glory and Death",
+    "desc": "Increases this ship's FP and ASW by 1.0% (10.0%). If there are 3 or more Sardegna Empire ships in your fleet: increases all your Sardegna Empire DDs' ASW, FP, and TRP by 1.0% (10.0%) and increases this ship's EVA by 5.0% (15.0%) and decreases her aircraft DMG taken by 5.0% (15.0%). Every 20s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152030.png",
+    "max_level": 10
+  },
+  "152040": {
+    "id": 152040,
+    "type": 3,
+    "name": "Gunfire Fouetté",
+    "desc": "Increases this ship's FP and TRP by 5.0% (15.0%). Every 20s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152040.png",
+    "max_level": 10
+  },
+  "152050": {
+    "id": 152050,
+    "type": 3,
+    "name": "Ti Sfido!",
+    "desc": "Every 20s: challenges enemies to a duel, increasing FP, TRP, or EVA by 4.5% (12.0%) for 10s, and deploying a shield that can block up to 8 enemy shells. Every time this effect is triggered: 10% chance to fire a Lv.1 (Lv.10) special torpedo barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152050.png",
+    "max_level": 10
+  },
   "190000": {
     "id": 190000,
     "type": 3,
