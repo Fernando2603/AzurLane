@@ -45903,7 +45903,8 @@
     "class": "H Class",
     "nationality": 2,
     "obtain": [
-      "Event: Revelations of Dust"
+      "Event: Revelations of Dust",
+      "Merit Shop"
     ],
     "type": 1,
     "rarity": 4,
@@ -54302,7 +54303,8 @@
     "class": "Dido Class",
     "nationality": 2,
     "obtain": [
-      "Event: Revelations of Dust"
+      "Event: Revelations of Dust",
+      "Light Construction"
     ],
     "type": 2,
     "rarity": 5,
@@ -61571,7 +61573,8 @@
     "class": "Revenge Class",
     "nationality": 2,
     "obtain": [
-      "Event: Revelations of Dust"
+      "Event: Revelations of Dust",
+      "Heavy Construction"
     ],
     "type": 5,
     "rarity": 5,
@@ -62283,7 +62286,8 @@
     "class": "Argus",
     "nationality": 2,
     "obtain": [
-      "Event: Revelations of Dust"
+      "Event: Revelations of Dust",
+      "Special Construction"
     ],
     "type": 6,
     "rarity": 4,
@@ -65359,7 +65363,9 @@
     "class": "Implacable Class",
     "nationality": 2,
     "obtain": [
-      "Event: Revelations of Dust"
+      "Event: Revelations of Dust",
+      "Heavy/Special Construction",
+      "UR Exchange"
     ],
     "type": 7,
     "rarity": 6,
@@ -174986,6 +174992,251 @@
       "801920": {
         "id": 801920,
         "parent": 801920,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      }
+    }
+  },
+  {
+    "id": 30056,
+    "gid": 970111,
+    "cid": 3,
+    "sid": [
+      9701111,
+      9701112,
+      9701113,
+      9701114
+    ],
+    "name": "Carabiniere META",
+    "codename": "Carabiniere.META",
+    "class": "Carabiniere META",
+    "nationality": 97,
+    "obtain": [
+      "Event: Cruise Missions"
+    ],
+    "type": 1,
+    "rarity": 4,
+    "armor": 1,
+    "hexagon": [
+      "A",
+      "D",
+      "E",
+      "A",
+      "C",
+      "D"
+    ],
+    "share_group": [],
+    "breakout": [
+      [
+        "Unlock Cinders of Hope - Carabiniere",
+        "Main gun efficiency +5%"
+      ],
+      [
+        "Torpedo base +1",
+        "Torpedo preload +1",
+        "Main gun efficiency +10%"
+      ],
+      [
+        "Improve Cinders of Hope - Carabiniere",
+        "All weapons' efficiency +5%"
+      ]
+    ],
+    "equipment": {
+      "1": {
+        "default": 100,
+        "slot": 1,
+        "type": [
+          1
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1.65
+      },
+      "2": {
+        "default": 106,
+        "slot": 2,
+        "type": [
+          5
+        ],
+        "mount": 2,
+        "preload": 1,
+        "efficiency": 1.2
+      },
+      "3": {
+        "default": 104,
+        "slot": 3,
+        "type": [
+          6
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 0.75
+      },
+      "4": {
+        "default": null,
+        "slot": 4,
+        "type": [
+          10,
+          14
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      },
+      "5": {
+        "default": null,
+        "slot": 5,
+        "type": [
+          10,
+          14
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      }
+    },
+    "base": {
+      "9701111": {
+        "health": 320,
+        "firepower": 31,
+        "torpedo": 55,
+        "antiair": 31,
+        "aviation": 0,
+        "reload": 74,
+        "accuracy": 59,
+        "evasion": 54,
+        "speed": 46,
+        "luck": 65,
+        "asw": 50
+      },
+      "9701112": {
+        "health": 398,
+        "firepower": 39,
+        "torpedo": 69,
+        "antiair": 39,
+        "aviation": 0,
+        "reload": 74,
+        "accuracy": 59,
+        "evasion": 54,
+        "speed": 46,
+        "luck": 65,
+        "asw": 62
+      },
+      "9701113": {
+        "health": 554,
+        "firepower": 54,
+        "torpedo": 96,
+        "antiair": 54,
+        "aviation": 0,
+        "reload": 74,
+        "accuracy": 59,
+        "evasion": 54,
+        "speed": 46,
+        "luck": 65,
+        "asw": 87
+      },
+      "9701114": {
+        "health": 789,
+        "firepower": 77,
+        "torpedo": 137,
+        "antiair": 77,
+        "aviation": 0,
+        "reload": 74,
+        "accuracy": 59,
+        "evasion": 54,
+        "speed": 46,
+        "luck": 65,
+        "asw": 125
+      }
+    },
+    "growth": {
+      "9701111": {
+        "health": 6364,
+        "firepower": 388,
+        "torpedo": 739,
+        "antiair": 427,
+        "aviation": 0,
+        "reload": 515,
+        "accuracy": 796,
+        "evasion": 830,
+        "speed": 0,
+        "luck": 0,
+        "asw": 670
+      },
+      "9701112": {
+        "health": 6364,
+        "firepower": 388,
+        "torpedo": 739,
+        "antiair": 427,
+        "aviation": 0,
+        "reload": 515,
+        "accuracy": 796,
+        "evasion": 830,
+        "speed": 0,
+        "luck": 0,
+        "asw": 670
+      },
+      "9701113": {
+        "health": 6364,
+        "firepower": 388,
+        "torpedo": 739,
+        "antiair": 427,
+        "aviation": 0,
+        "reload": 515,
+        "accuracy": 796,
+        "evasion": 830,
+        "speed": 0,
+        "luck": 0,
+        "asw": 670
+      },
+      "9701114": {
+        "health": 6364,
+        "firepower": 388,
+        "torpedo": 739,
+        "antiair": 427,
+        "aviation": 0,
+        "reload": 515,
+        "accuracy": 796,
+        "evasion": 830,
+        "speed": 0,
+        "luck": 0,
+        "asw": 670
+      }
+    },
+    "enhance": {
+      "health": 312,
+      "antiair": 31,
+      "accuracy": 58,
+      "evasion": 53,
+      "torpedo": 55,
+      "reload": 55
+    },
+    "skill": {
+      "802071": {
+        "id": 802071,
+        "parent": 802071,
+        "upgrade": 802072,
+        "downgrade": null,
+        "requirement": "Limit Break 1"
+      },
+      "802072": {
+        "id": 802072,
+        "parent": 802071,
+        "upgrade": null,
+        "downgrade": 802071,
+        "requirement": "Limit Break 3"
+      },
+      "802050": {
+        "id": 802050,
+        "parent": 802050,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "802060": {
+        "id": 802060,
+        "parent": 802060,
         "upgrade": null,
         "downgrade": null,
         "requirement": "Default"

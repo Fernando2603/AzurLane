@@ -18767,6 +18767,54 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802040.png",
     "max_level": 1
   },
+  "802050": {
+    "id": 802050,
+    "type": 1,
+    "name": "Ricarica fiammeggiante",
+    "desc": "When this ship fires her Main Guns: performs an additional Lv.1 (Lv.10) special attack (DMG is based on this ship's FP stat and the skill's level). Enemies hit by this attack are inflicted with Armor Break for 6s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802050.png",
+    "max_level": 10
+  },
+  "802060": {
+    "id": 802060,
+    "type": 2,
+    "name": "Moschetto della protettrice",
+    "desc": "Increases this ship's FP and ACC by 5.0% (15.0%). Up to the point before this ship fires her equipped torpedoes for the 3rd time: increases this ship's DMG dealt by 5.0% (15.0%) and decreases her DMG taken by 3.5% (8.0%). When this ship fires her equipped torpedoes for the 3rd time: the ship in your fleet with the lowest current HP recovers 1.0% (10.0%) of her max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802060.png",
+    "max_level": 10
+  },
+  "802071": {
+    "id": 802071,
+    "type": 1,
+    "name": "Cinders of Hope - Carabiniere I",
+    "desc": "Every 15 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802070.png",
+    "max_level": 1
+  },
+  "802072": {
+    "id": 802072,
+    "type": 1,
+    "name": "Cinders of Hope - Carabiniere II",
+    "desc": "Every 10 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802070.png",
+    "max_level": 1
+  },
+  "802075": {
+    "id": 802075,
+    "type": 1,
+    "name": "Cinders of Hope - Carabiniere I",
+    "desc": "[Operation Siren]\nEvery 15 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 2.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802070.png",
+    "max_level": 1
+  },
+  "802077": {
+    "id": 802077,
+    "type": 1,
+    "name": "Cinders of Hope - Carabiniere II",
+    "desc": "[Operation Siren]\nEvery 10 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 6.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802070.png",
+    "max_level": 1
+  },
   "902220": {
     "id": 902220,
     "type": 2,
