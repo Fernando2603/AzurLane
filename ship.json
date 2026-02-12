@@ -133627,7 +133627,8 @@
     "class": "Chang Feng Class",
     "nationality": 5,
     "obtain": [
-      "Event: Spring Fashion Festa"
+      "Event: Spring Fashion Festa",
+      "Light ship Construction"
     ],
     "type": 1,
     "rarity": 4,
@@ -133868,7 +133869,8 @@
     "class": "Chang Feng Class",
     "nationality": 5,
     "obtain": [
-      "Event: Spring Fashion Festa"
+      "Event: Spring Fashion Festa",
+      "Core Data Shop"
     ],
     "type": 1,
     "rarity": 4,
@@ -134992,6 +134994,30 @@
         "Main gun efficiency +15%"
       ]
     ],
+    "retrofit": {
+      "id": 502044,
+      "level": 85,
+      "bonus": {
+        "health": 210,
+        "reload": 5,
+        "equipment_proficiency_1": 0.15,
+        "firepower": 55,
+        "equipment_proficiency_3": 0.05,
+        "antiair": 15,
+        "evasion": 35
+      },
+      "skill": 49312,
+      "skin": 502049,
+      "armor": 2,
+      "hexagon": [
+        "B",
+        "C",
+        "E",
+        "B",
+        "B",
+        "C"
+      ]
+    },
     "equipment": {
       "1": {
         "default": 101,
@@ -135187,6 +135213,13 @@
         "upgrade": null,
         "downgrade": 24131,
         "requirement": "Limit Break 3"
+      },
+      "49312": {
+        "id": 49312,
+        "parent": 49312,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Retrofit"
       }
     }
   },
@@ -135235,6 +135268,30 @@
         "Main gun efficiency +15%"
       ]
     ],
+    "retrofit": {
+      "id": 502054,
+      "level": 85,
+      "bonus": {
+        "health": 210,
+        "reload": 5,
+        "equipment_proficiency_1": 0.15,
+        "firepower": 55,
+        "equipment_proficiency_3": 0.05,
+        "antiair": 15,
+        "evasion": 35
+      },
+      "skill": 49412,
+      "skin": 502059,
+      "armor": 2,
+      "hexagon": [
+        "B",
+        "C",
+        "E",
+        "B",
+        "B",
+        "C"
+      ]
+    },
     "equipment": {
       "1": {
         "default": 101,
@@ -135430,6 +135487,13 @@
         "upgrade": null,
         "downgrade": 24131,
         "requirement": "Limit Break 3"
+      },
+      "49412": {
+        "id": 49412,
+        "parent": 49412,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Retrofit"
       }
     }
   },
@@ -136172,7 +136236,8 @@
     "class": "Hai Yung Class",
     "nationality": 5,
     "obtain": [
-      "Event: Spring Fashion Festa"
+      "Event: Spring Fashion Festa",
+      "Light ship Construction"
     ],
     "type": 2,
     "rarity": 4,
@@ -136399,6 +136464,247 @@
     }
   },
   {
+    "id": 726,
+    "gid": 50212,
+    "cid": 1,
+    "sid": [
+      502121,
+      502122,
+      502123,
+      502124
+    ],
+    "name": "Hai Chou",
+    "codename": "Hai Chou",
+    "class": "Hai Yung Class",
+    "nationality": 5,
+    "obtain": [
+      "Event: Spring Auction Adventure"
+    ],
+    "type": 2,
+    "rarity": 4,
+    "armor": 2,
+    "hexagon": [
+      "C",
+      "C",
+      "E",
+      "C",
+      "D",
+      "C"
+    ],
+    "share_group": [],
+    "breakout": [
+      [
+        "Unlock All Out Assault I",
+        "Main gun efficiency +5%"
+      ],
+      [
+        "Main gun base +1",
+        "Main gun efficiency +10%"
+      ],
+      [
+        "Improve All Out Assault",
+        "Main gun efficiency +15%"
+      ]
+    ],
+    "equipment": {
+      "1": {
+        "default": 101,
+        "slot": 1,
+        "type": [
+          2
+        ],
+        "mount": 2,
+        "preload": 0,
+        "efficiency": 1
+      },
+      "2": {
+        "default": 100,
+        "slot": 2,
+        "type": [
+          1
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 0.9
+      },
+      "3": {
+        "default": 105,
+        "slot": 3,
+        "type": [
+          5
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 0.8
+      },
+      "4": {
+        "default": null,
+        "slot": 4,
+        "type": [
+          10,
+          14
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      },
+      "5": {
+        "default": null,
+        "slot": 5,
+        "type": [
+          10,
+          14
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      }
+    },
+    "base": {
+      "502121": {
+        "health": 513,
+        "firepower": 17,
+        "torpedo": 47,
+        "antiair": 29,
+        "aviation": 0,
+        "reload": 57,
+        "accuracy": 54,
+        "evasion": 25,
+        "speed": 20.75,
+        "luck": 45,
+        "asw": 18
+      },
+      "502122": {
+        "health": 638,
+        "firepower": 21,
+        "torpedo": 59,
+        "antiair": 36,
+        "aviation": 0,
+        "reload": 57,
+        "accuracy": 54,
+        "evasion": 25,
+        "speed": 20.75,
+        "luck": 45,
+        "asw": 23
+      },
+      "502123": {
+        "health": 888,
+        "firepower": 29,
+        "torpedo": 82,
+        "antiair": 50,
+        "aviation": 0,
+        "reload": 57,
+        "accuracy": 54,
+        "evasion": 25,
+        "speed": 20.75,
+        "luck": 45,
+        "asw": 32
+      },
+      "502124": {
+        "health": 1263,
+        "firepower": 42,
+        "torpedo": 116,
+        "antiair": 72,
+        "aviation": 0,
+        "reload": 57,
+        "accuracy": 54,
+        "evasion": 25,
+        "speed": 20.75,
+        "luck": 45,
+        "asw": 45
+      }
+    },
+    "growth": {
+      "502121": {
+        "health": 12716,
+        "firepower": 233,
+        "torpedo": 643,
+        "antiair": 638,
+        "aviation": 0,
+        "reload": 400,
+        "accuracy": 793,
+        "evasion": 451,
+        "speed": 0,
+        "luck": 0,
+        "asw": 226
+      },
+      "502122": {
+        "health": 12716,
+        "firepower": 233,
+        "torpedo": 643,
+        "antiair": 638,
+        "aviation": 0,
+        "reload": 400,
+        "accuracy": 793,
+        "evasion": 451,
+        "speed": 0,
+        "luck": 0,
+        "asw": 226
+      },
+      "502123": {
+        "health": 12716,
+        "firepower": 233,
+        "torpedo": 643,
+        "antiair": 638,
+        "aviation": 0,
+        "reload": 400,
+        "accuracy": 793,
+        "evasion": 451,
+        "speed": 0,
+        "luck": 0,
+        "asw": 226
+      },
+      "502124": {
+        "health": 12716,
+        "firepower": 233,
+        "torpedo": 643,
+        "antiair": 638,
+        "aviation": 0,
+        "reload": 400,
+        "accuracy": 793,
+        "evasion": 451,
+        "speed": 0,
+        "luck": 0,
+        "asw": 226
+      }
+    },
+    "enhance": {
+      "firepower": 17,
+      "torpedo": 46,
+      "reload": 43
+    },
+    "skill": {
+      "151980": {
+        "id": 151980,
+        "parent": 151980,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "151990": {
+        "id": 151990,
+        "parent": 151990,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "28241": {
+        "id": 28241,
+        "parent": 28241,
+        "upgrade": 28242,
+        "downgrade": null,
+        "requirement": "Limit Break 1"
+      },
+      "28242": {
+        "id": 28242,
+        "parent": 28241,
+        "upgrade": null,
+        "downgrade": 28241,
+        "requirement": "Limit Break 3"
+      }
+    }
+  },
+  {
     "id": 674,
     "gid": 50301,
     "cid": 1,
@@ -136413,7 +136719,8 @@
     "class": "Chien Wu",
     "nationality": 5,
     "obtain": [
-      "Event: Spring Fashion Festa"
+      "Event: Spring Fashion Festa",
+      "Heavy Ship Construction"
     ],
     "type": 3,
     "rarity": 5,
@@ -136635,6 +136942,247 @@
         "parent": 28251,
         "upgrade": null,
         "downgrade": 28251,
+        "requirement": "Limit Break 3"
+      }
+    }
+  },
+  {
+    "id": 725,
+    "gid": 50302,
+    "cid": 1,
+    "sid": [
+      503021,
+      503022,
+      503023,
+      503024
+    ],
+    "name": "Chang Wu",
+    "codename": "Chang Wu",
+    "class": "Chang Wu",
+    "nationality": 5,
+    "obtain": [
+      "Event: Spring Auction Adventure"
+    ],
+    "type": 3,
+    "rarity": 5,
+    "armor": 2,
+    "hexagon": [
+      "B",
+      "C",
+      "E",
+      "C",
+      "D",
+      "A"
+    ],
+    "share_group": [],
+    "breakout": [
+      [
+        "Unlock All Out Assault I",
+        "Main gun efficiency +5%"
+      ],
+      [
+        "Torpedo base +1",
+        "Torpedo preload +1",
+        "Main gun efficiency +10%"
+      ],
+      [
+        "Improve All Out Assault",
+        "Main gun base +1",
+        "Main gun efficiency +15%"
+      ]
+    ],
+    "equipment": {
+      "1": {
+        "default": 102,
+        "slot": 1,
+        "type": [
+          3
+        ],
+        "mount": 2,
+        "preload": 0,
+        "efficiency": 1.3
+      },
+      "2": {
+        "default": 101,
+        "slot": 2,
+        "type": [
+          2
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 0.8
+      },
+      "3": {
+        "default": 105,
+        "slot": 3,
+        "type": [
+          5
+        ],
+        "mount": 2,
+        "preload": 1,
+        "efficiency": 1
+      },
+      "4": {
+        "default": null,
+        "slot": 4,
+        "type": [
+          10
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      },
+      "5": {
+        "default": null,
+        "slot": 5,
+        "type": [
+          10
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      }
+    },
+    "base": {
+      "503021": {
+        "health": 835,
+        "firepower": 35,
+        "torpedo": 56,
+        "antiair": 47,
+        "aviation": 0,
+        "reload": 68,
+        "accuracy": 55,
+        "evasion": 23,
+        "speed": 22.4,
+        "luck": 54,
+        "asw": 0
+      },
+      "503022": {
+        "health": 1039,
+        "firepower": 44,
+        "torpedo": 70,
+        "antiair": 59,
+        "aviation": 0,
+        "reload": 68,
+        "accuracy": 55,
+        "evasion": 23,
+        "speed": 22.4,
+        "luck": 54,
+        "asw": 0
+      },
+      "503023": {
+        "health": 1446,
+        "firepower": 61,
+        "torpedo": 97,
+        "antiair": 82,
+        "aviation": 0,
+        "reload": 68,
+        "accuracy": 55,
+        "evasion": 23,
+        "speed": 22.4,
+        "luck": 54,
+        "asw": 0
+      },
+      "503024": {
+        "health": 2057,
+        "firepower": 87,
+        "torpedo": 139,
+        "antiair": 116,
+        "aviation": 0,
+        "reload": 68,
+        "accuracy": 55,
+        "evasion": 23,
+        "speed": 22.4,
+        "luck": 54,
+        "asw": 0
+      }
+    },
+    "growth": {
+      "503021": {
+        "health": 20713,
+        "firepower": 485,
+        "torpedo": 747,
+        "antiair": 1027,
+        "aviation": 0,
+        "reload": 470,
+        "accuracy": 816,
+        "evasion": 413,
+        "speed": 0,
+        "luck": 0,
+        "asw": 0
+      },
+      "503022": {
+        "health": 20713,
+        "firepower": 485,
+        "torpedo": 747,
+        "antiair": 1027,
+        "aviation": 0,
+        "reload": 470,
+        "accuracy": 816,
+        "evasion": 413,
+        "speed": 0,
+        "luck": 0,
+        "asw": 0
+      },
+      "503023": {
+        "health": 20713,
+        "firepower": 485,
+        "torpedo": 747,
+        "antiair": 1027,
+        "aviation": 0,
+        "reload": 470,
+        "accuracy": 816,
+        "evasion": 413,
+        "speed": 0,
+        "luck": 0,
+        "asw": 0
+      },
+      "503024": {
+        "health": 20713,
+        "firepower": 485,
+        "torpedo": 747,
+        "antiair": 1027,
+        "aviation": 0,
+        "reload": 470,
+        "accuracy": 816,
+        "evasion": 413,
+        "speed": 0,
+        "luck": 0,
+        "asw": 0
+      }
+    },
+    "enhance": {
+      "firepower": 35,
+      "torpedo": 55,
+      "reload": 50
+    },
+    "skill": {
+      "152080": {
+        "id": 152080,
+        "parent": 152080,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "152090": {
+        "id": 152090,
+        "parent": 152090,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "250221": {
+        "id": 250221,
+        "parent": 250221,
+        "upgrade": 250222,
+        "downgrade": null,
+        "requirement": "Limit Break 1"
+      },
+      "250222": {
+        "id": 250222,
+        "parent": 250221,
+        "upgrade": null,
+        "downgrade": 250221,
         "requirement": "Limit Break 3"
       }
     }

@@ -2456,9 +2456,9 @@
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-french.ogg"
   },
   "story-french1": {
-    "title": "破碎之光_RN",
-    "size": 2873375,
-    "duration": 138.48380952380953,
+    "title": "bgm-story-french1",
+    "size": 1994472,
+    "duration": 94.22657596371882,
     "bitrate": 160.0,
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-french1.ogg"
@@ -2927,6 +2927,14 @@
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-room-dance-2.ogg"
   },
+  "story-room-dance-3": {
+    "title": "舞池旋律3_AL",
+    "size": 1068784,
+    "duration": 51.712,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-room-dance-3.ogg"
+  },
   "story-room-newjersey": {
     "title": "黑龙懒洋洋_AL",
     "size": 3010234,
@@ -3143,6 +3151,14 @@
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-worldα-grief.ogg"
   },
+  "story-zhangwu-china": {
+    "title": "春宴怀玉香满庭_AL",
+    "size": 2057777,
+    "duration": 96.02133333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-zhangwu-china.ogg"
+  },
   "theme": {
     "title": "壮絶激昂_FinlMix[Main]",
     "size": 4272735,
@@ -3238,6 +3254,14 @@
     "bitrate": 160.0,
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-china-jianwu.ogg"
+  },
+  "theme-china-zhangwu": {
+    "title": "邇画ｻ｡譏･蜊酸PV",
+    "size": 1936780,
+    "duration": 99.41333333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-china-zhangwu.ogg"
   },
   "theme-chunjie2025-2": {
     "title": "流波卷月_AL",

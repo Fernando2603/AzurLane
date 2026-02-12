@@ -15759,6 +15759,22 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151970.png",
     "max_level": 10
   },
+  "151980": {
+    "id": 151980,
+    "type": 3,
+    "name": "Stoic Nepenthe",
+    "desc": "Increases this ship's FP, AA, and EVA by 5.0% (15.0%) and SPD by 8. Every 15s: 40.0% (70.0%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); if this barrage fails to activate, this ship's DMG taken is decreased by 10.0% (20.0%) for 10s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151980.png",
+    "max_level": 10
+  },
+  "151990": {
+    "id": 151990,
+    "type": 3,
+    "name": "Melted Without a Trace",
+    "desc": "Every 12s: inflicts Poison (takes 100 DMG every second) for 6s on the enemy with the lowest HP at the time of activation; increases this ship's DMG dealt against enemies with Poison by 4.0% (10.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/151990.png",
+    "max_level": 10
+  },
   "152000": {
     "id": 152000,
     "type": 3,
@@ -15807,6 +15823,38 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152050.png",
     "max_level": 10
   },
+  "152080": {
+    "id": 152080,
+    "type": 3,
+    "name": "Jadecarver of the Sea",
+    "desc": "At the start of the battle, and when this ship sinks an enemy: all your ships gain 1 stack of Coarse Jade; when any other ship in your fleet sinks an enemy, that ship gains 1 stack of Coarse Jade.\nEach ship can gain up to 10 stacks of Coarse Jade, and for each stack, that ship's DMG dealt increases by 1.0%. When a ship reaches 10 stacks of Coarse Jade, that ship gains the Fine Jade status; Fine Jade increases the recipient's Crit Rate by 10.0% (20.0%) and Crit DMG by 20.0% (40.0%); if the recipient is a Dragon Empery ship, it further increases their Crit Rate by 5.0% (10.0%) and Crit DMG by 10.0% (20.0%).\nWhen the battle starts, if there are 3 or more Dragon Empery ships in your fleet, this ship gains 10 stacks of Coarse Jade and receives the Fine Jade status.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152080.png",
+    "max_level": 10
+  },
+  "152090": {
+    "id": 152090,
+    "type": 1,
+    "name": "Brilliance Through Refinement",
+    "desc": "Increases this ship's FP and EVA by 6.0% (18.0%). Every 15s: fires a Lv.1 (Lv.10) special barrage and fires it again equal to the number of allies with the Fine Jade status (up to 6 refires; DMG is based on the skill's level). Every time this skill's special barrage activates: decreases this ship's DMG taken by 1.0% (2.5%) until the battle ends (up to 5 times).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152090.png",
+    "max_level": 10
+  },
+  "152120": {
+    "id": 152120,
+    "type": 1,
+    "name": "Dazzling Fan Dance",
+    "desc": "Increases this ship's SPD by 3 (8) and Crit Rate by 1.0% (10.0%). For each Dragon Empery ship in your fleet: increases this ship's ACC by 1.0% (10.0%) (up to 3 stacks). Every 20s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) and increases this ship's Evasion Rate by 10.0% (20.0%) for 10s; enemies hit by this barrage have their SPD decreased by 20.0% for 10s (does not stack).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152120.png",
+    "max_level": 10
+  },
+  "152130": {
+    "id": 152130,
+    "type": 1,
+    "name": "Serpentine Brushstrokes",
+    "desc": "Increases this ship's SPD by 3 (8) and Crit Rate by 1.0% (10.0%). For each Dragon Empery ship in your fleet: increases this ship's TRP by 1.0% (10.0%) (up to 3 stacks). Every 20s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) and deploys a barrier (lasting 10s) that can negate DMG equal to 1.0% (3.0%) of this ship's max HP; increases this ship's DMG dealt to enemies hit by this barrage by 4.0% (10.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152130.png",
+    "max_level": 10
+  },
   "190000": {
     "id": 190000,
     "type": 3,
@@ -15852,6 +15900,22 @@
     "type": 1,
     "name": "All Out Assault II",
     "desc": "Activates All Out Assault II: Duquesne once every 6 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/20200.png",
+    "max_level": 1
+  },
+  "250221": {
+    "id": 250221,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Chang Wu once every 9 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/20200.png",
+    "max_level": 1
+  },
+  "250222": {
+    "id": 250222,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Chang Wu once every 6 times the Main Guns are fired.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/20200.png",
     "max_level": 1
   },

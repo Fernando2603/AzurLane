@@ -4300,6 +4300,30 @@
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/106014/shipyard.png"
       },
       {
+        "id": 106015,
+        "gid": 10601,
+        "name": "Bring On the Red Envelopes!",
+        "type": "Empery'S Fineries",
+        "desc": "Heehee – may fortune come your way! Give me a red envelope! ...Hm? You've already given me one? Hey, the more red envelopes, the better! If you give me more, I'll let you have this steaming hot baozi as thanks!",
+        "tag": [
+          "dynamicbg"
+        ],
+        "illustrator": 13,
+        "illustrator2": -1,
+        "voice_actor": 45,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/152.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/106015/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/106015/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/106015/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/106015/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/106015/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/106015/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/106015/shipyard.png"
+      },
+      {
         "id": 106019,
         "gid": 10601,
         "name": "Long Island (Retrofit)",
@@ -17392,6 +17416,30 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307084/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307084/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307084/shipyard.png"
+      },
+      {
+        "id": 307085,
+        "gid": 30708,
+        "name": "Embrace Upon A Melted Dream",
+        "type": "Empery'S Fineries",
+        "desc": "Mmgh... We agreed to share this mysterious liquor together, yet this one seems to have partaken excessively... Though, a few drops still linger upon this one's lips, should you crave a taste...",
+        "tag": [
+          "live2d"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 192,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307085/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307085/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307085/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307085/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307085/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307085/shipyard.png"
       }
     ]
   },
@@ -17912,6 +17960,30 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/431233/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/431233/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/431233/shipyard.png"
+      },
+      {
+        "id": 431234,
+        "gid": 40123,
+        "name": "Inky Antics",
+        "type": "Empery'S Fineries",
+        "desc": "Oh, Commander? Do you want to practice calligraphy with me? ...You think it looks more like drawing than writing? G-geez!",
+        "tag": [
+          "dynamicbg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 3,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/144.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/431234/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/431234/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/431234/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/431234/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/431234/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/431234/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/431234/shipyard.png"
       }
     ]
   },
@@ -19268,6 +19340,30 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/407011/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/407011/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/407011/shipyard.png"
+      },
+      {
+        "id": 407012,
+        "gid": 40701,
+        "name": "Intoxicating Crimson",
+        "type": "Empery'S Fineries",
+        "desc": "Finally, you've come. Even if it meant dying tomorrow, it's a worthy trade to enjoy this moment with you.",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": 21,
+        "illustrator2": -1,
+        "voice_actor": 9,
+        "voice_actor2": 73,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/302.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/407012/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/407012/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/407012/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/407012/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/407012/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/407012/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/407012/shipyard.png"
       }
     ]
   },
@@ -37072,6 +37168,28 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502043/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502043/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502043/shipyard.png"
+      },
+      {
+        "id": 502049,
+        "gid": 50204,
+        "name": "Ying Swei (Retrofit)",
+        "type": "Retrofit",
+        "desc": "My retrofitting is complete! Don't I look a little stronger than before? Regardless, I hope you'll guide me as you always have, Commander.",
+        "tag": [],
+        "illustrator": 21,
+        "illustrator2": -1,
+        "voice_actor": 260,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502049/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502049/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502049/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502049/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502049/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502049/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502049/shipyard.png"
       }
     ]
   },
@@ -37174,6 +37292,28 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502053/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502053/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502053/shipyard.png"
+      },
+      {
+        "id": 502059,
+        "gid": 50205,
+        "name": "Chao Ho (Retrofit)",
+        "type": "Retrofit",
+        "desc": "Chao Ho's back, and she's better than ever! Hmph! Now my strength and my authority as the older sister are unquestionable!",
+        "tag": [],
+        "illustrator": 21,
+        "illustrator2": -1,
+        "voice_actor": 260,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502059/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502059/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502059/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502059/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502059/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502059/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502059/shipyard.png"
       }
     ]
   },
@@ -46695,6 +46835,30 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/501071/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/501071/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/501071/shipyard.png"
+      },
+      {
+        "id": 501072,
+        "gid": 50107,
+        "name": "Lady Yuen's Sugary Artillery",
+        "type": "Empery'S Fineries",
+        "desc": "\"Making enough candied strawberries for everyone at port?\" Waaah, i-it's too much hard work! I don't wanna!",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 397,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/197.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/501072/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/501072/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/501072/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/501072/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/501072/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/501072/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/501072/shipyard.png"
       }
     ]
   },
@@ -52460,6 +52624,139 @@
     ]
   },
   {
+    "gid": 50302,
+    "name": "Chang Wu",
+    "skins": [
+      {
+        "id": 503020,
+        "gid": 50302,
+        "name": "Chang Wu",
+        "type": "Default",
+        "desc": "6,000 ton-class cruiser blueprint – Chang Wu.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 497,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/503020/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/503020/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/503020/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/503020/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/503020/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/503020/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/503020/shipyard.png"
+      },
+      {
+        "id": 503021,
+        "gid": 50302,
+        "name": "In Full Glory, Spring's Branch Blooms",
+        "type": "Empery'S Fineries",
+        "desc": "Serene is this room, and pleasing is this plum-blossom fragrance, yet... why are you yet to come inside? Here, the aroma of flowers is rich, only awaiting the arrival of the spring breeze—",
+        "tag": [
+          "None",
+          "dynamicbg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 497,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/152.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/503021/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/503021/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/503021/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/503021/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/503021/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/503021/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/503021/shipyard.png"
+      }
+    ]
+  },
+  {
+    "gid": 50212,
+    "name": "Hai Chou",
+    "skins": [
+      {
+        "id": 502120,
+        "gid": 50212,
+        "name": "Hai Chou",
+        "type": "Default",
+        "desc": "Hai Yung-class protected cruiser – Hai Chou.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 498,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502120/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502120/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502120/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502120/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502120/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502120/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502120/shipyard.png"
+      },
+      {
+        "id": 502121,
+        "gid": 50212,
+        "name": "Aroma of Awakening",
+        "type": "Empery'S Fineries",
+        "desc": "You're awake? Judging from your appearance... I wonder if our previous rendezvous has left you unsatisfied?",
+        "tag": [
+          "dynamic",
+          "None",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 498,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/175.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502121/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502121/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502121/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502121/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502121/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502121/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502121/shipyard.png"
+      },
+      {
+        "id": 502122,
+        "gid": 50212,
+        "name": "Aroma of Awakening",
+        "type": "Empery'S Fineries",
+        "desc": "You're awake? Judging from your appearance... I wonder if our previous rendezvous has left you unsatisfied?",
+        "tag": [
+          "dynamic",
+          "None",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 498,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/175.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/502122/painting.png",
+        "painting_n": null,
+        "banner": null,
+        "chibi": null,
+        "icon": null,
+        "qicon": null,
+        "shipyard": null
+      }
+    ]
+  },
+  {
     "gid": 1010001,
     "name": "Neptune",
     "skins": [
@@ -57575,6 +57872,58 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499022/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499022/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499022/shipyard.png"
+      },
+      {
+        "id": 499023,
+        "gid": 49902,
+        "name": "Boudoir's Lingering Flame",
+        "type": "Empery'S Fineries",
+        "desc": "I've heard that in the Dragon Empery, it is customary to give out red envelopes on special occasions... Come hither, my child. Allow me to give you a special gift for this priceless moment—",
+        "tag": [
+          "None",
+          "live2d",
+          "bg"
+        ],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 174,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/175.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499023/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499023/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499023/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499023/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499023/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499023/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499023/shipyard.png"
+      },
+      {
+        "id": 499024,
+        "gid": 49902,
+        "name": "Boudoir's Lingering Flame",
+        "type": "Empery'S Fineries",
+        "desc": "My child, I am honored to have guided you through this long night, leading you to greater maturity. Now, come and savor this eve's fruits until dawn comes, as a gift for your profound growth...",
+        "tag": [
+          "None",
+          "dynamic",
+          "bg"
+        ],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 174,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/175.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499024/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499024/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499024/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499024/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499024/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499024/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/499024/shipyard.png"
       },
       {
         "id": 499028,
