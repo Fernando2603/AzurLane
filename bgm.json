@@ -2319,6 +2319,14 @@
     "sample_rate": 32000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-china.ogg"
   },
+  "story-china-0226-pv": {
+    "title": "一堂春色_PV",
+    "size": 1854574,
+    "duration": 89.62133333333334,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-china-0226-pv.ogg"
+  },
   "story-chunjie2025-1": {
     "title": "蜊手｣ｳ蟾ｧ陬∬ｿ取眠譏･_AL",
     "size": 1749713,
@@ -2526,6 +2534,14 @@
     "bitrate": 88.0,
     "sample_rate": 22050,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-italy.ogg"
+  },
+  "story-kezhan-china": {
+    "title": "春满客栈~开业大吉~_AL",
+    "size": 1696681,
+    "duration": 82.38933333333334,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-kezhan-china.ogg"
   },
   "story-lightheven-up": {
     "title": "逋ｻ荳ｴ螟ｩ蝗ｽ荵矩亳_G",

@@ -6932,7 +6932,7 @@
     "type": 1,
     "name": "Big Seven - Colorado",
     "desc": "When this ship fires her Main Guns: 40.0% (70.0%) chance to fire a Lv.1 (Lv.10) special barrage forward (DMG is based on the skill's level). Once per battle, when the HP of any other ship in your Main Fleet falls below 50.0% as a result of DMG taken: fires this special barrage.",
-    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/10320.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/17970.png",
     "max_level": 10
   },
   "17980": {
@@ -9799,6 +9799,22 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/20100.png",
     "max_level": 1
   },
+  "26121": {
+    "id": 26121,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Admiral Nakhimov-class once every 12 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/20100.png",
+    "max_level": 1
+  },
+  "26122": {
+    "id": 26122,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Admiral Nakhimov-class once every 8 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/20100.png",
+    "max_level": 1
+  },
   "26211": {
     "id": 26211,
     "type": 1,
@@ -12461,6 +12477,38 @@
     "name": "All Out Assault II",
     "desc": "Activates All Out Assault II: Fujinami once every 10 times the Main Guns are fired.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30570.png",
+    "max_level": 1
+  },
+  "30581": {
+    "id": 30581,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Ozornoy once every 15 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30580.png",
+    "max_level": 1
+  },
+  "30582": {
+    "id": 30582,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Ozornoy and, with a 50.0% chance, increases this ship's FP by 20.0% for 10s once every 10 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30580.png",
+    "max_level": 1
+  },
+  "30591": {
+    "id": 30591,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Moskva once every 12 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30590.png",
+    "max_level": 1
+  },
+  "30592": {
+    "id": 30592,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Moskva once every 8 times the Main Guns are fired. If this ship has Northern Parliament gear equipped: the shells fired by this ship's Main and Secondary Guns ignore shields.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30590.png",
     "max_level": 1
   },
   "101010": {
@@ -15823,6 +15871,22 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152050.png",
     "max_level": 10
   },
+  "152060": {
+    "id": 152060,
+    "type": 1,
+    "name": "I'll Handle This!",
+    "desc": "Each battle, when this ship fires her first wave of torpedoes, if there is another Northern Parliament ship in your fleet, the following effects apply:\n1) This ship gains the effects of the skill Full Firepower (every 20s: 30.0% (60.0%) chance to increase this ship's FP by 20.0% (40.0%) for 10s) and this skill's effect immediately activates with a 100.0% chance;\n2) Every 10s: 70.0% chance to fire a Lv.1 (Lv.10) special barrage at a random enemy (DMG is based on the skill's level; prioritizes humanoid enemies). 3s after this effect activates, if that enemy is still afloat: activate this barrage again (this effect can only activate 2 times every 10s).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152060.png",
+    "max_level": 10
+  },
+  "152070": {
+    "id": 152070,
+    "type": 2,
+    "name": "I'll Whoop You!",
+    "desc": "When the battle starts, the following effects apply:\n1) Increases this ship's FP by 5.0% (15.0%) and DMG dealt by 5.0% until the battle ends;\n2) Deploys a barrier that can negate DMG equal to 15.0% of this ship's max HP. If this barrier is destroyed: performs a special slashing attack (DMG and range are based on the skill's level) and increases this ship's DMG dealt by 5.0% until the battle ends.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152070.png",
+    "max_level": 10
+  },
   "152080": {
     "id": 152080,
     "type": 3,
@@ -15839,6 +15903,22 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152090.png",
     "max_level": 10
   },
+  "152100": {
+    "id": 152100,
+    "type": 2,
+    "name": "Atomic Core",
+    "desc": "When the battle starts, and every 15s: summons Lv.1 (Lv.10) Robot Companions to participate in the battle for 12s; increases this ship's DMG dealt by 3.5% (8.0%) and decreases her DMG taken by 1.0% (5.0%) for every Robot Companion on the field.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152100.png",
+    "max_level": 10
+  },
+  "152110": {
+    "id": 152110,
+    "type": 3,
+    "name": "Numbers Must Go Up",
+    "desc": "Increases this ship's FP, TRP, and EVA by 5.0% (15.0%). Every 20s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). Once per battle, when this ship's HP falls below 20.0% as a result of DMG taken: restores 1.0% of this ship's HP every second for 10s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152110.png",
+    "max_level": 10
+  },
   "152120": {
     "id": 152120,
     "type": 1,
@@ -15853,6 +15933,46 @@
     "name": "Serpentine Brushstrokes",
     "desc": "Increases this ship's SPD by 3 (8) and Crit Rate by 1.0% (10.0%). For each Dragon Empery ship in your fleet: increases this ship's TRP by 1.0% (10.0%) (up to 3 stacks). Every 20s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) and deploys a barrier (lasting 10s) that can negate DMG equal to 1.0% (3.0%) of this ship's max HP; increases this ship's DMG dealt to enemies hit by this barrage by 4.0% (10.0%).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152130.png",
+    "max_level": 10
+  },
+  "152140": {
+    "id": 152140,
+    "type": 3,
+    "name": "Frost-Shredding Blade",
+    "desc": "Increases this ship's FP and EVA by 1.0% (10.0%). Every 2 times this ship fires her Main Guns: inflicts Frostshred on a random enemy; only 1 instance of Frostshred can exist on an enemy at a time, and if another instance is applied, the existing one will be removed; when the enemy with Frostshred is sunk, Frostshred is applied to the enemy closest to that enemy. Decreases this ship's and your Flagship's shelling DMG taken from the enemy with Frostshred by 5.0% (15.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152140.png",
+    "max_level": 10
+  },
+  "152150": {
+    "id": 152150,
+    "type": 2,
+    "name": "Unyielding Valor",
+    "desc": "During battle, while Moskva is afloat, when another Northern Parliament Surface Fleet ship takes DMG that would sink her, the other ship does not sink, evades that instance of DMG, and gains the Unyielding Valor status for 8s. Unyielding Valor does the following:\n1) Decreases the target's DMG taken by 10.0% (20.0%), which is tanked by Moskva instead;\n2) Increases the target's ACC by 5.0% (15.0%);\n3) When the status expires, or if Moskva is sunk, the target sinks;\nFor every ship with the Unyielding Valor status, Moskva's DMG taken (excluding the DMG she tanks) is decreased by 10.0% (20.0%) (can be stacked up to 3 times). When the battle ends, all ships with the Unyielding Valor recover 4.0% (10.0%) of their max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152150.png",
+    "max_level": 10
+  },
+  "152160": {
+    "id": 152160,
+    "type": 1,
+    "name": "Frozen Fortress",
+    "desc": "Increases your fleet's AA Gun Range by 5. When the battle starts, and every 8s: performs a Lv.1 (Lv.10) special attack (DMG is based on the skill's level); enemies hit even once by this attack have their AA and SPD decreased by 5.0% until the battle ends. While this ship is afloat, when a fleet this ship is NOT in begins a battle: provides a Lv.1 (Lv.10) supporting attack every 8s (DMG is based on the skill's level; can activate up to 2 times per battle).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152160.png",
+    "max_level": 10
+  },
+  "152170": {
+    "id": 152170,
+    "type": 1,
+    "name": "Retribution by Cannonfire",
+    "desc": "Increases this ship's FP and ACC by 5.0% (15.0%). When this ship fires her Main Guns: 15.0% (30.0%) chance to deal double the DMG. Every 10s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152170.png",
+    "max_level": 10
+  },
+  "152180": {
+    "id": 152180,
+    "type": 2,
+    "name": "Unfeeling Protector",
+    "desc": "When this ship takes DMG: 10.0% (30.0%) chance to decrease that instance of DMG taken by 20.0% (50.0%). Once per battle, when this ship's HP falls below 20.0% as a result of DMG taken: restores 5.0% (15.0%) of this ship's max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152180.png",
     "max_level": 10
   },
   "190000": {
@@ -18877,6 +18997,54 @@
     "name": "Cinders of Hope - Carabiniere II",
     "desc": "[Operation Siren]\nEvery 10 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 6.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802070.png",
+    "max_level": 1
+  },
+  "802080": {
+    "id": 802080,
+    "type": 1,
+    "name": "She Who Salutes War",
+    "desc": "Increases this ship's FP and RLD by 6.0% (18.0%). When this ship fires her Main Guns: 70.0% chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). After this barrage has been fired 2 times, the following effect applies: this barrage is improved and its activation chance increases to 100.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802080.png",
+    "max_level": 10
+  },
+  "802090": {
+    "id": 802090,
+    "type": 2,
+    "name": "She Who Stands Ready",
+    "desc": "While this ship's HP is above 30.0%, her DMG dealt increases by 5.0% (15.0%); while her HP is below 30.0%, her DMG taken decreases by 5.0% (15.0%). When this ship's first Main Gun volley has finished loading, this ship gains the Ready to Intercept status: each time this ship sinks an enemy, she gains 1 stack of Enemy Eliminated (max stack: 3); when this ship has 3 stacks of Enemy Eliminated, she loses the Ready to Intercept status, and the loading time of her next Main Gun volley is decreased by 20.0% (35.0%). The Ready to Intercept status can be gained up to 4 times per battle.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802090.png",
+    "max_level": 10
+  },
+  "802101": {
+    "id": 802101,
+    "type": 1,
+    "name": "Cinders of Hope - Gangut I",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 3.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802100.png",
+    "max_level": 1
+  },
+  "802102": {
+    "id": 802102,
+    "type": 1,
+    "name": "Cinders of Hope - Gangut II",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 8.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802100.png",
+    "max_level": 1
+  },
+  "802105": {
+    "id": 802105,
+    "type": 1,
+    "name": "Cinders of Hope - Gangut I",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 3.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802100.png",
+    "max_level": 1
+  },
+  "802107": {
+    "id": 802107,
+    "type": 1,
+    "name": "Cinders of Hope - Gangut II",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 8.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802100.png",
     "max_level": 1
   },
   "902220": {

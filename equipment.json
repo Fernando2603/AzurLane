@@ -76682,6 +76682,166 @@
       }
     }
   },
+  "85800": {
+    "name": "SM-40 Prototype Triple 220mm Main Gun Mount",
+    "desc": "A prototype triple 220mm main gun mount that was planned to be mounted on the Project 66 heavy cruisers.",
+    "label": [
+      "SN",
+      "CA",
+      "MG",
+      "AP"
+    ],
+    "rarity": 6,
+    "nationality": 7,
+    "type": 3,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/85800.png",
+    "stats": {
+      "1": {
+        "id": 85800,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "34 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          85800
+        ]
+      },
+      "2": {
+        "id": 85801,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "36 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          85801
+        ]
+      },
+      "3": {
+        "id": 85802,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "38 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          85802
+        ]
+      },
+      "4": {
+        "id": 85803,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "40 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          85803
+        ]
+      },
+      "5": {
+        "id": 85804,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "42 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          85804
+        ]
+      },
+      "6": {
+        "id": 85805,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "44 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          85805
+        ]
+      },
+      "7": {
+        "id": 85806,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "46 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          85806
+        ]
+      },
+      "8": {
+        "id": 85807,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "48 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          85807
+        ]
+      },
+      "9": {
+        "id": 85808,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "50 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          85808
+        ]
+      },
+      "10": {
+        "id": 85809,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "52 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          85809
+        ]
+      },
+      "11": {
+        "id": 85810,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "54 x 6",
+        "cannon": 65,
+        "weapon_id": [
+          85810
+        ]
+      },
+      "12": {
+        "id": 85811,
+        "level": 12,
+        "enhance": "+11",
+        "damage": "54 x 6",
+        "cannon": 65,
+        "anti_siren": 1,
+        "weapon_id": [
+          85811
+        ]
+      },
+      "13": {
+        "id": 85812,
+        "level": 13,
+        "enhance": "+12",
+        "damage": "54 x 6",
+        "cannon": 65,
+        "anti_siren": 2,
+        "weapon_id": [
+          85812
+        ]
+      },
+      "14": {
+        "id": 85813,
+        "level": 14,
+        "enhance": "+13",
+        "damage": "54 x 6",
+        "cannon": 65,
+        "anti_siren": 3,
+        "weapon_id": [
+          85813
+        ]
+      }
+    }
+  },
   "89000": {
     "name": "Random Word Generator",
     "desc": "A helpful tool for planning. Rumor has it, when the the moon is full, the seas are clear, and the time is right, it will speak to you...?",
