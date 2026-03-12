@@ -131543,7 +131543,8 @@
     "class": "An Shan Class",
     "nationality": 5,
     "obtain": [
-      "Event: Adventure - Anshan"
+      "Event: Adventure - Anshan",
+      "Guild Shop"
     ],
     "type": 1,
     "rarity": 4,
@@ -131882,7 +131883,8 @@
     "class": "An Shan Class",
     "nationality": 5,
     "obtain": [
-      "Event: Adventure - Fushun"
+      "Event: Adventure - Fushun",
+      "Guild Shop"
     ],
     "type": 1,
     "rarity": 4,
@@ -179004,6 +179006,259 @@
       "802030": {
         "id": 802030,
         "parent": 802030,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      }
+    }
+  },
+  {
+    "id": 30058,
+    "gid": 970211,
+    "cid": 3,
+    "sid": [
+      9702111,
+      9702112,
+      9702113,
+      9702114
+    ],
+    "name": "Regensburg META",
+    "codename": "Regensburg.META",
+    "class": "Regensburg META",
+    "nationality": 97,
+    "obtain": [
+      "META Lab - Coordinate Analysis"
+    ],
+    "type": 2,
+    "rarity": 5,
+    "armor": 1,
+    "hexagon": [
+      "B",
+      "A",
+      "E",
+      "B",
+      "B",
+      "C"
+    ],
+    "share_group": [],
+    "breakout": [
+      [
+        "Unlock Cinders of Hope - Regensburg",
+        "Main gun efficiency +5%"
+      ],
+      [
+        "Torpedo base +1",
+        "Torpedo preload +1",
+        "Main gun efficiency +10%"
+      ],
+      [
+        "Improve Cinders of Hope - Regensburg",
+        "All weapons' efficiency +5%"
+      ]
+    ],
+    "equipment": {
+      "1": {
+        "default": 101,
+        "slot": 1,
+        "type": [
+          2
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1.45
+      },
+      "2": {
+        "default": 106,
+        "slot": 2,
+        "type": [
+          5
+        ],
+        "mount": 2,
+        "preload": 1,
+        "efficiency": 1.35
+      },
+      "3": {
+        "default": 104,
+        "slot": 3,
+        "type": [
+          6
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1.2
+      },
+      "4": {
+        "default": null,
+        "slot": 4,
+        "type": [
+          10,
+          14
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      },
+      "5": {
+        "default": null,
+        "slot": 5,
+        "type": [
+          10,
+          14
+        ],
+        "mount": 1,
+        "preload": 0,
+        "efficiency": 1
+      }
+    },
+    "base": {
+      "9702111": {
+        "health": 630,
+        "firepower": 35,
+        "torpedo": 60,
+        "antiair": 70,
+        "aviation": 0,
+        "reload": 71,
+        "accuracy": 43,
+        "evasion": 23,
+        "speed": 36,
+        "luck": 46,
+        "asw": 33
+      },
+      "9702112": {
+        "health": 784,
+        "firepower": 44,
+        "torpedo": 75,
+        "antiair": 87,
+        "aviation": 0,
+        "reload": 71,
+        "accuracy": 43,
+        "evasion": 23,
+        "speed": 36,
+        "luck": 46,
+        "asw": 41
+      },
+      "9702113": {
+        "health": 1091,
+        "firepower": 61,
+        "torpedo": 105,
+        "antiair": 121,
+        "aviation": 0,
+        "reload": 71,
+        "accuracy": 43,
+        "evasion": 23,
+        "speed": 36,
+        "luck": 46,
+        "asw": 58
+      },
+      "9702114": {
+        "health": 1552,
+        "firepower": 86,
+        "torpedo": 149,
+        "antiair": 172,
+        "aviation": 0,
+        "reload": 71,
+        "accuracy": 43,
+        "evasion": 23,
+        "speed": 36,
+        "luck": 46,
+        "asw": 83
+      }
+    },
+    "growth": {
+      "9702111": {
+        "health": 10584,
+        "firepower": 478,
+        "torpedo": 793,
+        "antiair": 879,
+        "aviation": 0,
+        "reload": 491,
+        "accuracy": 607,
+        "evasion": 566,
+        "speed": 0,
+        "luck": 0,
+        "asw": 462
+      },
+      "9702112": {
+        "health": 10584,
+        "firepower": 478,
+        "torpedo": 793,
+        "antiair": 879,
+        "aviation": 0,
+        "reload": 491,
+        "accuracy": 607,
+        "evasion": 566,
+        "speed": 0,
+        "luck": 0,
+        "asw": 462
+      },
+      "9702113": {
+        "health": 10584,
+        "firepower": 478,
+        "torpedo": 793,
+        "antiair": 879,
+        "aviation": 0,
+        "reload": 491,
+        "accuracy": 607,
+        "evasion": 566,
+        "speed": 0,
+        "luck": 0,
+        "asw": 462
+      },
+      "9702114": {
+        "health": 10584,
+        "firepower": 478,
+        "torpedo": 793,
+        "antiair": 879,
+        "aviation": 0,
+        "reload": 491,
+        "accuracy": 607,
+        "evasion": 566,
+        "speed": 0,
+        "luck": 0,
+        "asw": 462
+      }
+    },
+    "enhance": {
+      "health": 614,
+      "antiair": 68,
+      "accuracy": 43,
+      "evasion": 23,
+      "firepower": 34,
+      "torpedo": 59,
+      "reload": 53
+    },
+    "skill": {
+      "802141": {
+        "id": 802141,
+        "parent": 802141,
+        "upgrade": 802142,
+        "downgrade": null,
+        "requirement": "Limit Break 1"
+      },
+      "802142": {
+        "id": 802142,
+        "parent": 802141,
+        "upgrade": null,
+        "downgrade": 802141,
+        "requirement": "Limit Break 3"
+      },
+      "802110": {
+        "id": 802110,
+        "parent": 802110,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "802120": {
+        "id": 802120,
+        "parent": 802120,
+        "upgrade": null,
+        "downgrade": null,
+        "requirement": "Default"
+      },
+      "802130": {
+        "id": 802130,
+        "parent": 802130,
         "upgrade": null,
         "downgrade": null,
         "requirement": "Default"

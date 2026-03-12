@@ -62082,5 +62082,33 @@
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9705100/shipyard.png"
       }
     ]
+  },
+  {
+    "gid": 970211,
+    "name": "Regensburg META",
+    "skins": [
+      {
+        "id": 9702110,
+        "gid": 970211,
+        "name": "Regensburg META",
+        "type": "Default",
+        "desc": "I am Regensburg, an elector of the Holy Unitas Empire. Hmph, I hope you're not as tedious as those caged beasts, Commander. Taming someone like you is a far better use of my time.",
+        "tag": [],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 362,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702110/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702110/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702110/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702110/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702110/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702110/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702110/shipyard.png"
+      }
+    ]
   }
 ]

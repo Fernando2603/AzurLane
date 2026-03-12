@@ -19047,6 +19047,62 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802100.png",
     "max_level": 1
   },
+  "802110": {
+    "id": 802110,
+    "type": 1,
+    "name": "The Hunt Begins",
+    "desc": "Increases this ship's FP and TRP by 15.0% (30.0%). Every 5s: increases this ship's ACC by 1.5% (6.0%) (can be stacked up to 5 times). Every 15s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802110.png",
+    "max_level": 10
+  },
+  "802120": {
+    "id": 802120,
+    "type": 3,
+    "name": "The Hunters Gather",
+    "desc": "Every 15s: inflict Gamehunter's Mark on a random enemy for 10s (prioritizes humanoid enemies); that enemy's SPD is decreased by 10.0% (20.0%) while your Vanguard gains the Gamehunter status. The Gamehunter status lasts for 10s and increases each unit's DMG dealt by 1.0% (10.0%) against the target with Gamehunter's Mark. While an enemy with Gamehunter's Mark exists: increases this ship's Crit Rate and Crit DMG by 10.0% (20.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802120.png",
+    "max_level": 10
+  },
+  "802130": {
+    "id": 802130,
+    "type": 2,
+    "name": "The Hunter's Vigilance",
+    "desc": "Increases this ship's EVA by 10.0% (20.0%). Every instance of DMG this ship takes during battle is tallied; when the tally reaches 10: resets the tally to 0 and deploys a shield (lasting 8s) that can negate up to 3 (8) enemy shells (while the shield is active, DMG sustained with this skill effect is not counted toward the tally). Once per battle, when this ship's HP falls below 30.0% as a result of DMG taken: restores 1.0% (10.0%) of this ship's max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802130.png",
+    "max_level": 10
+  },
+  "802141": {
+    "id": 802141,
+    "type": 1,
+    "name": "Cinders of Hope - Regensburg I",
+    "desc": "Every 12 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802140.png",
+    "max_level": 1
+  },
+  "802142": {
+    "id": 802142,
+    "type": 1,
+    "name": "Cinders of Hope - Regensburg II",
+    "desc": "Every 8 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802140.png",
+    "max_level": 1
+  },
+  "802145": {
+    "id": 802145,
+    "type": 1,
+    "name": "Cinders of Hope - Regensburg I",
+    "desc": "[Operation Siren]\nEvery 12 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 3.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802140.png",
+    "max_level": 1
+  },
+  "802147": {
+    "id": 802147,
+    "type": 1,
+    "name": "Cinders of Hope - Regensburg II",
+    "desc": "[Operation Siren]\nEvery 8 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 8.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802140.png",
+    "max_level": 1
+  },
   "902220": {
     "id": 902220,
     "type": 2,
@@ -19671,6 +19727,14 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/12840.png",
     "max_level": 10
   },
+  "1012910": {
+    "id": 1012910,
+    "type": 1,
+    "name": "Destroyer Division 6: Hibiki+",
+    "desc": "Increases this ship's FP, TRP, and RLD by 5.0% (15.0%). When sortied with Akatsuki, Ikazuchi, or Inazuma: increases this ship's FP, TRP, and RLD by 5.0% (15.0%) (does not stack with Destroyer Division 6 skills). The healing effect of the skill Phoenix's Plumage can now activate up to 2 times per battle, and starting from its 2nd activation, there is a 6.0% chance to increase Phoenix's Plumage's activation limit by 1.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/12910.png",
+    "max_level": 10
+  },
   "1012940": {
     "id": 1012940,
     "type": 3,
@@ -19719,6 +19783,14 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/13270.png",
     "max_level": 10
   },
+  "1013470": {
+    "id": 1013470,
+    "type": 3,
+    "name": "Supporting Role+",
+    "desc": "Increases this ship's FP, TRP, AA, and RLD by 10.0% (20.0%). If there is another Royal Navy ship in your fleet: increases this ship's DMG dealt by 3.5% (8.0%). Every 10s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/13470.png",
+    "max_level": 10
+  },
   "1013550": {
     "id": 1013550,
     "type": 1,
@@ -19757,6 +19829,14 @@
     "name": "Cleanse Impurity+",
     "desc": "Increases this ship's FP, AA, and ASW by 15.0% (25.0%), Main Gun efficiency by 5.0% (15.0%), and Anti-Air Gun efficiency by 15.0% (30.0%). Grants this ship a Lv.1 (Lv.10) special Anti-Air Gun (DMG is based on the skill's level). Every 20s: fires a Lv.1 (Lv.10) improved special barrage (DMG is based on the skill's level).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/14090.png",
+    "max_level": 10
+  },
+  "1014140": {
+    "id": 1014140,
+    "type": 1,
+    "name": "Scalawaggish Little Snowball+",
+    "desc": "When this ship is attacked: 5.0% (15.0%) chance to fire a Lv.1 (Lv.10) special barrage that slows enemies hit (DMG is based on the skill's level; 10s cooldown between activations) and increase this ship's FP and TRP by 1.0% (5.0%) until the battle ends (can be stacked up to 3 times); enemies hit by this barrage take 5.0% (10.0%) increased DMG from Stremitelny for 6s (does not stack).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/14140.png",
     "max_level": 10
   },
   "1014340": {
@@ -19877,6 +19957,14 @@
     "name": "Heavy Barrel Blaster+",
     "desc": "Increases this ship's FP and ACC by 5.0% (10.0%). When this ship fires her Main Guns: 50.0% (100.0%) chance to fire a Lv.1 (Lv.10) special barrage (deals guaranteed Critical DMG; DMG is based on the skill's level) and perform a Lv.1 (Lv.10) special attack against a random enemy (deals guaranteed Critical DMG; DMG is based on the skill's level; prioritizes humanoid enemies); enemies hit by this special barrage are inflicted with the Georgia's Mark debuff, increasing their DMG taken from Georgia by 5.0% (10.0%); when an enemy with Georgia's Mark sinks, the enemy closest to the sunk enemy gains Georgia's Mark.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/19160.png",
+    "max_level": 10
+  },
+  "1019260": {
+    "id": 1019260,
+    "type": 1,
+    "name": "Precision Salvo Protocol+",
+    "desc": "Increases this ship's FP and ACC by 5.0% (15.0%) and Crit Rate by 4.0% (10.0%). Each Main Gun reload gives this ship 2 Salvoes that can be fired independently, with each Salvo consisting of 1 Volley. This ship's DMG bonus with manually aimed Salvoes becomes 25.0% (40.0%). When the battle starts, and every 15s: 50.0% (100.0%) chance to fire a powerful special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/19260.png",
     "max_level": 10
   },
   "1090010": {
@@ -20197,6 +20285,14 @@
     "name": "Draw Fire - Myoukou",
     "desc": "When the battle starts, and every 20s: 50.0% (80.0%) chance to tank 50% of the DMG your Vanguard ships take for 8s (similar skills don't stack); for each other ship in your Vanguard, this ship recovers 1.0% of max HP and DMG taken is decreased by 10.0% for 8s (can be stacked 2 times).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/4040.png",
+    "max_level": 10
+  },
+  "1090440": {
+    "id": 1090440,
+    "type": 1,
+    "name": "Piercing Shells - Z19",
+    "desc": "Increases this ship's Crit Rate by 1% (10%) and DMG dealt with AP shells by 15.0% (35.0%). Every 15s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). Once per battle, when this ship's HP falls below 20.0% as a result of DMG taken: restores 15% (25%) of this ship's max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/2080.png",
     "max_level": 10
   },
   "10150530": {
