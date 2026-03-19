@@ -1671,6 +1671,14 @@
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/qe-ova-12.ogg"
   },
+  "qe-ova-13": {
+    "title": "13_Trèfle à quatre feuilles_48000_24",
+    "size": 2125481,
+    "duration": 105.25866666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/qe-ova-13.ogg"
+  },
   "qe-ova-15": {
     "title": "15_Waltz of Water Ripples (Elizabeth size)",
     "size": 825486,
