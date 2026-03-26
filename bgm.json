@@ -3151,6 +3151,22 @@
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-villaisland-night.ogg"
   },
+  "story-wanderingcity-future": {
+    "title": "貍ｫ貂ｸ荵句沁_AL",
+    "size": 2180617,
+    "duration": 110.48533333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-wanderingcity-future.ogg"
+  },
+  "story-wanderingcity-pv": {
+    "title": "驥咲鳩蟄先ｵ＼PV",
+    "size": 1886122,
+    "duration": 98.45333333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-wanderingcity-pv.ogg"
+  },
   "story-weimu-link": {
     "title": "天穹乐章_AL",
     "size": 2213049,

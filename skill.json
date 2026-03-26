@@ -15975,6 +15975,54 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152180.png",
     "max_level": 10
   },
+  "152190": {
+    "id": 152190,
+    "type": 1,
+    "name": "Freeflowing Air Raid",
+    "desc": "When this ship launches an airstrike, activates the following effects:\n1) Increases this ship's DMG dealt by 1.0% (10.0%) for 8s;\n2) Decreases the AA of a random enemy by 5.0% (prioritizes humanoid enemies) for 15s;\n3) Launches an additional Lv.1 (Lv.10) airstrike (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152190.png",
+    "max_level": 10
+  },
+  "152200": {
+    "id": 152200,
+    "type": 3,
+    "name": "Cloudhaze Cloak",
+    "desc": "Increases this ship's AA and AVI by 5.0% (15.0%), and max Detection Gauge by 15. Reduces the loading time of this ship's first Airstrike by 20.0% (50.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152200.png",
+    "max_level": 10
+  },
+  "152210": {
+    "id": 152210,
+    "type": 1,
+    "name": "Azure Lightning, Thunderous Roar",
+    "desc": "Increases this ship's Torpedo Crit Rate by 10.0% (30.0%). When this ship fires her Torpedoes: 15.0% (30.0%) chance to launch another wave of Torpedoes.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152210.png",
+    "max_level": 10
+  },
+  "152220": {
+    "id": 152220,
+    "type": 3,
+    "name": "Cloudsplitting Thunderclap",
+    "desc": "Increases this ship's TRP and EVA by 5.0% (15.0%). 15s after the start of battle, and every 20s afterwards: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); enemies hit by this barrage have their SPD reduced by 10.0% for 8s (this effect cannot be stacked).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152220.png",
+    "max_level": 10
+  },
+  "152230": {
+    "id": 152230,
+    "type": 3,
+    "name": "Dragon's Skyward Prayer",
+    "desc": "At the start of battle, this ship gains the following effects based on the number of Sakura Empire ships in the Vanguard:\n1) 1 or more: Increases this ship's FP and ACC by 5.0% (15.0%);\n2) 2 or more: Increases this ship's TRP by 5.0% (15.0%);\n3) 3 or more: Gains a barrier that can absorb up to 1.0% (5.0%) of this ship's Max HP, lasting for up to 15s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152230.png",
+    "max_level": 10
+  },
+  "152240": {
+    "id": 152240,
+    "type": 1,
+    "name": "O Lurking Thunder, Pierce the Skies",
+    "desc": "Every 20s: launches a Lv.1 (Lv.10) special torpedo barrage (DMG is based on the skill's level); enemies hit by this barrage take 12.0% more Torpedo DMG from allied Vanguard DDs and CLs for 5s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152240.png",
+    "max_level": 10
+  },
   "190000": {
     "id": 190000,
     "type": 3,
@@ -19101,6 +19149,54 @@
     "name": "Cinders of Hope - Regensburg II",
     "desc": "[Operation Siren]\nEvery 8 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 8.0%.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802140.png",
+    "max_level": 1
+  },
+  "802150": {
+    "id": 802150,
+    "type": 3,
+    "name": "Enemy Intel Research",
+    "desc": "10s after the battle starts and every 20s: decreases the EVA of all enemies on the field by 1.0% (10.0%) for 5s; when this effect activates, if this ship has an Fl-282 equipped: launches an Fl-282, revealing all submerged enemies and decreasing their EVA by 1.0% (10.0%) for 5s. Additionally, increases your SSs' and SSVs' DMG dealt by 10.0% (20.0%) and your Vanguard's ASW by 1.0% (10.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802150.png",
+    "max_level": 10
+  },
+  "802160": {
+    "id": 802160,
+    "type": 1,
+    "name": "Firepower Assessment",
+    "desc": "Every 20s: increases this ship's FP and ACC by 15.0% (30.0%) for 10s and fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); for every enemy hit by this barrage, increases this ship's FP and TRP by 5.0% (only counts 1 hit per enemy; can be stacked up to 3 times). When this barrage hits the same enemy again: increases that enemy's DMG taken from Köln META by 5.0% (can be stacked up to 3 times).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802160.png",
+    "max_level": 10
+  },
+  "802171": {
+    "id": 802171,
+    "type": 3,
+    "name": "Cinders of Hope - Köln I",
+    "desc": "Every 12 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802170.png",
+    "max_level": 1
+  },
+  "802172": {
+    "id": 802172,
+    "type": 3,
+    "name": "Cinders of Hope - Köln II",
+    "desc": "Every 8 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802170.png",
+    "max_level": 1
+  },
+  "802175": {
+    "id": 802175,
+    "type": 3,
+    "name": "Cinders of Hope - Köln I",
+    "desc": "[Operation Siren]\nEvery 12 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 2.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802170.png",
+    "max_level": 1
+  },
+  "802177": {
+    "id": 802177,
+    "type": 3,
+    "name": "Cinders of Hope - Köln II",
+    "desc": "[Operation Siren]\nEvery 8 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 6.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802170.png",
     "max_level": 1
   },
   "902220": {

@@ -98034,5 +98034,340 @@
         "anti_siren": 1
       }
     }
+  },
+  "151020": {
+    "name": "The Vagabond",
+    "desc": "A role tag not recorded in the system. The only way for Vagabonds to confirm each other's identity.",
+    "label": [
+      "DEV"
+    ],
+    "rarity": 5,
+    "nationality": 0,
+    "type": 10,
+    "skill": {
+      "[61040, 1]": null
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/151020.png",
+    "stats": {
+      "1": {
+        "id": 151020,
+        "level": 1,
+        "enhance": "+0",
+        "hit": 15,
+        "dodge": 6
+      },
+      "2": {
+        "id": 151021,
+        "level": 2,
+        "enhance": "+1",
+        "hit": 17,
+        "dodge": 6
+      },
+      "3": {
+        "id": 151022,
+        "level": 3,
+        "enhance": "+2",
+        "hit": 19,
+        "dodge": 7
+      },
+      "4": {
+        "id": 151023,
+        "level": 4,
+        "enhance": "+3",
+        "hit": 21,
+        "dodge": 8
+      },
+      "5": {
+        "id": 151024,
+        "level": 5,
+        "enhance": "+4",
+        "hit": 23,
+        "dodge": 9
+      },
+      "6": {
+        "id": 151025,
+        "level": 6,
+        "enhance": "+5",
+        "hit": 25,
+        "dodge": 10
+      },
+      "7": {
+        "id": 151026,
+        "level": 7,
+        "enhance": "+6",
+        "hit": 27,
+        "dodge": 11
+      },
+      "8": {
+        "id": 151027,
+        "level": 8,
+        "enhance": "+7",
+        "hit": 29,
+        "dodge": 12
+      },
+      "9": {
+        "id": 151028,
+        "level": 9,
+        "enhance": "+8",
+        "hit": 31,
+        "dodge": 13
+      },
+      "10": {
+        "id": 151029,
+        "level": 10,
+        "enhance": "+9",
+        "hit": 33,
+        "dodge": 14
+      },
+      "11": {
+        "id": 151030,
+        "level": 11,
+        "enhance": "+10",
+        "hit": 36,
+        "dodge": 15
+      },
+      "12": {
+        "id": 151031,
+        "level": 12,
+        "enhance": "+11",
+        "hit": 39,
+        "dodge": 16,
+        "anti_siren": 1
+      },
+      "13": {
+        "id": 151032,
+        "level": 13,
+        "enhance": "+12",
+        "hit": 42,
+        "dodge": 17,
+        "anti_siren": 2
+      },
+      "14": {
+        "id": 151033,
+        "level": 14,
+        "enhance": "+13",
+        "hit": 45,
+        "dodge": 18,
+        "anti_siren": 3
+      }
+    }
+  },
+  "151040": {
+    "name": "Systemwide Bounty",
+    "desc": "Upon stepping out into the open, those marked by the system will automatically have their position revealed to all pursuers.",
+    "label": [
+      "DEV"
+    ],
+    "rarity": 4,
+    "nationality": 0,
+    "type": 10,
+    "skill": {
+      "[61050, 1]": null
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/151040.png",
+    "stats": {
+      "1": {
+        "id": 151040,
+        "level": 1,
+        "enhance": "+0",
+        "durability": 140,
+        "speed": 1
+      },
+      "2": {
+        "id": 151041,
+        "level": 2,
+        "enhance": "+1",
+        "durability": 161,
+        "speed": 1
+      },
+      "3": {
+        "id": 151042,
+        "level": 3,
+        "enhance": "+2",
+        "durability": 182,
+        "speed": 1
+      },
+      "4": {
+        "id": 151043,
+        "level": 4,
+        "enhance": "+3",
+        "durability": 203,
+        "speed": 1
+      },
+      "5": {
+        "id": 151044,
+        "level": 5,
+        "enhance": "+4",
+        "durability": 224,
+        "speed": 2
+      },
+      "6": {
+        "id": 151045,
+        "level": 6,
+        "enhance": "+5",
+        "durability": 245,
+        "speed": 2
+      },
+      "7": {
+        "id": 151046,
+        "level": 7,
+        "enhance": "+6",
+        "durability": 266,
+        "speed": 2
+      },
+      "8": {
+        "id": 151047,
+        "level": 8,
+        "enhance": "+7",
+        "durability": 287,
+        "speed": 3
+      },
+      "9": {
+        "id": 151048,
+        "level": 9,
+        "enhance": "+8",
+        "durability": 308,
+        "speed": 3
+      },
+      "10": {
+        "id": 151049,
+        "level": 10,
+        "enhance": "+9",
+        "durability": 329,
+        "speed": 3
+      },
+      "11": {
+        "id": 151050,
+        "level": 11,
+        "enhance": "+10",
+        "durability": 350,
+        "speed": 3
+      },
+      "12": {
+        "id": 151051,
+        "level": 12,
+        "enhance": "+11",
+        "durability": 371,
+        "speed": 3,
+        "anti_siren": 1
+      }
+    }
+  },
+  "151060": {
+    "name": "Protocol Zero Key",
+    "desc": "A chip with the power to reset the virtual world. It is both your last resort and your final lifeline.",
+    "label": [
+      "DEV"
+    ],
+    "rarity": 5,
+    "nationality": 0,
+    "type": 10,
+    "skill": {
+      "[61060, 1]": null
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/151060.png",
+    "stats": {
+      "1": {
+        "id": 151060,
+        "level": 1,
+        "enhance": "+0",
+        "durability": 100,
+        "speed": 1
+      },
+      "2": {
+        "id": 151061,
+        "level": 2,
+        "enhance": "+1",
+        "durability": 130,
+        "speed": 1
+      },
+      "3": {
+        "id": 151062,
+        "level": 3,
+        "enhance": "+2",
+        "durability": 160,
+        "speed": 1
+      },
+      "4": {
+        "id": 151063,
+        "level": 4,
+        "enhance": "+3",
+        "durability": 190,
+        "speed": 1
+      },
+      "5": {
+        "id": 151064,
+        "level": 5,
+        "enhance": "+4",
+        "durability": 220,
+        "speed": 2
+      },
+      "6": {
+        "id": 151065,
+        "level": 6,
+        "enhance": "+5",
+        "durability": 250,
+        "speed": 2
+      },
+      "7": {
+        "id": 151066,
+        "level": 7,
+        "enhance": "+6",
+        "durability": 280,
+        "speed": 2
+      },
+      "8": {
+        "id": 151067,
+        "level": 8,
+        "enhance": "+7",
+        "durability": 310,
+        "speed": 3
+      },
+      "9": {
+        "id": 151068,
+        "level": 9,
+        "enhance": "+8",
+        "durability": 340,
+        "speed": 3
+      },
+      "10": {
+        "id": 151069,
+        "level": 10,
+        "enhance": "+9",
+        "durability": 370,
+        "speed": 3
+      },
+      "11": {
+        "id": 151070,
+        "level": 11,
+        "enhance": "+10",
+        "durability": 400,
+        "speed": 4
+      },
+      "12": {
+        "id": 151071,
+        "level": 12,
+        "enhance": "+11",
+        "durability": 424,
+        "speed": 4,
+        "anti_siren": 1
+      },
+      "13": {
+        "id": 151072,
+        "level": 13,
+        "enhance": "+12",
+        "durability": 448,
+        "speed": 4,
+        "anti_siren": 2
+      },
+      "14": {
+        "id": 151073,
+        "level": 14,
+        "enhance": "+13",
+        "durability": 472,
+        "speed": 4,
+        "anti_siren": 3
+      }
+    }
   }
 }
