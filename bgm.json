@@ -1439,6 +1439,14 @@
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/login-20250401us.ogg"
   },
+  "login-20260401us": {
+    "title": "26年美服愚人节-魔法☆启航",
+    "size": 2289949,
+    "duration": 108.59972789115646,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/login-20260401us.ogg"
+  },
   "login-jp-20230914": {
     "title": "日服6周年登陆界面主题曲",
     "size": 1975031,
