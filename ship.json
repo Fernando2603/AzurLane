@@ -110922,7 +110922,8 @@
     "class": "Type 1934A",
     "nationality": 4,
     "obtain": [
-      "Event: Operation Convergence"
+      "Event: Operation Convergence",
+      "Light ship Construction"
     ],
     "type": 1,
     "rarity": 4,
@@ -117812,7 +117813,8 @@
     "class": "Admiral Hipper Class",
     "nationality": 4,
     "obtain": [
-      "Event: Operation Convergence"
+      "Event: Operation Convergence",
+      "Heavy Ship Construction"
     ],
     "type": 3,
     "rarity": 5,
@@ -122083,7 +122085,8 @@
     "class": "O Class",
     "nationality": 4,
     "obtain": [
-      "Event: Operation Convergence"
+      "Event: Operation Convergence",
+      "Heavy Ship Construction"
     ],
     "type": 4,
     "rarity": 5,

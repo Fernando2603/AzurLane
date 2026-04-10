@@ -2880,8 +2880,8 @@
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-relax.ogg"
   },
   "story-richang-rosy-short": {
-    "title": "霑ｷ荵ｱ遘区律_AL",
-    "size": 1049709,
+    "title": "bgm-story-richang-rosy-short",
+    "size": 1049713,
     "duration": 53.19691609977324,
     "bitrate": 160.0,
     "sample_rate": 44100,
