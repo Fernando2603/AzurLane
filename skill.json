@@ -13015,6 +13015,150 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/106070.png",
     "max_level": 10
   },
+  "106370": {
+    "id": 106370,
+    "type": 2,
+    "name": "Handmade Bento",
+    "desc": "At the start of battle: increases the fleet's FP, AA, and EVA by 1.0% (10.0%) (this effect lasts until Shizuku's next Main Gun attack).\nWhenever Shizuku fires her Main Guns: increases the fleet's FP, AA, and EVA based on her Main Guns' reloading time (1.0% increase for every 4 (3)s spent reloading); this effect lasts until the next time this ship fires her Main Guns.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/106370.png",
+    "max_level": 10
+  },
+  "106380": {
+    "id": 106380,
+    "type": 1,
+    "name": "Foxy Cosplay",
+    "desc": "Increases this ship's FP by 1.0% (10.0%). Whenever this ship fires her Main Guns: 50.0% (80.0%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).\nEvery 10s during battle: restores 1.0% (2.0%) Max HP to the ally with the lowest current percentage of HP and another random ally.\nOnce per battle, when an ally falls below 20.0% Max HP as a result of DMG taken, restores 8.0% of Shizuku's Max HP to that ship. When this effect activates: this skill's special barrage is enhanced until the end of battle, increases this ship's FP by 5.0%, then immediately fires this barrage again.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/106380.png",
+    "max_level": 10
+  },
+  "106390": {
+    "id": 106390,
+    "type": 1,
+    "name": "Foxy Cosplay+",
+    "desc": "Increases this ship's FP by 1.0% (10.0%). Whenever this ship fires her Main Guns: 50.0% (100.0%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).\nEvery 10s during battle: restores 1.0% (2.0%) Max HP to the ally with the lowest current percentage of HP and another random ally; if the target of this restoration effect is under 33.0% Max HP, the amount restored is increased by 50.0%.\nOnce per battle, when an ally falls below 20.0% Max HP as a result of DMG taken, restores 8.0% of Shizuku's Max HP to that ship. When this effect activates: this skill's special barrage is enhanced until the end of battle, increases this ship's FP by 5.0%, then immediately fires this barrage again.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/106390.png",
+    "max_level": 10
+  },
+  "106410": {
+    "id": 106410,
+    "type": 1,
+    "name": "Neon Pink Burst",
+    "desc": "At the start of battle, increases this ship's FP and ACC by 4.0% (10.0%). Every 15s after the start of battle: 40.0% (70.0%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level), inflicting Armor Break on enemies hit.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/106410.png",
+    "max_level": 10
+  },
+  "106420": {
+    "id": 106420,
+    "type": 1,
+    "name": "Neon Pink Burst +",
+    "desc": "Increases this ship's Main Gun efficiency by 5.0% (15.0%). At the start of battle, increases this ship's FP and ACC by 4.0% (10.0%). Every 15s after the start of battle: 50.0% (100.0%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level), inflicting Armor Break on enemies hit. When an allied ship fires her AA guns for the first time each battle: immediately fires this barrage an additional time.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/106410.png",
+    "max_level": 10
+  },
+  "106430": {
+    "id": 106430,
+    "type": 2,
+    "name": "Supporting What You \"Love\"!",
+    "desc": "During battle, sends support to allies if certain conditions are met!\n1) When a ship in your Main Fleet readies a Salvo or an Airstrike: increases that ship's DMG dealt by 3.5% (8.0%) for 8s;\n2) When a ship in your Vanguard readies a Torpedo strike: increases that ship's Crit Rate by 1.0% (10.0%) for 8s;\n3) When a ship falls below 20.0% HP as a result of DMG taken: restores 1.0% (10.0%) Max HP to that ship.\nEach effect can only trigger once every 8s, up to a maximum of twice per battle. Each time this ship sends support: increases this ship's EVA by 5.0% and reduces her DMG taken by 5.0% for 8s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/106430.png",
+    "max_level": 10
+  },
+  "106450": {
+    "id": 106450,
+    "type": 1,
+    "name": "Greetings From Below",
+    "desc": "At the start of battle: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level), reducing the SPD of enemies hit by 20.0% for 8s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/106450.png",
+    "max_level": 10
+  },
+  "106460": {
+    "id": 106460,
+    "type": 1,
+    "name": "Greetings From Below+",
+    "desc": "At the start of battle: fires a Lv.1 (Lv.10) special barrage (improved; DMG is based on the skill's level), reducing the SPD of enemies hit by 20.0% and increasing the DMG they take from Venus Vacation ships by 3.5% (8.0%) for 8s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/106450.png",
+    "max_level": 10
+  },
+  "106470": {
+    "id": 106470,
+    "type": 1,
+    "name": "Keen Danger Senses",
+    "desc": "Increases this boat's OXY by 2 (20). When this boat surfaces: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level), reducing the DMG dealt by enemies hit by 8.0% for 10s. While retreating: increases this boat's SPD by 50.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/106470.png",
+    "max_level": 10
+  },
+  "106490": {
+    "id": 106490,
+    "type": 3,
+    "name": "Elise's Tactical Guidance",
+    "desc": "Every 10s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). During battle, when another allied Main Fleet ship finishes loading a Salvo or an Airstrike: increases that ship's and Elise's DMG dealt by 1.0% (5.0%) for 8s; Furthermore, applies an additional effect based on the type of allied ship triggering this effect:\nBB, BC, or BBV: increases that ship's FP by 1.0% (10.0%) for 8s;\nCV, CVL, or BBV: increases that ship's AVI by 1.0% (10.0%) for 8s.\nThe status boost and DMG boost effects of this skill cannot be stacked.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/106490.png",
+    "max_level": 10
+  },
+  "106500": {
+    "id": 106500,
+    "type": 1,
+    "name": "Instructor's Duty",
+    "desc": "At the start of battle, if there are two or more Venus Vacation ships in the same fleet: increases this ship's Aircraft efficiency by 5.0%. Whenever this ship launches an airstrike: launches an additional Lv.1 (Lv.10) special airstrike (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/106500.png",
+    "max_level": 10
+  },
+  "106510": {
+    "id": 106510,
+    "type": 1,
+    "name": "Instructor's Duty+",
+    "desc": "Increases this ship's AVI by 1.0% (10.0%). At the start of battle, if there are 2 or more Venus Vacation ships in the same fleet: increases this ship's Aircraft efficiency by 5.0%.\nWhenever this ship launches an airstrike: launches an additional Lv.1 (Lv.10) special airstrike (improved; DMG is based on the skill's level); if this is Elise's first airstrike during this battle: reduces the loading time of Venus Vacation CVs and CVLs' next airstrike by 20.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/106500.png",
+    "max_level": 10
+  },
+  "106530": {
+    "id": 106530,
+    "type": 3,
+    "name": "Dreamy Mixology",
+    "desc": "At the start of battle and every 20s after that: performs a feat of mixology and applies [Venus Concoction] to 2 random Vanguard allies. The possible effects are:\n1) [Golden Venus Concoction]: Increases this ship's ACC and RLD by 10.0% (20.0%) for 20s;\n2) [Crimson Venus Concoction]: Increases this ship's Crit Rate and Crit DMG by 10.0% (20.0%) for 20s;\n3) [Verdant Venus Concoction]: Increases this ship's EVA by 1.0% (10.0%) and reduces this ship's DMG taken by 1.0% (10.0%) for 20s;\n4) [Cosmopolitan]: Grants the effects of all of the above [Venus Concoctions].",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/106530.png",
+    "max_level": 10
+  },
+  "106540": {
+    "id": 106540,
+    "type": 1,
+    "name": "Flawless Focus",
+    "desc": "Increases this ship's FP and TRP by 1.0% (10.0%). Every 20s: randomly targets one enemy, reducing its SPD by 10.0% for 16s; while there is a targeted enemy on the field: every 3s, performs a Lv.1 (Lv.10) special attack at that enemy, which ignores shields (DMG is based on the skill's level); every 6 times this ship fires her Main Guns: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/106540.png",
+    "max_level": 10
+  },
+  "106550": {
+    "id": 106550,
+    "type": 1,
+    "name": "Flawless Focus+",
+    "desc": "Increases this ship's FP and TRP by 10.0% (20.0%). Every 20s: randomly targets one enemy (prioritizing humanoid enemies), reducing its SPD by 10.0% for 16s; while there is a targeted enemy on the field: every 3s, performs a Lv.1 (Lv.10) special attack at that enemy, which ignores shields (DMG is based on the skill's level); every 4 times this ship fires her Main Guns: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/106540.png",
+    "max_level": 10
+  },
+  "106570": {
+    "id": 106570,
+    "type": 1,
+    "name": "Impactful Composition",
+    "desc": "At the start of battle, increases this ship's FP and TRP by 5.0% (15.0%). For each Venus Vacation ship in the fleet (up to a maximum of 3): increases this ship's ACC and RLD by 1.0% (5.0%). Every 20s during battle: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); enemies hit by this barrage take 5.0% increased DMG from Tsukushi (cannot be stacked).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/106570.png",
+    "max_level": 10
+  },
+  "106580": {
+    "id": 106580,
+    "type": 1,
+    "name": "Impactful Composition+",
+    "desc": "At the start of battle, increases this ship's FP and TRP by 5.0% (15.0%). For each Venus Vacation ship in the fleet (up to a maximum of 3): increases this ship's ACC and RLD by 1.0% (5.0%). Every 20s during battle: fires an enhanced Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); enemies hit by this barrage take 10.0% increased DMG from Tsukushi (cannot be stacked).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/106570.png",
+    "max_level": 10
+  },
+  "106590": {
+    "id": 106590,
+    "type": 2,
+    "name": "Homebody's Leisure Time",
+    "desc": "At the start of battle, increases this ship's EVA by 5.0% (15.0%) and generates a barrier that lasts until the end of battle; this barrier can absorb up to 3.5% (8.0%) of this ship's Max HP. When this barrier is broken: restores 1.0% (5.0%) Max HP to this ship and reduces DMG taken by 5.0% until the end of battle.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/106590.png",
+    "max_level": 10
+  },
   "107010": {
     "id": 107010,
     "type": 1,

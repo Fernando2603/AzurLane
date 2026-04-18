@@ -975,6 +975,54 @@
     "sample_rate": 22050,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/diego.ogg"
   },
+  "doa-az-pv-1": {
+    "title": "假日航线~启航~_PV",
+    "size": 1143478,
+    "duration": 58.794666666666664,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/doa-az-pv-1.ogg"
+  },
+  "doa-az-story-1": {
+    "title": "闪耀海滨漫步曲_AL",
+    "size": 1927133,
+    "duration": 93.824,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/doa-az-story-1.ogg"
+  },
+  "doa-song-day03": {
+    "title": "2_When I Think About You（bgm_home_day03_doaxvv）",
+    "size": 3873466,
+    "duration": 186.83733333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/doa-song-day03.ogg"
+  },
+  "doa-song-day05": {
+    "title": "6_Put Me On Top（bgm_home_day05_doaxvv）",
+    "size": 4787803,
+    "duration": 236.88533333333334,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/doa-song-day05.ogg"
+  },
+  "doa-song-night03": {
+    "title": "9_Eye To Eye（bgm_act_night03_doaxvv）",
+    "size": 4503441,
+    "duration": 214.86933333333334,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/doa-song-night03.ogg"
+  },
+  "doa-song-night06": {
+    "title": "3_Suddenly（bgm_home_night06_doaxvv）",
+    "size": 3949863,
+    "duration": 195.54133333333334,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/doa-song-night06.ogg"
+  },
   "doa_boss": {
     "title": "bgm_doa_boss",
     "size": 4417372,

@@ -98369,5 +98369,342 @@
         "anti_siren": 3
       }
     }
+  },
+  "151080": {
+    "name": "Electrifying Deco-Pen",
+    "desc": "Put your feelings down onto the photocard and let the beach's melody change to your color!",
+    "label": [
+      "DEV"
+    ],
+    "rarity": 5,
+    "nationality": 106,
+    "type": 10,
+    "skill": {
+      "[61070, 1]": null
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/151080.png",
+    "stats": {
+      "1": {
+        "id": 151080,
+        "level": 1,
+        "enhance": "+0",
+        "durability": 250
+      },
+      "2": {
+        "id": 151081,
+        "level": 2,
+        "enhance": "+1",
+        "durability": 280
+      },
+      "3": {
+        "id": 151082,
+        "level": 3,
+        "enhance": "+2",
+        "durability": 310
+      },
+      "4": {
+        "id": 151083,
+        "level": 4,
+        "enhance": "+3",
+        "durability": 340
+      },
+      "5": {
+        "id": 151084,
+        "level": 5,
+        "enhance": "+4",
+        "durability": 370
+      },
+      "6": {
+        "id": 151085,
+        "level": 6,
+        "enhance": "+5",
+        "durability": 400
+      },
+      "7": {
+        "id": 151086,
+        "level": 7,
+        "enhance": "+6",
+        "durability": 430
+      },
+      "8": {
+        "id": 151087,
+        "level": 8,
+        "enhance": "+7",
+        "durability": 460
+      },
+      "9": {
+        "id": 151088,
+        "level": 9,
+        "enhance": "+8",
+        "durability": 490
+      },
+      "10": {
+        "id": 151089,
+        "level": 10,
+        "enhance": "+9",
+        "durability": 520
+      },
+      "11": {
+        "id": 151090,
+        "level": 11,
+        "enhance": "+10",
+        "durability": 550
+      },
+      "12": {
+        "id": 151091,
+        "level": 12,
+        "enhance": "+11",
+        "durability": 580,
+        "anti_siren": 1
+      },
+      "13": {
+        "id": 151092,
+        "level": 13,
+        "enhance": "+12",
+        "durability": 610,
+        "anti_siren": 2
+      },
+      "14": {
+        "id": 151093,
+        "level": 14,
+        "enhance": "+13",
+        "durability": 640,
+        "anti_siren": 3
+      }
+    }
+  },
+  "151100": {
+    "name": "Gravure Photocard",
+    "desc": "The secret to being a fan is to make sure that you're ready to record every key moment!",
+    "label": [
+      "DEV"
+    ],
+    "rarity": 5,
+    "nationality": 106,
+    "type": 10,
+    "skill": {
+      "[61080, 1]": null
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/151100.png",
+    "stats": {
+      "1": {
+        "id": 151100,
+        "level": 1,
+        "enhance": "+0",
+        "antiaircraft": 14,
+        "hit": 15
+      },
+      "2": {
+        "id": 151101,
+        "level": 2,
+        "enhance": "+1",
+        "antiaircraft": 16,
+        "hit": 16
+      },
+      "3": {
+        "id": 151102,
+        "level": 3,
+        "enhance": "+2",
+        "antiaircraft": 18,
+        "hit": 17
+      },
+      "4": {
+        "id": 151103,
+        "level": 4,
+        "enhance": "+3",
+        "antiaircraft": 20,
+        "hit": 18
+      },
+      "5": {
+        "id": 151104,
+        "level": 5,
+        "enhance": "+4",
+        "antiaircraft": 22,
+        "hit": 19
+      },
+      "6": {
+        "id": 151105,
+        "level": 6,
+        "enhance": "+5",
+        "antiaircraft": 24,
+        "hit": 20
+      },
+      "7": {
+        "id": 151106,
+        "level": 7,
+        "enhance": "+6",
+        "antiaircraft": 26,
+        "hit": 22
+      },
+      "8": {
+        "id": 151107,
+        "level": 8,
+        "enhance": "+7",
+        "antiaircraft": 28,
+        "hit": 24
+      },
+      "9": {
+        "id": 151108,
+        "level": 9,
+        "enhance": "+8",
+        "antiaircraft": 30,
+        "hit": 26
+      },
+      "10": {
+        "id": 151109,
+        "level": 10,
+        "enhance": "+9",
+        "antiaircraft": 32,
+        "hit": 28
+      },
+      "11": {
+        "id": 151110,
+        "level": 11,
+        "enhance": "+10",
+        "antiaircraft": 35,
+        "hit": 30
+      },
+      "12": {
+        "id": 151111,
+        "level": 12,
+        "enhance": "+11",
+        "antiaircraft": 38,
+        "hit": 32,
+        "anti_siren": 1
+      },
+      "13": {
+        "id": 151112,
+        "level": 13,
+        "enhance": "+12",
+        "antiaircraft": 41,
+        "hit": 34,
+        "anti_siren": 2
+      },
+      "14": {
+        "id": 151113,
+        "level": 14,
+        "enhance": "+13",
+        "antiaircraft": 44,
+        "hit": 36,
+        "anti_siren": 3
+      }
+    }
+  },
+  "151120": {
+    "name": "Clover of Happiness",
+    "desc": "Hold it in your hands, and good fortune might just come your way!",
+    "label": [
+      "DEV"
+    ],
+    "rarity": 5,
+    "nationality": 106,
+    "type": 10,
+    "skill": {
+      "[61090, 1]": null
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/151120.png",
+    "stats": {
+      "1": {
+        "id": 151120,
+        "level": 1,
+        "enhance": "+0",
+        "durability": 200,
+        "luck": 1
+      },
+      "2": {
+        "id": 151121,
+        "level": 2,
+        "enhance": "+1",
+        "durability": 230,
+        "luck": 1
+      },
+      "3": {
+        "id": 151122,
+        "level": 3,
+        "enhance": "+2",
+        "durability": 260,
+        "luck": 1
+      },
+      "4": {
+        "id": 151123,
+        "level": 4,
+        "enhance": "+3",
+        "durability": 290,
+        "luck": 1
+      },
+      "5": {
+        "id": 151124,
+        "level": 5,
+        "enhance": "+4",
+        "durability": 320,
+        "luck": 1
+      },
+      "6": {
+        "id": 151125,
+        "level": 6,
+        "enhance": "+5",
+        "durability": 350,
+        "luck": 1
+      },
+      "7": {
+        "id": 151126,
+        "level": 7,
+        "enhance": "+6",
+        "durability": 380,
+        "luck": 1
+      },
+      "8": {
+        "id": 151127,
+        "level": 8,
+        "enhance": "+7",
+        "durability": 410,
+        "luck": 1
+      },
+      "9": {
+        "id": 151128,
+        "level": 9,
+        "enhance": "+8",
+        "durability": 440,
+        "luck": 1
+      },
+      "10": {
+        "id": 151129,
+        "level": 10,
+        "enhance": "+9",
+        "durability": 470,
+        "luck": 1
+      },
+      "11": {
+        "id": 151130,
+        "level": 11,
+        "enhance": "+10",
+        "durability": 500,
+        "luck": 2
+      },
+      "12": {
+        "id": 151131,
+        "level": 12,
+        "enhance": "+11",
+        "durability": 530,
+        "luck": 2,
+        "anti_siren": 1
+      },
+      "13": {
+        "id": 151132,
+        "level": 13,
+        "enhance": "+12",
+        "durability": 560,
+        "luck": 2,
+        "anti_siren": 2
+      },
+      "14": {
+        "id": 151133,
+        "level": 14,
+        "enhance": "+13",
+        "durability": 590,
+        "luck": 2,
+        "anti_siren": 3
+      }
+    }
   }
 }
