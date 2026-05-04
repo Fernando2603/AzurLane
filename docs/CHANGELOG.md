@@ -1,3 +1,9 @@
+## Patch 5.0.3
+<details>
+  <summary>04 May 2026</summary>
+  - fix actions failed to run because lua failed to parse.
+</details>
+
 ## Patch 5.0.2
 <details>
   <summary>03 June 2025</summary>
