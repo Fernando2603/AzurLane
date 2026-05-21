@@ -351,6 +351,14 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-hightech.ogg"
   },
+  "battle-hrr": {
+    "title": "蝨｣蜊ｰ蜷檎屐蜀媽AL",
+    "size": 1749759,
+    "duration": 93.184,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-hrr.ogg"
+  },
   "battle-inthememory": {
     "title": "battle in the memory",
     "size": 1901593,
@@ -574,6 +582,14 @@
     "bitrate": 160.0,
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-thedevilxv-control.ogg"
+  },
+  "battle-theemperoriv-question": {
+    "title": "皇帝质询_Eden",
+    "size": 1845490,
+    "duration": 93.01333333333334,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-theemperoriv-question.ogg"
   },
   "battle-thehierophantv": {
     "title": "Call me Hierophant_shade",
@@ -2567,6 +2583,22 @@
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-hospital-light.ogg"
   },
+  "story-hrr": {
+    "title": "皇冠之重_AL",
+    "size": 1599151,
+    "duration": 90.688,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-hrr.ogg"
+  },
+  "story-hrr-pv": {
+    "title": "未分晨昏的启明星_PV",
+    "size": 1012001,
+    "duration": 50.70933333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-hrr-pv.ogg"
+  },
   "story-ironblood-light": {
     "title": "理性与秩序之国_AL",
     "size": 2253370,
@@ -2935,6 +2967,14 @@
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-rosy-short.ogg"
   },
+  "story-richang-softlight": {
+    "title": "豬ｮ驥第囑譴ｦ_PV",
+    "size": 1089369,
+    "duration": 59.242666666666665,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-softlight.ogg"
+  },
   "story-richang-sooth": {
     "title": "BZM_29",
     "size": 1195505,
@@ -2942,6 +2982,14 @@
     "bitrate": 160.0,
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-sooth.ogg"
+  },
+  "story-richang-wavelight": {
+    "title": "悠然一夏_PV",
+    "size": 1093250,
+    "duration": 52.586666666666666,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-wavelight.ogg"
   },
   "story-richang-westdaily": {
     "title": "鄒取恪蜈ｭ蜻ｨ蟷ｴ荳ｻ鬚俶峇_90sINST_EN",
@@ -3487,6 +3535,14 @@
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-glorious-meta.ogg"
   },
+  "theme-goldensea": {
+    "title": "奢华！享梦！浮金湾_AL",
+    "size": 2211607,
+    "duration": 96.02133333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-goldensea.ogg"
+  },
   "theme-haitian-soft-loop": {
     "title": "荳晁ｷｯ蠑･髻ｳ_Y_loop",
     "size": 2912507,
@@ -3526,6 +3582,14 @@
     "bitrate": 160.0,
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-hospital-deep.ogg"
+  },
+  "theme-hrr": {
+    "title": "逾槫悒閨泌粋蟶晏嵜荵玖ｯ誉AL",
+    "size": 1840043,
+    "duration": 100.01066666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-hrr.ogg"
   },
   "theme-ijndailymeeting": {
     "title": "05_鮮やかな権謀術数",
