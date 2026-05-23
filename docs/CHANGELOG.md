@@ -1,5 +1,13 @@
 ## Patch 5.0.3
 <details>
+  <summary>22 May 2026</summary>
+
+  - move dependency from `AzurLaneTools/AzurLaneData` to `AzurLaneTools\AzurLaneLuaScripts`
+  **Note**: removing `AzurLaneTools` dependency is in planning phase, extracting `sharecfgdata` probably is the hardest part of this, since i dont have any device to dump game data and opcodes is hard, probably extracting sharecfgdata via key matching is the easiest way to do this.
+</details>
+
+## Patch 5.0.3
+<details>
   <summary>04 May 2026</summary>
   - fix actions failed to run because lua failed to parse.
 </details>
