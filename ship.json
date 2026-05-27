@@ -29196,8 +29196,8 @@
       "bonus": {
         "health": 240,
         "reload": 5,
-        "equipment_proficiency_2": 0.15,
         "equipment_proficiency_1": 0.15,
+        "equipment_proficiency_2": 0.15,
         "aviation": 60,
         "equipment_proficiency_3": 0.05,
         "antiair": 35
@@ -29680,8 +29680,8 @@
         "reload": 20,
         "equipment_proficiency_1": 0.05,
         "antiair": 50,
-        "equipment_proficiency_2": 0.1,
         "equipment_proficiency_3": 0.1,
+        "equipment_proficiency_2": 0.1,
         "aviation": 45
       },
       "skill": 7412,
@@ -62069,8 +62069,8 @@
       "bonus": {
         "health": 210,
         "aviation": 20,
-        "equipment_proficiency_2": 0.1,
         "equipment_proficiency_1": 0.1,
+        "equipment_proficiency_2": 0.1,
         "reload": 20,
         "equipment_proficiency_3": 0.05,
         "antiair": 50
@@ -64230,8 +64230,8 @@
         "reload": 15,
         "equipment_proficiency_3": 0.15,
         "antiair": 50,
-        "equipment_proficiency_2": 0.03,
         "equipment_proficiency_1": 0.03,
+        "equipment_proficiency_2": 0.03,
         "aviation": 35,
         "accuracy": 5
       },
@@ -84460,8 +84460,8 @@
         "torpedo": 10,
         "equipment_proficiency_1": 0.15,
         "firepower": 30,
-        "antiair": 25,
-        "accuracy": 20
+        "accuracy": 20,
+        "antiair": 25
       },
       "skill": 17912,
       "skin": 302019,
@@ -136340,8 +136340,8 @@
       "bonus": {
         "health": 240,
         "reload": 5,
-        "equipment_proficiency_2": 0.15,
         "equipment_proficiency_1": 0.15,
+        "equipment_proficiency_2": 0.15,
         "firepower": 55,
         "equipment_proficiency_3": 0.05,
         "antiair": 35,

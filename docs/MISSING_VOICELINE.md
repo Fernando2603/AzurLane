@@ -51,39 +51,39 @@
 | 45 | 20301 | London | 203010 | London | Default | couple_encourage2 |
 | 46 | 20301 | London | 203010 | London | Default | couple_encourage3 |
 | 47 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | feeling5 |
-| 48 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | touch2 |
-| 49 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | battle |
-| 50 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | main1 |
-| 51 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | main2 |
-| 52 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | main3 |
-| 53 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | unlock |
-| 54 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | mail |
-| 55 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | expedition |
-| 56 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | login |
-| 57 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | home |
-| 58 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | detail |
-| 59 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | touch |
+| 48 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | touch |
+| 49 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | mail |
+| 50 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | login |
+| 51 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | touch2 |
+| 52 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | detail |
+| 53 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | battle |
+| 54 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | unlock |
+| 55 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | home |
+| 56 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | main1 |
+| 57 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | main2 |
+| 58 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | main3 |
+| 59 | 20401 | Renown | 204011 | Graceful Royal Pride | Empery'S Fineries | expedition |
 | 60 | 20403 | Hood | 204035 | Elegance Meant for One | Party Dress | feeling5 |
-| 61 | 20403 | Hood | 204035 | Elegance Meant for One | Party Dress | touch2 |
-| 62 | 20403 | Hood | 204035 | Elegance Meant for One | Party Dress | main1 |
-| 63 | 20403 | Hood | 204035 | Elegance Meant for One | Party Dress | main2 |
-| 64 | 20403 | Hood | 204035 | Elegance Meant for One | Party Dress | main3 |
+| 61 | 20403 | Hood | 204035 | Elegance Meant for One | Party Dress | touch |
+| 62 | 20403 | Hood | 204035 | Elegance Meant for One | Party Dress | login |
+| 63 | 20403 | Hood | 204035 | Elegance Meant for One | Party Dress | touch2 |
+| 64 | 20403 | Hood | 204035 | Elegance Meant for One | Party Dress | detail |
 | 65 | 20403 | Hood | 204035 | Elegance Meant for One | Party Dress | unlock |
-| 66 | 20403 | Hood | 204035 | Elegance Meant for One | Party Dress | login |
-| 67 | 20403 | Hood | 204035 | Elegance Meant for One | Party Dress | home |
-| 68 | 20403 | Hood | 204035 | Elegance Meant for One | Party Dress | detail |
-| 69 | 20403 | Hood | 204035 | Elegance Meant for One | Party Dress | touch |
+| 66 | 20403 | Hood | 204035 | Elegance Meant for One | Party Dress | home |
+| 67 | 20403 | Hood | 204035 | Elegance Meant for One | Party Dress | main1 |
+| 68 | 20403 | Hood | 204035 | Elegance Meant for One | Party Dress | main2 |
+| 69 | 20403 | Hood | 204035 | Elegance Meant for One | Party Dress | main3 |
 | 70 | 20403 | Hood | 204030 | Hood | Default | headtouch |
-| 71 | 20403 | Hood | 204030 | Hood | Default | headtouch_ex |
-| 72 | 20403 | Hood | 204030 | Hood | Default | main4_ex |
-| 73 | 20403 | Hood | 204030 | Hood | Default | main5_ex |
-| 74 | 20403 | Hood | 204030 | Hood | Default | main6_ex |
+| 71 | 20403 | Hood | 204030 | Hood | Default | main4_ex |
+| 72 | 20403 | Hood | 204030 | Hood | Default | main5_ex |
+| 73 | 20403 | Hood | 204030 | Hood | Default | main6_ex |
+| 74 | 20403 | Hood | 204030 | Hood | Default | touch2_ex |
 | 75 | 20403 | Hood | 204030 | Hood | Default | feeling5_ex |
-| 76 | 20403 | Hood | 204030 | Hood | Default | touch2_ex |
-| 77 | 20403 | Hood | 204030 | Hood | Default | touch_ex |
-| 78 | 20403 | Hood | 204030 | Hood | Default | detail_ex |
-| 79 | 20403 | Hood | 204030 | Hood | Default | home_ex |
-| 80 | 20403 | Hood | 204030 | Hood | Default | login_ex |
+| 76 | 20403 | Hood | 204030 | Hood | Default | touch_ex |
+| 77 | 20403 | Hood | 204030 | Hood | Default | detail_ex |
+| 78 | 20403 | Hood | 204030 | Hood | Default | login_ex |
+| 79 | 20403 | Hood | 204030 | Hood | Default | headtouch_ex |
+| 80 | 20403 | Hood | 204030 | Hood | Default | home_ex |
 | 81 | 20503 | Nelson | 205030 | Nelson | Default | couple_encourage3 |
 | 82 | 20703 | Illustrious | 207030 | Illustrious | Default | couple_encourage2 |
 | 83 | 21301 | Erebus | 213010 | Erebus | Default | couple_encourage4 |
@@ -102,45 +102,45 @@
 | 96 | 30302 | Kako | 303029 | Kako (Retrofit) | Retrofit | main1 |
 | 97 | 30307 | Myoukou | 303070 | Myoukou | Default | headtouch |
 | 98 | 30312 | Atago | 303125 | Full Moon's Feral Wolf | Halloween | feeling5 |
-| 99 | 30312 | Atago | 303125 | Full Moon's Feral Wolf | Halloween | touch2 |
-| 100 | 30312 | Atago | 303125 | Full Moon's Feral Wolf | Halloween | main1 |
-| 101 | 30312 | Atago | 303125 | Full Moon's Feral Wolf | Halloween | main2 |
-| 102 | 30312 | Atago | 303125 | Full Moon's Feral Wolf | Halloween | main3 |
-| 103 | 30312 | Atago | 303125 | Full Moon's Feral Wolf | Halloween | unlock |
-| 104 | 30312 | Atago | 303125 | Full Moon's Feral Wolf | Halloween | login |
-| 105 | 30312 | Atago | 303125 | Full Moon's Feral Wolf | Halloween | headtouch |
-| 106 | 30312 | Atago | 303125 | Full Moon's Feral Wolf | Halloween | home |
-| 107 | 30312 | Atago | 303125 | Full Moon's Feral Wolf | Halloween | touch |
+| 99 | 30312 | Atago | 303125 | Full Moon's Feral Wolf | Halloween | touch |
+| 100 | 30312 | Atago | 303125 | Full Moon's Feral Wolf | Halloween | login |
+| 101 | 30312 | Atago | 303125 | Full Moon's Feral Wolf | Halloween | touch2 |
+| 102 | 30312 | Atago | 303125 | Full Moon's Feral Wolf | Halloween | unlock |
+| 103 | 30312 | Atago | 303125 | Full Moon's Feral Wolf | Halloween | headtouch |
+| 104 | 30312 | Atago | 303125 | Full Moon's Feral Wolf | Halloween | home |
+| 105 | 30312 | Atago | 303125 | Full Moon's Feral Wolf | Halloween | main1 |
+| 106 | 30312 | Atago | 303125 | Full Moon's Feral Wolf | Halloween | main2 |
+| 107 | 30312 | Atago | 303125 | Full Moon's Feral Wolf | Halloween | main3 |
 | 108 | 30317 | Suzuya | 303172 | Midnight Care | Hospital Series | feeling5 |
-| 109 | 30317 | Suzuya | 303172 | Midnight Care | Hospital Series | touch2 |
-| 110 | 30317 | Suzuya | 303172 | Midnight Care | Hospital Series | mission_complete |
-| 111 | 30317 | Suzuya | 303172 | Midnight Care | Hospital Series | main1 |
-| 112 | 30317 | Suzuya | 303172 | Midnight Care | Hospital Series | main2 |
-| 113 | 30317 | Suzuya | 303172 | Midnight Care | Hospital Series | main3 |
+| 109 | 30317 | Suzuya | 303172 | Midnight Care | Hospital Series | touch |
+| 110 | 30317 | Suzuya | 303172 | Midnight Care | Hospital Series | mail |
+| 111 | 30317 | Suzuya | 303172 | Midnight Care | Hospital Series | login |
+| 112 | 30317 | Suzuya | 303172 | Midnight Care | Hospital Series | touch2 |
+| 113 | 30317 | Suzuya | 303172 | Midnight Care | Hospital Series | detail |
 | 114 | 30317 | Suzuya | 303172 | Midnight Care | Hospital Series | unlock |
-| 115 | 30317 | Suzuya | 303172 | Midnight Care | Hospital Series | mail |
+| 115 | 30317 | Suzuya | 303172 | Midnight Care | Hospital Series | headtouch |
 | 116 | 30317 | Suzuya | 303172 | Midnight Care | Hospital Series | mission |
-| 117 | 30317 | Suzuya | 303172 | Midnight Care | Hospital Series | expedition |
-| 118 | 30317 | Suzuya | 303172 | Midnight Care | Hospital Series | login |
-| 119 | 30317 | Suzuya | 303172 | Midnight Care | Hospital Series | headtouch |
-| 120 | 30317 | Suzuya | 303172 | Midnight Care | Hospital Series | home |
-| 121 | 30317 | Suzuya | 303172 | Midnight Care | Hospital Series | detail |
-| 122 | 30317 | Suzuya | 303172 | Midnight Care | Hospital Series | touch |
+| 117 | 30317 | Suzuya | 303172 | Midnight Care | Hospital Series | home |
+| 118 | 30317 | Suzuya | 303172 | Midnight Care | Hospital Series | mission_complete |
+| 119 | 30317 | Suzuya | 303172 | Midnight Care | Hospital Series | main1 |
+| 120 | 30317 | Suzuya | 303172 | Midnight Care | Hospital Series | main2 |
+| 121 | 30317 | Suzuya | 303172 | Midnight Care | Hospital Series | main3 |
+| 122 | 30317 | Suzuya | 303172 | Midnight Care | Hospital Series | expedition |
 | 123 | 30701 | Akagi | 307012 | Plum and Snow | New Year Kimono | main2 |
 | 124 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | win_mvp |
 | 125 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | feeling5 |
-| 126 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | touch2 |
-| 127 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | lose |
-| 128 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | battle |
-| 129 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | main1 |
-| 130 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | main2 |
-| 131 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | main3 |
+| 126 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | lose |
+| 127 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | touch |
+| 128 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | login |
+| 129 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | touch2 |
+| 130 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | detail |
+| 131 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | battle |
 | 132 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | unlock |
-| 133 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | expedition |
-| 134 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | login |
-| 135 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | home |
-| 136 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | detail |
-| 137 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | touch |
+| 133 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | home |
+| 134 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | main1 |
+| 135 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | main2 |
+| 136 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | main3 |
+| 137 | 30702 | Kaga | 307026 | Snowsilk Fox Dance | Others | expedition |
 | 138 | 30705 | Shoukaku | 307050 | Shoukaku | Default | couple_encourage3 |
 | 139 | 30707 | Taihou | 307073 | Enraptured Companion | Race Queen | couple_encourage1 |
 | 140 | 30802 | I-26 | 308022 | Shortly Before the Fireworks | Summer Fest | touch |
@@ -154,63 +154,63 @@
 | 148 | 40502 | Tirpitz | 405020 | Tirpitz | Default | main4_ex |
 | 149 | 40502 | Tirpitz | 405020 | Tirpitz | Default | main5_ex |
 | 150 | 40502 | Tirpitz | 405020 | Tirpitz | Default | main6_ex |
-| 151 | 40502 | Tirpitz | 405020 | Tirpitz | Default | feeling5_ex |
-| 152 | 40502 | Tirpitz | 405020 | Tirpitz | Default | touch2_ex |
+| 151 | 40502 | Tirpitz | 405020 | Tirpitz | Default | touch2_ex |
+| 152 | 40502 | Tirpitz | 405020 | Tirpitz | Default | feeling5_ex |
 | 153 | 40502 | Tirpitz | 405020 | Tirpitz | Default | touch_ex |
 | 154 | 40502 | Tirpitz | 405020 | Tirpitz | Default | login_ex |
 | 155 | 40502 | Tirpitz | 405025 | Pit Stop Standby | Race Queen | win_mvp |
 | 156 | 40502 | Tirpitz | 405025 | Pit Stop Standby | Race Queen | feeling5 |
-| 157 | 40502 | Tirpitz | 405025 | Pit Stop Standby | Race Queen | touch2 |
-| 158 | 40502 | Tirpitz | 405025 | Pit Stop Standby | Race Queen | main1 |
-| 159 | 40502 | Tirpitz | 405025 | Pit Stop Standby | Race Queen | main2 |
-| 160 | 40502 | Tirpitz | 405025 | Pit Stop Standby | Race Queen | main3 |
+| 157 | 40502 | Tirpitz | 405025 | Pit Stop Standby | Race Queen | touch |
+| 158 | 40502 | Tirpitz | 405025 | Pit Stop Standby | Race Queen | login |
+| 159 | 40502 | Tirpitz | 405025 | Pit Stop Standby | Race Queen | touch2 |
+| 160 | 40502 | Tirpitz | 405025 | Pit Stop Standby | Race Queen | detail |
 | 161 | 40502 | Tirpitz | 405025 | Pit Stop Standby | Race Queen | unlock |
-| 162 | 40502 | Tirpitz | 405025 | Pit Stop Standby | Race Queen | login |
-| 163 | 40502 | Tirpitz | 405025 | Pit Stop Standby | Race Queen | home |
-| 164 | 40502 | Tirpitz | 405025 | Pit Stop Standby | Race Queen | detail |
-| 165 | 40502 | Tirpitz | 405025 | Pit Stop Standby | Race Queen | touch |
+| 162 | 40502 | Tirpitz | 405025 | Pit Stop Standby | Race Queen | home |
+| 163 | 40502 | Tirpitz | 405025 | Pit Stop Standby | Race Queen | main1 |
+| 164 | 40502 | Tirpitz | 405025 | Pit Stop Standby | Race Queen | main2 |
+| 165 | 40502 | Tirpitz | 405025 | Pit Stop Standby | Race Queen | main3 |
 | 166 | 40701 | Graf Zeppelin | 407010 | Graf Zeppelin | Default | headtouch |
-| 167 | 40701 | Graf Zeppelin | 407010 | Graf Zeppelin | Default | headtouch_ex |
-| 168 | 40701 | Graf Zeppelin | 407010 | Graf Zeppelin | Default | main4_ex |
-| 169 | 40701 | Graf Zeppelin | 407010 | Graf Zeppelin | Default | main5_ex |
-| 170 | 40701 | Graf Zeppelin | 407010 | Graf Zeppelin | Default | main6_ex |
+| 167 | 40701 | Graf Zeppelin | 407010 | Graf Zeppelin | Default | main4_ex |
+| 168 | 40701 | Graf Zeppelin | 407010 | Graf Zeppelin | Default | main5_ex |
+| 169 | 40701 | Graf Zeppelin | 407010 | Graf Zeppelin | Default | main6_ex |
+| 170 | 40701 | Graf Zeppelin | 407010 | Graf Zeppelin | Default | touch2_ex |
 | 171 | 40701 | Graf Zeppelin | 407010 | Graf Zeppelin | Default | feeling5_ex |
-| 172 | 40701 | Graf Zeppelin | 407010 | Graf Zeppelin | Default | touch2_ex |
-| 173 | 40701 | Graf Zeppelin | 407010 | Graf Zeppelin | Default | touch_ex |
-| 174 | 40701 | Graf Zeppelin | 407010 | Graf Zeppelin | Default | detail_ex |
-| 175 | 40701 | Graf Zeppelin | 407010 | Graf Zeppelin | Default | home_ex |
-| 176 | 40701 | Graf Zeppelin | 407010 | Graf Zeppelin | Default | login_ex |
+| 172 | 40701 | Graf Zeppelin | 407010 | Graf Zeppelin | Default | touch_ex |
+| 173 | 40701 | Graf Zeppelin | 407010 | Graf Zeppelin | Default | detail_ex |
+| 174 | 40701 | Graf Zeppelin | 407010 | Graf Zeppelin | Default | login_ex |
+| 175 | 40701 | Graf Zeppelin | 407010 | Graf Zeppelin | Default | headtouch_ex |
+| 176 | 40701 | Graf Zeppelin | 407010 | Graf Zeppelin | Default | home_ex |
 | 177 | 40701 | Graf Zeppelin | 407012 | Intoxicating Crimson | Empery'S Fineries | feeling5 |
-| 178 | 40701 | Graf Zeppelin | 407012 | Intoxicating Crimson | Empery'S Fineries | touch2 |
-| 179 | 40701 | Graf Zeppelin | 407012 | Intoxicating Crimson | Empery'S Fineries | main1 |
-| 180 | 40701 | Graf Zeppelin | 407012 | Intoxicating Crimson | Empery'S Fineries | main2 |
-| 181 | 40701 | Graf Zeppelin | 407012 | Intoxicating Crimson | Empery'S Fineries | main3 |
-| 182 | 40701 | Graf Zeppelin | 407012 | Intoxicating Crimson | Empery'S Fineries | unlock |
-| 183 | 40701 | Graf Zeppelin | 407012 | Intoxicating Crimson | Empery'S Fineries | login |
-| 184 | 40701 | Graf Zeppelin | 407012 | Intoxicating Crimson | Empery'S Fineries | headtouch |
-| 185 | 40701 | Graf Zeppelin | 407012 | Intoxicating Crimson | Empery'S Fineries | home |
-| 186 | 40701 | Graf Zeppelin | 407012 | Intoxicating Crimson | Empery'S Fineries | touch |
+| 178 | 40701 | Graf Zeppelin | 407012 | Intoxicating Crimson | Empery'S Fineries | touch |
+| 179 | 40701 | Graf Zeppelin | 407012 | Intoxicating Crimson | Empery'S Fineries | login |
+| 180 | 40701 | Graf Zeppelin | 407012 | Intoxicating Crimson | Empery'S Fineries | touch2 |
+| 181 | 40701 | Graf Zeppelin | 407012 | Intoxicating Crimson | Empery'S Fineries | unlock |
+| 182 | 40701 | Graf Zeppelin | 407012 | Intoxicating Crimson | Empery'S Fineries | headtouch |
+| 183 | 40701 | Graf Zeppelin | 407012 | Intoxicating Crimson | Empery'S Fineries | home |
+| 184 | 40701 | Graf Zeppelin | 407012 | Intoxicating Crimson | Empery'S Fineries | main1 |
+| 185 | 40701 | Graf Zeppelin | 407012 | Intoxicating Crimson | Empery'S Fineries | main2 |
+| 186 | 40701 | Graf Zeppelin | 407012 | Intoxicating Crimson | Empery'S Fineries | main3 |
 | 187 | 40812 | U-1206 | 408120 | U-1206 | Default | main4_ex |
 | 188 | 40812 | U-1206 | 408120 | U-1206 | Default | main6_ex |
 | 189 | 50202 | Ning Hai | 502027 | Hectic Kitchen | Maid | couple_encourage1 |
 | 190 | 50203 | Ping Hai | 502037 | Lively Banquet Preparations | Maid | couple_encourage1 |
-| 191 | 50205 | Chao Ho | 502050 | Chao Ho | Default | feeling1_ex |
-| 192 | 50205 | Chao Ho | 502050 | Chao Ho | Default | headtouch_ex |
-| 193 | 50205 | Chao Ho | 502050 | Chao Ho | Default | mail_ex |
+| 191 | 50205 | Chao Ho | 502050 | Chao Ho | Default | mail_ex |
+| 192 | 50205 | Chao Ho | 502050 | Chao Ho | Default | feeling1_ex |
+| 193 | 50205 | Chao Ho | 502050 | Chao Ho | Default | headtouch_ex |
 | 194 | 50209 | Chi An | 502090 | Chi An | Default | profile |
 | 195 | 50212 | Hai Chou | 502122 | Aroma of Awakening | Empery'S Fineries | home |
-| 196 | 50212 | Hai Chou | 502122 | Aroma of Awakening | Empery'S Fineries | feeling5 |
-| 197 | 50212 | Hai Chou | 502122 | Aroma of Awakening | Empery'S Fineries | main1 |
-| 198 | 50212 | Hai Chou | 502122 | Aroma of Awakening | Empery'S Fineries | main2 |
-| 199 | 50212 | Hai Chou | 502122 | Aroma of Awakening | Empery'S Fineries | main3 |
-| 200 | 50212 | Hai Chou | 502122 | Aroma of Awakening | Empery'S Fineries | upgrade |
-| 201 | 50212 | Hai Chou | 502122 | Aroma of Awakening | Empery'S Fineries | expedition |
-| 202 | 50212 | Hai Chou | 502122 | Aroma of Awakening | Empery'S Fineries | touch2 |
-| 203 | 50212 | Hai Chou | 502122 | Aroma of Awakening | Empery'S Fineries | login |
-| 204 | 50212 | Hai Chou | 502122 | Aroma of Awakening | Empery'S Fineries | headtouch |
-| 205 | 50212 | Hai Chou | 502122 | Aroma of Awakening | Empery'S Fineries | touch |
+| 196 | 50212 | Hai Chou | 502122 | Aroma of Awakening | Empery'S Fineries | detail |
+| 197 | 50212 | Hai Chou | 502122 | Aroma of Awakening | Empery'S Fineries | headtouch |
+| 198 | 50212 | Hai Chou | 502122 | Aroma of Awakening | Empery'S Fineries | login |
+| 199 | 50212 | Hai Chou | 502122 | Aroma of Awakening | Empery'S Fineries | feeling5 |
+| 200 | 50212 | Hai Chou | 502122 | Aroma of Awakening | Empery'S Fineries | touch |
+| 201 | 50212 | Hai Chou | 502122 | Aroma of Awakening | Empery'S Fineries | touch2 |
+| 202 | 50212 | Hai Chou | 502122 | Aroma of Awakening | Empery'S Fineries | main1 |
+| 203 | 50212 | Hai Chou | 502122 | Aroma of Awakening | Empery'S Fineries | main2 |
+| 204 | 50212 | Hai Chou | 502122 | Aroma of Awakening | Empery'S Fineries | main3 |
+| 205 | 50212 | Hai Chou | 502122 | Aroma of Awakening | Empery'S Fineries | upgrade |
 | 206 | 50212 | Hai Chou | 502122 | Aroma of Awakening | Empery'S Fineries | unlock |
-| 207 | 50212 | Hai Chou | 502122 | Aroma of Awakening | Empery'S Fineries | detail |
+| 207 | 50212 | Hai Chou | 502122 | Aroma of Awakening | Empery'S Fineries | expedition |
 | 208 | 60105 | Libeccio | 601050 | Libeccio | Default | couple_encourage1 |
 | 209 | 60106 | Nicoloso da Recco | 601060 | Nicoloso da Recco | Default | main3_ex |
 | 210 | 70202 | Pamiat' Merkuria | 702020 | Pamiat' Merkuria | Default | couple_encourage1 |
