@@ -29936,8 +29936,8 @@
       "bonus": {
         "health": 240,
         "reload": 5,
-        "equipment_proficiency_2": 0.15,
         "equipment_proficiency_3": 0.15,
+        "equipment_proficiency_2": 0.15,
         "aviation": 60,
         "equipment_proficiency_1": 0.05,
         "antiair": 35
@@ -51368,8 +51368,8 @@
         "accuracy": 5,
         "equipment_proficiency_1": 0.05,
         "firepower": 40,
-        "equipment_proficiency_2": 0.1,
         "equipment_proficiency_3": 0.1,
+        "equipment_proficiency_2": 0.1,
         "antiair": 45
       },
       "skill": 37208,
@@ -51633,8 +51633,8 @@
         "accuracy": 5,
         "equipment_proficiency_1": 0.05,
         "firepower": 40,
-        "equipment_proficiency_2": 0.1,
         "equipment_proficiency_3": 0.1,
+        "equipment_proficiency_2": 0.1,
         "antiair": 45
       },
       "skill": 37308,
