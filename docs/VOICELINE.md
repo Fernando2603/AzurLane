@@ -8,6 +8,8 @@
 - [Data Structure](#data-structure)
 - [Fetch](#fetch)
 
+> [!NOTE]
+> Structure are outdated per 5.1.6 please refer to [this](https://github.com/Fernando2603/Azurex/tree/main/model)
 
 # Overview
 The Voiceline structure design is focused on integration with the `skin.json`, which can be accessed by `skin_id` obtained from the `skin.json` itself. 

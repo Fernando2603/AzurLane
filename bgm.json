@@ -352,8 +352,8 @@
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/battle-hightech.ogg"
   },
   "battle-hrr": {
-    "title": "蝨｣蜊ｰ蜷檎屐蜀媽AL",
-    "size": 1749759,
+    "title": "battle-hrr",
+    "size": 1749720,
     "duration": 93.184,
     "bitrate": 160.0,
     "sample_rate": 48000,
@@ -2968,8 +2968,8 @@
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-rosy-short.ogg"
   },
   "story-richang-softlight": {
-    "title": "豬ｮ驥第囑譴ｦ_PV",
-    "size": 1089369,
+    "title": "story-richang-softlight",
+    "size": 1089362,
     "duration": 59.242666666666665,
     "bitrate": 160.0,
     "sample_rate": 48000,
@@ -3584,8 +3584,8 @@
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-hospital-deep.ogg"
   },
   "theme-hrr": {
-    "title": "逾槫悒閨泌粋蟶晏嵜荵玖ｯ誉AL",
-    "size": 1840043,
+    "title": "theme-hrr",
+    "size": 1840032,
     "duration": 100.01066666666667,
     "bitrate": 160.0,
     "sample_rate": 48000,

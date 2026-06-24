@@ -6,6 +6,8 @@
 - [Data Structure](#data-structure)
 - [Fetch](#fetch)
 
+> [!NOTE]
+> Structure are outdated per 5.1.6 please refer to [this](https://github.com/Fernando2603/Azurex/tree/main/model)
 
 # Overview
 The current structure of `skill.json` is straightforward, containing only maximum leveled skills with the following keys: `type`, `name`, `desc`, `icon`, and `max_level`. You can find the details in the [Data Structure](#data-structure) section. Additionally, `skill_icon.json` is provided for those who are only interested in the icon link.

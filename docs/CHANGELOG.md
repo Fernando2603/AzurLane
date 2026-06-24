@@ -1,4 +1,19 @@
-## Patch 5.0.3
+## Patch 5.1.6
+<details>
+  <summary>24 June 2026</summary>
+
+  - rewrite [parser](https://github.com/Fernando2603/Azurex) from scratch and open source.
+  - add `important`, `equip_limit` and `ship_type_forbidden` key to equipment.json
+</details>
+
+## Patch 5.0.5
+<details>
+  <summary>11 June 2026</summary>
+
+  - move dependency from `AzurLaneTools/AzurLaneLuaScripts` to `Fernando2603\AzurLaneData`
+</details>
+
+## Patch 5.0.4
 <details>
   <summary>22 May 2026</summary>
 

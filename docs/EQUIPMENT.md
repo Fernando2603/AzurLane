@@ -5,6 +5,9 @@
 - [Fetch](#fetch)
 
 
+> [!NOTE]
+> Structure are outdated per 5.1.6 please refer to [this](https://github.com/Fernando2603/Azurex/tree/main/model)
+
 # Overview
 The current structure in `equipment.json` is a bit unclear because it contains data for all equipment, and Azur Lane has many types of gear, making it a bit tricky. Right now, the structure might change how equipment is set up a lot or maybe not change it at all, as figuring out the best way can be confusing. Will try to make these adjustments once `ship.json` is out, maybe after patch 5 and some free time.
 

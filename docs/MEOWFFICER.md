@@ -4,6 +4,8 @@
 - [Data Structure](#data-structure)
 - [Fetch](#fetch)
 
+> [!NOTE]
+> Structure are outdated per 5.1.6 please refer to [this](https://github.com/Fernando2603/Azurex/tree/main/model)
 
 # Overview
 The meowfficer has two types of structures: `meowfficer.json` and `meowfficer_list.json`. The `meowfficer_list.json` uses an old structure that employs an array or list to access the data, while `meowfficer.json` is the new one using an `id` for access. This change also applies to `meowfficer_talent.json`, and you can find more details in the [Data Structure](#data-structure) section.

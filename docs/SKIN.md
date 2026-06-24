@@ -5,6 +5,8 @@
 - [Data Structure](#data-structure)
 - [Fetch](#fetch)
 
+> [!NOTE]
+> Structure are outdated per 5.1.6 please refer to [this](https://github.com/Fernando2603/Azurex/tree/main/model)
 
 # Overview
 The skin dataset is nearly complete in the patch 4.4.8 update. It contains all the necessary elements to synchronize with other datasets like `voiceline` and, hopefully, `ship.json` (which is in the planning phase for future updates).

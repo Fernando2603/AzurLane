@@ -4,6 +4,8 @@
 - [Data Structure](#data-structure)
 - [Fetch](#fetch)
 
+> [!NOTE]
+> Structure are outdated per 5.1.6 please refer to [this](https://github.com/Fernando2603/Azurex/tree/main/model)
 
 # Overview
 The current structure of `bgm.json` is straightforward, containing only 6 keys: `title`, `size`, `duration`, `bitrate`, `sample_rate`, and `link`. The information for `size`, `duration`, `bitrate`, and `sample_rate` is extracted using the `python` `TinyTag` package. Additionally, `bgm_link.json` is provided for those who are only interested in the audio file.
