@@ -9008,6 +9008,22 @@
     "max_level": 10
   },
   {
+    "id": 152420,
+    "type": 1,
+    "name": "Woah! It's Marteau!",
+    "desc": "When this ship launches an airstrike: throws a Lv.1 (Lv.10) Marteau that can hit underwater enemies, pierces shields, and always critically strikes (DMG is based on the skill's level); enemies hit by Marteau are inflicted with Armor Break, a special Burn debuff, a special Flooding debuff, and have their SPD and AA reduced by 8.0%, lasting for 6s (DMG of the special Burn and Flooding debuffs are based on AVI and the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152420.png",
+    "max_level": 10
+  },
+  {
+    "id": 152430,
+    "type": 3,
+    "name": "Woohoo! Ready to Fire!",
+    "desc": "At the start of battle: increases this ship's AVI and AA by 20.0% (30.0%), and increases the flight speed of this ship's aircraft by 5. Once per battle, when this ship's aircraft shoots down an enemy aircraft: increases this ship's ACC by 5.0% (10.0%) until the end of battle.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152430.png",
+    "max_level": 10
+  },
+  {
     "id": 152440,
     "type": 1,
     "name": "Journey to Wonderland",
@@ -9021,6 +9037,38 @@
     "name": "Treasures of Hidden Realms",
     "desc": "At the start of battle and every 20s after that, randomly activates one of the following 3 effects:\n1) Increases this ship's FP, RLD, and ACC by 1.0% (10.0%).\n2) Increases this ship's Torpedo Crit Rate by 1.0% (10.0%) and Torpedo Crit DMG by 10.0% (20.0%).\n3) Restores 1.0% (10.0%) of this ship's Max HP.\nEach effect can only be activated once per battle. When all 3 effects have been activated, this skill will no longer be triggered.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152450.png",
+    "max_level": 10
+  },
+  {
+    "id": 152460,
+    "type": 2,
+    "name": "Illusionist of Fact and Fiction",
+    "desc": "At the start of battle: increases this ship's AA and EVA by 5.0% (15.0%). If this ship has a large-caliber Main Gun equipped: increases this ship's Main Gun efficiency by 10.0%. Once per battle, if this ship's total DMG taken exceeds 20.0% of her Max HP: increases this ship's SPD by 4 and restores 3.5% (8.0%) of her Max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152460.png",
+    "max_level": 10
+  },
+  {
+    "id": 152470,
+    "type": 2,
+    "name": "Seeing Isn't Believing",
+    "desc": "Every 20s: deploys a zone around this ship that lasts for 8s. While this zone persists: increases this ship's Dodge Rate by 4.0% (10.0%); additionally, reduces the DMG taken of allied Vanguard ships inside the zone by 4.0% (10.0%), and reduces the ACC and SPD of enemies inside the zone by 3.5% (8.0%) and 10.0% respectively.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152470.png",
+    "max_level": 10
+  },
+  {
+    "id": 152480,
+    "type": 1,
+    "name": "Bladework: Master of Anatomy",
+    "desc": "At the start of battle: increases this ship's FP and ACC by 5.0% (15.0%). Every 15s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); enemies hit by this barrage take 10.0% (20.0%) more DMG from L'Intrépide.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152480.png",
+    "max_level": 10
+  },
+  {
+    "id": 152490,
+    "type": 2,
+    "name": "Meat Lover",
+    "desc": "30s after the battle starts: L'Intrépide gains the Chow Down status, reducing her SPD by 10.0% and DMG taken by 10.0% (20.0%) for 8s. When the Chow Down status expires: increases this ship's AA and EVA by 5.0% (15.0%) until the end of battle, and generates a barrier that can absorb up to 3.5% (8.0%) of this ship's Max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152490.png",
     "max_level": 10
   },
   {
@@ -14725,6 +14773,22 @@
     "name": "All Out Assault II",
     "desc": "Every 6 times the Main Gun is fired: activates All Out Assault II: P-Class; every 10 times the special secondary gun is fired: activates Torpedo Barrage II.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/20200.png",
+    "max_level": 1
+  },
+  {
+    "id": 30621,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Cherbourg once every 12 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30620.png",
+    "max_level": 1
+  },
+  {
+    "id": 30622,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault I: Cherbourg once every 8 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30620.png",
     "max_level": 1
   },
   {

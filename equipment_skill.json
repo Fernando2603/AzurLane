@@ -908,5 +908,10 @@
     "id": 61100,
     "name": "Key to the Tribunal's Hand",
     "desc": "At the start of battle: increases the entire fleet's SPD by 2 and reduces their DMG taken by 2.0% for 20s."
+  },
+  "61110": {
+    "id": 61110,
+    "name": "Master of Laughter",
+    "desc": "Changes the BGM when equipped. If other gear that changes the BGM is active simultaneously, only a randomly chosen one will take effect."
   }
 }

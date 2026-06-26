@@ -109163,41 +109163,13 @@
       "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/403100/gift_prefer.ogg",
       "line": "Woahhh, it's lovely! Thank you, Commander~"
     },
-    "detail_ex": {
-      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/403100/detail_ex.ogg",
-      "line": "Yeah, hey... Hmm... Huh? Me? I'm as carefree as can be. What about you? Something you wanna get off your chest?"
+    "headtouch_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/403100/headtouch_ex.ogg",
+      "line": "Huh? This is praise, right? Thanks."
     },
-    "feeling5_ex": {
-      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/403100/feeling5_ex.ogg",
-      "line": "You down to hang out with me today? Ah, right, you've got work... Tell you what, I'll help you with it. First order of business: putting a smile on your face~"
-    },
-    "home_ex": {
-      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/403100/home_ex.ogg",
-      "line": "I'm gonna open the window and get some fresh air in here. C'mon! Breathe in, breathe out!"
-    },
-    "login_ex": {
-      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/403100/login_ex.ogg",
-      "line": "Howdy. Finished charging your batteries? I can help if you still need more energy."
-    },
-    "main5_ex": {
-      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/403100/main5_ex.ogg",
-      "line": "Man, your desk is just loaded with neat stuff. Hehehe, ain't never a dull moment in your office~"
-    },
-    "main6_ex": {
-      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/403100/main6_ex.ogg",
-      "line": "I'm like a human shredder, tearing paperwork you don't wanna do into ribbons... Hmm. You sure you can still manage with this amount?"
-    },
-    "main7_ex": {
-      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/403100/main7_ex.ogg",
-      "line": "It's not so bad doing the same task all day when you've got someone to vibe with~"
-    },
-    "main8_ex": {
-      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/403100/main8_ex.ogg",
-      "line": "Heard Strasser sat Heinrich down and made her read a book for once. Maybe I should find something to read before bedtime."
-    },
-    "touch2_ex": {
-      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/403100/touch2_ex.ogg",
-      "line": "You've really got a, uh, keen interest in women's bodies."
+    "touch_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/403100/touch_ex.ogg",
+      "line": "I was thinking I'd do something fun with you before today's training. Yeah, THAT kinda fun."
     }
   },
   "403101": {
@@ -109318,6 +109290,52 @@
     "upgrade": {
       "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/403102/upgrade.ogg",
       "line": "Wow! Doubt I'll be tripping again now!"
+    }
+  },
+  "403103": {
+    "detail": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/403103/detail.ogg",
+      "line": "(The Commander's too smart to get fooled by this trick... Wait, that expression... I've been seen through already? Huh...)"
+    },
+    "feeling5": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/403103/feeling5.ogg",
+      "line": "Your eyes are moving away from my hat... and onto my face... Y'know, Commander, are you really looking to get outta here? Or... Or have you been after me this whole time?!"
+    },
+    "headtouch": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/403103/headtouch.ogg",
+      "line": "Hmm. I can't move too much before the show starts. If the critters under my hat get spooked... there's not gonna be anything I can do."
+    },
+    "home": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/403103/home.ogg",
+      "line": "Mind you're not wasting your energy, Commander. No one knows how to open that exit 'cept me! Mmh, though I guess I could escort you out if you figure out the trick I'm about to show you. How does it sound?"
+    },
+    "login": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/403103/login.ogg",
+      "line": "I'm gonna give this performance my all, seeing as I got you to come watch. But d'you mind helping me track down my escaped rabbit first?"
+    },
+    "main1": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/403103/main1.ogg",
+      "line": "Watch closely... You see this coin here? ...Poof! Which hand do you think it's in now? Oops, you got it wrong. You're not gonna see through my trick that easily!"
+    },
+    "main2": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/403103/main2.ogg",
+      "line": "Huh? The fireworks machine went off? Don't tell me you found the machine hidden behind the curtain? Ah, shoot! I said too much..."
+    },
+    "main3": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/403103/main3.ogg",
+      "line": "What're you looking at, Commander? My hat, the stage... No, you're staring at my bunny ears and tail, right? That's not where I'm hiding my magical secrets!"
+    },
+    "touch": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/403103/touch.ogg",
+      "line": "What's that? You wanna check my hat? Sure, go ahead... Be careful, though. If you stick your hand in there, you might not be able to get it back out."
+    },
+    "touch2": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/403103/touch2.ogg",
+      "line": "You wanna search for the secrets behind my magic? Sure thing – Take it nice and slow."
+    },
+    "unlock": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/403103/unlock.ogg",
+      "line": "Huh? Damn... You made it to the magician's training hall. Alright. I'll let ya be the first to see my new trick."
     }
   },
   "403110": {
@@ -133240,6 +133258,60 @@
       "line": "Heheh! You were not invited to this place, and as its guardian, I must punish you by... Oh, wait, wait, stop! This angle... This outline... It's simply perfect! Turning you into stone would be a waste, so just stay here and let me observe you every day!"
     }
   },
+  "605082": {
+    "detail": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/605082/detail.ogg",
+      "line": "Being a work of art is really hard! I can't move, so if I ever get an itch... I'm gonna need you to touch me right here, real gentle. Aaah♡ A bit higher~ Yes, just like that♪"
+    },
+    "feeling5": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/605082/feeling5.ogg",
+      "line": "I thought this artwork lacked soul, so I decided to liven it up into a trick painting and made it truly complete by incorporating myself as part of the art... Just kidding☆ What it was really missing was you! My inspiration, my muse, my beauty incarnate, the miracle in my magic♡"
+    },
+    "headtouch": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/605082/headtouch.ogg",
+      "line": "Please don't touch the art without permission...! But keep giving me inspiration please♪"
+    },
+    "home": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/605082/home.ogg",
+      "line": "Welcome your very own art magic~ Come and immerse yourself in this world I weaved from my warmth and color☆"
+    },
+    "login": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/605082/login.ogg",
+      "line": "Oooh! Seeing my perfect Commander step into my painting melts my heart away♡ Come, join my magic, and join my art☆"
+    },
+    "main1": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/605082/main1.ogg",
+      "line": "Nhaaa! The paint splotches you left behind just gave me a flash of inspiration...!"
+    },
+    "main2": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/605082/main2.ogg",
+      "line": "Are your eyes fixed on me, Commander...? Come, get a little closer♪"
+    },
+    "main3": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/605082/main3.ogg",
+      "line": "Isn't the painting's background lovely, Commander? Reach your hands out to me... Ahaha☆ Did you touch it?~"
+    },
+    "main4": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/605082/main4.ogg",
+      "line": "Would you like to add a stroke on me with your own hands? Let beauty guide you and leave your own unique, creative mark on your favorite spot♪"
+    },
+    "profile": {
+      "link": null,
+      "line": "Being a work of art is really hard! I can't move, so if I ever get an itch... I'm gonna need you to touch me right here, real gentle. Aaah♡ A bit higher~ Yes, just like that♪"
+    },
+    "touch": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/605082/touch.ogg",
+      "line": "Are you curious about how the colors you apply blend together? If you wanna know, you should try it once and see for yourself♪"
+    },
+    "touch2": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/605082/touch2.ogg",
+      "line": "Can't restrain your creative urges anymore?♪"
+    },
+    "unlock": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/605082/unlock.ogg",
+      "line": "Welcome to the Circus Art Roadshow! What do you think, Commander? Did my present make your heart race? I used everything I have to complete this art... And I mean EVERYTHING♪"
+    }
+  },
   "605090": {
     "battle": {
       "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/605090/battle.ogg",
@@ -134254,6 +134326,10 @@
       "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/608020/feeling5.ogg",
       "line": "Commander! You free again? Like they say... Look below you for ideas, look around you for inspiration! Time: from dawn 'til dusk – place: every nook and cranny of the port! Heheh! I'm bound to come up with something new this way!"
     },
+    "headtouch": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/608020/headtouch.ogg",
+      "line": "Ah... I just came up with a new idea! Commander, keep it up!"
+    },
     "home": {
       "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/608020/home.ogg",
       "line": "Awesome work out there! ...You're running on fumes, huh? Unfortunate. I'd give you half my energy if I could~"
@@ -134350,6 +134426,10 @@
       "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/608020/feeling5_ex.ogg",
       "line": "That pillow cover drying in the sun is of course the one with your darling da Vinci in a raunchy pose♡ ...You thought I was serious? So you're saying you WOULD own that... Guess I'll just have to make one♪"
     },
+    "headtouch_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/608020/headtouch_ex.ogg",
+      "line": "Heheh! Charging complete!♪ Now I'm at full throttle again!♪"
+    },
     "home_ex": {
       "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/608020/home_ex.ogg",
       "line": "Good going on that sortie! Feeling beat, don'tcha? Let's fix those stiff shoulders with my massage-o-tron! Have a seat in my lap and just relax♪"
@@ -134427,6 +134507,52 @@
     "unlock": {
       "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/608021/unlock.ogg",
       "line": "Here to watch me rehearse just like these deer, Commander? Isn't it wonderful being surrounded by the beauty of nature? For a performance based on a fable such as this one, ambiance is key. Ehehe~♪"
+    }
+  },
+  "608022": {
+    "feeling5": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/608022/feeling5.ogg",
+      "line": "So long as you're watching me, I know I could pull off any magic trick, even in the middle of a high swing. This sense of safety... that matters more than any inspiration♪"
+    },
+    "headtouch": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/608022/headtouch.ogg",
+      "line": "Heheh, don't forget to fix my ears back the way they were♪"
+    },
+    "home": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/608022/home.ogg",
+      "line": "Welcome back, Commander! Would you like to watch my swinging tricks? Or maybe just relax together?♪"
+    },
+    "login": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/608022/login.ogg",
+      "line": "Commander? Did you see me perform just now? I was just testing a little theory. I wanted to see if being suspended in midair makes one's inspiration a bit \"lighter\"♪"
+    },
+    "main1": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/608022/main1.ogg",
+      "line": "Maybe we should make a portable swing? That way I'll be able to whoosh around wherever I go!"
+    },
+    "main2": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/608022/main2.ogg",
+      "line": "This sense of weightlessness, of speed, it's completely different from when I'm lost in inventing... Ah, I just came up with a new idea!"
+    },
+    "main3": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/608022/main3.ogg",
+      "line": "Si cominica! Commander, next up... Waaah?! All the cards in my hat... they all turned into design sketches?!"
+    },
+    "touch": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/608022/touch.ogg",
+      "line": "Are you just going to watch? Come on, gimme your hand! Let's fly high enough to touch the stars♪"
+    },
+    "touch2": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/608022/touch2.ogg",
+      "line": "Eek?! Commander, you're such a tease. Are you looking for inspiration in the middle of a performance?♪"
+    },
+    "unlock": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/608022/unlock.ogg",
+      "line": "Ah, Commander! I got a flash of inspiration when I swung to the top just now! Let the magic show begin now!"
+    },
+    "win_mvp": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/608022/win_mvp.ogg",
+      "line": "What an easy win~ And I get lots of applause and inspiration as my reward♪"
     }
   },
   "608030": {
@@ -144482,6 +144608,216 @@
       "line": "Gulp, gulp... Ahh! That hits the spot! Cold and refreshing... There's nothing in the world like a glass of cold milk after steaming in the sauna."
     }
   },
+  "801060": {
+    "battle": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/battle.ogg",
+      "line": "Let's go carve us some meat!"
+    },
+    "couple_encourage1": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/couple_encourage1.ogg",
+      "line": "Here we go! Chaaarge!",
+      "type": 0,
+      "list": [
+        80104
+      ],
+      "count": 1
+    },
+    "couple_encourage2": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/couple_encourage2.ogg",
+      "line": "Barbecue? Barbecue, barbecue!",
+      "type": 0,
+      "list": [
+        30114
+      ],
+      "count": 1
+    },
+    "detail": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/detail.ogg",
+      "line": "Hmm? You wanna know about my barbecue magic? Or... are you waiting for the food to be ready? Aww, you don't have to be shy~ Come and eat before it gets cold!"
+    },
+    "expedition": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/expedition.ogg",
+      "line": "Everyone just got back! I've got meat on the barbecue, so bring them over for a big meal!"
+    },
+    "feeling1": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/feeling1.ogg",
+      "line": "Sorry... There isn't any meat left for you."
+    },
+    "feeling2": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/feeling2.ogg",
+      "line": "Eating meat together is the first step to becoming fast friends. Get over here and eat with me, Commander!"
+    },
+    "feeling3": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/feeling3.ogg",
+      "line": "Watch closely, Commander~ Hmmm... Haah! Pretty good swordplay, huh? If you wanna eat well and fast, you need swordsmanship and passion!"
+    },
+    "feeling4": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/feeling4.ogg",
+      "line": "*blooow*... Perfect! Open up, Commander. I've been watching this meat closely, so it should be cooked just right! Did it taste good? Hehe, glad to hear it."
+    },
+    "feeling5": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/feeling5.ogg",
+      "line": "You smell really good lately, Commander... Am I just imagining it? *sniff sniff*... Mmm... Huh? No, I'm not gonna eat you!"
+    },
+    "headtouch": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/headtouch.ogg",
+      "line": "Ooh... The moment you gave me headpats, my tummy started rumbling. Is that magic?"
+    },
+    "home": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/home.ogg",
+      "line": "Welcome hooome! I grilled meat for you, so hurry up and eat... Oooh, that smells good. Can I have some? Just a bite..."
+    },
+    "hp_warning": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/hp_warning.ogg",
+      "line": "I'm too hungryyy!"
+    },
+    "login": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/login.ogg",
+      "line": "Welcome back, Commander! I tried roasting meat with a new blend of spices. Come and give it a taste. Can't work on an empty tummy!"
+    },
+    "lose": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/lose.ogg",
+      "line": "*sigh*... I'm sooo hungry. Can we cook the baddies, you think?"
+    },
+    "mail": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/mail.ogg",
+      "line": "Mail caaall! Let's see if it's good news, Commander!"
+    },
+    "main1": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/main1.ogg",
+      "line": "Alright, the pineapple barbecue is almost ready~ Hm? You think eating barbecue every day is bad for my nutritional balance? Don't worry – I eat different side dishes every time!"
+    },
+    "main2": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/main2.ogg",
+      "line": "Commander, have you seen my ribbon? I thought I brought it... Oh! It's already on my head! Hahaha!"
+    },
+    "main3": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/main3.ogg",
+      "line": "Phew... I ate a ton... Commander? Why are you looking at... Oh! Did I accidentally eat yours?! Sorry! I'll make it up with double... no, TRIPLE for you!"
+    },
+    "mission": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/mission.ogg",
+      "line": "Ah! Commander, you have new missions to do. If we do them together, we'll be done before dinnertime!"
+    },
+    "mission_complete": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/mission_complete.ogg",
+      "line": "Everything finished on time! You're amazing, Commander!"
+    },
+    "profile": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/profile.ogg",
+      "line": "Report! Iris Libre destroyer L'Intrépide is here and full of energy! Whether it's cooking, eating, OR fighting, you can leave it all to me!"
+    },
+    "propose": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/propose.ogg",
+      "line": "Wait... This is a ring! Huh? Wha? Whaaaat?! For ME?! Yes, of course! I'd be happy to! I'll cherish you for the rest of my life, Commander!"
+    },
+    "skill": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/skill.ogg",
+      "line": "Let's roast 'em!"
+    },
+    "touch": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/touch.ogg",
+      "line": "Whoa! Commander! You scared me..."
+    },
+    "touch2": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/touch2.ogg",
+      "line": "Whoa! You're so forward, Commander... Not that I mind!"
+    },
+    "unlock": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/unlock.ogg",
+      "line": "Meat's done! *blow*... *munch*... Hmm? Oh, Commander, hello! My name is L'Intrépide, and I'm with the Iris Libre... Huh? You want more details? Mm... Can it wait until I finish this?"
+    },
+    "upgrade": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/upgrade.ogg",
+      "line": "Phew... I cooked and ate a lot~ Now I'm satisfied."
+    },
+    "win_mvp": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/win_mvp.ogg",
+      "line": "We won! Let's celebrate with a feast – I'll do the grilling!"
+    },
+    "gift_prefer": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/gift_prefer.ogg",
+      "line": "I LOVE it! Thank you so much, Commander!"
+    },
+    "feeling5_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/feeling5_ex.ogg",
+      "line": "I wanna give you a hug... May I? Here I come... Huggies! You and I will be together forever, like meat and potatoes!"
+    },
+    "headtouch_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/headtouch_ex.ogg",
+      "line": "Hehe, that feels nice. Smells good, too..."
+    },
+    "home_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/home_ex.ogg",
+      "line": "Good work, Commander! Relax and let me knead and tenderize those shoulders. Does it feel good? Hmm... How else can I make you taste even better?"
+    },
+    "login_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/login_ex.ogg",
+      "line": "Heheh... I smell something even better than barbecue meat. *sniff*... You smell delicious... Umm, I mean, welcome home! I just made barbecue. Come eat up!"
+    },
+    "main4_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/main4_ex.ogg",
+      "line": "Commander, are you tired? Wanna lie down on me and take a nap? I'll be the perfect, immobile cushion for you!"
+    },
+    "main5_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/main5_ex.ogg",
+      "line": "Urgh, my tummy's rumbling... Meat... Where's the meat? Do you have it? Thank goodness!"
+    },
+    "main6_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/main6_ex.ogg",
+      "line": "Just one more piece left... No, this is for the Commander... Huh? Can I really have half of it?!"
+    },
+    "touch_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/touch_ex.ogg",
+      "line": "Mmm... I wanna jump into your arms and take a big whiff of your scent!"
+    },
+    "touch2_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801060/touch2_ex.ogg",
+      "line": "Heheh, I'm used to this, so it won't surprise me anymore. Come with me now♪"
+    }
+  },
+  "801061": {
+    "detail": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801061/detail.ogg",
+      "line": "Did you like my fiery dance just now? If you still want more... I'll use my barbecue magic to set the whole stage on fire for you!"
+    },
+    "feeling5": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801061/feeling5.ogg",
+      "line": "Give me a hug, Commander! Why now? Because I want you to feel my burning passion, of course. Are you ready? Here I cooome!"
+    },
+    "home": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801061/home.ogg",
+      "line": "Commander, you're back just in time for the opening act! There will be owls performing today. You'd better find a seat so you don't miss the action!"
+    },
+    "login": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801061/login.ogg",
+      "line": "Good morning, Commander. You're looking great today! Wanna try out this super-fun fiery trail with me? Don't worry – if you keep up with me, you won't get hurt at all... I think! Hehehe!"
+    },
+    "main1": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801061/main1.ogg",
+      "line": "Commander, come closer~ Just a little more... Hah, got you! Can you feel my sizzling passion and energy?"
+    },
+    "main2": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801061/main2.ogg",
+      "line": "That was the BEST! I had so much fun... Let's do it again! Join me, Commander!"
+    },
+    "main3": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801061/main3.ogg",
+      "line": "Success! We've got medium grilled meat! See how the inside is still a vibrant red? Do you wanna eat it as-is, or would you like to try my special black pepper spice blend?"
+    },
+    "touch": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801061/touch.ogg",
+      "line": "Heheh, don't get burned by the heat of my passion!"
+    },
+    "touch2": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801061/touch2.ogg",
+      "line": "Whoa! You really like this spot, don't you?"
+    },
+    "unlock": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801061/unlock.ogg",
+      "line": "Heheh, here comes the grand finale! Watch in amazement as I snatch the meat from that ring of fire and put the finishing touch to tonight's feast! Don't blink, Commander!"
+    }
+  },
   "801070": {
     "battle": {
       "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/801070/battle.ogg",
@@ -148257,6 +148593,210 @@
       "line": "Finished your sacred work? I looked into hot spring therapy a little to help you relax a little. It's the warmest and most pleasant healing method I've ever seen. Would you... come in with me?"
     }
   },
+  "806020": {
+    "battle": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/battle.ogg",
+      "line": "Time for Marteau to shine!"
+    },
+    "detail": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/detail.ogg",
+      "line": "Commander! Wanna see my warm-up spins with Marteau? ...Hmm? You think that's too much effort for a warm-up? The word \"tired\" doesn't exist in my dictionary! All I know is \"again\"!"
+    },
+    "expedition": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/expedition.ogg",
+      "line": "Things are getting lively over there... Our commission team must be back~"
+    },
+    "feeling1": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/feeling1.ogg",
+      "line": "Sorry, I'm busy!"
+    },
+    "feeling2": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/feeling2.ogg",
+      "line": "Com-man-der! Let's do gymnastics together! I'll show you the ropes, so... Hey, don't be so nervous. As long as I'm around, you won't get hurt! Relax, relax~"
+    },
+    "feeling3": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/feeling3.ogg",
+      "line": "I might not look like it, but I know how to be elegant! For example, I can... curtsy? Umm, is that what it was called?"
+    },
+    "feeling4": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/feeling4.ogg",
+      "line": "Commander! I dunno why, but I really want to hear your opinion now! Give me feedback on my performance today, okay? If you like it... I'll be walking on sunshine all day!"
+    },
+    "feeling5": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/feeling5.ogg",
+      "line": "I knew it... You're the perfect audience! You take my performance seriously, and you give me sincere feedback... Hehe, I love you, Commander!"
+    },
+    "headtouch": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/headtouch.ogg",
+      "line": "Oh, wooow! Your encouragement is making me feel more energetic than ever, Commander!"
+    },
+    "home": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/home.ogg",
+      "line": "Ooh, welcome back, Commander! Did you like my triple backflip? Pretty cool how I landed square in front of you too, right?"
+    },
+    "hp_warning": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/hp_warning.ogg",
+      "line": "Nkh... This is starting to hurt."
+    },
+    "login": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/login.ogg",
+      "line": "Woohoo! It's another high-energy day, Commander! Let's do some gymnastics together to warm up!"
+    },
+    "lose": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/lose.ogg",
+      "line": "I've got so much energy, but nothing to do with it..."
+    },
+    "mail": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/mail.ogg",
+      "line": "Ooh! This mail... must be an invitation to a dance party! Hurry and open it."
+    },
+    "main1": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/main1.ogg",
+      "line": "Hehe, I won a prize in another competition today! What kind? Hmm... I don't remember... Hahaha! I joined partway through!"
+    },
+    "main2": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/main2.ogg",
+      "line": "Look, Commander! Five turns in midair, followed by a 720-degree spin, and finally, a steady landing with Marteau... Whoa! I made a crater in the ground!"
+    },
+    "main3": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/main3.ogg",
+      "line": "Commander, I stopped a fight today! All I did was stand there with Marteau, and suddenly, they calmed down..."
+    },
+    "mission": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/mission.ogg",
+      "line": "Mission alert, mission alert! Let's get it done, Commander!"
+    },
+    "mission_complete": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/mission_complete.ogg",
+      "line": "Mission complete! Let's wrap it up with a high-energy acrobatic performance!"
+    },
+    "profile": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/profile.ogg",
+      "line": "Arromanches, the Colossus-class aircraft carrier, takes the stage! Wherever excitement goes, I follow! Apart from combat, I'm great at acrobatics – a real pro, you know! Hey, don't call me wild!"
+    },
+    "propose": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/propose.ogg",
+      "line": "I love you more than anything! I love you so much that I could do ten somersaults right now! But if I did that, I'd make a mess of the room... so I'll go for something simpler and more direct! Huuuug!"
+    },
+    "skill": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/skill.ogg",
+      "line": "Marteau Tornadooo!"
+    },
+    "touch": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/touch.ogg",
+      "line": "Commander, you wanna high-five? Awesome! Let me just charge up, and... HYAAAH!"
+    },
+    "touch2": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/touch2.ogg",
+      "line": "Hyah?! You sneaky little... Take this! And this!"
+    },
+    "unlock": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/unlock.ogg",
+      "line": "Hello, hello! Nice to meet you, Commander! I'm the acrobatic dancer of the Iris Libre, Arromanches! Rumors of a lively port brought me here! Come on – time to show me around my new home!"
+    },
+    "upgrade": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/upgrade.ogg",
+      "line": "Power up!"
+    },
+    "win_mvp": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/win_mvp.ogg",
+      "line": "Huh? I just finished warming up, and it's already over?!"
+    },
+    "gift_prefer": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/gift_prefer.ogg",
+      "line": "Oooh, a present from the Commander?! Yay!"
+    },
+    "detail_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/detail_ex.ogg",
+      "line": "Commander, I just discovered this cool pose! Basically, I wrap my legs around your waist like this... and now, I can use you to do stretches!"
+    },
+    "feeling5_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/feeling5_ex.ogg",
+      "line": "With my super-invincible Arromanches Hug, I'm gonna give you all of my joy, passion, and devoted love all at once! Hnnngh... Do you feel it, Commander?!"
+    },
+    "headtouch_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/headtouch_ex.ogg",
+      "line": "Heheh... Keep going, Commander! I'll tell you when you've petted me enough♪"
+    },
+    "home_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/home_ex.ogg",
+      "line": "Welcome back, Commander! Great work on that last mission! May I give you a massage? ...Huh? Don't worry, I won't be too rough! It'll be okay!"
+    },
+    "login_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/login_ex.ogg",
+      "line": "Com-man-der! Heheh... Seeing you again makes me super happy!"
+    },
+    "main4_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/main4_ex.ogg",
+      "line": "I was playing hopscotch just now, but I accidentally held the chalk too hard and broke it to bits... It was really pretty to see it fall down like a rainbow of powder!"
+    },
+    "main5_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/main5_ex.ogg",
+      "line": "Commander~ It's break time! Get over here so I can show you the after-exercise massage I just learned!"
+    },
+    "main6_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/main6_ex.ogg",
+      "line": "Whoa! Commander, why are you watching my practice videos? ...Let me watch with you! I'll sit in your lap – it's my personal VIP seat!"
+    },
+    "touch_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/touch_ex.ogg",
+      "line": "Hm? You wanna touch Marteau? Be my guest!"
+    },
+    "touch2_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806020/touch2_ex.ogg",
+      "line": "Heheh... Don't underestimate how flexible I am!"
+    }
+  },
+  "806021": {
+    "feeling5": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806021/feeling5.ogg",
+      "line": "Aww yeah, my aim is perfect! Hmm? You say I didn't fire any arrows? Heheh, well... I wasn't shooting at the target – I shot your heart! Did you feel how I pierced it right in the center? Hehehe!"
+    },
+    "headtouch": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806021/headtouch.ogg",
+      "line": "Huh?! Is this supposed to help me calm down? There's no way that'll... Huh. I do feel calmer now..."
+    },
+    "home": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806021/home.ogg",
+      "line": "Urk... Keeping this position is starting to make my feet cold... I know! Commander, hold my feet and use them to draw the bow! It'll help me practice AND warm up my feet – that's two birds with one stone!"
+    },
+    "login": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806021/login.ogg",
+      "line": "Drawing a bow while reciting my lines... i-is actually really hard! Only I can pull this off!"
+    },
+    "lose": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806021/lose.ogg",
+      "line": "I-I'm gonna fall!"
+    },
+    "main1": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806021/main1.ogg",
+      "line": "There's a lot of stuff I had to learn: how to keep my balance, how to draw a bow while doing a handstand, and how to aim with my feet!"
+    },
+    "main2": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806021/main2.ogg",
+      "line": "Are you trying to see if I can keep my balance while you're distracting me? That's not ne... Ack! D-don't touch my hair! If you do that, I... Nkh! Hahaha?! Don't tickle my feet, either! I'm gonna drop the arrow!"
+    },
+    "main3": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806021/main3.ogg",
+      "line": "Commander, can you aim the bow and arrow for me? Then, all I'll have to do is draw it and... Whoa?! I pulled too hard and broke the bow!"
+    },
+    "touch": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806021/touch.ogg",
+      "line": "Hmm? You wanna see if my posture is stable? Heheh, I promise you... Whoa?! Hey, that didn't count! I'm not ready yet!"
+    },
+    "touch2": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806021/touch2.ogg",
+      "line": "Hyah?! S-stop that, or I might collapse..."
+    },
+    "unlock": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806021/unlock.ogg",
+      "line": "Focus your core, keep your center of balance... Draw the bow, and... Huh? Great timing, Commander! I was just looking for an assistant for my new performance!"
+    },
+    "win_mvp": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/806021/win_mvp.ogg",
+      "line": "Hahaha! Perfect precision!"
+    }
+  },
   "807010": {
     "battle": {
       "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/807010/battle.ogg",
@@ -148877,6 +149417,207 @@
     "unlock": {
       "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/808012/unlock.ogg",
       "line": "Mmmh~ Bonjour, Commander~ Nothing feels better than the waves lapping at your skin~ Oh, Commander, why don't you come lie down and experience it for yourself?"
+    }
+  },
+  "818010": {
+    "battle": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/battle.ogg",
+      "line": "Let's cause some chaos in their ranks!"
+    },
+    "couple_encourage1": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/couple_encourage1.ogg",
+      "line": "I know the secret to becoming elegant. Just do as I say, and you'll get there in no time.",
+      "type": 0,
+      "list": [
+        80602
+      ],
+      "count": 1
+    },
+    "detail": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/detail.ogg",
+      "line": "One choice, one path, with countless possibilities swirling at your fingertips... Fact and fiction are irrelevant. All are simple hallucinations that disappear in the blink of an eye. What drives our choices, then? Fun, of course."
+    },
+    "expedition": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/expedition.ogg",
+      "line": "The commission team has brought back a veritable mountain of supplies! Heehee... It's actually an illusion. Aww, now I can't bring myself to dispel it, seeing how happy they are."
+    },
+    "feeling1": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/feeling1.ogg",
+      "line": "Boring."
+    },
+    "feeling2": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/feeling2.ogg",
+      "line": "Why are there a dozen coffee cups on your desk? Pssh, as if I would know... Try taking a drink, and you might find out. But if you pick wrong... Your coffee might just pounce on you like a cat!"
+    },
+    "feeling3": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/feeling3.ogg",
+      "line": "I heard there's a new scratcher at the convenience store. If you get the super-rare heart pattern, you can turn it in for a mystery prize... Isn't that thrilling? Anyway, I bought a thousand. Let's get scratching!"
+    },
+    "feeling4": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/feeling4.ogg",
+      "line": "Hmmm? Why am I following you? Don't worry about it. I'm just... discovering a new hobby of mine, hehehe."
+    },
+    "feeling5": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/feeling5.ogg",
+      "line": "Every decision you make opens up new possibilities for me... It fills me with more excitement than anything else. I'm totally addicted to you now, Commander."
+    },
+    "headtouch": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/headtouch.ogg",
+      "line": "You're petting me? Well, this is novel..."
+    },
+    "home": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/home.ogg",
+      "line": "That was a hard-fought battle. Relax those tense nerves, alright? I know a lot of fun places to go, and I'd be happy to show you around, hehehe~"
+    },
+    "hp_warning": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/hp_warning.ogg",
+      "line": "What chaos... Now I'm getting excited! Heheheh!"
+    },
+    "login": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/login.ogg",
+      "line": "*yaaawn*... Your daily schedule is so rigid that it puts me to sleep. I put some thrilling surprises in your daily schedule... You'd better look forward to those. Hehehe."
+    },
+    "lose": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/lose.ogg",
+      "line": "Oh my, don't be sad~ Sometimes, the roulette wheel of fate just lands on red."
+    },
+    "mail": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/mail.ogg",
+      "line": "You have new mail~ What could it be? I'm dying to know."
+    },
+    "main1": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/main1.ogg",
+      "line": "Oh, you're finally awake. We're on a snowy mountaintop! ...Oh, you think the snow is an illusion? What if the blanket's warmth is the illusion instead?"
+    },
+    "main2": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/main2.ogg",
+      "line": "The boredom of these monotonous times drives me crazy... Commander, entertain me. I'll take ANYTHING♡"
+    },
+    "main3": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/main3.ogg",
+      "line": "It's almost time for the girls' \"Grand Adventure\" to begin. Would you like to watch? These are the best seats in the house!"
+    },
+    "mission": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/mission.ogg",
+      "line": "I've put together a list of your unfinished missions. Take a look... Oh? You think I added that last one myself? Goodness, how easily you pierced my illusion..."
+    },
+    "mission_complete": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/mission_complete.ogg",
+      "line": "Mission complete... Are you SURE you're not interested in the special mission I planned for you?"
+    },
+    "profile": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/profile.ogg",
+      "line": "I'm Cherbourg, a naval treaty specification 23,333-long-ton protected cruiser under the Iris banner. As for who I am? A believer in chance, a connoisseur of chaos, and an illusionist... In this ever-changing world, I think it's a little silly to hold on to a fixed identity."
+    },
+    "propose": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/propose.ogg",
+      "line": "Marriage? Why, I'd be happy to~ Just imagining the unpredictable future that we share makes me shiver with excitement... Never ever bore me, you got that?"
+    },
+    "skill": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/skill.ogg",
+      "line": "Don't blink, or you might miss it! Heheheh!"
+    },
+    "touch": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/touch.ogg",
+      "line": "Oh? What will you do next? I can't wait to find out."
+    },
+    "touch2": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/touch2.ogg",
+      "line": "What a sudden attack... You know just how to entertain me, don't you? Heehee."
+    },
+    "unlock": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/unlock.ogg",
+      "line": "Are you the Commander? Greetings from Cherbourg, Illusionist of the Iris... Oh? Things are getting lively out there. Mind if I go take a look? I hope you and I can get to know each other better later on... Hehehe."
+    },
+    "upgrade": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/upgrade.ogg",
+      "line": "The line between reality and illusions blurs even further~"
+    },
+    "win_mvp": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/win_mvp.ogg",
+      "line": "Victory becomes boring the moment it's guaranteed... Let's get to our next battlefield."
+    },
+    "gift_prefer": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/gift_prefer.ogg",
+      "line": "Unwrapping a gift is always such an exciting experience~"
+    },
+    "feeling5_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/feeling5_ex.ogg",
+      "line": "I used to think that fun things were like sand on a beach – you can't have them all, and they'll slip through your fingers eventually. But then... I met you, Commander. You're my one-of-a-kind, inexhaustible treasure."
+    },
+    "headtouch_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/headtouch_ex.ogg",
+      "line": "Hmm? The spot you should be touching is right here, isn't it...? I'm sure it'll be more fun and thrilling... Heheheh."
+    },
+    "home_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/home_ex.ogg",
+      "line": "Let's go to the cafeteria together for a romantic, full-course Iris-style meal. Imagine the looks on everybody else's faces while they're having quick meals! Heheheheh!"
+    },
+    "login_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/login_ex.ogg",
+      "line": "I'm bored of everyday small talk. Let's skip the boring etiquette and have some fun, heheheh!"
+    },
+    "main4_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/main4_ex.ogg",
+      "line": "Why does your office door lead to my room now? Hehe, it's just a little trick of mine~ The look on your face made it all worth it."
+    },
+    "main5_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/main5_ex.ogg",
+      "line": "Let's flip a coin. If it's heads, we'll go do paperwork. If it's tails... let's do something more fun... Oh. It's standing on its edge? Isn't that funny!"
+    },
+    "main6_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/main6_ex.ogg",
+      "line": "Tadaaa! Work's over, which means it's time for our date! Let's get going... You want me to wait? No way! I'm at the end of my patience♪"
+    },
+    "touch_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/touch_ex.ogg",
+      "line": "Heheheh. Are you getting bored of the dull days, too?"
+    },
+    "touch2_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818010/touch2_ex.ogg",
+      "line": "Aaah. Try not to bore me too soon, now... Heheheh♥"
+    }
+  },
+  "818011": {
+    "detail": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818011/detail.ogg",
+      "line": "How did you like my teddy bear magic show? Wasn't it amazing? Or... Are you only focused on what you see spilling out of the costume?"
+    },
+    "headtouch": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818011/headtouch.ogg",
+      "line": "Don't worry. My outfit is soft, so it's a good cushion... To be quite honest, I'm having fun right now... Hehehe."
+    },
+    "home": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818011/home.ogg",
+      "line": "Hey, can you come over and hold me already? I'm a little chilly. Heheheh... Ah, I can feel your warmth..."
+    },
+    "login": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818011/login.ogg",
+      "line": "I didn't think I'd run into you quite like this... First I tripped and fell, and then, I almost crushed my one and only audience member... What a coincidence! Hehehe."
+    },
+    "main1": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818011/main1.ogg",
+      "line": "As an actor, I've managed to draw you, my viewer, into the spectacle... What should I do now, you think? Heehee!"
+    },
+    "main2": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818011/main2.ogg",
+      "line": "Hm... This position is really embarrassing... Oh? Are you enjoying the sight, Commander? Surely not~"
+    },
+    "main3": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818011/main3.ogg",
+      "line": "Was this all part of my plan? Nooo, it was just bad luck~ All I did was think about you. Isn't fate just an incredible thing?"
+    },
+    "touch": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818011/touch.ogg",
+      "line": "Aw, you're helping me up? Thank you... Oh nooo, I'm falling again~"
+    },
+    "touch2": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818011/touch2.ogg",
+      "line": "Taking advantage of a poor girl in distress? You're a real bully, Commander... Heheheh~"
+    },
+    "unlock": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/818011/unlock.ogg",
+      "line": "*pant*... It's really hot inside the teddy bear suit... I bet that dynamic entrance took you by surprise, didn't it? Heheh!"
     }
   },
   "901010": {
@@ -200129,6 +200870,10 @@
       "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/699010/feeling5.ogg",
       "line": "You! What is the deal with you? I never said you should \"spread the glory of Marco Polo's name!\" You... You... You're too ambitious for your own good!"
     },
+    "headtouch": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/699010/headtouch.ogg",
+      "line": "I've been meaning to ask... Why do you always behave so childishly?"
+    },
     "home": {
       "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/699010/home.ogg",
       "line": "I believe the secretary should have the power to issue commands. Only while you're away, of course."
@@ -200204,6 +200949,46 @@
     "gift_prefer": {
       "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/699010/gift_prefer.ogg",
       "line": "I graciously accept this sincere gift of yours. Heheheh!"
+    },
+    "detail_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/699010/detail_ex.ogg",
+      "line": "You wish to add a new chapter to the life story of Marco Polo? Magnificent. So, what will you write? You simply must include my ambition, of course... but you might wish to add something about our ordinary days of love as well!"
+    },
+    "feeling5_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/699010/feeling5_ex.ogg",
+      "line": "It was always my dream to conquer all I laid my eyes upon. However, I have now found a magnificent dream that will bring me even greater satisfaction. That's right. It is to carve the name of Marco Polo onto everything you do and accomplish!"
+    },
+    "headtouch_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/699010/headtouch_ex.ogg",
+      "line": "Does this please you? Very well. Do as you wish."
+    },
+    "home_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/699010/home_ex.ogg",
+      "line": "I organized today's work while you were absent. And now let's finish them together! For this is the responsibility we share!"
+    },
+    "login_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/699010/login_ex.ogg",
+      "line": "Come, Commander, let us achieve magnificent things together in our sugar-sweet days. I can hardly wait to begin!"
+    },
+    "main4_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/699010/main4_ex.ogg",
+      "line": "Your talents are wasted on that trifling paperwork! The real battlefield is not here, but out there! We really need to be applying our efforts to formulating expansion and changing the game!"
+    },
+    "main5_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/699010/main5_ex.ogg",
+      "line": "My domain is your domain, and my status is your status. In other words, they are the result of our combined efforts! How magnificent!"
+    },
+    "main6_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/699010/main6_ex.ogg",
+      "line": "How strange... I haven't had a single response to the collaboration plan I put out. Did I overestimate their efficiency?"
+    },
+    "touch_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/699010/touch_ex.ogg",
+      "line": "Have you thought of a way to achieve our ambitions? Not yet? Hehehe... What perfect timing, for I have an idea to share right now!"
+    },
+    "touch2_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/699010/touch2_ex.ogg",
+      "line": "You know, no matter how much time passes, you always – Mngh?!"
     }
   },
   "699011": {
@@ -200258,6 +201043,56 @@
     "win_mvp": {
       "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/699011/win_mvp.ogg",
       "line": "Acting on the Commander's behalf, I raise a toast to this victory!"
+    }
+  },
+  "699012": {
+    "detail": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/699012/detail.ogg",
+      "line": "How strange... The box's hidden door won't open. Keep your composure, Marco Polo. You can't afford to show any weakness... Just strike a pose before the Commander realizes there's something amiss! Nrk! My arm's gone to sleep!"
+    },
+    "feeling5": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/699012/feeling5.ogg",
+      "line": "That's quite some nerve you have. You know my objective is not as simple as it seems, yet you still chose to approach. I'm going to find it even harder to let you go than ever before!"
+    },
+    "headtouch": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/699012/headtouch.ogg",
+      "line": "I-I'm in the middle of my performance! What about my hat? There's nothing hidden underneath it!"
+    },
+    "home": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/699012/home.ogg",
+      "line": "Come, Commander, forget about any hidden doors and focus on my show. Perhaps if you watch carefully from right up close, you might be able to see through the trick."
+    },
+    "login": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/699012/login.ogg",
+      "line": "What do you think? There's nothing to it, even when I'm stuck inside a box and immobile. Now, will you engage in this thrilling challenge with me?"
+    },
+    "main1": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/699012/main1.ogg",
+      "line": "Time to perform a miracle... Heehee! Well, Commander, did my perfect finale blow you away?"
+    },
+    "main2": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/699012/main2.ogg",
+      "line": "Mmgh! Nnngh! A problem with the stage? That's impossible – I'm Marco Polo! This interval is the perfect thing to add a little excitement to my performance! I have everything under control!"
+    },
+    "main3": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/699012/main3.ogg",
+      "line": "This is an intriguing outfit, don't you think? Oh? It suits me, does it? Say, why are you looking at me like that?"
+    },
+    "touch": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/699012/touch.ogg",
+      "line": "It's just a little trick. You have nothing to be afraid of... Now, hurry up and come in!"
+    },
+    "touch2": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/699012/touch2.ogg",
+      "line": "Now that you have dared to come this close, I... I won't let you get away!"
+    },
+    "unlock": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/699012/unlock.ogg",
+      "line": "Welcome to Marco Polo's magic show! Make sure you watch closely, Commander, and pay attention! Don't get too engrossed in the entertainment, now! Ooohohoho!"
+    },
+    "win_mvp": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/699012/win_mvp.ogg",
+      "line": "Did you see that? My magnificent performance!"
     }
   },
   "699030": {
