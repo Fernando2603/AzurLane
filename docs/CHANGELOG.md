@@ -1,3 +1,10 @@
+## Patch 5.1.7
+<details>
+  <summary>26 June 2026</summary>
+
+  - fix meowfficer missing `type` key
+</details>
+
 ## Patch 5.1.6
 <details>
   <summary>24 June 2026</summary>

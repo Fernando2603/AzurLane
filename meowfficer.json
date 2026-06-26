@@ -3,6 +3,9 @@
     "id": 10011,
     "name": "Justice",
     "rarity": "Super Rare",
+    "type": [
+      "DD"
+    ],
     "slot": "Command",
     "timer": "10:24:00",
     "nationality": 1,
@@ -42,6 +45,11 @@
     "id": 10021,
     "name": "Antenna",
     "rarity": "Super Rare",
+    "type": [
+      "BB",
+      "BC",
+      "BBV"
+    ],
     "slot": "General",
     "timer": "10:45:00",
     "nationality": 1,
@@ -81,6 +89,9 @@
     "id": 11011,
     "name": "Bunny",
     "rarity": "Elite",
+    "type": [
+      "DD"
+    ],
     "slot": "Command",
     "timer": "06:09:00",
     "nationality": 1,
@@ -120,6 +131,10 @@
     "id": 11021,
     "name": "Eagle",
     "rarity": "Elite",
+    "type": [
+      "CV",
+      "CVL"
+    ],
     "slot": "Staff",
     "timer": "05:36:00",
     "nationality": 1,
@@ -159,6 +174,10 @@
     "id": 12011,
     "name": "Lady",
     "rarity": "Rare",
+    "type": [
+      "CV",
+      "CVL"
+    ],
     "slot": "Staff",
     "timer": "02:03:00",
     "nationality": 1,
@@ -198,6 +217,11 @@
     "id": 12021,
     "name": "SG",
     "rarity": "Rare",
+    "type": [
+      "CL",
+      "CA",
+      "CB"
+    ],
     "slot": "Staff",
     "timer": "02:25:00",
     "nationality": 1,
@@ -237,6 +261,11 @@
     "id": 20011,
     "name": "Lime",
     "rarity": "Super Rare",
+    "type": [
+      "BB",
+      "BC",
+      "BBV"
+    ],
     "slot": "Staff",
     "timer": "10:05:00",
     "nationality": 2,
@@ -276,6 +305,11 @@
     "id": 20021,
     "name": "Pound",
     "rarity": "Super Rare",
+    "type": [
+      "BB",
+      "BC",
+      "BBV"
+    ],
     "slot": "Command",
     "timer": "10:27:00",
     "nationality": 2,
@@ -315,6 +349,11 @@
     "id": 21011,
     "name": "Pepper",
     "rarity": "Elite",
+    "type": [
+      "CL",
+      "CA",
+      "CB"
+    ],
     "slot": "Staff",
     "timer": "06:16:00",
     "nationality": 2,
@@ -354,6 +393,9 @@
     "id": 21021,
     "name": "Soup",
     "rarity": "Elite",
+    "type": [
+      "DD"
+    ],
     "slot": "Staff",
     "timer": "05:30:00",
     "nationality": 2,
@@ -393,6 +435,10 @@
     "id": 21031,
     "name": "Ark",
     "rarity": "Elite",
+    "type": [
+      "CV",
+      "CVL"
+    ],
     "slot": "Staff",
     "timer": "06:43:00",
     "nationality": 2,
@@ -432,6 +478,11 @@
     "id": 21041,
     "name": "Marble",
     "rarity": "Elite",
+    "type": [
+      "BB",
+      "BC",
+      "BBV"
+    ],
     "slot": "Staff",
     "timer": "07:26:00",
     "nationality": 2,
@@ -471,6 +522,11 @@
     "id": 22011,
     "name": "Rose",
     "rarity": "Rare",
+    "type": [
+      "BB",
+      "BC",
+      "BBV"
+    ],
     "slot": "Staff",
     "timer": "02:17:00",
     "nationality": 2,
@@ -510,6 +566,11 @@
     "id": 22021,
     "name": "Bugles",
     "rarity": "Rare",
+    "type": [
+      "CL",
+      "CA",
+      "CB"
+    ],
     "slot": "Staff",
     "timer": "01:39:00",
     "nationality": 2,
@@ -549,6 +610,10 @@
     "id": 30011,
     "name": "Bishamaru",
     "rarity": "Super Rare",
+    "type": [
+      "CV",
+      "CVL"
+    ],
     "slot": "Staff",
     "timer": "09:58:00",
     "nationality": 3,
@@ -588,6 +653,11 @@
     "id": 30021,
     "name": "Takemaru",
     "rarity": "Super Rare",
+    "type": [
+      "CL",
+      "CA",
+      "CB"
+    ],
     "slot": "Command",
     "timer": "09:40:00",
     "nationality": 3,
@@ -627,6 +697,10 @@
     "id": 31011,
     "name": "Jiromaru",
     "rarity": "Elite",
+    "type": [
+      "CV",
+      "CVL"
+    ],
     "slot": "Staff",
     "timer": "05:37:00",
     "nationality": 3,
@@ -666,6 +740,9 @@
     "id": 31021,
     "name": "Yoshimaru",
     "rarity": "Elite",
+    "type": [
+      "DD"
+    ],
     "slot": "Staff",
     "timer": "06:23:00",
     "nationality": 3,
@@ -705,6 +782,11 @@
     "id": 32011,
     "name": "Asamaru",
     "rarity": "Rare",
+    "type": [
+      "CL",
+      "CA",
+      "CB"
+    ],
     "slot": "Staff",
     "timer": "02:06:00",
     "nationality": 3,
@@ -744,6 +826,11 @@
     "id": 32021,
     "name": "Katsumaru",
     "rarity": "Rare",
+    "type": [
+      "BB",
+      "BC",
+      "BBV"
+    ],
     "slot": "Staff",
     "timer": "01:55:00",
     "nationality": 3,
@@ -783,6 +870,10 @@
     "id": 40011,
     "name": "Steel",
     "rarity": "Super Rare",
+    "type": [
+      "SS",
+      "SSV"
+    ],
     "slot": "Command",
     "timer": "09:35:00",
     "nationality": 4,
@@ -822,6 +913,11 @@
     "id": 40021,
     "name": "Oscar",
     "rarity": "Super Rare",
+    "type": [
+      "BB",
+      "BC",
+      "BBV"
+    ],
     "slot": "Staff",
     "timer": "10:03:00",
     "nationality": 4,
@@ -861,6 +957,11 @@
     "id": 41011,
     "name": "Potato",
     "rarity": "Elite",
+    "type": [
+      "BB",
+      "BC",
+      "BBV"
+    ],
     "slot": "Staff",
     "timer": "06:45:00",
     "nationality": 4,
@@ -900,6 +1001,10 @@
     "id": 41021,
     "name": "Edelweiss",
     "rarity": "Elite",
+    "type": [
+      "SS",
+      "SSV"
+    ],
     "slot": "Staff",
     "timer": "05:57:00",
     "nationality": 4,
@@ -939,6 +1044,10 @@
     "id": 41031,
     "name": "Gral",
     "rarity": "Elite",
+    "type": [
+      "SS",
+      "SSV"
+    ],
     "slot": "Staff",
     "timer": "05:52:00",
     "nationality": 4,
@@ -978,6 +1087,11 @@
     "id": 42011,
     "name": "Tofu",
     "rarity": "Rare",
+    "type": [
+      "CL",
+      "CA",
+      "CB"
+    ],
     "slot": "Staff",
     "timer": "01:54:00",
     "nationality": 4,
@@ -1017,6 +1131,9 @@
     "id": 42021,
     "name": "Beer",
     "rarity": "Rare",
+    "type": [
+      "DD"
+    ],
     "slot": "Staff",
     "timer": "02:32:00",
     "nationality": 4,
@@ -1056,6 +1173,7 @@
     "id": 960011,
     "name": "Drake",
     "rarity": "Super Rare",
+    "type": [],
     "slot": "General",
     "timer": null,
     "nationality": 96,
@@ -1094,6 +1212,7 @@
     "id": 960021,
     "name": "Kidd",
     "rarity": "Super Rare",
+    "type": [],
     "slot": "General",
     "timer": null,
     "nationality": 96,
@@ -1132,6 +1251,7 @@
     "id": 960031,
     "name": "Bellamy",
     "rarity": "Elite",
+    "type": [],
     "slot": "General",
     "timer": null,
     "nationality": 96,
@@ -1170,6 +1290,7 @@
     "id": 960041,
     "name": "Every",
     "rarity": "Super Rare",
+    "type": [],
     "slot": "General",
     "timer": null,
     "nationality": 96,
@@ -1208,6 +1329,7 @@
     "id": 960051,
     "name": "Roberts",
     "rarity": "Elite",
+    "type": [],
     "slot": "General",
     "timer": null,
     "nationality": 96,
@@ -1246,6 +1368,7 @@
     "id": 960061,
     "name": "Teach",
     "rarity": "Super Rare",
+    "type": [],
     "slot": "General",
     "timer": null,
     "nationality": 96,
@@ -1284,6 +1407,7 @@
     "id": 960071,
     "name": "Bonnet",
     "rarity": "Elite",
+    "type": [],
     "slot": "General",
     "timer": null,
     "nationality": 96,
