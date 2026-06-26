@@ -17,7 +17,7 @@
     "skill": {
       "id": 10011,
       "name": "31 Knots of Justice",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/1001.png",
       "level": {
         "1": {
           "id": 10011,
@@ -61,7 +61,7 @@
     "skill": {
       "id": 10021,
       "name": "Snipurr",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/1002.png",
       "level": {
         "1": {
           "id": 10021,
@@ -103,7 +103,7 @@
     "skill": {
       "id": 11011,
       "name": "Bite Their Fingers",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/1101.png",
       "level": {
         "1": {
           "id": 11011,
@@ -146,7 +146,7 @@
     "skill": {
       "id": 11021,
       "name": "Nine Lives",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/1102.png",
       "level": {
         "1": {
           "id": 11021,
@@ -189,7 +189,7 @@
     "skill": {
       "id": 12011,
       "name": "Carrier Boost",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/buff.png",
       "level": {
         "1": {
           "id": 12011,
@@ -233,7 +233,7 @@
     "skill": {
       "id": 12021,
       "name": "Recon Boost",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/def.png",
       "level": {
         "1": {
           "id": 12021,
@@ -277,7 +277,7 @@
     "skill": {
       "id": 20011,
       "name": "Churchill's Blessing",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/2001.png",
       "level": {
         "1": {
           "id": 20011,
@@ -321,7 +321,7 @@
     "skill": {
       "id": 20021,
       "name": "Rule Britannya",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/2002.png",
       "level": {
         "1": {
           "id": 20021,
@@ -365,7 +365,7 @@
     "skill": {
       "id": 21011,
       "name": "Commerce Purrsuiter",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/2101.png",
       "level": {
         "1": {
           "id": 21011,
@@ -407,7 +407,7 @@
     "skill": {
       "id": 21021,
       "name": "Purrceptive",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/2102.png",
       "level": {
         "1": {
           "id": 21021,
@@ -450,7 +450,7 @@
     "skill": {
       "id": 21031,
       "name": "Tiddles' Legacy",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/2103.png",
       "level": {
         "1": {
           "id": 21031,
@@ -494,7 +494,7 @@
     "skill": {
       "id": 21041,
       "name": "Sophissticated",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/2104.png",
       "level": {
         "1": {
           "id": 21041,
@@ -538,7 +538,7 @@
     "skill": {
       "id": 22011,
       "name": "Battleship Boost",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/buff.png",
       "level": {
         "1": {
           "id": 22011,
@@ -582,7 +582,7 @@
     "skill": {
       "id": 22021,
       "name": "Cruiser Tactics",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/buff.png",
       "level": {
         "1": {
           "id": 22021,
@@ -625,7 +625,7 @@
     "skill": {
       "id": 30011,
       "name": "Paws of Fury",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/3001.png",
       "level": {
         "1": {
           "id": 30011,
@@ -669,7 +669,7 @@
     "skill": {
       "id": 30021,
       "name": "Ironbottom Tail Swipe",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/3002.png",
       "level": {
         "1": {
           "id": 30021,
@@ -712,7 +712,7 @@
     "skill": {
       "id": 31011,
       "name": "Belly Flop Bombardment",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/3101.png",
       "level": {
         "1": {
           "id": 31011,
@@ -754,7 +754,7 @@
     "skill": {
       "id": 31021,
       "name": "Feral Instincts",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/3102.png",
       "level": {
         "1": {
           "id": 31021,
@@ -798,7 +798,7 @@
     "skill": {
       "id": 32011,
       "name": "Cruiser Directives",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/buff.png",
       "level": {
         "1": {
           "id": 32011,
@@ -842,7 +842,7 @@
     "skill": {
       "id": 32021,
       "name": "Battleship Support",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/buff.png",
       "level": {
         "1": {
           "id": 32021,
@@ -885,7 +885,7 @@
     "skill": {
       "id": 40011,
       "name": "Silent Hunter",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/4001.png",
       "level": {
         "1": {
           "id": 40011,
@@ -929,7 +929,7 @@
     "skill": {
       "id": 40021,
       "name": "Unsinkable Oscar",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/4002.png",
       "level": {
         "1": {
           "id": 40021,
@@ -973,7 +973,7 @@
     "skill": {
       "id": 41011,
       "name": "Paladin of the Sea",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/4101.png",
       "level": {
         "1": {
           "id": 41011,
@@ -1016,7 +1016,7 @@
     "skill": {
       "id": 41021,
       "name": "Champion of the Sea",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/4102.png",
       "level": {
         "1": {
           "id": 41021,
@@ -1059,7 +1059,7 @@
     "skill": {
       "id": 41031,
       "name": "Sentinel of the Sea",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/4103.png",
       "level": {
         "1": {
           "id": 41031,
@@ -1103,7 +1103,7 @@
     "skill": {
       "id": 42011,
       "name": "Cruiser Boost",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/buff.png",
       "level": {
         "1": {
           "id": 42011,
@@ -1145,7 +1145,7 @@
     "skill": {
       "id": 42021,
       "name": "Destroyer Directives",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/buff.png",
       "level": {
         "1": {
           "id": 42021,
@@ -1185,7 +1185,7 @@
     "skill": {
       "id": 960011,
       "name": "Towards Land's End",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/96001.png",
       "level": {
         "1": {
           "id": 960013,
@@ -1224,7 +1224,7 @@
     "skill": {
       "id": 960021,
       "name": "Certified Privateer",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/96002.png",
       "level": {
         "1": {
           "id": 960023,
@@ -1263,7 +1263,7 @@
     "skill": {
       "id": 960031,
       "name": "Breakneck Sam",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/96003.png",
       "level": {
         "1": {
           "id": 960033,
@@ -1302,7 +1302,7 @@
     "skill": {
       "id": 960041,
       "name": "Fantastical Plunder",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/96004.png",
       "level": {
         "1": {
           "id": 960043,
@@ -1341,7 +1341,7 @@
     "skill": {
       "id": 960051,
       "name": "Honor Among Thieves",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/96005.png",
       "level": {
         "1": {
           "id": 960053,
@@ -1380,7 +1380,7 @@
     "skill": {
       "id": 960061,
       "name": "Unfinished Legend",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/96006.png",
       "level": {
         "1": {
           "id": 960063,
@@ -1419,7 +1419,7 @@
     "skill": {
       "id": 960071,
       "name": "Tale of the Gentleman Pirate",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/skill/96007.png",
       "level": {
         "1": {
           "id": 960073,

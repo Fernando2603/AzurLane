@@ -1,3 +1,10 @@
+## Patch 5.1.8
+<details>
+  <summary>26 June 2026</summary>
+
+  - fix skill_icon use wrong template instead of `dict[str, str | None]`
+</details>
+
 ## Patch 5.1.7
 <details>
   <summary>26 June 2026</summary>
