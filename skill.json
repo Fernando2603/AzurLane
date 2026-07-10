@@ -2771,7 +2771,7 @@
     "id": 12480,
     "type": 1,
     "name": "APsolute Ammunition",
-    "desc": "Changes the ammo type of this ship's Main Guns to Special AP Lv.1 (Lv.10). The DMG bonus of this ammo is based on the skill's level.",
+    "desc": "This ship's Main Gun ammo type changes to Lv.1 (Lv.10) Special AP (AP DMG modifier is based on the skill's level).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/12480.png",
     "max_level": 10
   },
@@ -9195,7 +9195,7 @@
     "id": 18290,
     "type": 1,
     "name": "The Fearless Privateer+",
-    "desc": "Increases this ship's built-in Secondary Gun's Crit Rate by 20.0% (50.0%) and improves its ammo type. When this ship uses a Main Gun that fires Normal or HE ammo: this ship's Main Gun ammo type changes to Lv.1 (Lv.10) special HE+ that has a chance to inflict a special Burn to enemies hit (DMG is based on the skill's level). Decreases the shot requirement of this ship's All Out Assault skill to 6.",
+    "desc": "Increases this ship's built-in Secondary Gun Crit Rate by 20.0% (50.0%) and improves its ammo; when this ship uses a Main Gun that fires Normal or HE ammo: this ship's Main Gun ammo type changes to Lv.1 (Lv.10) improved special HE with a chance to cause a special Burn to enemies (Special HE DMG modifier is based on the skill's level). Reduces the amount of Main Gun attacks required to trigger All Out Assault to 6.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/18290.png",
     "max_level": 10
   },
@@ -9595,7 +9595,7 @@
     "id": 19290,
     "type": 1,
     "name": "The Fearless Privateer",
-    "desc": "Increases this ship's built-in Secondary Gun Crit Rate by 20.0% (50.0%) and improves its ammo. When this ship uses a Main Gun that fires Normal or HE ammo: this ship's Main Gun ammo type changes to Lv.1 (Lv.10) special HE with a chance to cause a special Burn to enemies (special HE DMG increase is based on the skill's level.)",
+    "desc": "Increases this ship's built-in Secondary Gun Crit Rate by 20.0% (50.0%) and improves its ammo; when this ship uses a Main Gun that fires Normal or HE ammo: this ship's Main Gun ammo type changes to Lv.1 (Lv.10) improved special HE with a chance to cause a special Burn to enemies (Special HE DMG modifier is based on the skill's level).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/19290.png",
     "max_level": 10
   },
@@ -9651,7 +9651,7 @@
     "id": 19360,
     "type": 3,
     "name": "Substitute Mechanism: Holy Thurible",
-    "desc": "When this ship uses a Main Gun that fires HE ammo: increases its FP by 1.0% (5.0%), AA by 5.0% (15.0%), and increases its HE DMG modifier against enemies with Heavy armor by 5.0% (15.0%); when using one that fires AP: increases this ship's FP by 1.0% (5.0%), RLD by 5.0% (15.0%), and increases its Crit Rate by 5.0% (20.0%). While this ship is above 75.0% HP: absorbs 50.0% of the DMG your Flagship takes (does nothing if this ship is the Flagship); when this ship's HP falls below 75.0%: increases this ship's EVA and Accuracy by 5.0% (15.0%).",
+    "desc": "When this ship uses a Main Gun that fires HE ammo: increases this ship's FP by 1.0% (5.0%), AA by 5.0% (15.0%), and increases this ship's HE DMG modifier against Heavy Armor enemies by 5.0% (15.0%); when using a Main Gun that fires AP ammo: increases this ship's FP by 1.0% (5.0%), RLD by 5.0% (15.0%), and Crit Rate by 5.0% (20.0%); While this ship is above 75.0% HP: absorbs 50.0% of the DMG your Flagship takes (does not take effect if this ship is the Flagship); when this ship's HP falls below 75.0%: increases this ship's EVA and ACC by 5.0% (15.0%).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/19360.png",
     "max_level": 10
   },
@@ -10059,7 +10059,7 @@
     "id": 19900,
     "type": 3,
     "name": "Origination: Principia Reconstruction",
-    "desc": "Increases this ship's FP and ACC by 5.0% (15.0%), decreases this ship's Main Gun Spread by 0.5 (5), and increases her DMG modifier against Heavy Armor enemies by 5.0% (15.0%). When there is another Iron Blood ship in your Main Fleet: increases this ship's RLD by 5.0% (15.0%).",
+    "desc": "Increases this ship's FP and ACC by 5.0% (15.0%), decreases this ship's Main Gun spread by 0.5 (5), and increases her DMG modifier against Heavy Armor enemies by 5.0% (15.0%). When there is another Iron Blood ship in your Main Fleet: increases this ship's RLD by 5.0% (15.0%).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/19900.png",
     "max_level": 10
   },
@@ -10157,6 +10157,30 @@
     "name": "Bladebreaker's Bastion",
     "desc": "Increases this ship's ACC and RLD by 1.0% (10.0%) and decreases this ship's torpedo DMG taken by 10.0% (20.0%). During battle, when this ship takes DMG: 1.0% (10.0%) chance to decreases that DMG instance by 70.0%. When this ship's HP falls below 50.0%: deploys a barrier (lasting 5s; 20s cooldown between activations) that can negate DMG equal to 1.0% (10.0%) of this ship's max HP; increases this ship's EVA by 1.0% (10.0%) while this shield exists.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/19990.png",
+    "max_level": 10
+  },
+  "190030": {
+    "id": 190030,
+    "type": 1,
+    "name": "Skysplitting Wings of the Ancient Dragon",
+    "desc": "When this ship launches an airstrike, 50.0% (100.0%) chance to activate the following effects:\n1) Increases this ship's DMG dealt by 1.0% (10.0%) for 6s;\n2) Increases this ship's Crit Rate by 10.0% (20.0%) and Crit DMG by 20.0% (40.0%) for 6s;\n3) Fires a 10.0% (20.0%) special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/190030.png",
+    "max_level": 10
+  },
+  "190040": {
+    "id": 190040,
+    "type": 3,
+    "name": "Shadows of the Sky-Subjugator",
+    "desc": "At the start of battle, increases this ship's AVI and ACC by 5.0% (15.0%). When this ship launches an airstrike: increases this ship's Detection Gauge recovery by 2 per second, lasting for 5s. If this ship has a dive bomber equipped: increases this ship's RLD by 1.0% (10.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/190040.png",
+    "max_level": 10
+  },
+  "190050": {
+    "id": 190050,
+    "type": 2,
+    "name": "Steel-Shattering Scales",
+    "desc": "Once per battle, this ship gains the following effects upon falling below 40.0% HP as a result of DMG taken:\n1) Resets this ship's Detection Gauge and restores 15.0% (30.0%) of her Max HP;\n2) Increases this ship's AA and EVA by 5.0% (15.0%) until the end of battle;\n3) Reduces this ship's DMG taken by 10.0% (20.0%) until the end of battle.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/190050.png",
     "max_level": 10
   },
   "20011": {
@@ -14775,6 +14799,38 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/20200.png",
     "max_level": 1
   },
+  "30631": {
+    "id": 30631,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Orage once every 15 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30630.png",
+    "max_level": 1
+  },
+  "30632": {
+    "id": 30632,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Orage once every 10 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30630.png",
+    "max_level": 1
+  },
+  "30651": {
+    "id": 30651,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Takahashi once every 15 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30650.png",
+    "max_level": 1
+  },
+  "30652": {
+    "id": 30652,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Takahashi once every 10 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30650.png",
+    "max_level": 1
+  },
   "30621": {
     "id": 30621,
     "type": 1,
@@ -17189,6 +17245,86 @@
     "name": "Winter Survival Rules",
     "desc": "When the battle starts, if this ship is NOT the frontmost ship of your Vanguard: decreases this ship's shelling DMG taken by 5.0% (15.0%) and increases her EVA by 5.0% (15.0%). Every 10s after the battle starts: increases this ship's FP by 1.5% (5.0%) and AA by 1.0% (10.0%) (can be stacked up to 3 times). Once per battle, when this ship's HP falls below 50.0%: this ship evades all attacks for 5s and recovers 10.0% of her max HP.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/190010.png",
+    "max_level": 10
+  },
+  "190060": {
+    "id": 190060,
+    "type": 1,
+    "name": "The Storm Approaches",
+    "desc": "Increases the DMG of torpedoes fired by this ship by 30.0% (this effect will decrease based on distance traveled after torpedoes have traveled more than 15 units, down to a minimum of 0% at 90 units). When this ship's torpedoes finish reloading: increases this ship's SPD by 5 and EVA by 3.5% (8.0%) for 6s. When this ship fires her torpedoes: fires an additional Lv.1 (Lv.10) torpedo barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/190060.png",
+    "max_level": 10
+  },
+  "190070": {
+    "id": 190070,
+    "type": 3,
+    "name": "Ruler of the Thunderstorm Front",
+    "desc": "Increases this ship's TRP and FP by 10.0% (20.0%). Every 10s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) and creates a Thunderstorm Front that moves forward for 5s; enemies inside the Thunderstorm Front take 5.0% increased Torpedo DMG and have 30.0% reduced SPD. While this ship has less than 50.0% HP: reduces this ship's DMG taken by 20.0% (40.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/190070.png",
+    "max_level": 10
+  },
+  "190080": {
+    "id": 190080,
+    "type": 1,
+    "name": "Commencing Cleanup Duty",
+    "desc": "At the start of battle, increases this ship's FP and ACC by 10.0% (20.0%). Every 30s, as long as this ship is not the flagship: increases the DMG of this ship's next Main Gun salvo by 10.0% (20.0%) (this effect cannot be stacked). When this ship fires her Main Guns: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); enemies hit by this barrage take 5.0% increased HE DMG for 5s. Increases this ship's DMG dealt to CLs and CAs by 1.0% (10.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/190080.png",
+    "max_level": 10
+  },
+  "190090": {
+    "id": 190090,
+    "type": 2,
+    "name": "A Professional's Composure",
+    "desc": "At the start of battle, increases this ship's EVA by 5.0% (15.0%). As long as this ship is afloat: reduces all other Main Fleet ships' DMG taken by 1.5% (5.0%). Up to twice per battle, when this ship's HP drops below 50.0% as a result of DMG taken: restores 1.5% (5.0%) of this ship's Max HP and fires a Lv.1 (Lv.10) homing torpedo at the nearest enemy (DMG is based on the skill's level); enemies hit by this homing torpedo have 30.0% reduced SPD for 6s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/190090.png",
+    "max_level": 10
+  },
+  "190100": {
+    "id": 190100,
+    "type": 1,
+    "name": "Shimmering Tradewinds of Pedrería",
+    "desc": "When this ship's Main Gun finishes reloading: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). After this effect activates: increases all enemies' DMG taken by 3.0% and increases all allies' SPD by 3 and AA by 5.0% (15.0%), lasting for 6s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/190100.png",
+    "max_level": 10
+  },
+  "190110": {
+    "id": 190110,
+    "type": 3,
+    "name": "Crystalline Hearth of Homecoming",
+    "desc": "During battle, increases this ship's FP by 1.0% (10.0%) and RLD by 10.0% (20.0%). The ammo type of this ship's equipped Secondary Gun is converted into Lv.1 (Lv.10) special HE ammo that ignores enemy shields (Special HE DMG modifier increases based on the skill's level). Once per battle, either 20s after the start of battle or when this ship's secondary guns have fired 30 times: restores 5.0% (15.0%) of this ship's Max HP and increases the detection range and firing range of this ship's secondary guns to 105.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/190110.png",
+    "max_level": 10
+  },
+  "190120": {
+    "id": 190120,
+    "type": 2,
+    "name": "Ruby's Refrain of Restoration",
+    "desc": "During battle, whenever this ship fires her secondary guns 20 times: restores 1.5% (5.0%) of this ship's Max HP (5s cooldown between activations); every 2 times this effect activates: restores 3.5% (8.0%) HP to the ship in your fleet with the lowest HP percentage.\nWhen a fleet that this ship is NOT in starts a battle: as long as this ship is still afloat, fires a Lv.1 (Lv.10) special attack whenever an enemy enters a certain range (DMG is based on the skill's level; maximum of 5 times per battle, 5s cooldown between activations); when this effect has activated 5 times: restores 5.0% HP to the frontmost ship of your Vanguard fleet.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/190120.png",
+    "max_level": 10
+  },
+  "190130": {
+    "id": 190130,
+    "type": 3,
+    "name": "Devouring Web",
+    "desc": "Increases the Crit Rate of this ship's equipped torpedoes by 15.0% (25.0%) and their Crit DMG by 20.0% (50.0%). Every 15s: performs a Lv.1 (Lv.10) special spiderweb attack (DMG is based on the skill's level); if the spiderweb hits only 1 target: reduces that enemy's SPD by 40.0% for 6s and restores 2.0% of your Vanguard ships' Max HP; if the spiderweb hits more than 1 target: restores 3.0% of Takahashi's Max HP, then fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level; enemies hit by this barrage take 15.0% increased DMG from Takahashi).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/190130.png",
+    "max_level": 10
+  },
+  "190140": {
+    "id": 190140,
+    "type": 2,
+    "name": "Webwoven Zen Grotto",
+    "desc": "Increases this ship's AA Gun Efficiency by 20.0% (50.0%) and your fleet's AA Range by +5. When 7 aircraft are shot down inside your fleet's AA Range, increases your Vanguard fleet's AA by 15.0% (30.0%) until the end of battle.\nAt the start of battle, this ship gains the following effects if equipping any pieces of Sakura Empire gear:\n1) Whenever this ship finishes reloading her torpedoes: generates 1 shield that can absorb up to 6 bullets, lasting for 5s (repeated activations while the shield is active will only refresh the shield's duration);\n2) Whenever this ship fires her torpedoes: fires an additional Lv.1 (Lv.10) torpedo barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/190140.png",
+    "max_level": 10
+  },
+  "190150": {
+    "id": 190150,
+    "type": 2,
+    "name": "Ruby's Refrain of Restoration",
+    "desc": "瓦尔帕莱索跨队效果ID",
+    "icon": null,
     "max_level": 10
   },
   "800010": {
@@ -19771,7 +19907,7 @@
     "id": 801820,
     "type": 3,
     "name": "The Roamer's Blade",
-    "desc": "Increases this ship's Evasion Rate by 3.5% (8.0%) and DMG dealt to Cruisers by 5.0% (15.0%). Increases the DMG dealt of this ship's equipped torpedoes against Light and Medium Armor enemies by 5.0% (15.0%).",
+    "desc": "Increases this ship's Evasion Rate by 3.5% (8.0%) and DMG dealt to cruisers by 5.0% (15.0%). Increases this ship's equipped torpedoes' DMG modifier against Light and Medium Armor enemies by 5.0% (15.0%).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/801820.png",
     "max_level": 10
   },
@@ -21467,7 +21603,7 @@
     "id": 1013050,
     "type": 1,
     "name": "Long Live the Revolution!+",
-    "desc": "When this ship fires her Main Guns: increases your Northern Parliament ships' FP, TRP, AVI, AA, and RLD by 8.0% (18.0%) for 12s. If this ship has the Triple 305mm M1907 Main Gun Mount equipped: increases this ship's Main Gun efficiency by 60.0% (90.0%) and decreases the reload time of this ship's first 4 Main Gun volleys by 20.0% (35.0%) and increases her Main Gun's DMG dealt against Medium and Heavy Armor enemies by 5.0% (15.0%).",
+    "desc": "When this ship fires her Main Guns: increases your Northern Parliament ships' FP, TRP, AVI, AA, and RLD by 8.0% (18.0%) for 12s. If this ship has the Triple 305mm M1907 Main Gun Mount equipped: increases this ship's Main Gun efficiency by 60.0% (90.0%) and decreases the reload time of this ship's first 4 Main Gun volleys by 20.0% (35.0%) and increases her Main Gun's DMG modifier against Medium and Heavy Armor enemies by 5.0% (15.0%).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/13050.png",
     "max_level": 10
   },
@@ -21475,7 +21611,7 @@
     "id": 1012480,
     "type": 1,
     "name": "APsolute Ammunition+",
-    "desc": "This ship's Main Gun ammo type changes to Lv.1 (Lv.10) Special AP (DMG increase is based on the skill's level). When this Special AP hits an enemy: 1.0% (3.5%) chance to inflict that enemy with Weakness Exposed; Weakness Exposed lasts for 8s and increases that enemy's shelling DMG received by 8.0%.\n15s after the battle starts, and every 20s after that: this ship gains a stealth mode, evading all enemy attacks for 3s; when this mode ends: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) that inflicts the Weakness Exposed debuff to enemies hit.",
+    "desc": "This ship's Main Gun ammo type changes to Lv.1 (Lv.10) Special AP (AP DMG modifier is based on the skill's level). When this Special AP hits an enemy: 1.0% (3.5%) chance to inflict that enemy with Weakness Exposed; Weakness Exposed lasts for 8s and increases that enemy's shelling DMG received by 8.0%.\n15s after the battle starts, and every 20s after that: this ship gains a stealth mode, evading all enemy attacks for 3s; when this mode ends: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) that inflicts the Weakness Exposed debuff to enemies hit.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/1012480.png",
     "max_level": 10
   },
@@ -21751,6 +21887,14 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/18300.png",
     "max_level": 10
   },
+  "1014050": {
+    "id": 1014050,
+    "type": 1,
+    "name": "Viola Spear+",
+    "desc": "At the start of battle, increases this ship's RLD and ACC by 10.0% (20.0%); additionally, if there are two or more Sardegna Empire ships in the fleet: increases the weapon efficiency of this ship's first gear slot by 10.0%.\nWhen this ship fires her Main Guns: 40.0% (70%) chance to fire a Lv.1 (Lv.10) improved special barrage (DMG is based on the skill's level, 5s cooldown between activations). If there are two or more Sardegna Empire ships in the fleet: increases the chance of activating this improved special barrage by 30.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/14050.png",
+    "max_level": 10
+  },
   "1090010": {
     "id": 1090010,
     "type": 3,
@@ -21843,7 +21987,7 @@
     "id": 1090120,
     "type": 1,
     "name": "Piercing Shells – Z46",
-    "desc": "Increases this ship's AP DMG by 15.0% (25.0%). If this ship has an AP Main Gun equipped: 1) increases this ship's Crit Rate by 1.0% (10.0%); 2) increases the Main Gun DMG this ship deals to enemies of any armor type by 5.0% (15.0%); 3) improves this ship's All Out Assault.",
+    "desc": "Increases this ship's AP DMG by 15.0% (25.0%). If this ship has an AP Main Gun equipped: 1) increases this ship's Crit Rate by 1.0% (10.0%); 2) increases this ship's Main Gun DMG modifier against all armor types by 5.0% (15.0%); 3) improves this ship's All Out Assault.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/2080.png",
     "max_level": 10
   },
@@ -22109,6 +22253,14 @@
     "name": "Pocket Battleship - Deutschland",
     "desc": "Increases this ship's DMG dealt to DDs and CLs by 15.0% (35.0%). If there are other Iron Blood ships in the same fleet: increases those ship's FP, TRP, EVA, ACC, and AA by 1.0% (5.0%).\nAt the start of battle, if this ship is in the frontmost position of the Vanguard: increases this ship's EVA by 5.0% (15.0%), Main Gun Crit Rate by 15.0% (30.0%), Main Gun Crit DMG by 15.0% (30.0%), and reduces her DMG taken by 15.0% (25.0%) until the end of battle; if this ship is in any other position: increases this ship's FP and TRP by 1.0% (3.0%) until the end of battle, and fires a Lv.1 (Lv.10) special barrage every 15s that penetrates shields (DMG is based on the skill's level).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/10650.png",
+    "max_level": 10
+  },
+  "1090490": {
+    "id": 1090490,
+    "type": 3,
+    "name": "Reload Order - Pensacola",
+    "desc": "Every 20s: 25.0% chance to increase the fleet's RLD by 5.0% (25.0%) for 8s (Does not stack with other Reload Order skills; only the highest value takes effect);\nIf this ship is equipped with an AP Main Gun: increases this ship's AP DMG modifier against all armor types by 5.0% (15.0%); if this ship is equipped with a HE or SAP Main Gun: increases this ship's FP by 1.0% (5.0%), EVA by 5.0% (25.0%), AA by 5.0% (25.0%), and additionally fires a Lv.1 (Lv.10) special barrage every 20s (DMG is based on the skill's level).\nOnce per battle, when this ship falls below 30.0% Max HP as a result of DMG taken: restores 5.0% (15.0%) of this ship's Max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/2020.png",
     "max_level": 10
   }
 }

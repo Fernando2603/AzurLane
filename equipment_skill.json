@@ -437,7 +437,7 @@
   "60400": {
     "id": 60400,
     "name": "Improved Adaptability",
-    "desc": "When equipped by a DD: all the ship's Armor DMG modifiers increase by 15.0%."
+    "desc": "When equipped by a destroyer: increases all weapons' DMG modifiers against all armor types by 15.0%."
   },
   "6380": {
     "id": 6380,

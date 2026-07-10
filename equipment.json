@@ -16457,6 +16457,174 @@
       24
     ]
   },
+  "5680": {
+    "name": "Triple 550mm Improved (Ammo Mod) Torpedo",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "ST",
+      "TP",
+      "TRI",
+      "FTP"
+    ],
+    "rarity": 5,
+    "nationality": 8,
+    "type": 5,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/5680.png",
+    "stats": {
+      "1": {
+        "id": 5680,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "82 x 3",
+        "torpedo": 45,
+        "weapon_id": [
+          5680
+        ]
+      },
+      "2": {
+        "id": 5681,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "92 x 3",
+        "torpedo": 45,
+        "weapon_id": [
+          5681
+        ]
+      },
+      "3": {
+        "id": 5682,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "102 x 3",
+        "torpedo": 45,
+        "weapon_id": [
+          5682
+        ]
+      },
+      "4": {
+        "id": 5683,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "112 x 3",
+        "torpedo": 45,
+        "weapon_id": [
+          5683
+        ]
+      },
+      "5": {
+        "id": 5684,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "122 x 3",
+        "torpedo": 45,
+        "weapon_id": [
+          5684
+        ]
+      },
+      "6": {
+        "id": 5685,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "132 x 3",
+        "torpedo": 45,
+        "weapon_id": [
+          5685
+        ]
+      },
+      "7": {
+        "id": 5686,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "142 x 3",
+        "torpedo": 45,
+        "weapon_id": [
+          5686
+        ]
+      },
+      "8": {
+        "id": 5687,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "152 x 3",
+        "torpedo": 45,
+        "weapon_id": [
+          5687
+        ]
+      },
+      "9": {
+        "id": 5688,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "162 x 3",
+        "torpedo": 45,
+        "weapon_id": [
+          5688
+        ]
+      },
+      "10": {
+        "id": 5689,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "172 x 3",
+        "torpedo": 45,
+        "weapon_id": [
+          5689
+        ]
+      },
+      "11": {
+        "id": 5690,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "182 x 3",
+        "torpedo": 45,
+        "weapon_id": [
+          5690
+        ]
+      },
+      "12": {
+        "id": 5691,
+        "level": 12,
+        "enhance": "+11",
+        "anti_siren": 1,
+        "damage": "182 x 3",
+        "torpedo": 45,
+        "weapon_id": [
+          5691
+        ]
+      },
+      "13": {
+        "id": 5692,
+        "level": 13,
+        "enhance": "+12",
+        "anti_siren": 2,
+        "damage": "182 x 3",
+        "torpedo": 45,
+        "weapon_id": [
+          5692
+        ]
+      },
+      "14": {
+        "id": 5693,
+        "level": 14,
+        "enhance": "+13",
+        "anti_siren": 3,
+        "damage": "182 x 3",
+        "torpedo": 45,
+        "weapon_id": [
+          5693
+        ]
+      }
+    },
+    "important": true,
+    "equip_limit": 0,
+    "ship_type_forbidden": [
+      22,
+      23,
+      24
+    ]
+  },
   "6000": {
     "name": "Single 12.7mm AA Gun Mount",
     "desc": "No description",
@@ -19262,7 +19430,7 @@
       "USS",
       "DD",
       "MG",
-      "HE"
+      "AP"
     ],
     "rarity": 5,
     "nationality": 1,
@@ -19425,6 +19593,200 @@
         "damage": "18 x 6",
         "weapon_id": [
           11273
+        ]
+      }
+    },
+    "important": true,
+    "equip_limit": 0,
+    "ship_type_forbidden": [
+      1,
+      2,
+      3,
+      6,
+      7,
+      8,
+      9,
+      11,
+      12,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ]
+  },
+  "11280": {
+    "name": "Twin 127mm Mk 16 Dual-Purpose Gun",
+    "desc": "No description",
+    "label": [
+      "USS",
+      "DD",
+      "MG",
+      "HE"
+    ],
+    "rarity": 5,
+    "nationality": 1,
+    "type": 1,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/11280.png",
+    "stats": {
+      "1": {
+        "id": 11280,
+        "level": 1,
+        "enhance": "+0",
+        "antiaircraft": 10,
+        "cannon": 35,
+        "damage": "5 x 6",
+        "weapon_id": [
+          11280
+        ]
+      },
+      "2": {
+        "id": 11281,
+        "level": 2,
+        "enhance": "+1",
+        "antiaircraft": 10,
+        "cannon": 35,
+        "weapon_id": [
+          11281
+        ]
+      },
+      "3": {
+        "id": 11282,
+        "level": 3,
+        "enhance": "+2",
+        "antiaircraft": 10,
+        "cannon": 35,
+        "damage": "8 x 6",
+        "weapon_id": [
+          11282
+        ]
+      },
+      "4": {
+        "id": 11283,
+        "level": 4,
+        "enhance": "+3",
+        "antiaircraft": 10,
+        "cannon": 35,
+        "damage": "9 x 6",
+        "weapon_id": [
+          11283
+        ]
+      },
+      "5": {
+        "id": 11284,
+        "level": 5,
+        "enhance": "+4",
+        "antiaircraft": 10,
+        "cannon": 35,
+        "damage": "10 x 6",
+        "weapon_id": [
+          11284
+        ]
+      },
+      "6": {
+        "id": 11285,
+        "level": 6,
+        "enhance": "+5",
+        "antiaircraft": 10,
+        "cannon": 35,
+        "damage": "11 x 6",
+        "weapon_id": [
+          11285
+        ]
+      },
+      "7": {
+        "id": 11286,
+        "level": 7,
+        "enhance": "+6",
+        "antiaircraft": 10,
+        "cannon": 35,
+        "damage": "12 x 6",
+        "weapon_id": [
+          11286
+        ]
+      },
+      "8": {
+        "id": 11287,
+        "level": 8,
+        "enhance": "+7",
+        "antiaircraft": 10,
+        "cannon": 35,
+        "damage": "13 x 6",
+        "weapon_id": [
+          11287
+        ]
+      },
+      "9": {
+        "id": 11288,
+        "level": 9,
+        "enhance": "+8",
+        "antiaircraft": 10,
+        "cannon": 35,
+        "damage": "14 x 6",
+        "weapon_id": [
+          11288
+        ]
+      },
+      "10": {
+        "id": 11289,
+        "level": 10,
+        "enhance": "+9",
+        "antiaircraft": 10,
+        "cannon": 35,
+        "damage": "15 x 6",
+        "weapon_id": [
+          11289
+        ]
+      },
+      "11": {
+        "id": 11290,
+        "level": 11,
+        "enhance": "+10",
+        "antiaircraft": 10,
+        "cannon": 35,
+        "damage": "16 x 6",
+        "weapon_id": [
+          11290
+        ]
+      },
+      "12": {
+        "id": 11291,
+        "level": 12,
+        "enhance": "+11",
+        "anti_siren": 1,
+        "antiaircraft": 10,
+        "cannon": 35,
+        "damage": "16 x 6",
+        "weapon_id": [
+          11291
+        ]
+      },
+      "13": {
+        "id": 11292,
+        "level": 13,
+        "enhance": "+12",
+        "anti_siren": 2,
+        "antiaircraft": 10,
+        "cannon": 35,
+        "damage": "16 x 6",
+        "weapon_id": [
+          11292
+        ]
+      },
+      "14": {
+        "id": 11293,
+        "level": 14,
+        "enhance": "+13",
+        "anti_siren": 3,
+        "antiaircraft": 10,
+        "cannon": 35,
+        "damage": "16 x 6",
+        "weapon_id": [
+          11293
         ]
       }
     },
@@ -40425,6 +40787,173 @@
       24
     ]
   },
+  "24420": {
+    "name": "Triple 419mm Mk. I Main Gun",
+    "desc": "No description",
+    "label": [
+      "HMS",
+      "BB",
+      "MG",
+      "HE"
+    ],
+    "rarity": 5,
+    "nationality": 2,
+    "type": 4,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/24420.png",
+    "stats": {
+      "1": {
+        "id": 24420,
+        "level": 1,
+        "enhance": "+0",
+        "cannon": 45,
+        "damage": "66 x 3",
+        "weapon_id": [
+          24420
+        ]
+      },
+      "2": {
+        "id": 24421,
+        "level": 2,
+        "enhance": "+1",
+        "cannon": 45,
+        "damage": "74 x 3",
+        "weapon_id": [
+          24421
+        ]
+      },
+      "3": {
+        "id": 24422,
+        "level": 3,
+        "enhance": "+2",
+        "cannon": 45,
+        "damage": "82 x 3",
+        "weapon_id": [
+          24422
+        ]
+      },
+      "4": {
+        "id": 24423,
+        "level": 4,
+        "enhance": "+3",
+        "cannon": 45,
+        "damage": "90 x 3",
+        "weapon_id": [
+          24423
+        ]
+      },
+      "5": {
+        "id": 24424,
+        "level": 5,
+        "enhance": "+4",
+        "cannon": 45,
+        "damage": "98 x 3",
+        "weapon_id": [
+          24424
+        ]
+      },
+      "6": {
+        "id": 24425,
+        "level": 6,
+        "enhance": "+5",
+        "cannon": 45,
+        "damage": "107 x 3",
+        "weapon_id": [
+          24425
+        ]
+      },
+      "7": {
+        "id": 24426,
+        "level": 7,
+        "enhance": "+6",
+        "cannon": 45,
+        "damage": "116 x 3",
+        "weapon_id": [
+          24426
+        ]
+      },
+      "8": {
+        "id": 24427,
+        "level": 8,
+        "enhance": "+7",
+        "cannon": 45,
+        "damage": "125 x 3",
+        "weapon_id": [
+          24427
+        ]
+      },
+      "9": {
+        "id": 24428,
+        "level": 9,
+        "enhance": "+8",
+        "cannon": 45,
+        "damage": "134 x 3",
+        "weapon_id": [
+          24428
+        ]
+      },
+      "10": {
+        "id": 24429,
+        "level": 10,
+        "enhance": "+9",
+        "cannon": 45,
+        "damage": "143 x 3",
+        "weapon_id": [
+          24429
+        ]
+      },
+      "11": {
+        "id": 24430,
+        "level": 11,
+        "enhance": "+10",
+        "cannon": 45,
+        "damage": "152 x 3",
+        "weapon_id": [
+          24430
+        ]
+      },
+      "12": {
+        "id": 24431,
+        "level": 12,
+        "enhance": "+11",
+        "anti_siren": 1,
+        "cannon": 45,
+        "damage": "152 x 3",
+        "weapon_id": [
+          24431
+        ]
+      },
+      "13": {
+        "id": 24432,
+        "level": 13,
+        "enhance": "+12",
+        "anti_siren": 2,
+        "cannon": 45,
+        "damage": "152 x 3",
+        "weapon_id": [
+          24432
+        ]
+      },
+      "14": {
+        "id": 24433,
+        "level": 14,
+        "enhance": "+13",
+        "anti_siren": 3,
+        "cannon": 45,
+        "damage": "152 x 3",
+        "weapon_id": [
+          24433
+        ]
+      }
+    },
+    "important": true,
+    "equip_limit": 0,
+    "ship_type_forbidden": [
+      22,
+      23,
+      24
+    ]
+  },
   "25000": {
     "name": "533mm Triple Torpedo Mount Mk IX",
     "desc": "No description",
@@ -57098,6 +57627,187 @@
       24
     ]
   },
+  "35280": {
+    "name": "Quadruple 610mm Cruiser Torpedo",
+    "desc": "No description",
+    "label": [
+      "IJN",
+      "ST",
+      "TP",
+      "QUAD"
+    ],
+    "rarity": 5,
+    "nationality": 3,
+    "type": 5,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/35280.png",
+    "stats": {
+      "1": {
+        "id": 35280,
+        "level": 1,
+        "enhance": "+0",
+        "damage": "95 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35280
+        ]
+      },
+      "2": {
+        "id": 35281,
+        "level": 2,
+        "enhance": "+1",
+        "damage": "109 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35281
+        ]
+      },
+      "3": {
+        "id": 35282,
+        "level": 3,
+        "enhance": "+2",
+        "damage": "123 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35282
+        ]
+      },
+      "4": {
+        "id": 35283,
+        "level": 4,
+        "enhance": "+3",
+        "damage": "137 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35283
+        ]
+      },
+      "5": {
+        "id": 35284,
+        "level": 5,
+        "enhance": "+4",
+        "damage": "151 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35284
+        ]
+      },
+      "6": {
+        "id": 35285,
+        "level": 6,
+        "enhance": "+5",
+        "damage": "165 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35285
+        ]
+      },
+      "7": {
+        "id": 35286,
+        "level": 7,
+        "enhance": "+6",
+        "damage": "179 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35286
+        ]
+      },
+      "8": {
+        "id": 35287,
+        "level": 8,
+        "enhance": "+7",
+        "damage": "193 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35287
+        ]
+      },
+      "9": {
+        "id": 35288,
+        "level": 9,
+        "enhance": "+8",
+        "damage": "207 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35288
+        ]
+      },
+      "10": {
+        "id": 35289,
+        "level": 10,
+        "enhance": "+9",
+        "damage": "221 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35289
+        ]
+      },
+      "11": {
+        "id": 35290,
+        "level": 11,
+        "enhance": "+10",
+        "damage": "235 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35290
+        ]
+      },
+      "12": {
+        "id": 35291,
+        "level": 12,
+        "enhance": "+11",
+        "anti_siren": 1,
+        "damage": "235 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35291
+        ]
+      },
+      "13": {
+        "id": 35292,
+        "level": 13,
+        "enhance": "+12",
+        "anti_siren": 2,
+        "damage": "235 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35292
+        ]
+      },
+      "14": {
+        "id": 35293,
+        "level": 14,
+        "enhance": "+13",
+        "anti_siren": 3,
+        "damage": "235 x 4",
+        "torpedo": 45,
+        "weapon_id": [
+          35293
+        ]
+      }
+    },
+    "important": true,
+    "equip_limit": 0,
+    "ship_type_forbidden": [
+      1,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      13,
+      17,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ]
+  },
   "35300": {
     "name": "Quintuple 610mm Torpedo",
     "desc": "No description",
@@ -69197,7 +69907,7 @@
       "60400": {
         "id": 60400,
         "name": "Improved Adaptability",
-        "desc": "When equipped by a DD: all the ship's Armor DMG modifiers increase by 15.0%."
+        "desc": "When equipped by a destroyer: increases all weapons' DMG modifiers against all armor types by 15.0%."
       }
     },
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/42360.png",
@@ -78991,6 +79701,159 @@
         "air": 12,
         "weapon_id": [
           49067
+        ]
+      }
+    },
+    "important": true,
+    "equip_limit": 0,
+    "ship_type_forbidden": [
+      10,
+      22,
+      23,
+      24
+    ]
+  },
+  "49080": {
+    "name": "Carrier-Based Ta 152 C-1/R14",
+    "desc": "No description",
+    "label": [
+      "KMS",
+      "CV",
+      "DB"
+    ],
+    "rarity": 6,
+    "nationality": 4,
+    "type": 9,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/49080.png",
+    "stats": {
+      "1": {
+        "id": 49080,
+        "level": 1,
+        "enhance": "+0",
+        "air": 65,
+        "weapon_id": [
+          49080
+        ]
+      },
+      "2": {
+        "id": 49081,
+        "level": 2,
+        "enhance": "+1",
+        "air": 65,
+        "weapon_id": [
+          49081
+        ]
+      },
+      "3": {
+        "id": 49082,
+        "level": 3,
+        "enhance": "+2",
+        "air": 65,
+        "weapon_id": [
+          49082
+        ]
+      },
+      "4": {
+        "id": 49083,
+        "level": 4,
+        "enhance": "+3",
+        "air": 65,
+        "weapon_id": [
+          49083
+        ]
+      },
+      "5": {
+        "id": 49084,
+        "level": 5,
+        "enhance": "+4",
+        "air": 65,
+        "weapon_id": [
+          49084
+        ]
+      },
+      "6": {
+        "id": 49085,
+        "level": 6,
+        "enhance": "+5",
+        "air": 65,
+        "weapon_id": [
+          49085
+        ]
+      },
+      "7": {
+        "id": 49086,
+        "level": 7,
+        "enhance": "+6",
+        "air": 65,
+        "weapon_id": [
+          49086
+        ]
+      },
+      "8": {
+        "id": 49087,
+        "level": 8,
+        "enhance": "+7",
+        "air": 65,
+        "weapon_id": [
+          49087
+        ]
+      },
+      "9": {
+        "id": 49088,
+        "level": 9,
+        "enhance": "+8",
+        "air": 65,
+        "weapon_id": [
+          49088
+        ]
+      },
+      "10": {
+        "id": 49089,
+        "level": 10,
+        "enhance": "+9",
+        "air": 65,
+        "weapon_id": [
+          49089
+        ]
+      },
+      "11": {
+        "id": 49090,
+        "level": 11,
+        "enhance": "+10",
+        "air": 65,
+        "weapon_id": [
+          49090
+        ]
+      },
+      "12": {
+        "id": 49091,
+        "level": 12,
+        "enhance": "+11",
+        "air": 65,
+        "anti_siren": 1,
+        "weapon_id": [
+          49091
+        ]
+      },
+      "13": {
+        "id": 49092,
+        "level": 13,
+        "enhance": "+12",
+        "air": 65,
+        "anti_siren": 2,
+        "weapon_id": [
+          49092
+        ]
+      },
+      "14": {
+        "id": 49093,
+        "level": 14,
+        "enhance": "+13",
+        "air": 65,
+        "anti_siren": 3,
+        "weapon_id": [
+          49093
         ]
       }
     },
@@ -95646,6 +96509,187 @@
         "weapon_id": [
           91387,
           88027
+        ]
+      }
+    },
+    "important": true,
+    "equip_limit": 0,
+    "ship_type_forbidden": [
+      22,
+      23,
+      24
+    ]
+  },
+  "91400": {
+    "name": "Twin 127mm Mle 1948 Naval Gun",
+    "desc": "No description",
+    "label": [
+      "FFNF",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "rarity": 5,
+    "nationality": 8,
+    "type": 1,
+    "skill": {},
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/51400.png",
+    "stats": {
+      "1": {
+        "id": 91400,
+        "level": 1,
+        "enhance": "+0",
+        "antiaircraft": 10,
+        "cannon": 35,
+        "damage": "6 x 4",
+        "weapon_id": [
+          91400
+        ]
+      },
+      "2": {
+        "id": 91401,
+        "level": 2,
+        "enhance": "+1",
+        "antiaircraft": 10,
+        "cannon": 35,
+        "damage": "7 x 4",
+        "weapon_id": [
+          91401
+        ]
+      },
+      "3": {
+        "id": 91402,
+        "level": 3,
+        "enhance": "+2",
+        "antiaircraft": 10,
+        "cannon": 35,
+        "damage": "8 x 4",
+        "weapon_id": [
+          91402
+        ]
+      },
+      "4": {
+        "id": 91403,
+        "level": 4,
+        "enhance": "+3",
+        "antiaircraft": 10,
+        "cannon": 35,
+        "damage": "9 x 4",
+        "weapon_id": [
+          91403
+        ]
+      },
+      "5": {
+        "id": 91404,
+        "level": 5,
+        "enhance": "+4",
+        "antiaircraft": 10,
+        "cannon": 35,
+        "damage": "10 x 4",
+        "weapon_id": [
+          91404
+        ]
+      },
+      "6": {
+        "id": 91405,
+        "level": 6,
+        "enhance": "+5",
+        "antiaircraft": 10,
+        "cannon": 35,
+        "damage": "11 x 4",
+        "weapon_id": [
+          91405
+        ]
+      },
+      "7": {
+        "id": 91406,
+        "level": 7,
+        "enhance": "+6",
+        "antiaircraft": 10,
+        "cannon": 35,
+        "damage": "12 x 4",
+        "weapon_id": [
+          91406
+        ]
+      },
+      "8": {
+        "id": 91407,
+        "level": 8,
+        "enhance": "+7",
+        "antiaircraft": 10,
+        "cannon": 35,
+        "damage": "13 x 4",
+        "weapon_id": [
+          91407
+        ]
+      },
+      "9": {
+        "id": 91408,
+        "level": 9,
+        "enhance": "+8",
+        "antiaircraft": 10,
+        "cannon": 35,
+        "damage": "14 x 4",
+        "weapon_id": [
+          91408
+        ]
+      },
+      "10": {
+        "id": 91409,
+        "level": 10,
+        "enhance": "+9",
+        "antiaircraft": 10,
+        "cannon": 35,
+        "damage": "15 x 4",
+        "weapon_id": [
+          91409
+        ]
+      },
+      "11": {
+        "id": 91410,
+        "level": 11,
+        "enhance": "+10",
+        "antiaircraft": 10,
+        "cannon": 35,
+        "damage": "16 x 4",
+        "weapon_id": [
+          91410
+        ]
+      },
+      "12": {
+        "id": 91411,
+        "level": 12,
+        "enhance": "+11",
+        "anti_siren": 1,
+        "antiaircraft": 10,
+        "cannon": 35,
+        "damage": "16 x 4",
+        "weapon_id": [
+          91411
+        ]
+      },
+      "13": {
+        "id": 91412,
+        "level": 13,
+        "enhance": "+12",
+        "anti_siren": 2,
+        "antiaircraft": 10,
+        "cannon": 35,
+        "damage": "16 x 4",
+        "weapon_id": [
+          91412
+        ]
+      },
+      "14": {
+        "id": 91413,
+        "level": 14,
+        "enhance": "+13",
+        "anti_siren": 3,
+        "antiaircraft": 10,
+        "cannon": 35,
+        "damage": "16 x 4",
+        "weapon_id": [
+          91413
         ]
       }
     },
