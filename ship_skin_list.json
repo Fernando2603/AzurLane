@@ -58852,6 +58852,114 @@
     ]
   },
   {
+    "gid": 1170001,
+    "name": "A2",
+    "skins": [
+      {
+        "id": 11700010,
+        "gid": 1170001,
+        "name": "A2",
+        "type": "Default",
+        "desc": "I'm... called A2. I'm used to fighting by myself, without support... but maybe it wouldn't be bad to find a place to rest my feet.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 86,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": null,
+        "painting_n": null,
+        "banner": null,
+        "chibi": null,
+        "icon": null,
+        "qicon": null,
+        "shipyard": null
+      },
+      {
+        "id": 11700011,
+        "gid": 1170001,
+        "name": "fruit of tempt[A]tion",
+        "type": "Party Dress",
+        "desc": "Why are you looking at me like that...? Is it so unusual to see me without armaments? ...Honestly, I don't think I'm much fun to stare at, but suit yourself.",
+        "tag": [
+          "dynamic",
+          "bg",
+          "bgm"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 86,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/450.png",
+        "background2": null,
+        "painting": null,
+        "painting_n": null,
+        "banner": null,
+        "chibi": null,
+        "icon": null,
+        "qicon": null,
+        "shipyard": null
+      }
+    ]
+  },
+  {
+    "gid": 1170002,
+    "name": "2B",
+    "skins": [
+      {
+        "id": 11700020,
+        "gid": 1170002,
+        "name": "2B",
+        "type": "Default",
+        "desc": "I am YoRHa No.2 Type B, an all-purpose battle android belonging to the YoRHa squadron. You can just call me 2B. I do not know where this is, but I will respond to any requests for assistance. After all, it is our mission to fight for humanity.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 31,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": null,
+        "painting_n": null,
+        "banner": null,
+        "chibi": null,
+        "icon": null,
+        "qicon": null,
+        "shipyard": null
+      },
+      {
+        "id": 11700021,
+        "gid": 1170002,
+        "name": "[B]rief respite",
+        "type": "Party Dress",
+        "desc": "Confirming the safety of the surrounding area. I shall now enter sleep mode for the time being. While resting is not essential to us androids, the tranquil environment here seems to be urging me to do so.",
+        "tag": [
+          "dynamic",
+          "bg",
+          "bgm"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 31,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/450.png",
+        "background2": null,
+        "painting": null,
+        "painting_n": null,
+        "banner": null,
+        "chibi": null,
+        "icon": null,
+        "qicon": null,
+        "shipyard": null
+      }
+    ]
+  },
+  {
     "gid": 29901,
     "name": "Neptune",
     "skins": [

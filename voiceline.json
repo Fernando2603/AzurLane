@@ -194090,6 +194090,402 @@
       "line": "I now entrust this body of mine to the beautiful flow of the sea god! Come, Commander, and give me your hand! \"Request. Let us hold hands so that we don't get lost in the sea.\" Come on, don't be shy!"
     }
   },
+  "11700010": {
+    "battle": {
+      "link": null,
+      "line": "Rout them all!"
+    },
+    "detail": {
+      "link": null,
+      "line": "Machine lifeforms or Sirens, I'll destroy them all."
+    },
+    "expedition": {
+      "link": null,
+      "line": "Looks like someone's back?"
+    },
+    "feeling1": {
+      "link": null,
+      "line": "...This is pointless."
+    },
+    "feeling2": {
+      "link": null,
+      "line": "Defeating the enemy... As long as our objectives are the same, that's all that matters."
+    },
+    "feeling3": {
+      "link": null,
+      "line": "I'll cover you. That much, I know I can do."
+    },
+    "feeling4": {
+      "link": null,
+      "line": "Looks like I won't have to worry about you getting in my way."
+    },
+    "feeling5": {
+      "link": null,
+      "line": "...As long as our goals and desires align in some way, I'll lend you my strength... That should be good enough, right?"
+    },
+    "headtouch": {
+      "link": null,
+      "line": "What...do you think you're doing?"
+    },
+    "home": {
+      "link": null,
+      "line": "All done? Just say the word if you need me."
+    },
+    "hp_warning": {
+      "link": null,
+      "line": "I... can still do this!"
+    },
+    "login": {
+      "link": null,
+      "line": "About time you showed up."
+    },
+    "lose": {
+      "link": null,
+      "line": "Damn it! How could this happen, in a place like this...!"
+    },
+    "mail": {
+      "link": null,
+      "line": "Looks like you've got a message."
+    },
+    "main1": {
+      "link": null,
+      "line": "I'm fine on my own. It's just business as usual."
+    },
+    "main2": {
+      "link": null,
+      "line": "So we'll be fighting on the sea the whole time, huh? Not used to that."
+    },
+    "main3": {
+      "link": null,
+      "line": "The sea, huh... Doesn't bring back any fond memories."
+    },
+    "mission": {
+      "link": null,
+      "line": "Looks like there's still work to be done?"
+    },
+    "mission_complete": {
+      "link": null,
+      "line": "Looks like a mission was completed."
+    },
+    "profile": {
+      "link": null,
+      "line": "My goal is to destroy all machine lifeforms. As long as you don't get in my way, I might even help with your objectives. If I slack off now because there are no machine lifeforms around, I'll get rusty soon."
+    },
+    "propose": {
+      "link": null,
+      "line": "I never thought I'd have a comrade to fight alongside ever again, but... for the time being, let's do this, together."
+    },
+    "skill": {
+      "link": null,
+      "line": "I'll smash you to bits!"
+    },
+    "touch": {
+      "link": null,
+      "line": "...Got nothing better to do?"
+    },
+    "touch2": {
+      "link": null,
+      "line": "I'll destroy you..."
+    },
+    "unlock": {
+      "link": null,
+      "line": "I'm... called A2. I'm used to fighting by myself, without support... but maybe it wouldn't be bad to find a place to rest my feet."
+    },
+    "upgrade": {
+      "link": null,
+      "line": "Not half bad."
+    },
+    "win_mvp": {
+      "link": null,
+      "line": "Just stay there and sink."
+    },
+    "gift_prefer": {
+      "link": null,
+      "line": "I appreciate it, really."
+    },
+    "battle_ex": {
+      "link": null,
+      "line": "They're no match for us."
+    },
+    "detail_ex": {
+      "link": null,
+      "line": "This so-called ship rigging... seems somewhat similar to our flight units."
+    },
+    "feeling5_ex": {
+      "link": null,
+      "line": "Being by myself is easier, less to worry about. But being here isn't so bad either."
+    },
+    "headtouch_ex": {
+      "link": null,
+      "line": "Don't do that again, understand?"
+    },
+    "login_ex": {
+      "link": null,
+      "line": "About time. So, what are we doing today?"
+    },
+    "main4_ex": {
+      "link": null,
+      "line": "It's nice and quiet here. I can tell you've been fighting day and night to protect this place... I know what that's like."
+    },
+    "main5_ex": {
+      "link": null,
+      "line": "Being with all of you reminds me of the time I spent with my old comrades."
+    },
+    "main6_ex": {
+      "link": null,
+      "line": "I've never had the time or place to be able to rest before... I don't know what I should do with my time."
+    },
+    "mission_ex": {
+      "link": null,
+      "line": "If you still have work that needs to be done, I wouldn't mind helping you with that."
+    },
+    "mission_complete_ex": {
+      "link": null,
+      "line": "You went through all that effort to get those missions done, so make sure everything is in order."
+    },
+    "touch2_ex": {
+      "link": null,
+      "line": "...You really should cherish your life more."
+    },
+    "win_mvp_ex": {
+      "link": null,
+      "line": "Piece of cake."
+    }
+  },
+  "11700011": {
+    "detail": {
+      "link": null,
+      "line": "No harmful substances detected in this fruit. Not that I was planning on eating it anyway."
+    },
+    "home": {
+      "link": null,
+      "line": "You're back? ...No, it's not like I was waiting for you or anything..."
+    },
+    "login": {
+      "link": null,
+      "line": "You came all the way out here just to chat with me? Awfully thoughtful of you..."
+    },
+    "main1": {
+      "link": null,
+      "line": "If you have something to say, just say it already. Can't relax with silence like this."
+    },
+    "main2": {
+      "link": null,
+      "line": "Are you really alright getting this comfortable?"
+    },
+    "main3": {
+      "link": null,
+      "line": "*sigh*... Fine, do as you like."
+    },
+    "touch": {
+      "link": null,
+      "line": "Will it kill you to not get so handsy all the time?"
+    },
+    "touch2": {
+      "link": null,
+      "line": "Is it just me, or are you a bit warmer than usual?"
+    },
+    "unlock": {
+      "link": null,
+      "line": "Why are you looking at me like that...? Is it so unusual to see me without armaments? ...Honestly, I don't think I'm much fun to stare at, but suit yourself."
+    }
+  },
+  "11700020": {
+    "battle": {
+      "link": null,
+      "line": "Enemy aircraft detected. Entering combat-ready state."
+    },
+    "detail": {
+      "link": null,
+      "line": "I have no preferences when it comes to the choice of operations. Feel free to assign me whichever missions you see fit."
+    },
+    "expedition": {
+      "link": null,
+      "line": "The expedition team has reported their return. Would you like to review the results?"
+    },
+    "feeling1": {
+      "link": null,
+      "line": "Should I conduct a system scan?"
+    },
+    "feeling2": {
+      "link": null,
+      "line": "It's dangerous for you to be alone. Head back to your quarters first; I'll protect you."
+    },
+    "feeling3": {
+      "link": null,
+      "line": "Good day... I assessed that establishing communicative rapport would make things efficient here."
+    },
+    "feeling4": {
+      "link": null,
+      "line": "You wish to learn more about machine lifeforms and aliens? I don't think I have any relevant information for you. But if you don't mind, we can talk about it some other time."
+    },
+    "feeling5": {
+      "link": null,
+      "line": "I believe it is justified for a commander to treat casualties as statistics. It is not something you need to concern yourself over."
+    },
+    "headtouch": {
+      "link": null,
+      "line": "...It's alright. There are no problems with basic functionalities."
+    },
+    "home": {
+      "link": null,
+      "line": "We've returned to base safely. Awaiting orders for the next operation."
+    },
+    "hp_warning": {
+      "link": null,
+      "line": "I will not back down."
+    },
+    "login": {
+      "link": null,
+      "line": "Confirming the Commander's arrival. Awaiting instructions."
+    },
+    "lose": {
+      "link": null,
+      "line": "Damage is heavier than expected. Judging it detrimental to the operation, I will now start retreating..."
+    },
+    "mail": {
+      "link": null,
+      "line": "A message has arrived. Please look it over, Commander."
+    },
+    "main1": {
+      "link": null,
+      "line": "YoRHa androids are forbidden from having emotions."
+    },
+    "main2": {
+      "link": null,
+      "line": "How am I meant to spend my time when there are no missions...?"
+    },
+    "main3": {
+      "link": null,
+      "line": "These are goggles, not a blindfold."
+    },
+    "mission": {
+      "link": null,
+      "line": "It appears that some tasks are still incomplete. I am simply reporting this, just in case."
+    },
+    "mission_complete": {
+      "link": null,
+      "line": "It appears that you've completed some tasks. I recommend proceeding with the follow-up procedure."
+    },
+    "profile": {
+      "link": null,
+      "line": "I am 2B. YoRHa No.2 Type B. I excel in close-quarters combat and normally use my Pod support system to handle ranged combat. I take it that here, I will be using this rigging to conduct ranged combat?"
+    },
+    "propose": {
+      "link": null,
+      "line": "Everyone, we all stand here to fight against our enemies, but nobody can fulfill this duty alone. To make up for that missing piece... Commander, perhaps that is why your presence is needed."
+    },
+    "skill": {
+      "link": null,
+      "line": "Break!"
+    },
+    "touch": {
+      "link": null,
+      "line": "...What is the purpose of such an action?"
+    },
+    "touch2": {
+      "link": null,
+      "line": "No abnormalities detected. Maintenance should proceed without issue..."
+    },
+    "unlock": {
+      "link": null,
+      "line": "I am YoRHa No.2 Type B, an all-purpose battle android belonging to the YoRHa squadron. You can just call me 2B. I do not know where this is, but I will respond to any requests for assistance. After all, it is our mission to fight for humanity."
+    },
+    "upgrade": {
+      "link": null,
+      "line": "This body is successfully enhanced. Thank you."
+    },
+    "win_mvp": {
+      "link": null,
+      "line": "Battle concluded. Now returning to base."
+    },
+    "gift_prefer": {
+      "link": null,
+      "line": "...Thank you."
+    },
+    "battle_ex": {
+      "link": null,
+      "line": "Enemy aircraft detected. Leave this to me."
+    },
+    "detail_ex": {
+      "link": null,
+      "line": "Just as we fight against machine lifeforms, you fight against the Sirens... Looks like we all have a duty to keep on fighting."
+    },
+    "feeling5_ex": {
+      "link": null,
+      "line": "The war against machine lifeforms seems endless... but will your fight against the Sirens end? Until peace has been restored, I will be your blade."
+    },
+    "login_ex": {
+      "link": null,
+      "line": "I'm looking forward to our time together today, Commander."
+    },
+    "main4_ex": {
+      "link": null,
+      "line": "Your port is a lot livelier than our Bunker."
+    },
+    "main5_ex": {
+      "link": null,
+      "line": "Battler models absolutely require operator support, so we are always grateful for it."
+    },
+    "main6_ex": {
+      "link": null,
+      "line": "While rest is not essential for us androids, some downtime is needed once in a while."
+    },
+    "mission_ex": {
+      "link": null,
+      "line": "It seems you still have some unfinished work. Is there anything I can help with?"
+    },
+    "mission_complete_ex": {
+      "link": null,
+      "line": "It seems you've completed a mission. I can take care of the settlement procedures."
+    },
+    "touch2_ex": {
+      "link": null,
+      "line": "There should've been no issues with maintenance... But feel free to inspect as much as you'd like."
+    },
+    "win_mvp_ex": {
+      "link": null,
+      "line": "Confirming complete elimination of enemy aircraft. We can return safely now."
+    }
+  },
+  "11700021": {
+    "detail": {
+      "link": null,
+      "line": "All mechanical devices require proper maintenance for stable operation, and androids are no exception. In other words, I am requesting maintenance."
+    },
+    "home": {
+      "link": null,
+      "line": "Returning from combat operations. You deserve some rest as well, Commander."
+    },
+    "login": {
+      "link": null,
+      "line": "Commander... I recommend you take today off as well."
+    },
+    "main1": {
+      "link": null,
+      "line": "I wish to preserve this scenery in my memory module. I wonder if this is the process humans refer to as \"remembering.\""
+    },
+    "main2": {
+      "link": null,
+      "line": "Plants are said to have a relaxing effect. However, this is not the case for androids... supposedly."
+    },
+    "main3": {
+      "link": null,
+      "line": "Commander, do I appear to be \"relaxing\" to you?"
+    },
+    "touch": {
+      "link": null,
+      "line": "I am able to measure your body temperature accurately, even without physical contact."
+    },
+    "touch2": {
+      "link": null,
+      "line": "I have detected a subtle abnormality in your tactile system. Could you do that one more time, for confirmation?"
+    },
+    "unlock": {
+      "link": null,
+      "line": "Confirming the safety of the surrounding area. I shall now enter sleep mode for the time being. While resting is not essential to us androids, the tranquil environment here seems to be urging me to do so."
+    }
+  },
   "299010": {
     "battle": {
       "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/299010/battle.ogg",
