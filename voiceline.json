@@ -194092,397 +194092,397 @@
   },
   "11700010": {
     "battle": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/battle.ogg",
       "line": "Rout them all!"
     },
     "detail": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/detail.ogg",
       "line": "Machine lifeforms or Sirens, I'll destroy them all."
     },
     "expedition": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/expedition.ogg",
       "line": "Looks like someone's back?"
     },
     "feeling1": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/feeling1.ogg",
       "line": "...This is pointless."
     },
     "feeling2": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/feeling2.ogg",
       "line": "Defeating the enemy... As long as our objectives are the same, that's all that matters."
     },
     "feeling3": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/feeling3.ogg",
       "line": "I'll cover you. That much, I know I can do."
     },
     "feeling4": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/feeling4.ogg",
       "line": "Looks like I won't have to worry about you getting in my way."
     },
     "feeling5": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/feeling5.ogg",
       "line": "...As long as our goals and desires align in some way, I'll lend you my strength... That should be good enough, right?"
     },
     "headtouch": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/headtouch.ogg",
       "line": "What...do you think you're doing?"
     },
     "home": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/home.ogg",
       "line": "All done? Just say the word if you need me."
     },
     "hp_warning": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/hp_warning.ogg",
       "line": "I... can still do this!"
     },
     "login": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/login.ogg",
       "line": "About time you showed up."
     },
     "lose": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/lose.ogg",
       "line": "Damn it! How could this happen, in a place like this...!"
     },
     "mail": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/mail.ogg",
       "line": "Looks like you've got a message."
     },
     "main1": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/main1.ogg",
       "line": "I'm fine on my own. It's just business as usual."
     },
     "main2": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/main2.ogg",
       "line": "So we'll be fighting on the sea the whole time, huh? Not used to that."
     },
     "main3": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/main3.ogg",
       "line": "The sea, huh... Doesn't bring back any fond memories."
     },
     "mission": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/mission.ogg",
       "line": "Looks like there's still work to be done?"
     },
     "mission_complete": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/mission_complete.ogg",
       "line": "Looks like a mission was completed."
     },
     "profile": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/profile.ogg",
       "line": "My goal is to destroy all machine lifeforms. As long as you don't get in my way, I might even help with your objectives. If I slack off now because there are no machine lifeforms around, I'll get rusty soon."
     },
     "propose": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/propose.ogg",
       "line": "I never thought I'd have a comrade to fight alongside ever again, but... for the time being, let's do this, together."
     },
     "skill": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/skill.ogg",
       "line": "I'll smash you to bits!"
     },
     "touch": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/touch.ogg",
       "line": "...Got nothing better to do?"
     },
     "touch2": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/touch2.ogg",
       "line": "I'll destroy you..."
     },
     "unlock": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/unlock.ogg",
       "line": "I'm... called A2. I'm used to fighting by myself, without support... but maybe it wouldn't be bad to find a place to rest my feet."
     },
     "upgrade": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/upgrade.ogg",
       "line": "Not half bad."
     },
     "win_mvp": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/win_mvp.ogg",
       "line": "Just stay there and sink."
     },
     "gift_prefer": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/gift_prefer.ogg",
       "line": "I appreciate it, really."
     },
     "battle_ex": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/battle_ex.ogg",
       "line": "They're no match for us."
     },
     "detail_ex": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/detail_ex.ogg",
       "line": "This so-called ship rigging... seems somewhat similar to our flight units."
     },
     "feeling5_ex": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/feeling5_ex.ogg",
       "line": "Being by myself is easier, less to worry about. But being here isn't so bad either."
     },
     "headtouch_ex": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/headtouch_ex.ogg",
       "line": "Don't do that again, understand?"
     },
     "login_ex": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/login_ex.ogg",
       "line": "About time. So, what are we doing today?"
     },
     "main4_ex": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/main4_ex.ogg",
       "line": "It's nice and quiet here. I can tell you've been fighting day and night to protect this place... I know what that's like."
     },
     "main5_ex": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/main5_ex.ogg",
       "line": "Being with all of you reminds me of the time I spent with my old comrades."
     },
     "main6_ex": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/main6_ex.ogg",
       "line": "I've never had the time or place to be able to rest before... I don't know what I should do with my time."
     },
     "mission_ex": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/mission_ex.ogg",
       "line": "If you still have work that needs to be done, I wouldn't mind helping you with that."
     },
     "mission_complete_ex": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/mission_complete_ex.ogg",
       "line": "You went through all that effort to get those missions done, so make sure everything is in order."
     },
     "touch2_ex": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/touch2_ex.ogg",
       "line": "...You really should cherish your life more."
     },
     "win_mvp_ex": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700010/win_mvp_ex.ogg",
       "line": "Piece of cake."
     }
   },
   "11700011": {
     "detail": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700011/detail.ogg",
       "line": "No harmful substances detected in this fruit. Not that I was planning on eating it anyway."
     },
     "home": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700011/home.ogg",
       "line": "You're back? ...No, it's not like I was waiting for you or anything..."
     },
     "login": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700011/login.ogg",
       "line": "You came all the way out here just to chat with me? Awfully thoughtful of you..."
     },
     "main1": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700011/main1.ogg",
       "line": "If you have something to say, just say it already. Can't relax with silence like this."
     },
     "main2": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700011/main2.ogg",
       "line": "Are you really alright getting this comfortable?"
     },
     "main3": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700011/main3.ogg",
       "line": "*sigh*... Fine, do as you like."
     },
     "touch": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700011/touch.ogg",
       "line": "Will it kill you to not get so handsy all the time?"
     },
     "touch2": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700011/touch2.ogg",
       "line": "Is it just me, or are you a bit warmer than usual?"
     },
     "unlock": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700011/unlock.ogg",
       "line": "Why are you looking at me like that...? Is it so unusual to see me without armaments? ...Honestly, I don't think I'm much fun to stare at, but suit yourself."
     }
   },
   "11700020": {
     "battle": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/battle.ogg",
       "line": "Enemy aircraft detected. Entering combat-ready state."
     },
     "detail": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/detail.ogg",
       "line": "I have no preferences when it comes to the choice of operations. Feel free to assign me whichever missions you see fit."
     },
     "expedition": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/expedition.ogg",
       "line": "The expedition team has reported their return. Would you like to review the results?"
     },
     "feeling1": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/feeling1.ogg",
       "line": "Should I conduct a system scan?"
     },
     "feeling2": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/feeling2.ogg",
       "line": "It's dangerous for you to be alone. Head back to your quarters first; I'll protect you."
     },
     "feeling3": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/feeling3.ogg",
       "line": "Good day... I assessed that establishing communicative rapport would make things efficient here."
     },
     "feeling4": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/feeling4.ogg",
       "line": "You wish to learn more about machine lifeforms and aliens? I don't think I have any relevant information for you. But if you don't mind, we can talk about it some other time."
     },
     "feeling5": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/feeling5.ogg",
       "line": "I believe it is justified for a commander to treat casualties as statistics. It is not something you need to concern yourself over."
     },
     "headtouch": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/headtouch.ogg",
       "line": "...It's alright. There are no problems with basic functionalities."
     },
     "home": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/home.ogg",
       "line": "We've returned to base safely. Awaiting orders for the next operation."
     },
     "hp_warning": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/hp_warning.ogg",
       "line": "I will not back down."
     },
     "login": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/login.ogg",
       "line": "Confirming the Commander's arrival. Awaiting instructions."
     },
     "lose": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/lose.ogg",
       "line": "Damage is heavier than expected. Judging it detrimental to the operation, I will now start retreating..."
     },
     "mail": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/mail.ogg",
       "line": "A message has arrived. Please look it over, Commander."
     },
     "main1": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/main1.ogg",
       "line": "YoRHa androids are forbidden from having emotions."
     },
     "main2": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/main2.ogg",
       "line": "How am I meant to spend my time when there are no missions...?"
     },
     "main3": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/main3.ogg",
       "line": "These are goggles, not a blindfold."
     },
     "mission": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/mission.ogg",
       "line": "It appears that some tasks are still incomplete. I am simply reporting this, just in case."
     },
     "mission_complete": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/mission_complete.ogg",
       "line": "It appears that you've completed some tasks. I recommend proceeding with the follow-up procedure."
     },
     "profile": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/profile.ogg",
       "line": "I am 2B. YoRHa No.2 Type B. I excel in close-quarters combat and normally use my Pod support system to handle ranged combat. I take it that here, I will be using this rigging to conduct ranged combat?"
     },
     "propose": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/propose.ogg",
       "line": "Everyone, we all stand here to fight against our enemies, but nobody can fulfill this duty alone. To make up for that missing piece... Commander, perhaps that is why your presence is needed."
     },
     "skill": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/skill.ogg",
       "line": "Break!"
     },
     "touch": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/touch.ogg",
       "line": "...What is the purpose of such an action?"
     },
     "touch2": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/touch2.ogg",
       "line": "No abnormalities detected. Maintenance should proceed without issue..."
     },
     "unlock": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/unlock.ogg",
       "line": "I am YoRHa No.2 Type B, an all-purpose battle android belonging to the YoRHa squadron. You can just call me 2B. I do not know where this is, but I will respond to any requests for assistance. After all, it is our mission to fight for humanity."
     },
     "upgrade": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/upgrade.ogg",
       "line": "This body is successfully enhanced. Thank you."
     },
     "win_mvp": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/win_mvp.ogg",
       "line": "Battle concluded. Now returning to base."
     },
     "gift_prefer": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/gift_prefer.ogg",
       "line": "...Thank you."
     },
     "battle_ex": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/battle_ex.ogg",
       "line": "Enemy aircraft detected. Leave this to me."
     },
     "detail_ex": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/detail_ex.ogg",
       "line": "Just as we fight against machine lifeforms, you fight against the Sirens... Looks like we all have a duty to keep on fighting."
     },
     "feeling5_ex": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/feeling5_ex.ogg",
       "line": "The war against machine lifeforms seems endless... but will your fight against the Sirens end? Until peace has been restored, I will be your blade."
     },
     "login_ex": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/login_ex.ogg",
       "line": "I'm looking forward to our time together today, Commander."
     },
     "main4_ex": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/main4_ex.ogg",
       "line": "Your port is a lot livelier than our Bunker."
     },
     "main5_ex": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/main5_ex.ogg",
       "line": "Battler models absolutely require operator support, so we are always grateful for it."
     },
     "main6_ex": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/main6_ex.ogg",
       "line": "While rest is not essential for us androids, some downtime is needed once in a while."
     },
     "mission_ex": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/mission_ex.ogg",
       "line": "It seems you still have some unfinished work. Is there anything I can help with?"
     },
     "mission_complete_ex": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/mission_complete_ex.ogg",
       "line": "It seems you've completed a mission. I can take care of the settlement procedures."
     },
     "touch2_ex": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/touch2_ex.ogg",
       "line": "There should've been no issues with maintenance... But feel free to inspect as much as you'd like."
     },
     "win_mvp_ex": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700020/win_mvp_ex.ogg",
       "line": "Confirming complete elimination of enemy aircraft. We can return safely now."
     }
   },
   "11700021": {
     "detail": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700021/detail.ogg",
       "line": "All mechanical devices require proper maintenance for stable operation, and androids are no exception. In other words, I am requesting maintenance."
     },
     "home": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700021/home.ogg",
       "line": "Returning from combat operations. You deserve some rest as well, Commander."
     },
     "login": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700021/login.ogg",
       "line": "Commander... I recommend you take today off as well."
     },
     "main1": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700021/main1.ogg",
       "line": "I wish to preserve this scenery in my memory module. I wonder if this is the process humans refer to as \"remembering.\""
     },
     "main2": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700021/main2.ogg",
       "line": "Plants are said to have a relaxing effect. However, this is not the case for androids... supposedly."
     },
     "main3": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700021/main3.ogg",
       "line": "Commander, do I appear to be \"relaxing\" to you?"
     },
     "touch": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700021/touch.ogg",
       "line": "I am able to measure your body temperature accurately, even without physical contact."
     },
     "touch2": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700021/touch2.ogg",
       "line": "I have detected a subtle abnormality in your tactile system. Could you do that one more time, for confirmation?"
     },
     "unlock": {
-      "link": null,
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/11700021/unlock.ogg",
       "line": "Confirming the safety of the surrounding area. I shall now enter sleep mode for the time being. While resting is not essential to us androids, the tranquil environment here seems to be urging me to do so."
     }
   },

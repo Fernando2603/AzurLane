@@ -4414,5 +4414,45 @@
     "bitrate": 160.0,
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/yumia-az-theme-pv.ogg"
+  },
+  "nier-ruinscity-a-2": {
+    "title": "nier-ruinscity-a-2",
+    "size": 2571670,
+    "duration": 136.51011337868482,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/nier-ruinscity-a-2.ogg"
+  },
+  "nier-ruinscity-b-2": {
+    "title": "nier-ruinscity-b-2",
+    "size": 2910837,
+    "duration": 148.5148299319728,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/nier-ruinscity-b-2.ogg"
+  },
+  "nier-az-story": {
+    "title": "nier-az-story",
+    "size": 4916456,
+    "duration": 245.22666666666666,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/nier-az-story.ogg"
+  },
+  "nier-ruinscity-a-1": {
+    "title": "nier-ruinscity-a-1",
+    "size": 2553951,
+    "duration": 136.51011337868482,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/nier-ruinscity-a-1.ogg"
+  },
+  "nier-ruinscity-b-1": {
+    "title": "nier-ruinscity-b-1",
+    "size": 2957618,
+    "duration": 149.02566893424037,
+    "bitrate": 160.0,
+    "sample_rate": 44100,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/nier-ruinscity-b-1.ogg"
   }
 }

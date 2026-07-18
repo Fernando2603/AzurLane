@@ -58869,13 +58869,13 @@
         "bgm": null,
         "background": null,
         "background2": null,
-        "painting": null,
-        "painting_n": null,
-        "banner": null,
-        "chibi": null,
-        "icon": null,
-        "qicon": null,
-        "shipyard": null
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11700010/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11700010/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11700010/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11700010/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11700010/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11700010/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11700010/shipyard.png"
       },
       "11700011": {
         "id": 11700011,
@@ -58892,16 +58892,16 @@
         "illustrator2": -1,
         "voice_actor": 86,
         "voice_actor2": -1,
-        "bgm": null,
+        "bgm": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/nier-az-story.ogg",
         "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/450.png",
         "background2": null,
-        "painting": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11700011/painting.png",
         "painting_n": null,
-        "banner": null,
-        "chibi": null,
-        "icon": null,
-        "qicon": null,
-        "shipyard": null
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11700011/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11700011/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11700011/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11700011/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11700011/shipyard.png"
       }
     }
   },
@@ -58923,13 +58923,13 @@
         "bgm": null,
         "background": null,
         "background2": null,
-        "painting": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11700020/painting.png",
         "painting_n": null,
-        "banner": null,
-        "chibi": null,
-        "icon": null,
-        "qicon": null,
-        "shipyard": null
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11700020/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11700020/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11700020/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11700020/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11700020/shipyard.png"
       },
       "11700021": {
         "id": 11700021,
@@ -58946,16 +58946,16 @@
         "illustrator2": -1,
         "voice_actor": 31,
         "voice_actor2": -1,
-        "bgm": null,
+        "bgm": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/nier-az-story.ogg",
         "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/450.png",
         "background2": null,
-        "painting": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11700021/painting.png",
         "painting_n": null,
-        "banner": null,
-        "chibi": null,
-        "icon": null,
-        "qicon": null,
-        "shipyard": null
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11700021/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11700021/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11700021/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11700021/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11700021/shipyard.png"
       }
     }
   },
