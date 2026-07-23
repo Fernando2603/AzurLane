@@ -4454,5 +4454,13 @@
     "bitrate": 160.0,
     "sample_rate": 44100,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/nier-ruinscity-b-1.ogg"
+  },
+  "theme-hospitalnight-mystic": {
+    "title": "theme-hospitalnight-mystic",
+    "size": 1938272,
+    "duration": 100.864,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-hospitalnight-mystic.ogg"
   }
 }
