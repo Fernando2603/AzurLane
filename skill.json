@@ -20751,6 +20751,54 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802270.png",
     "max_level": 1
   },
+  "802280": {
+    "id": 802280,
+    "type": 1,
+    "name": "Chaosbreaker Blade",
+    "desc": "At the start of battle, and every 20s afterwards: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level), then increases this ship's DMG by 4.5% (12.0%) for 10s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802280.png",
+    "max_level": 10
+  },
+  "802290": {
+    "id": 802290,
+    "type": 2,
+    "name": "Guardian of the Treasury",
+    "desc": "At the start of battle, increases this ship's FP and TRP by 5.0% (15.0%). Whenever your fleet fires their AA guns: increases this ship's Evasion Rate by 1.0% (5.0%) and increases your fleet's AA by 10.0% (30.0%) for 10s (12s cooldown between activations).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802290.png",
+    "max_level": 10
+  },
+  "802301": {
+    "id": 802301,
+    "type": 3,
+    "name": "Cinders of Hope - Nürnberg I",
+    "desc": "Every 12 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802300.png",
+    "max_level": 1
+  },
+  "802302": {
+    "id": 802302,
+    "type": 3,
+    "name": "Cinders of Hope - Nürnberg II",
+    "desc": "Every 8 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802300.png",
+    "max_level": 1
+  },
+  "802305": {
+    "id": 802305,
+    "type": 3,
+    "name": "Cinders of Hope - Nürnberg I",
+    "desc": "[Operation Siren]\nEvery 12 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 2.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802300.png",
+    "max_level": 1
+  },
+  "802307": {
+    "id": 802307,
+    "type": 3,
+    "name": "Cinders of Hope - Nürnberg II",
+    "desc": "[Operation Siren]\nEvery 8 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 6.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802300.png",
+    "max_level": 1
+  },
   "901010": {
     "id": 901010,
     "type": 1,

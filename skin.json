@@ -5422,6 +5422,30 @@
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/103091/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/103091/shipyard.png"
   },
+  "103092": {
+    "id": 103092,
+    "gid": 10309,
+    "name": "Extracurricular Tutoring",
+    "type": "School Girl",
+    "desc": "Commander, why are you still in the classroom? Was there something you didn't understand? If you don't mind, I could be your tutor for a while.",
+    "tag": [
+      "bg"
+    ],
+    "illustrator": -1,
+    "illustrator2": -1,
+    "voice_actor": 144,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/519.png",
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/103092/painting.png",
+    "painting_n": null,
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/103092/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/103092/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/103092/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/103092/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/103092/shipyard.png"
+  },
   "103100": {
     "id": 103100,
     "gid": 10310,
@@ -55761,6 +55785,28 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702120/icon.png",
     "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702120/qicon.png",
     "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702120/shipyard.png"
+  },
+  "9702130": {
+    "id": 9702130,
+    "gid": 970213,
+    "name": "Nürnberg META",
+    "type": "Default",
+    "desc": "Nürnberg, keeper of the treasury for the Holy Unitas Empire, at your service. From this point forth, I will devote myself to assisting you with fleet affairs. If you are curious about the treasury, please submit a formal request. That's a basic rule, after all.",
+    "tag": [],
+    "illustrator": 1,
+    "illustrator2": -1,
+    "voice_actor": 258,
+    "voice_actor2": -1,
+    "bgm": null,
+    "background": null,
+    "background2": null,
+    "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702130/painting.png",
+    "painting_n": null,
+    "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702130/banner.png",
+    "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702130/chibi.png",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702130/icon.png",
+    "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702130/qicon.png",
+    "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702130/shipyard.png"
   },
   "9703010": {
     "id": 9703010,
