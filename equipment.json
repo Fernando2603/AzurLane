@@ -109790,5 +109790,121 @@
     "important": true,
     "equip_limit": 151180,
     "ship_type_forbidden": []
+  },
+  "151200": {
+    "name": "Master Detective's Hat",
+    "desc": "Use your sheer intellect to unravel all mysteries!",
+    "label": [
+      "USS",
+      "DEV"
+    ],
+    "rarity": 4,
+    "nationality": 1,
+    "type": 10,
+    "skill": {
+      "61120": {
+        "id": 61120,
+        "name": "Master Detective's Hat",
+        "desc": "When equipped to Essex: during battle, increases this ship's ACC by 30."
+      }
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/151200.png",
+    "stats": {
+      "1": {
+        "id": 151200,
+        "level": 1,
+        "enhance": "+0",
+        "air": 18
+      },
+      "2": {
+        "id": 151201,
+        "level": 2,
+        "enhance": "+1",
+        "air": 22
+      },
+      "3": {
+        "id": 151202,
+        "level": 3,
+        "enhance": "+2",
+        "air": 26
+      },
+      "4": {
+        "id": 151203,
+        "level": 4,
+        "enhance": "+3",
+        "air": 30
+      },
+      "5": {
+        "id": 151204,
+        "level": 5,
+        "enhance": "+4",
+        "air": 34
+      },
+      "6": {
+        "id": 151205,
+        "level": 6,
+        "enhance": "+5",
+        "air": 39
+      },
+      "7": {
+        "id": 151206,
+        "level": 7,
+        "enhance": "+6",
+        "air": 43
+      },
+      "8": {
+        "id": 151207,
+        "level": 8,
+        "enhance": "+7",
+        "air": 47
+      },
+      "9": {
+        "id": 151208,
+        "level": 9,
+        "enhance": "+8",
+        "air": 51
+      },
+      "10": {
+        "id": 151209,
+        "level": 10,
+        "enhance": "+9",
+        "air": 55
+      },
+      "11": {
+        "id": 151210,
+        "level": 11,
+        "enhance": "+10",
+        "air": 60
+      },
+      "12": {
+        "id": 151211,
+        "level": 12,
+        "enhance": "+11",
+        "air": 65,
+        "anti_siren": 1
+      }
+    },
+    "important": true,
+    "equip_limit": 151200,
+    "ship_type_forbidden": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      8,
+      10,
+      11,
+      12,
+      13,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ]
   }
 }

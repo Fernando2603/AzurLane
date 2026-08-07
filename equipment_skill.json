@@ -913,5 +913,10 @@
     "id": 61110,
     "name": "Master of Laughter",
     "desc": "Changes the BGM when equipped. If other gear that changes the BGM is active simultaneously, only a randomly chosen one will take effect."
+  },
+  "61120": {
+    "id": 61120,
+    "name": "Master Detective's Hat",
+    "desc": "When equipped to Essex: during battle, increases this ship's ACC by 30."
   }
 }
