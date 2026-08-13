@@ -109906,5 +109906,116 @@
       23,
       24
     ]
+  },
+  "151220": {
+    "name": "Error XIII",
+    "desc": "Collett's favorite digital pet. She's on her thirteenth one by now, so hopefully she'll feed it this time.",
+    "label": [
+      "USS",
+      "DEV"
+    ],
+    "rarity": 5,
+    "nationality": 1,
+    "type": 10,
+    "skill": {
+      "61130": {
+        "id": 61130,
+        "name": "Error XIII",
+        "desc": "When equipped by Collett: 13s after the battle starts, randomly targets one enemy and reduces its SPD to 0 for 1.3s."
+      }
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/151220.png",
+    "stats": {
+      "1": {
+        "id": 151220,
+        "level": 1,
+        "enhance": "+0",
+        "durability": 250
+      },
+      "2": {
+        "id": 151221,
+        "level": 2,
+        "enhance": "+1",
+        "durability": 280
+      },
+      "3": {
+        "id": 151222,
+        "level": 3,
+        "enhance": "+2",
+        "durability": 310
+      },
+      "4": {
+        "id": 151223,
+        "level": 4,
+        "enhance": "+3",
+        "durability": 340
+      },
+      "5": {
+        "id": 151224,
+        "level": 5,
+        "enhance": "+4",
+        "durability": 370
+      },
+      "6": {
+        "id": 151225,
+        "level": 6,
+        "enhance": "+5",
+        "durability": 400
+      },
+      "7": {
+        "id": 151226,
+        "level": 7,
+        "enhance": "+6",
+        "durability": 430
+      },
+      "8": {
+        "id": 151227,
+        "level": 8,
+        "enhance": "+7",
+        "durability": 460
+      },
+      "9": {
+        "id": 151228,
+        "level": 9,
+        "enhance": "+8",
+        "durability": 490
+      },
+      "10": {
+        "id": 151229,
+        "level": 10,
+        "enhance": "+9",
+        "durability": 520
+      },
+      "11": {
+        "id": 151230,
+        "level": 11,
+        "enhance": "+10",
+        "durability": 550
+      },
+      "12": {
+        "id": 151231,
+        "level": 12,
+        "enhance": "+11",
+        "anti_siren": 1,
+        "durability": 580
+      },
+      "13": {
+        "id": 151232,
+        "level": 13,
+        "enhance": "+12",
+        "anti_siren": 2,
+        "durability": 610
+      },
+      "14": {
+        "id": 151233,
+        "level": 14,
+        "enhance": "+13",
+        "anti_siren": 3,
+        "durability": 640
+      }
+    },
+    "important": true,
+    "equip_limit": 151220,
+    "ship_type_forbidden": []
   }
 }

@@ -4462,5 +4462,37 @@
     "bitrate": 160.0,
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-hospitalnight-mystic.ogg"
+  },
+  "theme-richard-white": {
+    "title": "theme-richard-white",
+    "size": 1555490,
+    "duration": 68.01066666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-richard-white.ogg"
+  },
+  "theme-suihuoproject": {
+    "title": "theme-suihuoproject",
+    "size": 2479682,
+    "duration": 132.864,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-suihuoproject.ogg"
+  },
+  "story-cardrive-stand": {
+    "title": "story-cardrive-stand",
+    "size": 1765438,
+    "duration": 85.76,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-cardrive-stand.ogg"
+  },
+  "story-thinking-philosophy": {
+    "title": "story-thinking-philosophy",
+    "size": 2526147,
+    "duration": 121.36533333333334,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-thinking-philosophy.ogg"
   }
 }

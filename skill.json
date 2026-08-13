@@ -9119,6 +9119,102 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152550.png",
     "max_level": 10
   },
+  "152560": {
+    "id": 152560,
+    "type": 1,
+    "name": "Data Stream Smasher",
+    "desc": "Increases this ship's FP and ACC by 10.0% (20.0%). Every 15s: performs Intel Lock on a random enemy (prioritizing humanoid enemies) and fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). Intel Lock makes the target and all other enemies within 30 units of it take increased DMG from Eagle Union Vanguard ships by 1.0% (10.0%) for 8s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152560.png",
+    "max_level": 10
+  },
+  "152570": {
+    "id": 152570,
+    "type": 2,
+    "name": "Sky-High Security",
+    "desc": "Increases this ship's EVA and ASW by 10.0% (20.0%). While this ship is afloat: decreases DMG taken by allied CV and CVL by 1.0% (10.0%). At the start of battle, if this ship has the highest AA amongst your Vanguard: increases all other Vanguard ships' AA by 5.0% (15.0%); otherwise, increases this ship's AA by 15.0% (30.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152570.png",
+    "max_level": 10
+  },
+  "152580": {
+    "id": 152580,
+    "type": 2,
+    "name": "Idol Lesson: Combat Training",
+    "desc": "Increases this ship's FP and AA by 10.0% (20.0%). Whenever this ship fires her anti-air guns 4 times: 40.0% (70%) chance to fire a Lv.1 (Lv.10) special barrage, increasing all allied ships' AA by 1.0% (3.0%) (DMG is based on the skill's level, effect can be stacked up to 4 times). If this effect does not activate: increases chance of it happening by 10.0% until the end of battle, and increases this ship's AA by 5.0% (effects can be stacked up to 3 times).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152580.png",
+    "max_level": 10
+  },
+  "152590": {
+    "id": 152590,
+    "type": 1,
+    "name": "Shiny Lucky Power♪",
+    "desc": "Increases this ship's Crit Rate by 1.0% (10.0%). Every 18s: 50.0% (80%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) and generates a barrier that can absorb up to 1.0% of this ship's Max HP, lasting for 5s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152590.png",
+    "max_level": 10
+  },
+  "152600": {
+    "id": 152600,
+    "type": 1,
+    "name": "Stay Still for Me!",
+    "desc": "Increases this ship's AA by 5.0% (15.0%). For every 3 aircraft shot down inside your fleet's AA range, increases your Vanguard fleet's FP and TRP by 1.0% (2.5%) for 12s (can be stacked up to 5 times). 3s after the battle starts, and every 20s after that: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); enemies hit by this special barrage are inflicted with Off-Balance for 5s, decreasing EVA by 1.0% (10.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152600.png",
+    "max_level": 10
+  },
+  "152610": {
+    "id": 152610,
+    "type": 2,
+    "name": "Fullest Protection",
+    "desc": "When this ship is attacked: 15.0% chance to deploy a shield (lasting 12s) that can block up to 12 hits (12s cooldown between activations). Once per battle, when another ship's HP falls below 20.0% HP as a result of DMG taken: restores 1.0% (10.0%) of that ship's HP (restores an additional 5.0% if the target is an Eagle Union ship).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152610.png",
+    "max_level": 10
+  },
+  "152620": {
+    "id": 152620,
+    "type": 3,
+    "name": "Freestyling Flight",
+    "desc": "Increases this ship's AVI by 5.0% (15.0%) and ACC by 4.0% (10.0%). When this ship's aircraft shoots down an enemy aircraft: increases this ship's AVI by 1.5% (5.0%) until the end of battle (can be stacked up to 2 times); when this effect is at max stacks, increases the AA of all allied ships with lower AA than this ship's by 5.0% (15.0%) until the end of battle.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152620.png",
+    "max_level": 10
+  },
+  "152630": {
+    "id": 152630,
+    "type": 2,
+    "name": "Vlogging Time!",
+    "desc": "When this ship launches an airstrike: additionally launches a Lv.1 (Lv.10) special airstrike (DMG is based on the skill's level); if there are 3 or more Eagle Union ships in your fleet: reduces SPD of all enemies to 0 over 2.5s, returning to their original speed after 1.5s. At the start of battle, if there are other Eagle Union ships in the fleet: decreases this ship's DMG taken from aircraft by 5.0% (15.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152630.png",
+    "max_level": 10
+  },
+  "152640": {
+    "id": 152640,
+    "type": 2,
+    "name": "Smokescreen: Belfast",
+    "desc": "10s after battle starts and 20.0% chance every 20s after that: deploys a smokescreen that increases Evasion Rate by 15.0% (35.0%) and decreases DMG taken from enemy aircraft by 15.0% (35.0%) for all your ships inside it. Smokescreen lasts for 10s, and does not stack with Smokescreen: Light Cruisers.\nWhen the first smokescreen is deployed, the following effects apply based on the number of CLs in your fleet:\n1: Increases DMG dealt by main fleet members by 1.5% (6.0%) for 50s.\n2 or more: Increases this ship's Main Gun efficiency by 10.0% (20.0%), and increases AA of allied CLs by 10.0% (20.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/4100.png",
+    "max_level": 10
+  },
+  "152650": {
+    "id": 152650,
+    "type": 3,
+    "name": "A Perfectly Reliable Maid",
+    "desc": "Increases Anti-Air Gun efficiency by 15.0% (30.0%). At the start of battle, and every 20s afterwards: restores HP of each Vanguard ship by 3.0% of their Max HP, then fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); enemies hit by this barrage are inflicted with a special Burn debuff, dealing 350 damage every 3s for 15s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152650.png",
+    "max_level": 10
+  },
+  "152680": {
+    "id": 152680,
+    "type": 3,
+    "name": "Busybody's Benefaction",
+    "desc": "At the start of battle, increases this ship's EVA and ASW by 5.0% (15.0%). When an enemy aircraft is shot down within your fleet's Anti-Air Gun range: increases this ship's AA by 1.0% (3.0%) (can be stacked up to 5 times); when this effect has activated 5 times, activates Flagship Cover: While this ship is afloat, decreases the DMG your Flagship takes by 15.0% (25.0%) (similar skills don't stack).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152680.png",
+    "max_level": 10
+  },
+  "152690": {
+    "id": 152690,
+    "type": 1,
+    "name": "Random Cooking, Go!",
+    "desc": "Increases this ship's FP and TRP by 5.0% (15.0%). Every 20s during battle: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level), and feeds a random allied ship a meal, restoring 3.0% of that character's Max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152690.png",
+    "max_level": 10
+  },
   "18010": {
     "id": 18010,
     "type": 1,
@@ -9389,6 +9485,22 @@
     "name": "Causality Anchor+",
     "desc": "Increases this ship's FP and TRP by 10.0% (20.0%). When this ship fires her Main Guns: fires an improved Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) that inflicts a special Burn ailment for 15s to enemies hit. When the skill Blessings and Purity activates: the recon plane launched by the skill can target up to an additional 3 enemies.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/19860.png",
+    "max_level": 10
+  },
+  "18950": {
+    "id": 18950,
+    "type": 2,
+    "name": "Ambrosial Arc's Moonhaze+",
+    "desc": "When this ship fires her torpedoes: deploys Lv.1 (Lv.10) Exhaust Haze and deploys another instance of it every 0.5s for 3s. Exhaust Haze lasts for 1s, and its effect only applies to Vittorio Cuniberti; while she is inside the Exhaust Haze, her Evasion Rate is increased by 20.0% (40.0%).\nEvery time this ship deploys Exhaust Haze: fires an improved Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). Every 10 times this barrage scores a hit: restores 1.5% of this ship's max HP and fires a Lv.1 (Lv.10) special wave of torpedoes (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/19950.png",
+    "max_level": 10
+  },
+  "18980": {
+    "id": 18980,
+    "type": 1,
+    "name": "Chargeburst+",
+    "desc": "At the start of battle, increases this ship's Main Gun efficiency by 10.0% and SPD by 5; during battle, increases this ship's DMG dealt to enemies with lower SPD by 3.5% (8.0%). When this ship fires her Main Guns, the final volley prioritizes humanoid enemies.\nEvery 8s: this ship gains 1 stack of Charge (can be stacked up to 3 times); for each stack of Charge, increases this ship's AA by 1.5% (6.0%).\nWhen this ship fires her Main Guns: spends all Charge and increases this ship's FP by 1.5% (6.0%) for 5s per each Charge spent and fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); when this effect activates, the following effects apply for 5s based on the number of Charge stacks spent:\n1) 1+ spent: Increases this ship's Main Gun Crit Rate by 5.0% (15.0%);\n2) 2+ spent: Increases this ship's DMG dealt by 1.0% (10.0%);\n3) 3 spent: Improves the special barrage and increases this ship's Crit DMG by 5.0% (15.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/19980.png",
     "max_level": 10
   },
   "19000": {
@@ -12527,6 +12639,14 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/29100.png",
     "max_level": 1
   },
+  "29103": {
+    "id": 29103,
+    "type": 1,
+    "name": "All Out Assault III",
+    "desc": "Activates All Out Assault III: Belfast once every 10 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/29100.png",
+    "max_level": 1
+  },
   "29111": {
     "id": 29111,
     "type": 1,
@@ -14925,6 +15045,38 @@
     "name": "All Out Assault II",
     "desc": "Activates All Out Assault II: Surrey once every 6 times the Main Guns are fired.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30660.png",
+    "max_level": 1
+  },
+  "30671": {
+    "id": 30671,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Collett once every 15 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30670.png",
+    "max_level": 1
+  },
+  "30672": {
+    "id": 30672,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Collett once every 10 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30670.png",
+    "max_level": 1
+  },
+  "30681": {
+    "id": 30681,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Vicksburg once every 15 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30680.png",
+    "max_level": 1
+  },
+  "30682": {
+    "id": 30682,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Vicksburg once every 10 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30680.png",
     "max_level": 1
   },
   "101010": {
@@ -17374,6 +17526,14 @@
     "desc": "Enhances Devastating Cleave's special slash attack, reducing the SPD of enemies hit by 30.0% for 2s.",
     "icon": null,
     "max_level": 1
+  },
+  "180000": {
+    "id": 180000,
+    "type": 3,
+    "name": "Steelsurge Concerto+",
+    "desc": "When the battle starts, if this ship has a Main Gun equipped that fires AP ammo: increases this ship's Crit Rate and Crit DMG by 15.0% (25.0%) and Main Gun efficiency by 5.0% (15.0%). When the battle starts: selects the BB or BC in your fleet with the highest FP and gives her the Concerted Strike status; when the ship with this status fires her Main Guns, Dmitri Donskoi fires a Lv.1 (Lv.10) AP barrage (DMG is based on the skill's level) and inflicts the Pierced Mark status (lasting 5s; increases AP DMG taken by 5.0%) on all enemies on the battlefield (does not stack). Increases this ship's DMG dealt against enemies with the Pierced Mark status by 10.0% (20.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/190000.png",
+    "max_level": 10
   },
   "190000": {
     "id": 190000,

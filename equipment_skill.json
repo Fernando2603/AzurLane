@@ -918,5 +918,10 @@
     "id": 61120,
     "name": "Master Detective's Hat",
     "desc": "When equipped to Essex: during battle, increases this ship's ACC by 30."
+  },
+  "61130": {
+    "id": 61130,
+    "name": "Error XIII",
+    "desc": "When equipped by Collett: 13s after the battle starts, randomly targets one enemy and reduces its SPD to 0 for 1.3s."
   }
 }
