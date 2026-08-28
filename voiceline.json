@@ -67061,6 +67061,293 @@
       "line": "If you have this much money remaining... then you may visit me and spend it with confidence... A discount, you say...? Of course... Someday, I shall give you one..."
     }
   },
+  "301190": {
+    "battle": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/battle.ogg",
+      "line": "With me, everyone! We shall seize the day!"
+    },
+    "couple_encourage1": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/couple_encourage1.ogg",
+      "line": "W-wait up! I'm going to punish you if you leave me behind!",
+      "type": 0,
+      "list": [
+        30129
+      ],
+      "count": 1
+    },
+    "detail": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/detail.ogg",
+      "line": "I picked all these exquisite ornaments and sparkly decorations myself! So, what do you think? My fashion sense is impeccable, right? Yes, feel free to heap on the praise~ If you make me happy, I might even give you one."
+    },
+    "expedition": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/expedition.ogg",
+      "line": "Looks like the commission team is back. Hurry up and check on them already! If you find anything rare and shiny, bring it to me first – I need to appraise it myself!"
+    },
+    "feeling1": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/feeling1.ogg",
+      "line": "You there. You've been getting cockier and cockier lately, haven't you? To think that you'd even ignore my orders! At this rate, I... I... Hmph!"
+    },
+    "feeling2": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/feeling2.ogg",
+      "line": "Now that you're MY commander, you'd better prioritize my needs in everything you do, and take careful note of all my arrangements! Got it?"
+    },
+    "feeling3": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/feeling3.ogg",
+      "line": "Hey. Why's your itinerary so packed tomorrow? Delete all the unimportant stuff and put in some Amatsukaze time between your work blocks. Hmph! No matter how you look at it, I'm clearly more important!"
+    },
+    "feeling4": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/feeling4.ogg",
+      "line": "Hey. Were you ogling the other girls today? Ugh, even though I'm supposed to be the only one you stare at... Alright, you're not going anywhere. Go and sit down right there – from now on, you're only allowed to look at me and me alone!"
+    },
+    "feeling5": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/feeling5.ogg",
+      "line": "If you're ever tired, annoyed, or just feeling down, I want you to come to me first. I'll pamper you and stay with you as long as you need – this is a unique privilege that I, Amatsukaze, grant to you and you alone, and you're not allowed to refuse or complain! Got it?"
+    },
+    "headtouch": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/headtouch.ogg",
+      "line": "If you're going to start patting me, you'd better not stop halfway through or I'm going to be upset, you know?"
+    },
+    "home": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/home.ogg",
+      "line": "You're back, huh? Come over here first and let me take a good look at you... Hmph, not bad. I suppose you're not a complete mess. Alright, here's some strawberry cake. It's a gift from yours truly, so open wide already!"
+    },
+    "hp_warning": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/hp_warning.ogg",
+      "line": "Ughhh! I'm not letting a SINGLE one of you off the hook!"
+    },
+    "login": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/login.ogg",
+      "line": "How dare you act all brooding and lackadaisical in front of me! ...Alright, don't just stand there spacing out – come sit down next to me! I'll make you pay for neglecting me!"
+    },
+    "lose": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/lose.ogg",
+      "line": "I... was defeated? How could that be?! I'll get my payback one of these days, I swear it!"
+    },
+    "mail": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/mail.ogg",
+      "line": "New mail's in! If you see anything interesting, I'm counting on you to read it to me word for word!"
+    },
+    "main1": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/main1.ogg",
+      "line": "Why am I standing on the chair? Do you really have to ask? It's because visibility is always better from up high! And more importantly... you'll be able to see me as soon as you lift your head!"
+    },
+    "main2": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/main2.ogg",
+      "line": "That pen you're using right now... it's my property now, you hear? That's an order! It's none of your business whether I use it or not – the important thing is that what's yours is mine!"
+    },
+    "main3": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/main3.ogg",
+      "line": "Stop being so professional around me already; come here and have a nice chat with me. If you don't know what to talk about, then I'll decide the topic for us."
+    },
+    "mission": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/mission.ogg",
+      "line": "Hurry up and finish your work already! How are you going to have time to hang out with me otherwise?!"
+    },
+    "mission_complete": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/mission_complete.ogg",
+      "line": "Your rewards are in. Hmm, looks like you've got some interesting stuff there. Got anything for me?"
+    },
+    "profile": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/profile.ogg",
+      "line": "You may call me Amatsukaze! Don't mistake me for some wallflower just because I'm short, got it?! The most prominent spot by your side, the place where all your attention will be focused, shall naturally be mine and mine alone! Got it? Nod if you understand!"
+    },
+    "propose": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/propose.ogg",
+      "line": "Woah, what a sparkly ring... Ahem! Well, I suppose you DO know that anything less would not be worthy of me. Since you're willing to go to such great lengths for me... Urgh! What are you laughing at! H-hurry up and put it on me already! Don't dawdle!"
+    },
+    "skill": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/skill.ogg",
+      "line": "Shut up and disappear already!"
+    },
+    "touch": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/touch.ogg",
+      "line": "Hm? You've only just realized that you've been excessively cold to me and are now trying to make amends? Well, looks like you aren't so hopeless after all~"
+    },
+    "touch2": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/touch2.ogg",
+      "line": "Eep?! Wh-where do you think you're touching all of a sudden?! I wasn't done aura farming yet... Jeez! STOP LAUGHING!"
+    },
+    "unlock": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/unlock.ogg",
+      "line": "You may call me Amatsukaze. Long have I awaited this meeting written in the stars eons ago! In other words... How dare you keep me waiting all this time, Commander! As punishment, you shall never be allowed to stray from my side again!"
+    },
+    "upgrade": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/upgrade.ogg",
+      "line": "Heheh, I can do much, much better than this, you know? I'm just holding myself back to match your pace~"
+    },
+    "win_mvp": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/win_mvp.ogg",
+      "line": "I alone decide how this battle ends!"
+    },
+    "gift_prefer": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/gift_prefer.ogg",
+      "line": "So you do understand what kind of stuff I like! Well then, I appreciate it a bunch!"
+    },
+    "feeling5_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/feeling5_ex.ogg",
+      "line": "I don't care about high places or shiny treasures anymore! All I need is you! So, you'd better stay by my side forever! If I turn around and don't see you near me, I swear I'll find you and give you a good lesson! Got it? This is Amatsukaze's order!"
+    },
+    "headtouch_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/headtouch_ex.ogg",
+      "line": "*poke* *poke*... Hm? Nah, it's nothing. Just wanted to try poking you with my horn~"
+    },
+    "home_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/home_ex.ogg",
+      "line": "Hrmm... Okay, I want this one! Here you go, Commander! Your reward, hand-picked by the great Amatsukaze! Make sure to take good care of it~"
+    },
+    "login_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/login_ex.ogg",
+      "line": "Took you long enough... Do you have any idea how long I've been waiting? Hurry up and get over here already! You're going to spend the whole day with me today, and that's an order!"
+    },
+    "main4_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/main4_ex.ogg",
+      "line": "I've already handled the paperwork. Anything that isn't urgent can wait until tomorrow, so the rest of your day is mine! Don't even try telling me that you still have stuff to do – you promised to keep me company!"
+    },
+    "main5_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/main5_ex.ogg",
+      "line": "This candy's real tasty. Want some? ...So, what do you think? Hehe, knew you'd love it. Don't worry – if I ever come across anything tasty, I'll make sure to save some for you! You'd better be grateful!"
+    },
+    "main6_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/main6_ex.ogg",
+      "line": "Looking for the cup that was over there? I took it, so it's mine now. What's yours is mine anyway, so it doesn't really matter, right? Here, you can use mine! C'mon, hurry up and use it already!"
+    },
+    "touch_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/touch_ex.ogg",
+      "line": "Why are you scooting closer all of a sudden? ...If you want me to pamper you, just say so. Here, I can hold your hand for a while if you'd like~"
+    },
+    "touch2_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/touch2_ex.ogg",
+      "line": "...Hyeep?! Urgh, sneaking up on me again?! Mark my words, I'll get you next time, so you'd better watch your back!"
+    },
+    "win_mvp_ex": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301190/win_mvp_ex.ogg",
+      "line": "Heheh, I can already tell without even having to do anything – Commander, your eyes have been on me since the very beginning, isn't that right?"
+    }
+  },
+  "301191": {
+    "detail": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301191/detail.ogg",
+      "line": "With such elaborate staging, a realistic setting, and these positively phantasmagoric vibes, you really ought to savor this experience fully! Now, stop standing around and take a seat... Kokkuri is about to descend!"
+    },
+    "feeling5": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301191/feeling5.ogg",
+      "line": "The summoning is about to end? Heheh... I've already tied your fate to mine with this red thread. Even if you flee to the ends of the ocean, I can always bring you back to my side with it... So, all there is for you to do is to keep your eyes on me, forever. Understand?"
+    },
+    "headtouch": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301191/headtouch.ogg",
+      "line": "My my, Commander. You're partial to fluffy things? Hmm... Though these are mere props, feel free to enjoy yourself."
+    },
+    "home": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301191/home.ogg",
+      "line": "Took you long enough to come back. Did you bring back any interesting offerings? If not... then I suppose I will have to take your time instead~"
+    },
+    "login": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301191/login.ogg",
+      "line": "Although waiting around isn't part of my job, I must admit... I find myself looking forward to meeting with you. Since you've come all this way, sit next to me and let me take a nice look at you~"
+    },
+    "mail": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301191/mail.ogg",
+      "line": "A new letter... I'll have to keep a closer eye on whoever has been harassing you..."
+    },
+    "main1": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301191/main1.ogg",
+      "line": "Commander, don't you think the vibes around here are starting to feel kind of off? ...H-huh? Why are you just staring right through me like that in silence? D-don't tell me..."
+    },
+    "main2": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301191/main2.ogg",
+      "line": "Hmm... Can this coin alone really summon the all-knowing Kokkuri? Seems far-fetched to me, no matter how you look at it..."
+    },
+    "main3": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301191/main3.ogg",
+      "line": "Fret not, the young lass is fine... On the other hand, the concern you are showing towards \"me\" is... quite delectable indeed... Heheh, I shall accept this \"offering\"~"
+    },
+    "main4": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301191/main4.ogg",
+      "line": "Your treasure, your power, your true self... I wish to have it all. That is \"my\" desire."
+    },
+    "mission": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301191/mission.ogg",
+      "line": "Do get rid of these annoying chores of yours as quickly as possible. We wouldn't want anything to get in the way of our budding relationship~"
+    },
+    "mission_complete": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301191/mission_complete.ogg",
+      "line": "Hm? Is this an offering for me? Why thank you very much~"
+    },
+    "touch": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301191/touch.ogg",
+      "line": "Heheh~ The fact that you can touch me is proof that the Kokkuri is real after all~"
+    },
+    "touch2": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301191/touch2.ogg",
+      "line": "Mmgh?! ...H-h-heh, you have some nerve! ...I'll have you \"take responsibility\" until the very end!"
+    },
+    "unlock": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301191/unlock.ogg",
+      "line": "...Apparently, if you do this, you can summon the Kokkuri who will answer any of your... ques...tions... Urkh! Nghhh... Who dares awaken me without permission... Was it you, mortal?"
+    }
+  },
+  "301192": {
+    "detail": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301192/detail.ogg",
+      "line": "With such elaborate staging, a realistic setting, and these positively phantasmagoric vibes, you really ought to savor this experience fully! Now, stop standing around and take a seat... Kokkuri is about to descend!"
+    },
+    "feeling5": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301192/feeling5.ogg",
+      "line": "The summoning is about to end? Heheh... I've already tied your fate to mine with this red thread. Even if you flee to the ends of the ocean, I can always bring you back to my side with it... So, all there is for you to do is to keep your eyes on me, forever. Understand?"
+    },
+    "headtouch": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301192/headtouch.ogg",
+      "line": "My my, Commander. You're partial to fluffy things? Hmm... Though these are mere props, feel free to enjoy yourself."
+    },
+    "home": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301192/home.ogg",
+      "line": "Took you long enough to come back. Did you bring back any interesting offerings? If not... then I suppose I will have to take your time instead~"
+    },
+    "login": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301192/login.ogg",
+      "line": "Although waiting around isn't part of my job, I must admit... I find myself looking forward to meeting with you. Since you've come all this way, sit next to me and let me take a nice look at you~"
+    },
+    "mail": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301192/mail.ogg",
+      "line": "A new letter... I'll have to keep a closer eye on whoever has been harassing you..."
+    },
+    "main1": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301192/main1.ogg",
+      "line": "Commander, don't you think the vibes around here are starting to feel kind of off? ...H-huh? Why are you just staring right through me like that in silence? D-don't tell me..."
+    },
+    "main2": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301192/main2.ogg",
+      "line": "Hmm... Can this coin alone really summon the all-knowing Kokkuri? Seems far-fetched to me, no matter how you look at it..."
+    },
+    "main3": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301192/main3.ogg",
+      "line": "Fret not, the young lass is fine... On the other hand, the concern you are showing towards \"me\" is... quite delectable indeed... Heheh, I shall accept this \"offering\"~"
+    },
+    "main4": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301192/main4.ogg",
+      "line": "Your treasure, your power, your true self... I wish to have it all. That is \"my\" desire."
+    },
+    "mission": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301192/mission.ogg",
+      "line": "Do get rid of these annoying chores of yours as quickly as possible. We wouldn't want anything to get in the way of our budding relationship~"
+    },
+    "mission_complete": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301192/mission_complete.ogg",
+      "line": "Hm? Is this an offering for me? Why thank you very much~"
+    },
+    "touch": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301192/touch.ogg",
+      "line": "Heheh~ The fact that you can touch me is proof that the Kokkuri is real after all~"
+    },
+    "touch2": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301192/touch2.ogg",
+      "line": "Mmgh?! ...H-h-heh, you have some nerve! ...I'll have you \"take responsibility\" until the very end!"
+    },
+    "unlock": {
+      "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301192/unlock.ogg",
+      "line": "...Apparently, if you do this, you can summon the Kokkuri who will answer any of your... ques...tions... Urkh! Nghhh... Who dares awaken me without permission... Was it you, mortal?"
+    }
+  },
   "301200": {
     "battle": {
       "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/voiceline/301200/battle.ogg",

@@ -9119,6 +9119,22 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152550.png",
     "max_level": 10
   },
+  "152750": {
+    "id": 152750,
+    "type": 1,
+    "name": "The Girl Who Pierces the Clouds",
+    "desc": "Increases this ship's TRP by 5.0% (15.0%); if there is another Sakura Empire ship in the same fleet, additionally increases the Crit Rate of this ship's equipped torpedoes by 15.0% (30.0%). When this ship fires her torpedoes: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level; 10s cooldown between activations), with a 50.0% (100%) chance to fire another wave of torpedoes. Enemies hit by this barrage have their SPD reduced to 0 for 1s, before returning to normal over 0.5s. Enemies with their SPD reduced to 0 in this way are inflicted with a special Flooding debuff, receiving DMG over time for 6s (DMG is based on Amatsukaze's TRP stat).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152750.png",
+    "max_level": 10
+  },
+  "152760": {
+    "id": 152760,
+    "type": 2,
+    "name": "The Big Shot's Majesty",
+    "desc": "Increases this ship's EVA by 5.0% (15.0%).\nOnce per battle, when this ship falls below 30.0% Max HP as a result of DMG taken: this ship evades all attacks for 4s and restores 15.0% of her Max HP, but deals 10.0% reduced DMG until the battle ends.\nWhen this ship takes damage, there is a 40.0% (70.0%) chance to gain the following effect once per battle: until the end of battle, reduces this ship's DMG taken by 1.0% (10.0%); upon taking DMG, 5.0% (15.0%) chance to reduce that instance of DMG to 1.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152760.png",
+    "max_level": 10
+  },
   "152560": {
     "id": 152560,
     "type": 1,
@@ -14523,7 +14539,7 @@
     "id": 30341,
     "type": 1,
     "name": "All Out Assault I",
-    "desc": "Activates All Out Assault I: Watarase once every 12 times the Main Guns are fired.",
+    "desc": "Activates All Out Assault I: Amatsukaze once every 12 times the Main Guns are fired.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30340.png",
     "max_level": 1
   },
@@ -14531,7 +14547,7 @@
     "id": 30342,
     "type": 1,
     "name": "All Out Assault II",
-    "desc": "Activates All Out Assault II: Watarase once every 8 times the Main Guns are fired.",
+    "desc": "Activates All Out Assault II: Amatsukaze once every 8 times the Main Guns are fired.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30340.png",
     "max_level": 1
   },
@@ -15045,6 +15061,22 @@
     "name": "All Out Assault II",
     "desc": "Activates All Out Assault II: Surrey once every 6 times the Main Guns are fired.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30660.png",
+    "max_level": 1
+  },
+  "30701": {
+    "id": 30701,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Amatsukaze once every 15 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30700.png",
+    "max_level": 1
+  },
+  "30702": {
+    "id": 30702,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Amatsukaze once every 10 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30700.png",
     "max_level": 1
   },
   "30671": {
@@ -22149,6 +22181,14 @@
     "name": "Strike Orders Received!+",
     "desc": "Increases this ship's Crit DMG by 10.0% (20.0%), increases her DMG dealt against DDs by 5.0% (15.0%), and increases her torpedo efficiency by 5.0% (15.0%). When this ship fires her torpedoes: 70.0% (100%) chance to fire another wave of torpedoes.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/14660.png",
+    "max_level": 10
+  },
+  "1012580": {
+    "id": 1012580,
+    "type": 3,
+    "name": "Don't Move An Inch!",
+    "desc": "When this ship launches an Airstrike: 50.0% (80%) chance to set the Speed of all enemies to 0 for 0.5 (1.5)s. After that, this effect will fade for 2.5s before completely ending. This skill will always activate on the ship's first Airstrike launch of each battle.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/12580.png",
     "max_level": 10
   },
   "1019160": {

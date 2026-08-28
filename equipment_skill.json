@@ -923,5 +923,10 @@
     "id": 61130,
     "name": "Error XIII",
     "desc": "When equipped by Collett: 13s after the battle starts, randomly targets one enemy and reduces its SPD to 0 for 1.3s."
+  },
+  "61140": {
+    "id": 61140,
+    "name": "Bag of Sky Winds",
+    "desc": "When equipped by Amatsukaze: for 60s after the battle starts, increases this ship's Evasion Rate by 2.0%."
   }
 }
