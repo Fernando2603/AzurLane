@@ -20991,6 +20991,62 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802300.png",
     "max_level": 1
   },
+  "802370": {
+    "id": 802370,
+    "type": 1,
+    "name": "Shining Idol's★Brilliant Debut",
+    "desc": "5s after the start of battle, and every 10s afterwards: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). When this ship readies an airstrike: launches a Lv.1 (Lv.10) aerial barrage (DMG is based on the skill's level and this ship's AVI stat), and increases this ship's DMG dealt by 1.0% (10.0%) for 8s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802370.png",
+    "max_level": 10
+  },
+  "802380": {
+    "id": 802380,
+    "type": 3,
+    "name": "Be Dazzled! Perfect★Performance!",
+    "desc": "At the start of battle: increases this ship's AVI by 1.0% (10.0%). Each time this ship launches an airstrike, the following effects are applied alternately, starting with the first effect:\n1) Increases the Vanguard fleet's DMG dealt by 1.0% (10.0%) for 8s;\n2) Decreases the Vanguard fleet's DMG taken by 1.0% (10.0%) for 8s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802380.png",
+    "max_level": 10
+  },
+  "802390": {
+    "id": 802390,
+    "type": 2,
+    "name": "Light It Up! Colorful★Stage!",
+    "desc": "At the start of battle, if there are 3 ships afloat in your Main Fleet: increases this ship's maximum Detection Gauge by 20. During battle, if this ship's HP is above 50.0%: increases this ship's ACC by 5.0% (15.0%); if this ship's HP is below 50.0%: increases this ship's EVA by 5.0% (15.0%). Once per battle, if this ship falls below 50.0% max HP as a result of DMG taken: this ship's Detection Gauge is reset to 0, and she restores 1.0% of her Max HP every 5s until the end of battle.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802390.png",
+    "max_level": 10
+  },
+  "802401": {
+    "id": 802401,
+    "type": 4,
+    "name": "Ashen Might - Saratoga I",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 5.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802400.png",
+    "max_level": 1
+  },
+  "802402": {
+    "id": 802402,
+    "type": 4,
+    "name": "Ashen Might - Saratoga II",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 8.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802400.png",
+    "max_level": 1
+  },
+  "802405": {
+    "id": 802405,
+    "type": 4,
+    "name": "Ashen Might - Saratoga I",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 5.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802400.png",
+    "max_level": 1
+  },
+  "802407": {
+    "id": 802407,
+    "type": 4,
+    "name": "Ashen Might - Saratoga II",
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 8.0%.",
+    "icon": null,
+    "max_level": 1
+  },
   "901010": {
     "id": 901010,
     "type": 1,
@@ -21719,6 +21775,14 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/12940.png",
     "max_level": 10
   },
+  "1012950": {
+    "id": 1012950,
+    "type": 1,
+    "name": "The Fighting G+",
+    "desc": "Increases this ship's FP and ACC by 5.0%. During battle, every time an allied surface ship destroys an enemy: increases this ship's FP, ACC, and DMG dealt by 1.0% (3.0%) (stacks up to 5 times per battle); when this effect reaches 5 stacks: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). 3s after the start of battle and every 20s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/12950.png",
+    "max_level": 10
+  },
   "1005070": {
     "id": 1005070,
     "type": 2,
@@ -22295,6 +22359,30 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/14050.png",
     "max_level": 10
   },
+  "1014200": {
+    "id": 1014200,
+    "type": 3,
+    "name": "Memorial of Ice and Iron+",
+    "desc": "When this ship is equipped with a Northern Parliament or Iron Blood main gun: increases this ship's DMG dealt, Crit Rate, and Crit DMG by 10.0% (20.0%). When this ship is equipped with an AP main gun: increases the main gun's shell velocity by 15.0%, and increases this ship's ACC by 5.0% (15.0%). Each time this ship destroys an enemy: increases this ship's FP and AA by 3.5% (8.0%) until the end of battle (stacks up to 3 times).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/14200.png",
+    "max_level": 10
+  },
+  "1013070": {
+    "id": 1013070,
+    "type": 1,
+    "name": "Soaring Silver Wings+",
+    "desc": "When this ship readies an airstrike: launches a special Lv.1 (Lv.10) aerial barrage with SB2C Helldivers (DMG is based on the skill's level); bombs and rockets from this barrage inflict Armor Break when hitting enemy BBs, BCs, and BBVs (this effect does not stack; only the highest value is applied). Every 20s during battle: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). Once per battle, when this ship falls below 30.0% HP as a result of DMG taken: restores 4.5% (12.0%) of this ship's Max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/13070.png",
+    "max_level": 10
+  },
+  "1019170": {
+    "id": 1019170,
+    "type": 3,
+    "name": "Kitakaze Style - Horizon Splitter+",
+    "desc": "At the start of battle, increases this ship's FP and ACC by 5.0% (15.0%), and generates a barrier for 30s that can absorb up to 5.0% (10.0%) of this ship's max HP. Every 10s during battle: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). This ship's Main Gun now ignores the enemy's armor type, and its DMG is further increased based on the skill's level (Lv.1 (Lv.10)). When this ship is equipped with a Sakura Empire main gun: increases Main Gun efficiency by 5.0% (15.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/19170.png",
+    "max_level": 10
+  },
   "1090010": {
     "id": 1090010,
     "type": 3,
@@ -22669,6 +22757,14 @@
     "name": "Reload Order - Pensacola",
     "desc": "Every 20s: 25.0% chance to increase the fleet's RLD by 5.0% (25.0%) for 8s (Does not stack with other Reload Order skills; only the highest value takes effect);\nIf this ship is equipped with an AP Main Gun: increases this ship's AP DMG modifier against all armor types by 5.0% (15.0%); if this ship is equipped with a HE or SAP Main Gun: increases this ship's FP by 1.0% (5.0%), EVA by 5.0% (25.0%), AA by 5.0% (25.0%), and additionally fires a Lv.1 (Lv.10) special barrage every 20s (DMG is based on the skill's level).\nOnce per battle, when this ship falls below 30.0% Max HP as a result of DMG taken: restores 5.0% (15.0%) of this ship's Max HP.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/2020.png",
+    "max_level": 10
+  },
+  "1090510": {
+    "id": 1090510,
+    "type": 1,
+    "name": "Wolf Pack Tactics - U-73",
+    "desc": "For each Iron Blood SS in the fleet: increases this boat's TRP, RLD, and ACC by 1.5% (6.0%). When this boat's OXY reaches 0 and she resurfaces: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level), inflicting a special Flooding debuff that deals DMG over time for 15s (Flooding DMG is based on this ship's TRP stat).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/3610.png",
     "max_level": 10
   }
 }

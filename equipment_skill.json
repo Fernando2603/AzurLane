@@ -928,5 +928,10 @@
     "id": 61140,
     "name": "Bag of Sky Winds",
     "desc": "When equipped by Amatsukaze: for 60s after the battle starts, increases this ship's Evasion Rate by 2.0%."
+  },
+  "61150": {
+    "id": 61150,
+    "name": "Staff Pass",
+    "desc": "When equipped by a Royal Navy ship: increases her SPD by 3. When equipped by Javelin: additionally, increases her DMG by 5.0% for the first 60s of battle."
   }
 }

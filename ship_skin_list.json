@@ -51263,6 +51263,30 @@
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802013/shipyard.png"
       },
       {
+        "id": 802014,
+        "gid": 80201,
+        "name": "Éclat Magique",
+        "type": "Fairytale",
+        "desc": "Commander, I prepared this special dress so we could enjoy this lovely ball together. See how it flutters like a flower whenever I twirl...? Heheh, fantastique, is it not?",
+        "tag": [
+          "dynamicbg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 108,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/159.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802014/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802014/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802014/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802014/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802014/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/802014/shipyard.png"
+      },
+      {
         "id": 802019,
         "gid": 80201,
         "name": "Émile Bertin (Retrofit)",
@@ -65142,6 +65166,34 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702130/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702130/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9702130/shipyard.png"
+      }
+    ]
+  },
+  {
+    "gid": 970710,
+    "name": "Saratoga META",
+    "skins": [
+      {
+        "id": 9707100,
+        "gid": 970710,
+        "name": "Saratoga META",
+        "type": "Default",
+        "desc": "Sara META, the idol who descends from on high, makes a dazzling appearance! Heheh, are you awestruck by my performance? Don't worry; whether it's in a fight or on the stage, I'll bring up the mood everywhere I go!",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 28,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9707100/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9707100/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9707100/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9707100/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9707100/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9707100/shipyard.png"
       }
     ]
   }
