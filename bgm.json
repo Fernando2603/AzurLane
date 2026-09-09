@@ -4494,5 +4494,37 @@
     "bitrate": 160.0,
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-thinking-philosophy.ogg"
+  },
+  "story-richang-visioncity": {
+    "title": "story-richang-visioncity",
+    "size": 1397802,
+    "duration": 67.072,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-visioncity.ogg"
+  },
+  "story-visioncity-1": {
+    "title": "story-visioncity-1",
+    "size": 1923247,
+    "duration": 93.20533333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-visioncity-1.ogg"
+  },
+  "login-jp9th": {
+    "title": "login-jp9th",
+    "size": 2519442,
+    "duration": 124.352,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/login-jp9th.ogg"
+  },
+  "story-visioncity-pv": {
+    "title": "story-visioncity-pv",
+    "size": 1227285,
+    "duration": 61.781333333333336,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-visioncity-pv.ogg"
   }
 }

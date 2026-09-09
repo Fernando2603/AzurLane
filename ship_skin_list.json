@@ -14092,6 +14092,80 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201160/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201160/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201160/shipyard.png"
+      },
+      {
+        "id": 201169,
+        "gid": 20116,
+        "name": "Hardy (Retrofit)",
+        "type": "Retrofit",
+        "desc": "Hardy of the Royal Navy, reporting for duty once again! Thanks to Your Excellency's care and patience, I have become stronger than ever! Please place your trust in me from now on!",
+        "tag": [],
+        "illustrator": 4,
+        "illustrator2": -1,
+        "voice_actor": 170,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201169/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201169/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201169/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201169/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201169/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201169/shipyard.png"
+      }
+    ]
+  },
+  {
+    "gid": 20119,
+    "name": "Hostile",
+    "skins": [
+      {
+        "id": 201190,
+        "gid": 20119,
+        "name": "Hostile",
+        "type": "Default",
+        "desc": "H-class destroyer – Hostile.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 525,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201190/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201190/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201190/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201190/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201190/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201190/shipyard.png"
+      },
+      {
+        "id": 201191,
+        "gid": 20119,
+        "name": "Coastal Vigil",
+        "type": "Spooky Tales",
+        "desc": "These waters aren't safe, especially around here... That's why I waited here for you. Rest assured – this lantern will guide you safely back to shore.",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 525,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/164.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201191/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201191/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201191/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201191/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201191/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201191/shipyard.png"
       }
     ]
   },
@@ -14172,6 +14246,58 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201361/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201361/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201361/shipyard.png"
+      }
+    ]
+  },
+  {
+    "gid": 20140,
+    "name": "Hasty",
+    "skins": [
+      {
+        "id": 201400,
+        "gid": 20140,
+        "name": "Hasty",
+        "type": "Default",
+        "desc": "H-class destroyer – Hasty.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 524,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201400/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201400/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201400/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201400/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201400/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201400/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201400/shipyard.png"
+      },
+      {
+        "id": 201401,
+        "gid": 20140,
+        "name": "Sleepless Dollhouse",
+        "type": "Spooky Tales",
+        "desc": "we HAVe bEeN wAITiNg foR you... Won'T yOu JoiN Us? ...Heheh, did that scare you? Welcome to my dollhouse~ You'll be hanging out with me and my dolls for the whole day!",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 524,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/177.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201401/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201401/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201401/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201401/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201401/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201401/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201401/shipyard.png"
       }
     ]
   },
@@ -14509,6 +14635,28 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/231210/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/231210/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/231210/shipyard.png"
+      },
+      {
+        "id": 231211,
+        "gid": 20121,
+        "name": "Javelin",
+        "type": "Default",
+        "desc": "No description",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 23,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/231211/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/231211/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/231211/banner.png",
+        "chibi": null,
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/231211/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/231211/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/231211/shipyard.png"
       }
     ]
   },
@@ -17882,6 +18030,86 @@
     ]
   },
   {
+    "gid": 20238,
+    "name": "Tiger",
+    "skins": [
+      {
+        "id": 202380,
+        "gid": 20238,
+        "name": "Tiger",
+        "type": "Default",
+        "desc": "Tiger-class light cruiser – Tiger.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 379,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/202380/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/202380/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/202380/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/202380/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/202380/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/202380/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/202380/shipyard.png"
+      },
+      {
+        "id": 202381,
+        "gid": 20238,
+        "name": "Maiden of the Stars",
+        "type": "Spooky Tales",
+        "desc": "I see... So it was your melody that led me from the heavens to this land. I'm a celestial maiden who hails from the stars. I'd be overjoyed if we could weave a beautiful melody together in this world.",
+        "tag": [
+          "asmr",
+          "dynamic",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 379,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/142.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/202381/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/202381/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/202381/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/202381/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/202381/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/202381/shipyard.png"
+      },
+      {
+        "id": 202382,
+        "gid": 20238,
+        "name": "Maiden of the Stars",
+        "type": "Spooky Tales",
+        "desc": "I see... So it was your melody that led me from the heavens to this land. I'm a celestial maiden who hails from the stars. I'd be overjoyed if we could weave a beautiful melody together in this world.",
+        "tag": [
+          "asmr",
+          "dynamic",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 379,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/142.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/202382/painting.png",
+        "painting_n": null,
+        "banner": null,
+        "chibi": null,
+        "icon": null,
+        "qicon": null,
+        "shipyard": null
+      }
+    ]
+  },
+  {
     "gid": 20223,
     "name": "Swiftsure",
     "skins": [
@@ -20170,6 +20398,31 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/205161/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/205161/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/205161/shipyard.png"
+      },
+      {
+        "id": 205162,
+        "gid": 20516,
+        "name": "Alleyway Temptress",
+        "type": "Spooky Tales",
+        "desc": "Your footsteps betray you, outsider. If you're so eager to be found... then don't try to escape.",
+        "tag": [
+          "l2d+",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 87,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/497.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/205162/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/205162/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/205162/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/205162/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/205162/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/205162/shipyard.png"
       }
     ]
   },
@@ -21556,6 +21809,31 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/237030/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/237030/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/237030/shipyard.png"
+      },
+      {
+        "id": 237031,
+        "gid": 20703,
+        "name": "Wandering Glow of Midnight",
+        "type": "Spooky Tales",
+        "desc": "Found you, lost lamb~ You've come so far, too. Were you maybe waiting for someone else? Now, let me give you a proper welcome♪",
+        "tag": [
+          "l2d+",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 6,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/177.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/237031/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/237031/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/237031/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/237031/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/237031/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/237031/shipyard.png"
       }
     ]
   },
@@ -22135,6 +22413,32 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/237030/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/237030/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/237030/shipyard.png",
+        "shared": "20703"
+      },
+      {
+        "id": 237031,
+        "gid": 20703,
+        "name": "Wandering Glow of Midnight",
+        "type": "Spooky Tales",
+        "desc": "Found you, lost lamb~ You've come so far, too. Were you maybe waiting for someone else? Now, let me give you a proper welcome♪",
+        "tag": [
+          "l2d+",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 6,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/177.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/237031/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/237031/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/237031/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/237031/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/237031/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/237031/shipyard.png",
         "shared": "20703"
       }
     ]
@@ -31683,6 +31987,85 @@
     ]
   },
   {
+    "gid": 30409,
+    "name": "Azuchi",
+    "skins": [
+      {
+        "id": 304090,
+        "gid": 30409,
+        "name": "Azuchi",
+        "type": "Default",
+        "desc": "No.13-class battlecruiser – Azuchi.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 522,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/304090/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/304090/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/304090/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/304090/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/304090/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/304090/shipyard.png"
+      },
+      {
+        "id": 304091,
+        "gid": 30409,
+        "name": "Testing Courage in Crimson",
+        "type": "Spooky Tales",
+        "desc": "Welcome... to the forgotten floor. Heheh, don't close the door now. Let me see that pretty face of yours... I've been waiting for you for so long,♪",
+        "tag": [
+          "change",
+          "live2d"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 522,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/304091/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/304091/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/304091/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/304091/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/304091/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/304091/shipyard.png"
+      },
+      {
+        "id": 304092,
+        "gid": 30409,
+        "name": "Testing Courage in Crimson",
+        "type": "Spooky Tales",
+        "desc": "You finally let me in, did you~ I didn't think you'd give in easily, but you really made me work for it. Well, your little break is over. It's time we did something else.",
+        "tag": [
+          "change",
+          "dynamic",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 522,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/497.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/304092/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/304092/banner.png",
+        "chibi": null,
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/304092/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/304092/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/304092/shipyard.png"
+      }
+    ]
+  },
+  {
     "gid": 30511,
     "name": "Mikasa",
     "skins": [
@@ -34444,6 +34827,28 @@
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307052/shipyard.png"
       },
       {
+        "id": 307053,
+        "gid": 30705,
+        "name": "Shoukaku",
+        "type": "Default",
+        "desc": "No description",
+        "tag": [],
+        "illustrator": 14,
+        "illustrator2": -1,
+        "voice_actor": 46,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307053/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307053/banner.png",
+        "chibi": null,
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307053/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307053/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307053/shipyard.png"
+      },
+      {
         "id": 307058,
         "gid": 30705,
         "name": "White Crane of Domestic Bliss",
@@ -35487,6 +35892,28 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307161/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307161/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307161/shipyard.png"
+      },
+      {
+        "id": 307162,
+        "gid": 30716,
+        "name": "Hakuhou",
+        "type": "Default",
+        "desc": "No description",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 220,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307162/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307162/banner.png",
+        "chibi": null,
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307162/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307162/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/307162/shipyard.png"
       }
     ]
   },
@@ -36003,6 +36430,59 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/317022/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/317022/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/317022/shipyard.png"
+      }
+    ]
+  },
+  {
+    "gid": 31703,
+    "name": "I-14",
+    "skins": [
+      {
+        "id": 317030,
+        "gid": 31703,
+        "name": "I-14",
+        "type": "Default",
+        "desc": "Type A Mod. 2 cruiser submarine – I-14.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 523,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/317030/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/317030/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/317030/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/317030/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/317030/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/317030/shipyard.png"
+      },
+      {
+        "id": 317031,
+        "gid": 31703,
+        "name": "Thousand-Faced Nothingness",
+        "type": "Spooky Tales",
+        "desc": "You really found me. I've changed my face so many times, yet you still came... Yes, the irregularity you were talking about is me. What do you want to do with me now?",
+        "tag": [
+          "dynamic",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 523,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/142.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/317031/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/317031/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/317031/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/317031/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/317031/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/317031/shipyard.png"
       }
     ]
   },
@@ -39901,6 +40381,31 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403142/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403142/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403142/shipyard.png"
+      },
+      {
+        "id": 403143,
+        "gid": 40314,
+        "name": "The Midnight Channel",
+        "type": "Spooky Tales",
+        "desc": "Heeheehee... I found you, little one. Once I'm out of here... I'll caress you, my beloved, with these chilly fingers...♥",
+        "tag": [
+          "l2d+",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 175,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/310.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403143/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403143/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403143/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403143/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403143/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403143/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403143/shipyard.png"
       }
     ]
   },
@@ -40059,6 +40564,28 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403112/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403112/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403112/shipyard.png"
+      },
+      {
+        "id": 403113,
+        "gid": 40311,
+        "name": "York",
+        "type": "Default",
+        "desc": "No description",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 313,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403113/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403113/banner.png",
+        "chibi": null,
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403113/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403113/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/403113/shipyard.png"
       }
     ]
   },
@@ -54472,6 +54999,50 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600031/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600031/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600031/shipyard.png"
+      },
+      {
+        "id": 9600032,
+        "gid": 960003,
+        "name": "Golden Hind",
+        "type": "Default",
+        "desc": "No description",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 384,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600032/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600032/banner.png",
+        "chibi": null,
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600032/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600032/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600032/shipyard.png"
+      },
+      {
+        "id": 9600033,
+        "gid": 960003,
+        "name": "Golden Hind",
+        "type": "Default",
+        "desc": "No description",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 384,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600033/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600033/banner.png",
+        "chibi": null,
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600033/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600033/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600033/shipyard.png"
       }
     ]
   },
@@ -61109,6 +61680,28 @@
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/299034/shipyard.png"
       },
       {
+        "id": 299035,
+        "gid": 29903,
+        "name": "Cheshire",
+        "type": "Default",
+        "desc": "No description",
+        "tag": [],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 30,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/299035/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/299035/banner.png",
+        "chibi": null,
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/299035/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/299035/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/299035/shipyard.png"
+      },
+      {
         "id": 299038,
         "gid": 29903,
         "name": "White Seaside Melody",
@@ -65194,6 +65787,34 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9707100/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9707100/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9707100/shipyard.png"
+      }
+    ]
+  },
+  {
+    "gid": 970709,
+    "name": "Victorious META",
+    "skins": [
+      {
+        "id": 9707090,
+        "gid": 970709,
+        "name": "Victorious META",
+        "type": "Default",
+        "desc": "The Everburning Torch sends you her regards, Commander. Allow me, Victorious of the Royal Navy, to join your fleet and fight by your side in the name of victory♪",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 94,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9707090/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9707090/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9707090/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9707090/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9707090/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9707090/shipyard.png"
       }
     ]
   }
