@@ -9307,7 +9307,7 @@
     "id": 152830,
     "type": 1,
     "name": "All-Devouring Inferno",
-    "desc": "This ship's Main Gun attacks have a 20.0% (50.0%) chance to inflict a normal Burn debuff even if this ship does not have an HE Main Gun equipped. During battle, increases this ship's FP by 10.0% (20.0%)￼ and RLD by ￼5.0% (15.0%). 2s after the start of battle, and whenever this ship finishes loading her Main Guns: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); enemies hit by this special barrage are inflicted with the [Flame-Devoured] special Burn status, causing them to take 130 DMG per second and decreasing their ACC by 5.0% for 20s ([Flame-Devoured] does not stack; repeated applications reset the duration).",
+    "desc": "This ship's Main Gun attacks have a 20.0% (50.0%) chance to inflict a normal Burn debuff even if this ship does not have an HE Main Gun equipped. During battle, increases this ship's FP by 10.0% (20.0%) and RLD by 5.0% (15.0%). 2s after the start of battle, and whenever this ship finishes loading her Main Guns: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); enemies hit by this special barrage are inflicted with the [Flame-Devoured] special Burn status, causing them to take 130 DMG per second and decreasing their ACC by 5.0% for 20s ([Flame-Devoured] does not stack; repeated applications reset the duration).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152830.png",
     "max_level": 10
   },
