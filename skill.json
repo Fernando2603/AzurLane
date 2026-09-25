@@ -21239,6 +21239,54 @@
     "icon": null,
     "max_level": 1
   },
+  "802340": {
+    "id": 802340,
+    "type": 1,
+    "name": "Super Combat Amplifier",
+    "desc": "At the start of battle, increases this ship's FP and TRP by 5.0% (15.0%). Every 20s: 70.0% chance to fire a Lv.1 (Lv.10) special barrage, restoring 1.0% (5.0%) of this ship's Max HP (DMG is based on the skill's level; healing effect can only activate up to twice per battle); increases this ship's DMG dealt to enemies hit by this special barrage by 5.0% (15.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802340.png",
+    "max_level": 10
+  },
+  "802350": {
+    "id": 802350,
+    "type": 2,
+    "name": "Once a Genius Mechanic, Always a Genius Mechanic",
+    "desc": "Every 15s: 15.0% (30.0%) chance to deploy a smokescreen for 5s, increasing the Evasion Rate of ships inside by 20.0% (40.0%) (does not stack with other smokescreen effects; the greatest effect takes precedence). When this ship is NOT inside a smokescreen: increases this ship's EVA by 5.0% (15.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802350.png",
+    "max_level": 10
+  },
+  "802361": {
+    "id": 802361,
+    "type": 3,
+    "name": "Flickering Light - Soobrazitelny I",
+    "desc": "Every 15 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802360.png",
+    "max_level": 1
+  },
+  "802362": {
+    "id": 802362,
+    "type": 3,
+    "name": "Flickering Light - Soobrazitelny II",
+    "desc": "Every 10 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802360.png",
+    "max_level": 1
+  },
+  "802365": {
+    "id": 802365,
+    "type": 3,
+    "name": "Flickering Light - Soobrazitelny I",
+    "desc": "[Operation Siren]\nEvery 15 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: reduces this ship's DMG taken by 2.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802360.png",
+    "max_level": 1
+  },
+  "802367": {
+    "id": 802367,
+    "type": 3,
+    "name": "Flickering Light - Soobrazitelny II",
+    "desc": "[Operation Siren]\nEvery 10 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: reduces this ship's DMG taken by 6.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802360.png",
+    "max_level": 1
+  },
   "901010": {
     "id": 901010,
     "type": 1,
