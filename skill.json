@@ -22599,6 +22599,22 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/14050.png",
     "max_level": 10
   },
+  "1016180": {
+    "id": 1016180,
+    "type": 1,
+    "name": "Tempesta Pact+",
+    "desc": "When this ship enters the battle, and every 10s after that: performs a Lv.1 (Lv.10) special attack that slows enemies hit by 40.0% for 6s (DMG is based on the skill's level). For the first 30s of battle: increases this ship's DMG dealt by 20.0% (40.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/16180.png",
+    "max_level": 10
+  },
+  "1014030": {
+    "id": 1014030,
+    "type": 1,
+    "name": "Ontological Rudder+",
+    "desc": "At the start of battle, increases this ship's FP and EVA by 5.0% (20.0%). After 2s: increases this ship's SPD by 5, and fires a Lv.1 (Lv.10) improved special barrage; after this effect activates, this ship gains the following effect: [Every 15s: fires this special barrage 1 time] (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/14030.png",
+    "max_level": 10
+  },
   "1014200": {
     "id": 1014200,
     "type": 3,
