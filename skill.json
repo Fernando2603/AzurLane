@@ -9119,30 +9119,6 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152550.png",
     "max_level": 10
   },
-  "152750": {
-    "id": 152750,
-    "type": 1,
-    "name": "The Girl Who Pierces the Clouds",
-    "desc": "Increases this ship's TRP by 5.0% (15.0%); if there is another Sakura Empire ship in the same fleet, additionally increases the Crit Rate of this ship's equipped torpedoes by 15.0% (30.0%). When this ship fires her torpedoes: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level; 10s cooldown between activations), with a 50.0% (100%) chance to fire another wave of torpedoes. Enemies hit by this barrage have their SPD reduced to 0 for 1s, before returning to normal over 0.5s. Enemies with their SPD reduced to 0 in this way are inflicted with a special Flooding debuff, receiving DMG over time for 6s (DMG is based on Amatsukaze's TRP stat).",
-    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152750.png",
-    "max_level": 10
-  },
-  "152760": {
-    "id": 152760,
-    "type": 2,
-    "name": "The Big Shot's Majesty",
-    "desc": "Increases this ship's EVA by 5.0% (15.0%).\nOnce per battle, when this ship falls below 30.0% Max HP as a result of DMG taken: this ship evades all attacks for 4s and restores 15.0% of her Max HP, but deals 10.0% reduced DMG until the battle ends.\nWhen this ship takes damage, there is a 40.0% (70.0%) chance to gain the following effect once per battle: until the end of battle, reduces this ship's DMG taken by 1.0% (10.0%); upon taking DMG, 5.0% (15.0%) chance to reduce that instance of DMG to 1.",
-    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152760.png",
-    "max_level": 10
-  },
-  "152560": {
-    "id": 152560,
-    "type": 1,
-    "name": "Data Stream Smasher",
-    "desc": "Increases this ship's FP and ACC by 10.0% (20.0%). Every 15s: performs Intel Lock on a random enemy (prioritizing humanoid enemies) and fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). Intel Lock makes the target and all other enemies within 30 units of it take increased DMG from Eagle Union Vanguard ships by 1.0% (10.0%) for 8s.",
-    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152560.png",
-    "max_level": 10
-  },
   "152570": {
     "id": 152570,
     "type": 2,
@@ -9287,6 +9263,54 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152730.png",
     "max_level": 10
   },
+  "152750": {
+    "id": 152750,
+    "type": 1,
+    "name": "The Girl Who Pierces the Clouds",
+    "desc": "Increases this ship's TRP by 5.0% (15.0%); if there is another Sakura Empire ship in the same fleet, additionally increases the Crit Rate of this ship's equipped torpedoes by 15.0% (30.0%). When this ship fires her torpedoes: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level; 10s cooldown between activations), with a 50.0% (100%) chance to fire another wave of torpedoes. Enemies hit by this barrage have their SPD reduced to 0 for 1s, before returning to normal over 0.5s. Enemies with their SPD reduced to 0 in this way are inflicted with a special Flooding debuff, receiving DMG over time for 6s (DMG is based on Amatsukaze's TRP stat).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152750.png",
+    "max_level": 10
+  },
+  "152760": {
+    "id": 152760,
+    "type": 2,
+    "name": "The Big Shot's Majesty",
+    "desc": "Increases this ship's EVA by 5.0% (15.0%).\nOnce per battle, when this ship falls below 30.0% Max HP as a result of DMG taken: this ship evades all attacks for 4s and restores 15.0% of her Max HP, but deals 10.0% reduced DMG until the battle ends.\nWhen this ship takes damage, there is a 40.0% (70.0%) chance to gain the following effect once per battle: until the end of battle, reduces this ship's DMG taken by 1.0% (10.0%); upon taking DMG, 5.0% (15.0%) chance to reduce that instance of DMG to 1.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152760.png",
+    "max_level": 10
+  },
+  "152560": {
+    "id": 152560,
+    "type": 1,
+    "name": "Data Stream Smasher",
+    "desc": "Increases this ship's FP and ACC by 10.0% (20.0%). Every 15s: performs Intel Lock on a random enemy (prioritizing humanoid enemies) and fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). Intel Lock makes the target and all other enemies within 30 units of it take increased DMG from Eagle Union Vanguard ships by 1.0% (10.0%) for 8s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152560.png",
+    "max_level": 10
+  },
+  "152770": {
+    "id": 152770,
+    "type": 1,
+    "name": "Thundering Voice",
+    "desc": "During battle, reduces this ship's DMG taken by 5.0% (15.0%), and increases this ship's FP and ACC by 5.0% (15.0%). Every time this ship activates [All Out Assault: Ormrinn Langi]: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). When this special barrage has been fired 3 times: nullifies all effects from this skill.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152770.png",
+    "max_level": 10
+  },
+  "152780": {
+    "id": 152780,
+    "type": 3,
+    "name": "Serpent's Fang",
+    "desc": "Increases this ship's EVA by 5.0% (15.0%). When this ship hits the same enemy with her Main Guns twice: inflicts [Serpent's Fang] on that enemy until the end of battle, reducing its SPD by 1.0% (5.0%) and causing it to take 87 DMG per second. When an enemy with [Serpent's Fang] is defeated: restores 1.0% of this ship's Max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152780.png",
+    "max_level": 10
+  },
+  "152790": {
+    "id": 152790,
+    "type": 1,
+    "name": "Thundering Voice+",
+    "desc": "During battle, reduces this ship's DMG taken by 5.0% (15.0%), increases this ship's FP and ACC by 5.0% (15.0%), and increases this ship's DMG dealt by 5.0%. Every time this ship activates [All Out Assault: Ormrinn Langi]: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152770.png",
+    "max_level": 10
+  },
   "152800": {
     "id": 152800,
     "type": 1,
@@ -9341,6 +9365,110 @@
     "name": "Let the Brave Blade Shine",
     "desc": "Every 5s: launches a Lv.1 (Lv.10) special attack (DMG is based on the skill's level). Each time this special attack is performed: restores 1.5% (5.0%) of this ship's Max HP (up to 5 times per battle); every 3 times this special attack is performed: launches a Lv.1 (Lv.10) slash attack (Slash DMG is based on the skill's level).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152870.png",
+    "max_level": 10
+  },
+  "152880": {
+    "id": 152880,
+    "type": 1,
+    "name": "Sanctuary of Wings",
+    "desc": "At the start of battle, for each Tempesta ship in the fleet: increases this ship's FP and ACC by 1.5% (5.0%), and reduces this ship's DMG taken by 1.5% (5.0%) until the end of battle (stacks up to 4 times). When this ship fires her Main Guns: 40.0% (70%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152880.png",
+    "max_level": 10
+  },
+  "152890": {
+    "id": 152890,
+    "type": 3,
+    "name": "Plumes of Retribution",
+    "desc": "Once per battle, if this ship's total DMG taken exceeds 30.0% of her Max HP: restores 3.5% (8.0%) of this ship's Max HP. As long as this ship remains afloat: increases Tempesta ships' RLD by 4.0% (10.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152890.png",
+    "max_level": 10
+  },
+  "152900": {
+    "id": 152900,
+    "type": 3,
+    "name": "Plumes of Retribution+",
+    "desc": "Once per battle, if this ship's total DMG taken exceeds 30.0% of her Max HP: restores 3.5% (8.0%) of this ship's and another random Vanguard ship's Max HP. As long as this ship remains afloat: increases Tempesta ships' RLD and ACC by 5.0% (15.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152890.png",
+    "max_level": 10
+  },
+  "152910": {
+    "id": 152910,
+    "type": 3,
+    "name": "The Wavebreaking Longship",
+    "desc": "During battle, increases this ship's DMG dealt by 5.0% (15.0%), and SPD by 5. Upon entering battle, and every 15s after that: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); enemies hit by this barrage deal 4.0% (10.0%) less DMG to Járnbarðinn.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152910.png",
+    "max_level": 10
+  },
+  "152920": {
+    "id": 152920,
+    "type": 1,
+    "name": "The Iron Ram's Charge",
+    "desc": "Upon entering battle: increases this ship's FP by 5.0% (15.0%), and reduces this ship's DMG taken by 5.0% (15.0%) until the end of battle. Once per battle, when this ship's HP falls below 35.0% as a result of DMG taken, or after 60s have passed since entering battle: restores 15.0% of this ship's Max HP, then charges at a random enemy to perform a Lv.1 (Lv.10) special slashing attack (prioritizes humanoid enemies; DMG is based on the skill's level); while performing this charge attack, this ship cannot be dealt more than 10.0% of her Max HP in a single hit. However, if this ship takes more than 10.0% of her Max HP during this time, she will leave the battlefield after finishing this attack and ignore all enemy projectiles and collision in the process.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152920.png",
+    "max_level": 10
+  },
+  "152930": {
+    "id": 152930,
+    "type": 3,
+    "name": "The Wavebreaking Longship+",
+    "desc": "During battle, increases this ship's DMG dealt by 5.0% (15.0%), and SPD by 5. Upon entering battle, and every 10s after that: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); enemies hit by this barrage deal 4.0% (10.0%) less DMG to Járnbarðinn. Once per battle, when this barrage has hit enemies a total of 4 times: restores 1.0% (5.0%) of this ship's Max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152910.png",
+    "max_level": 10
+  },
+  "152940": {
+    "id": 152940,
+    "type": 3,
+    "name": "I Shall Illuminate the Way",
+    "desc": "Every 4s: fires a Lv.1 (Lv.10) special shell (DMG is based on the skill's level); enemies hit by this special shell take 5.0% (15.0%) increased shelling DMG from Merkuriy (effect does not stack). Once per battle, when this special shell has been fired 4 times: fires a ￼Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) and reduces this ship's DMG taken by 15.0% (25.0%) until the end of battle (does not stack).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152940.png",
+    "max_level": 10
+  },
+  "152960": {
+    "id": 152960,
+    "type": 2,
+    "name": "Lodestar of the Mercurial Path",
+    "desc": "Once per battle, when a Tempesta ship other than Merkuriy takes DMG that would otherwise sink her: as long as Merkuriy is afloat, that ship does not sink, evades all DMG, and instead gains the [Mercurial Path] effect for up to 3s, increasing that ship's FP by 5.0% (15.0%). When the [Mercurial Path] effect ends, or if Merkuriy is sunk: that ship immediately sinks. At the end of battle: all ships with [Mercurial Path] restore 3.5% (8.0%) of their Max HP. As long as Merkuriy is afloat: increases the DMG of all other Tempesta ships in the fleet by 5.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152960.png",
+    "max_level": 10
+  },
+  "152970": {
+    "id": 152970,
+    "type": 3,
+    "name": "The Miracle Named Merkuriy",
+    "desc": "At the start of battle: increases this ship's FP, RLD, and ACC by 5.0% (15.0%), and EVA by 15.0% (25.0%), then generates a barrier that can absorb up to 5.0% (15.0%) of this ship's Max HP, lasting until the end of battle. Every 10s: this ship gains a buff based on the battlefield state; if 2 or more enemies are present on the field: increases this ship's DMG dealt by 1.0% (10.0%) for 8s; if fewer than 2 enemies are present on the field: increases this ship's Evasion Rate by 3.5% (8.0%) for 8s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152970.png",
+    "max_level": 10
+  },
+  "152980": {
+    "id": 152980,
+    "type": 2,
+    "name": "Lodestar of the Mercurial Path+",
+    "desc": "When a Tempesta ship other than Merkuriy takes DMG that would otherwise sink her: as long as Merkuriy is afloat, that ship does not sink, evades all DMG, and instead gains the [Mercurial Path] effect for up to 5s, increasing that ship's FP and RLD by 5.0% (15.0%). When the [Mercurial Path] effect ends, or if Merkuriy is sunk: that ship immediately sinks. At the end of battle: all ships with [Mercurial Path] restore 4.0% (10.0%) of their Max HP. Each time an ally gains the effects of [Mercurial Path]: increases Merkuriy's DMG dealt by 2.0% (stacks up to 5 times, lasts until the end of battle). As long as Merkuriy is afloat: increases the DMG of all other Tempesta ships in the fleet by 5.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152960.png",
+    "max_level": 10
+  },
+  "153010": {
+    "id": 153010,
+    "type": 1,
+    "name": "Superheavy Firepower Network",
+    "desc": "At the start of battle: increases this ship's FP by 10.0% (20.0%), ACC by 5.0% (15.0%), and changes this ship's Armor type to Medium. Every 15s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/153010.png",
+    "max_level": 10
+  },
+  "153020": {
+    "id": 153020,
+    "type": 3,
+    "name": "Selimiye's Siege",
+    "desc": "Every 15s: applies [Selimiye's Siege] to a random enemy (prioritizes humanoid enemies) for 10s, reducing its SPD by 5.0% (15.0%), causing it to take 10.0% (20.0%) more DMG from Selimiye, and reducing allied Tempesta ships' DMG taken from it by 5.0% (15.0%). When [Selimiye's Siege] ends: increases allied Tempesta ships' EVA by 5.0% (15.0%) until the next time [Selimiye's Siege] is applied.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/153020.png",
+    "max_level": 10
+  },
+  "153030": {
+    "id": 153030,
+    "type": 1,
+    "name": "Superheavy Firepower Network+",
+    "desc": "At the start of battle: increases this ship's FP by 15.0% (30.0%), ACC by 10.0% (20.0%), and changes this ship's Armor type to Medium. Every 15s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). Once per battle, when this barrage has hit enemies a total of 6 times: increases this ship's Crit Rate and Crit DMG by 1.0% (10.0%) until the end of battle.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/153010.png",
     "max_level": 10
   },
   "18010": {
@@ -15207,6 +15335,22 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30700.png",
     "max_level": 1
   },
+  "30711": {
+    "id": 30711,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Ormrinn Langi once every 22 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30710.png",
+    "max_level": 1
+  },
+  "30712": {
+    "id": 30712,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Ormrinn Langi once every 30 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30710.png",
+    "max_level": 1
+  },
   "30671": {
     "id": 30671,
     "type": 1,
@@ -15253,6 +15397,38 @@
     "name": "All Out Assault - I-14 II",
     "desc": "Activates All Out Assault II: I-14 immediately after entering the battle.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30720.png",
+    "max_level": 1
+  },
+  "30731": {
+    "id": 30731,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Járnbarðinn once every 28 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30730.png",
+    "max_level": 1
+  },
+  "30732": {
+    "id": 30732,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Járnbarðinn once every 40 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30730.png",
+    "max_level": 1
+  },
+  "30741": {
+    "id": 30741,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Merkuriy once every 30 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30740.png",
+    "max_level": 1
+  },
+  "30742": {
+    "id": 30742,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Merkuriy once every 20 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30740.png",
     "max_level": 1
   },
   "101010": {

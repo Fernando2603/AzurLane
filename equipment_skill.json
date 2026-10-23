@@ -933,5 +933,15 @@
     "id": 61150,
     "name": "Staff Pass",
     "desc": "When equipped by a Royal Navy ship: increases her SPD by 3. When equipped by Javelin: additionally, increases her DMG by 5.0% for the first 60s of battle."
+  },
+  "61160": {
+    "id": 61160,
+    "name": "Double-shot Cannonballs",
+    "desc": "Increases Main Gun Crit DMG by 20.0%."
+  },
+  "61170": {
+    "id": 61170,
+    "name": "Power from the Depths",
+    "desc": "Decreases this ship's DMG dealt to Light Armor enemies by 5.0%, but increases the DMG dealt to Medium Armor enemies by 12.0%."
   }
 }

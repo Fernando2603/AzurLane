@@ -352,6 +352,54 @@
     "available": true
   },
   {
+    "id": 161,
+    "group_id": 16,
+    "name": "Rookie Oceanographer",
+    "desc": "Your fleet gains 6 FP and 3 EVA.",
+    "stats": [
+      {
+        "apply": [],
+        "stats": "Firepower",
+        "value": 6,
+        "type": "value"
+      },
+      {
+        "apply": [],
+        "stats": "Evasion",
+        "value": 3,
+        "type": "value"
+      }
+    ],
+    "level": 2,
+    "next": 162,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/xunyang_paoji_1.png",
+    "available": true
+  },
+  {
+    "id": 162,
+    "group_id": 16,
+    "name": "Adept Oceanographer",
+    "desc": "Your fleet gains 12 FP and 5 EVA.",
+    "stats": [
+      {
+        "apply": [],
+        "stats": "Firepower",
+        "value": 12,
+        "type": "value"
+      },
+      {
+        "apply": [],
+        "stats": "Evasion",
+        "value": 5,
+        "type": "value"
+      }
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/xunyang_paoji_2.png",
+    "available": true
+  },
+  {
     "id": 201,
     "group_id": 20,
     "name": "Torpedo Rookie - Submarines",
@@ -2315,6 +2363,60 @@
     "available": true
   },
   {
+    "id": 931,
+    "group_id": 93,
+    "name": "Rookie Helmsman - Vanguard",
+    "desc": "Your Vanguard gains 4 EVA.",
+    "stats": [
+      {
+        "apply": [],
+        "stats": "<Vanguard>EVA",
+        "value": 4,
+        "type": "value"
+      }
+    ],
+    "level": 1,
+    "next": 932,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/quzhu_one_1.png",
+    "available": true
+  },
+  {
+    "id": 932,
+    "group_id": 93,
+    "name": "Adept Helmsman - Vanguard",
+    "desc": "Your Vanguard gains 6 EVA.",
+    "stats": [
+      {
+        "apply": [],
+        "stats": "<Vanguard>EVA",
+        "value": 6,
+        "type": "value"
+      }
+    ],
+    "level": 2,
+    "next": 933,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/quzhu_one_2.png",
+    "available": true
+  },
+  {
+    "id": 933,
+    "group_id": 93,
+    "name": "Ace Helmsman - Vanguard",
+    "desc": "Your Vanguard gains 8 EVA.",
+    "stats": [
+      {
+        "apply": [],
+        "stats": "<Vanguard>EVA",
+        "value": 8,
+        "type": "value"
+      }
+    ],
+    "level": 3,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/quzhu_one_3.png",
+    "available": true
+  },
+  {
     "id": 2001,
     "group_id": 200,
     "name": "Rookie Officer - Destroyers",
@@ -4082,6 +4184,84 @@
         "stats": "Reload",
         "value": 10,
         "type": "value"
+      }
+    ],
+    "level": 1,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/special_one.png",
+    "available": true
+  },
+  {
+    "id": 5191,
+    "group_id": 519,
+    "name": "Banner of the Brave",
+    "desc": "Your whole fleet gains 8 FP, TRP, and AVI.",
+    "stats": [
+      {
+        "apply": [],
+        "stats": "Firepower",
+        "value": 8,
+        "type": "value"
+      },
+      {
+        "apply": [],
+        "stats": "Torpedo",
+        "value": 8,
+        "type": "value"
+      },
+      {
+        "apply": [],
+        "stats": "Aviation",
+        "value": 8,
+        "type": "value"
+      }
+    ],
+    "level": 1,
+    "next": 0,
+    "image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/meowfficer/talent/special_one.png",
+    "available": true
+  },
+  {
+    "id": 5201,
+    "group_id": 520,
+    "name": "Hardened Formation",
+    "desc": "Your BC, BB, and IXV gain 15 FP, and take 1.5% less DMG.",
+    "stats": [
+      {
+        "apply": [],
+        "stats": "<BC>FP",
+        "value": 15,
+        "type": "value"
+      },
+      {
+        "apply": [],
+        "stats": "<BB>FP",
+        "value": 15,
+        "type": "value"
+      },
+      {
+        "apply": [],
+        "stats": "<IXV>FP",
+        "value": 15,
+        "type": "value"
+      },
+      {
+        "apply": [],
+        "stats": "<BC>DMG Taken",
+        "value": -1.5,
+        "type": "percentage"
+      },
+      {
+        "apply": [],
+        "stats": "<BB>DMG Taken",
+        "value": -1.5,
+        "type": "percentage"
+      },
+      {
+        "apply": [],
+        "stats": "<IXV>DMG Taken",
+        "value": -1.5,
+        "type": "percentage"
       }
     ],
     "level": 1,

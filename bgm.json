@@ -4526,5 +4526,29 @@
     "bitrate": 160.0,
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-visioncity-pv.ogg"
+  },
+  "story-tempest-daily-light": {
+    "title": "story-tempest-daily-light",
+    "size": 1815791,
+    "duration": 85.01333333333334,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-tempest-daily-light.ogg"
+  },
+  "theme-crownpolis": {
+    "title": "theme-crownpolis",
+    "size": 1813506,
+    "duration": 92.33066666666667,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-crownpolis.ogg"
+  },
+  "theme-fogsea": {
+    "title": "theme-fogsea",
+    "size": 1604741,
+    "duration": 88.02133333333333,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-fogsea.ogg"
   }
 }
