@@ -9419,7 +9419,7 @@
     "id": 152940,
     "type": 3,
     "name": "I Shall Illuminate the Way",
-    "desc": "Every 4s: fires a Lv.1 (Lv.10) special shell (DMG is based on the skill's level); enemies hit by this special shell take 5.0% (15.0%) increased shelling DMG from Merkuriy (effect does not stack). Once per battle, when this special shell has been fired 4 times: fires a ￼Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) and reduces this ship's DMG taken by 15.0% (25.0%) until the end of battle (does not stack).",
+    "desc": "Every 4s: fires a Lv.1 (Lv.10) special shell (DMG is based on the skill's level); enemies hit by this special shell take 5.0% (15.0%) increased shelling DMG from Merkuriy (effect does not stack). Once per battle, when this special shell has been fired 4 times: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) and reduces this ship's DMG taken by 15.0% (25.0%) until the end of battle (does not stack).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152940.png",
     "max_level": 10
   },
@@ -9645,6 +9645,22 @@
     "name": "The Great One's Shadow+",
     "desc": "Increases this ship's AVI, AA, and ACC by 10.0% (20.0%). When the battle starts, if this ship has Sakura Empire aircraft equipped, or if there is another Sakura Empire ship in your fleet: increases all of this ship's weapon efficiencies by 1.0% (10.0%).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/19400.png",
+    "max_level": 10
+  },
+  "18410": {
+    "id": 18410,
+    "type": 3,
+    "name": "Engulfer of the Golden Vortex+",
+    "desc": "When this ship fires her torpedoes: applies [Engulfing Vortex] to all enemies on the battlefield for 5s; enemies affected by [Engulfing Vortex] are pulled in over effect's duration and have their SPD reduced by 30.0% (60.0%). As long as this ship is not Out of Ammo: increases this ship's EVA by 5.0% (15.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/19410.png",
+    "max_level": 10
+  },
+  "18430": {
+    "id": 18430,
+    "type": 1,
+    "name": "Jöttun's Jaws+",
+    "desc": "When this ship hits an enemy with her Main Guns: applies Armor Break to that enemy. Every 4 times this ship fires her Main Guns: fires a Lv.1 (Lv.10) enhanced special barrage (DMG is based on the skill's level); if equipped with a large-caliber Main Gun, the number of attacks needed to activate this enhanced special barrage is reduced to 2.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/19430.png",
     "max_level": 10
   },
   "18440": {
@@ -22813,6 +22829,22 @@
     "name": "Kitakaze Style - Horizon Splitter+",
     "desc": "At the start of battle, increases this ship's FP and ACC by 5.0% (15.0%), and generates a barrier for 30s that can absorb up to 5.0% (10.0%) of this ship's max HP. Every 10s during battle: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). This ship's Main Gun now ignores the enemy's armor type, and its DMG is further increased based on the skill's level (Lv.1 (Lv.10)). When this ship is equipped with a Sakura Empire main gun: increases Main Gun efficiency by 5.0% (15.0%).",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/19170.png",
+    "max_level": 10
+  },
+  "1012310": {
+    "id": 1012310,
+    "type": 1,
+    "name": "Swift Analysis+",
+    "desc": "Increases this ship's Crit Rate and Crit DMG by 10.0% (30.0%), and her Hit Rate against enemy DDs and CLs by 4.0% (10.0%). When this ship hits an enemy with her Main Guns: 30% chance to reduce that enemy's Evasion Rate by 4.0% (10.0%) for 6s. Every 15s after the start of battle: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/12310.png",
+    "max_level": 10
+  },
+  "1012500": {
+    "id": 1012500,
+    "type": 1,
+    "name": "Hellcat's Roar+",
+    "desc": "At the start of battle, increases this ship's AVI and ACC by 5.0% (15.0%). If this ship is equipped with an F6F Hellcat or an F6F Hellcat (HVAR-Mounted): 1) Increases this ship's Fighter efficiency by 10.0% (30.0%);\n2) When this ship launches an airstrike, launches an additional Lv.1 (Lv.10) aerial barrage with F6F Hellcats and F6F Hellcats (HVAR-Mounted) (DMG is based on the skill's level).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/12500.png",
     "max_level": 10
   },
   "1090010": {
