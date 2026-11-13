@@ -17895,6 +17895,62 @@
     "icon": null,
     "max_level": 1
   },
+  "118010": {
+    "id": 118010,
+    "type": 2,
+    "name": "Liliel's Healing",
+    "desc": "Every 18s: restores 1.0% (3.0%) of the whole fleet's HP. During battle, if an allied ship receives a healing effect exceeding her Max HP: that ship receives [Liliel's Blessing] (reduces DMG taken by 1.0% (5.0%) until the end of battle).\nOnce per battle, when another allied ship falls below 20.0% HP as a result of DMG taken: restores 5.0% (15.0%) of that ship's Max HP, then grants [Liliel's Blessing] to all ships in the fleet except Liliel Angel Paratroopers/Ririsa; after this effect activates (once per battle), the HP restoration effect of this skill is disabled.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/118010.png",
+    "max_level": 10
+  },
+  "118020": {
+    "id": 118020,
+    "type": 1,
+    "name": "Liliel's Explosion",
+    "desc": "At the start of battle, increases this ship's AVI by 5.0% (10.0%). 5s after the start of battle: immediately readies 1 airstrike; whenever this ship launches an airstrike: launches an additional Lv.1 (Lv.10) special attack (DMG is based on the skill's level and this ship's AVI stat).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/118020.png",
+    "max_level": 10
+  },
+  "118030": {
+    "id": 118030,
+    "type": 1,
+    "name": "Liliel's Explosion+",
+    "desc": "At the start of battle, increases this ship's AVI by 5.0% (10.0%). 5s after the start of battle: immediately readies 1 airstrike; whenever this ship launches an airstrike: launches an additional Lv.1 (Lv.10) special attack (DMG is based on the skill's level, this ship's AVI stat, and the number of allied ships that have been granted [Liliel's Blessing] in this battle).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/118020.png",
+    "max_level": 10
+  },
+  "118040": {
+    "id": 118040,
+    "type": 1,
+    "name": "Angel Paratroopers",
+    "desc": "During battle, increases the efficiency of this ship's first gear slot by 10.0%; if there are any other 2.5 Dimensional Seduction collab ships in the fleet (excluding this ship): further increases efficiency by an additional 5.0%.",
+    "icon": null,
+    "max_level": 1
+  },
+  "118050": {
+    "id": 118050,
+    "type": 1,
+    "name": "Miriella's Shot",
+    "desc": "At the start of battle, increases this ship's ACC and RLD by 5.0% (15.0%). Every 12 times this ship fires her Main Guns: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).\nEvery 10s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level); enemies hit by this special barrage take 8.0% increased DMG from Miriella Angel Paratroopers/Mikari for 6s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/118050.png",
+    "max_level": 10
+  },
+  "118060": {
+    "id": 118060,
+    "type": 2,
+    "name": "Miriella's Resonance",
+    "desc": "At the start of battle, increases this ship's EVA by 10.0% (20.0%). When this ship hits an enemy with her Main Guns: 15.0% (30.0%) chance to increase this ship's FP by 5.0% until the end of battle (can be stacked up to 3 times). When this ship takes DMG: 15.0% (30.0%) chance to reduce this ship's DMG taken by 10.0% (20.0%) for 5s (10s cooldown between activations).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/118060.png",
+    "max_level": 10
+  },
+  "118070": {
+    "id": 118070,
+    "type": 2,
+    "name": "Miriella's Resonance+",
+    "desc": "At the start of battle, increases this ship's EVA by 10.0% (20.0%). When this ship hits an enemy with her Main Guns: 15.0% (30.0%) chance to increase this ship's FP by 5.0% until the end of battle (can be stacked up to 3 times); when this effect reaches 3 stacks: increases the DMG dealt by this ship and another random allied ship by 5.0% until the end of battle (if the target of this effect is another 2.5 Dimensional Seduction collab ship, this effect is instead increased to 10.0%).\nWhen this ship takes DMG: 15.0% (30.0%) chance to reduce this ship's DMG taken by 10.0% (20.0%) for 5s (10s cooldown between activations); when this effect ends: deploys a shield (lasts 5s) that can negate up to 6 enemy shells.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/118060.png",
+    "max_level": 10
+  },
   "180000": {
     "id": 180000,
     "type": 3,

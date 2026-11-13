@@ -60802,6 +60802,114 @@
     ]
   },
   {
+    "gid": 1180001,
+    "name": "Liliel Angel Paratroopers/Ririsa",
+    "skins": [
+      {
+        "id": 11800010,
+        "gid": 1180001,
+        "name": "Liliel Angel Paratroopers/Ririsa",
+        "type": "Default",
+        "desc": "N-nice to meet you! I am Liliel, an angel who descended from the heavens to safeguard you! Wait, huh? Now that I think about it, where are we? This all looks so new to me... and more importantly, who are you?",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 291,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11800010/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11800010/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11800010/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11800010/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11800010/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11800010/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11800010/shipyard.png"
+      },
+      {
+        "id": 11800011,
+        "gid": 1180001,
+        "name": "Both in Heart and Mind",
+        "type": "Casual",
+        "desc": "The costume change sequence is what really makes your heart thump, huh? Ah, ahem! I am the angel Liliel, and I've awakened to a new power! Now I'm a true member of the port! I'll do my utmost to support you! Let's do this together~♡",
+        "tag": [
+          "dynamic",
+          "bg",
+          "bgm"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 291,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/196.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11800011/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11800011/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11800011/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11800011/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11800011/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11800011/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11800011/shipyard.png"
+      }
+    ]
+  },
+  {
+    "gid": 1180002,
+    "name": "Miriella Angel Paratroopers/Mikari",
+    "skins": [
+      {
+        "id": 11800020,
+        "gid": 1180002,
+        "name": "Miriella Angel Paratroopers/Mikari",
+        "type": "Default",
+        "desc": "What in the world is happening? Wait, where am I?! Hm... I don't know how, but it looks like you're not out to get me. Okay! Ahem! My name is Miriella! It seems like we'll be stuck together for a while, so let me know if there's anything I can do to help!",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 82,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11800020/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11800020/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11800020/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11800020/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11800020/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11800020/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11800020/shipyard.png"
+      },
+      {
+        "id": 11800021,
+        "gid": 1180002,
+        "name": "For My Lucky Star",
+        "type": "Casual",
+        "desc": "Guten tag, Commander. I am on a whole new power level now! There's no enemy that can stand before Super Miriella! ...Did I get the delivery right? In any case, how's my new look? I think it fits me pretty well, but I'd like to hear your opinion.",
+        "tag": [
+          "dynamic",
+          "bg",
+          "bgm"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 82,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/196.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11800021/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11800021/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11800021/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11800021/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11800021/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11800021/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/11800021/shipyard.png"
+      }
+    ]
+  },
+  {
     "gid": 29901,
     "name": "Neptune",
     "skins": [
