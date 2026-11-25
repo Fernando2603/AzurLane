@@ -9447,6 +9447,22 @@
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152960.png",
     "max_level": 10
   },
+  "152990": {
+    "id": 152990,
+    "type": 3,
+    "name": "The Decadent Little Imp",
+    "desc": "During battle, increases the loading time of this ship's Main Guns by 25.0%; however, when this ship fires her Main Guns for the first time each battle, she gains Main Gun base +1 and +5.0% (15.0%) FP until the end of battle.\nOnce per battle, if this ship's total DMG taken reaches 5.0% of her Max HP, she gains the following effect: [Until the end of battle, whenever this ship fires her Main Guns: fires an additional Lv.1 (Lv.10) special barrage (DMG is based on the skill's level).]\nWhen this ship takes DMG while her Main Guns are reloading: increases the FP and ACC of her next Main Gun attack by 1.0% (3.0%) (stacks up to 5 times).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/152990.png",
+    "max_level": 10
+  },
+  "153000": {
+    "id": 153000,
+    "type": 2,
+    "name": "Masochistic Delusions",
+    "desc": "During battle, reduces this ship's SPD by 10, and absorbs 5.0% (10.0%) of the DMG taken by the frontmost Vanguard ship.\nOnce per battle, when this ship's HP falls below 60.0% as a result of DMG taken: this ship enters the [Masochistic] state for 10s (20s cooldown between activations).\nWhile this ship is in the [Masochistic] state: this ship is unable to fire her secondary guns, but her DMG absorption effect is increased to 10.0% (15.0%) and now covers the entire Vanguard fleet. When the [Masochistic] state ends: restores HP equal to 20.0% (50.0%) of the total DMG taken during the [Masochistic] state.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/153000.png",
+    "max_level": 10
+  },
   "153010": {
     "id": 153010,
     "type": 1,
@@ -9469,6 +9485,38 @@
     "name": "Superheavy Firepower Network+",
     "desc": "At the start of battle: increases this ship's FP by 15.0% (30.0%), ACC by 10.0% (20.0%), and changes this ship's Armor type to Medium. Every 15s: fires a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). Once per battle, when this barrage has hit enemies a total of 6 times: increases this ship's Crit Rate and Crit DMG by 1.0% (10.0%) until the end of battle.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/153010.png",
+    "max_level": 10
+  },
+  "153060": {
+    "id": 153060,
+    "type": 1,
+    "name": "Explosions are my Art",
+    "desc": "At the start of battle, increases this ship's FP and RLD by 5.0% (15.0%). When this ship fires her Main Guns: 40.0% (70%) chance to fire a Lv.1 (Lv.10) special barrage (DMG is based on the skill's level), reducing the ACC of enemies hit by this barrage by 10.0% for 8s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/153060.png",
+    "max_level": 10
+  },
+  "153070": {
+    "id": 153070,
+    "type": 3,
+    "name": "Collecting is my Uniqueness",
+    "desc": "At the start of battle, if there are no other ships in the Main Fleet: increases this ship's DMG dealt by 5.0% (15.0%), and reduces the loading time of her first Main Gun salvo by 50.0% (80.0%).If there are at least 2 ships in the Main Fleet: reduces this ship's DMG taken by 5.0% (15.0%).",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/153070.png",
+    "max_level": 10
+  },
+  "153090": {
+    "id": 153090,
+    "type": 1,
+    "name": "Banner-Burner's Bullet",
+    "desc": "Sets the targeting range and firing range of this ship's equipped Main Guns to 80 and increases this ship's DMG against Heavy armor by 5.0% (20.0%). During battle, every time this ship fires her Main Guns 5 times: fires an additional Lv.1 (Lv.10) special shell (DMG is based on the skill's level); every 2 times this special shell is fired: fires an additional Lv.1 (Lv.10) special barrage (DMG is based on the skill's level) that inflicts a special Burn on all enemies hit, dealing 160 DMG per second for 8s. When this special barrage is fired: removes any normal Burn effects on this ship.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/153090.png",
+    "max_level": 10
+  },
+  "153100": {
+    "id": 153100,
+    "type": 2,
+    "name": "Praxis of Mutual Aid",
+    "desc": "If there are other Northern Parliament ships in the fleet: reduces all Northern Parliament ships' Burn DMG taken by 5.0% (15.0%). Every 5s during battle, or whenever this ship fires her AA guns: increases this ship's AA by 1.5% (6.0%) until the end of combat (stacks up to 3 times); when this effect reaches 3 stacks: reduces this ship's DMG taken by 1.0% (10.0%) until the end of battle, and restores 5.0% of the Vanguard fleet's Max HP.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/153100.png",
     "max_level": 10
   },
   "18010": {
@@ -15445,6 +15493,22 @@
     "name": "All Out Assault II",
     "desc": "Activates All Out Assault II: Merkuriy once every 20 times the Main Guns are fired.",
     "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30740.png",
+    "max_level": 1
+  },
+  "30751": {
+    "id": 30751,
+    "type": 1,
+    "name": "All Out Assault I",
+    "desc": "Activates All Out Assault I: Molotov once every 12 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30750.png",
+    "max_level": 1
+  },
+  "30752": {
+    "id": 30752,
+    "type": 1,
+    "name": "All Out Assault II",
+    "desc": "Activates All Out Assault II: Molotov once every 8 times the Main Guns are fired.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/30750.png",
     "max_level": 1
   },
   "101010": {
@@ -21485,6 +21549,54 @@
     "name": "Ashen Might - Saratoga II",
     "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 8.0%.",
     "icon": null,
+    "max_level": 1
+  },
+  "802410": {
+    "id": 802410,
+    "type": 1,
+    "name": "Judgment upon Sinners",
+    "desc": "At the start of battle, increases this ship's AA and ASW by 1.0% (10.0%). Every 20s during battle: restores 1.0% (5.0%) HP to the Iris or Vichya ship with the lowest HP percentage in the fleet, and activates one of the following effects:\n1) Increases this ship's FP and TRP by 10.0% (20.0%) for 10s;2) Increases this ship's Crit Rate and Crit DMG by 10.0% (20.0%) for 10s;3) Increases this ship's ACC and RLD by 10.0% (20.0%) for 10s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802410.png",
+    "max_level": 10
+  },
+  "802420": {
+    "id": 802420,
+    "type": 3,
+    "name": "Sin-Eaters' Purgation",
+    "desc": "At the start of battle, increases this ship's Main Gun and Torpedo efficiency by 1.0% (10.0%). When this ship fires her torpedoes: fires an additional Lv.1 (Lv.10) special barrage (DMG is based on the skill's level). Enemies hit by this barrage take 4.5% (12.0%) more DMG from Kersaint META for 8s.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802420.png",
+    "max_level": 10
+  },
+  "802431": {
+    "id": 802431,
+    "type": 3,
+    "name": "Cinders of Hope - Kersaint I",
+    "desc": "Every 15 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802430.png",
+    "max_level": 1
+  },
+  "802432": {
+    "id": 802432,
+    "type": 3,
+    "name": "Cinders of Hope - Kersaint II",
+    "desc": "Every 10 times this ship fires her Main Guns: fires a special barrage.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802430.png",
+    "max_level": 1
+  },
+  "802435": {
+    "id": 802435,
+    "type": 3,
+    "name": "Cinders of Hope - Kersaint I",
+    "desc": "[Operation Siren] Every 15 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: reduces this ship's DMG taken by 2.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802430.png",
+    "max_level": 1
+  },
+  "802437": {
+    "id": 802437,
+    "type": 3,
+    "name": "Cinders of Hope - Kersaint II",
+    "desc": "[Operation Siren] Every 10 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: reduces this ship's DMG taken by 6.0%.",
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skill/802430.png",
     "max_level": 1
   },
   "802340": {

@@ -4550,5 +4550,21 @@
     "bitrate": 160.0,
     "sample_rate": 48000,
     "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/theme-fogsea.ogg"
+  },
+  "story-magicschool-pv": {
+    "title": "story-magicschool-pv",
+    "size": 1972032,
+    "duration": 90.368,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-magicschool-pv.ogg"
+  },
+  "story-richang-afterschool": {
+    "title": "story-richang-afterschool",
+    "size": 2172196,
+    "duration": 117.01333333333334,
+    "bitrate": 160.0,
+    "sample_rate": 48000,
+    "link": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/audio/bgm/story-richang-afterschool.ogg"
   }
 }

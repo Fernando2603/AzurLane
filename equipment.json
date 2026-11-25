@@ -110897,5 +110897,102 @@
       20,
       21
     ]
+  },
+  "151320": {
+    "name": "Mage's Grimoire",
+    "desc": "Turn the pages, and the words of power locked within will leap forth on their own!",
+    "label": [
+      "SN",
+      "DEV"
+    ],
+    "rarity": 4,
+    "nationality": 7,
+    "type": 10,
+    "skill": {
+      "61180": {
+        "id": 61180,
+        "name": "Mage's Grimoire",
+        "desc": "For the first 30s of battle: increases the frontmost Vanguard ship's FP and TRP by 3.0%, and reduces her DMG taken by 3.0%."
+      }
+    },
+    "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/equipment/151320.png",
+    "stats": {
+      "1": {
+        "id": 151320,
+        "level": 1,
+        "enhance": "+0",
+        "durability": 150
+      },
+      "2": {
+        "id": 151321,
+        "level": 2,
+        "enhance": "+1",
+        "durability": 180
+      },
+      "3": {
+        "id": 151322,
+        "level": 3,
+        "enhance": "+2",
+        "durability": 210
+      },
+      "4": {
+        "id": 151323,
+        "level": 4,
+        "enhance": "+3",
+        "durability": 240
+      },
+      "5": {
+        "id": 151324,
+        "level": 5,
+        "enhance": "+4",
+        "durability": 270
+      },
+      "6": {
+        "id": 151325,
+        "level": 6,
+        "enhance": "+5",
+        "durability": 300
+      },
+      "7": {
+        "id": 151326,
+        "level": 7,
+        "enhance": "+6",
+        "durability": 330
+      },
+      "8": {
+        "id": 151327,
+        "level": 8,
+        "enhance": "+7",
+        "durability": 360
+      },
+      "9": {
+        "id": 151328,
+        "level": 9,
+        "enhance": "+8",
+        "durability": 390
+      },
+      "10": {
+        "id": 151329,
+        "level": 10,
+        "enhance": "+9",
+        "durability": 420
+      },
+      "11": {
+        "id": 151330,
+        "level": 11,
+        "enhance": "+10",
+        "durability": 450
+      },
+      "12": {
+        "id": 151331,
+        "level": 12,
+        "enhance": "+11",
+        "anti_siren": 1,
+        "durability": 475
+      }
+    },
+    "important": true,
+    "equip_limit": 151320,
+    "ship_type_forbidden": []
   }
 }

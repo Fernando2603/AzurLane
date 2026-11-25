@@ -17866,6 +17866,31 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/202351/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/202351/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/202351/shipyard.png"
+      },
+      {
+        "id": 202352,
+        "gid": 20235,
+        "name": "Trial of Refreshing Blessings",
+        "type": "Swimsuits",
+        "desc": "Master! You've finally come to join me in this trial to receive the blessings of love! Heehee~ Whatever you do, don't dodge the pillars of water, as it is the gods' acknowledgement of our bond – Pffbwuh! The book didn't say anything about such an intense blessing!",
+        "tag": [
+          "dynamic+",
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 453,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/610.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/202352/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/202352/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/202352/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/202352/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/202352/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/202352/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/202352/shipyard.png"
       }
     ]
   },
@@ -43892,6 +43917,30 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/408042/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/408042/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/408042/shipyard.png"
+      },
+      {
+        "id": 408043,
+        "gid": 40804,
+        "name": "Little Imp's Premium Parfait",
+        "type": "Maid",
+        "desc": "Willkommen zurück, Commander! Today, I'll be your lovely little imp maid~♪ Look, I already have your dessert ready, so hurry up and take a seat~",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 38,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/194.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/408043/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/408043/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/408043/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/408043/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/408043/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/408043/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/408043/shipyard.png"
       }
     ]
   },
@@ -50110,6 +50159,59 @@
     ]
   },
   {
+    "gid": 70213,
+    "name": "Molotov",
+    "skins": [
+      {
+        "id": 702130,
+        "gid": 70213,
+        "name": "Molotov",
+        "type": "Default",
+        "desc": "Project 26bis cruiser - Molotov.",
+        "tag": [],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 531,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702130/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702130/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702130/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702130/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702130/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702130/shipyard.png"
+      },
+      {
+        "id": 702131,
+        "gid": 70213,
+        "name": "A Vacation Worth Every Last Point",
+        "type": "Swimsuits",
+        "desc": "Comrade Commander, since it's our day off, how about you make me your vacation partner? I'd also like to use up all my points... to enjoy this relaxing time... with you.",
+        "tag": [
+          "l2d+",
+          "bg"
+        ],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 531,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/610.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702131/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702131/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702131/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702131/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702131/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/702131/shipyard.png"
+      }
+    ]
+  },
+  {
     "gid": 70203,
     "name": "Chapayev",
     "skins": [
@@ -51080,6 +51182,111 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705091/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705091/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705091/shipyard.png"
+      }
+    ]
+  },
+  {
+    "gid": 70510,
+    "name": "Sinop",
+    "skins": [
+      {
+        "id": 705100,
+        "gid": 70510,
+        "name": "Sinop",
+        "type": "Default",
+        "desc": "1917 Black Sea battleship - Sinop.",
+        "tag": [],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 532,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705100/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705100/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705100/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705100/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705100/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705100/shipyard.png"
+      },
+      {
+        "id": 705101,
+        "gid": 70510,
+        "name": "Rippling Delusions",
+        "type": "Swimsuits",
+        "desc": "S-sorry, Commander... I know I asked you to help me with a photoshoot, but I still got nervous and ended up dragging you into the water. As an apology, please feel free to order me around and punish me. You can handle me however you see fit... *blush*",
+        "tag": [
+          "dynamic",
+          "bg"
+        ],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 532,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/164.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705101/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705101/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705101/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705101/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705101/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705101/shipyard.png"
+      }
+    ]
+  },
+  {
+    "gid": 70511,
+    "name": "Imperatritsa Mariya",
+    "skins": [
+      {
+        "id": 705110,
+        "gid": 70511,
+        "name": "Imperatritsa Mariya",
+        "type": "Default",
+        "desc": "Imperatritsa Mariya-class battleship - Imperatritsa Mariya.",
+        "tag": [],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 533,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705110/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705110/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705110/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705110/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705110/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705110/shipyard.png"
+      },
+      {
+        "id": 705111,
+        "gid": 70511,
+        "name": "Swaying Emotions",
+        "type": "Swimsuits",
+        "desc": "From atop the Ferris wheel, the rest of the amusement park looks like little more than an elaborately designed exhibition piece. But, this height... Your Excellency, could I hold onto you for a bit? Without your body heat, it'll be hard for me to enjoy the view in peace...",
+        "tag": [
+          "bg"
+        ],
+        "illustrator": 1,
+        "illustrator2": -1,
+        "voice_actor": 533,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/background/180.png",
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705111/painting.png",
+        "painting_n": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705111/painting_n.png",
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705111/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705111/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705111/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705111/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/705111/shipyard.png"
       }
     ]
   },
@@ -64157,7 +64364,7 @@
         "type": "Hospital Series",
         "desc": "Oh my... It seems I have wandered my way into a strange place, and now I'm being treated as a patient... Well, with a doctor like you, I would be more than glad to play the role, my Dr. Commander.♪",
         "tag": [
-          "live2d",
+          "l2d+",
           "bg"
         ],
         "illustrator": -1,
@@ -66579,6 +66786,34 @@
         "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9701130/icon.png",
         "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9701130/qicon.png",
         "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9701130/shipyard.png"
+      }
+    ]
+  },
+  {
+    "gid": 970114,
+    "name": "Kersaint META",
+    "skins": [
+      {
+        "id": 9701140,
+        "gid": 970114,
+        "name": "Kersaint META",
+        "type": "Default",
+        "desc": "Pleased to make your acquaintance, Commander. I am Kersaint, a nun under the Order of the Black Sun. Please do not mind my... disquieting attire. Even in darkness, I swear to bring forth the light.",
+        "tag": [],
+        "illustrator": -1,
+        "illustrator2": -1,
+        "voice_actor": 380,
+        "voice_actor2": -1,
+        "bgm": null,
+        "background": null,
+        "background2": null,
+        "painting": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9701140/painting.png",
+        "painting_n": null,
+        "banner": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9701140/banner.png",
+        "chibi": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9701140/chibi.png",
+        "icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9701140/icon.png",
+        "qicon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9701140/qicon.png",
+        "shipyard": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9701140/shipyard.png"
       }
     ]
   }
